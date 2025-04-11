@@ -1,0 +1,44 @@
+title: One Click
+other_names:
+  - '"OneClick.Fi"'
+parent: null
+description: OneClick.Fi offers an all-in-one DeFi onboarding platform to help
+  web3 users get access to the best DeFi protocols/opportunities in one click
+  with simple UX, gamification, and AI-powered risk assessments.
+links:
+  website: https://oneclick.fi
+  blog: https://https://medium.com/oneclickfi
+  x: https://x.com/oneclickfi
+  linkedin: https://linkedin.com/company/oneclickfi/
+  discord_server: https://discord.gg/oneclickfi
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/One-Click-Crypto
+linktree: null
+attributes:
+  category: Applications
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - Europe&CentralAsia
+  country: Netherlands
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/8ZZjkdNmw5Nk9Pq_AkSkPw/QTd0bRKwHka9O_wIwxt3N8gsk-xiGhQroIIQc6ma2-BzcJ9_OLQur1prPu4oG9-uz_6pHjs7VMzudGSkW7JvtlEYniA_vSOgO06uqLLTm4Ky5CgPoiOL7Tw4S7gqdK5ct64rGkMZWWJjAVnRaqmnWQ/fpv_ggAlNKqK6RbnfKpzMzJ6wotdPbFeQBMfwIe9dCU
+  banner: null
+scf:
+  awarded_submissions:
+    - " OneClick.Fi: front page of Stellar DeFi"
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recVvr1MlNxJEIRvs
+  awarded_round:
+    - "SCF #32"
+  awarded_total: 150000
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
