@@ -1,0 +1,41 @@
+title: EarnBIT
+other_names: null
+parent: null
+description: EU licensed CEX with dedicated Launchpad on Stellar, followed by
+  video streaming service.
+links:
+  website: https://earnbit.com
+  blog: https://https://medium.com/@earnbit1
+  x: https://x.com/Earnbit2
+  linkedin: https://linkedin.com/company/earnbit/
+  discord_server: null
+  telegram: https://t.me/earnbit_official_eng
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Launchpad
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: Lithuania
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/R2VFGARChClWDfYqbMuJ9g/N-Xoba9X8EKVBri0fEq-n9FovPtTZdfDwS0pOUO-hHZC8at82S03HJHjlEW3G_aUe-8SuR8T1_Xeg2FAsSy6oMC9TyiAyodxNd8hH2XlP_1h3wRCkpKu7d_9pzLM-U9CRSh01R5asAQQHDqGgWAAlJiSadJeVkt6hxKnCFfxHxY0xiRwcyMbCyBMTuMOAHf5/JiV_af8Hf_KXsqWXc9qDSyRHnD_hZSjzXEnOvv_DoZI
+  banner: null
+scf:
+  awarded_submissions:
+    - EarnBIT x Stellar
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec0xYw97aaoZa9lA
+  awarded_round:
+    - "SCF #26"
+  awarded_total: 47293
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
