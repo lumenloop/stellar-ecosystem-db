@@ -1,6 +1,6 @@
 title: GrantPicks
 other_names:
-  - '"GrantPicks by PotLock"'
+  - GrantPicks by PotLock
 parent: null
 description: GrantPicks by Potlock is a Soroban-enabled funding platform using
   pairwise voting to easily allocate grants to Stellar projects.
