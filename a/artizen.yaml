@@ -1,0 +1,48 @@
+title: Artizen
+other_names: null
+parent: null
+description: Artizen is a match funding platform. We help brads 10x growth for
+  their ecosystems by funding breakthroughs in art, science, and technology.
+links:
+  website: https://artizen.fund
+  blog: null
+  x: https://x.com/artizenfund
+  linkedin: https://linkedin.com/company/artizen-fund/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/artizen_fund/
+  reddit: null
+  tiktok: null
+  github: https://github.com/artizen-fund
+linktree: null
+attributes:
+  category: Sustainability & Public Goods
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - LatinAmerica&Caribbean
+    - SouthAsia
+    - EastAsia&Pacific
+    - MiddleEast&NorthAfrica
+    - Europe&CentralAsia
+    - NorthAmerica(withoutMexico)
+    - Sub-SaharanAfrica
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/VBNbJ87AuI0n_rzJY97vKQ/IGUUg1C6-VRKpev0yoopTCqsRk_c7sMZCgG8Hqf5sFU46rKdQ3dmd7uxWF1QlP6rxck7GwX4Y4UBswl33P6pg2k7y5Mq4eLZs7DOnxddG1bUCKSGG-qo8syVnXtZbjtfMWbxmjrKq1pPXWxUxQTYBQ/Mr6GFWxTr2nelLk19gATtZmcjXUhdg2ZyIZgtQDMZRI
+  banner: null
+scf:
+  awarded_submissions:
+    - Funding Human Creativity
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recbMhw9t64VaUFUP
+  awarded_round:
+    - "SCF #33"
+  awarded_total: 130000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
