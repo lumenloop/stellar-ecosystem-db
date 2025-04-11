@@ -1,0 +1,47 @@
+title: CoinSender
+other_names: null
+parent: null
+description: CoinSender is a platform designed to streamline cryptocurrency
+  payouts and token distribution for businesses and projects. It offers features
+  such as wallet integration, smart contract-based token distribution,
+  decentralized database for transaction tracking, security compliance, billing
+  tools, multi-network support, time-saving automated processes, and an
+  intuitive interface.
+links:
+  website: https://coinsender.io
+  blog: https://https://medium.com/@coinsender
+  x: https://x.com/coinsender
+  linkedin: https://linkedin.com/company/coinsender/
+  discord_server: https://discord.gg/kTPP9EBXxr
+  telegram: https://t.me/community_coinsender
+  youtube: https://youtube.com/@CoinSender
+  instagram: https://instagram.com/coin_sender
+  reddit: https://reddit.com/r/CoinSender/
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services:
+    - Europe&CentralAsia
+    - NorthAmerica(withoutMexico)
+  country: " Spain"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/8AV-G6uYGNVMj6eNV2OppA/H6mkVEXwiT_JO--Mns2r4gbyWuAHW2Ju0d8svFxeIgCk_83PPlszNy1s8j0E6fwNLq3wPke1bFO8CxEul1iada6wBomJe9LReXFTGoTN8tlPSsSck6A-N04hrZVZTvLnsxnvTCbJv7_yGLXLDSj5mQ/3pGu4GeFy5WKQj23NuYhhPU4ZiiYVp-j5er7m18MEeQ
+  banner: null
+scf:
+  awarded_submissions:
+    - CoinSender
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recSZFx6ph1UtAS2N
+  awarded_round:
+    - "SCF #24"
+  awarded_total: 23440
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
