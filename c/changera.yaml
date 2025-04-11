@@ -1,0 +1,40 @@
+title: Changera
+other_names: null
+parent: null
+description: Changera is an international money transfer app that enables users
+  to send and receive money in multiple currencies, including Naira, Euros,
+  Dollars, Pounds, Cedis, and Kenyan Shillings, facilitating global payments and
+  offering features like virtual bank accounts and social money sharing.
+links:
+  website: https://changera.co
+  blog: https://https://blog.changera.co/
+  x: https://x.com/ChangeraApp
+  linkedin: https://linkedin.com/company/changerainc/mycompany/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/changeraapp
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
