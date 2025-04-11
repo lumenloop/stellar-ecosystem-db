@@ -1,0 +1,40 @@
+title: Cosmic.link
+other_names: null
+parent: null
+description: Transactions over URL.
+links:
+  website: https://Cosmic.link
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/cosmic-plus/https-cosmic-link
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions:
+    - Cosmic.link ~ Transactions over URL
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recIehhTK99OHm3UH
+  awarded_round:
+    - "SCF #3"
+  awarded_total: 0
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
