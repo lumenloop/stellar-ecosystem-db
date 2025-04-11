@@ -1,0 +1,43 @@
+title: MugglePay
+other_names:
+  - '"MugglePay: Stripe for Stellar"'
+parent: null
+description: Help merchants accept crypto on Stellar through autoswap smarts
+  contract built on Soroban. (e.g. pay-in XLM, pay-out USDC).
+links:
+  website: https://mugglepay.com
+  blog: https://https://blog.mugglepay.com/
+  x: https://x.com/paymuggle
+  linkedin: https://linkedin.com/company/mugglepay/
+  discord_server: null
+  telegram: https://t.me/+t_CPv22Ur95kMDVh
+  youtube: https://youtube.com/channel/UC0KIW8hSxcgVfClkbB-XG0g
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/mugglepay
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - EastAsia&Pacific
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/TlQI7esZyYsqgPl_VSfs3w/WAX5PQb0eup_uiQxg7D6HIH9ffG5CI9yg-32qfIOHDWq9FN3hyTMExsEVH-CclhOt-z_TqY2Hi4Z09pVNTOw5790GPYsQRHJpso5thqmXw0wnR4FMgdwNXW4RlJID9jGB_PHfTzf1dS9CuNccOcb314F7K63iCfV75JQTOl7wTc/4xliA7wDY8wI41t75a2lnWCATu9MGi-EgiLfu3XwpFg
+  banner: null
+scf:
+  awarded_submissions:
+    - "MugglePay: Stripe for Stellar"
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recdpGqD8HIslsaOT
+  awarded_round:
+    - "SCF #30"
+  awarded_total: 28000
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
