@@ -1,0 +1,47 @@
+title: Obsrvr
+other_names:
+  - '"Horizon-as-a-Service"'
+parent: null
+description: Whether you're looking for Soroban RPC nodes, or Horizon API
+  Access, Obsrvr offers production ready, infrastructure to help you build on
+  the Stellar network with a few clicks.
+links:
+  website: https://withobsrvr.com
+  blog: https://https://withobsrvr.com/blog
+  x: https://x.com/withobsrvr
+  linkedin: https://linkedin.com/company/obsrvr/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/withObsrvr/nomad-pack-web3-registry
+linktree: null
+attributes:
+  category: RPC & Nodes
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - NorthAmerica(withoutMexico)
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/WAUN-p25rg1r_SvrOVbrwg/bIturbjyg5oCsdUk9VI-Mx7yl5zZ7CJUi3bg1JvSa7IHHBGKc0IIKVKP7IAsEf4OdyCyo8tvdBZH9gFqNjFxpLK-A8pAUrVMdhDgt0H1WUfvv7VzQvE1WzJjc5ffaV9EUdAcDTBhvCPb8QRk88aD1A/jLmrpAGmW8tXgykGfdXAXbd5khUFps_IulRy-cFmbHs
+  banner: null
+scf:
+  awarded_submissions:
+    - Horizon-as-a-service
+    - Horizon-as-a-Service
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recekYNQEoPjP1Did
+    - https://communityfund.stellar.org/dashboard/submissions/recYP22jRMBNgKhaU
+  awarded_round:
+    - "SCF #11"
+    - "SCF #13"
+  awarded_total: 32500
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
