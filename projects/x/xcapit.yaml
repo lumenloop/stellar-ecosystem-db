@@ -23,9 +23,9 @@ attributes:
   tags: []
   smart_contracts: true
   regions_services:
-    - NorthAmerica(withoutMexico)
-    - LatinAmerica&Caribbean
-  country: " Argentina"
+    - North America (without Mexico)
+    - Latin America & Caribbean
+  country: Argentina
 images:
   icon: null
   thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/q9jcOLSS-PxzsM0iK-SyEQ/HOGwPeL5UqKTaoXMUlEuM8h0aEWaBCiBR1IzjSsZ2mE7lWOTo-e9fMWBEk9Jz4Z0D0SHWHyi4uQ7uEf1df1TcaaLW4gz9Fv03CRTLCdRrGISmOe_fiSRC_oJ7IDuwSsipFBoEJapdiLaaPfaR6XHEw/cTdBW7hZbkuMXi9pMpB5rAREwVqlujuqHKs6KbadiMc
