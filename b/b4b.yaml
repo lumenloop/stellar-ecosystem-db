@@ -1,0 +1,46 @@
+title: B4B
+other_names:
+  - '"B4B.app "'
+parent: null
+description: Web3 influencer/KOLs protocol brings transparency, escrow USDC
+  payments, and on-chain history for all Socials.
+links:
+  website: https://b4b.app
+  blog: https://https://medium.com/@b4b.world
+  x: https://x.com/b4b_world
+  linkedin: https://linkedin.com/company/b4b-world/
+  discord_server: https://discord.gg/cx6xndBz
+  telegram: https://t.me/CalimeroOfficial
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://gitlab.com/b4b-world
+linktree: null
+attributes:
+  category: Social
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - Nospecificregionofoperation
+  country: Singapore
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/Jz_AIIQ0p1aL2-m7BTkrrg/FCIkV5-uwv7Wqa3x1Q3eqoC8R8wizrcavIHdeBySF7slAHwumRKthA6ZeVwoOtzc05-p0ZKKkWDe8CFGj_4YaroD0KKlDIRhBjfypYHHWm-gCh0aw2i8zdfcT--dKoJqprykOCC1A_dOUmOI0ltb6w/DHSmaiV5JXkCi7QPMSJJMReDeesVxpvQmWQT5KjF2iY
+  banner: null
+scf:
+  awarded_submissions:
+    - B4B - Influencer/KOLs protocol
+    - Influencer protocol with deposits on Soroban
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recUJPxEC1NhY3hU8
+    - https://communityfund.stellar.org/dashboard/submissions/recCKZxVBYc2jgue4
+  awarded_round:
+    - "SCF #27"
+    - "SCF #31"
+  awarded_total: 130000
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
