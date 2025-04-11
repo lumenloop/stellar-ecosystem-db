@@ -1,0 +1,49 @@
+title: Skyhitz
+other_names: null
+parent: null
+description: Skyhitz is at the forefront of the evolving music industry,
+  leveraging blockchain technology to revolutionize how music is created,
+  shared, and monetized.
+links:
+  website: https://skyhitz.io
+  blog: https://https://skyhitz.io/blog
+  x: https://x.com/skyhitz
+  linkedin: https://linkedin.com/company/skyhitz/
+  discord_server: https://discord.com/invite/2C3HzsPEuZ
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/skyhitz
+  reddit: null
+  tiktok: null
+  github: https://github.com/skyhitz
+linktree: null
+attributes:
+  category: NFT
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - Nospecificregionofoperation
+  country: " Colombia"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/W6r0Y9xpRdbxJNRRoTwA0w/49kerV0rE9yPOhQrp2Txw0amXQb31Io5lEKhf8CKHdO5KYFeK6r_rmJigP5IN-SlVdJ6Dvfis5eW6nrhNqXv9o6m2YgCEPQGW_lXnjqoY8uPHtG2M3ogjNLQaHZ92WSa56mMIZKXbTrw7CmwPLTyNQ/mE7y--HcC4cE5z8EwHiiJseppwg0B9_Pl3VBhk--K-E
+  banner: null
+scf:
+  awarded_submissions:
+    - Skyhitz
+    - Skyhitz II
+    - Music Meets Smart Contracts
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/reclNj9OycGGm4lKW
+    - https://communityfund.stellar.org/dashboard/submissions/recgnjAu0uHmoQNGJ
+    - https://communityfund.stellar.org/dashboard/submissions/rec0jaspuekXupv9N
+  awarded_round:
+    - "SCF #9"
+    - "SCF #10"
+    - "SCF #30"
+  awarded_total: 255000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
