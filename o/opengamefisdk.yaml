@@ -1,0 +1,45 @@
+title: "Open GameFi SDK "
+other_names: null
+parent: null
+description: The Stellar GameFi SDK is an open-source toolkit that integrates
+  Stellar blockchain functionality with Colyseus.js, enabling developers to
+  build and deploy blockchain-based games efficiently.The Stellar GameFi SDK is
+  an open-source toolkit that integrates Stellar blockchain functionality with
+  Colyseus.js, enabling developers to build and deploy blockchain-based games
+  efficiently.
+links:
+  website: https://github.com/yanis7774/Stellar-GameFi-integration/tree/main
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/yanis7774/Stellar-GameFi-integration
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/hWCrKG0foSUX_iDuGd2-dQ/j-3qvts_Ot8_WLTDPJBb_IMQjSGjTR8teRiAH9uv2dl8RpkoHTf00PS8YNGNIHO9vYRJY_N60U2a5S7pCTK8b93yhziReA3eyZIUPCWti3dkhBvokZ9Vhk06S9uZYYWttvFnj7cLlA4VZhMZ3KvL-pzC8KzmUsS79C0LqNwN6iPiQ-eXOYCKmzIUMgXRzUC-/goH1oLjcIUc1aCT2sJHwmQMn3RCxfUDFDqHyRL7_Sno
+  banner: null
+scf:
+  awarded_submissions:
+    - "Open GameFi SDK "
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recchyWjFSmOPmvZl
+  awarded_round:
+    - "SCF #28"
+  awarded_total: 39000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
