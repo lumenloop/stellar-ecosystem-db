@@ -1,0 +1,40 @@
+title: Hi Fifo
+other_names: null
+parent: null
+description: Hi Fifo! is a YouTube channel focused on simplifying Web3, DeFi,
+  and blockchain concepts through educational tutorials and discussions. It
+  helps viewers understand decentralized technologies and navigate the evolving
+  crypto landscape, especially Stellar's.
+links:
+  website: https://youtube.com/@hififo
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Content & News
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
