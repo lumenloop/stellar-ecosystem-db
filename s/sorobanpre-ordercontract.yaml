@@ -1,0 +1,42 @@
+title: Soroban Pre-Order Contract
+other_names: null
+parent: null
+description: SPOC is a Soroban smart contract that manages "first come, first
+  served" sales by acting as an escrow, ensuring fair transactions between
+  buyers and sellers.
+links:
+  website: https://github.com/aolieman/soroban-pre-order
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/aolieman/soroban-pre-order
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/VzmC_JksrqrppYFmMqpwhg/GOaSuPWSw8uothGokJ01KKNSOeXZplVj83Ae1cNEqTAWgwWrTFkbadpJNvThHGYo_iopYREDL5J9QpDptmP-DZ3NiJMB_oElEAW_icEaV5xAmwHU_8nILNEjZQ9g8Z6I475K6gG3eFiGqFeWkN22ng/2XuXuv2oGHEZSi_MCFoX8MMkxK0G_76_ud3cI1bBQrU
+  banner: null
+scf:
+  awarded_submissions:
+    - Soroban Pre-Order Contract
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recROR4Y8QHKD5rDF
+  awarded_round:
+    - "SCF #12"
+  awarded_total: 1000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
