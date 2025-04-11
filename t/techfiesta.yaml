@@ -1,0 +1,43 @@
+title: Techfiesta
+other_names:
+  - Stellar Talent Platform
+parent: techFiesta
+description: Educate, validate, onboard and pay talent on Stellar via techfiesta.dev.
+links:
+  website: https://techfiesta.dev
+  blog: https://https://medium.com/@techFiesta
+  x: https://x.com/techFiesta_hack
+  linkedin: https://linkedin.com/company/techfiesta/
+  discord_server: https://discord.gg/xn8XbxXem9
+  telegram: https://t.me/+R2dFGg-iB5NlYzg0
+  youtube: https://youtube.com/@techFiesta_hack
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Ekolance-Official
+linktree: null
+attributes:
+  category: Education & Accelerator
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: " Germany"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/uuNviHWXdNbks45uk6VeWg/sewcM6gDwycr1CPIHcihCYLCpiGM7m7evL5VxwQpH3cf8uFpFfJOjyI5wd9eQ4JgV00ao6Di-OB14UVbIrnkbd2NWA4e5wH920LxygXvAuj2rOhKDMSXl1vM97iaKuRsrgVPUulyixglzQ6WjXiGPQ/bAy_U7itOd7ZN78h4B11mpvW3YUIa9Y7be3QfvW_mmw
+  banner: null
+scf:
+  awarded_submissions:
+    - Stellar Talent Platform
+    - Simplified Soroban Escrow Payments
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recLvmSw4cVbIKjHx
+  awarded_round:
+    - "SCF #27"
+    - "SCF Kickstart #10"
+  awarded_total: 41000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
