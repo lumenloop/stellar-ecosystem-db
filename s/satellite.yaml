@@ -1,0 +1,44 @@
+title: Satellite
+other_names:
+  - '"Satellite + We Work Out"'
+parent: null
+description: A platform for deploying smart contracts linked to third party app
+  data (first up, Strava).
+links:
+  website: https://getsatellite.io
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Oracle
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/8S8c3_D5rTDF7cOvsuBQiw/6pBigrLbRdhjN53I7ELebWlJnutOSzveqgj0XJdcPd5X3OFgj2AiPCQSIPG7gLBx8hcwf7EmjkjcImLyCT6YifLYG1mJ5LrdQ3UHzRcqOV9LRyZBarCyeWt-nLg0Xo3BO64M17jSibmM--_uBmYXLA/fwunJRjiKusCSRli_F6cxTQAfvXO5K2JljAPhieZ5ng
+  banner: null
+scf:
+  awarded_submissions:
+    - Satellite + We Work Out
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec19jhYls3BBJx9H
+    - https://communityfund.stellar.org/dashboard/submissions/recmo7OFBROky1vev
+  awarded_round:
+    - "SCF #20"
+    - "SCF #24"
+  awarded_total: 100210
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
