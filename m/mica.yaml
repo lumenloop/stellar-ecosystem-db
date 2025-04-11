@@ -1,0 +1,40 @@
+title: Mica
+other_names: null
+parent: null
+description: Mica escrow creates security in real estate transactions.
+links:
+  website: https://mica.rent
+  blog: https://https://mica.rent/blog/
+  x: null
+  linkedin: https://linkedin.com/company/micarent/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/mica.rent
+  reddit: null
+  tiktok: null
+  github: https://github.com/MicaTechnology/escrow_api
+linktree: null
+attributes:
+  category: RWA
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/H8fZleqAG1ZEynTAQvfxqg/JWwZfmi9AVkbP2qvyb7R2oYqZP-R84XnlY-Zqmd6zsYLjtgnXMsD3ps_23348SnGftXP6peJCk4h5Rq0-I5MQYF2dx5YZgyXVy7JfNc0ZjBec3eLSWYuXzKLe4MQIVRkqS_Lojmm_NCdBtZTuzXWUg/d7zI-ygcKZguJelpESi31vxSvlqKoPDxpK3vvElh7h0
+  banner: null
+scf:
+  awarded_submissions:
+    - Mica
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recdcC4akBWPOdMsS
+  awarded_round:
+    - "SCF #16"
+  awarded_total: 138700
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
