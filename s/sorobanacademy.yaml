@@ -1,0 +1,41 @@
+title: Soroban Academy
+other_names: null
+parent: null
+description: Soroban Academy is an online platform offering courses on
+  developing smart contracts using Soroban, Stellar's smart contract platform.
+  Created by the team behind projects like xBull Wallet and SorobanDomains, it
+  provides resources for both beginners and experienced developers to master
+  Soroban's capabilities.
+links:
+  website: https://soroban-academy.creit.tech
+  blog: null
+  x: https://x.com/CreitTech_
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Education & Accelerator
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
