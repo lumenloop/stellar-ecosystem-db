@@ -1,6 +1,6 @@
 title: Soroban Command Insights
 other_names:
-  - '"Stellar Command Insights (SCI)"'
+  - Stellar Command Insights (SCI)
 parent: null
 description: A real-time monitoring and visualization system for Soroban CLI
   commands on the Stellar network, powered by the ELK stack.
