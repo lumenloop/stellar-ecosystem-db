@@ -1,0 +1,40 @@
+title: SStream
+other_names: null
+parent: null
+description: Composable streaming payments on Soroban.
+links:
+  website: https://github.com/rahimklaber/SStream
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/rahimklaber/SStream
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/cUvhB6jdTPozGL2o-vPLiw/oabebn5qe3nVTRvnM7OB55JdCfJZ-Ci8xPaUAlh754fbiFOraWVGFbwfrXMxi9e1C73dFMGOCQ3VPqytQzCCmHCxAvRjpsZ9omPRrrdXb2hFjQE0TdgBfqt_i9_TDrUrUXved7e05OpB84VcHU-SZg/3lgx_CTUJfSh7MdDRxW2H6rwqzq_ZtKcrUJ0aTAXsFI
+  banner: null
+scf:
+  awarded_submissions:
+    - SStream
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recnfJhEt3t2QogUI
+  awarded_round:
+    - "SCF #16"
+  awarded_total: 36000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
