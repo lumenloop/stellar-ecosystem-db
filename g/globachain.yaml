@@ -1,0 +1,45 @@
+title: Globachain
+other_names:
+  - '"Globachain Payment Ecosystem"'
+parent: null
+description: On and off ramps for individuals and businesses; Merchant services
+  and cross border payments for businesses; All on Stellar.
+links:
+  website: https://globachain.com
+  blog: null
+  x: https://x.com/globachain
+  linkedin: https://linkedin.com/company/globachain/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/globachain
+  reddit: null
+  tiktok: null
+  github: https://github.com/Blocverse01/Globachain-DApp
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services:
+    - MiddleEast&NorthAfrica
+    - Sub-SaharanAfrica
+    - Europe&CentralAsia
+  country: United Kingdom
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/T3DApHHEXMwI8bVL1pBDdA/AVKK_m7J-4RhLwStDIsxOXfNoOjePL2Rk0mp4P5437Wj-6FVHnARoY5_gU_JiOk96WLziqte6udua0GKxNtDg8eEOA2f05urql8HqkgX5_jqmn4QdxtyhE-R0kWeisUNc6HNCHK6RQiTfPk4SvCZqw/l96ImLpXaxrRcGTv5hR0vm2lZ5A-DXMIGeylyoJKu80
+  banner: null
+scf:
+  awarded_submissions:
+    - Globachain Payment Ecosystem
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recuYdA4IXkFUtuLI
+  awarded_round:
+    - "SCF #29"
+  awarded_total: 49500
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
