@@ -1,0 +1,45 @@
+title: Skopa
+other_names: null
+parent: null
+description: Skopa is a financial platform that enables instant cross-border
+  money transfers, digital wallet services, and prepaid Mastercard issuance,
+  facilitating seamless global transactions for both individuals and
+  businesses.Skopa is a financial platform that enables instant cross-border
+  money transfers, digital wallet services, and prepaid Mastercard issuance,
+  facilitating seamless global transactions for both individuals and businesses.
+links:
+  website: https://skopa.io
+  blog: null
+  x: https://x.com/skopaapp
+  linkedin: https://linkedin.com/company/skopa-app
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/skopaapp/
+  reddit: null
+  tiktok: null
+  github: https://dev-api-new.skopadev.com/api/#
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/kCBYOeEUaA3P8A-VhHXoDA/-uxOqHn3GrC3_L96t5N_wbeJ_kLknr6XCN5EvZNMLZhflXy8RzudGH-RiT83i7w8za9-YnmIGj1jLELDUnzk9zH554NuPvETjDC2VCdbwod_XpwJhtpeA5R956e37EvnOXAAlVam3Mm0mDbthbm9VQ/-GdUGr00BpX7CITbcbTdXxgn4mdQPuGGyuNbvCL5lto
+  banner: null
+scf:
+  awarded_submissions:
+    - Skopa
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recagcYqPo0lfLMtO
+  awarded_round:
+    - "SCF #20"
+  awarded_total: 37840
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
