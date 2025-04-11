@@ -1,0 +1,42 @@
+title: Elixir Stellar SDK
+other_names: null
+parent: null
+description: an Elixir library for interacting with the Stellar blockchain,
+  enabling transaction construction, signing, and integration with Horizon
+  server endpoints.
+links:
+  website: https://github.com/kommitters/stellar_sdk
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/kommitters/stellar_sdk
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: " Colombia"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/GiQ6N5Ne-lUF889gz_92pw/S9irDdZJ6Yuy_hdD92oiq8MY28YBm_d2jJ25zAX9LLCGTAkf7bGjUvpKZUI7p2XkTWYxdp-BD8SOupOT0zarEErjYC5eUs0ilxqI5P83DQL6EIT2ZTvz-MAqh9qk6xbkYxAIAT6jffOGQCR3Asf0mw/ieAk9f5uaWA6K4Diuq8n8KXpkMHdKrZNVBocXhpUAPU
+  banner: null
+scf:
+  awarded_submissions:
+    - Elixir Stellar SDK
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recipARqM4ji5SJK4
+  awarded_round:
+    - "SCF #10"
+  awarded_total: 12000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
