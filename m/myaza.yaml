@@ -1,0 +1,47 @@
+title: Myaza
+other_names:
+  - '"Myaza | Transact Across Africa"'
+parent: null
+description: Myaza enables Africans to seamlessly send, receive, save, spend,
+  and swap foreign currencies without borders.
+links:
+  website: https://myaza.co
+  blog: https://https://myaza.co/blog
+  x: https://x.com/myazahq
+  linkedin: https://linkedin.com/company/myazahq
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/myazahq
+  reddit: null
+  tiktok: null
+  github: https://github.com/myazahq
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services:
+    - Sub-SaharanAfrica
+    - MiddleEast&NorthAfrica
+  country: " Nigeria"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/hpip1Evrjl8qZW3cG-oZVg/xLsyqPgJadciwpjuUnYJboks9xDamtuIPZ9wH4psBt7mOzuB3J83aH0CfUqm6ZZBtlF96mExftk2wHE6Zqg2sW20oqKpwaHtZ9yS4rxvnXh4x-11AFBgwogZlO-ymzfmDi75d49kRcKn-g2Joqhycg/MvLc0XLeWPPb7fOmdivTKm5cMAgOEAgv8eibgQUuNj0
+  banner: null
+scf:
+  awarded_submissions:
+    - Myaza
+    - Stellar-Powered Cross-Border Payment
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec7so7Dp8MsWFhTS
+    - https://communityfund.stellar.org/dashboard/submissions/rec3sQBgctMIdAhJ7
+  awarded_round:
+    - "SCF #26"
+    - "SCF #32"
+  awarded_total: 146371
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
