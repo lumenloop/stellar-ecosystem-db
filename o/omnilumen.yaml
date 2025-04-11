@@ -1,0 +1,47 @@
+title: OmniLumen
+other_names: null
+parent: null
+description: OmniLumen is a comprehensive development environment for Stellar
+  and Soroban, offering a suite of integrated tools and libraries to streamline
+  the development process. OmniLumen offers a comprehensive local development
+  suite for Stellar, similar to how wagmi.sh provides tools for Ethereum Virtual
+  Machine (EVM) development. While wagmi.sh simplifies building on EVM with
+  React hooks and CLI tools, OmniLumen delivers similar capabilities tailored
+  for Stellar, including quick start, BigQuery integration, and local LLM
+  integration.
+links:
+  website: https://omnilumen.net
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/OmniLumen
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/yEBe0Ep6-fz7SwfV6BHGyQ/E0WUGSBxWjB9zTIOffRbTTNAj3Wy26yRVOW6JuHeu3buqK9iJs5a5oot8kGS2UCuembho-A2WtSlaOAa6PnBbgvFpQsQsuOSbQRRl36DAeZF9VHK4kYAEni9KuJkz4A_fO--00_9B8cgGst6Py40TVMRobjpSrIB1yuLPAKus8EpCfZEwnHYfC9bON4tuufB/dv87UwGEu4eMJ_BBGkMC7JkGy2tlCOPA_i0-e6GYatc
+  banner: null
+scf:
+  awarded_submissions:
+    - Wagmi.sh for Soroban
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recowXcSbEYnfaD1C
+  awarded_round:
+    - "SCF #28"
+  awarded_total: 50000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
