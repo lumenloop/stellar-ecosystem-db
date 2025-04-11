@@ -1,0 +1,41 @@
+title: SNNAC
+other_names: null
+parent: null
+description: SNNAC users engage in seamless transactions using Stellar Lumens,
+  Non-Fungible Tokens (NFTs) & Near Field Communications (NFC).
+links:
+  website: https://snnac.me
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/BlockShangerous/SNNAC
+linktree: null
+attributes:
+  category: NFT
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/a8oIGA_XkgtXYF6gvJvZkg/IJQ8CwVvOCP66nsamSFZFEoDVfHs7Sz8lVGG4lLE4uLd2T0qfSc8PDhgESen9hJkP6TpFCu_QesqEZ9slQA_-ULYiCwbOP8EG0WiE2VgH1P1BPPi9QUqvgBQ34DaeMVNCNeFNtjvgRszPgmdOnbhyOCCVjbp4ECkBNDKn-7WhxHvXOdJB_PkmjC1OBXmSyy5/n8pW4hiJR02b207hBh_5RelIwfxtWRv9CEoEhpIei7U
+  banner: null
+scf:
+  awarded_submissions:
+    - SNNAC - Stellar NFT NFC ACcess
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec7rqjVZKmExp44A
+  awarded_round:
+    - "SCF #11"
+  awarded_total: 7500
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
