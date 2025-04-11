@@ -1,0 +1,41 @@
+title: Zentra
+other_names: null
+parent: null
+description: A payment streaming app on Soroban to allow users to make payments
+  over a fixed period of time.
+links:
+  website: https://tide-soroban-contract-frontend.vercel.app
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/TosinShada/tide-streaming
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: Nigeria
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/bZvZ6PqhBM_U4SFlEJt9Tw/7E3Qa8Blp9e4TM600JX3yuatarXftEDWFUGindV1mqqwAAEhr3-lc3MVAQbyC37AA0ofGMlwiwtIWk3PQhMCl7Qp5z8uejWn4HRkNZu8dibO0HJT698qHbp2z1OwmFmwCYPtiUTfox-onSwgTysS5A/nPui4_Cl5OPVgbub6KtL9p5J2zwzr2MC7Cci4tWDySo
+  banner: null
+scf:
+  awarded_submissions:
+    - Tide Stream Payment
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recTmMM8Qbio6zNHx
+  awarded_round:
+    - "SCF #23"
+  awarded_total: 18200
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
