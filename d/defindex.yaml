@@ -1,0 +1,48 @@
+title: DeFindex
+other_names:
+  - '"DeFindex: DeFi Made Easy"'
+parent: Paltalabs
+description: ​DeFindex helps wallet providers to offer savings accounts to their
+  users easily, through a diversified DeFi portfolio. Also, It allows advanced
+  users to manage complex and diverse DeFi Strategies.
+links:
+  website: https://defindex.io
+  blog: null
+  x: https://x.com/PaltaLabs
+  linkedin: https://linkedin.com/company/paltalabs
+  discord_server: https://discord.gg/CUC26qUTw7
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/paltalabs/defindex
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - Nospecificregionofoperation
+  country: Chile
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/ALNCvzdVcaPioZWCQIiHZQ/Qf_6yyMlR--N9i4QTL6ValPBq6ESp0vGx8TjHxDF1i1Eqgw2Pfbt9EzlfoTpAbEhH-7n9c-iDSeSBDNyc1J68Jnkm8A1ypOqzrlPf_MEVNnDMMvaAY4TfoM9v_pGkbkFpoycPAMTpT5K12gP5fPMTQ/aXPZGwsbTEIG7wee3mWabpHg7eSOxfaZbioZ14NQoUA
+  banner: null
+scf:
+  awarded_submissions:
+    - "DeFindex: DeFi Made Easy"
+    - " DeFindex: Mainnet"
+    - Metrics & Keepers
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recCmEL04rTflMaSX
+    - https://communityfund.stellar.org/dashboard/submissions/reci3pJoBT0YYPpSF
+  awarded_round:
+    - "SCF #28"
+    - "SCF #32"
+  awarded_total: 150000
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
