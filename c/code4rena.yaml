@@ -1,0 +1,38 @@
+title: Code4rena
+other_names: null
+parent: null
+description: Top auditors compete to keep high severity bugs out of production.
+  Start a public or private audit within 48 hours.
+links:
+  website: https://code4rena.com
+  blog: https://https://code4rena.com/blog
+  x: https://x.com/code4rena
+  linkedin: https://linkedin.com/company/code4rena/
+  discord_server: https://discord.gg/code4rena
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/code-423n4
+linktree: null
+attributes:
+  category: ""
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
