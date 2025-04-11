@@ -1,0 +1,45 @@
+title: Decaf
+other_names:
+  - '"Decaf Pay"'
+parent: null
+description: Decaf is a non-custodial wallet operating on the Solana and Stellar
+  blockchains, designed to facilitate seamless transitions between fiat and
+  cryptocurrency across nearly 200 countries. It offers features such as global
+  onramps and offramps, multi-currency support, currency conversion, and
+  investment opportunities in tokenized government bonds.
+links:
+  website: https://decaf.so
+  blog: null
+  x: https://x.com/Decaf_so
+  linkedin: https://linkedin.com/company/decafpay/
+  discord_server: https://discord.com/invite/fVn2THZAkV
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/decaf.so/
+  reddit: null
+  tiktok: null
+  github: https://github.com/decafteam
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: " Mexico"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/uXyJne6QkzRd6Ez80vn61g/DCRCvNZfRYd9AWvk_w2S5feqh-tRnygPBpRpYPdPXY9lGNjo17wGtI5-7n7NtWaPD3XZM5oD6V0Dhhyci9waZsFkYMnp3dEG9p5QMALTJZJUxEc8qdah-FSXeqx7R2aC7GFhtfizoDksBYXyexh1PA/5X-0qOxRnkH6bmS_obxLXnx4SZNijwc2tZXRN38v3_c
+  banner: null
+scf:
+  awarded_submissions:
+    - Decaf Pay
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recp4q5jA9dXq7to6
+  awarded_round:
+    - "SCF #17"
+  awarded_total: 150000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
