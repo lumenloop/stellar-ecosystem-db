@@ -1,0 +1,46 @@
+title: Astrograph
+other_names: null
+parent: null
+description: Astrograph is a GraphQL server for the Stellar network that
+  simplifies the development of Stellar-based applications by providing a single
+  interface to access both current and historical ledger data, including
+  real-time updates.Astrograph is a GraphQL server for the Stellar network that
+  simplifies the development of Stellar-based applications by providing a single
+  interface to access both current and historical ledger data, including
+  real-time updates.
+links:
+  website: https://astrograph.io
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/astroband/astrograph
+linktree: null
+attributes:
+  category: Data & Onchain Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions:
+    - Astrograph — Explore the new horizons of Stellar network
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recpR7pkCjncJOfT3
+  awarded_round:
+    - "SCF #1"
+  awarded_total: 10050.82
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
