@@ -1,0 +1,41 @@
+title: Axelar
+other_names: null
+parent: null
+description: Axelar is a decentralized interoperability network that connects
+  multiple blockchains, enabling seamless cross-chain communication and asset
+  transfers. It employs a hub-and-spoke architecture, allowing developers to
+  build cross-chain applications with ease, and utilizes a proof-of-stake
+  consensus mechanism to ensure network security.
+links:
+  website: https://axelar.network
+  blog: https://https://www.axelar.network/blog
+  x: https://x.com/axelar
+  linkedin: https://linkedin.com/company/axelarnetwork/
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/@axelar-network/videos
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/axelarnetwork
+linktree: null
+attributes:
+  category: Bridge
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
