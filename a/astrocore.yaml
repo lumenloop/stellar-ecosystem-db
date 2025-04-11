@@ -1,0 +1,43 @@
+title: Astrocore
+other_names: null
+parent: null
+description: Astrocore aims to become an alternative implementation of the
+  stellar-core, the core component of the Stellar network.Astrocore aims to
+  become an alternative implementation of the stellar-core, the core component
+  of the Stellar network.
+links:
+  website: https://github.com/astroband/astrocore
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/astroband/astrocore
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions:
+    - Astrocore — rusted Stellar-core
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recZlfegu12ecDh0e
+  awarded_round:
+    - "SCF #2"
+  awarded_total: 0
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
