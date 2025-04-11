@@ -1,0 +1,46 @@
+title: Stellarport
+other_names: null
+parent: null
+description: Stellarport is a non-custodial wallet, decentralized exchange
+  (DEX), and anchor for the Stellar network, enabling secure storage, trading,
+  and fiat-to-crypto integration for digital assets.Stellarport is a
+  non-custodial wallet, decentralized exchange (DEX), and anchor for the Stellar
+  network, enabling secure storage, trading, and fiat-to-crypto integration for
+  digital assets.
+links:
+  website: https://stellarport.io
+  blog: null
+  x: https://x.com/stellarportio
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/stellarport
+linktree: null
+attributes:
+  category: DEX
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions:
+    - Stellarport - Stellar Wallet
+    - DEX & Anchor
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recpMYd0rjGNLniyz
+  awarded_round:
+    - "SCF #2"
+  awarded_total: 0
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
