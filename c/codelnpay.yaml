@@ -1,0 +1,44 @@
+title: CodeLnPay
+other_names: null
+parent: CodeLn
+description: CodeLnPay offers cross-border salary payments to help African-based
+  remote workers seamlessly collect their income.
+links:
+  website: https://pay.codeln.com
+  blog: https://https://medium.com/codeln
+  x: https://x.com/Codeln_spaces
+  linkedin: https://linkedin.com/company/codeln/
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/channel/UCJc8rd10wkhX2c1Htg4aF0Q
+  instagram: https://instagram.com/codeln_spaces
+  reddit: null
+  tiktok: null
+  github: https://github.com/CodelnGhana/codelnpay-project
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: Kenya
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/Noc0p1nsYPYNFw0yW8cisg/EMfI629mar-OB4xWAPjRVkiVaKdo9R46xnFxTUiIM6RIJv9-MRDgWe9lw2EHQ3kjVHw7aMdzCTuHOUF6PysiNLTEVObo8nyTNoxtwsoPUxumZDSBdprQS2D2GYTfv-Wc6Oe_ojxnOxGkY6HdWKBphO2pVFxtBFjh8NHrK5ZdBTLpLMzraiXpQQe6iJvI871L/9Dsg2UfBeltlXAFDzL9WHL8_xB33M5YovPYOgksJ8ZI
+  banner: null
+scf:
+  awarded_submissions:
+    - CodeLnPay
+    - CodeLn Pay for Crypto Payroll
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/reco3cXFlyDt53B0u
+    - https://communityfund.stellar.org/dashboard/submissions/rec5hY727ovjmxujE
+  awarded_round:
+    - "SCF #25"
+    - "SCF #33"
+  awarded_total: 128023
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
