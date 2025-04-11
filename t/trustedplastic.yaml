@@ -1,0 +1,40 @@
+title: TrustedPlastic
+other_names: null
+parent: null
+description: Enabling plastic waste collection through introducing transparency.
+links:
+  website: https://recyclable.credit
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Sustainability & Public Goods
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: " Spain"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/Ws_d9De_ZD6HiPzLeS72jg/X3PanwDKzLrN7jG0875Cgvcf8eYPRdkD3vULR2zfYbN_bijVZBZN9scJ9kTQ-pegeL7Y3au1tNq8vHGodkfbbc6Kt38W1spHUcO6VnfQX6mdGccCJXxBwbLRT01dwVWS7kNEHTr-c0JlwaGOX1U_jUpeKf-WtZ0BSY7-RHOZDDg/6Zq918QbKdbvOiFl0n9doT8g2D-te8_w5MfvXOJEqIk
+  banner: null
+scf:
+  awarded_submissions:
+    - TrustedPlastic
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recdFUWjyYR7VoqYC
+  awarded_round:
+    - "SCF #22"
+  awarded_total: 49800
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
