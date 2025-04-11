@@ -1,0 +1,41 @@
+title: Depay
+other_names: null
+parent: null
+description: Enabling crypto payments in inflation-hit economies, connecting
+  consumers and merchants via Stellar, hassle-free.
+links:
+  website: https://depayapp.com
+  blog: null
+  x: https://x.com/DePay
+  linkedin: https://linkedin.com/company/depay-us/
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/channel/UCE0pVQzKSWymTTBvwVylzwQ
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: " Argentina"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/Dhi75vfN32t-J_xzf1sosw/aPavpdV4wV8fr9jGeUQhRHBR6YBFrbdah1ptM8LRZL59jLYCWYsRroCnRyM6avoHy20RgLVKbx4gFAex3yPFagWt-KiRxKD_FNb-aB9d7kx3MJV8oLG3Kvk3tDSmeRBSU-jlsCG9MxbXkMXnqF-J6YCtS2aa6Yu1l-wjChcXhGE/5p7kl5qikJsU0VsHPVWQ6C04APmwwPyZHagcNHboRXU
+  banner: null
+scf:
+  awarded_submissions:
+    - Democratizing Crypto Finance
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recQhWya5YInPvM1U
+  awarded_round:
+    - "SCF #24"
+  awarded_total: 42500
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
