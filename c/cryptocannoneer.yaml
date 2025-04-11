@@ -1,0 +1,48 @@
+title: CryptoCannoneer
+other_names: null
+parent: null
+description: CryptoCannoneer is an interactive game that allows players to
+  control real-world turrets via messaging platforms like Telegram, utilizing
+  cryptocurrency transactions for in-game actions.CryptoCannoneer is an
+  interactive game that allows players to control real-world turrets via
+  messaging platforms like Telegram, utilizing cryptocurrency transactions for
+  in-game actions.
+links:
+  website: https://blockshangerous.com/cryptocannoneer
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: https://t.me/cannoneers
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Gaming
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions:
+    - CryptoCannoneer
+    - CryptoCannoneer Coin Carnival
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recgqIwRqnhPG0BD7
+    - https://communityfund.stellar.org/dashboard/submissions/recldMd7LbhGVEOB5
+  awarded_round:
+    - "SCF #8"
+    - "SCF #8"
+  awarded_total: 20000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
