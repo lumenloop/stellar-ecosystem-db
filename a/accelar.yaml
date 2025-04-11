@@ -1,0 +1,42 @@
+title: Accelar
+other_names: null
+parent: null
+description: Accelar is a unified product development infrastructure that
+  streamlines the creation, collaboration, launch, and management of both Web2
+  and Web3 applications.
+links:
+  website: https://accelar.io
+  blog: null
+  x: https://x.com/accelarlabs
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Accelar-labs
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: " Brazil"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/aycWdLzEYJYvnyPwmub0Bg/IjXEXkyKsSEFCzLov6NxB69Cxk_vpwAv_-d0pEI03ElrUIr-2NSpaUrFUOjDoAZo39nbsvWsUa4MD8StJn-Op-BXm7O1hxFKXBaLGfaTliUGeLHhy4FGVggwzu61zXgSQ8snIUO1JiEHDqw7hjPfwYoV0BS59Ul6OptcafoMHth9nnWTTFZmN5bHlnYPi63j/__dEky6bz67ltZrrO67CT_LUMm3EFmP82mFB4IKeIW4
+  banner: null
+scf:
+  awarded_submissions:
+    - Accelar - Web3 Infrastructure
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recCMqF6lhiTo4ZeO
+  awarded_round:
+    - "SCF #26"
+  awarded_total: 33000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
