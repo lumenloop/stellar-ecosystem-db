@@ -1,0 +1,43 @@
+title: DFNS
+other_names:
+  - '"Dfns Stellar Support"'
+parent: null
+description: Dfns is a leading MPC wallet as a service platform, supporting
+  banks, fintechs, tokenization platforms and more.
+links:
+  website: https://dfns.co
+  blog: https://https://www.dfns.co/blog
+  x: https://x.com/dfnsHQ
+  linkedin: https://linkedin.com/company/dfnshq
+  discord_server: null
+  telegram: https://t.me/+qFK1dPXUyts0OTE0
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/dfns
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - Nospecificregionofoperation
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/zx5wXbe9Daln6JNGJRYVQQ/IifPRpMOk86lgH52t8tAKAo02vkAUhzw-mNiZcX6yvHLMRWHZ9M5cULAht6-tz7rK4KwKNd1khwg53TB_vfb20HCQaCLE_mK7EblQ5RnjkhTAFTPxNwoCLO45lvb9fSbge3jFfVDWOOx1rF2VydFHw/9PSj9pNBBdgFdymSa9yPQtHD3U13ICGejCSRjX5xl7E
+  banner: null
+scf:
+  awarded_submissions:
+    - Dfns Stellar Support
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/reciEIStd1IvAErh8
+  awarded_round:
+    - "SCF #25"
+  awarded_total: 25000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
