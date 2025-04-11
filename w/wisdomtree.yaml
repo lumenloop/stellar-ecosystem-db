@@ -1,0 +1,39 @@
+title: WisdomTree
+other_names: null
+parent: null
+description: WisdomTree Prime is a retail financial app that enables users to
+  invest in digital assets, including 13 digital funds and a Gold token, all
+  tokenized on the Stellar network.
+links:
+  website: https://wisdomtreeprime.com
+  blog: https://https://www.wisdomtreeprime.com/blog/
+  x: https://x.com/WisdomTreePrime
+  linkedin: https://linkedin.com/company/wisdomtree-prime/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/wisdomtreeprime/
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: RWA
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
