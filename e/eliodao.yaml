@@ -1,0 +1,41 @@
+title: Elio DAO
+other_names: null
+parent: null
+description: Our Platform makes it simple to launch and manage a DAO, with
+  customizable governance rules and transparent decision-making processes.
+links:
+  website: https://elio-dao.org
+  blog: null
+  x: https://x.com/ElioDAO_org
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/deep-ink-ventures
+linktree: null
+attributes:
+  category: DAO & Governance
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/CDh9ivnTxPsUatBhepKcNQ/Pamg01qwwyKagtAyr6Dl8S-5PjD3sNu4JtQAkQH-wMQx_4EOujKcIeK71T83kmBuM5aDqSDznb0D27-7Pn2dtBswIQlHp3qmHU9adM6r-N5HxCEbxqbkIZA0NmGRrdHEYIgac4vW00FOpCtG10jVbQ/qVqGInke_iMaXXKU_FhRNfqJRDKicNOpZMY3ydPJZ-Q
+  banner: null
+scf:
+  awarded_submissions:
+    - Elio DAO
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recAn7u7cJ9KA3AEd
+  awarded_round:
+    - "SCF #15"
+  awarded_total: 148200
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
