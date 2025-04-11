@@ -1,0 +1,46 @@
+title: Paychant
+other_names: null
+parent: null
+description: Paychant is a payment gateway that helps Africans on-ramp and
+  off-ramp right inside any self-custodial wallets, DEX, or dApps using Africa's
+  localized payment methods.
+links:
+  website: https://paychant.com
+  blog: https://https://paychant.com/blog
+  x: https://x.com/paychant
+  linkedin: https://linkedin.com/company/paychant/
+  discord_server: https://discord.gg/YUXPAJfZaN
+  telegram: https://t.me/paychant
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/paychant
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services:
+    - Sub-SaharanAfrica
+  country: " Nigeria"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/xYP8BbyagASa1ydljsqy1A/8_vDAE2F0gf8nWAlsNBk14EI2Nrv2i9gTCxq8rQ7GFlgfVOEc_boNlHCYJd-V2rNx7qnzAZl8UDNo_-3q3WZEJM6WBaQiCNb8OwXuHt5TBvSYUrNLeRGNn5Qf1_T_slqE8hvSzphWzJTJU7R23B1gA/y7yONex48qjVA7dry0l7yQ3ZlrpxALb8Asbaj-0Gy3w
+  banner: null
+scf:
+  awarded_submissions:
+    - Paychant
+    - Anchor On & off-ramp in Africa
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recu3dRuCQUZY1U4Y
+    - https://communityfund.stellar.org/dashboard/submissions/rec0PwqUKV2KdEvpm
+  awarded_round:
+    - "SCF #16"
+    - "SCF #21"
+  awarded_total: 150000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
