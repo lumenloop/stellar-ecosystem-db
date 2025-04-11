@@ -1,0 +1,39 @@
+title: Felix Pago
+other_names: null
+parent: null
+description: Félix Pago enables users in the United States to send money to
+  Mexico, Guatemala, and Honduras instantly through WhatsApp, eliminating the
+  need for additional apps or in-person visits.
+links:
+  website: https://felixpago.com
+  blog: https://https://www.felixpago.com/blog
+  x: https://x.com/Felixpago
+  linkedin: https://linkedin.com/company/felix-pago/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/felixpago/
+  reddit: null
+  tiktok: https://tiktok.com/@felixpago
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
