@@ -1,0 +1,45 @@
+title: Cede
+other_names:
+  - '"Cede Labs"'
+parent: null
+description: Cede Labs streamlines liquidity flow between Centralized Exchanges
+  (CEX) and Decentralized Finance, offering seamless connectivity with over 15
+  CEX APIs for asset management since 2021.
+links:
+  website: https://cede.store
+  blog: null
+  x: https://x.com/CedeLabs
+  linkedin: https://linkedin.com/company/cede-labs
+  discord_server: https://discord.com/invite/V7hgKf6NWf
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/cedelabs
+linktree: null
+attributes:
+  category: Data & Onchain Tools
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - Nospecificregionofoperation
+    - Europe&CentralAsia
+  country: France
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/kVHDQH3IAGulrlDfnJpXdQ/pDB3A7AZ8fVgd5X0Ai9tWRwbQ_b3VJa3XVs9qKWCydiKr52BV2MsL77aFXquSi4JpWUib1s-kAYTPLSBn_KXp7hqG__-o1O4rHapodadvF9gFNI5xqqtFc8Zzh_lAvnVGkLbOUYTIe6Ym_rlurEz2Q/L6i89eh-xpCYmNrGDlG20TWF03kr86zlHi7K1t-os7w
+  banner: null
+scf:
+  awarded_submissions:
+    - "Cede Labs: Unlocking liquidity between CeFi and DeFi effortlessly"
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recP8ThGTCNqAQIj6
+  awarded_round:
+    - "SCF #31"
+  awarded_total: 119800
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
