@@ -1,0 +1,39 @@
+title: Albedo
+other_names: null
+parent: Stellar Expert
+description: Albedo is a security-focused, developer-friendly web application
+  and browser extension that enables users to manage their Stellar accounts
+  without exposing secret keys.
+links:
+  website: https://albedo.link
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/stellar-expert/albedo
+linktree: null
+attributes:
+  category: Wallet
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
