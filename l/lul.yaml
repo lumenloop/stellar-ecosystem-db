@@ -1,0 +1,42 @@
+title: Lul
+other_names:
+  - '"Lul-Serving the unbanked"'
+parent: null
+description: Enabling financial inclusion for refugees and the unbanked in
+  Africa with Remittance,ROSCA, Virtual cards, and other service.
+links:
+  website: https://lulpay.com
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/lulpay
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: Uganda
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/OdLmKS1cCbHLx9D5J8qGPg/wDO6NfrmpqunC3A5GlLQvhtbjCkYiWOWP_LASvjmKyvTmDTF5l3WtWmERRZidl4Tn76xFSj0DrFKJfNMRjdJ6cLYOSD2H16_vtEPZqUrmhGeXYrZ28PWNzZRdi7KJ8jZFkZEQfoZEEB1kYQstnLuRQ/5t6UFlkSL6pOKRrESBeH6_3m_5MxJDvMfjz2AzI8oQQ
+  banner: null
+scf:
+  awarded_submissions:
+    - Lul-Serving the unbanked
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rectWILIUqnvfGvTK
+  awarded_round:
+    - "SCF #29"
+  awarded_total: 20500
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
