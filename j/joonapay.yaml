@@ -1,0 +1,41 @@
+title: Joona Pay
+other_names: null
+parent: null
+description: JoonaPay is a digital payment processor empowering UEMOA-based West
+  African merchants with dashboard and API solutions. It offers versatile
+  payment options, including stablecoins like USDC, cards, mobile money, bank
+  transfers, digital checks, and POS, facilitating seamless transactions across
+  the region.
+links:
+  website: https://joonapay.com
+  blog: null
+  x: https://x.com/joona_pay
+  linkedin: https://linkedin.com/company/joonapay
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/joonapay/
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
