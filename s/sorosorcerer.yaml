@@ -1,0 +1,42 @@
+title: Sorosorcerer
+other_names:
+  - '"Sorosorcerer.com"'
+parent: null
+description: An easy to use tool to develop smart contracts on soroban for
+  use-case builders with secure and vetted code.
+links:
+  website: https://sorosorcerer.com
+  blog: null
+  x: https://x.com/EfikoDLT
+  linkedin: null
+  discord_server: https://discord.gg/5mxkqWaX7F
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/NossicaSystems/soroban_extend
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: Netherlands
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/b4DQsaCBBCm5luprzIhwWQ/AsoU0cDwGpUB-goCPAreppAZ4ecCaondIPKoWTVBwdjwfWIXsV-KJ5qnpFwNDoxSxQ8om-QaNhxGlPvRFE-gs0p3bT0EMSJlOpc8kphVuqS1ew9HbDMJOCV0-9ZgQluUV0KajrE1b4Vd20uSMvO6Aw/KPA_h3z8gyzS5oyTjuz_SUveJcD5-iyrI53Q0efVEms
+  banner: null
+scf:
+  awarded_submissions:
+    - sorosorcerer.com
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recMrJRtoPBpXYIMY
+  awarded_round:
+    - "SCF #16"
+  awarded_total: 40000
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
