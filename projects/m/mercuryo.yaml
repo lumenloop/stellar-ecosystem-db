@@ -24,13 +24,13 @@ attributes:
   tags: []
   smart_contracts: null
   regions_services:
-    - LatinAmerica&Caribbean
-    - EastAsia&Pacific
-    - MiddleEast&NorthAfrica
-    - Sub-SaharanAfrica
-    - NorthAmerica(withoutMexico)
-    - Europe&CentralAsia
-    - SouthAsia
+    - Latin America & Caribbean
+    - East Asia & Pacific
+    - Middle East & North Africa
+    - Sub-Saharan Africa
+    - North America (without Mexico)
+    - Europe & Central Asia
+    - South Asia
   country: United Kingdom
 images:
   icon: null
