@@ -1,0 +1,42 @@
+title: Encode Club
+other_names:
+  - '"Encode Soroban/Stellar Educate"'
+parent: null
+description: A four week education series to bring Encode's developers and
+  beyond into the Stellar and Soroban ecosystem.
+links:
+  website: https://encode.club
+  blog: https://https://www.blog.encode.club/
+  x: https://x.com/encodeclub
+  linkedin: https://linkedin.com/school/encode-club
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/channel/UC8MwfizU_2GYh_LugWJom6A
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Education & Accelerator
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/2M0fgs6LMXwvMf6J8BdwZA/qeAic6ddJtqBUfRSGsKaelmV7PB7SP-ZcBrWUhf087L9KMJXNmenOYEiDq5LLxqmWfMgNltg2kE6hOHvkzol9lBaBorAAvV-RqIVZDuoMKfv2zZZ07WL2urChLT5LjkRPx6_oVZMZtVHOS0prKeKe7XZpdLGTO6g78-_faaUTx4/Dq8uzLpD7c3XOMMzRXBcMJfksiwUroZPXxWpQyHjRHs
+  banner: null
+scf:
+  awarded_submissions:
+    - Encode Soroban/Stellar Educae
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/reckoIk9ZoZ7UbElb
+  awarded_round:
+    - "SCF #22"
+  awarded_total: 14999
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
