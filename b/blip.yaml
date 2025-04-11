@@ -1,0 +1,45 @@
+title: Blip
+other_names:
+  - '"Blip: Soroban Real-Time Monitoring"'
+parent: null
+description: Blip is a platform offering real-time monitoring, alerts,
+  dashboards, and APIs for Soroban smart contracts on the Stellar network. It
+  helps developers detect issues instantly, optimize performance, and gain
+  valuable insights into their contracts.
+links:
+  website: https://blip.watch
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: https://discord.com/channels/897514728459468821/1286047895845601301
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/BlipMonitor
+linktree: null
+attributes:
+  category: Data & Onchain Tools
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - Nospecificregionofoperation
+  country: " India"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/wlcybUpiFIAaFnH38yBy-g/FJDiYHLtPWWyf9C03rjKdnFgcIBkqGBKALpwKaQb_JNWwu1s-fLTzdVPwOM7fKjMVLzP-j-YUv0-3AAoh8eIvBjbbUp_HdN0LWswLGplofD3dWeC3ksAEcZfhRu1_3uHcXcqWf-_LUTumDyQtnwIHA/IuNcpZG4cn_R5HZQGkBbWMFRAbAqdIUuE8PB46a3Lxc
+  banner: null
+scf:
+  awarded_submissions:
+    - Real-Time Contract Monitoring
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recwBum9zIyqY6TC3
+  awarded_round:
+    - "SCF #28"
+  awarded_total: 47000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
