@@ -1,0 +1,44 @@
+title: SubQuery
+other_names:
+  - SubQuery Network
+parent: null
+description: SubQuery is a leading blockchain data indexer that provides
+  developers with fast, flexible, universal, and decentralized APIs for web3
+  projects, supporting over 200 ecosystems including Stellar, Ethereum, and
+  Polkadot.
+links:
+  website: https://subquery.network
+  blog: https://https://blog.subquery.network/
+  x: https://x.com/SubQueryNetwork
+  linkedin: https://linkedin.com/company/subquery
+  discord_server: https://discord.com/invite/subquery
+  telegram: https://t.me/subquerynetwork
+  youtube: https://youtube.com/c/SubQueryNetwork
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/subquery
+linktree: null
+attributes:
+  category: Indexing
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: Singapore
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/wV0gNNQJxeZcOaNiD44lPQ/Ea7l-mqPHvBrQPABIj0ZziAI5rX9Prdbq_uxGkl0Zndae7qMRxs6Jt1S1BNgdovsN4HrAgfDV3Tj11qb_JpqMALOuHe5phdkbyVGCg85XSwtp6GQ34T_ma3RG1oq-vpN3EhaxtgHqPWc7ROGT0XXERKpZU6upYAYUi9R7pbjXNk/eDs56ywZVFtq_I5EaOvNsUP7CLpLISWtNOslvEj9tX0
+  banner: null
+scf:
+  awarded_submissions:
+    - SubQuery Network
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recv7q71W4I8LcYAw
+  awarded_round:
+    - "SCF #18"
+  awarded_total: 98640
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
