@@ -1,0 +1,47 @@
+title: Anclap
+other_names: null
+parent: null
+description: Infrastructure that connects Web3 to financial systems, makes
+  FIAT<>Crypto interoperable and converts any company into a fintech.
+links:
+  website: https://anclap.com
+  blog: null
+  x: https://x.com/AnclapFintech
+  linkedin: https://linkedin.com/company/anclap
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/anclap
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: Argentina, Argentina
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/ySzOMMfligguH0fR7Kdhyw/1y9fgW0mlsFByEPm4xNovzeP-eivfb94zg4T-7-Ws7hCM-p-9tJk7Ax195Wo2czSbDKM0aFc5DfkQ2It5hrQzlcPD1Li2Q2l55ZGAzcUP21L8GVXHlai8CPta4QOnLhpi-ZFefrgVqQjtqzWOVrFsA/_T4Ko5ihu4RFILNXzNot-kGTqYjPxN6RQnnqTRwi3SM
+  banner: null
+scf:
+  awarded_submissions:
+    - Anclap; Anchor + Debit Card for everyday transactions!
+    - Stellar Prepaid Cards
+    - Stellar Prepaid Cards in Peru
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/reclgGPwy2rlCwsp9
+    - https://communityfund.stellar.org/dashboard/submissions/reccDyvfqZISOWHI7
+    - https://communityfund.stellar.org/dashboard/submissions/recL0SgcprAhb6uSy
+  awarded_round:
+    - "SCF #7"
+    - "SCF #17"
+    - "SCF #26"
+  awarded_total: 572162
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
