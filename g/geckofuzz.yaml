@@ -1,6 +1,6 @@
 title: Gecko Fuzz
 other_names:
-  - '"Gecko Fuzz: Automated Fuzzing"'
+  - "Gecko Fuzz: Automated Fuzzing"
 parent: null
 description: Gecko uses formal verification and fuzzing guided by dataflow
   patterns and LLMs to audit smart contracts on-chain autonomously.
