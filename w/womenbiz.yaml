@@ -1,0 +1,47 @@
+title: Womenbiz
+other_names:
+  - Stellar Women Bootcamp
+parent: null
+description: HiWomenBiz is a community empowering Latin American women through
+  Web3 education and blockchain adoption. They are currently hosting a Stellar
+  Women Bootcamp, a gamified program to teach blockchain and Web3 product
+  development.HiWomenBiz is a community empowering Latin American women through
+  Web3 education and blockchain adoption. They are currently hosting a Stellar
+  Women Bootcamp, a gamified program to teach blockchain and Web3 product
+  development.
+links:
+  website: https://hiwomenbiz.com
+  blog: https://https://hiwomenbiz.com/blog/
+  x: https://x.com/HiWomenbiz
+  linkedin: https://linkedin.com/company/women-biz/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/hiwomenbiz/
+  reddit: null
+  tiktok: null
+  github: https://github.com/womenbiz
+linktree: null
+attributes:
+  category: Education & Accelerator
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: " Peru"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/srHxnxrY-kaJOWMfGjWkTw/Hxr-0Rdwy0zPZDP5Nxyr1kBaB84-yLYAIPFgVxBxSYVVIyuiTylMieh0SRr2v5SQkcimsRzIoCq1sAbFjEC3BZz1LANGzfsUfyEzeh8vZ9Z1Tt3SmFMM8MTUMmpRn5ciulH3J1MZgBnzHoNOnX9vRw/TrcUIIi7LkLYYJqChznjQpuTE-tYPfskNueAo515XvM
+  banner: null
+scf:
+  awarded_submissions:
+    - Stellar Women Bootcamp
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/reccvCDAiuwbDwy4n
+  awarded_round:
+    - "SCF #29"
+  awarded_total: 14400
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
