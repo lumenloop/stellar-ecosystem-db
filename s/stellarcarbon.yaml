@@ -1,0 +1,50 @@
+title: Stellarcarbon
+other_names: null
+parent: null
+description: Stellarcarbon offers transparent, nature-based carbon offsetting by
+  registering offsets on both the Stellar blockchain and the Verra Registry,
+  enabling users to voluntarily offset their carbon footprint through on-chain
+  and off-chain records.
+links:
+  website: https://stellarcarbon.io
+  blog: null
+  x: https://x.com/StellarCarbon
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/stellarcarbon
+linktree: null
+attributes:
+  category: Sustainability & Public Goods
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - Nospecificregionofoperation
+  country: Netherlands
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/7eG2NAx5yegWMwxqGk7F8g/p-7tYQrkVBEKYwK3iSXoo7fqfiGqI3zaeXEqTawjC88SyICQZpv0Fy9BUTp5WrLNSnzmE2yagr37zR4wnSIk8B69CV0u4jbUrbBPf_LOAGHN86tgQOLq7HcvDWOM2YO4rSAXvmMNU3JJ6i6NCr3C8Q/XGmLhfxC02lhIdejM4Y3lg-cgC2SoZLegX9DUt-icI8
+  banner: null
+scf:
+  awarded_submissions:
+    - Stellarcarbon
+    - Stellarcarbon Fractional
+    - Stellarcarbon Launch
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recLcwrhYkZd6qH2o
+    - https://communityfund.stellar.org/dashboard/submissions/recenP9txM5nrDzjs
+    - https://communityfund.stellar.org/dashboard/submissions/recv1OdCUKlERWHLi
+  awarded_round:
+    - "SCF #11"
+    - "SCF #25"
+    - "SCF #33"
+  awarded_total: 150000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
