@@ -1,0 +1,42 @@
+title: Teken
+other_names:
+  - Teken - Easy Multi-Signatures
+parent: null
+description: "Teken’s mission: an easy-to-use multi-signature app for Stellar,
+  enhancing security and collaboration via Soroban smart contracts."
+links:
+  website: https://github.com/MoonBite-GmbH/multisig-ui
+  blog: null
+  x: null
+  linkedin: https://linkedin.com/company/moonbite-gmbh/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/MoonBite-GmbH
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: Germany
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/UQSr7gD1gSk2QpzGFgi8JA/VvEWbHgg4xRYmb5mugemNjUyQgBj7TEYbZlno4HicjI0NgZ77bbs5yi5LDyFEl0EZmAQgu3jSHY9jtk369Y_H_G99V5_l7w0thkGMjHl7BuJW_i1xTLrdWPvX1BTUy3Kz-i5IsmJC4_7ZPFz_tr_bxRwZ2nPT5lIHSuJpf_dAhXU0yibs0bB_N6_Vto6qCmj/ov3oxl70-VFEXR8NMr-Cm_QvVcUvnwPG_je9fhBD-A0
+  banner: null
+scf:
+  awarded_submissions:
+    - Teken - Easy Multi-Signatures
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recL7dgmOKB1HHEOo
+  awarded_round:
+    - "SCF #28"
+  awarded_total: 29500
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
