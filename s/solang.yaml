@@ -1,0 +1,45 @@
+title: Solang
+other_names:
+  - '"Solidity Contracts on Soroban"'
+parent: null
+description: Allows writing Soroban contracts with Solidity, by integrating
+  Soroban as a compilation target for Solang.
+links:
+  website: https://github.com/hyperledger/solang
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/hyperledger/solang
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: Egypt
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/fqf3YshZqcFkPDg-XmcDPg/zm9J9nJKN80YDO1skVSS79FyLVh0pRp-8itQXaLPkhsA_VCfSYOS0TM0jvUZnwPAZtzkObb6giogdFpT_WMUan3lm9CIqAjIOjUorivexgai6ZEkX4eIGHC8CkNoDGUhCsjh7z7Yy5ZO6Y3PGoHiNg/XkRCEY2mJoYV7g3Ho9ExoGvlugHLoj9KuNj43yr8-2s
+  banner: null
+scf:
+  awarded_submissions:
+    - Solidity Contracts on Soroban
+    - Solidity Contracts on Soroban II
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recWWbmWDvFunh3xR
+    - https://communityfund.stellar.org/dashboard/submissions/recKGeG7HDjxMYAaM
+  awarded_round:
+    - "SCF #20"
+    - "SCF #23"
+  awarded_total: 32000
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
