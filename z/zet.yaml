@@ -1,0 +1,42 @@
+title: ZET
+other_names:
+  - RWA Tokenization on Stellar
+parent: Amber
+description: Protocol to tokenize real world assets on Stellar network. 
+  Protocol to tokenize real world assets on Stellar network.
+links:
+  website: https://ambergroup.io
+  blog: https://https://www.ambergroup.io/news
+  x: https://x.com/ambergroup_io
+  linkedin: https://linkedin.com/company/amberbtc
+  discord_server: https://discord.gg/V7tYzqjV
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/ambergroup-io
+linktree: null
+attributes:
+  category: RWA
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: Singapore
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/_YhJBhep-7uujBMIseQD4A/QkkrmBRYpBfGvwWtrGBnAlNRHHMoy5JT21OuJqf_MmzpOpI8K6PKzTQjXZnvbMq4KTuTSq7arOMUQOMlG9rsJ8iSqw6_2MCVawKflhnE6WkBVryDYIyUxslGLgjjiQO81PhnWjcAZzDWjH_2-I-2Kw/GfJfdWsrqAK5Wg5fhaCwSCL6szvQL7UwBjSjm-3ZV5U
+  banner: null
+scf:
+  awarded_submissions:
+    - RWA Tokenization on Stellar
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recXjFURUH3LkyzQA
+  awarded_round:
+    - "SCF #20"
+  awarded_total: 50000
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
