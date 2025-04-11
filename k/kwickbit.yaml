@@ -1,0 +1,45 @@
+title: Kwickbit
+other_names:
+  - '"Kwickbit: Corp DeFi Accounting"'
+parent: null
+description: Enhance DeFi accounting with full transaction history,
+  reconciliation, financial reports via UI/API, expand protocol integration.
+links:
+  website: https://kwickbit.com
+  blog: https://https://kwickbit.medium.com/
+  x: https://x.com/kwickbit
+  linkedin: https://linkedin.com/company/kwickbit
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/kwickbit
+linktree: null
+attributes:
+  category: Data & Onchain Tools
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: " Estonia"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/4LaHDShBGncFBxqXK0IN4g/nbWORyK1YCuzZbpwPlAwv8AC7Adot432kiAoHgNy75IJBMwpZX-RgvVeDC_aDj1JQVFWLX27fr2Ze2KrxXzRtd7AhPy0qBQz-KSebPYs2HwQoK0vAhGldbSNhjvu1aGGR8KHXDAFWYCnxlUsPiIuU6J_-qbAkS3RRF5C6Sy2DbQ/N-NwuCTysblySzE4bqqbSqAUgcxaAkbWvwHnX5MVFbE
+  banner: null
+scf:
+  awarded_submissions:
+    - "KwickBit: Compliance made easy"
+    - "Kwickbit: Corp DeFi Accounting"
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec4NbrgB4FWGVIm4
+    - https://communityfund.stellar.org/dashboard/submissions/recrcyLc9CBiDZ8Ev
+  awarded_round:
+    - "SCF #20"
+    - "SCF #24"
+  awarded_total: 119000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
