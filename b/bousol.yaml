@@ -1,0 +1,45 @@
+title: Bousol
+other_names:
+  - '"Bousol Wallet"'
+parent: null
+description: Bousol is a blockchain-based digital wallet enabling secure,
+  low-cost cross-border payments and financial services for underserved
+  communities.
+links:
+  website: https://bousolapp.com
+  blog: null
+  x: null
+  linkedin: https://linkedin.com/company/paon-bleu/
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/@paonbleu
+  instagram: https://instagram.com/bousolht
+  reddit: null
+  tiktok: https://tiktok.com/@bousolht
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services:
+    - LatinAmerica&Caribbean
+    - NorthAmerica(withoutMexico)
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/cPERi4VpaPhI72FeQh6F1Q/NOTz62zHbtJgQYUz1P_jQvZvRW39ZUwm4znMMgiqKYG6aLhbU3IhTi_gqsgMWENr2bpj2Jt4U8np-4H_HbI_EyE7ZinfFKgtD3C-eqDvtbJOyhlrP34ePzNjfTzIs9eDGrX8BmGZjSKcAZ7c8qr1p0PvCt_AKFvWmtuyivvcTjo/8rBU9I1NWIOQ4AVTh7quoK9hB3mph21mJDPccARk6IY
+  banner: null
+scf:
+  awarded_submissions:
+    - "BOUSOL Wallet "
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recm9ZUkSwbmmjm9I
+  awarded_round:
+    - "SCF #30"
+  awarded_total: 149215
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
