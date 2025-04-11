@@ -1,0 +1,47 @@
+title: Unalivio
+other_names: null
+parent: null
+description: Unalivio is a payments method that allows migrants to pay families’
+  bills from abroad with stablecoins, increasing sales for SMEs.
+links:
+  website: https://unalivio.com
+  blog: null
+  x: https://x.com/somosunalivio
+  linkedin: https://linkedin.com/company/unalivio/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: " Mexico"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/_RY3qZXTmkF6I3Dm9U5QJw/_aB14roiAn33n8xEGr2lqXkAMYpLMh6j59NPIf1dNoy-tZh3FZ5edv8ZHUi8a6uyN4R3x-tWEH7hxTBdRDiSDe3qxkR7bNGPohOuP7w_1NkTd-vijafrTkksPFvKwyP5pmEEJhFiFgDc3xMdvs4qvg/FSKhMpkbNhLcb3Nwmsv_ArN14q-cp7mZe7mQYC8-kow
+  banner: null
+scf:
+  awarded_submissions:
+    - Unalivio Stablecoin payouts
+    - USDC payments for LatAm stores
+    - Venezuelan fiat cash-in for Unalivio
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recf9SxVKM35hZWQj
+    - https://communityfund.stellar.org/dashboard/submissions/rec4s8vcXcD1RHTSl
+    - https://communityfund.stellar.org/dashboard/submissions/recr8lMAr4tFTrfDt
+  awarded_round:
+    - "SCF #16"
+    - "SCF #29"
+    - "SCF #32"
+  awarded_total: 150165
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
