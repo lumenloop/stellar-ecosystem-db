@@ -1,0 +1,49 @@
+title: Copperx
+other_names:
+  - '"Copperx - Gateway and Payout"'
+parent: null
+description: >-
+  Copperx provides payment tools and APIs for digital money, enabling businesses
+  to accept crypto and fiat payments through a unified interface, and
+  facilitating global payouts to vendors, contractors, and employees in over 50
+  countries. 
+
+  Their solutions include payment links, recurring billing, and e-commerce integrations, streamlining financial operations for web3 companies.Copperx provides payment tools and APIs for digital money, enabling businesses to accept crypto and fiat payments through a unified interface, and facilitating global payouts to vendors, contractors, and employees in over 50 countries. 
+
+  Their solutions include payment links, recurring billing, and e-commerce integrations, streamlining financial operations for web3 companies.
+links:
+  website: https://copperx.io
+  blog: https://https://copperx.io/blog
+  x: https://x.com/CopperxHQ
+  linkedin: https://linkedin.com/company/copperx/
+  discord_server: null
+  telegram: https://t.me/+bVxXaalfhF8wMDFl
+  youtube: https://youtube.com/@copperxhq
+  instagram: https://instagram.com/copperxhq/
+  reddit: https://reddit.com/r/Copperx/
+  tiktok: null
+  github: https://github.com/copperxhq
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: United Arab Emirates
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/_h5qG3iZKYjwgraSbHJLTA/Q5cDLUebBxPhoFPF59Y9x6S5q1508i9Sbf3elXaXJ7xrAQ4sruI7EY-uOJsYZE-zuYWroBotM3EQ701FEH5RtD85FN2DtZHAGcMG6UwARvNkx5XkegYU4_Ry6JDQ3O_6tAPJ-mNdJ0yhPu4ri3Bs05JDcC8iQH8yUBk9TYwLwSeWjLSpydJj6rCkXj2aAVdq/Gjl5PJa5qK6PBw_Urm2SaiLsVYj5MdUpTvUAZ6eb2go
+  banner: null
+scf:
+  awarded_submissions:
+    - Copperx - Gateway and Payout
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec02RUwR3wO7gsH3
+  awarded_round:
+    - "SCF #29"
+  awarded_total: 50000
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
