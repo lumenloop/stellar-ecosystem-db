@@ -1,0 +1,43 @@
+title: Qolaq
+other_names:
+  - '"Qolaq Mutual Aid Platform"'
+parent: null
+description: QolaQ is a community-driven mutual aid platform that leverages
+  blockchain technology to provide transparent and decentralized support for
+  members during times of need.
+links:
+  website: https://qolaq.org
+  blog: https://https://medium.com/@readQolaQ
+  x: https://x.com/Qolaq_org
+  linkedin: https://linkedin.com/company/qolaq-foundation/
+  discord_server: null
+  telegram: https://t.me/qolaqID
+  youtube: null
+  instagram: https://instagram.com/qolaqfoundation/
+  reddit: null
+  tiktok: null
+  github: https://github.com/QOLAQ
+linktree: null
+attributes:
+  category: Sustainability & Public Goods
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: Indonesia
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/S84NeeNrAdxTgldi0qerUA/Yw45fts-xV7AxC-rdvfJGE-fOppXiWqlO0vhNEr_Tc8PVMbWxmn_GqBsQ79sU2qoMMZOpFnQpbXNkIM52Ck2m5Ou2Wjq2E0mR9Wuf7PWmqxUVhSaOSNVHNjXNIT0BXm1dQ767vvAmk2jsd2Gw-Aqzg/rIxPyxO2kQnFCFsMSCjDGnsb_XMV-adwpozWeHbiMZE
+  banner: null
+scf:
+  awarded_submissions:
+    - Qolaq Mutual Aid Platform (MAP)
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec5E23kDxA8mUFZP
+  awarded_round:
+    - "SCF #13"
+  awarded_total: 150000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
