@@ -1,0 +1,46 @@
+title: SoroBuilder
+other_names: null
+parent: null
+description: SoroBuilder is an AI-driven, browser-based environment designed to
+  streamline Soroban smart contract development. It builds full smart contracts
+  with tests and documentation after an initial conversation with AI. You can
+  then iterate with AI by prompting, editing manually, compiling and seeing
+  errors, testing, applying an LLM auditor, static analysis, and eventually
+  deploying all in-browser.
+links:
+  website: https://sorobuilder.com
+  blog: null
+  x: null
+  linkedin: https://linkedin.com/company/missio-ia
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/luisao8/sorobuilder
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - Nospecificregionofoperation
+  country: Spain
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/GPVe-AaQrK3YaFOZEt3tRg/WZLg4KJ5NEwyZ1vfHQiWbMTk40hg0iKxn9LnX8pWrnV7yoYTSKDgX_fP3UBE9R-tCVROdIx7XTMBqUqmiMA0EMZEid4BACT3Q3gKndYgG8Ti8Tq81yQwNyX0LaL87FyNWCMxyzFtUW-n9WO8Doh9Lw/YaHUWJtMDVVadXi-E3gT42flvQD2PzKVx8N6lAsy9o4
+  banner: null
+scf:
+  awarded_submissions:
+    - Soroban AIssistant
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/reccr8QR0TDBxQWI8
+  awarded_round:
+    - "SCF #29"
+  awarded_total: 42500
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
