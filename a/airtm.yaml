@@ -1,0 +1,41 @@
+title: Airtm
+other_names: null
+parent: null
+description: Airtm is a digital wallet and peer-to-peer exchange platform that
+  enables users to receive payments, add funds, withdraw money, and send or
+  request funds globally. Their Enterprise Platform offers businesses efficient
+  cross-border payment solutions, facilitating mass payouts and collections
+  through over 500 payment methods in emerging markets.
+links:
+  website: https://airtm.com
+  blog: https://https://www.airtm.com/es/blog/
+  x: https://x.com/airtminc
+  linkedin: https://linkedin.com/company/airtm/
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/AirtmInc
+  instagram: https://instagram.com/airtminc/
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
