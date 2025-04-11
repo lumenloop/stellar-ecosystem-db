@@ -22,8 +22,8 @@ attributes:
   tags: []
   smart_contracts: null
   regions_services:
-    - NorthAmerica(withoutMexico)
-    - LatinAmerica&Caribbean
+    - North America (without Mexico)
+    - Latin America & Caribbean
   country: United States
 images:
   icon: null
