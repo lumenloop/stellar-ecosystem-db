@@ -1,0 +1,39 @@
+title: OWNY
+other_names: null
+parent: null
+description: Owny is an AI-powered financial management platform that
+  streamlines capital, investor, and banking operations for startups, private
+  equity, and venture funds.
+links:
+  website: https://owny.com
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: RWA
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
