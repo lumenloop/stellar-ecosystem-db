@@ -1,0 +1,38 @@
+title: Blockdaemon
+other_names: null
+parent: null
+description: Blockdaemon is a blockchain infrastructure platform that offers
+  node deployment, staking, and API solutions across multiple networks.
+links:
+  website: https://blockdaemon.com
+  blog: https://https://www.blockdaemon.com/blog
+  x: https://x.com/BlockdaemonHQ
+  linkedin: https://linkedin.com/company/blockdaemon/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Blockdaemon
+linktree: null
+attributes:
+  category: RPC & Nodes
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
