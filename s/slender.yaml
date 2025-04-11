@@ -1,0 +1,48 @@
+title: Slender
+other_names: null
+parent: EQ Lab
+description: Slender is a decentralized lending protocol built on the Stellar
+  blockchain, enabling users to lend and borrow assets without collateral. It
+  offers dynamic and fair interest rates based on a smooth hyperbolic function,
+  ensuring competitive passive yields for lenders.
+links:
+  website: https://slender.fi
+  blog: https://https://blog.eqlab.io/
+  x: https://x.com/Slender_fi
+  linkedin: https://linkedin.com/company/eq-lab/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/eq-lab/slender
+linktree: null
+attributes:
+  category: Lending & Borrowing
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: " Portugal"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/daCwFIKKfiqMHF0Vji89PQ/RQocZZTJWpOZyFuc43Igv-LE30JD-q15TmjiDLDcZFn9YZ2BfTLdrofO1IKemCBR-9qq0HKZHy1dZdiQKr3Qf_RX1HHL8cOZBSf7qRXqiOXMBLehx7fTpJh6Ll7SZ1UXugKFy38tgcG8bt722g6tMQPAQual_amS6DBNMCQZr5vZxL6kO9_NIfKuQG5QWQ-g/Rd2zV0n1WdXqgBRF-snUFLoaVD1Aym5hCv3_Sg9gbaI
+  banner: null
+scf:
+  awarded_submissions:
+    - Slender
+    - Slender Lending protocol
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recPZV9KigYc4et2I
+    - https://communityfund.stellar.org/dashboard/submissions/recg1FCAdn5g38z6k
+    - https://communityfund.stellar.org/dashboard/submissions/recRurHO7V9QZxJjW
+  awarded_round:
+    - "SCF #17"
+    - "SCF #21"
+    - Liquidity Award - '24 Q1
+  awarded_total: 296750
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
