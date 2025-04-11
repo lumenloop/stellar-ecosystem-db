@@ -1,0 +1,42 @@
+title: Lumen Loop
+other_names: null
+parent: null
+description: Lumen Loop aggregates the latest news, projects and events from the
+  Stellar ecosystem into one central hub.
+links:
+  website: https://lumenloop.com
+  blog: null
+  x: https://x.com/lumenloop
+  linkedin: https://linkedin.com/company/lumenloop
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/@lumen_loop
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/lumenloop
+linktree: null
+attributes:
+  category: Data & Onchain Tools
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - NorthAmerica(withoutMexico)
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/87A9uk9PBtuBp9anqhnIdg/KtFgbnba6hDc1CiLx-TKD1QEN28TA-0mA6aYxInNDdfOJXwZP8Bs-x8OamCf8GL69unDbgc1j33WYDiNTmilM1L2W5592WRw4TXbkP-ml8RCsV-l7_x3rEK5HXs9gCjzaV6eohnN72GnFx0ke_pAkg/oXpX1gJCwOhKwpRttZdISjZKmbc-6YB7rNQgj_B98gM
+  banner: null
+scf:
+  awarded_submissions:
+    - Lumen Loop
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recIejuRkvbm4kZSv
+  awarded_round:
+    - "SCF #26"
+  awarded_total: 29320
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
