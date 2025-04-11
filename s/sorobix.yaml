@@ -1,0 +1,41 @@
+title: Sorobix
+other_names: null
+parent: null
+description: An online IDE to compile, deploy, invoke and debug Soroban Smart
+  Contracts on-the-fly using a browser without any local setup!.
+links:
+  website: https://sorobix.xyz
+  blog: null
+  x: https://x.com/sorobix_ide
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/sorobix
+linktree: null
+attributes:
+  category: IDE
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/nNk6U6bRVpg2GnkFA_RLFA/sxfI1M8mZWW8ZqRf89dHONLwb2NSU4QiqP9w8ktH92trqz7TXWiUGVDFBChqoRyeco_aHQyarn7Uac3La79OyZtXBRNsccgkBI90DP3TRMkz4Uzyh8_Vgm288JVyTF5_lBl2D5hf85l_mvYnH2cuIA/Xptu17JkFQ4g-CeV1SP7mrTz8mpKquSF-eSsSo8Anv8
+  banner: null
+scf:
+  awarded_submissions:
+    - Sorobix
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recgHtdnSOVB0qjp0
+  awarded_round:
+    - "SCF #13"
+  awarded_total: 40000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
