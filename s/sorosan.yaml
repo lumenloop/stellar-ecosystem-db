@@ -1,0 +1,41 @@
+title: Sorosan
+other_names: null
+parent: null
+description: Sorosan is revolutionizing Stellar by simplifying smart contracts
+  with a user-friendly Dapp & SDK, making Web3 accessible to all.
+links:
+  website: https://sorosan-dapp.vercel.app
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Sorosan
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/jFwOANYMJVNsFSVmkjyR0A/k-oaxixmcGD6R8uktMn66toEHi4VxG7k28xo2TCGqgy-4_e_HVJHpwZOSohg9aXdqA9abJpI148KI4IVbstg3paq8sWQ2xGrikB59QqbuXx6zeSVm-1txSwHb4IxeSR6-boWvJWDFRFSg2XyIynzGQ/BqjozB4VOhSRn_YIJcB_n_2axnhtvpaOhc396-QSy9I
+  banner: null
+scf:
+  awarded_submissions:
+    - Sorosan
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recOUvfemPw2HWWtK
+  awarded_round:
+    - "SCF #20"
+  awarded_total: 29000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
