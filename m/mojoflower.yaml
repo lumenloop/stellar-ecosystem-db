@@ -1,0 +1,49 @@
+title: Mojoflower
+other_names: null
+parent: null
+description: Mojoflower is building a number of products on Stellar. Bloom is a
+  entity creator built on Soroban and Petal is a document signing service that
+  allows users to sign documents using their Stellar wallets.
+links:
+  website: https://mojoflower.io
+  blog: https://https://mojoflower-oli.medium.com/
+  x: https://x.com/mojoflower_io
+  linkedin: https://linkedin.com/company/mojoflower/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instargram.com/mojoflower
+  reddit: null
+  tiktok: https://tiktok.com/@qolaq.foundation
+  github: https://github.com/Mojoflower-garden
+linktree: null
+attributes:
+  category: Verification
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/2osgs2Jm_J7Jm8pUOKon_A/D9ElLYZuJT6ejg1o1tfHld64ctIusNMlf28whbkE_Iqrg0-YqKs6263deEW5gjslmdDEvlr_Ply3Yla0babegXRVagegyg-95kIz6vx4tSgdClBlU7ebGy61UYmWn1YkAqqw6pWGp0ZNO1ZvhFeR4UE0mBceV-r4zHPQChR6wJw/8SuQVmyF3G7beOTR2NwkAIj2HRZ8F1Vvj2uY_eSHiX0
+  banner: null
+scf:
+  awarded_submissions:
+    - Bloom and Petal
+    - Flora
+    - Mojoflower - Government issue share-ledgers and share-management tools for
+      SMEs.
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec5zyGnVx1mUR50F
+    - https://communityfund.stellar.org/dashboard/submissions/rec2zLlTCpBSzq6XL
+    - https://communityfund.stellar.org/dashboard/submissions/recY7hkMQ59n12mOa
+  awarded_round:
+    - "SCF #17"
+    - "SCF #11"
+    - "SCF #7"
+  awarded_total: 343915
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
