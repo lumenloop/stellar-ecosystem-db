@@ -1,0 +1,44 @@
+title: Tauvlo
+other_names: null
+parent: null
+description: Tauvlo is a tokenized real estate investment marketplace that makes
+  investing in real estate accessible for everyone.
+links:
+  website: https://tauvlo.com
+  blog: https://https://www.tauvlo.com/blog
+  x: https://x.com/tauvlo
+  linkedin: https://linkedin.com/company/tauvlo-a-tokenized-real-estate-marketplace/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/tauvlo
+linktree: null
+attributes:
+  category: RWA
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: Czech Republic
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/IQq2233btd7GY9Ny56rB3A/XqPvUPeBDRbCRHP0sJqsHUL1sOETiFpWQZdvXiwKIGZTnHd8S2wNwBubgFJDs-Q9LF-YEuwnXw6JYmaDDSeVDyH9v_JgjwFLtu3_Rz1Gc9vOKlqJ-8vHV-ogzBPrb50ndQRKvf4OPzRlBRCa2O62qUGJ26lh8RHu58A8VqmJ1c0/O1AlOHzBRNSDQA3xBvwV7x9V87FtHYaX4n8JrPkFpYQ
+  banner: null
+scf:
+  awarded_submissions:
+    - Tauvlo
+    - tauvlo - tokenized real estate
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recfgOVFwu6cukrrT
+    - https://communityfund.stellar.org/dashboard/submissions/rece6tiLTFxaIp9T8
+  awarded_round:
+    - "SCF #23"
+    - "SCF #26"
+  awarded_total: 145000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
