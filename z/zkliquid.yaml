@@ -1,0 +1,43 @@
+title: ZKLiquid
+other_names:
+  - "LiquidsFi: EVM - Soroban Bridge"
+parent: null
+description: ZKLiquid is a decentralized liquidity protocol and interoperability
+  relay network connecting liquidity across siloed blockchains.
+links:
+  website: https://zkliquid.io
+  blog: null
+  x: https://x.com/LiquidsFi
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/ZKLiquid
+linktree: null
+attributes:
+  category: Bridge
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - NorthAmerica(withoutMexico)
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/DST55BVPQqc5d0hwoELNfA/ZKUqI4szWi6X5TNzysW1SO5TAQrmNtf65olszlnhnkvsQZEkulmOEotDMYeHdmLVepNYAYjPzJtTRDZt4rLZgIrJ7iO3_5SBkaoEMR6JzcZTnIRipA6AZCzzUERf6oV0h0q4sHB_dIoKz5iBOS7evQ/Rbd2MgaGlIJsJ9-WlXZR8JC3bP3y_3tyTTyE6Da59rE
+  banner: null
+scf:
+  awarded_submissions:
+    - "ZKLiquid: EVM - Soroban Bridge"
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec97jRXGlg930CDY
+  awarded_round:
+    - "SCF #28"
+  awarded_total: 41525
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
