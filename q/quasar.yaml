@@ -1,0 +1,41 @@
+title: Quasar
+other_names: null
+parent: Eiger
+description: Decentralized price feed oracle grid for Stellar DeFi smart
+  contracts to support derivatives, lending, and asset management.
+links:
+  website: https://eiger.co
+  blog: https://https://eiger.co/blog
+  x: https://x.com/eiger_co
+  linkedin: https://linkedin.com/company/eigerco/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/eigerco/quasar
+linktree: null
+attributes:
+  category: Oracle
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/iPjAn8mJRtY8KWklA0mf7A/vbhT04h0eUt334GGT3zIZ84EoJ1xoyODT76v9eMzG_Npmcg-UURk4K51UXhaQrpNdJozb1I81D7ZsNmnOK-miFYimPQzC2f5crgD41n5fRzEWwZ-4XGH3e-FpeNya4CtN19cRRN0YUnAYBtibpxpGA/1hbTc_NkeGZXPy-rK8_rTzy1N8TVXy6XQXk5ZVjT3Yw
+  banner: null
+scf:
+  awarded_submissions:
+    - Quasar & Pulsar
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recWzlad3fCofg3tX
+  awarded_round:
+    - "SCF #21"
+  awarded_total: 100000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
