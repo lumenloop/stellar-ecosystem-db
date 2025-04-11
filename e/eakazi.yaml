@@ -1,0 +1,41 @@
+title: EA Kazi
+other_names: null
+parent: null
+description: EaKazi combines and decentralizes Udemy+Freelancer allowing easy
+  access to freelancers with verifiable credentials.
+links:
+  website: https://biotlabs.africa/projects/ea-kazi
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Grants-Projects/EA_KAZI_backend_ic
+linktree: null
+attributes:
+  category: Verification
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/xDa19iCELNQuSKKb0xdoLA/9I8lDhzraqP7zrU6gl3D4uP33ry5A0uQODGFv38rkeI4WuvaPezKbUeR-Gmy8YI89dUGvXkBrwVQMecJpBc0v1fmJcipa3SFhgShNqN9T33t3jK2wRnWX7iVi1fwAQ9qxuMw0dh2mK8Mpc9vqZ-7JQ/QsoqiLijbQcSQlyFfJtaAKQqMyHA1eTY9v8mU9qCq0s
+  banner: null
+scf:
+  awarded_submissions:
+    - EA Kazi
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recFjl5hx6W6MpaKT
+  awarded_round:
+    - "SCF #29"
+  awarded_total: 36000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
