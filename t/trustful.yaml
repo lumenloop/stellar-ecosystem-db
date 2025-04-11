@@ -1,0 +1,47 @@
+title: Trustful
+other_names: null
+parent: null
+description: A reputation system using Stellar badges and on-chain data that
+  prioritizes fair cross-community collaboration over wealth.
+links:
+  website: https://figma.com/proto/i5QYp8ljphq5Zdv6BIt5op/Trustful?node-id=1-56&starting-point-node-id=1%3A56
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/blockful-io
+linktree: null
+attributes:
+  category: Data & Onchain Tools
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - LatinAmerica&Caribbean
+  country: " Brazil"
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions:
+    - Trustful
+    - Trustful v1 – System Decentralization
+    - Quadradic Funding Reputation Based
+    - Community Incentives and Developer Resources
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recTRjymkbSHuOlXH
+    - https://communityfund.stellar.org/dashboard/submissions/recnj68U9UZAHjBOi
+  awarded_round:
+    - "SCF #27"
+    - "SCF #30"
+  awarded_total: 142000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
