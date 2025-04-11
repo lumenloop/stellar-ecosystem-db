@@ -1,0 +1,40 @@
+title: Fonbnk
+other_names: null
+parent: null
+description: Fonbnk is a global marketplace that enables users to convert local
+  currencies, including prepaid mobile airtime, into digital assets like
+  stablecoins, facilitating fast and secure dollar-based settlements across
+  Africa.
+links:
+  website: https://fonbnk.com
+  blog: https://https://www.fonbnk.com/blog
+  x: https://x.com/fonbnk1
+  linkedin: https://linkedin.com/company/fonbnk
+  discord_server: null
+  telegram: https://t.me/+nQV508SoBgliNzA0
+  youtube: null
+  instagram: https://instagram.com/fonbnk00
+  reddit: null
+  tiktok: null
+  github: https://github.com/fonbnk
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
