@@ -1,0 +1,53 @@
+title: Beans
+other_names:
+  - '"Beans app"'
+parent: null
+description: Beans is a non-custodial payments and savings app built on the
+  Stellar blockchain, designed to provide the general public with a seamless
+  banking experience that leverages blockchain technology. By abstracting
+  complex blockchain elements, Beans offers instant, free, and secure
+  international money transfers, currency conversions at competitive rates and
+  savings accounts.
+links:
+  website: https://beansapp.com
+  blog: https://https://www.beansapp.com/blog
+  x: https://x.com/BeansApp
+  linkedin: https://linkedin.com/company/beans-bv/
+  discord_server: https://discord.gg/GPaNsZrcdP
+  telegram: https://t.me/Wearebeansapp
+  youtube: https://youtube.com/channel/UC8Mx-J82Wms0EDBYTDfuIBw
+  instagram: https://instagram.com/beansapp_
+  reddit: null
+  tiktok: null
+  github: https://github.com/Beans-BV
+linktree: null
+attributes:
+  category: Wallet
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: Netherlands
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/0UQz1wS44lZ46u_9cB13oA/Qkgu3NWbpQjyGzQ5g7MiwLWkqDimR8M6QackiD38Dw2mQMFnj0YXuA1_TCvZb0tMFtgDKhNJPRs4L_ELKfTKzdLtejl5KLZXK1V7lK9gV7S32XzQzD2Jz9XKV_jtIvP47sJ73bKxOW_EUkXmAPE15aPUEmivI3JC__TehrI7FLQN5K9LKcBGMmGBr3ScdIRQSV-3eS1cLBHo41kcE-wTDENmRJE7Hf4Y-c2wFhr5BLs/Io8cOqxIPsn5aRZghFInBigWwUBNZ5YZtvGkqYaz818
+  banner: null
+scf:
+  awarded_submissions:
+    - Beans app
+    - Beans app - Cards & passkeys
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/reclezdtsxQM16L25
+    - https://communityfund.stellar.org/dashboard/submissions/recoZCxDJu6l9Sy9S
+    - https://communityfund.stellar.org/dashboard/submissions/recCm6EsKKmPbx6ow
+    - https://communityfund.stellar.org/dashboard/submissions/recl9kp1khhJSoxKF
+  awarded_round:
+    - "SCF #10"
+    - "SCF #15"
+    - "SCF #21"
+    - "SCF #29"
+  awarded_total: 490160
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
