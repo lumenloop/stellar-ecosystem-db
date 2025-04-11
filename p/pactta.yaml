@@ -1,0 +1,42 @@
+title: Pactta
+other_names:
+  - '"Pactta API"'
+parent: null
+description: Pactta enhances anchor interoperability by providing a single API
+  that enables any fintech in LatAm to offer seamless money transfers.
+links:
+  website: https://pactta.com
+  blog: null
+  x: https://twitter.com/intent/follow?screen_name=paychant
+  linkedin: https://linkedin.com/company/paychant/?viewAsMember=true
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/WqPk6SKNogPuxn9M1ZNIGA/PiJ8boLsqH1l5xOREDgkwyQ1jGvjhDe-JoQkXGMNj2tV_CfdyRsf6_EFWi--__dibxTFqVsNkdw8fEgh2IEvkqlQUWi2e91L0Z1IcFanyFxMqNwFc8lPKSZqv6LOT07f-38QFl0p7Tz4gvMLSvclWQ/dOP2qGPDzDO03jo7fPuO_uBDYux-NRIMFtbFi9rkT-c
+  banner: null
+scf:
+  awarded_submissions:
+    - Pactta API
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recwe0UWBi0QuT5SH
+  awarded_round:
+    - "SCF #16"
+  awarded_total: 120700
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
