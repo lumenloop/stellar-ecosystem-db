@@ -1,0 +1,45 @@
+title: Smilepay
+other_names:
+  - '"Smilepay Global"'
+parent: null
+description: Peer-to-Peer mobile app and USSD that helps African diasporas send
+  money, buy airtime and pay utility bills for friends and family in Africa, in
+  real-time and free of charge.
+links:
+  website: https://smilepay.app
+  blog: https://https://medium.com/@Smilepay
+  x: https://x.com/smilepay_global
+  linkedin: https://linkedin.com/company/smilepay-global
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/smilepay_global/
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services:
+    - NorthAmerica(withoutMexico)
+    - Sub-SaharanAfrica
+  country: Ethiopia
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/tZSIcd_77w-UsxbbVQ5ZPQ/cLmG12iIJZZZQCf-C5HbQCvv_B_-GatBZgmAHYgp_HPP9grKvzrwnU3YwzO-oZkFOro0iTzzTi6D69WeyIkG_nTy2XHClE8YpMs_dS12RTi_aWuNUEdZchwlcdFui-nk2f131R0A9yAXOvQitLqzug/8rSHD1gYrPa7nnhJFdxzs0LmAO_0BJyXB3qQnmnbTqs
+  banner: null
+scf:
+  awarded_submissions:
+    - Smilepay
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/reccZhjIQWWzQ12PS
+  awarded_round:
+    - "SCF #10"
+  awarded_total: 50000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
