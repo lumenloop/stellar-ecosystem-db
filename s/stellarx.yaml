@@ -1,0 +1,44 @@
+title: StellarX
+other_names: null
+parent: Ultra Stellar
+description: StellarX is a decentralized trading platform built on the Stellar
+  network, enabling users to trade a wide range of assets directly from their
+  wallets. It offers access to Automated Market Makers (AMMs) for liquidity
+  provision and supports seamless on and off-ramp services for various
+  cryptocurrencies.
+links:
+  website: https://stellarx.com
+  blog: https://https://medium.com/stellarxhq
+  x: https://x.com/stellarxhq
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: DEX
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions:
+    - Ultra Stellar / Soroban Integration
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recWR4fbwZYJ72i34
+  awarded_round:
+    - "SCF #17"
+  awarded_total: 144000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
