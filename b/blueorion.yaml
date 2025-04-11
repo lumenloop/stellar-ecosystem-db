@@ -1,0 +1,46 @@
+title: Blue Orion
+other_names: null
+parent: null
+description: Providing workshops on token creation and smart contracts based on Stellar.
+links:
+  website: https://blueorion.cc
+  blog: null
+  x: https://x.com/blueorioncc
+  linkedin: https://linkedin.com/company/blueorion
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/blueorionblockchain
+linktree: null
+attributes:
+  category: Education & Accelerator
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions:
+    - Timed Transactions API - Schedule payments on the Stellar network!
+    - Blue Orion - Stellar Workshops & Seminars
+    - Free Voting Platform
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recOamGIP0chX9mhu
+    - https://communityfund.stellar.org/dashboard/submissions/receayD2QsCLZdyXP
+    - https://communityfund.stellar.org/dashboard/submissions/recd1qeJidXyA4Lpm
+  awarded_round:
+    - "SCF #1"
+    - "SCF #3"
+    - "SCF #5"
+  awarded_total: 38400
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
