@@ -1,0 +1,41 @@
+title: Fluxity
+other_names: null
+parent: null
+description: Offers businesses and individuals unprecedented payment
+  customizability through a precision-crafted token streaming platform.
+links:
+  website: https://fluxity.finance
+  blog: null
+  x: https://x.com/luanlabs
+  linkedin: null
+  discord_server: null
+  telegram: https://discord.gg/JnT7KPEuQs
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/luanlabs/fluxity-v1-core
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: Turkey
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/lw-pk7BsYtP8Lk_7nA6wpg/DjK7Myd5l-5WGNMFpKyIh2UeK0Ww36utt1V-ncLLc7sqs1Gc3-eoiVOkM6d4CwynD11LqGDb_iHlQVRw2M_hCnQKaa1advpjbtQI6lwzV9jj27b8ndiiY3sVuNhzeapJQXmCsARPZ2tBuS30hgHDEw/jSlxQAseyZbepB99IczqsI8CvZst_nn9MV2BJtHPCkE
+  banner: null
+scf:
+  awarded_submissions:
+    - Fluxity
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recDXtqYuR8g9FMXt
+  awarded_round:
+    - "SCF #21"
+  awarded_total: 82750
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
