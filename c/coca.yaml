@@ -1,0 +1,45 @@
+title: Coca
+other_names:
+  - '"COCA.XYZ"'
+parent: null
+description: COCA is a digital wallet that integrates Multi-Party Computation
+  (MPC) technology with a non-custodial debit card, offering enhanced security
+  and flexibility for cryptocurrency users. It supports both virtual and
+  physical cards, enabling users to spend their digital assets at over 40
+  million merchants worldwide without the need to preload funds.
+links:
+  website: https://coca.xyz
+  blog: https://https://www.coca.xyz/blog
+  x: https://x.com/coca_wallet
+  linkedin: https://linkedin.com/company/cocawallet
+  discord_server: https://discord.com/invite/AVxksnCubn
+  telegram: null
+  youtube: https://youtube.com/@cocawallet
+  instagram: https://instagram.com/cocawallet/
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: Poland
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/5e9eEu2wTqlWV0VVz1uQQQ/WsOGCWT-iXJK5g7p_tkCaDK6azpO-p0pk062lAxD_zLznzxvZgWoVqrOg6_VlCDrO_TPuUYEMW5CEa72f4mpr8fXd5-SK6NUMeriiQY7SskS_52gqY335yX7aA1H2LePCixBRc5SCqnX1WY-QBEQ_-c7-p3Z4-L633y6KZ7_CdeLgvtOsH-MXI9dfnsGXC0A/K8oo7hW3M4ObPreUFXqGqgPAuZXm9SpzWc7wNzc2l-U
+  banner: null
+scf:
+  awarded_submissions:
+    - COCA.XYZ
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec2VJOCKxuBhs62G
+  awarded_round:
+    - "SCF #25"
+  awarded_total: 50000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
