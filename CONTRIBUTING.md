@@ -67,9 +67,6 @@ If you encounter a bug or have a suggestion for new features:
 
 This project adheres to the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/). By participating, you are expected to uphold this code. Please report unacceptable behavior to the project maintainers.
 
-## License
-
-By contributing to this project, you agree that your contributions will be licensed under the same terms as the project. Refer to the [LICENSE](LICENSE) file for details.
 
 ---
 
