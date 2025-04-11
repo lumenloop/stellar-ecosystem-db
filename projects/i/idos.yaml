@@ -22,13 +22,13 @@ attributes:
   tags: []
   smart_contracts: false
   regions_services:
-    - NorthAmerica(withoutMexico)
-    - Europe&CentralAsia
-    - Sub-SaharanAfrica
-    - MiddleEast&NorthAfrica
-    - EastAsia&Pacific
-    - SouthAsia
-    - LatinAmerica&Caribbean
+    - North America (without Mexico)
+    - Europe & Central Asia
+    - Sub-Saharan Africa
+    - Middle East & North Africa
+    - East Asia & Pacific
+    - South Asia
+    - Latin America & Caribbean
   country: Switzerland
 images:
   icon: null
