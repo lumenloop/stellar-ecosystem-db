@@ -1,0 +1,44 @@
+title: Stellot
+other_names: null
+parent: null
+description: Stellot is a privacy-first i-voting platform powered by the Stellar
+  blockchain, designed to provide transparent, verifiable, and anonymous online
+  voting solutionsStellot is a privacy-first i-voting platform powered by the
+  Stellar blockchain, designed to provide transparent, verifiable, and anonymous
+  online voting solutions.
+links:
+  website: https://stellot.com
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/stanbar/stellot
+linktree: null
+attributes:
+  category: DAO
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions:
+    - Stellot - e-Voting platform
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec4OC7H7Ywe9d5gN
+  awarded_round:
+    - "SCF #4"
+  awarded_total: 0
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
