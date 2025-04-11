@@ -1,0 +1,47 @@
+title: Eascrow
+other_names: null
+parent: null
+description: Eascrow utilizes Soroban for secure, cost-efficient web3 escrow,
+  ensuring swift, fraud-free payments for goods and freelancers.
+links:
+  website: https://eascrow.webflow.io
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Eascrow/Eascrow
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - Europe&CentralAsia
+    - LatinAmerica&Caribbean
+  country: " France"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/O1RdSFQWJTCFw4psoPymXQ/TAtxSEsPsrfdKzTqoM6RlDruN8TjVBuKa2hAAMVGmh7NXHTS4oGH_PEJnk7j1Fn4rJXNuXCuyopeKogqkChxFYZORz5nTMJi3qkDudGnEAbrQSdQriEn_A_rEyWVkA8IjEWQwzf-k0Pr36ZGcqzHVA/OiHsZGE35Ti1ts_17RKvVf4EjpiC35vVyABUI1dYako
+  banner: null
+scf:
+  awarded_submissions:
+    - Eascrow
+    - After Activation
+    - lets Build Eascrow !
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec5SQUCL0doQ1r5M
+    - https://communityfund.stellar.org/dashboard/submissions/rec6VkAae8WVHS0XA
+  awarded_round:
+    - "SCF #23"
+    - "SCF #32"
+  awarded_total: 147950
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
