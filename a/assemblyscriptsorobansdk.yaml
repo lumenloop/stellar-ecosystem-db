@@ -1,0 +1,50 @@
+title: AssemblyScript Soroban SDK
+other_names: null
+parent: null
+description: The AssemblyScript Soroban SDK is an open source SDK that supports
+  writing contracts for Soroban by using AssemblyScript.
+links:
+  website: https://github.com/Soneso/as-soroban-sdk
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Soneso/as-soroban-sdk
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - Nospecificregionofoperation
+  country: " Spain"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/i_GivMDtm3Z55v8qYskVug/wQeZuV6zuWwa8adFyziSuEdfitEoIxZb65t0wYxdf_ic5EzUbKa2Yya37lh8IxmKOmAYDVAuGffq_9vokm2_k69ESa2VHFJh1RrrtP9CHmYBxGuHm0EKrPaZ-uCT7SqX2uQ5fWLrN8nt_ifN_sfjdw/Oln--n4CqsURoj8zeoI5SFr05QRbgYoemOX3YZPeXe4
+  banner: null
+scf:
+  awarded_submissions:
+    - AssemlyScript smart contracts SDK
+    - AssemblyScript Soroban SDK
+    - AS Soroban SDK
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rechLNmH8fN9cBMQM
+    - https://communityfund.stellar.org/dashboard/submissions/rec2ypZv4xeGu177p
+    - https://communityfund.stellar.org/dashboard/submissions/rect2OQxgI4OYMgTd
+    - https://communityfund.stellar.org/dashboard/submissions/rec6BPjqE2tB48RQX
+  awarded_round:
+    - "SCF #10"
+    - "SCF #14"
+    - "SCF #18"
+    - "SCF #28"
+  awarded_total: 158460
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
