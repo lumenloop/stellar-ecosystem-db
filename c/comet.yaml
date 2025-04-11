@@ -1,0 +1,44 @@
+title: Comet
+other_names: null
+parent: null
+description: Comet is a weighted AMM protocol that offers soroban projects a
+  flexible solution set when picking liquidity venues.
+links:
+  website: https://github.com/CometDEX
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/CometDEX
+linktree: null
+attributes:
+  category: AMM
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/-Un15kskASPFaadW1U9t9A/YYp9JlupMaZt5Lw7NhHUDD6A0l3VY6UilXQ2TWFna3QN_7-TO4hdLIhu7scDxt5IS7mkZZAc6EAqHi2vFtJVwUYfY57YFaUH42LBF7xYwANDdwnBA8ESKdr7Z81WOaXryhs4F7g8OoauKNcaP_6Ppg/tBwwXmz6IeVFnSXWy6Z-uH3bvWYD10FlLTV9Z3oIDkA
+  banner: null
+scf:
+  awarded_submissions:
+    - Comet
+    - Comet - Weighted Pool AMM
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recG7Kj7ouwAFP2XY
+    - https://communityfund.stellar.org/dashboard/submissions/recIRbsKDA1ayFXCF
+  awarded_round:
+    - "SCF #13"
+    - "SCF #18"
+  awarded_total: 291000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
