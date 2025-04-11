@@ -1,0 +1,45 @@
+title: The Blue Marble
+other_names: null
+parent: null
+description: Fostering Fandom - Simplified Web3 tools for building a vibrant
+  brand community. Customer loyalty through exclusive content, discounts and
+  unique fan experiences.
+links:
+  website: https://thebluemarble.io
+  blog: https://https://blog.thebluemarble.io/
+  x: https://x.com/thebluemarbleio
+  linkedin: https://linkedin.com/company/taskdotio/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/taskdotio
+linktree: null
+attributes:
+  category: Sustainability & Public Goods
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: Thailand
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/jkbMtRXAUjtEc69-3VKqng/qcsiWvo9NreKHvZhmKevxIZ3m3WEZrL0HKr-7O2VovXcKwW66yQwxvEcRe3Z0URBh80gjLLuTm3kfyImt3IMuOk_erzhb7T8r32UJZT8wt-2nn1BGugfH6TqJGemwqrZJ5eFy-mCVMvs2ScnP38ADQ/_ybv8Vqy-87SxF3aLj-cPj9Fe_1jrHK7SJLjMvrT_kc
+  banner: null
+scf:
+  awarded_submissions:
+    - The Blue Marble
+    - The Blue Marble - Web3 Made Easy
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recWL9vRV4LDN339Q
+    - https://communityfund.stellar.org/dashboard/submissions/recwogHqVCwITwGrG
+  awarded_round:
+    - "SCF #10"
+    - "SCF #13"
+  awarded_total: 328000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
