@@ -1,0 +1,39 @@
+title: Etherfuse
+other_names: null
+parent: null
+description: Etherfuse offers Stablebonds, tokenized government bonds that
+  provide retail investors with secure and transparent yield bearing investment
+  opportunities.
+links:
+  website: https://etherfuse.com
+  blog: https://https://etherfuse.substack.com/
+  x: https://x.com/etherfuse
+  linkedin: https://linkedin.com/company/etherfuse/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/etherfusetech
+  reddit: null
+  tiktok: https://tiktok.com/@tokenized.revo
+  github: https://github.com/etherfuse
+linktree: null
+attributes:
+  category: RWA
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
