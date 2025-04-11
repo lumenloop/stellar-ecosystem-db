@@ -1,0 +1,45 @@
+title: Kura
+other_names:
+  - '"Kura: X-border solutions for Caribbean"'
+parent: null
+description: Creates transparency and impact by reducing cash use and enabling
+  merchants in LAC to get paid directly at their points of sale.
+links:
+  website: https://kuratek.com
+  blog: null
+  x: https://x.com/KuraPayments
+  linkedin: https://linkedin.com/company/kura-fintech/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/kurapayments/
+  reddit: null
+  tiktok: null
+  github: https://github.com/KuraApp
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services:
+    - NorthAmerica(withoutMexico)
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/d-JV5hmenWRgUzdnfoIOTQ/F3SxNoyLmSclxBu53q5xUx3o-zLr2iOKWuIqm5Vy2sX67DLfgqkOgiyqNjGnIyBQYAQB7WwAr7qyx4EGtIGh2dqWINVOu-YnTcbNEV8L09px9V9vmJKldfbLgUGxvoEa_p5wrln8PGjEXUW-upWpug/I0gMkpueGJzDKq6XElYFiEbfg5LIe63UW8tswKsqjAs
+  banner: null
+scf:
+  awarded_submissions:
+    - Kura for cross-border payments
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recZgZOpwThqNmkmm
+    - https://communityfund.stellar.org/dashboard/submissions/recDvnkHMNhQh0F0t
+  awarded_round:
+    - "SCF #27"
+    - "SCF #31"
+  awarded_total: 147300
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
