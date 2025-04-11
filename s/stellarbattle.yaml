@@ -1,0 +1,43 @@
+title: Stellar Battle
+other_names: null
+parent: null
+description: Stellar Battle is a community-driven platform where participants
+  can win prizes by engaging in competitions focused on content creation,
+  technical development, and brainstorming, all aimed at enhancing the Stellar
+  ecosystem.
+links:
+  website: https://stellarbattle.com
+  blog: null
+  x: https://x.com/stellarbattle
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Sustainability & Public Goods
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: Netherlands
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions:
+    - Stellar Battle
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec8ayEkTa0W6PBNr
+  awarded_round:
+    - "SCF #3"
+  awarded_total: 0
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
