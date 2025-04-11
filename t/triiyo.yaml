@@ -1,0 +1,42 @@
+title: Triiyo
+other_names:
+  - triiyo
+parent: null
+description: Triiyo makes it easy for foreign employees to pay for well-being
+  services back home.
+links:
+  website: https://triiyo.com
+  blog: null
+  x: https://x.com/hellotriiyo
+  linkedin: https://linkedin.com/company/triiyo
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/hellotriiyo/
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: Australia
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/G4_0D6HTw92tzks47YK7NA/vPzaAYhntDuEK05G1KgyBg5sAmG7ayURF3q9NhdrJlX0L9RotS6gPqe_nGb9UPLAUc4A8_Q8W1KDDskaUYgGVLSyRmdSOvyEctyvAMI4OepoGUS6PRVDh00GdtIenG6fuLMM6fFuHJ649M18elbHPg/vDro2HMcUw4hWX06tEH84IXOr380udHCq3HbJq6r0iQ
+  banner: null
+scf:
+  awarded_submissions:
+    - triiyo
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/reciecXOCIKXi5Urb
+  awarded_round:
+    - "SCF #22"
+  awarded_total: 50303
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
