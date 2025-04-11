@@ -1,0 +1,49 @@
+title: Borderless
+other_names: null
+parent: null
+description: Borderless empowers migrant workers and financial institutions by
+  using Stellar's blockchain and stablecoins to enable instant, low-cost,
+  real-time remittances through an API that seamlessly connects local payment
+  rails globally.
+links:
+  website: https://borderlesspayments.xyz
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Borderless-Payments
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: " Spain"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/879tsLGXi_jl2HM2yN5QYw/BeNTClZPXu2QN6tR6bTfLvIgdkflkSMYrP94tFnZv-Y8T5kJkDochKUumBpkWqrovtB6Nftg2tTNJ00pMh7mg8WDEseAV4XTqoursEGYxwp_8Ig_t0JvR8A2dqnKAFJTNEM3TSO3_MmlkJAZ151RsVAWt4grL5LVZoxThkdGdL0/uIbh7dLMUaNFCjvVI1EH4poTcMeShoKTpRVthwUbKVQ
+  banner: null
+scf:
+  awarded_submissions:
+    - Borderless
+    - Borderless Payments
+    - Clear - Liquidity for payments
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec32utFP3jR18fr7
+    - https://communityfund.stellar.org/dashboard/submissions/recWsJsebcTT9zF3Q
+    - https://communityfund.stellar.org/dashboard/submissions/recZI6G0tdDrevSQz
+  awarded_round:
+    - "SCF #20"
+    - "SCF #22"
+    - "SCF #26"
+  awarded_total: 170500
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
