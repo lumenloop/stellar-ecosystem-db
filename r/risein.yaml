@@ -1,0 +1,47 @@
+title: Rise In
+other_names: null
+parent: null
+description: Rise In specialize in curating  delivering high impact developer
+  education courses, blending online learning with IRL workshops.
+links:
+  website: https://risein.com
+  blog: https://https://www.risein.com/blog
+  x: https://x.com/risein_com
+  linkedin: https://linkedin.com/company/risein
+  discord_server: https://discord.gg/RQcmHrTJGc
+  telegram: null
+  youtube: https://youtube.com/@riseinweb3
+  instagram: https://instagram.com/riseinweb3
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Education & Accelerator
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: India
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/1yvjtvrhbj328Qxvh8ku7g/Lj4FsdPd_piw0eVNZL4bgjAz5jd1uEjNpcLUhe0HPjTE37X-jPIOFTeCF1l1GJIwdug0R89ki1OIKOJxreyNG9HZyWNVSSLDvWzSJGT_Dr2vtFHWdobZlfL0pt-abLMQ_f5Bn2jOK0Ofxdf3NjzevdfPva7JH2Kp204P3nYikRg/cZDO3pLTdGxGtNkKipi8MPbtcG19UbFq1bD3a9iwVhE
+  banner: null
+scf:
+  awarded_submissions:
+    - Rise In - Developer Education
+    - Rise In - Developer Growth
+    - Soroban India & Turkey_Cont.
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recUFeDBhzepKJ0JI
+    - https://communityfund.stellar.org/dashboard/submissions/rec5xQJ2j8188Qcj9
+    - https://communityfund.stellar.org/dashboard/submissions/rec9KR280sa7GUduW
+  awarded_round:
+    - "SCF #27"
+    - "SCF #23"
+    - "SCF #28"
+  awarded_total: 200000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
