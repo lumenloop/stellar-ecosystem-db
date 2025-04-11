@@ -1,0 +1,41 @@
+title: SorobanMath
+other_names: null
+parent: null
+description: Fixed-Point Math Library for soroban smart contracts with advanced
+  math and high precision.
+links:
+  website: https://github.com/rahul-soshte/soroban-math
+  blog: null
+  x: https://x.com/RahulSoshte
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/rahul-soshte/soroban-math
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: " India"
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions:
+    - SorobanMath
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recLrZzcvzjqBngsh
+  awarded_round:
+    - "SCF #20"
+  awarded_total: 40000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
