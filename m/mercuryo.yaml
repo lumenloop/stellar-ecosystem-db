@@ -1,0 +1,51 @@
+title: "Mercuryo "
+other_names: null
+parent: null
+description: Mercuryo is a global payment platform bridging crypto and fiat,
+  offering services like on-ramps, virtual cards, and multi-currency
+  transactions in over 135 countries.Mercuryo is a global payment platform
+  bridging crypto and fiat, offering services like on-ramps, virtual cards, and
+  multi-currency transactions in over 135 countries.
+links:
+  website: https://mercuryo.io
+  blog: null
+  x: https://x.com/Mercuryo_io
+  linkedin: https://linkedin.com/company/mercuryo-io/mycompany/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/mercuryoio
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - LatinAmerica&Caribbean
+    - EastAsia&Pacific
+    - MiddleEast&NorthAfrica
+    - Sub-SaharanAfrica
+    - NorthAmerica(withoutMexico)
+    - Europe&CentralAsia
+    - SouthAsia
+  country: United Kingdom
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/-v8f-r9EI-FIydnoaS4qow/8Nl0IjvqQsea74fDiFHK-GIBS5pVBul7oMRpgxWbFQOQyxthiEOo8NTYjC6wQFunGstESJADibQenkfzjewkBhFDX2A4458ROCGDqF5PbrNFIeUOkueYgRqqL837dwtJBvDdQAyvEng7RoBrRrg9Dg/RffmXqraEWsdB3TqRgWjw56195ctVvlmFzVqEN5eS-o
+  banner: null
+scf:
+  awarded_submissions:
+    - "Mercuryo x Mastercard x Stellar Connecting Stellar to 100m Merchants. "
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recNQZK29Ly63kIP2
+  awarded_round:
+    - "SCF #31"
+  awarded_total: 50000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
