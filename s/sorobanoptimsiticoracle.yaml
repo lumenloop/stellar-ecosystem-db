@@ -1,0 +1,45 @@
+title: Soroban Optimsitic Oracle
+other_names:
+  - '"Soroban Optimistic Oracle  (SOO) "'
+parent: null
+description: SOO is a decentralized arbitration system for resolving on-chain
+  disputes. It serves as an oracle for projects like prediction markets,
+  insurance protocols, derivatives, and cross-chain bridges, providing data
+  ranging from cryptocurrency prices to sports and political events.
+links:
+  website: https://github.com/stackman27/soroban-opt-oracle
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/stackman27/soroban-opt-oracle
+linktree: null
+attributes:
+  category: Oracle
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - NorthAmerica(withoutMexico)
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/1t8IF0KVd_JJI-CS5lbk6w/F9yBNEDMqEceH13XRauLqXvonDxM4xPHy8-VePeMPYaGhKm88iMOrP_jnqQVXFdF3llKsIu0OOt3yUyU07aw6-6QA0krj4K_uTEcVqX03G1kecd_Wm_z7aq0RaWi2nrPgJrgaXZHlly7WQjeJpPWSw/_CCCF6uAlDxCgQ5sFj82YYLh-T10ro8ZeU9xESCWEwQ
+  banner: null
+scf:
+  awarded_submissions:
+    - "Soroban Optimsitic Oracle "
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recP2KIZz7r2yBrkG
+  awarded_round:
+    - "SCF #33"
+  awarded_total: 30000
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
