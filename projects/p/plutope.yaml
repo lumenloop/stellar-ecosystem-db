@@ -24,9 +24,9 @@ attributes:
   tags: []
   smart_contracts: false
   regions_services:
-    - EastAsia&Pacific
-    - Europe&CentralAsia
-    - MiddleEast&NorthAfrica
+    - East Asia & Pacific
+    - Europe & Central Asia
+    - Middle East & North Africa
   country: India
 images:
   icon: null
