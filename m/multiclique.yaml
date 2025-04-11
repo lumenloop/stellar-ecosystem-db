@@ -1,0 +1,40 @@
+title: MultiClique
+other_names: null
+parent: null
+description: A policy and workflow framwork for multisignature accounts.
+links:
+  website: https://multiclique.org
+  blog: null
+  x: https://x.com/Multiclique_org
+  linkedin: null
+  discord_server: https://discord.com/channels/897514728459468821/1159218967890624584
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/deep-ink-ventures/multiclique-protocol
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/XTVH46js50XgfIYmbnyUKA/is5Op87SaKzvGZMPQAR-o3lAYUqs2UL4tHoR2Hdw4nH5MBv7k6xsswoi9_jv-laNf3YmypU6fjr1cFsuZU541L9uhuov1CXW9ELxZYswmCw0VYtCxeNb2ri8H8CbU7USUshwsou8s8D2TSErTradY3nf_BRhljtACuyD1auVqIE/grJ6nld0w0AB2mdzjS7t0uEZZGNPown8O-54W0gyMF0
+  banner: null
+scf:
+  awarded_submissions:
+    - MultiClique
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recRZEosG6FWORKcP
+  awarded_round:
+    - "SCF #19"
+  awarded_total: 97500
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
