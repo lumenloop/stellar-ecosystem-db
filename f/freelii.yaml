@@ -1,0 +1,50 @@
+title: "Freelii "
+other_names: null
+parent: null
+description: Freelii, formerly Strooper Wallet, is a noncustodial Stellar wallet
+  that leverages passkeys for enhanced security and ease of use. Initially built
+  on Telegram, Freelii is expanding to multiple social platforms as mini-apps to
+  provide localized experiences for end users. Freelii, formerly Strooper
+  Wallet, is a noncustodial Stellar wallet that leverages passkeys for enhanced
+  security and ease of use. Initially built on Telegram, Freelii is expanding to
+  multiple social platforms as mini-apps to provide localized experiences for
+  end users.
+links:
+  website: https://freelii.app
+  blog: null
+  x: null
+  linkedin: https://linkedin.com/company/freelii/
+  discord_server: null
+  telegram: https://t.me/FreeliBot
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/JoseCToscano/freelii
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - NorthAmerica(withoutMexico)
+    - Nospecificregionofoperation
+  country: Philippines
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/7suc3fb_mU72gph2veWv-A/5k72nDmLaYxe-mN1wjNU4G_Fd2t-D3lk89Mymvsuu3hIWd6uYaCLijePVDoxxh1GuBUAsD4OBb_VqDQZonhJ7zdlJekIo0gckch3KSp5habdUfWK3cJ8yIpVZUdox3bjoGKjrI8LNiHASL4WreX8ow/c38PNZBI5twJWiDKTh8N4_GEKm5qRZpkEuI6AYVh0kw
+  banner: null
+scf:
+  awarded_submissions:
+    - Make Money Move
+    - Freelii
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec350A9UiLypplJB
+  awarded_round:
+    - "SCF #32"
+  awarded_total: 72500
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
