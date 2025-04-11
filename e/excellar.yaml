@@ -1,0 +1,45 @@
+title: Excellar
+other_names: null
+parent: null
+description: We are building tokenization and DeFi services for real-world assets.
+links:
+  website: https://excellar.finance
+  blog: null
+  x: https://x.com/excellarfinance
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/scifecap/excellar
+linktree: null
+attributes:
+  category: RWA
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/Zy7YA6S5Il6XR26n2dfvnw/vscSlgYUgZosQ2LUatJDePLkvkY8tdG0te2V-1ngF1EuX1QYKTcvJRmlcAfQRaZc0hD-uatGgfMmPxyhArEwYm-H3npa2niLdQEKych47PT7YSXKDYoEc3-Uv8rg05tSEtJyH2E8JBw50-XSgXzRy9Evv46iO4IJxogFTDGXhXZT5Sx9lHidzSNyaZiFM3S5YGGDoCXT3YTx3Z8H3-6NSQ/cLraaYTC0WGfqnMzTEKyySEGJF3AD7doEkAHcUqW2rU
+  banner: null
+scf:
+  awarded_submissions:
+    - Excellar
+    - Excellar-Yield Bridge
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recDCdserATw05JGr
+    - https://communityfund.stellar.org/dashboard/submissions/recNUN3okJAGoV8i9
+    - https://communityfund.stellar.org/dashboard/submissions/reciIMJ1Qou160HSg
+  awarded_round:
+    - "SCF #17"
+    - "SCF #26"
+    - Liquidity Award - '24 Q1
+  awarded_total: 238750
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
