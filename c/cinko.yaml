@@ -1,0 +1,39 @@
+title: Cinko
+other_names: null
+parent: null
+description: Platform that facilitates secure cross-border transactions,
+  efficient payout distributions, and seamless payment processing through
+  traditional financial systems and stablecoins.
+links:
+  website: https://cinko.io
+  blog: null
+  x: https://x.com/Cinkoio
+  linkedin: https://linkedin.com/company/cinkoio/about/
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/@CiNKOIO
+  instagram: https://instagram.com/cinko.io/
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
