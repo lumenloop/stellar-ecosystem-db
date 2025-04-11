@@ -1,0 +1,42 @@
+title: Kata.Games
+other_names: null
+parent: null
+description: Hosts games to help players open up to new ideas and use cryptos/
+  Offers a tool that empowers game devs to create online & share.
+links:
+  website: https://kata.games
+  blog: null
+  x: https://x.com/CreatePlayEarn
+  linkedin: https://linkedin.com/company/kata-games/
+  discord_server: https://discord.com/invite/SHdJhcWvQD
+  telegram: null
+  youtube: https://youtube.com/@wkta11
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/gaudiatech/pyved-engine
+linktree: null
+attributes:
+  category: Gaming
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - Europe&CentralAsia
+  country: France
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/r0UVc5Wd5Gt4sjPn3kNtkw/p9HAUjBU4j7ctgQl0HijNAfQci9JYtushOABNIaMwL1QCXIv0fOqSnR43bpiqYT0d0XVy_JtuWgmOM0fMc_Jh7lnqZGBnyX75LZcAIyoLH90TYQzaA-vsxo0HfUqJgiV3XoTU4kSsgVmhRJIeJDYEQ/IPuMjJscB76SHi9mm77SFjYXYI6l0ZqjadhYoxaK8UM
+  banner: null
+scf:
+  awarded_submissions:
+    - Kata.Games - Sharing platform
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recHtbbed2g2fGLlZ
+  awarded_round:
+    - "SCF #11"
+  awarded_total: 25000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
