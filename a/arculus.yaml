@@ -1,0 +1,44 @@
+title: Arculus
+other_names:
+  - '"Arculus x Stellar: Payments With Soroban"'
+parent: null
+description: Arculus enables stablecoin or token holders on Stellar to pay at
+  any Visa/MasterCard merchant, directly from self-custody wallets, utilizing
+  Soroban smart-contracts.
+links:
+  website: https://getarculus.com
+  blog: https://https://www.getarculus.com/blog/
+  x: https://x.com/thisisarculus
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/channel/UCfSNqRVqiS_sEvLBxmOWUvQ
+  instagram: https://instagram.com/thisisarculus/
+  reddit: null
+  tiktok: https://tiktok.com/@thisisarculus
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - Nospecificregionofoperation
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/I9uQiRLlH0MVnGF5XPsW6g/TA2lZu0ib_-C-snFcjlH-UwhgJ5MNkdTrEGOak9U90HWoU1r0rkjASmHOfptbwT3i8P0DolGFuTIjdBjQ4vdjX_apJzkkwS_8rTB2ZJCXz4ORQZyKKCRZMPCC71YoDMmdQGoBCzOOz4cf8OdnEDpRw/GnbzdaOw0VhEplO1j5ow_71G2OwLGmByLqUDPCutlso
+  banner: null
+scf:
+  awarded_submissions:
+    - Real World Payments with Stablecoins and Tokens on Stellar with Soroban
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recGwkWWrGuZAuC3b
+  awarded_round:
+    - "SCF #30"
+  awarded_total: 148400
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
