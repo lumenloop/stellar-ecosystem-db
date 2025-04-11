@@ -1,0 +1,48 @@
+title: Stellar Razor and Blazor Suite
+other_names: null
+parent: Pakana
+description: DotNet Razor and Blazor UI Components and Schema for Microsoft
+  Identity, OAuth 2.0, OIDS 1.0, QR-Code MFA, Keypair Abstraction.
+links:
+  website: https://github.com/lockb0x-llc/Pakana-Stellar-Razor-Components
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/lockb0x-llc/Pakana-Stellar-Razor-Components
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - Nospecificregionofoperation
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/2H3YDHtNze2SoTVMvE4acg/cgJAsID6EfiZu7QTbW1aaKtrn08aU-uA_KR22yuCFR60IZfDTgRyWwhPaq7e0pgvpNARr3tTItHni5z4B0azrpL7Wt0457iOqCZg1I06Gy3Yubs0AuPTasECRmU2r_n6-k9P71Tj8sUh6_N-Pg5hUQ/SLRx6gDtbKCr6sJTrRaQDFf6stpAyxJ_XCPD3Ox3te8
+  banner: null
+scf:
+  awarded_submissions:
+    - Stellar Razor and Blazor Suite
+    - Stellar DotNet Identity Tools
+    - SDEX Tools for Razor and Blazor
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recZAb3KITV9paodq
+    - https://communityfund.stellar.org/dashboard/submissions/rec72NpAO8hHB3zap
+    - https://communityfund.stellar.org/dashboard/submissions/reczkZYQwOf7sZnJG
+  awarded_round:
+    - "SCF #25"
+    - "SCF #27"
+    - "SCF #31"
+  awarded_total: 150000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
