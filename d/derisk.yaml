@@ -1,0 +1,41 @@
+title: DeRisk
+other_names: null
+parent: null
+description: DeRisk is a risk monitoring platform that serves as an “early
+  warning” mechanism to detect risky situations for lending protocols.
+links:
+  website: https://derisk.carmine.finance
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/CarmineOptions
+linktree: null
+attributes:
+  category: Data & Onchain Tools
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/Fct0JWvEb7XxHc8_OS0zSg/wzSawEa_b0YcwTiFG2AiH6OLMtEvHf0e5GFOvder6pNZoYw-7-na_lz2NEa_D5gWBK2QzlSFInnQV901jzV1NlQjF1mgwv4OlCbFulzdWDqYdCOyFzXY7vQmO5JMZmMD24BqYwQRddW0PT79TLTb-Q/Ju5j9TbzPkgsNQ5DcHQ6H4IjSjrO5RjnJAcpbYZ7COs
+  banner: null
+scf:
+  awarded_submissions:
+    - DeRisk - Monitoring DeFi risks
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recWVVLF0ufdI0y0Z
+  awarded_round:
+    - "SCF #20"
+  awarded_total: 50000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
