@@ -1,0 +1,46 @@
+title: Soroban Resource Usage Reporter
+other_names: null
+parent: 57blocks
+description: The Soroban Resource Usage Reporter helps developers in the Soroban
+  ecosystem track key metrics during coding and testing phases, enabling
+  efficient and cost-effective smart contract development.The Soroban Resource
+  Usage Reporter helps developers in the Soroban ecosystem track key metrics
+  during coding and testing phases, enabling efficient and cost-effective smart
+  contract development.
+links:
+  website: https://57blocks.io
+  blog: https://https://57blocks.io/blog
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/57blocks/stellar-resource-usage-report
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - Nospecificregionofoperation
+  country: China
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/al0HVRWe74nRwiWdHcAZZw/MFX7HZdIHxZSom2OYKf6_1FBO1A_WKYIvgvKiLzvhreB13bqlhV5oCzMYbRXea3UQr7usmdPEhVEKyhnbWMUd0Pk0yj_xhHYcIJmhONo8guqmHBOS_cixhtmNRXXbPz7K_0-ELuu869hwirkIOlXZw/RpBlySfDKP5MzdzpCAUmdixIKnjnhikxihgAnTtKJf8
+  banner: null
+scf:
+  awarded_submissions:
+    - "Resource Reporter: Gas Gauge for Dev"
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recqvm203drzGVJ0t
+  awarded_round:
+    - "SCF #31"
+  awarded_total: 18240
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
