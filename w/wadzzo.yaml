@@ -1,0 +1,47 @@
+title: Wadzzo
+other_names:
+  - Wadzzo - Explore
+  - " Collect"
+  - " Win"
+parent: null
+description: An innovative geolocation rewards app driving action and adventure
+  worldwide with digital incentives placed by organizations.
+links:
+  website: https://wadzzo.com
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/wadzzo/
+  reddit: null
+  tiktok: null
+  github: https://github.com/Wadzzo2023
+linktree: null
+attributes:
+  category: Gaming
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - NorthAmerica(withoutMexico)
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/gAqHjM1Ni6S3HgvA2oX2BA/quvFyFEbGIN9BHO1ExPEAMZmqv9GSn-kPAwwE2iaXlmJxnDNddLrP4dYfQ4HnhjI089dCM4yri7b_iv11WjIgULj2CsGJOnox-jdQUNGSaaZeeAzZldW7j9o68a3n-RHgYc5SCp6tImTOFVVOvfxBQ/I9N9IAiFnpG9WOQYjCfQ2VeWMDV4sDDH3BPwq2XBOic
+  banner: null
+scf:
+  awarded_submissions:
+    - Wadzzo - Explore
+    - Collect
+    - Win
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec9df0gMcvT7weQ2
+  awarded_round:
+    - "SCF #27"
+  awarded_total: 5000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
