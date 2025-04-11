@@ -1,0 +1,45 @@
+title: Stride
+other_names: null
+parent: null
+description: Stride is a multi-platform fitness ecosystem that combines health
+  tracking with tokenized incentives, allowing users to earn rewards as they
+  achieve their fitness goals. Available on mobile and messaging apps, Stride
+  bridges traditional and Web3 fitness experiences for a sustainable, engaging,
+  and accessible approach to health.
+links:
+  website: https://stride.social
+  blog: null
+  x: https://x.com/StrideSocials
+  linkedin: null
+  discord_server: https://discord.gg/stridesocials
+  telegram: https://t.me/StrideLite
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Gaming
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - Europe&CentralAsia
+  country: Portugal
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/cQTqIpuOnxd9tfS6RfPMNA/4BiENP7xImN31Av8lSiWpDoo4cdHIb5010LnTFryTZHQL0ROiBSmrrAOEDyBmA8z_9lf1XYTKyZqbJQ6pI8HQk_YP-sD5RGiOs_VSOAuQMFY24_6N1aThRCiR74ZUhDqNSZAitA-HHmIirnFeOtJuA/0Tx1Pw1F_GvFLIl-w_M_9jOCBnTcUjCB4OdjgI8aYWI
+  banner: null
+scf:
+  awarded_submissions:
+    - Accelerating Stride's Fitness Ecosystem
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recQTvLPkW5iXhuCO
+  awarded_round:
+    - "SCF #33"
+  awarded_total: 120000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
