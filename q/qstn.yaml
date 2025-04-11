@@ -1,0 +1,41 @@
+title: QSTN
+other_names: null
+parent: null
+description: QSTN is a Web3 survey marketplace where businesses fund surveys and
+  reward participants through our data wallet-driven profiles.
+links:
+  website: https://qstn.us
+  blog: https://https://medium.com/@qstnus
+  x: https://x.com/qstnus
+  linkedin: null
+  discord_server: https://discord.gg/Er59ZXWrQw
+  telegram: https://t.me/qstnus
+  youtube: null
+  instagram: https://instagram.com/qstn.us
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/qZbnB3Gyhk9U-9MtSlxUVA/0_4DVLCBd9ns-Ydzroa0iBINgHzDy8gtX1XT3Lkt9q_4R5QmDSaJMZmSP0W4CZ9qLuvzh4fxyC6-GAlSaNN5Z6Sa4ltP5dUXMDm2NYt-djNSRDQU8ziLBw92UYLzpl-7g8iJjeSAoG0UxahD5WT27A/Ygm17TP7x57xe7RSNYXbeXd8nrcGxKDaa90PvURB9PM
+  banner: null
+scf:
+  awarded_submissions:
+    - QSTN
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recZdJNenl5amnxbv
+  awarded_round:
+    - "SCF #20"
+  awarded_total: 5000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
