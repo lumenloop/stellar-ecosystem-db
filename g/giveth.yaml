@@ -1,0 +1,42 @@
+title: Giveth
+other_names: null
+parent: null
+description: Giveth is a community-driven platform that leverages blockchain
+  technology to facilitate zero-fee cryptocurrency donations to vetted projects,
+  nonprofits, and charities.
+links:
+  website: https://giveth.io
+  blog: https://https://blog.giveth.io/
+  x: https://x.com/Giveth
+  linkedin: null
+  discord_server: https://discord.giveth.io/
+  telegram: null
+  youtube: https://youtube.com/givethio
+  instagram: https://instagram.com/giveth.io/
+  reddit: https://reddit.com/r/giveth
+  tiktok: null
+  github: https://github.com/Giveth
+linktree: null
+attributes:
+  category: Sustainability & Public Goods
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: " Spain"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/dBTCDVWuTjTMCW_C8QvVHw/UJ170-zby1XS_SKZoIkx1-c-JvPbWVat9cpROxevgf2VCUEmqN1iVEhW5mgFX8fClfB5JrLpLqjdvbmyU4AU3ch593UMzH8-oBWeAhnnYmcIhgwc2s-2QxU0E3Hi_mzCjc-2_xZbV3Sk2ePgJWXORcpK7bolw7nHBWrn1iVHwd5YekyeQUwXLxprgZh3fti1/pgIFcsZSUol9tE3r_xrIq93TsFUcptZgXBJ3_GeNzsE
+  banner: null
+scf:
+  awarded_submissions:
+    - Giveth
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rechcT1UmtJlod9ec
+  awarded_round:
+    - "SCF #28"
+  awarded_total: 50000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
