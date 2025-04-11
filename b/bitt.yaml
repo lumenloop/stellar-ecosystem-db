@@ -1,0 +1,39 @@
+title: Bitt
+other_names: null
+parent: null
+description: Bitt enables central banks and financial institutions to adopt
+  digital currencies through its Digital Currency Management System, supporting
+  economic growth and financial inclusion via blockchain solutions.
+links:
+  website: https://bitt.com
+  blog: https://https://www.bitt.com/blog
+  x: null
+  linkedin: https://linkedin.com/company/bittglobal
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/channel/UCmQwfiEXQ8HN_OhsNMu2R6w
+  instagram: https://instagram.com/bittglobal/
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
