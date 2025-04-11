@@ -1,0 +1,46 @@
+title: Smart Deploy
+other_names: null
+parent: Tenk DAO
+description: Smart Deploy is an advanced platform designed to streamline and
+  simplify the uploading, invoking, deploying, and upgrading of smart contracts
+  on Soroban.
+links:
+  website: https://smartdeploy.dev
+  blog: null
+  x: https://x.com/TenkDAO
+  linkedin: https://linkedin.com/company/tenk-studio
+  discord_server: https://discord.gg/6fKqnSfr
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/TENK-DAO/smart-deploy
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/keMDNG9vwAgIc1fPY9JkxQ/eCAIF24Q4NKIiS0JujGLPBOJ3NEMiGg0AuCtxBcqo1WqyxkYH56vgNk46j6EwfQ2z2ghMXJI44E9tliCAq8Qd2KjHVbGgIeSZrrLo_WnSm1cTnVhN3cp94UEKPP05NiIo1kouY0x_iDzrGgXSI2kLSlwVF0hax1BYpFQePZOmBo/UHUAA3wAj35p-ALyIUTp_8ox2W4EXN5xe3q0sphFQnI
+  banner: null
+scf:
+  awarded_submissions:
+    - Smart Deploy
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec3DmdhPUyEJWyWB
+    - https://communityfund.stellar.org/dashboard/submissions/recs6MedZFNwjZzRh
+    - https://communityfund.stellar.org/dashboard/submissions/rec1vVPm4VMQCb6ZK
+  awarded_round:
+    - "SCF #14"
+    - "SCF #16"
+    - "SCF #21"
+  awarded_total: 194800
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
