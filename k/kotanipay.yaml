@@ -1,0 +1,41 @@
+title: Kotani Pay
+other_names: null
+parent: null
+description: Stablecoin payments without the need for an Internet connection or
+  a bank account.
+links:
+  website: https://kotanipay.com
+  blog: null
+  x: https://x.com/kotanipay
+  linkedin: https://linkedin.com/company/kotanipay
+  discord_server: null
+  telegram: https://t.me/+Gmn5yjd5U9U0MmE0
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: Ghana
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/ol70pHQTw1Xd90G0XeOyfA/VqkWMCnl0aquk_9vKQ9I3OVHzzW9RcKJ51hpIEeKngeIpaY2totbY2rXkzQnowofR6RFfVkkB6-m_M-SjlyMplHmkmCVgE8TKPF4t0flh5DP01CdZAvJx6oqISLOvc0w_EpbeSeP3JcX6wf22QKpeg/Aw5kyqjFScALRakFmfDpW3KdXe6hvrvOS2Hg5AwHHiE
+  banner: null
+scf:
+  awarded_submissions:
+    - Kotani Pay
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec9ylKAGxTVT4Lex
+  awarded_round:
+    - "SCF #11"
+  awarded_total: 100000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
