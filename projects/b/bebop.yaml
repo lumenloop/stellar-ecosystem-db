@@ -22,8 +22,8 @@ attributes:
   tags: []
   smart_contracts: false
   regions_services:
-    - NorthAmerica(withoutMexico)
-    - Sub-SaharanAfrica
+    - North America (without Mexico)
+    - Sub-Saharan Africa
   country: United Kingdom
 images:
   icon: null
