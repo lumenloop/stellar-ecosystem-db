@@ -1,0 +1,45 @@
+title: Alterscope
+other_names: null
+parent: null
+description: Soroban ecosystem dashboard that enables the community to perform
+  DDs on protocols and create custom risk frameworks.
+links:
+  website: https://alterscope.org
+  blog: null
+  x: https://x.com/Alterscope
+  linkedin: https://linkedin.com/company/alterscope
+  discord_server: https://discord.com/invite/QpVxf742qx
+  telegram: https://t.me/solitynetwork
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Solity-Network
+linktree: null
+attributes:
+  category: Data & Onchain Tools
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - Europe&CentralAsia
+  country: " Germany"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/LcZvGipVKKr2rwLulAVkcg/q420HXdAB-6PG4BkyUa0cCtsGvNg-j38ykndv3uBJsSsEdyyM9ZCOgMfcaXDplhQlJhOi3yHlXVh4caCVVcBhrUGIuK7ShML-qerauTUEi35SVsT2mrqXfamkAkPWvYRBirHzV705lAYX2airqcDOQ/q2I73D-Dd7BsxC-NCKLsfZA72e1IOleKJaac75oJ6GM
+  banner: null
+scf:
+  awarded_submissions:
+    - KYP - Risk Dashboard & Market
+    - KYP - Risk Dashboard (Phase 2)
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recam5gal7vWgPt9A
+    - https://communityfund.stellar.org/dashboard/submissions/rec9bGg7CKnZUW3tG
+  awarded_round:
+    - "SCF #24"
+    - "SCF #26"
+  awarded_total: 137600
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
