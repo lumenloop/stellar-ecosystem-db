@@ -1,0 +1,45 @@
+title: Wombat
+other_names:
+  - Wombat Exchange
+parent: null
+description: Wombat Exchange is a decentralized exchange (DEX) enabling
+  low-slippage swaps and single-sided liquidity pools for efficient capital use.
+  It supports multichain operations and incentivizes user engagement through
+  gamified features.
+links:
+  website: https://wombat.exchange
+  blog: https://https://medium.com/wombat-exchange
+  x: https://x.com/WombatExchange
+  linkedin: https://linkedin.com/company/wombat-exchange/
+  discord_server: https://discord.com/invite/Wombat
+  telegram: https://t.me/WombatExchange
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/wombat-exchange
+linktree: null
+attributes:
+  category: AMM
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - EastAsia&Pacific
+  country: Hong Kong
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/ayaP2v8JLNZQ3XcWGbPHRQ/qEV3B9oUtZvVh5p4t-d_OevayN-dsnF7p9E26cdnxs-cQqifgGiI-7p31lCzkXD5U52Cj-4EQgQ8EcFM7jhMAEKGqw88eUe2Q3VcJl27XjY41C5HBKcrIfhuZt5UW166sgQWAf7a5V3_G8M4HHLugg/VlbDwRPrR5Z6HUMrgx3gNVKYVMeiII2q0QZmkipNnyM
+  banner: null
+scf:
+  awarded_submissions:
+    - Wombat Exchange
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec5a6qOoWCjaHweW
+  awarded_round:
+    - "SCF #18"
+  awarded_total: 150004.63
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
