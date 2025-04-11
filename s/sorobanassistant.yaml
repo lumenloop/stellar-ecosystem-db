@@ -1,0 +1,41 @@
+title: Soroban Assistant
+other_names: null
+parent: null
+description: AI assistant for Soroban Q&A, smart-contract code writing &
+  rigorous testing to elevate your smart-contract projects.
+links:
+  website: https://soroban-assistant.herokuapp.com
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: " France"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/88cDwyoeoo84KAFXB0CyEw/KFukN3kZfOSv4VbOtJ5vNWR9iIScxZbvBTt_gAzZJFVP_g83eFF06duCwh8QetbhQ-X0OaqpRJUmvLkvYnZRAe0R05SYKv_u_iDnGHwrrc8CtmTRPDzBue4DoRa2lXuGU1QM9GBv9nM9kveHJZVZQQ/r82LjvL8qBHrCkiALomt1H6NY4cMjsSClcSFVPrbpE4
+  banner: null
+scf:
+  awarded_submissions:
+    - DYET (Do you even test?)
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec0jGQZos0pFphvx
+  awarded_round:
+    - "SCF #14"
+  awarded_total: 15000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
