@@ -1,6 +1,6 @@
 title: attest
 other_names:
-  - '"Stellar Attestation Service"'
+  - Stellar Attestation Service
 parent: accred
 description: Soroban framework for attesting to digital interactions on the Stellar network.
 links:
