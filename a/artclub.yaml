@@ -1,0 +1,41 @@
+title: ART Club
+other_names: null
+parent: null
+description: ART Club, sponsored by the Swedish Arts Committee, connects
+  creators with funders and brings discounts to daily shopping.
+links:
+  website: https://artclubcard.com
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/GRMarkkes/ArtCC
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: Sweden
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/rF_gth7yfgPkXOR4TqAXSA/XqXf2rSIT5HvEYDbnUlxaZn8UMFZ7nOBRTGguBM7wPOPw4LvUFeqP3rXtIeulT93M71HjontKHESclzvmiEe_ggYKqfCujOLxD2eVUrXoXGEakE1BTd38zs0NyqCJG7v0G_oDaLKZZjx3XMIIB4Ks1IB-P_8GiljtToWsfsCCVOlcg1u4OGIGDXhZ02iBbTB/lcWK_Wl2jEIFzosVbdCSHo910qLbYc-lOozmPaeaNas
+  banner: null
+scf:
+  awarded_submissions:
+    - "ART Club: Meaningful Utility"
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec9eqtn0a4eB7iGq
+  awarded_round:
+    - "SCF #26"
+  awarded_total: 40000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
