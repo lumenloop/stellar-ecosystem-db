@@ -1,6 +1,6 @@
 title: Block Time Financial
 other_names:
-  - '"Soroban Smart Option Contract"'
+  - Soroban Smart Option Contract
 parent: null
 description: The BTF Soroban Smart Option contract is a limited-risk option
   contract to facilitate an OTC bi-lateral trade with collateral.
