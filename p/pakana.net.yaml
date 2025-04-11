@@ -1,0 +1,47 @@
+title: Pakana.Net
+other_names: null
+parent: null
+description: Pakana is a decentralized platform that streamlines payment
+  processing and project management by leveraging Stellar's blockchain
+  technology. It offers features such as multi-signature wallets for secure
+  peer-to-peer escrow, integration with financial services like Plaid, Stripe,
+  PayPal, and Venmo, and tools for document automation and lien-release
+  tracking, catering to professionals including attorneys, contractors, and
+  freelancers.
+links:
+  website: https://pakana.net
+  blog: null
+  x: null
+  linkedin: https://linkedin.com/company/pakana/
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/@PakanaSoftware
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/lockb0x-llc/Pakana-Stellar-Razor-Components
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - Nospecificregionofoperation
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/7hnBbHnD-7Bjor-R8LUFdw/AtGP7rWs22z6w2CE_477IDqjMQ9nf39GXjkAVSdNkRF-KUTqftM4FMK4kvMxOPq3xQUAajt1I0UPWj3NjcRbObb7lsAQs0bEF21peUl_MhDW87HizfHJ4sJjuDOY51EtAWjviEQMSYR4qjI0bkeKRg/5ZT5JrD91ycpZszo5m4j9WN5m3tamsDglrQ2iUQUrVQ
+  banner: null
+scf:
+  awarded_submissions:
+    - Pakana.net Activation
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recR32JiVTfXBDnke
+  awarded_round:
+    - "SCF #21"
+  awarded_total: 45200
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
