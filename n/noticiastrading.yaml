@@ -1,0 +1,42 @@
+title: Noticias Trading
+other_names:
+  - '"Soroban and Stellar Content"'
+parent: null
+description: Educational video content about Soroban and Stellar for over
+  160.000 followers. Cross border payments, CBDCs and smart contracts.
+links:
+  website: https://beacons.ai/noticiastrading
+  blog: null
+  x: https://x.com/noticiastrading
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/@noticiastrading
+  instagram: null
+  reddit: null
+  tiktok: https://tiktok.com/@noticiastrading
+  github: null
+linktree: null
+attributes:
+  category: Content & News
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: Spain
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/ZCdof-KQcW0uM6q8iaclLw/dM9sk5CwwdiCMksSN3T_R3DSiRqOv-yvYuSKvY9wH031JzphoNxfYrKkxkDpY7bqiN6hm5bQKy9_1Q5Xcbis-J5k9nA97lAp7oJI9QgQ3YA4DEYaPXiA4JI76UPXuCnSOy4FY7fe-oa3dwLm6l9JmxJX0c2JCm4OSt2H4NY0W13709T7YOFjgr_Gfu7SwEvI/q4LGUZ9s4HW6q7NykD0P5iOj1eFlZ9qZfYZtIn0PFe8
+  banner: null
+scf:
+  awarded_submissions:
+    - Soroban and Stellar Content
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recGYi64cLQpzppJU
+  awarded_round:
+    - "SCF #25"
+  awarded_total: 10000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
