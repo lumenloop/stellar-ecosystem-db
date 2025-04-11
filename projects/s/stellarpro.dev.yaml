@@ -1,11 +1,11 @@
 title: stellarpro.dev
 other_names: null
 parent: null
-description: Develop a Visual Studio Code extension that provides
-  Stellar/Soroban developers a unified tooling user experience and workflow.
+description: Stellar-focused education platform for post-beginnerdevelopers
+  wanting to grow their skills to intermediate and advanced levels.
 links:
-  website: https://sorobanide.com
-  blog: https://https://stellarpro.dev
+  website: https://stellarpro.dev
+  blog: null
   x: null
   linkedin: null
   discord_server: null
@@ -15,9 +15,9 @@ links:
   reddit: null
   tiktok: null
   linktree: null
-  github: https://github.com/omeganetwork-tech/sorobanide
+  github: https://github.com/omeganetwork-tech
 attributes:
-  category: Dev Tools
+  category: Education & Accelerator
   tags: []
   smart_contracts: null
   regions_services:
