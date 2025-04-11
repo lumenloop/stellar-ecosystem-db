@@ -1,0 +1,45 @@
+title: Spatium
+other_names:
+  - '"Spatium Wallet"'
+parent: null
+description: Spatium offers an open-source Web3 Wallet Builder for businesses
+  which allows to break barriers for mass adoption.
+links:
+  website: https://spatium.net
+  blog: https://https://www.spatium.net/blog
+  x: https://x.com/spatium_news
+  linkedin: https://linkedin.com/company/spatium-capital/
+  discord_server: https://discord.gg/24Tucz5rFc
+  telegram: https://t.me/SpatiumWallet_Bot
+  youtube: https://youtube.com/channel/UCiw3jQd5-V3IB12zAJV-heA
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: Kazakhstan
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/ul1WUOEBFaK6RaeekX8o8w/GFvJe_-lIVWe2c1cIesVsBTEY_q9g3L8OWCz9SaMFXv_9InWIJFWD8MwVWCMkYw8fXGpSathQ_nn3qN78_GNa7q_j39jhRwMmKaJerNXCoAMUS1osSwf5qlrO0A1o8iN_XsVPvb1JsF59KiHyaCP4A/2VbVDPhER8fBmcrGB1nSj9OxqK8oMdt8Q56trNIQ9P8
+  banner: null
+scf:
+  awarded_submissions:
+    - Integration of Stellar blockchain into Spatium Wallet Builder solution
+    - "Stellar-Spatium: New TRX Types"
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recKUYCRQLT6Vq3Pj
+    - https://communityfund.stellar.org/dashboard/submissions/recZ46kabInkWZT9Q
+  awarded_round:
+    - "SCF #13"
+    - "SCF #22"
+  awarded_total: 183200
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
