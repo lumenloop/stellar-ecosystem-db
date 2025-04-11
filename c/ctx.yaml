@@ -1,0 +1,45 @@
+title: CTX
+other_names:
+  - '"CTX.com"'
+parent: null
+description: CTX is a platform that enables businesses to accept cryptocurrency
+  payments both online and in-store, offering seamless integration and dedicated
+  support. It provides daily settlements in local currencies, eliminating
+  volatility risks, and offers hardware devices and POS integrations for
+  in-store transactions.
+links:
+  website: https://ctx.com
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: " Canada"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/ZCEew9pPo04N0XRtV5r0Bw/mErTxMFMB7RdPx9aP4dlqRTXYTUlvhuS3dFgXd2o6VMrUBYM50gjvYkITIiMJwbxpA3nT2CHn0d79OjODi6TIzU5tXEiK0EDE5nB2Eb6-ppQXUEWI0Kism67GQ_IJ3aD2MdmuMc4qPKO6kCMmR61wg/IlQDEGfeCp8IPWazNJpVUGMB22qNzrxtppu0zELvMEs
+  banner: null
+scf:
+  awarded_submissions:
+    - CTX.com Spend
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recs3a3kKPgwjWT1Y
+  awarded_round:
+    - "SCF #19"
+  awarded_total: 88200
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
