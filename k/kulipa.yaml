@@ -1,0 +1,44 @@
+title: Kulipa
+other_names:
+  - '"Kulipa Debit Card"'
+parent: null
+description: A card that enables payments in stablecoin where Visa and
+  Mastercard are accepted, with settlement on Stellar.
+links:
+  website: https://kulipa.xyz
+  blog: https://https://www.kulipa.xyz/blog
+  x: https://x.com/kulipaxyz
+  linkedin: https://linkedin.com/company/kulipa-inc/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services:
+    - Europe&CentralAsia
+    - LatinAmerica&Caribbean
+  country: United Kingdom
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/cJrsWa7e7sz77vKE4tE26g/FikWI4KVgdXlRJiy-0HcAWTsJ1XsqlYXlZ4L0Jg2ak6TflXnIcVgrHFxiQXYfeJbiSAgcR7zdVRLSauHKk_H6rbOdKOjcKlYacjacTo_O6BcOk0IS5SFstt31PyHwobCidmI79mo0ErGn2iOiSm9LQ/FazvGZKsT3rxbcUzeExTplXXAkPzKKE5FRuzskGiX04
+  banner: null
+scf:
+  awarded_submissions:
+    - Kulipa Debit Card for Stellar
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recon7Vnw25iu3Faw
+  awarded_round:
+    - "SCF #31"
+  awarded_total: 150000
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
