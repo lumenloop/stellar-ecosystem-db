@@ -1,0 +1,40 @@
+title: Chronospay
+other_names: null
+parent: null
+description: A low cost processing system to help businesses in South America.
+links:
+  website: https://chronospay.io
+  blog: null
+  x: https://x.com/ChronosPay
+  linkedin: https://linkedin.com/company/chronos-pay/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/ChronosPay/
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/uxYEzzYErfbEtQcqY4QJIA/21KpZq5xBFlKVmuY0OUaI0yHXwd9301bc4ZOsm1ZDFNFo2C0UdnZQ3MAJcdLzG5Pe_bHxOFb8voCL47bSn1M-VxMhhXHjSOZkHY_BWExNsTKOFoiRPOX6CapUxjJ7VeI7GCWtsieyzQLGN4Oe6vIRw/CPGWCEwxhi1IhdGllgVU1GB-XBx07IWsQxcZ4LLdFwo
+  banner: null
+scf:
+  awarded_submissions:
+    - Chronospay
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recqUH2wcPLJ4Yy7j
+  awarded_round:
+    - "SCF #11"
+  awarded_total: 65000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
