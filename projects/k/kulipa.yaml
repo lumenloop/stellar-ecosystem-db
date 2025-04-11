@@ -22,8 +22,8 @@ attributes:
   tags: []
   smart_contracts: false
   regions_services:
-    - Europe&CentralAsia
-    - LatinAmerica&Caribbean
+    - Europe & Central Asia
+    - Latin America & Caribbean
   country: United Kingdom
 images:
   icon: null
