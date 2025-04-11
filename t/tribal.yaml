@@ -1,0 +1,42 @@
+title: Tribal
+other_names: null
+parent: null
+description: Tribal Credit is a fintech company offering integrated financial
+  solutions, including corporate credit cards and financing, tailored for
+  startups and SMEs in emerging markets. In collaboration with the Stellar
+  Development Foundation and Bitso, Tribal facilitates faster and more
+  affordable cross-border B2B payments between Mexico and the U.S. by leveraging
+  blockchain technology and digital assets.
+links:
+  website: https://tribal.credit
+  blog: https://https://www.tribal.credit/blog
+  x: https://x.com/TribalCredit
+  linkedin: https://linkedin.com/company/tribalcredit
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/@tribalcredit
+  instagram: https://instagram.com/tribalcredit
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
