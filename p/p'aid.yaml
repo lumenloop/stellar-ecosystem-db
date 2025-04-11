@@ -1,0 +1,43 @@
+title: P'aid
+other_names:
+  - "\"P'aid Payrolling\""
+parent: null
+description: p-aid provides easy and affordable payroll solutions with
+  blockchain technology seamlessly abstracted, simplifying global payments and
+  payroll management.
+links:
+  website: https://p-aid.world
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: Netherlands
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/s8zpFQZBR-qa7IwB0_i31A/A6b0Gtp-TgNSGrXQHduM0hLvVfCezSMy_ZcVZFYeXNXCfhGD9c2n4mfHNbw2JEMUiVGN2WD2QHEcAcnL3VMG2UPqXw9pS0GmYtQiwiR1vI9qkwF9yTm4j1iqn8V6qsuTvj_dbjRBPrmbqC5N8IZ1NAZVrqa5j-WbpV2maRGBKhPRkUjbu6ZOpU363Wrpc5of/0y2rQr9beHj7V08e245kdH5DWN-ttoWDygU2RMrBAjs
+  banner: null
+scf:
+  awarded_submissions:
+    - P’aid Payrolling
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec85TDjqVvWzY6oR
+  awarded_round:
+    - "SCF #26"
+  awarded_total: 50000
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
