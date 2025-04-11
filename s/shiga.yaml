@@ -1,0 +1,42 @@
+title: Shiga
+other_names: null
+parent: null
+description: Shiga Digital Inc. is a U.S.-based fintech company specializing in
+  blockchain and cloud technology, offering decentralized finance solutions to
+  enhance financial accessibility in Africa. Their services include a
+  decentralized banking platform that allows enterprises to manage wallets and
+  access real-world finance, facilitating seamless transactions between
+  stablecoins and fiat currencies.
+links:
+  website: https://shiga.io
+  blog: null
+  x: https://x.com/ShigaDigital
+  linkedin: https://linkedin.com/company/shigadigital/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/shigadigita
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
