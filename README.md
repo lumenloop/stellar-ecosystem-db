@@ -100,8 +100,7 @@ Each project in the database follows a YAML-based file format. Below is an examp
 title: Giveth
 other_names: null
 parent: null
-description: >
-  Giveth is a community-driven platform that leverages blockchain
+description: Giveth is a community-driven platform that leverages blockchain
   technology to facilitate zero-fee cryptocurrency donations to vetted projects,
   nonprofits, and charities.
 links:
