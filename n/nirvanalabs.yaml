@@ -1,0 +1,41 @@
+title: Nirvana Labs
+other_names: null
+parent: null
+description: Nirvana will build a public RPC endpoint supporting Stellar's
+  Soroban upgrade on a proprietary web3 cloud off AWS & GCP.
+links:
+  website: https://nirvanalabs.io
+  blog: https://https://nirvanalabs.io/blog
+  x: https://x.com/nirvanalabsai
+  linkedin: https://linkedin.com/company/nirvana-labs-ai
+  discord_server: https://discord.com/invite/EjQspBWqdD
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Nirvana-Labs
+linktree: null
+attributes:
+  category: RPC & Nodes
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/P3X2WAk5qKuMiYXGYsPjqA/xS_0mdFzITXC23BVY_mmvz6A0Q8ZlahL-Bfrr1RGUl0ipxJNeTmZdx9Wr9rn1hysGt1df7cisUZgyxqr_kwxgvfgf8kxyS-b-ELtPA1PM_KPNQcaC924Z3IkD_gyklSqYCrL6Gli5nG0MWLK-oWS-hvYVYZhRngq7Mq4iERszdXBnliQFG57DWDMt_V6MLXR/rg8u53cvSDGqgDr5eZDEj8kU4XO8G7MNKzuysLWrg5w
+  banner: null
+scf:
+  awarded_submissions:
+    - "Nirvana Labs: Public RPC"
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recqThJyLtDUGD1x2
+  awarded_round:
+    - "SCF #26"
+  awarded_total: 36000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
