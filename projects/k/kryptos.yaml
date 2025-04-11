@@ -30,9 +30,9 @@ attributes:
   tags: []
   smart_contracts: true
   regions_services:
-    - Europe&CentralAsia
-    - NorthAmerica(withoutMexico)
-    - SouthAsia
+    - Europe & Central Asia
+    - North America (without Mexico)
+    - South Asia
   country: Sweden
 images:
   icon: null
