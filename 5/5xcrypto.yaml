@@ -1,0 +1,41 @@
+title: 5x Crypto
+other_names: null
+parent: null
+description: 5x Crypto is a YouTube channel that simplifies cryptocurrency
+  concepts, offering insights into blockchain fundamentals, market trends, and
+  investment strategies. It caters to both beginners and seasoned investors,
+  aiming to enhance understanding of the crypto landscape.A reoccuring topic of
+  videos have been around the Stellar blockchain.
+links:
+  website: https://youtube.com/@5x.crypto
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Content & News
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
