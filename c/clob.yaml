@@ -1,0 +1,43 @@
+title: CLOB
+other_names: null
+parent: null
+description: "Revolutionizing DEXs: Stellar's CLOB combines decentralized assets
+  with a centralized orderbook, redefining trading efficiency."
+links:
+  website: https://ideasoft.io
+  blog: https://https://ideasoft.io/blog/
+  x: https://x.com/o_ideasoft
+  linkedin: https://linkedin.com/company/ideasoft.io/
+  discord_server: null
+  telegram: https://t.me/ideasoftio
+  youtube: null
+  instagram: https://instagram.com/ideasoft_io/
+  reddit: null
+  tiktok: null
+  github: https://github.com/IdeaSoft-Demo
+linktree: null
+attributes:
+  category: DEX
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: " Portugal"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/1NhVrobTPfxjGPySteQAhg/f3dS0tm8gDc8j6gZ3TfU2sR6cKKQwemCSdfveckEgSP1s8EOflevQ6oYTszTliN1N4BMuH5ihz5Fm0XGcwbAlmxUpnB8U-aiSsQ4J8El4NG14FWoYsvH1YeDU6YKQKz6cGYhdWZ8hXZF_uWeyfve4Lq0vwRzpiMyOW-kRtxNAWLzCKnWjSRBk3_agGG9xg3f/QrvvBB86VKGCmfHyMVVOC5s2lvZyRhOujjaKDofkBJQ
+  banner: null
+scf:
+  awarded_submissions:
+    - CLOB (A Central Limit Order Book)
+    - CLOB DEX
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recyjcPV4GrExiwhR
+  awarded_round:
+    - "SCF #20"
+    - "SCF #29"
+  awarded_total: 86811.1
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
