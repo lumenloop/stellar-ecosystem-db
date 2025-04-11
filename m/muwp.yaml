@@ -1,0 +1,42 @@
+title: MUWP
+other_names:
+  - '"MUWPAY"'
+parent: null
+description: Unleashing Stellar's DeFi potential with Soroban-powered cross-chain solutions.
+links:
+  website: https://muwpay.com
+  blog: null
+  x: https://x.com/muwpay
+  linkedin: https://linkedin.com/company/muwpay/
+  discord_server: https://discord.com/invite/wmZUxJtuad
+  telegram: https://t.me/Muwpay
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Muwpay-uniswapper/Muwp-Stellar
+linktree: null
+attributes:
+  category: DEX
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - Europe&CentralAsia
+  country: France
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/DsTwENR-R5lBpNWT79TnzQ/xrt1Md0t1ABL0uvUxYyMfDvn8Qfgngk7wmyx-W0iJkySelmFR-SqzSnrm_XhNmci7c83Tm8NlFnusQzHM1HFnueyJUkGaFlcmTzgV7_1ZJ0VwzCacmpG8cnaayUdVVmUiivHgdy-xAK7NFAOsMIDBA/X6n4eOpCdKDFYvjAQfxbuRgQf4QHEK3eLlsFBxzdEdU
+  banner: null
+scf:
+  awarded_submissions:
+    - MUWP - Unleash Stellar’s DeFi
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec0qoMTxCX2xgOAZ
+  awarded_round:
+    - "SCF #26"
+  awarded_total: 45100
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
