@@ -1,0 +1,43 @@
+title: Nobak
+other_names: null
+parent: null
+description: NOBAK is a Non-custodial Wallet Signer for the Stellar Network.
+links:
+  website: https://nobak.net
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: https://discord.gg/GR5cB3y2
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/nobak-net/nobak-mobile
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - LatinAmerica&Caribbean
+    - Europe&CentralAsia
+    - NorthAmerica(withoutMexico)
+  country: " Argentina"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/z7YqPoxpDwpLQo4aFifW5g/kx4HiGseKvaYECObq84N8VwoCECDbVfizjpjBrL159gmjMW1_qDvubMj6XCAYD4NHQacP6Oxgh9lC3i8YSUOxDyycni0Vm1nLLkbLu4a1G3_zDMSSPUXfXmyMVPkh-7xLRtBmrwuG12VPbXUytJFXA/wpcD-i_uXVi1o5PWeBG5ynmg6Hz-iV2ZQ0qOWUw9ACg
+  banner: null
+scf:
+  awarded_submissions:
+    - "Nobak: Custodial Wallet Signer"
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recsBO1vLdYFZMucB
+  awarded_round:
+    - "SCF #23"
+  awarded_total: 34500
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
