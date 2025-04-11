@@ -1,0 +1,41 @@
+title: Source of Tales
+other_names: null
+parent: null
+description: Own your virtual self in a friendly retro world.
+links:
+  website: https://sourceoftales.org/stellar
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://gitlab.com/tales
+linktree: null
+attributes:
+  category: Gaming
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - Nospecificregionofoperation
+  country: " Germany"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/IEP1bdvCkHhDey5HAt622g/9RueAhAX50C3PrxZRW-AzlEgn-Q5CVtEPAqb-2kIO_Tv_RqjQ7yqFn7Okvoyycx83pX45WC6eLHL6r8dFFdYex6WOz5JltI-bEJsPYGyabkUf2WlCcN5SZYWtnBG6jCX7_kAvJbz8rdkc7gwb8x8Vg/sfT8kzqLU6q5sR7lFiPk7P8OF3fHdDLfcEEVUDEdBJU
+  banner: null
+scf:
+  awarded_submissions:
+    - Source of Tales
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recMAwrPuhoeSNk05
+  awarded_round:
+    - "SCF #10"
+  awarded_total: 7500
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
