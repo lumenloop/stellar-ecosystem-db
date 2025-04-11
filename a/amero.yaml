@@ -1,0 +1,49 @@
+title: Amero
+other_names:
+  - '"AMERO-DeFi Collective Savings"'
+parent: null
+description: Amero Exchange is a regulated platform that enables users in Latin
+  America to buy, sell, and manage digital assets, supporting over 45 different
+  currencies. It facilitates seamless cross-border transactions, including
+  remittances via MoneyGram, and offers a crypto prepaid card for spending
+  digital assets globally.
+links:
+  website: https://amero.exchange
+  blog: null
+  x: https://x.com/amero_exchange
+  linkedin: https://linkedin.com/company/ameroexchange/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/airtminc/
+  reddit: null
+  tiktok: null
+  github: https://github.com/Amerogithub
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: Dominican Republic
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/HLUR_d5AEngUVNOVRlQZiQ/Dq5U834QlelgAbPn5dplZG9YAc_QgDhd0UwCDh_wD0c9w_7XIcntx4uMNqbaoiH0kMsDlyuRyA_JVHSQKkKtIBM5fW96-K_30hpOz3kM8ftbFLjYOd0Z8iOQ5NmENmVEg8XARAT22dPOspEIYaN8sE9xoe8RhjFl65spc0iMuaWPmOYpFiiC4dM7X5X2u5cV/JMNc2kbp5VO1RBLlG-eDTp6pLwW2_MSvcLD24tMtfL0
+  banner: null
+scf:
+  awarded_submissions:
+    - AMERO-DeFi Collective Savings
+    - "Soroban-Powered Collective Savings: Building Decentralized Financial
+      Solutions for Latin America."
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recaF5bsiYHsjouqw
+    - https://communityfund.stellar.org/dashboard/submissions/recLm7MyA4VW2b4IX
+  awarded_round:
+    - "SCF #28"
+    - "SCF #31"
+  awarded_total: 150000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
