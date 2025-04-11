@@ -1,0 +1,45 @@
+title: Stellarmint
+other_names: null
+parent: null
+description: Stellarmint is a platform that simplifies the creation of tokens on
+  the Stellar network, allowing users to define token attributes and issue them
+  directly to their Stellar wallets without technical complexities.Stellarmint
+  is a platform that simplifies the creation of tokens on the Stellar network,
+  allowing users to define token attributes and issue them directly to their
+  Stellar wallets without technical complexities.
+links:
+  website: https://stellarmint.io
+  blog: null
+  x: https://x.com/StellarmintIO
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Launchpad
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions:
+    - Stellarmint
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recqwxZuu8Ox6MgqP
+  awarded_round:
+    - "SCF #5"
+  awarded_total: 51277.94
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
