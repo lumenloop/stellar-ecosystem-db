@@ -21,7 +21,7 @@ attributes:
   tags: []
   smart_contracts: null
   regions_services:
-    - Nospecificregionofoperation
+    - No specific region of operation
   country: Portugal
 images:
   icon: null
