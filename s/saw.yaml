@@ -1,0 +1,48 @@
+title: SAW
+other_names:
+  - '"Formal VerSo"'
+parent: Galois
+description: A semi-automated tool for Formal Verification of Soroban contracts
+  using the Software Analysis Workbench (SAW).
+links:
+  website: https://saw.galois.com
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/GaloisInc/formal-verso
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/TGxWX7iUzJQa3wtx05kKZQ/Kz-ha5NxKHxsBancPEed8aJHsQ0vDL6Wtfz6jSNfMMiij58_Jb1M2w4vbcHyznEH-2HJIFdqJ8oYZ5KeEdR4JWTyUZR3ab_WsiMe4fzqu_nfM-E1XJfqddIvFUcd7YJDJu7xjH0Q06WNaLH41q1xxw/tRVwHkI4CKeQNZ0eogakpq0hWi4a2mVmZphzJf3ogxo
+  banner: null
+scf:
+  awarded_submissions:
+    - Formal VerSo
+    - Formal VerSo - Phase 1
+    - Formal VerSo - Phase 3
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recSrr56oFNwtem56
+    - https://communityfund.stellar.org/dashboard/submissions/recY8VYgnjVw1jIBz
+    - https://communityfund.stellar.org/dashboard/submissions/recWlKfh0BaVkHuXD
+  awarded_round:
+    - "SCF #20"
+    - "SCF #23"
+    - "SCF #27"
+  awarded_total: 249700
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
