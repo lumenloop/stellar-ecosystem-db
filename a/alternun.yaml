@@ -1,0 +1,41 @@
+title: ALTERNUN
+other_names: null
+parent: null
+description: Regenerates the environment using unmined gold reserves as
+  collateral Increasing value production through digital exploitation.
+links:
+  website: https://alternun.io
+  blog: null
+  x: https://x.com/Alternun_io
+  linkedin: https://linkedin.com/company/alternun/
+  discord_server: https://discord.gg/k9qtXC6Kxu
+  telegram: https://t.me/+4dPOLQ3otkE4NjIx
+  youtube: null
+  instagram: https://instagram.com/Alternun.io
+  reddit: null
+  tiktok: null
+  github: https://github.com/alternun-development
+linktree: null
+attributes:
+  category: RWA
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: Colombia
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/I1xrC6A6B0twTbVQ8ID78A/UN9s1eWqxaPtaZFoYLRYyZEk9S9kHy1Q2ToEWXZS6qxrYbyO4z1pzwJ_ss3OkM79igtJ7XYio7qeDIS59BbcNKGgBBfeYCiaxfqdsR8cBtFR3FCHu6ivff0uSWJqli5Wo66d40D9wHipAgZv34n1gg/_6sc1i67gl4O4gK8jpvWvRGiDZ3KTQR-7zAnWLge6ao
+  banner: null
+scf:
+  awarded_submissions:
+    - ALTERNUN
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recrYzhVM2zgQ76oy
+  awarded_round:
+    - "SCF #27"
+  awarded_total: 32000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
