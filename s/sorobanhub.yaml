@@ -1,0 +1,43 @@
+title: SorobanHub
+other_names: null
+parent: Creit Tech
+description: Manage, monitor and interact with your deployed contracts from a
+  single and free to use desktop app.
+links:
+  website: https://sorobanhub.com
+  blog: null
+  x: https://x.com/CreitTech_
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Creit-Tech/SorobanHub-app
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: Chile
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/v-sZXLT18sNxEc06_F6wJw/Po0TRQdoZc6IBX2SJHVGV0o-UcCwRP9b4W-LK0my25hB8ZYHwANlqcmiSan9QsBqiC98D2nLxtbd0Rm-1R3V1pVntKmWN2w9xyeHcu7kPkgKfJEQNL36CE2O9hgVu_tKcXnrz3WImmOjl6D1RrA2fEMx6bEgFpxgq-e-fEgEJsBpj5oetCtfU_KyiIwJc47o/yyWxMj_xymENIWEPu0kXzzu_LHnpUWaI2xXYzBQRQko
+  banner: null
+scf:
+  awarded_submissions:
+    - SorobanHub
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recxRNH1fR2fkoj4w
+    - https://communityfund.stellar.org/dashboard/submissions/rec8xDnSJsXhggxFP
+  awarded_round:
+    - "SCF #25"
+    - "SCF #28"
+  awarded_total: 78500
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
