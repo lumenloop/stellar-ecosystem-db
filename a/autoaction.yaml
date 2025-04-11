@@ -1,0 +1,40 @@
+title: AutoAction
+other_names: null
+parent: 57blocks
+description: AutoAction is a smart contract automation tool for implementing
+  custom logic, time-based, and event-based automated transactions.
+links:
+  website: https://57blocks.io
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/57blocks/Stellar-AutoAction
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: China
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/rxan1IzaVCbgsk1fTjO1tw/03nrkLSPbQPDoLtcPkx4klIYiHou49WJetfPh_sRmXtyt0vk3JlaaDoafnyCblNHOwUV5TFKWp-2LmwmGrpq_0su7TbovdY_mtzGgdErKShOeySnxS31AukocXTfdringu6NLXWxjKYMIHkV8Byaqg/nNz1qA0yw11PuOAqS3e9loU3D06z_6CCCrem-PvwQJk
+  banner: null
+scf:
+  awarded_submissions:
+    - AutoAction
+  awarded_submissions_url: null
+  awarded_round:
+    - "SCF #29"
+  awarded_total: 50000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
