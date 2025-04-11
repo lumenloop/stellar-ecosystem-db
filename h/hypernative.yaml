@@ -1,0 +1,41 @@
+title: Hypernative
+other_names: null
+parent: null
+description: Market leader in hack prevention and real time monitoring detecting
+  and preventing attacks on smart contracts before they happen.
+links:
+  website: https://hypernative.io
+  blog: https://https://www.hypernative.io/blog
+  x: https://x.com/HypernativeLabs
+  linkedin: https://linkedin.com/company/hypernative/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: " Israel"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/pWJPe4Is4q_I0KI_9HT_6w/gOPDlkPHSOfY_67nXJyup8l8PKT4BU3-0l9Kx07ukFVUp9T5NiiaFIL1e3A-Y3d72zyeGCSyjAOcH68DgweF_F60oINrx1g0XurXzA2_bYytYuDui38D4S8yWbmxzFPUMW8gOj39J1OHPE0ZSECGZWKikU5uvvmnrvmPoSFZlK68jtZafC8XYoMAE9-OSMf8/EeTOjBe6kA06Sg3cUad-eTn2qT9xgw6jVlKI0FGT5_4
+  banner: null
+scf:
+  awarded_submissions:
+    - Hypernative Web3 Security
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recwaqts19fQ3ZIU3
+  awarded_round:
+    - "SCF #26"
+  awarded_total: 50000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
