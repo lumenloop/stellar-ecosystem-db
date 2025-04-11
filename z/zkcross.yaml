@@ -1,0 +1,44 @@
+title: zkCross
+other_names:
+  - Stellar zkCrossDEX
+parent: null
+description: zkCrossDEX enables seamless cross-chain liquidity transfers from
+  leading EVM chains to Stellar with a single click.
+links:
+  website: https://zkcross.network
+  blog: https://https://zkcrossnetwork.medium.com/
+  x: https://x.com/zkCrossNetwork
+  linkedin: https://linkedin.com/company/zkcrossnetwork
+  discord_server: https://discord.zkcross.network/
+  telegram: https://t.me/zkCrossNetwork
+  youtube: https://youtube.com/@zkCrossNetwork
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/zkCross-Network
+linktree: null
+attributes:
+  category: DEX
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: " United Arab Emirates"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/69CMepJ_EOxMDW5al4DAgQ/u12FwG-qQKiZsIsFwYp0TmCn8NbYu0B8dc3nsvde5yEFcwW_yROwp-ozAVyeaxOj_MmpMCyZ3xag5LvTLLhmQ5puDza06RCImEkrfsBFiI1Ej3nmHcWeiYqK68tFgWYcnH7pdjJpmAfKwsglsY_mw_1tCLJq7-N7Q-cwFV8wdyRahg7ryc5qBTS3K4ySdjyZ/qkap3kjwA169-K42rZ0-U-ecmGXTf4ekiO4bfoujIjg
+  banner: null
+scf:
+  awarded_submissions:
+    - Stellar zkCrossDEX
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recUhJNK7YD4XZNwm
+    - https://communityfund.stellar.org/dashboard/submissions/recYuJFv6edLrh6Bk
+  awarded_round:
+    - "SCF #25"
+    - "SCF #30"
+  awarded_total: 150000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
