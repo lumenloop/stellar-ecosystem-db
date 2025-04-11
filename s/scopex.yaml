@@ -1,0 +1,44 @@
+title: ScopeX
+other_names: null
+parent: null
+description: Simplified fiat remittance app for web2 users without exposing
+  complexity of crypto world.
+links:
+  website: https://scopex.money
+  blog: null
+  x: https://x.com/0xScopeX
+  linkedin: https://linkedin.com/company/0xscopex/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/scopex_fintech/
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: " Germany"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/jd0VXIMJ8aFBdfRua-4cxw/rkLdShGoJHqkP5tocQgGnKAvOh8o3BiMLr8t6-jW4Q_4k0gHcUVjNiVTiV_cyE_ob5hlXK-nDrIktnHqoPyoT3XcfPgp0Wp1QzOz-sx3la6RtgMG7sEMtaORk6OerU82X9W9dVix739xSs806Q36K3PxfZKpoTieBTMhPBEeBmF6G-ZAIPNH2C-mDr-HbMQP/LK3txTc2uEpAkjSq6rQm1WD6LRBBNmwBCGp6z6hixqE
+  banner: null
+scf:
+  awarded_submissions:
+    - "ScopeX: Remittance for Indians"
+    - Building no-cost money remittance service for India
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recVBPIbN6ojsDcHK
+    - https://communityfund.stellar.org/dashboard/submissions/recQqSzJ9ggbbyirH
+  awarded_round:
+    - "SCF #26"
+    - "SCF #30"
+  awarded_total: 78000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
