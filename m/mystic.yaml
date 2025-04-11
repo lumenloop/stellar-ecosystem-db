@@ -1,0 +1,42 @@
+title: Mystic
+other_names:
+  - '"Mystic - RWA lending market"'
+parent: null
+description: Mystic is building a lending market for RWAs, which lets borrowers
+  take out stablecoins using their tokenized real-world assets.
+links:
+  website: https://mysticfinance.xyz
+  blog: https://https://mirror.xyz/0xEB0700e0526471858c756D2074944EDecB547d92
+  x: https://x.com/mystic_finance
+  linkedin: https://linkedin.com/company/mysticfinancexyz/
+  discord_server: https://discord.gg/bxBk2YJ6wM
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/mystic-finance
+linktree: null
+attributes:
+  category: RWA
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: " Portugal"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/4NpLfEI0SEIN2YocixZkiQ/e5zf3gIMC7ZzwgOWURCO-h8aC0a4Vd1kvTXwgpEkwR4Lrm2kyAn5G-cgkVN1h-inPP31uPnAE94qMUuM5OCx4crSeByaSxZ6allaVqnZp7bh8g2XBU8n_nW52MkKIrZnriby2FWFwb0j3YnUxER66Q/vYVOgad6ois3NzE3N_3-XKF6BRbJ7iWEJ0o0a-MGe88
+  banner: null
+scf:
+  awarded_submissions:
+    - Mystic - RWA lending market
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recqCzftyJOhfSKmB
+  awarded_round:
+    - "SCF #29"
+  awarded_total: 47000
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
