@@ -1,0 +1,43 @@
+title: CryptoConexión
+other_names:
+  - '"StellarEdu by Cryptoconexión"'
+parent: null
+description: A structured educational program in Spanish and Portuguese to
+  engage developers interested in Stellar and Soroban.
+links:
+  website: https://cryptoconexion.com
+  blog: https://https://cryptoconexion.com/
+  x: https://x.com/CryptoConexion
+  linkedin: https://linkedin.com/company/cryptoconexion/
+  discord_server: null
+  telegram: https://t.me/comunidadcryptoconexion
+  youtube: https://youtube.com/watch?v=8nd2KqUQ3cE
+  instagram: https://instagram.com/cryptoconexion/
+  reddit: https://reddit.com/user/CryptoConexion/
+  tiktok: null
+  github: https://github.com/cryptoconexion
+linktree: null
+attributes:
+  category: Education & Accelerator
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - LatinAmerica&Caribbean
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/dILJPkfOSLBbKW9qWrnJPA/86M4Iq_lF07Tg3I6bzIo2J7O7Law_r56cXzLsMPE1bFHsesZjEu2LkICBMhfFWms7EVvv8lUEudImK9ykS4crnjtlisxaMvDyCFroqXrL1g-vsZ80pVbdjrGTInelx9RNz2VPnLM11Bml9ydw-AWeA/SiyeN1o3LZeyJgrtdXoPcvg-SU8B_IHsqG1Wza7Jcbo
+  banner: null
+scf:
+  awarded_submissions:
+    - StellarEdu by Cryptoconexión
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recXsnxgpZH5CqxAF
+  awarded_round:
+    - "SCF #25"
+  awarded_total: 15000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
