@@ -1,0 +1,44 @@
+title: Idunu
+other_names:
+  - '"IDUNU: Help Kids Thrive"'
+parent: null
+description: A fundraising and fund distribution platform for high-impact,
+  cost-effective charities working with underprivileged kids.
+links:
+  website: https://idunu.org
+  blog: https://https://www.idunu.org/blog/
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/idunu_foundation
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Sustainability & Public Goods
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: " Nigeria"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/IzbBpamTog2N_2D5YLSCdw/tldfkO4URC_gv5F1IavH5npmlqtZe3N5qTaJR6aKikLrznrVGCh1K4Qx213UHllLhd866DaYP_dJlm6vUJQUDSOypag7in7G2kBZ1tQZUdBCuqdOTGdhfT_iqLGFWY9tliJ-jajDAVX1a2cALKmA9ZkMT_ZcvmU0OM4Uu-xv8aM/pX9qEIIl5bzXb1xLApMOytEQ9mTGue0KF9hZEgB5yy4
+  banner: null
+scf:
+  awarded_submissions:
+    - "IDUNU: Help Kids Thrive"
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec8hQ6VSQ4036a93
+    - https://communityfund.stellar.org/dashboard/submissions/recLB7DIx8J5C198j
+  awarded_round:
+    - "SCF #21"
+    - "SCF #25"
+  awarded_total: 30000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
