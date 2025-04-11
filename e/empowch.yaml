@@ -1,0 +1,41 @@
+title: Empowch
+other_names: null
+parent: null
+description: Offering a mobile wallet to the unbanked the MENA region by
+  connecting them with family members abroad.
+links:
+  website: https://empowch.com
+  blog: https://https://www.empowch.com/blog/
+  x: https://x.com/Empowch
+  linkedin: https://linkedin.com/company/empowch
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/channel/UCyY-MIBdA8Oh5qXxA6nYHHg
+  instagram: https://instagram.com/empowch/
+  reddit: null
+  tiktok: https://tiktok.com/@empowchapp
+  github: null
+linktree: https://linktr.ee/empowch
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/QLfbGq1ZWOdcpZzwF1T0Nw/W0Y4cYXRZZ-2AkWvsjIV2sDbrsxWR-sT7iqUSljnbh_WFSo-yXZmZAQZJVqytsPb5SGQCv9gBZx9uT3JPESB8GvnLE_RlEw9keSpSGkPssL0kacQai02w444KBNxz2KeWCeKvq-1xyh87KxbfK95VQ/mekTqecK-uddZT1a8V-j40x6Jf7nkc3rQR7zSEfSlOo
+  banner: null
+scf:
+  awarded_submissions:
+    - Empowch
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recLsBtTbsX1MST6w
+  awarded_round:
+    - "SCF #11"
+  awarded_total: 25000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
