@@ -1,0 +1,49 @@
+title: Bigger
+other_names:
+  - '"BiGGER - Startup Camp 2.0"'
+parent: null
+description: Bigger is a software development company and official Stellar
+  partner specializing in building blockchain solutions like smart contracts and
+  decentralized applications. They help businesses leverage Stellar’s
+  capabilities for projects such as cross-border payment systems and custom
+  fintech applications. Bigger has also been helping organizing the Stellar
+  Kickstart program.
+links:
+  website: https://biggertech.co
+  blog: https://https://www.biggertech.co/blog
+  x: https://x.com/biggertechco
+  linkedin: https://linkedin.com/company/biggertech
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/biggertech.co
+  reddit: null
+  tiktok: null
+  github: https://github.com/bigger-tech
+linktree: null
+attributes:
+  category: Education & Accelerator
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: Australia
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/SLVl7qunYRjgLyeGRuxTPw/zZHcPupfiPB8OaseWxhp_MMyc6dcI8OaiciYeWFFwliBgwB4O5y5NqZ_bIBH27U72E5wKo4KdO0Qle1xw_QO0vVJGoPKjLJnLsIlRkBqMtH6TuzNl41ofn7PvnYncQUg_-n14yJP7JSBQlY9AzzSTA/eEtk5au5wmJZAwO1UK71ejG__PbiaADStFqNiQ0w4q4
+  banner: null
+scf:
+  awarded_submissions:
+    - Startup Camp 2.0
+    - Startup Camp 2.0 - Round 2 & 3
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recLcRUIYogQT6DHs
+    - https://communityfund.stellar.org/dashboard/submissions/recGWdH8UVAhNcaxx
+  awarded_round:
+    - "SCF #23"
+    - "SCF #28"
+  awarded_total: 150000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
