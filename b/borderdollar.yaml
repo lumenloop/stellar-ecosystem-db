@@ -1,0 +1,43 @@
+title: BorderDollar
+other_names: null
+parent: null
+description: BorderDollar provides investors with opportunities to invest in
+  real-world assets through SME cross-border trade invoice financing.
+links:
+  website: https://borderdollar.co
+  blog: null
+  x: https://linkedin.com/company/borderdollar/
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/randomacy
+linktree: null
+attributes:
+  category: RWA
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: Singapore
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/0AqpTihm0Zr2Yv7fZmrxjQ/ABNtz6Wu6j35CzYH1KcO68lxXVciz6JOHpESp-Oup1qi7VzfDWFW_0grQRBv5PT16t2krYVOxT3i_TOm8ACXgP-QjObmPWwDQifmXVyujVqUscSlZxynuZYpTRGmXHp0e662SWM56Qo-VK62OMkQJm_6o86KX0qKakWzdDqkkcVFGTupCEBx8L6zA_dx-jtO/k7CJc9MqXwMhhtLX3mSLtJ4JllqcCk5_7YhMe_qHi94
+  banner: null
+scf:
+  awarded_submissions:
+    - BorderDollar - Invoice Finance
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recTfc2QWaiOjUbg9
+    - https://communityfund.stellar.org/dashboard/submissions/recDTKZEE2PaegFTc
+  awarded_round:
+    - "SCF #26"
+    - "SCF #29"
+  awarded_total: 133000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
