@@ -1,0 +1,42 @@
+title: Lenme
+other_names: null
+parent: null
+description: Lenme is a peer-to-peer lending platform that connects borrowers
+  seeking micro-loans ranging from $50 to $5,000 with investors looking to fund
+  these loans. Through its mobile app, Lenme facilitates quick loan requests and
+  competitive interest rates, aiming to provide transparent and immediate access
+  to capital for borrowers, while offering investors a streamlined loan
+  management experience.
+links:
+  website: https://lenme.com
+  blog: https://https://lenme.com/blog/
+  x: https://x.com/lenmeapp
+  linkedin: https://linkedin.com/company/lenmecorp
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
