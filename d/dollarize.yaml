@@ -1,0 +1,38 @@
+title: Dollarize
+other_names: null
+parent: null
+description: Dollarize is a global financial services platform that allows you
+  to open a dollar account from anywhere in the world.
+links:
+  website: https://dollarize.me
+  blog: null
+  x: https://x.com/dollarize_me
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
