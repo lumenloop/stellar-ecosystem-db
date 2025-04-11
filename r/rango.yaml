@@ -1,0 +1,48 @@
+title: Rango
+other_names: null
+parent: null
+description: Rango aims to enable Stellar multi-chain interoperability by
+  integrating its chain, DEXs, and bridges into the Rango ecosystem, offering
+  seamless token swaps across chains. Its smart routing engine optimizes swaps
+  for the best rates, lowest fees, and preferred speed.Rango aims to enable
+  Stellar multi-chain interoperability by integrating its chain, DEXs, and
+  bridges into the Rango ecosystem, offering seamless token swaps across chains.
+  Its smart routing engine optimizes swaps for the best rates, lowest fees, and
+  preferred speed.
+links:
+  website: https://rango.exchange
+  blog: https://https://medium.com/@rangoexchange
+  x: https://x.com/RangoExchange
+  linkedin: null
+  discord_server: https://discord.gg/q3EngGyTrZ
+  telegram: https://t.me/rangoexchange
+  youtube: https://youtube.com/@rangoexchange
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/rango-exchange
+linktree: null
+attributes:
+  category: Bridge
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - Nospecificregionofoperation
+  country: Turkey
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/9LPZixy55ubW4yWorTJb3w/18XV1i1jsyHFxIfeUQfLw13pVDQs3KJjOpcRzgScQ9xFgL0QehYOtsWWwU847Ksgro-hZUVQTVZVcIQbLdqBjM3OC77ZMdj5rqeGEUHTIFcWhduuL9ybhiG7xAkahDCa5aXbRx4PV6SorzW0d4OGxKyyaEOahz6Od2EKiOGl7sE/skDDEOuaQIFPxPcMFutAvGWZFIcmU3t5wg7CTQgZOck
+  banner: null
+scf:
+  awarded_submissions:
+    - "Stellar multi-chain interoperability "
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recg8QhGImWoK3n1g
+  awarded_round:
+    - "SCF #31"
+  awarded_total: 60000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
