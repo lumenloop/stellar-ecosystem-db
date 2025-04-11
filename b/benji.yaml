@@ -1,0 +1,42 @@
+title: Benji
+other_names: null
+parent: null
+description: Benji Investments is a platform developed by Franklin Templeton
+  that allows investors to access tokenized securities and cryptocurrencies,
+  including the Franklin OnChain U.S. Government Money Fund (FOBXX). This fund
+  is natively issued on the Stellar blockchain, making it the first
+  U.S.-registered mutual fund to process transactions and record share ownership
+  on a public blockchain.
+links:
+  website: https://benjiinvestments.com
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: RWA
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
