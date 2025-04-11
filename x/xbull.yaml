@@ -1,0 +1,43 @@
+title: xBull
+other_names: null
+parent: Creit Tech
+description: xBull Wallet is an open-source, non-custodial wallet designed for
+  managing Stellar assets, offering a user-friendly interface and robust
+  features. It supports multiple platforms, including web browsers, Android, and
+  iOS devices, enabling users to send, receive, and swap assets seamlessly..
+links:
+  website: https://xbull.app
+  blog: null
+  x: https://x.com/xBullWallet
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Creit-Tech/xBull-Wallet
+linktree: null
+attributes:
+  category: Wallet
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: Chile
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/H3N6siV5Ayt-1idQXWstuA/sgEWyO1R3_vlsWlJYTK9K7oZHbCkuBzf0iyKWj49McDqEzCt6zXQbNN3mkLoQrVnwOaMyAmzuAJ2fIAuhPMLsM3o0uI3Pexx4HD4qM7pJPVSTC2ftkaxA1PeVMW7gqrkvxp8S3U2M1h2JywCVwY7_w/G7snLf4xmmhK9-zKL_u8H6eu4r9MZnPtKKCW2M7gnjY
+  banner: null
+scf:
+  awarded_submissions:
+    - xBull Market
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recFqkCcGL7ABiF7G
+  awarded_round:
+    - "SCF #9"
+  awarded_total: 56200
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
