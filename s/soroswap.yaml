@@ -1,0 +1,51 @@
+title: Soroswap
+other_names:
+  - '"Soroswap.Finance"'
+parent: PaltaLabs
+description: Open-source AMM protocol and AMM Aggregator with Ecosystem
+  Interoperability for providing liquidity and trading Stellar Assets in
+  Soroban.
+links:
+  website: https://soroswap.finance
+  blog: https://https://medium.com/soroswap
+  x: https://x.com/soroswap
+  linkedin: https://linkedin.com/company/paltalabs/
+  discord_server: https://discord.com/invite/yXFaku4w9u
+  telegram: null
+  youtube: https://youtube.com/@Soroswap.Finance
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/soroswap
+linktree: null
+attributes:
+  category: AMM
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: Chile
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/79EYBbIFPDtmLIoRE_mwJA/hV1riUXaB_2IvGN8PcyocfaeO-I0mHu9gBAiWQAxuOmibUM4s1_6rbWs_ot6yZjabPhyTAJLD01ZWS_sdc4RC9UBD1lfTTQAgOZv6AGnAdb0Ttnz41aYO-SD6OWBmTIK3vJkzollwNeRjFwyNkv5vonUiJMd81M680JZXB83VBI/dOJ-28lvby3zhJf3KErkokUEt0B-5Mf2vMCXKx2VaPw
+  banner: null
+scf:
+  awarded_submissions:
+    - Soroswap Protocol
+    - Soroswap.Finance Aggregator
+    - Soroswap.Finance
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recQcIB562ZHDFqdJ
+    - https://communityfund.stellar.org/dashboard/submissions/recDy2knwdmwAPWBd
+    - https://communityfund.stellar.org/dashboard/submissions/recfVynUAvAjZO4Nj
+    - https://communityfund.stellar.org/dashboard/submissions/recWFIADW1gqmyvl7
+  awarded_round:
+    - "SCF #15"
+    - "SCF #17"
+    - "SCF #21"
+    - Liquidity Award - '24 Q1
+  awarded_total: 346750
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
