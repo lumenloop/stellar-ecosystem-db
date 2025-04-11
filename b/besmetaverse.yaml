@@ -1,0 +1,43 @@
+title: BES Metaverse
+other_names:
+  - '"Azores Metaverse"'
+parent: null
+description: Decentralized virtual worlds on Stellar - enabling users to play,
+  create and interact with others in a blockchain-based metaverse.
+links:
+  website: https://besmetaverse.com
+  blog: null
+  x: https://x.com/BESmetaverse
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/BESMetaverse
+linktree: null
+attributes:
+  category: Gaming
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - Europe&CentralAsia
+  country: " Portugal"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/rQYdZo9aUCiyRG9eU8TksA/BtQbdh_n-mpHR2Nd5sHCGGKHfNn6mnSm6f_iRRdZ5L-OTG5rHNBa3Ng6REArx3EkmfhGzKUQn8otRnHKoC3jF-PTQbG6LiBtM7uYnjKC42TdHbhcBLm81fmzj-6f_E7NflCeGAdR2VNh5DwKIpt8Sg/CAvf4Tb5K-KBz3g5IngaBV9NTKYwheqsmYbCqSGhqYI
+  banner: null
+scf:
+  awarded_submissions:
+    - BES Metaverse
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recfi8EB1253ZsHjO
+  awarded_round:
+    - "SCF #13"
+  awarded_total: 7500
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
