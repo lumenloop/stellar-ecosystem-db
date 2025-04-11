@@ -1,0 +1,45 @@
+title: Hermes
+other_names: null
+parent: null
+description: Hermes is a decentralized perpetual exchange on the Stellar
+  blockchain, enabling traders to engage in leveraged trading. It uses a
+  liquidity pool model and oracles to offer deep liquidity with minimal
+  slippage, allowing users to open and close positions efficiently without
+  additional accounts.
+links:
+  website: https://github.com/orbit-cdp/hermes
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/orbit-cdp/hermes
+linktree: null
+attributes:
+  category: DEX
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - NorthAmerica(withoutMexico)
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/TTur-vXMMSAwnouv89ngYw/HJZH7gmgMU-LRAr7VbmH1GjKPBVyhHq7QEGDO_r9NAW0DxzSkVwO7szPf-xp_5e7SNboGgzvZQVMLLJxez8ebhXDE2_977U3xyCx2knKxb5DS26Sxc8ccESAOs0_XxXTgNhD3VXSB_-DuNE9xJ5K7Q/8Jfm0mUDmHdStRhI6yoJCDeRiHZ1i9OkCPRmDYEYXgw
+  banner: null
+scf:
+  awarded_submissions:
+    - "Hermes: Stellar’s Own Perpetual Exchange"
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recLWYP6Y352hsjEb
+  awarded_round:
+    - "SCF #32"
+  awarded_total: 150000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
