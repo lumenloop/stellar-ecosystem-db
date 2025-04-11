@@ -1,0 +1,42 @@
+title: Skynet
+other_names:
+  - '"Stellar Skynet & SkyInsights"'
+parent: Certik
+description: Building Stellar chain support to CertiK’s Skynet for community
+  security and SkyInsights for compliance/risk monitoring.
+links:
+  website: https://skynet.certik.com
+  blog: https://https://www.certik.com/resources/blog
+  x: https://x.com/CertiK
+  linkedin: https://linkedin.com/company/certik/
+  discord_server: https://discord.com/invite/certik
+  telegram: https://t.me/CertiKCommunity
+  youtube: https://youtube.com/channel/UCCcFr6FTUeWDIqUdY8i1W5w
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/CertiKProject
+linktree: null
+attributes:
+  category: Data & Onchain Tools
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/aDpS4JJ1YpwNKwEwsi8GLQ/DgZ3wMQQfLdClHZMBVxfWUpPMDamqzzq1XnhUfCWisRGGFBzyIIIvghWdvQgtWkVIc3MSDDs0N1dBHuvLvohIiEpBOySJdFwEJLYo5FzGAtIYwDKwakxXZC8rwo4QW9ZmKmHq02euoxbYXoTaNu9-56mZshQvnF4YoB_4jW_CJ7NjO02c91XZxlYMwU_kjrO/TAN0iG36LnTLcNU9ygJyAZyUh-zhLRJh8FmAzxi0Vzg
+  banner: null
+scf:
+  awarded_submissions:
+    - Stellar Skynet & SkyInsights
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recYJNdSR6lx5fl4w
+  awarded_round:
+    - "SCF #25"
+  awarded_total: 49997
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
