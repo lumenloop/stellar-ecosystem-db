@@ -1,0 +1,42 @@
+title: Web3dev
+other_names:
+  - Study @stellar-sdk & Soroban
+parent: null
+description: Stellar SDK & Soroban Study Group sessions to teach
+  Spanish-speaking students on Discord.
+links:
+  website: https://discord.gg/web3dev
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/@web3dev
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Education & Accelerator
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/rKrdMgKHr89KEWtCKDoz0Q/rAqegMQmKdjcRbHqEqD8uk3xJiOqn96TH14wtL7xvV3-gFwxqVFbMixWwYC4UYm3IPmka3FFqp5i4w5m01BYvrcYRZRSQa4Y0OcQ_QtQ7QKOMeCQ3uIvHsQxp9lOx9DwzwodVwwh6CxCpFGSn0zDZg/myf8qcKoAEybGKETST-ZTju1wf5NrInSIcWf2dBexyE
+  banner: null
+scf:
+  awarded_submissions:
+    - Study @stellar-sdk & Soroban
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recuzSoiOe8Bm6FIV
+  awarded_round:
+    - "SCF #27"
+  awarded_total: 15000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
