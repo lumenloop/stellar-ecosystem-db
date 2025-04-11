@@ -1,0 +1,40 @@
+title: Chef
+other_names: null
+parent: null
+description: Chef is a tool that helps developers set up their test environments quickly.
+links:
+  website: https://stellar-chef.github.io/stellar-chef
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/stellar-chef/stellar-chef
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/ZQcP_H-QkLIyb-mAK4hPHg/nUJy0UCwVPiBraBGN3S8FoHZJ3tQoH6DF-IdmQHCOGG7cJB1iquLSQ6R0DvEOlOtp2xvz9Qcia6mH-NTs3i83me9GlUkJ3bow0wfjJsrsqpdTomUrK2v8mUHeL22KEkrkbR4X1GR6SyjZMeUUKcXSQ/zEAym0wKWLxEkKIh9MEdq-0wHFAjg-aaKDsCBItl8zU
+  banner: null
+scf:
+  awarded_submissions:
+    - Chef
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recskJRJnsD63Lg4G
+  awarded_round:
+    - "SCF #22"
+  awarded_total: 18000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
