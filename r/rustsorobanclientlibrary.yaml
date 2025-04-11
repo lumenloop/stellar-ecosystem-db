@@ -1,0 +1,47 @@
+title: Rust Soroban Client Library
+other_names: null
+parent: null
+description: rs-soroban-client is a Rust library for communicating with a
+  Soroban RPC server and using it on the client side. This library will enable
+  developers to seamlessly integrate Soroban functionality into their Rust-based
+  applications and services.
+links:
+  website: https://github.com/rahul-soshte/rs-soroban-client
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/rahul-soshte/rs-soroban-client
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - Nospecificregionofoperation
+  country: " India"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/JLGlCfyXepSQlv0_SRvvVg/1JdkimIkYeUTGprGDDBdljZCeKfQousFZGFdsdNUdwzEMBhVjrq26nHcApnLMQolabP3nCcaHnTk9zaOWQ9LCZVQrQqBJYRqBJTdOOkMq_wgMHdhgav8xqQOwdwVaW3lzJf0mGqIx0M1n_uq7v4B7Q/dEI7koD7Ixb_jc0EJHAsevX3izfc9d2xp0kv2SRU52I
+  banner: null
+scf:
+  awarded_submissions:
+    - Rust Soroban Client Library
+    - Rust Soroban Client Library - Launch
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recJ1m2AzJdAiqm8Q
+    - https://communityfund.stellar.org/dashboard/submissions/rec2Va7FjwZ5EM8y8
+  awarded_round:
+    - "SCF #17"
+    - "SCF #32"
+  awarded_total: 56000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
