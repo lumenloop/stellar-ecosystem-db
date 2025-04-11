@@ -1,6 +1,6 @@
 title: Sanctum
 other_names:
-  - '"Soroban contracts with secrets"'
+  - Soroban contracts with secrets
 parent: null
 description: Lib Sanctum ZK+MPC tech enables smart contracts to compute on
   secret state, thus bringing privacy to the Stellar apps.
