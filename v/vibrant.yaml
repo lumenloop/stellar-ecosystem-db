@@ -1,0 +1,39 @@
+title: Vibrant
+other_names: null
+parent: Sunship Inc.
+description: Vibrant is a digital wallet that enables users to buy, sell, store,
+  send, and receive USDC. Built on the Stellar blockchain, it offers fast,
+  secure, and fee free transactions.
+links:
+  website: https://vibrantapp.com
+  blog: https://https://vibrantapp.com/blog
+  x: https://x.com/vibrantwallet
+  linkedin: https://linkedin.com/company/vibrantapp/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/vibrantwallet/
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Wallet
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
