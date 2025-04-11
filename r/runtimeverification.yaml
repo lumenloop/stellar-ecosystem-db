@@ -1,6 +1,6 @@
 title: Runtime Verification
 other_names:
-  - '"Komet: Formal Verification"'
+  - "Komet: Formal Verification"
 parent: Runtime Verification
 description: Open-source tool for Soroban smart contract developers, enabling
   them to perform robust formal verification.
