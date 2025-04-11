@@ -1,0 +1,40 @@
+title: Quidroo
+other_names: null
+parent: null
+description: Helping Nigerian SMEs with unlocking their trapped cash flow.
+links:
+  website: https://quidroo.com
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/K29jqsW8L8xD1FtDLIwCEw/OdQ_zDd4hyOAw1TnsooFKZH3v78vEAjLEmKIUGfVbXlUDkbqcJz1C9ZOnxHQQo3DlotceABeMjYiD9znDagv_VPFAVugnG4jDK3NUh6q_lOl_ibccf4HWC_wt6yz3evKjZ3uV4iJCD9B-CdaUnfRhw/nehHVoWL3vdMyNXg63xjJbeOBciq6zVMkYyK1Sa7DrU
+  banner: null
+scf:
+  awarded_submissions:
+    - Quidroo
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/reclXx6KR4ToWTPsG
+  awarded_round:
+    - "SCF #9"
+  awarded_total: 35000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
