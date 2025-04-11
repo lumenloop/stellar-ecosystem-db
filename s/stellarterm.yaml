@@ -1,0 +1,44 @@
+title: StellarTerm
+other_names: null
+parent: null
+description: StellarTerm is an open-source trading client for interacting with
+  the Stellar Decentralized Exchange (DEX), enabling users to trade, send, and
+  manage assets. It supports self-hosting for enhanced control and privacy while
+  offering tools for trustlines, multisignatures, and wallet integration like
+  Ledger.
+links:
+  website: https://stellarterm.com
+  blog: null
+  x: https://x.com/StellarTerm
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/stellarterm
+linktree: null
+attributes:
+  category: DEX
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions:
+    - Stellar Term
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recGp2bg7OQlVFllx
+  awarded_round:
+    - "SCF #3"
+  awarded_total: 0
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
