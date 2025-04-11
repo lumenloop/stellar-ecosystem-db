@@ -1,0 +1,44 @@
+title: Switchly
+other_names:
+  - Switchly.com - Bridge and DEX
+parent: null
+description: A decentralized, cross-chain protocol for stablecoin bridging and exchange.
+links:
+  website: https://switchly.com
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/SwitchlyProtocol
+linktree: null
+attributes:
+  category: Bridge
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: " Canada"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/Qv3jBUt2iqJY36rNRI6bbQ/cF23EJpAq77YZdik2eYqehbCArhN6FotbUPuUnXwNAInI6WadPXhUMVd5IPKTy2pdC0Rxy5gVci5i-Y1QjqgLC2xEm6y1MO0FQz_AT0K1uPzL2UEKMTYVPYaSPwZBabEyZ0mocsg3nnRZFEXT6SW4Q/hxJ-3d7k509DUzJj2Rxfd-Y98_wvN9eQPgq0H6V0VAs
+  banner: null
+scf:
+  awarded_submissions:
+    - "Ionize: Stellar Asset Bridge"
+    - Switchly.com - Bridge and DEX
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec1ZAs0f7cw3mGFX
+    - https://communityfund.stellar.org/dashboard/submissions/reclxBFY2nWk88GX0
+  awarded_round:
+    - "SCF #20"
+    - "SCF #29"
+  awarded_total: 76000
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
