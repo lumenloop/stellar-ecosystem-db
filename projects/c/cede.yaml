@@ -23,8 +23,8 @@ attributes:
   tags: []
   smart_contracts: true
   regions_services:
-    - Nospecificregionofoperation
-    - Europe&CentralAsia
+    - No specific region of operation
+    - Europe & Central Asia
   country: France
 images:
   icon: null
