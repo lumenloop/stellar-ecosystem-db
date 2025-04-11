@@ -1,0 +1,45 @@
+title: Alfred
+other_names: null
+parent: null
+description: Alfred Pay is a financial technology company offering a payments
+  platform built on stablecoins, simplifying cross-border transactions for
+  businesses.
+links:
+  website: https://alfredpay.io
+  blog: https://https://alfredramp.medium.com/
+  x: https://x.com/alfredlatam
+  linkedin: https://linkedin.com/company/alfredpay/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: " Mexico"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/cIuaihGsiPvTe5dQ6jXKXQ/EZfeHAVPl1QUFen6_sL5xQRWlebPbF7sAb5F6yQZqGv8sjSklIvA7VKtko-gBRGpF0y0O0XZkMSAyrgG7goPyyM3FxLoOZXpNAQdSP5gwnBti2Y_M4vfMrdfGg8_qL9XBuAk0A9waaFRCRN-z_zvcA/PAI15msJXH2G0dGEnkpu8yCTtXIakzYlXj3yXqGGXJA
+  banner: null
+scf:
+  awarded_submissions:
+    - Alfred Pay
+    - "alfred "
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recGGvGWEBcaG43xj
+    - https://communityfund.stellar.org/dashboard/submissions/recJEHkfUrrbLVcg8
+  awarded_round:
+    - "SCF #9"
+    - "SCF #19"
+  awarded_total: 335000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
