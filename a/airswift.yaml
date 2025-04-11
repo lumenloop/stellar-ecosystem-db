@@ -1,0 +1,42 @@
+title: Airswift
+other_names: null
+parent: null
+description: Airswift's Supply Chain Financing Platform uses Stellar's Soroban
+  to tokenize and fractionalize account receivables, enabling suppliers to
+  access advanced stablecoin loans and optimize working capital.
+links:
+  website: https://airswift.io
+  blog: null
+  x: https://x.com/AirswiftTech
+  linkedin: https://linkedin.com/company/airswifttech
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/@airswifttechnology
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Airswiftio
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: " Canada"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/dWq1dI7JUBX7Ebd_3FlQLQ/ztHi0EO1RW34TH_mwMGKcPzg5ZdK4c2B4PgYB7FkLGOz9LHwwsOvl1V38nAQRqt6T7hqxfqzoDC7WyZSQ2pdgC5be3ExXuUh_W1FgVmrlev0XuJeaRyjq46KSMDIvkqqQjI8eh2IPMHiE1cyeZAbOA/rL9mlMxrQqK-JBtr-I-S8C3Rg-y9_ti9QcXMahMM1IA
+  banner: null
+scf:
+  awarded_submissions:
+    - Airswift Supply Chain Finance Platform
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recX7oeV1IsHlgDy5
+  awarded_round:
+    - "SCF #16"
+  awarded_total: 150000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
