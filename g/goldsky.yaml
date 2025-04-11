@@ -1,0 +1,42 @@
+title: Goldsky
+other_names: null
+parent: null
+description: Offering builders access to real-time, high-performance Soroban
+  data indexing and to a CC0-licensed public good dataset.
+links:
+  website: https://goldsky.com
+  blog: https://https://goldsky.com/blog
+  x: https://x.com/goldskyio
+  linkedin: https://linkedin.com/company/goldsky-io
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/indexed-xyz/docs
+linktree: null
+attributes:
+  category: Indexing
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - Nospecificregionofoperation
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/8D6vB8rjtG7mIFgX6w0bVA/Y2DV6KCtLODD3llLZ-iWdttMwcL9JdQeWexIm_lRIZpVIEas_T-4deZ4lhDf7pTvv26BgZFtVvMxKcyV2DR_n-rsWOyCWTXusdE22TIDKQTTRYYNTlb4TLToHPN9dX3nyjvdXR60sBfElY9fIFcWWg/99w8tUbax99NYPtLeIBJyVDf0Xh3dCrhCz63mgPpWoQ
+  banner: null
+scf:
+  awarded_submissions:
+    - Goldsky
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recnHUE6Wv5qJbloO
+  awarded_round:
+    - "SCF #19"
+  awarded_total: 128000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
