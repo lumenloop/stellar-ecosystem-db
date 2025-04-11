@@ -1,0 +1,41 @@
+title: Freedom Pay
+other_names: null
+parent: null
+description: Freedom Pay Wallet is a digital payment platform that enables users
+  to send and receive funds instantly and securely, with no fees, utilizing
+  blockchain technology. Built on the Stellar Network, it aims to provide
+  financial access to unbanked populations, particularly in Africa, facilitating
+  cross-border transactions and remittances.
+links:
+  website: https://freedompaywallet.com
+  blog: null
+  x: https://x.com/FreedomPayWalet
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/freedompaywallet
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
