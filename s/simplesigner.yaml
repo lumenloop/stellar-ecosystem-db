@@ -1,0 +1,40 @@
+title: Simple Signer
+other_names: null
+parent: Bigger
+description: A secure in-browser transaction signer that supports different stellar wallets.
+links:
+  website: https://github.com/bigger-tech/simple-stellar-signer
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/fsodano/simple-stellar-signer
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: " Argentina"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/Y7nk5ffPKnQ4VOFkjLhcnw/DUHQFnMt0uR4DWtdmD8WXfsqdKOV4sKEbTCfSwImalOKegnCuB_utEMWIOVai8cMNDO8HQQ55lDcKa5vzFO6KV_aTH-Qbkx0oFhnxjsD4miKDXbHkzO0pK0OeQf_bAvMXIE1Ejnqm-pFapEn8pCkqQ/tyZgvC0eMW0SuGGW6pFHEQlV299OySyikQajJeJv9fs
+  banner: null
+scf:
+  awarded_submissions:
+    - Simple Signer
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recjPfbs3ntu7RyaZ
+  awarded_round:
+    - "SCF #9"
+  awarded_total: 10000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
