@@ -1,0 +1,43 @@
+title: InfStones
+other_names: null
+parent: null
+description: Provide Horizon and Soroban API developer access via an
+  auto-scaling cluster with a freemium endpoint and support structure.
+links:
+  website: https://infstones.com
+  blog: https://https://infstones.com/blog/all
+  x: https://x.com/infstones
+  linkedin: https://linkedin.com/company/infstones
+  discord_server: https://discord.com/invite/5Sgu93crrA
+  telegram: https://t.me/infstones/
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/InfStones-com
+linktree: null
+attributes:
+  category: RPC & Nodes
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: China
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/LrWHaEG4TIPqt3-kMIEDdA/ncYezsVoYknpUBgdYkkPDkX_C7VwwjRIJ06xL8PJYtwyZjwB24s-TF_3AydkEGo_wPniYVf1BkLrzlT5-8bjPbp3yMpUGrI7Ta1hnT8EPT6KHY9w1VekeuRw7jUxICqfKPb-f1joDTIzQLIad-xd2-M8NBChg-DXIA3S_dgSx1fAr-CTL4_SuVEvBkGnHOSK/cHUsKFKCCK8jnGiVI0Li2ExOFIzEv_c-LbMesbAG6k0
+  banner: null
+scf:
+  awarded_submissions:
+    - Horizon & Soroban API
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rectOzAPw9WZwU8ec
+    - https://communityfund.stellar.org/dashboard/submissions/rec14mcRMcEixJXEg
+  awarded_round:
+    - "SCF #26"
+    - "SCF #29"
+  awarded_total: 150000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
