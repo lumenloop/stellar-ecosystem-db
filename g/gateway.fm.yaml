@@ -1,0 +1,41 @@
+title: Gateway.fm
+other_names: null
+parent: null
+description: Gateway.fm offers a free public RPC endpoint for Stellar's Soroban
+  smart contract platform.
+links:
+  website: https://gateway.fm
+  blog: https://https://gateway.fm/blog
+  x: https://x.com/gateway_eth
+  linkedin: https://linkedin.com/company/gateway-fm/
+  discord_server: https://discord.gg/77vtmKNbkf
+  telegram: https://t.me/gateway_fm
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/gateway-fm
+linktree: null
+attributes:
+  category: RPC & Nodes
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: Norway
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/TPCqx7EInSuQKjrMYDOyhQ/7KKlXXmHkwyLRGKvjME1EAWqWgXFC3K0uYQ0NE9hYJM0hEj1B5thjY-v-qbMufEf6Sq52-XZqFs1umenwTshcyjdEV7kQeVwk97dMnxup3ZHelohlyGVlkqeUHhaRn4djvi-WU1UOWiCC28OjOGINQ/nN5uGrP40yxuRc1Jg_M8OrnUYLdqQSpeUeUr_BXTgfE
+  banner: null
+scf:
+  awarded_submissions:
+    - Stellar/Soroban Public RPC infrastructure from Gateway.fm
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recw85qJRueeg4l6d
+  awarded_round:
+    - "SCF #16"
+  awarded_total: 150000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
