@@ -1,0 +1,45 @@
+title: Perun State Channels
+other_names: null
+parent: null
+description: We extend Perun State Channels for developers in the Stellar
+  ecosystem so they can utilize off-chain payments and more.
+links:
+  website: https://polycry.pt
+  blog: null
+  x: https://x.com/PolyCrypt_
+  linkedin: null
+  discord_server: https://discord.com/channels/897514728459468821/1082054199187083264/threads/1129011157789851748
+  telegram: null
+  youtube: https://youtube.com/watch?v=hUHEiVOBeCw
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/perun-network/perun-soroban-contract
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - Europe&CentralAsia
+  country: " Germany"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/q4JxbKv40jeX47JKlH7Yzw/f1Ypfu2w3YeynqhbCKwxbjxf8HfQIcPYp2z7_DAxpihLz18RX7Y9VaiijWQQNvjfidPulBlVKa4QPhfWl96Q_R8kPhHe1XU9UBU91qfIylBpNezBmafNAJoZXkiEg2fm21AdPoI8H3YgnvZvAVU8PA/_4nRQ7wsQJ47lWYBonXyFg5zuKIhXRtDSV5kdXp0sis
+  banner: null
+scf:
+  awarded_submissions:
+    - Perun State Channels
+    - Perun Cross-Chain Swaps
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recka4IUGyCSpMaKW
+    - https://communityfund.stellar.org/dashboard/submissions/recWpw21bCgqWztUk
+  awarded_round:
+    - "SCF #17"
+    - "SCF #24"
+  awarded_total: 174800
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
