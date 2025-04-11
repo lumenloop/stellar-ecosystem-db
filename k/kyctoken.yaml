@@ -1,0 +1,42 @@
+title: KYC Token
+other_names:
+  - '"KYC Token & UI for RWA"'
+parent: Building Block Framework
+description: Build a KYC token with Soroban to accelerate the adoption of Real
+  World Assets on Stellar for Financial Service Providers.
+links:
+  website: https://github.com/tigerblocks/BBF
+  blog: https://https://bbf.tigerblocks.com/blog
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/tigerblocks/BBF
+linktree: null
+attributes:
+  category: RWA
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/G97txHGCg00uf5lJRN5FXw/FD9DFWDONLYBL5bw08rGwP8UdxXHmKLVRNgJQ7CtmGfaLcrkLrlbTsNt1UCOCCz5yrgSkRliIAqMFFZpHgYw2m9ciDNvJGyRu5dPPuXz9Fe147JaiH_V0kIfElyIHtSSev1LjUDEbpOEC5otFK3UYw/Z5QpI6zZI1LtNdZHbgFSvN5FJCNazA_KzLEvCA8YNBs
+  banner: null
+scf:
+  awarded_submissions:
+    - KYC Token & UI for RWA
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recK8gdGynSRyEhc5
+  awarded_round:
+    - "SCF #22"
+  awarded_total: 45000
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
