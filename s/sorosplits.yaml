@@ -1,0 +1,45 @@
+title: SoroSplits
+other_names: null
+parent: null
+description: SoroSplits is a set of smart contracts and interfaces that enable
+  trustless, automated, and transparent revenue sharing of Stellar-based assets
+  among multiple parties, eliminating the need for intermediaries.
+links:
+  website: https://sorosplits.xyz
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/findolor/sorosplits
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: Turkey
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/xacLAkq2S8Fb9I0vTFREGQ/RN6_LwGPywC6sPKvPyPNlTyq66hPBZGn1Usi4m-CCboBeD9M0-Qnmxf7ERcJ8ejdVsrgqtGk8hKm7_SF7lCOdvWFj2LQ2zRz_s-WZVaXQK_SG87OukIlYnFpSLPhHQYoX7afUEuL4WLU_ycDg9iRRw/-22BHeXpNBn6n6R_5v9Vpul5dV45Q7xKSuO-w1DVhcI
+  banner: null
+scf:
+  awarded_submissions:
+    - SoroSplits
+    - SoroSplits II
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec7WPgnHqLHBaH3E
+    - https://communityfund.stellar.org/dashboard/submissions/receJWYlwJJb00Wrh
+  awarded_round:
+    - "SCF #19"
+    - "SCF #23"
+  awarded_total: 153700
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
