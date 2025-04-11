@@ -1,0 +1,50 @@
+title: Coindisco
+other_names:
+  - '"Galaxy Ramp - fiat onramp to any token on Stellar"'
+parent: Ultra Stellar
+description: Coindisco is a cryptocurrency platform that enables users to
+  purchase a variety of digital assets using multiple payment methods, including
+  credit/debit cards and bank transfers. Their Galaxy Ramp tool utilizes Soroban
+  smart contracts on the Stellar network to facilitate direct fiat-to-crypto
+  transactions for any Stellar token.Coindisco is a cryptocurrency platform that
+  enables users to purchase a variety of digital assets using multiple payment
+  methods, including credit/debit cards and bank transfers. Their Galaxy Ramp
+  tool utilizes Soroban smart contracts on the Stellar network to facilitate
+  direct fiat-to-crypto transactions for any Stellar token.
+links:
+  website: https://coindisco.com
+  blog: null
+  x: https://x.com/coindisco
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/coindisco
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - Nospecificregionofoperation
+  country: Hong Kong
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/93FXzeR5C-vW0F4KQ9S10w/Tz1csjc40gdgH_Mg3E5ADdzpRzk8odOe7AL8gzx2XV_vAjhRgbkCrh38i2h4ljXsutKlsNelnJe2L8lwZhrnO3-l4wPjLHWhzloww4eTpnmdA45Dhz8j-lL5lak61TeaEF9OkSTV_CdsJ0GzOi8S_oD4TklgDiU67m42CGjqLBM/-4a8YW10L_tIh5KoDnMqLRueKeI3fTywM-47OTVP9Xo
+  banner: null
+scf:
+  awarded_submissions:
+    - Galaxy Ramp - fiat onramp to any token on Stellar
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec7yuazvycNZIcvj
+  awarded_round:
+    - "SCF #30"
+  awarded_total: 96000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
