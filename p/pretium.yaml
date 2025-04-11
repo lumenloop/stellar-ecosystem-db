@@ -1,0 +1,42 @@
+title: Pretium
+other_names:
+  - '"Pretium Finance"'
+parent: null
+description: Revolutionizing African cross-border payments and integrating
+  cryptocurrencies into the economic value chain.
+links:
+  website: https://pretium.africa
+  blog: null
+  x: https://x.com/pretium_app
+  linkedin: https://linkedin.com/company/pretium-finance/
+  discord_server: null
+  telegram: https://t.me/+l8T7_l56oy0xYzA0
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/derrickbundi
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: Kenya
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/YxPl5DDPYdEpWE4lCLwoDg/Ezp0HpKE94xDL5tcP3JA2KNAM7YYZTqop49O6K9R4b2bmSbPPK27iOtGuerK6lxIO4O25PYWGuQRudeIXDRWMg6JskvrqVK005QvM0tPsZzwg9LKCMZOMLChKhRgVt7P_4PshZFiqlau-LDt7pQgYMPMF2NYK7Jc4sDMLdFAfWXNRCTMy_YvwqUiksE5XINz/WkYuJSrYnP1sqyh0xdCmkgIlLQnwAcUElNDGj71qGn8
+  banner: null
+scf:
+  awarded_submissions:
+    - Pretium Finance
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec5qqmSTk1OR3njh
+  awarded_round:
+    - "SCF #26"
+  awarded_total: 10000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
