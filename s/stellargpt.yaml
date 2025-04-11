@@ -1,0 +1,42 @@
+title: StellarGPT
+other_names: null
+parent: null
+description: Semantic and Index-Based Search Integration across the entire
+  Stellar Ecosystem digital footprint of docs, APIs, dApps etc.
+links:
+  website: https://stellar-gpt.vercel.app
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: https://discord.gg/Ruv3sbNQ
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/richafltr/StellarGPT
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - NorthAmerica(withoutMexico)
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/0fxNC-5_aYX_57nYXQhFkQ/S1v2reqmPH1YMYTYmrAnS-EAHsAMuMTj7588-Mi9esq0pE3btNTWZ_aDRPqdDnROQGlTUc3Qoi1l70epeBSsm1g3usnql47f4W4WYaNKT5AyZ4zuEQVbZcpAi6tuFTRkQwQBo0eNy4db6PUyr9Kqnw/9pQJ8lGrZpAiAbXzsjUrUUBXsGLrm27XByjIsHUG87o
+  banner: null
+scf:
+  awarded_submissions:
+    - StellarGPT
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec3J9EW3GQO3lgXR
+  awarded_round:
+    - "SCF #20"
+  awarded_total: 25000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
