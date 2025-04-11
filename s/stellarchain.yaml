@@ -1,0 +1,45 @@
+title: Stellarchain
+other_names:
+  - '"Stellarchain.io"'
+parent: null
+description: Stellar Explorer - Soroban and analytics for the stellar ecosystem.
+links:
+  website: https://stellarchain.io
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/stellarchain
+linktree: null
+attributes:
+  category: Block Explorer
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - Nospecificregionofoperation
+  country: Romania
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/5w5LIxI3ByAKQ7NA86O8wA/vxb3umALgVtlNFBtF-l3S8PVhwvJbjVwiKaJD13b3ktgevrhPVWf51we4h5kiO4i-BwTABNHhvwuF9mzfwuMseBfKVO0x2PmXwBojDrTj8nuPy2J74nGBHxV0r-fkqUWnkXf7sV3Q4ehNEAQx6vNmQ/BBaL91-8o5hAyxVuK1Ltljx9_p0UYNRmIWBtYgrl2ZA
+  banner: null
+scf:
+  awarded_submissions:
+    - Stellarchain.io
+    - Soroban Contract Auditor
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/receYuwM1ucRK5MB2
+    - https://communityfund.stellar.org/dashboard/submissions/recKACcbgfiocc06L
+  awarded_round:
+    - "SCF #19"
+    - "SCF #23"
+  awarded_total: 240635
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
