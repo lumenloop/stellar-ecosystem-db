@@ -1,0 +1,42 @@
+title: Komunitin
+other_names: null
+parent: null
+description: Komunitin provides a payments system and marketplace for existing
+  local currency exchange communities.
+links:
+  website: https://komunitin.org
+  blog: null
+  x: https://x.com/komunitin
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/estevebadia
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - Europe&CentralAsia
+  country: " Spain"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/F_10wTEHHkIYAkrSboIMDg/m6iTw7ZjS4wTowWHCy1z38qdCj9sCkN0ND9jRkL0mSdE7BU2fCaNm5V3KQPFhYKL8y2v7ZobYSkHJJZL-1MpM3dCc1zkaYP9Zvkt1TpfHoXnLcp26nmIteWXUAOKfmP7DrVLaD9EtG6vYlrHgl6nXw/ymEZ21HPQm-FyDOHxjJ3HyoKC63uMzfWHofDkx9p164
+  banner: null
+scf:
+  awarded_submissions:
+    - Komunitin
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recNOhqg2m5UV2Eb8
+  awarded_round:
+    - "SCF #26"
+  awarded_total: 44850
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
