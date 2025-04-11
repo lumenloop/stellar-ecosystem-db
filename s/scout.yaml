@@ -1,0 +1,48 @@
+title: Scout
+other_names: null
+parent: null
+description: CoinFabrik is a blockchain security and development company that
+  has developed Scout, an open-source tool designed to assist Soroban smart
+  contract developers and auditors in detecting common security issues and
+  deviations from best practices.
+links:
+  website: https://coinfabrik.com
+  blog: https://https://medium.com/@coinfabrik
+  x: https://x.com/coinfabrik
+  linkedin: https://ar.linkedin.com/company/coinfabrik
+  discord_server: null
+  telegram: https://t.me/+Ifsn9HszqRlkM2E5
+  youtube: https://youtube.com/channel/UC2GmjCr7aEz-il31kqOy9aw
+  instagram: https://instagram.com/coinfabrik/
+  reddit: https://reddit.com/r/CoinFabrik/
+  tiktok: null
+  github: https://github.com/CoinFabrik/scout
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: " Argentina"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/9s0Qj_WpwZEiwyLol9cRFA/UfsrvHTug5qnE-VFCR_RMfqz4GpL4zTqRuTP0UxDzJioPO3juy3-8deYig33If-OzTj9sM0J_M-wLT8d2YifNgLifRR9KkfMkdSJSTXF8BQBiAQAroeTtZ6wfnhBpCw7J3LsVW3euTe8dCqpdQwuTg/PZWnub6aVsMPTbtbJoz_nt0vgsvK4rfCrxiR3NYKTSo
+  banner: null
+scf:
+  awarded_submissions:
+    - Scout - Soroban Smart Contract
+    - Scout - BugFighter for Soroban
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec9qEUMQyHnfk1ln
+    - https://communityfund.stellar.org/dashboard/submissions/recPOG1QJ1ggXcygp
+    - https://communityfund.stellar.org/dashboard/submissions/reckierHxbkwUbx3s
+  awarded_round:
+    - "SCF #20"
+    - "SCF #23"
+    - "SCF #27"
+  awarded_total: 240000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
