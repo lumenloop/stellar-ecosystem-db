@@ -1,6 +1,6 @@
 title: MugglePay
 other_names:
-  - '"MugglePay: Stripe for Stellar"'
+  - "MugglePay: Stripe for Stellar"
 parent: null
 description: Help merchants accept crypto on Stellar through autoswap smarts
   contract built on Soroban. (e.g. pay-in XLM, pay-out USDC).
