@@ -1,6 +1,6 @@
 title: Solang
 other_names:
-  - '"Solidity Contracts on Soroban"'
+  - Solidity Contracts on Soroban
 parent: null
 description: Allows writing Soroban contracts with Solidity, by integrating
   Soroban as a compilation target for Solang.
