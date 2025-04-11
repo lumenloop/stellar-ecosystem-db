@@ -1,0 +1,39 @@
+title: CEDAR
+other_names: null
+parent: null
+description: Cedar Money is a platform that simplifies cross-border transactions
+  for businesses and individuals, enabling high-volume payments globally with
+  competitive exchange rates and efficient processing.
+links:
+  website: https://cedar.money
+  blog: https://https://www.cedar.money/news
+  x: https://x.com/cedar_money
+  linkedin: https://linkedin.com/company/cedar-money
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/cedar.money/
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
