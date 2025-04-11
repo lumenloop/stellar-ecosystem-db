@@ -1,0 +1,41 @@
+title: Plutus
+other_names: null
+parent: null
+description: Build infrastructure and sample application for conditional NFT
+  ownership to enable use cases like rental, mortgage, and lending.
+links:
+  website: https://plutus.rentals
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/arbach/stelien
+linktree: null
+attributes:
+  category: RWA
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/kltTMtlqHgk3MX5z8-klHQ/O_zJ4SSRhqUBtJmQ147f77_kA7hzDv4XRRCY8T71F1ppA7kCb56LvmxtoYbv_bUO1O9ngoRDH4obaaujBS7q6UJQ4RHuymhKC2wfkfQxN2If2oemgDv6qxiEwrL7PLQMCLrki1geQlzYnmqu2MPTxw/5wriYod6mdaIYmxIMScDRtw2aaxOojSU7egGML0Zz0c
+  banner: null
+scf:
+  awarded_submissions:
+    - Plutus
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recUIdWohR9eqJIg8
+  awarded_round:
+    - "SCF #17"
+  awarded_total: 98600
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
