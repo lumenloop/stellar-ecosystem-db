@@ -1,0 +1,45 @@
+title: Balanced
+other_names:
+  - '"Connecting Balanced to Stellar"'
+parent: null
+description: Balanced is a cross-chain DEX and stablecoin that enables native
+  cross-chain DeFi primitives for any ecosystem.
+links:
+  website: https://balanced.network
+  blog: https://https://blog.balanced.network/
+  x: https://x.com/BalancedDAO
+  linkedin: null
+  discord_server: https://discord.com/invite/DCa53m9wPq
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: https://reddit.com/r/BalancedNetwork/
+  tiktok: null
+  github: https://github.com/balancednetwork
+linktree: null
+attributes:
+  category: DEX
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/DorbI67l_ApUOs1tVt1PJw/Ghb664Btqi2MJYGNKs5XAGLLTiQxF_Jssadm_4lvflZWmT0KUee5YPm6I5UFNRxtjKUVxD8KpPr1d3_A7lWeid1QFxxlxewM7VezGEiNqSXc5ABntD0Rwcgh01rZM6nz1fCWys0Q-zFTplMXywMSsbOG-Zx-eBQP6etJTq_nZVp15rY2liex7XdFKrKqbe9R/OHACQry9QW8txVMiPuBG9y1bajslYZFV7wVpNNc9T8M
+  banner: null
+scf:
+  awarded_submissions:
+    - Balanced to Stellar - Relay 2
+    - Connecting Balanced to Stellar
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recsdvsPQ2rnhYmtS
+    - https://communityfund.stellar.org/dashboard/submissions/recQKKkneN4Bw49s9
+  awarded_round:
+    - "SCF #29"
+    - "SCF #25"
+  awarded_total: 122000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
