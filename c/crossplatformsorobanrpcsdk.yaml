@@ -1,0 +1,41 @@
+title: Cross platform Soroban RPC SDK
+other_names: null
+parent: null
+description: A Soroban RPC SDK for native cross platform development.
+links:
+  website: https://github.com/FrankSzendzielarz/SorobanRPCSDK
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/FrankSzendzielarz/SorobanRPCSDK
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - Nospecificregionofoperation
+  country: Czech Republic
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/T31q0kEb1mtNc0a8Qx2f1A/nLg9IvxrVAgmeCFHlaVmg4T3ZTB-SLNfdeW5vAR5zx601mFg8i7ShFQEh4FYIh8r7cnJ7dXHGz8IGU6xxDiTapHgjqn3EAw5gttNND79bASMnPVJx9vm7K8EpojAZop5ui-L1wbS6TR9HAmr9ex8DA/jG2jetQRYwvNXYJQJRVaV_ag--Qb8xS1-xDa7GADC68
+  banner: null
+scf:
+  awarded_submissions:
+    - Soroban Multiplatform Light SDK v1.0
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recl8E9u3mHSyWh5z
+  awarded_round:
+    - "SCF #32"
+  awarded_total: 19000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
