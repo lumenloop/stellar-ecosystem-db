@@ -1,0 +1,40 @@
+title: BlockEden.xyz
+other_names: null
+parent: null
+description: Stellar Soroban Indexer and GraphQL.
+links:
+  website: https://BlockEden.xyz
+  blog: https://https://BlockEden.xyz/blogs/
+  x: https://x.com/BlockEdenHQ
+  linkedin: null
+  discord_server: https://discord.gg/4Yfvs2HWey
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/blockedenhq
+linktree: null
+attributes:
+  category: Indexing
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/X0vO3eAB0TphW2POsWvO3A/Y-ttqNNcww3WK_XcAjm8UlqmR3TMH3hrRO9jejrutyC9u7nbnPv1-SZHDHR6Ungt-o0V62TcJVdp14u1784f0TXFgvhSq_v0NjmOVho5yViieCmcnlLtUjksOlNMRcP_5DLw1a7Thf3NeEfk498dbXtB30oylpyQaecibmGAN2la9Bm8xaLmCjuh7NGhCoLZ/Ivi_DgruLpNtCoy54VdMYh000gyoefQypwwsM0z3P-M
+  banner: null
+scf:
+  awarded_submissions:
+    - BlockEden.xyz Stellar Soroban Indexer
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recR2IbUJQTFDHKpA
+  awarded_round:
+    - "SCF #18"
+  awarded_total: 139999
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
