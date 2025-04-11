@@ -1,0 +1,43 @@
+title: Calimero
+other_names:
+  - '"Calimero Network"'
+parent: null
+description: Calimero Network is an innovative framework for building
+  Self-Sovereign Application protocols and private data sharing.
+links:
+  website: https://calimero.network
+  blog: null
+  x: https://x.com/CalimeroNetwork
+  linkedin: https://linkedin.com/company/calimero-network/
+  discord_server: https://discord.gg/kjP4GrafXj
+  telegram: https://t.me/CalimeroOfficial
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/calimero-network
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - Nospecificregionofoperation
+  country: Croatia
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/iAtZGEgI4IdsHFZCg9UN9A/_VzIVagoVZn06mRVVeSgfzteD2_LeVdQ7pFbh5ofYfUNF7EHgdgUsnp4y6a1dGqO9tI0lDMiIug_P0BXPggAXLPC3XiXRrMnKOxCE_CVWyxarKKR_3lCLy1feju-SqtjDuXcCy9VrZCgeSzuzjzFIQ/IKX4XEy89CNE6j0-vT-W1SG46XL2B-snOyd0fOzJGCM
+  banner: null
+scf:
+  awarded_submissions:
+    - Calimero Network
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recoBk1kfi1SixVph
+  awarded_round:
+    - "SCF #29"
+  awarded_total: 25000
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
