@@ -1,0 +1,42 @@
+title: Elsa
+other_names:
+  - '"Elsa Wallet: Banking Filipinos"'
+parent: Borderless
+description: A wallet for Filipinos to receive, spend and earn from their
+  remittances – bringing them closer to their overseas loved ones.
+links:
+  website: https://elsa.care
+  blog: null
+  x: https://x.com/elsa_fintech
+  linkedin: https://linkedin.com/company/elsa-care/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/hi.elsa.care/
+  reddit: null
+  tiktok: null
+  github: https://github.com/elsa-care
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/WaIjVcBBkc2tYB65mJT6vA/fYFnZwyKEsHRK2BHAGYCYS5tPSP8Xp33Bg5tYsb_Cf1DC9ld5uuIWoXZa0ZINuou4DWM30kpK5gU8xEUroryd-oXohVnGGFqrrSAQ5m2rcCzZTXxxqDSG7_H8Qn7-r4fpktpkTo0BOKxkNzDh6R5XA/kVIRQIuinVNPQ_b6d1TeS5on8btv_9O4nv9xDuLs7C4
+  banner: null
+scf:
+  awarded_submissions:
+    - "Elsa Wallet: Banking Filipinos"
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec98Nb2sLU0GFRvp
+  awarded_round:
+    - "SCF #11"
+  awarded_total: 95000
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
