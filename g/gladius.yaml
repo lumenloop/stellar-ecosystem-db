@@ -1,0 +1,47 @@
+title: Gladius
+other_names:
+  - '"Gladius: play'
+  - " learn"
+  - ' earn"'
+parent: null
+description: Gladius gamifies education, connecting parents, sports clubs, and
+  students with NFT prizes and rewards.
+links:
+  website: https://gladiusclub.com
+  blog: null
+  x: https://x.com/dcromp88
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/orgs/GladiusClub/repositories
+linktree: null
+attributes:
+  category: NFT
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - Europe&CentralAsia
+  country: " Estonia"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/-SGXiFv-1wQ42EuTsqlsPg/iX7yhWAWWg-YS-QkhsKsB1OMO-dTPy2FH6bYQdhp_9oKqkhjbo85K5al3qV3iMMmiLz7EDEXRJZqSKyZhUdXzEIJFxbG-ntlo-SROPL1W01A6KT7j2YmPsFMgq0vCMW6z-RRWw4-_mnhcKeD3Zuozg/V7xvQDHSRB_8An3M25jVimcXfpcXVwTrFxgtFOwFyBk
+  banner: null
+scf:
+  awarded_submissions:
+    - "Gladius: play"
+    - learn
+    - earn
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recfsyLeAtOamI3vm
+  awarded_round:
+    - "SCF #23"
+  awarded_total: 45000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
