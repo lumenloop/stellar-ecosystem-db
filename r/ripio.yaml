@@ -1,0 +1,39 @@
+title: Ripio
+other_names: null
+parent: null
+description: Ripio is a cryptocurrency platform in Latin America, offering
+  services such as buying, selling, and managing digital assets through its app
+  and web platform.
+links:
+  website: https://ripio.com
+  blog: https://https://launchpad.ripio.com/blog
+  x: https://x.com/RipioApp
+  linkedin: https://ar.linkedin.com/company/ripio
+  discord_server: null
+  telegram: https://t.me/+J7H4QmPlNIc2NDAx
+  youtube: https://youtube.com/Ripiotv
+  instagram: https://instagram.com/ripioapp/
+  reddit: null
+  tiktok: null
+  github: https://github.com/ripio
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
