@@ -1,0 +1,47 @@
+title: Plutope
+other_names:
+  - '"Plutope Merchant App"'
+parent: null
+description: Plutope offers a non-custodial crypto wallet and crypto debit card,
+  enabling users to manage and spend their digital assets securely. Their
+  services include multi-chain wallet support, instant crypto transactions, and
+  a debit card.
+links:
+  website: https://plutope.io
+  blog: https://https://www.plutope.io/blogs
+  x: https://x.com/Plutopeio
+  linkedin: https://linkedin.com/company/plutope/
+  discord_server: https://discord.com/invite/yXgfQ8Kpwn
+  telegram: https://t.me/plutopeglobal
+  youtube: null
+  instagram: https://instagram.com/plutope/
+  reddit: null
+  tiktok: null
+  github: https://github.com/PlutopeIn/Plutope-Merchant-Stellar
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services:
+    - EastAsia&Pacific
+    - Europe&CentralAsia
+    - MiddleEast&NorthAfrica
+  country: India
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/R6ytChcz3_CPYpkAkOn9gA/vfi1HhPtsnO4NrVUE-pEMqOh9KU6QF_VOgWyeNj95v97Wo6JqgnWM8cZyRatPKxet-W071R3g2xQmQoO7lEfEBQBFxLJLBFKqEjWKn-81BZa4aSorFU9oznzigW9oguR28w3dE-8CE2KYQAiHh6cSg/6yRDfuZt92Y_pQPi-T6dBfYAUHHUrgAXGQ7pEDGYSYI
+  banner: null
+scf:
+  awarded_submissions:
+    - Plutope Merchant App
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recBM684vOLrr3TnL
+  awarded_round:
+    - "SCF #27"
+  awarded_total: 33400
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
