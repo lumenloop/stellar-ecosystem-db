@@ -1,0 +1,42 @@
+title: Lemon
+other_names: null
+parent: null
+description: Lemon is an Argentine digital wallet that allows users to buy and
+  sell cryptocurrencies like Bitcoin and Stellar, manage Argentine pesos, and
+  access decentralized finance (DeFi) investments. It offers a free
+  international VISA Lemon Card with up to 2% cashback in Bitcoin for each
+  purchase, and provides features such as daily returns on pesos and payment of
+  services through the app.
+links:
+  website: https://lemon.me
+  blog: null
+  x: https://x.com/lemonapp_ar
+  linkedin: https://linkedin.com/company/lemonlat
+  discord_server: null
+  telegram: https://t.me/lemoncrypto
+  youtube: https://youtube.com/c/LemonCashApp
+  instagram: https://instagram.com/lemoncash.app/
+  reddit: null
+  tiktok: https://tiktok.com/@lemonapp.ar
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
