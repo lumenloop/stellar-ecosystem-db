@@ -1,0 +1,42 @@
+title: Python Stellar SDK
+other_names: null
+parent: null
+description: Py-stellar-sdk is a Python library for communicating with a Stellar
+  Horizon server. It is used for building Stellar apps on Python.
+links:
+  website: https://github.com/StellarCN/py-stellar-base
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/StellarCN/py-stellar-base
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - Nospecificregionofoperation
+  country: China
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/QN-uxD_VuL6qmJp_Qx2AgA/L2844-TUAxyU_EG-KRV-hPRfPryL9M4z7nXWvO_y11q6tzUsLyw7DsMZvBUSUR5V4Y5gsh5k7oPII1zc2BPEI7x6bqlhiD8J-Etl_7BHZGy9UvYwRzLELG67jtydkRmONhcYud7BgR15pC1Yc86i_Q/IKrtP5jOBUfsKNdwaoH4ou2ApkTzDMvb0GSRlgRh0DE
+  banner: null
+scf:
+  awarded_submissions:
+    - Stellar Python SDK
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/reciEJw932bi9fM5Y
+  awarded_round:
+    - "SCF #1"
+  awarded_total: 29860.59
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
