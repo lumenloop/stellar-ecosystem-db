@@ -1,0 +1,42 @@
+title: Genie AI
+other_names:
+  - '"Stellar Time Machine"'
+parent: null
+description: Elevate institutional treasury management with a time-machine
+  explorer that delivers multi-wallet analytics and risk assessments.
+links:
+  website: https://genieai.tech
+  blog: null
+  x: https://x.com/GenieAI
+  linkedin: https://linkedin.com/company/genie-ai
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/@genieai
+  instagram: https://instagram.com/genieai.co
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/_iuz6dSwiBoOyD3esY7YvA/lPB3d78y9UkA712V8s-Kxw84sERKGGSxZxY5oq8lnNIAVPYOtO22Hx_eVje12MdjN63K1paOf0wk1VWVgJu4Er7pL4ngw7E9I2_7TMJUa22xdjEOuUKtd-IKPXKxr7OnvK00Rp0tu_3jbMUL3-5Ub0xM2oZ25LuYbW7YQIFSy5M4I7w35D0kRBNwjoT5Wqak/0jlBNFOV8sep5VjAPVqORyjwmUvRIt1r2IuXUyLAJ7A
+  banner: null
+scf:
+  awarded_submissions:
+    - Stellar Time Machine
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec76fMEhXJsMmUWD
+  awarded_round:
+    - "SCF #27"
+  awarded_total: 47000
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
