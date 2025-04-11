@@ -1,0 +1,43 @@
+title: Stellar Global
+other_names: null
+parent: null
+description: Stellar Global is a worldwide discord community dedicated to
+  driving the growth of the Stellar ecosystem and fostering global connections
+  among its members.
+links:
+  website: https://stellarglobal.community
+  blog: null
+  x: https://x.com/StellarGlobal_
+  linkedin: null
+  discord_server: https://discord.gg/fKktv6GMxK
+  telegram: null
+  youtube: https://youtube.com/@StellarGlobalCommunity
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Education & Accelerator
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - Nospecificregionofoperation
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/ZXyaI9-qmlc1th6x1uMVpw/jL4Ervx1tIfxYwO8g2jUc_hxOz-tcdl6SR9bJNazE4MbS9eu8pfI9bOIOkIhbKQUiQSODFZ56nsgNv3fh42YFyIgMolPdS07aBlJkc_esl-LROptPCKHjnMgB2JctELI38WIZaSQHa3mP19jkwKZbg/10lD0VaOsmXDaPP8k4F9jBQ9cADHn5pDqUxbEq5bNAY
+  banner: null
+scf:
+  awarded_submissions:
+    - Stellar Global
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/reckCItu7Q79QoTBF
+  awarded_round:
+    - "SCF #9"
+  awarded_total: 100000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
