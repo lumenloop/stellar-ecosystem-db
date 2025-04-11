@@ -1,0 +1,42 @@
+title: NiceTrade
+other_names: null
+parent: null
+description: NiceTrade is a powerful trading terminal with multi-account, social
+  trading, competitions, and more.NiceTrade is a powerful trading terminal with
+  multi-account, social trading, competitions, and more.
+links:
+  website: https://nicetrade.co
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: ""
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions:
+    - NiceTrade
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recyhzzgGCQVXFo7r
+  awarded_round:
+    - "SCF #4"
+  awarded_total: 0
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
