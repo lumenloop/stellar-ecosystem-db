@@ -1,0 +1,44 @@
+title: xlm.sh
+other_names: null
+parent: null
+description: xlm.sh is a gateway that enables access to decentralized websites
+  hosted on Stellar and IPFS by appending ".sh" to their ".xlm" domain
+  names.xlm.sh is a gateway that enables access to decentralized websites hosted
+  on Stellar and IPFS by appending ".sh" to their ".xlm" domain names.
+links:
+  website: https://xlm.sh
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://xlm.sh
+linktree: null
+attributes:
+  category: Domain Service
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - Nospecificregionofoperation
+  country: China
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/JafH21FgVmpx2JtuldilUw/rWb2tBrZNJWN2EWIsmFXzgRbOyf2Q3llggeH4PgmCM1e__WKke2Y_2Dawy9EnW56ZwR76xuEeGs8biyj1eZauhq2JFgSzey2cEO2zAXrbHgtRVK4xkD3431QxKKNLHBOvNM6bjlp6ydDVV4tr0pWEA/e3diUF5ZSqbfE4-VY-9WHESxYdfB1nlSJ2N_kYf4kZw
+  banner: null
+scf:
+  awarded_submissions:
+    - "xlm.sh: Gateway for .xlm websites"
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recu6fJQwuDeFeXlv
+  awarded_round:
+    - "SCF #31"
+  awarded_total: 36000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
