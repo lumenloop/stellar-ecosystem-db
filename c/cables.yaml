@@ -1,0 +1,39 @@
+title: Cables
+other_names: null
+parent: null
+description: Cables Finance is a hybrid decentralized exchange on the Stellar
+  network, combining centralized liquidity with on-chain settlement to bring FX
+  markets to the blockchain.
+links:
+  website: https://cables.finance
+  blog: https://https://cables-finance.medium.com/
+  x: https://x.com/CablesFinance
+  linkedin: https://linkedin.com/company/cables-finance/
+  discord_server: https://discord.com/invite/3yUDHjku5Y
+  telegram: https://t.me/CablesFinance
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: DEX
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
