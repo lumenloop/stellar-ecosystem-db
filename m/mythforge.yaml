@@ -1,0 +1,44 @@
+title: Mythforge
+other_names: null
+parent: null
+description: An MMORPG that features exploration, crafting, community. Players
+  can link their items to NFTs.
+links:
+  website: https://youtube.com/watch?v=EIS1PxdTrNY
+  blog: null
+  x: https://x.com/mythforgegame
+  linkedin: null
+  discord_server: https://t.co/ndKSMEKvi9
+  telegram: null
+  youtube: https://youtube.com/@mythforgegame
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Gaming
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions:
+    - MythForge
+    - Mythforge
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rece5621BPO0nMFIe
+    - https://communityfund.stellar.org/dashboard/submissions/recVFqjqi3AZbPdfb
+  awarded_round:
+    - "SCF #10"
+    - "SCF #11"
+  awarded_total: 35000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
