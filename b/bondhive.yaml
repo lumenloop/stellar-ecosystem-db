@@ -1,0 +1,44 @@
+title: Bondhive
+other_names:
+  - '"BondHive:OnChain Fixed Deposit"'
+parent: null
+description: Bond Hive simplifies on-chain savings, offering fixed returns by
+  tokenizing funding fees, making complex futures easy for everyone.
+links:
+  website: https://bondhive.xyz
+  blog: null
+  x: https://x.com/bondhive
+  linkedin: null
+  discord_server: null
+  telegram: https://t.me/+AjBlPFAjjLYyNWNl
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Bond-Hive
+linktree: null
+attributes:
+  category: Lending & Borrowing
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: United Kingdom
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/1bDJhuQG171UpMP1kO4jjA/8IFYvPLiVsrMnYoK-4J9dymA-5yIzWRB4gFvs6C2rDtxkdWJ2fE7Il7KrVZek_unfsjnhmo92BYpMT0s2sc4JUpH8FVsKEOF9iYErusTqyyfhY1rhFaOIamXWZ2bJYIIoEt0UVrKL-wVHc9zSARj4dZA9sXBqnEj6hhMLdJKwgGLufluQCU2z2SuF2MfciSD/02PZIgcKbxi93JIa5Kq1yNDc5cFoyDusTrWkKa7Yd3Q
+  banner: null
+scf:
+  awarded_submissions:
+    - BondHive:OnChain Fixed Deposit
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec1ukEnQRTCfaoHw
+    - https://communityfund.stellar.org/dashboard/submissions/recFFYDdyYhSVQ9np
+  awarded_round:
+    - "SCF #27"
+    - "SCF #29"
+  awarded_total: 140000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
