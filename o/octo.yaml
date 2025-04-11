@@ -1,0 +1,42 @@
+title: OCTO
+other_names:
+  - '"OCTO ultimate SocioFi NFT hub"'
+parent: null
+description: OCTO is a super dApp that revolves around NFT and digital assets
+  with a strong emphasis on creators and their communities.
+links:
+  website: https://octoplace.io
+  blog: https://https://medium.com/@octo_press
+  x: https://x.com/octoplace
+  linkedin: null
+  discord_server: https://discord.gg/73Ru5XUP2X
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/OCTOplace
+linktree: null
+attributes:
+  category: NFT
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: Vietnam
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/RW-XmxlQS7Zfu6TWW7NHXw/mIY7ry-Btr4TiyY8wjQYsZNXetMUJ_nYNMG4aq9Z0qJ67IZr3nHjVFYu_5amJiSZkFHAToQoGag612hnOefb-QhoD9G_84gLqyl2MjU5H-FLVUz_JXBMR7irjdHGihqqhRejcHxdQO6f9hEgZ3u5Nn0xKQqx7m2ycRF2ptrUNb-ELyugVA_4d1GXF8sxjy8p/s4Hz_rRGAM06xjaY-hT4iKqaWarOV__Zvn8843l4eAc
+  banner: null
+scf:
+  awarded_submissions:
+    - OCTO ultimate SocioFi NFT hub
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec59dhu7lEcLfHwR
+  awarded_round:
+    - "SCF #28"
+  awarded_total: 40500
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
