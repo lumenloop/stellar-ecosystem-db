@@ -1,0 +1,42 @@
+title: Answerly
+other_names: null
+parent: null
+description: Offers content ownership & rewards for HQ answers.Offers content
+  ownership & rewards for HQ answers.
+links:
+  website: https://answerly.app
+  blog: https://https://imrazarizvi.medium.com/
+  x: https://x.com/answerlyapp
+  linkedin: null
+  discord_server: null
+  telegram: https://t.me/answerlyofficial
+  youtube: https://youtube.com/c/AnswerlyApp
+  instagram: https://instagram.com/answerlyapp/
+  reddit: https://reddit.com/user/AnswerlyOfficial/
+  tiktok: null
+  github: https://github.com/answerly-app
+linktree: https://linktr.ee/answerlyapp
+attributes:
+  category: Social
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions:
+    - Answerly - Answer questions
+    - get paid!
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recP1Xp2YnSfxoXHE
+  awarded_round:
+    - "SCF #9"
+  awarded_total: 0
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
