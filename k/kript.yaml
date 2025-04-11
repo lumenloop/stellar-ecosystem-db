@@ -1,0 +1,47 @@
+title: Kript
+other_names: null
+parent: null
+description: Kript is a financial technology platform that provides API
+  infrastructure for businesses to integrate cryptocurrency and fiat payment
+  solutions into their operations.
+links:
+  website: https://kriptup.io
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - Sub-SaharanAfrica
+    - LatinAmerica&Caribbean
+  country: " Nigeria"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/P3ZZfcIgVU2n3Zd06KLCrQ/lDDzAmcGPe-ZgSaqEP6qF9TzJzML6n48fDINX4Wm7P8xrKe9X5JBTrBmPP1dSI9tGcTCnvRnGfRQadHrFJaEslZCNmo7R59hfOXBnC__H5J9-jB0i9noh1irXhhIq0PjPrCt4pvcdNdow7239gec1A/yxvPpoqVRaQK-OJ0xfkYikzWuPWiUFE_Yeg5T0-K0hk
+  banner: null
+scf:
+  awarded_submissions:
+    - Kript -Crypto checkouts
+    - SEP-31 payments for emerging markets
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recBZAaKA8fjdstQa
+    - https://communityfund.stellar.org/dashboard/submissions/recaBi8lclJ5h3YgH
+  awarded_round:
+    - "SCF #27"
+    - "SCF #32"
+  awarded_total: 112000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
