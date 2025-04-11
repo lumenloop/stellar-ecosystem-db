@@ -1,0 +1,44 @@
+title: Cosmic.vote
+other_names: null
+parent: null
+description: CosmicVote is a platform aimed at enabling decentralized
+  decision-making for organizations, leveraging Stellar to facilitate secure,
+  transparent, and efficient voting processes.CosmicVote is a platform aimed at
+  enabling decentralized decision-making for organizations, leveraging Stellar
+  to facilitate secure, transparent, and efficient voting processes.
+links:
+  website: https://cosmic.vote
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/cosmic-plus/https-cosmic-vote
+linktree: null
+attributes:
+  category: DAO
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions:
+    - "Cosmic.vote ~ Working Toward Decentralized Organizations "
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recFHsO8eBVbiOIAg
+  awarded_round:
+    - "SCF #5"
+  awarded_total: 17947.28
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
