@@ -1,0 +1,43 @@
+title: Haciendo Stellar
+other_names: null
+parent: null
+description: We are a communication and content platform designed to empower the
+  Stellar community in the Latam and Spanish-speaking region.
+links:
+  website: https://haciendostellar.com
+  blog: null
+  x: https://x.com/haciendostellar
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/@haciendostellar
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Education & Accelerator
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/1-83UdxhzMdQbvy1xtoJuw/xHCJsVWCsbfLTbGlJZbWGKrrTKndjLAJx2ksyXD7pF_6EMLmPN-yQvLMjXV5K9jjl5wP_WU1L4RCrffHaliqzn8lUeBVG4rJQecO7jHR53tX4SLDU7YhAHdRLap3B-tY5xIfsG7kSncE09gMYc8uTQ/2kspcmgaberfGJHJGyZ8g4sHVwN-3A-qK8CTYIIoCRA
+  banner: null
+scf:
+  awarded_submissions:
+    - Haciendo Stellar
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec9lcpC8qKgb7Tyc
+    - https://communityfund.stellar.org/dashboard/submissions/recp9KDwOeRFfD6Fx
+  awarded_round:
+    - "SCF #13"
+    - "SCF #19"
+  awarded_total: 56460
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
