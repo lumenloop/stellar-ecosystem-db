@@ -1,0 +1,40 @@
+title: Afriex
+other_names: null
+parent: null
+description: Afriex is a money transfer app enabling fast, low-cost transactions
+  between the USA, UK, Canada, Europe, and African countries like Nigeria and
+  Ghana. It offers competitive exchange rates and seamless international
+  remittances.
+links:
+  website: https://afriexapp.com
+  blog: https://https://www.afriexapp.com/blog
+  x: https://x.com/afriexapp
+  linkedin: https://linkedin.com/company/afriex/
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/channel/UCCbKQqwl2t08Qk6jK0uIk1Q
+  instagram: https://instagram.com/afriexapp/
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
