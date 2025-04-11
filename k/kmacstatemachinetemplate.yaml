@@ -1,0 +1,43 @@
+title: KMAC State Machine Template
+other_names:
+  - '"KMAC State Machine Template (extension)"'
+parent: null
+description: Design and implementation of a Finite State Machine Template using
+  design patterns and extensible functions written in Soroban SDK.
+links:
+  website: https://github.com/huitemagico/kmac
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/huitemagico/kmac
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - Nospecificregionofoperation
+  country: Chile
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/9R2-woMf2sW7brvwtbjVmA/rjxo_Lt7tSx1uMbM9_-JaPVRcDPXaDC1l2XqoeAg1ttSCEULKY1SCJyt_PzZTaVoRpvKEKr5i2MODIde60NsqDqk9oH_--y47n8TvtrWqoQKqJjsb386YcB9z31qi8aH9coyLiQhuwbeFKMGTMnW1w/P97wLErXqolCCuJtDv7XFtbZ2KsNeeSbQGIYAO1EJt4
+  banner: null
+scf:
+  awarded_submissions:
+    - KMAC State Machine Template
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recY4eR4uXNvkXnAG
+  awarded_round:
+    - "SCF #20"
+  awarded_total: 7500
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
