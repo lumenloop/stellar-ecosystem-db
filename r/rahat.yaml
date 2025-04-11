@@ -1,0 +1,48 @@
+title: Rahat
+other_names: null
+parent: null
+description: A financial access platform on Stellar to help humanitarian
+  agencies empower vulnerable communities with efficient, transparent, and
+  low-cost aid delivery with automated weather triggers event before the onset
+  of a climate disaster.  A financial access platform on Stellar to help
+  humanitarian agencies empower vulnerable communities with efficient,
+  transparent, and low-cost aid delivery with automated weather triggers event
+  before the onset of a climate disaster.
+links:
+  website: https://rahat.io
+  blog: https://https://rahat.io/blogs?page=1&limit=100
+  x: https://x.com/rahataid
+  linkedin: https://linkedin.com/company/rumsan
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/rahataid
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - SouthAsia
+    - EastAsia&Pacific
+  country: Nepal
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/TToKNuIwRHmKZ6HWbpTCeQ/JFJadn8fg0x7NLqFflXy96It_0bajDRFGojrvIfHprGviXkKb33MMYsoqxiqOIn8S75lDMIGboUdG6G3HVyuv1861gpmIsvILlXC2c76Ng6PDN60Z4_IZgCVHMYAFx59I_3zPhcTSABcxarRKH13l7gKdfEhapNWUPBmLLbYvrU/6Aq3Y0WdYuBIKJ8R_tjWc7uwMy2L0RcqPBCKrEqHAVI
+  banner: null
+scf:
+  awarded_submissions:
+    - Stellar Integration for Rahat’s Open-Source Financial Access Platform
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec1ZJuYde6wkjlWJ
+  awarded_round:
+    - "SCF #30"
+  awarded_total: 149962
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
