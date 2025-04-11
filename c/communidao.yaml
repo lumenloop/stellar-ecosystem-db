@@ -1,0 +1,50 @@
+title: CommuniDAO
+other_names: null
+parent: null
+description: Initially conceived as a Discord bot, the project has evolved into
+  a comprehensive DAO tooling suite, complete with an Integrations SDK that
+  allows for custom app development. The platform leverages Soroban, to manage
+  memberships and facilitate governance, aiming to create a more democratic and
+  scalable community ecosystem.
+links:
+  website: https://communidao.cc
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: https://discord.gg/trppmYjVJJ
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/communidao
+linktree: null
+attributes:
+  category: DAO & Governance
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/Qpqd40bjq9wrEQQ6LlFbQg/PFOcdA68AVfeVyB66Xgex0R6qIjjTtj-9s--Iy9PfTlZSb1nfjI5gTh1nhrKCysFSf4oX8SuCHESXZzY-Yjb_JnErplSseZxqb1aYrSa9BEeo8kVtqVMTsQNWiZTylpBD6aIT2dwjLHQmY5FfjVSeQ/1OsbC2MrJ1_fE36xcf4qi0kbIEddyh-J44Zb614OAsI
+  banner: null
+scf:
+  awarded_submissions:
+    - Stellar Dao Discord Bot
+    - CommuniDAO - The Stellar Discord Dao Bot
+    - CommuniDAO - A NFT Member DAO
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recTGMVa9Utt1JQg5
+    - https://communityfund.stellar.org/dashboard/submissions/recxH0eXulsk9NUBp
+    - https://communityfund.stellar.org/dashboard/submissions/recJqAK96rS4QEe0v
+  awarded_round:
+    - "SCF #14"
+    - "SCF #16"
+    - "SCF #20"
+  awarded_total: 219200
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
