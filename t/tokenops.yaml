@@ -1,0 +1,50 @@
+title: TokenOps
+other_names: null
+parent: null
+description: TokenOps is a platform for managing token cap tables and
+  lifecycles, offering tools for vesting schedules, automated distributions, and
+  detailed analytics. It integrates with popular protocols and accounting tools
+  to simplify token management for companies, investors, and community
+  members.TokenOps is a platform for managing token cap tables and lifecycles,
+  offering tools for vesting schedules, automated distributions, and detailed
+  analytics. It integrates with popular protocols and accounting tools to
+  simplify token management for companies, investors, and community members.
+links:
+  website: https://TokenOps.xyz
+  blog: null
+  x: https://x.com/TokenOps_xyz
+  linkedin: https://linkedin.com/company/tokenops/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/VestingLabs
+linktree: null
+attributes:
+  category: Data & Onchain Tools
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - Europe&CentralAsia
+    - NorthAmerica(withoutMexico)
+    - Nospecificregionofoperation
+  country: " Portugal"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/QYO1DHt_Qa2grL_-RJ2pYw/wEGBi0xpWzW7-0zLWGeZathl-z0zVq95NfaQXN0hgRptqhu-I5GX3dSXcFTJliwI6W23h_ZrfRflp1ti3xgrdLDmpOKa7vQbZGsDFzziinhWF9CTZeuhqyDO_A6Pv726yBPNZDi8EjZubwwvCO1c3Q/WQIk-ekwXFIz9Kww7PzKV5CQsHuBiw6jMjsDwCCOdU0
+  banner: null
+scf:
+  awarded_submissions:
+    - Deploy TokenOps platform on Stellar
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recq4UtMlUBoNw4TP
+  awarded_round:
+    - "SCF #30"
+  awarded_total: 60000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
