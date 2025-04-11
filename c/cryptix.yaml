@@ -1,0 +1,43 @@
+title: Cryptix
+other_names:
+  - '"Stellar Token Launchpad"'
+parent: Cryptix
+description: Enable everyone to deploy tokens (generic, securities) to Stellar
+  in less than a minute with this extensible web app.
+links:
+  website: https://tokenlaunchpad.eu
+  blog: https://https://tokenlaunchpad.eu/blog/
+  x: null
+  linkedin: https://linkedin.com/company/cryptix-ag/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/CryptixAG/Tokenlaunchpad
+linktree: null
+attributes:
+  category: Launchpad
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - Nospecificregionofoperation
+  country: Switzerland
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/fAJJDMKdSzq8wmAmh7rLyg/Egja6l-0hGmGrX59rvfwgdTXs6pAtggUEbS_Dbuq6hRr1_XimCht53OaWJfjGi2fgjvobOXV-xHE1Y6sobn6ccY7ZhO62f0OAv9EVCN4NugW1H9Vzcq5_0Jp6pwYiI6bnDS1OI_Cdchy6LDhPHOskA/Eu773beXoDDdS2AAm1qVxOnbHBJR41E3uILsnzjd4HM
+  banner: null
+scf:
+  awarded_submissions:
+    - Stellar Token Launchpad
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recyhIl215OlC9aTI
+  awarded_round:
+    - "SCF #24"
+  awarded_total: 40000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
