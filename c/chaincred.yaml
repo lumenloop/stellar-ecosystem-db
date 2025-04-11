@@ -1,0 +1,41 @@
+title: ChainCred
+other_names: null
+parent: null
+description: Infra for Founders and Investors to exchange, fetch credible
+  company finances on Soroban ensuring data transparency, verification.
+links:
+  website: https://prince29chouhan.github.io/ChainCred_landing
+  blog: null
+  x: https://x.com/chaincred
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/kommitters/chaincerts-smart-contracts
+linktree: null
+attributes:
+  category: Verification
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/FL5qLMDNP9ZO3nIpjF6TGA/N7tF9FbELhfQ0kv3gYlJq1VUYQcwymVYqUe1JA95eFfxufRYtEXv3UzeGYo0yu6-bgJN-ic1F88PjDjNlrCYIimjQM8I0FbhX3tTtSC2MyrcEvR6FFh7sPGUmEudZRU6fmnpLnt4VbV_kt6iUH7_0g/eYZBDtZiCNKGtnsUhs94n11sZ-STahN_wr8eCS-VbwA
+  banner: null
+scf:
+  awarded_submissions:
+    - ChainCred
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recP4mLvsBD60bfIv
+  awarded_round:
+    - "SCF #27"
+  awarded_total: 32000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
