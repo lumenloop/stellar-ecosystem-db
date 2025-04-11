@@ -1,0 +1,44 @@
+- title: 0xAuth
+  other_names: []
+  parent: null
+  description: 0xAuth enables seamless compliance andinteroperability for tokenised funds.
+  links:
+    website: https://0xauth.co
+    blog: null
+    x: null
+    linkedin: null
+    discord_server: null
+    telegram: null
+    youtube: null
+    instagram: null
+    reddit: null
+    tiktok: null
+    github: https://github.com/authentication-labs/0xauth-stellar
+  linktree: null
+  attributes:
+    category: Dev Tools
+    tags: []
+    smart_contracts: null
+    regions_services: null
+    country: " United Arab Emirates"
+  images:
+    icon: null
+    thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/8EykNI2fpEY6RgLtMfL2wQ/89xObHoDEoTkUpWc2dmgs32sCI7gjdPEteSB_nCucAHRdSXYBVfAdDdIUXjXM-FwBvSfogLn7WnSYGbKT_K6x6PMlrcbEEbKE2klspdpJrCA6TKIubmDs0GCqd754wLtfKIwEgQr0xPVNoRHCdPU2Q/B9EgYZoY8sMJNPeTCKXZGDpITgewU4JRU1hTspNfQhI
+    banner: null
+  scf:
+    awarded_submissions:
+      - 0xAuth
+    awarded_submissions_url:
+      - https://communityfund.stellar.org/dashboard/submissions/rec2UJLCx1DBLgdm4
+      - "
+        https://communityfund.stellar.org/dashboard/submissions/recsAQHCghw9HIU\
+        vF"
+    awarded_round:
+      - "SCF #27"
+      - "SCF #29"
+    awarded_total: 135000
+  mainnet:
+    live: null
+    tokens: []
+    contracts: []
+    audits: []
