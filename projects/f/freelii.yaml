@@ -27,8 +27,8 @@ attributes:
   tags: []
   smart_contracts: null
   regions_services:
-    - NorthAmerica(withoutMexico)
-    - Nospecificregionofoperation
+    - North America (without Mexico)
+    - No specific region of operation
   country: Philippines
 images:
   icon: null
