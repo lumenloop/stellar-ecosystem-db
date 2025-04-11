@@ -1,0 +1,46 @@
+title: EasyA
+other_names: null
+parent: null
+description: EasyA is an educational platform that offers interactive challenges
+  and resources to help users learn about blockchain and Web3 technologies,
+  including the Stellar network and Soroban smart contracts. EasyA has organized
+  hackathons in partnership with the Stellar Development Foundation.
+links:
+  website: https://easya.io
+  blog: https://https://www.easya.io/blog
+  x: https://x.com/EasyA_App
+  linkedin: https://linkedin.com/company/easya/
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/@EasyA_app
+  instagram: https://instagram.com/easya_app/
+  reddit: null
+  tiktok: https://tiktok.com/@easya_app
+  github: null
+linktree: null
+attributes:
+  category: Education & Accelerator
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: United Kingdom
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/qbvP4zHXFh1XzZtitcy12Q/Ndk9RVwrxIFFxJqkaY1aALAwic60ke667n7f6NotfIMOnrsfrkM7OSn-SvSkRG-ZH2DzMrBFsMA9np2x82pFjJjBNvl3F5dS9vsojvKg1U_bFCivokEFt84kQBKaLSdzRAsnfxfNdt5LN9DMCebPig/Hu3SCLyCFahJ8iXAauad9Mg0vtB0ba5LrLU5_18TFzw
+  banner: null
+scf:
+  awarded_submissions:
+    - "#SummerOfSoroban"
+    - "EasyA - #60DaysOfSoroban"
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recOiKOyCVxtjSbaG
+    - https://communityfund.stellar.org/dashboard/submissions/recTQdI9l50TRAYin
+  awarded_round:
+    - "SCF #17"
+    - "SCF #23"
+  awarded_total: 231800
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
