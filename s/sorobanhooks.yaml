@@ -1,0 +1,43 @@
+title: SorobanHooks
+other_names: null
+parent: null
+description: A real-time webhook-driven platform for developers to automate
+  contract deployment, event monitoring, and cross-chain transactions on Stellar
+  and Soroban.
+links:
+  website: https://sorobanhooks.xyz
+  blog: null
+  x: https://x.com/sorobanhooks
+  linkedin: null
+  discord_server: https://discord.com/invite/AbMxBhxQ
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/sorobanhooks
+linktree: null
+attributes:
+  category: Data & Onchain Tools
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - EastAsia&Pacific
+  country: India
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/YMWsnqwA7x_EaekpBHnvFA/uYIZZCtVUvv2Qse7_1P29pYJKyblCDJaX7vX5AqVUw9Z5hn43FGJq93NaAryjnROAs12oKiaj-5OpIrUAijAZ6m0xq5-zN4dfWisrKbrh3x3i4ywbUnyPpt98JXoAxLT5tmL6xBu9wuXaiBDsWkdUA/ZbBmZamTO2uSsPJwsaIq7xg5zO73_eRcc7phGX6WUJI
+  banner: null
+scf:
+  awarded_submissions:
+    - No-Code Stellar Event Automation & Flows
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recwkBsoW10eSCw85
+  awarded_round:
+    - "SCF #33"
+  awarded_total: 25000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
