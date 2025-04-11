@@ -1,0 +1,51 @@
+title: Reflector
+other_names: null
+parent: Stellar Expert
+description: Decentralized price feed oracle for Stellar DeFi smart contracts to
+  support derivatives, lending, and asset management.
+links:
+  website: https://reflector.world
+  blog: https://https://medium.com/@reflector-network
+  x: https://x.com/in_reflector
+  linkedin: null
+  discord_server: https://discord.gg/uy5UXg3t6F
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/orgs/reflector-network
+linktree: null
+attributes:
+  category: Oracle
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - Nospecificregionofoperation
+  country: " Portugal"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/4MNA0NOoxM20LtTe4JdrEg/KSrgYMmEXUonujU_k_WS2KE1itWT7dhEJSMYB5lf4Kjl_XG7LWoeBlrBRNAm_PLMp89JlWOzGbDg4WSmPnWKxharOpc0Od09i9wrLDTsoHt2Y15Yuxz_4zZnfmVFQtJw3iHF4jgTYGhqDB-7ORQOqw/xyBj4bA6-76y7iHLW5qHYMFtFgpPR03zFutN5O2xzJs
+  banner: null
+scf:
+  awarded_submissions:
+    - Reflector
+    - Reflector | Expansion
+    - Reflector | CEX price feeds
+    - Reflector DAO
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recWtqpdZ2UzVkfhe
+    - https://communityfund.stellar.org/dashboard/submissions/recfrasfvgSGAXEZD
+    - https://communityfund.stellar.org/dashboard/submissions/rec6KwJXq7HNQpjAb
+    - https://communityfund.stellar.org/dashboard/submissions/receZeLlUlVSruadg
+  awarded_round:
+    - "SCF #15"
+    - "SCF #20"
+    - "SCF #26"
+    - "SCF #29"
+  awarded_total: 444840
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
