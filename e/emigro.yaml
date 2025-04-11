@@ -1,0 +1,48 @@
+title: Emigro
+other_names: null
+parent: null
+description: Emigro is the traveler's digital wallet. A fiat stablecoin-based,
+  card-less digital payments wallet for digital nomads, long-term travelers and
+  expats in LatAm.
+links:
+  website: https://emigro.co
+  blog: null
+  x: https://x.com/emigrobr
+  linkedin: https://br.linkedin.com/company/emigro-inc
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/emigrobr/
+  reddit: null
+  tiktok: null
+  github: https://github.com/emigro
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: " Brazil"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/bItGxjH5WTRsKw_Ej2ml4A/vA3cOTvCkKxVEK2XM5KTw5G5dHlhqpOXZOCyxdufOuvOasAg3qRrfS0imqNGWe8toc8dVs11p4Ig6cyqGQqkmnDjq4Bzh9DcDvYSLaavr--M_-L-z4A-FsyjbMROwwFj6qqEzMD1Fz_GWakXd8v42RKylccr6ztDVHh77PujqMI/m8DR-12obMtq80nTdKzO3imeeRdWFhEZt02uQrqlI3M
+  banner: null
+scf:
+  awarded_submissions:
+    - Emigro
+    - Emigro Launch
+    - Emigro Pix
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recMpM56WpU1AMLd1
+    - https://communityfund.stellar.org/dashboard/submissions/rec3V2931dtXFcoML
+    - https://communityfund.stellar.org/dashboard/submissions/recrEOmS40AmR6y25
+  awarded_round:
+    - "SCF #17"
+    - "SCF #20"
+    - "SCF #25"
+  awarded_total: 176320
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
