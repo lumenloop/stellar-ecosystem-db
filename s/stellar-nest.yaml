@@ -1,0 +1,40 @@
+title: Stellar-Nest
+other_names: null
+parent: null
+description: Easy way to kickstart a project in Stellar with Nest.
+links:
+  website: https://github.com/Alkeops/It-s-not-another-package
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Alkeops/It-s-not-another-package
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: " Mexico"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/f31mq8gnFG1QBlqHu8qAhQ/0ItGW2x6_P9XFtF3wjoitEjQsTG19YFuoO2c3Ispb0DqwP50yldxW7fk6EZ8bH0GxV7aGVNJbIbn5hMZ8Fui0tx5ps_u2N_6FuXGur9-SJqX2GZivIS194wOLVz-GtiBRH8JGLMT4Sm85mc4nAVWhD-dNGZQ09b7u9csUEvXFyA3eOgtkqtjJIsgfdiB1ATj/U4aHq0k8mK2dLVhjo3_yxOR2Ql3wRDqYYVhbKECMLmg
+  banner: null
+scf:
+  awarded_submissions:
+    - stellar-nest
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recPokqT9ma4wpqQE
+  awarded_round:
+    - "SCF #25"
+  awarded_total: 14800
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
