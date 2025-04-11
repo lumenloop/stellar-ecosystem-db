@@ -1,0 +1,42 @@
+title: Tracee
+other_names: null
+parent: null
+description: A seamless cross-border payment channel from European SMBs and NGOs
+  to MENA individuals, ensuring quick, secure, and cheap single and bulk
+  transfers.
+links:
+  website: https://traceeapp.com
+  blog: null
+  x: null
+  linkedin: https://linkedin.com/company/traceeapp
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: " France"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/ITtQCI0-B1zbUkWMVHTIWg/9Ocrw9_3nBp2-hTtQBeXmbKt634KehtcqUKi3gAmlCq92B56P3GqF74pgLQpmhEiPQTCSFUizIZAjCstMQj9LZHgwpjigAt_FW5HbvVY8w17mYw2NMVZ9Uf-CBuw-No3U40XnKLFcpPLm2gOLqUMCQ/avgGYCJNufe7NZqPMSdqX4iXep9znEvckHca-Az23ok
+  banner: null
+scf:
+  awarded_submissions:
+    - Tracee
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recMi36KGHYwtBcZl
+  awarded_round:
+    - "SCF #16"
+  awarded_total: 128925
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
