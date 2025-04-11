@@ -1,0 +1,39 @@
+title: Soroban Domains
+other_names: null
+parent: Creit Tech
+description: Soroban Domains is a protocol on the Soroban network that allows
+  users to register human-readable usernames, simplifying interactions by
+  replacing long public keys with memorable names like "satoshi.xlm.".
+links:
+  website: https://sorobandomains.org
+  blog: https://https://sorobandomains.org/blog
+  x: https://x.com/SorobanDomains
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Creit-Tech/sorobandomains-sc
+linktree: null
+attributes:
+  category: Domain Service
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
