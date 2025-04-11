@@ -1,0 +1,47 @@
+title: Sora
+other_names:
+  - '"Soroban CLI Cross Platform GUI"'
+parent: null
+description: SORA is a Stellar development toolkit that simplifies building and
+  managing Stellar-based projects with features like smart contract development
+  and network configuration. It includes tools for streamlined project workflows
+  and a Visual Studio Code extension for enhanced productivity.
+links:
+  website: https://thesora.app
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/yk-labs-dev/soroban-cli-gui
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: Turkey
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/KA8qFc9T7ASEmFnY5aXbtg/n5BJqNblRwkm-LDNufx5vycamcyD5VH_aVoCN5OwV88bkSxRMgdTSEHlMTqtJ_SmiC5JX12eVPS2Ct72vJKZNPRbkByVLmSlShf_y1YUyKZU5EHobLLSwKLIpHbDCJPoHRpB1w5MbilBT9ThOzZRN8-wDoEgsMqCInwsJOZgW94/jvnre96ZlBW6KxHG3NcZXViaWTEWPV6odww9eXd6i8k
+  banner: null
+scf:
+  awarded_submissions:
+    - Soroban CLI Cross Platform GUI
+    - Sora
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recyYpWQohtWKIKZ8
+    - https://communityfund.stellar.org/dashboard/submissions/recqSpSssYoXYgmqp
+  awarded_round:
+    - "SCF #21"
+    - "SCF #25"
+  awarded_total: 97500
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
