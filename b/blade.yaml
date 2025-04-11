@@ -1,0 +1,42 @@
+title: Blade
+other_names:
+  - '"Blade: TradFi to DeFi Bridge"'
+parent: null
+description: Blade Labs utilizes Stellar & Soroban to offer a suite for
+  enterprises to tokenize RWA's, facilitating a transition to DeFi.
+links:
+  website: https://bladelabs.io
+  blog: https://https://bladelabs.io/blog/
+  x: https://x.com/BladeLabs_
+  linkedin: https://linkedin.com/company/blade-group
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Blade-Labs
+linktree: null
+attributes:
+  category: RWA
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: Argentina
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/q6tTyQVuJqsBc_RFKVVxNg/JNzAquUvVjCsPhPGCLWN4DnvrFdX4pLBnBH8LH9qXxTLzoKdPDKBIxdFfLcVTVVWPAogpu_zzsfVR4tMJAIN7AwBr4KEn8XCSeVrMimf_qf5ZhZ5hYYB9ALyLQmOLFAZwq6sz-CzMuN-IeyTWCk0J3mFswN9we7zQIBj8Si1rTI0XxW-mxKh_W9mmjqNvQGI/AFuVjrkhkuLljIPHRJ03fMSE0QnN4NXuzR8WAYy0i84
+  banner: null
+scf:
+  awarded_submissions:
+    - "Blade: TradFi to DeFi Bridge"
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recggPol2z3X8Ndoi
+  awarded_round:
+    - "SCF #25"
+  awarded_total: 50000
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
