@@ -1,0 +1,47 @@
+title: SocketFi
+other_names: null
+parent: null
+description: SocketFi is a smart wallet and one-stop dApp built on the Stellar
+  Lumen ecosystem and Soroban Blockchain. Designed to seamlessly connect
+  millions of social media users to Web3, it provides access to hundreds of
+  dApps and Web3 tools—all in one place.
+links:
+  website: https://socket.fi
+  blog: null
+  x: https://x.com/Socket_Fi
+  linkedin: null
+  discord_server: null
+  telegram: https://t.me/SocketFi
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Socket-Fi
+linktree: null
+attributes:
+  category: Social
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - NorthAmerica(withoutMexico)
+    - MiddleEast&NorthAfrica
+    - Sub-SaharanAfrica
+    - Europe&CentralAsia
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/NTC2RiKmPhWdx7a2URNXJQ/PYioymP8vd4llixcbU0kl3HujQbUOf-0qGXYLKcOkbl19TrRtaZM884f7yOW3i118VHkdOUb34-bgH_VhZXc701KY-znjEtkklV_zVcLNvVOiXU9SI4s6bFC4jPmYnKUY4GyZlYOjkE2LNw5XNIgWQ/W4UskEf2rsbOdKFJBxavcxRZubVr3OyhgiFCtLHMfQg
+  banner: null
+scf:
+  awarded_submissions:
+    - "SocketFi: Soroban Smart Wallet App"
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recs9qGnchF6Ealxu
+  awarded_round:
+    - "SCF #32"
+  awarded_total: 88200
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
