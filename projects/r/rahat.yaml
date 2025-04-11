@@ -26,8 +26,8 @@ attributes:
   tags: []
   smart_contracts: null
   regions_services:
-    - SouthAsia
-    - EastAsia&Pacific
+    - South Asia
+    - East Asia & Pacific
   country: Nepal
 images:
   icon: null
