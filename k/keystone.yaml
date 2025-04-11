@@ -1,0 +1,37 @@
+title: Keystone
+other_names: null
+parent: null
+description: Keystone is a hardware wallet that supports a wide range of cryptocurrencies.
+links:
+  website: https://keyst.one
+  blog: https://https://blog.keyst.one/
+  x: https://x.com/KeystoneWallet
+  linkedin: https://linkedin.com/company/keystonewallet/
+  discord_server: https://keyst.one/discord
+  telegram: https://t.me/KeystoneWallet
+  youtube: https://youtube.com/channel/UCaReIdawwYPPcyWGoNunF7g
+  instagram: null
+  reddit: https://reddit.com/r/KeystoneWallet/
+  tiktok: null
+  github: https://github.com/KeystoneHQ
+linktree: null
+attributes:
+  category: Wallet
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
