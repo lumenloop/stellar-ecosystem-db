@@ -1,0 +1,41 @@
+title: SoroBuild
+other_names: null
+parent: null
+description: Revolutionizing Dapp creation on Soroban with a user-friendly
+  Bubbl.io no-code plugin.
+links:
+  website: https://adapptable.dev
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: " France"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/WgFYy3xkOMMDX80U-7ULjQ/zVug2zgpJ11JkURo9VzbzCVdtZDdlLiqmV6GwWOT115dO6OTmiXadczAy4AqRS5CQySyBZ-Z3ZPFD9uzP12bG1rU-1GKA7E8zFYvQdJeaNATTVY50Mv4CZxjOZQV0eJ6bhUKFwariMRjb8lst_tK2V_BOK5iuvw-y6Ae-TAngDQ/pMAnzKXYk5Nu3L3esMJ8RqQ2TBo__mgfL58uki1l-1E
+  banner: null
+scf:
+  awarded_submissions:
+    - SoroBuild
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rechkIWIYMI6GZOoP
+  awarded_round:
+    - "SCF #22"
+  awarded_total: 44800
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
