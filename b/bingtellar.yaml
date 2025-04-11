@@ -1,0 +1,41 @@
+title: Bingtellar
+other_names: null
+parent: null
+description: Bingtellar offers cross-border payments for individuals and
+  business in Africa using Stellar-native stablecoins for low fees.
+links:
+  website: https://bingtellar.com
+  blog: https://https://bingtellar.medium.com/
+  x: https://x.com/trybingtellar
+  linkedin: https://linkedin.com/company/bingtellar/
+  discord_server: null
+  telegram: https://t.me/BingtellarCommunity/
+  youtube: null
+  instagram: https://instagram.com/bingtellarhq
+  reddit: null
+  tiktok: null
+  github: https://github.com/jcdirect
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: " Nigeria"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/OOZ7v1j0aa8eJu2xymCMMg/_Kvw7eCjBggNalnvo6M0AecYuYHgOcni4_UA2PyzVTbn8TAJ9x8mUaCfEHXmBabwBH4T7oAoKbp4ocv15OPhlJztNWxWfC3q_kHmer8kV5xN3Z1sAo5L5OuvBFgjzFbAifA-zSti7QIXgizkKPhjRHbH7TmVa5_oZPr76yzmkJHNEm8yLaQE0X9zDK_wwzNz/esf096lb3_EMsSrFMNECj7YnxiC3AUfNCGkWkWbsxKQ
+  banner: null
+scf:
+  awarded_submissions:
+    - Bingtellar
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recG1A804BXcOc2ej
+  awarded_round:
+    - "SCF #26"
+  awarded_total: 30000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
