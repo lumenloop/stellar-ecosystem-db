@@ -25,9 +25,9 @@ attributes:
   tags: []
   smart_contracts: null
   regions_services:
-    - Europe&CentralAsia
-    - Sub-SaharanAfrica
-    - NorthAmerica(withoutMexico)
+    - Europe & Central Asia
+    - Sub-Saharan Africa
+    - North America (without Mexico)
   country: Nigeria
 images:
   icon: null
