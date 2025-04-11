@@ -1,0 +1,39 @@
+title: Wagelink
+other_names:
+  - Wagelink - Soroban Integration
+parent: Zebec
+description: Introducing WageLink, the app that allows employees in the US to
+  receive their wages up to 5 days early in fiat or crypto.
+links:
+  website: https://wagelink.io
+  blog: https://https://medium.com/zebec-protocol
+  x: https://x.com/Zebec_HQ
+  linkedin: null
+  discord_server: https://discord.gg/fJM9cHuvvB
+  telegram: https://t.me/zebecprotocol
+  youtube: https://youtube.com/@Zebec_HQ
+  instagram: https://instagram.com/zebec_hq/
+  reddit: null
+  tiktok: null
+  github: https://github.com/Zebec-protocol
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
