@@ -1,0 +1,44 @@
+title: AuraPay
+other_names: null
+parent: null
+description: A licensed Fintech company in Europe allowing Latin Americans to
+  send money back home.
+links:
+  website: https://somosaurapay.com
+  blog: null
+  x: https://x.com/somosaurapay
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/somosaurapay/
+  reddit: null
+  tiktok: https://tiktok.com/@aurapay
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: Spain
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/_AQFK03pv6NVmz5b-DDVkQ/cUJAsKxX2v6oWj6UhI6baohMrpd-SMnu5JLWn_qsdq8u8zBtXahdOEnYHkn0xHC_IPefJbueeKdejGNVnRXnT95CnuLRdTZewOcuFehjFF2OhiGBd96NB93qs5hFV6-mnLmnvp2uLzzWutLmauEFcw/e_KJ-T-eiSAbxcjYlpYkL6lSMWlUZS1o2LchxfTOhAo
+  banner: null
+scf:
+  awarded_submissions:
+    - Aura | A Stellar EURC on-ramp
+    - Aura | A Stellar EURC on-ramp II
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recjKlTlDgoV5dgAr
+    - https://communityfund.stellar.org/dashboard/submissions/recziPrVKcJ52HPDT
+  awarded_round:
+    - "SCF #20"
+    - "SCF #23"
+  awarded_total: 120300
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
