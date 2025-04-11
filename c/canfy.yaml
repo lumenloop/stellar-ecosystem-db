@@ -1,0 +1,41 @@
+title: Canfy
+other_names: null
+parent: null
+description: A developer copilot trained on extensive knowledge of Stellar and
+  Soroban to navigate the complexities and assist on apps creation.
+links:
+  website: https://canfy.net
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/oNQ59b9Vna4Ciy95YAyFlQ/sNr0p6MgoYBr-lNDKIl6CSKGJEHBrTNQV1W_TuakWXNqWyyaln3oly0G9MHKBMKQr-pAI1OpgnmLzBq2IWSkaavSSIxvXLwmKMe474qPkEx24ZbtvfVbdxxsKkNp-ovpUwB0qcdAFp9ZMGtIkbeO5w/OIdkXkwkb3Mx7tyvqcVyPoSM0CYabS2SxPID8JSsnSs
+  banner: null
+scf:
+  awarded_submissions:
+    - Canfy
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recfjZWvOsCHoeqOV
+  awarded_round:
+    - "SCF #19"
+  awarded_total: 50100
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
