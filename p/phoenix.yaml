@@ -1,0 +1,50 @@
+title: Phoenix
+other_names: null
+parent: null
+description: Phoenix's AMM enables decentralized swaps of crypto assets and is
+  the first of a full suite of synergistic DeFi protocols.
+links:
+  website: https://phoenix-hub.io
+  blog: null
+  x: https://x.com/PhoenixDefiHub
+  linkedin: null
+  discord_server: https://discord.gg/yWqJwJ4yza
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Phoenix-Protocol-Group
+linktree: null
+attributes:
+  category: AMM
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: " Germany"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/t11MtQ6OdhuIBEFsq6rYxg/MQWn0jtkBII4tk3w4YYPIRff7JiFqJWLdZTv06Jkl4F7EHUqy5lL69RAsX5wtIvvSG86_2CuAun6CBs0ne2qlAZpg3-zZfN3iHbpJzSCAjkSHjto0HDlDehicHH90SN6FcEiB3e7WVZHEUm0ZTdDRA/26qN-XR8QsLozXN1ikmSgt0mINYe0vTHRj9TPr0dogo
+  banner: null
+scf:
+  awarded_submissions:
+    - Phoenix ($PHO)
+    - Phoenix Hub v2
+    - Phoenix Hub v3 NFT Marketplace
+    - Phoenix
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recLOzDpEMgJWDbTe
+    - https://communityfund.stellar.org/dashboard/submissions/recyJLOWkdnsGtimI
+    - https://communityfund.stellar.org/dashboard/submissions/recI6IVWB26SsKBbx
+    - https://communityfund.stellar.org/dashboard/submissions/recW43Bu8M9c0Mb0p
+  awarded_round:
+    - "SCF #16"
+    - "SCF #20"
+    - "SCF #25"
+    - Liquidity Award - '24 Q1
+  awarded_total: 394500
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
