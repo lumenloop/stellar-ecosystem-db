@@ -1,0 +1,41 @@
+title: OtterSec
+other_names: null
+parent: null
+description: OtterSec is a blockchain security firm specializing in
+  comprehensive audits to protect blockchain projects across multiple networks.
+links:
+  website: https://osec.io
+  blog: https://https://osec.io/blog
+  x: https://x.com/osec_io
+  linkedin: https://linkedin.com/company/91739484
+  discord_server: https://discord.gg/QNE5b7Pgrs
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/otter-sec
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/-b-j8xbMoDr45y6pI4xNOw/81A0GtrMKMuGzN8hvckubpXebus3zz4koRGfcmJQ5D_NgApi6hCjT71tW0KJr747h5bsEMnXHza_QW5o_o1bPLWpsNc3r6vzs8wgvpFZNpE3sWB-0ge2ukqIxKQFy71AdhLLJe4nO3bmhnzHaDS5jA/zDKFDam-48JGGAo20p28ykS4Cjr4qzJfBXS-l8gjU-s
+  banner: null
+scf:
+  awarded_submissions:
+    - OtterSec
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recUtPJPaKlIhvc6E
+  awarded_round:
+    - "SCF #18"
+  awarded_total: 137500
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
