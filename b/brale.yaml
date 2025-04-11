@@ -1,0 +1,39 @@
+title: Brale
+other_names: null
+parent: null
+description: Brale provides tools for issuing and managing stablecoins and
+  tokenized assets on the Stellar blockchain, simplifying the creation of
+  digital financial products for banks and institutions.
+links:
+  website: https://brale.xyz
+  blog: https://https://brale.xyz/blog
+  x: https://x.com/brale_xyz
+  linkedin: https://linkedin.com/company/brale/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Brale-xyz
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
