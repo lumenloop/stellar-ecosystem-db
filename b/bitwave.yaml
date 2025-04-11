@@ -1,0 +1,44 @@
+title: Bitwave
+other_names: null
+parent: null
+description: Bitwave is a digital asset finance platform designed to manage the
+  intersection of digital asset accounting, tax, and compliance.
+links:
+  website: https://bitwave.io
+  blog: https://https://www.bitwave.io/blog
+  x: https://x.com/bitwaveplatform
+  linkedin: https://linkedin.com/company/bitwaveplatform/
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/channel/UC3eA1Ql5Ay8aio4BDCG4pSA
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Data & Onchain Tools
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/z1utKp4DYLIpYbbsYWFbeA/SpIYRLf5dlfKOy-_smY3iZRJteF29iE9jUcnC4HhN2sodafmEMig75lQNH-gofrkBqqBuxGN1sshG0dqAfyJOebTUL6vmFkxLxlvweT5dITVq0ovd_zVgpuG5BBvGdK9h1W_yD3QosdQUukmq9Z8tSDHwBExoXItcrklbh3fEJ0/HM-3-_ZvYX7oQCi3xcAvWHY7iw5qZE_jFU5d4jfzr3E
+  banner: null
+scf:
+  awarded_submissions:
+    - Bitwave Stellar Integration
+    - Bitwave Enterprise Payments
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recuqcat2t0W9ya9o
+    - https://communityfund.stellar.org/dashboard/submissions/recTq3wV5OuPXU0mp
+  awarded_round:
+    - "SCF #24"
+    - "SCF #29"
+  awarded_total: 150000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
