@@ -1,0 +1,42 @@
+title: DFS Labs
+other_names:
+  - '"Stellar Surge"'
+parent: null
+description: Stellar Surge seeks to build a community of engaged African
+  engineers and startups innovating on Stellar and Soroban.
+links:
+  website: https://dfslab.net
+  blog: https://https://www.dfslab.net/blog
+  x: https://x.com/TheDFSLab
+  linkedin: https://linkedin.com/company/dfslab/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Education & Accelerator
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: " Nigeria"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/S8mNJ6m9gMUNDYlxqxjsPg/nlWqTqrhLRH2zGok6-znsMre8YDx2Hg93C3k7Hf2fD9FqvixL-tJCNeFVGXYxGhTrJaeoawCP6UPW16NceepUyXBHKcHmkGV1KdWmiZYP-oPgujHu2GzMJImcrlyFE-kFpvp9lTysA_Gir5KhDHPdqKboz1JNWOVj8erl5XoVGI/In5CW16JWMsl7t6Jy3PlsbgYsrgBvPXx1RaJUtHjIgQ
+  banner: null
+scf:
+  awarded_submissions:
+    - Stellar Surge
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recc3FaUY1QXUGaEx
+  awarded_round:
+    - "SCF #24"
+  awarded_total: 50000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
