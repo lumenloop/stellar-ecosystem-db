@@ -1,0 +1,39 @@
+title: Mozart Pay
+other_names: null
+parent: null
+description: MozartPay is a digital payment platform that offers online
+  businesses, e-commerce stores, and marketplaces a suite of tools for seamless
+  transactions.
+links:
+  website: https://mozartpay.com
+  blog: https://https://mozartpay.com/blog
+  x: https://x.com/Mozartpay
+  linkedin: https://linkedin.com/company/mozartpay
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/mozartpay
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
