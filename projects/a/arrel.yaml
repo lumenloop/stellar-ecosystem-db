@@ -25,9 +25,9 @@ attributes:
   tags: []
   smart_contracts: false
   regions_services:
-    - Sub-SaharanAfrica
-    - Europe&CentralAsia
-    - NorthAmerica(withoutMexico)
+    - Sub-Saharan Africa
+    - Europe & Central Asia
+    - North America (without Mexico)
   country: South Africa
 images:
   icon: null
