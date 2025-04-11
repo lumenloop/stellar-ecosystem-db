@@ -1,0 +1,47 @@
+title: Trustless Work
+other_names: null
+parent: null
+description: Trustless Work is a blockchain-powered Escrow-as-a-Service platform
+  leveraging Stellar's Soroban smart contracts to provide secure, transparent,
+  and efficient escrow solutions with minimal fees.Trustless Work is a
+  blockchain-powered Escrow-as-a-Service platform leveraging Stellar's Soroban
+  smart contracts to provide secure, transparent, and efficient escrow solutions
+  with minimal fees.
+links:
+  website: https://trustlesswork.com
+  blog: null
+  x: https://x.com/TrustlessWork
+  linkedin: https://linkedin.com/company/trustlesswork
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Tico4Chain-Coders
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - NorthAmerica(withoutMexico)
+    - LatinAmerica&Caribbean
+  country: Costa Rica
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/O8hx6qsvmGlArzNcU6YN8Q/dHxQdiB6PVRaFAVFS0gU0Pob1j-3vVqJHmTyHqIhOB4TJrQFEJxtmZwzKQyF3_p0amCyQlaGQzbHxVNXLauUh3CLuM9aFp7G39MHtX0eZ9riyqW4Uzr6V-JmyfymRgy3GS39sACLkebmFwXSOlg7zg/7DJZs8Mili3mbebsGZBF9QnmZLdOFFQ-zX4LmtQamNE
+  banner: null
+scf:
+  awarded_submissions:
+    - Escrow-as-a-service platform on Soroban
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recNs5mLS2K2GFKVu
+  awarded_round:
+    - "SCF #31"
+  awarded_total: 70000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
