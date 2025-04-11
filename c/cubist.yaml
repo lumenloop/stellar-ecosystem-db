@@ -1,0 +1,40 @@
+title: Cubist
+other_names: null
+parent: null
+description: Cubist is a developer toolkit for building cross-chain and
+  multi-chain Web3 applications, automating bridge code generation for seamless
+  blockchain interactions. It supports popular blockchains like Ethereum and
+  offers secure transaction signing with CubeSigner.
+links:
+  website: https://cubist.dev
+  blog: https://https://cubist.dev/blog
+  x: https://x.com/cubistdev
+  linkedin: https://linkedin.com/company/cubist-inc/
+  discord_server: https://discord.gg/FpjBKkzhKb
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/cubist-labs
+linktree: null
+attributes:
+  category: Bridge
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
