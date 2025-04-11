@@ -1,0 +1,45 @@
+title: Roberto Sanz
+other_names:
+  - '"Social & Podcast"'
+parent: null
+description: Educational content for a Spanish-speaking YouTube channel, Spotify
+  Podcast, newsletter and other socials.
+links:
+  website: https://youtube.com/@RobertoSanzCriptomonedas
+  blog: null
+  x: https://x.com/CriptoRoberto
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/@RobertoSanzCriptomonedas
+  instagram: https://instagram.com/criptomonedas_es/
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Content & News
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: Spain
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/yFhhhAUixvF5fXgQ9dDdMw/XPq13VwKtnHwk781npTj5ob2NXxS5i5MwjtAucyqW8CVtawiFmRLz9ZjfD_uLMH3T7DosRgXVPyVhL1h_aMiI7CciL3tnMQAQGOQbuSfieLRlnpJgAo3OnRG6hWIsdInNnTZzOQ6j77CtkZHz38rcgaUtEuAKMdAVHVs0iexjCQ/_s0XFuloi37ooSrdefoEF-WNa4dsZaRHh5_U95pKCqc
+  banner: null
+scf:
+  awarded_submissions:
+    - Social & Podcast
+    - "Roberto Sanz: Podcast & Social"
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recRueDK3kkKGOg59
+    - https://communityfund.stellar.org/dashboard/submissions/rec2ZLmAvtJlNAmo2
+  awarded_round:
+    - "SCF #22"
+    - "SCF #24"
+  awarded_total: 39000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
