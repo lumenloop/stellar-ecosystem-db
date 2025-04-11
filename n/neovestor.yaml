@@ -1,0 +1,42 @@
+title: Neovestor
+other_names:
+  - '"Neovestor - An RWA launchpad"'
+parent: null
+description: Neovestor connects emerging market investors with real-world assets
+  and businesses.
+links:
+  website: https://neovestor.com
+  blog: null
+  x: https://x.com/neovestorcom
+  linkedin: null
+  discord_server: https://discord.com/invite/Y57PBsvPct
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/neovestor-tech
+linktree: null
+attributes:
+  category: RWA
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/zZovs2L9wDMIlr-KWNrSmA/WsNnsSkFwWAtSNzm-1uiX4RrAnKTgevGUJ23OrcMoIZLR6pk2onhS4BHiNP42kzg2TyZnK2haJzLxDsAQcb1zKgl66cpxHKWhPgW5c2O88j9hG15RaCXxi1RP0ax_A0mH6fuWb6pivcul0UdCGnIYBe7pV7z18mhlPARqw3Gym-2-YOGhLXG9TlkeaZQJcd4/R3F7JEbCcnCzieSk4gOQog6WcRwwbLJ9oESN10EROJs
+  banner: null
+scf:
+  awarded_submissions:
+    - Neovestor - An RWA launchpad
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recUcnDR8rtlntavE
+  awarded_round:
+    - "SCF #28"
+  awarded_total: 50000
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
