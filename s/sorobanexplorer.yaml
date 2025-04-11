@@ -1,0 +1,44 @@
+title: Soroban Explorer
+other_names: null
+parent: null
+description: Soroban Explorer is a block explorer that enables Stellar users to
+  validate smart contract code.
+links:
+  website: https://sorobanexp.com
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://gitlab.com/soroban-explorer
+linktree: null
+attributes:
+  category: Block Explorer
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/eKhaRS8HAmHSn20fHITBog/1GdJVuVMaGW8wVLXLMgpqkA-4C7-26lEmPV8hdZmut7EBbnnqwkWhXi2CEWTZ7AxHsPoWY9JR-U9rPqsxmpyOd65iC_1-tVyQM1ohJrvCROPvV8A4Ahve4SzShAvuHnA1LRu_AJU-w4fQaPDY_m1VQ/Xsw7ygzGVJiCmhZaGE7UwgL53Fbx3BGuo6ZMywi-RIE
+  banner: null
+scf:
+  awarded_submissions:
+    - Soroban Explorer
+    - Soroban Explorer II
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recB7Lz9t4Zl69bac
+    - https://communityfund.stellar.org/dashboard/submissions/rec85RVkmAjDXl8T5
+  awarded_round:
+    - "SCF #19"
+    - "SCF #23"
+  awarded_total: 161000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
