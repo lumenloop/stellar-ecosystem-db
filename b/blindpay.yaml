@@ -1,0 +1,44 @@
+title: BlindPay
+other_names: null
+parent: null
+description: Stablecoin API for global payments. We handle all regulatory and
+  compliance requirements so companies can send a receive money worldwide using
+  stablecoins, fiat money and multiple blockchains.
+links:
+  website: https://blindpay.com
+  blog: null
+  x: https://x.com/blindpaylabs
+  linkedin: https://linkedin.com/company/blindpay
+  discord_server: https://discord.gg/2DFKYaxjpp
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/blindpaylabs
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - NorthAmerica(withoutMexico)
+    - LatinAmerica&Caribbean
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/yT5C5ll_kJnVsSFDrw8gOg/InfQKroL9yw0I_trT3BtgpIC1HEtTX-hX6V7tXVGj8ssOeTbjS95oyCPbSvEmqRIQQ6i9Bf9Exmw2Nl28Y8jtyyIqisaZvBa-U4OpZkCnJOMOw88mva7m0gFDCLSy0sDXzVilvfgIlkrF0YEg8Y_tw/dKW0OwvIVBuwHn6cZ5E_CWUkMHXKDUsDBbBFOTvP-WQ
+  banner: null
+scf:
+  awarded_submissions:
+    - Affordable on/offramp API
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec9omQfwyAe5KiKD
+  awarded_round:
+    - "SCF #33"
+  awarded_total: 40000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
