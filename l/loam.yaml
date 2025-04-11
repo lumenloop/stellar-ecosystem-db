@@ -1,0 +1,44 @@
+title: LOAM
+other_names: null
+parent: null
+description: Loam is a comprehensive platform that streamlines the development,
+  deployment, and maintenance of ambitious smart contracts and decentralized
+  applications (dApps) on the Soroban platform.
+links:
+  website: https://loam.build
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/loambuild
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/V-5qfPMbCSd2DEGyxypJHQ/18t6Wk2bpYOr_FsEJw0BllbryftdFvuKbM9LwnEp_SQnuC-1wsrDM8iEb1D4cnQz1de3LBqKBqqW6NljjuX2kKOLmwQBAY3EukpAjIGum2x8NWE6RFbsM-bvsFWuybRCjqXZyRpNJIhMLBfU2KA5LkjkKhWBn2ji1lp8Wsg01q8/e3hA1EkvZaLwT17n9pOUII16IWru2JvNFZi5ADvcN0Q
+  banner: null
+scf:
+  awarded_submissions:
+    - LOAM - Grow Ambitious Dapps
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec3XoeMveOKOZzQS
+    - https://communityfund.stellar.org/dashboard/submissions/rect6tCyLANzPdveo
+  awarded_round:
+    - "SCF #24"
+    - "SCF #29"
+  awarded_total: 143900
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
