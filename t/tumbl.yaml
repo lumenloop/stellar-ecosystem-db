@@ -1,0 +1,45 @@
+title: Tumbl
+other_names: null
+parent: null
+description: Tumbl is a platform for deploying automated financial workflows on
+  Stellar, without needing to write a single line of code.  From payroll,
+  disbursements and international on/off ramps, to yield-bearing assets, to
+  liquidity rewards, Tumbl is the all in one platform for deploying and
+  accessing automated finance on Stellar.
+links:
+  website: https://tumbl.xyz
+  blog: null
+  x: null
+  linkedin: https://linkedin.com/in/amrith-srinivas-8a4b06262/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/cordilleradev
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - NorthAmerica(withoutMexico)
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/xCijabjMhnO4Mbmljsfkew/Hths8dsRUdji1az8dUdr_cXjj19hX2Bii8O0IuDnk7wuVav0MuaPGr1WvyE4T-kas_41sPt95SGkX-B2rsdrebMM6xE22oHjD7WWiLX4Lt18XiG49392u9AmcGkx08STphpWVOtT4ReqQETCqSdtUA/Ks7upovaZGCmkXrrHHi8RCX15Boo0gEhnbmwknQb8Tc
+  banner: null
+scf:
+  awarded_submissions:
+    - Phase 1 Development and Deployment
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recCdH1be0EVloiFQ
+  awarded_round:
+    - "SCF #33"
+  awarded_total: 38000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
