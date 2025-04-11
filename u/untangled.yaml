@@ -1,0 +1,47 @@
+title: Untangled
+other_names:
+  - Untangled Vault
+parent: null
+description: Untangled Vault is an automated, non-custodial, data-driven asset
+  management protocol enabling anyone to set and execute strategies to fit
+  investor risk/return appetite. Untangled Vault is powered by Untangled pool,
+  an asset tokenization protocol focusing on RWA private credits and Credio, a
+  risk oracle providing machine learning model inferences and onchain monitoring
+  to RWA.
+links:
+  website: https://untangled.finance
+  blog: https://https://medium.com/untangledfin
+  x: https://x.com/UntangledFi
+  linkedin: https://linkedin.com/company/untangled-finance
+  discord_server: https://discord.gg/neucRJEWHe
+  telegram: null
+  youtube: https://youtube.com/@web3_antivirus
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/untangledfinance
+linktree: null
+attributes:
+  category: RWA
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - Nospecificregionofoperation
+  country: Vietnam
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/L4N0J7FCPu_b4bpaKMJ3EA/EKAhSYgYIePWZ4Z56m_lLb9Xg74RdsyeiPljhys9XA0mhKH0hk0-fPpzdfQMzLT-92iK8b1oudM3-BChX3TJeuh_BA_OELcGHF8-FH8TIKQYaxXNtpCifc4U8Znz2m8j2U5j5u1ABBH1o8VgwJp9AA/k0sct9J-AgPsHJddeTo2jfM2f7FLlu0TljF1aKaUSVs
+  banner: null
+scf:
+  awarded_submissions:
+    - Enabling a secondary market for RWAs on Stellar with Untangled Vault
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec5hF8af5tfhSlT2
+  awarded_round:
+    - "SCF #31"
+  awarded_total: 150000
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
