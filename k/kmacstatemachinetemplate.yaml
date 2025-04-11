@@ -1,6 +1,6 @@
 title: KMAC State Machine Template
 other_names:
-  - '"KMAC State Machine Template (extension)"'
+  - KMAC State Machine Template (extension)
 parent: null
 description: Design and implementation of a Finite State Machine Template using
   design patterns and extensible functions written in Soroban SDK.
