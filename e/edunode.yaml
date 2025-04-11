@@ -1,0 +1,47 @@
+title: EduNode
+other_names: null
+parent: null
+description: EduNode is an e-learning platform dedicated to bridging the
+  knowledge gap in blockchain and Web3 technologies, empowering the Stellar and
+  Soroban community with essential skills to excel in this rapidly evolving
+  field.
+links:
+  website: https://edunode.org
+  blog: https://https://edunode.org/blog
+  x: https://x.com/edunodeorg
+  linkedin: https://linkedin.com/company/edunodeorg/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Olvisgil
+linktree: null
+attributes:
+  category: Education & Accelerator
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: Austria
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/0O780yy95wTmuKljNUMB_Q/J7a6zfIvJz7BPfrQlo5KUcLF2HGmD0H8BDkbgj8-XiGQfIxabIHOjeTVnR8LvpczsKuYF506UysvUyFmQzMQJ7JZZL5lOq6URygM60HNIjefd0uRRDQyCAr64hycRg9zyZ2uIjRigFjqcNCGu9u5CQ/GhSqabXsYrLWaUd4mDhSjS8XZUfznoRLyPv0GVhsQdQ
+  banner: null
+scf:
+  awarded_submissions:
+    - "EduNode: Meet"
+    - learn and build on the Stellar Network
+    - EduNode
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recTuXIwr6ihJov7c
+    - https://communityfund.stellar.org/dashboard/submissions/recxNxDjV3irG2b3s
+  awarded_round:
+    - "SCF #6"
+    - "SCF #10"
+  awarded_total: 80323
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
