@@ -1,0 +1,41 @@
+title: Wally
+other_names: null
+parent: null
+description: Wally is a P2P marketplace for online experiences, aimed to give
+  users the freedom to break through the boundaries of conventional payments.
+links:
+  website: null
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: DEX
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions:
+    - Wally
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recGobXzcpx41BHmA
+  awarded_round:
+    - "SCF #8"
+  awarded_total: 0
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
