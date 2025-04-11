@@ -1,0 +1,49 @@
+title: Okashi
+other_names: null
+parent: null
+description: Okashi is an online smart contract developer playground.
+links:
+  website: https://okashi.dev
+  blog: null
+  x: https://x.com/Okashidev
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/channel/UC_7SPeL63_cqUHIMXRsNrmg
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/orgs/useSoroban/repositories
+linktree: null
+attributes:
+  category: IDE
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: Lithuania
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/K2twML0imdNdBO6XzZNvwQ/gWTgqbJPlDYWNJzQyzH34WM1TGz4RQz16ZJ6nQc44Wa6Ma1lGSqSPpUKkpiLzQMOxNeMohAFi7K9Ys3cGwh5ieidUdg6eXJta5Y6a7c4t1pbhfXt-WVnQHe39dDPD8EzG1XIogUG7jl5HXYdanIcY0vI7RB1CNXq6g9LMw3LBLU/lJcKN5ZD1orpTk3Dl03TOgcItfaw0uuCCvjSEX6_eaQ
+  banner: null
+scf:
+  awarded_submissions:
+    - useSoroban.app
+    - useSoroban.app II
+    - Okashi - Developer UX Upgrade
+    - Okashi - Production Release
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recrMvxb9uFph97RM
+    - https://communityfund.stellar.org/dashboard/submissions/recdmXC3u5HWsR7tq
+    - https://communityfund.stellar.org/dashboard/submissions/recqsmOiASUgtmDrI
+    - https://communityfund.stellar.org/dashboard/submissions/rec3E6adszfXUHoyR
+  awarded_round:
+    - "SCF #13"
+    - "SCF #15"
+    - "SCF #24"
+    - "SCF #20"
+  awarded_total: 406800
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
