@@ -1,0 +1,47 @@
+title: Verseprop
+other_names:
+  - A real estate tokenization platform
+parent: The Brookes Project
+description: Verseprop is a commercial real estate tokenization platform,
+  headquartered in London.  It is operational, regulated and revenue producing,
+  having launched in September 2024. It makes real estate debt and equity
+  accessible; faster, more efficiently, and more transparently than traditional
+  Companies.
+links:
+  website: https://verseprop.com
+  blog: null
+  x: https://x.com/verseprop
+  linkedin: https://linkedin.com/company/verseprop
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/The-Brookes-Project
+linktree: null
+attributes:
+  category: RWA
+  tags: []
+  smart_contracts: false
+  regions_services:
+    - Europe&CentralAsia
+    - MiddleEast&NorthAfrica
+  country: United Kingdom
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/U8DcBYBajX9L5uqNdWs4eQ/n8zCa8y_CUuiA183SI43QP_hvzC2w2FJQ41Wjz_4FjXdA2rygJ_-P4k34mU4uBxaO5ZubMrb3npQICsfFAqnkQTPnOsT-vHfXpXlGPbMfyIIlcb3BdpZm9Obusei2YLhyRjdgBxBsWGQXSWa0psF7g/ZndrvsyP1sh892l3il8K0KEWLKlEWeddUUBGIIXfQFQ
+  banner: null
+scf:
+  awarded_submissions:
+    - A real estate tokenization platform
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recXjdDQL2sk7HNKx
+  awarded_round:
+    - "SCF #33"
+  awarded_total: 112020
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
