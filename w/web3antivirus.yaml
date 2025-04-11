@@ -1,0 +1,42 @@
+title: Web3 Antivirus
+other_names:
+  - Web3 Antivirus (W3A)
+parent: null
+description: Web3 Antivirus is an open-source security browser extension that
+  detects crypto scams and warns users before they sign anything.
+links:
+  website: https://web3antivirus.io
+  blog: https://https://medium.com/@w3a
+  x: https://x.com/web3_antivirus/
+  linkedin: https://linkedin.com/company/web3-antivirus/
+  discord_server: https://discord.com/invite/4hJAJUQCR2
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/web3-antivirus
+linktree: null
+attributes:
+  category: Data & Onchain Tools
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/5vFt-VnEG3UVFSOgijYCrQ/j1wPFomf1jD3sGOqAUY0XIyuLHE3lR1FlyKwcT00Fm23SqtfCGpAbSafT-9LmZYpRoGSzAyv_tYHMlNxk5SQdrCOiO9Z6a-TYywbTNILLmk8yhlYWMu7PnWiYskAoUI33y3iFGvChDXh68Pklk8kbBXsZrENuplNqWCSnb0KF-FFIpbN_DM3iQ3KN08ZjmJR/jIt2O0e605Qe1EVSgNKAVjK7NGtOwHR9gFBKXpYEDVw
+  banner: null
+scf:
+  awarded_submissions:
+    - Web3 Antivirus (W3A)
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec0b6xVABHxF2jRy
+  awarded_round:
+    - "SCF #28"
+  awarded_total: 50000
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
