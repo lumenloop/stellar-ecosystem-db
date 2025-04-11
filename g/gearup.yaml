@@ -1,0 +1,47 @@
+title: Gearup
+other_names:
+  - '"Gearup - Marketplace"'
+parent: null
+description: GearUp is a Stellar-based P2P marketplace for African creators to
+  rent, buy, sell gear, studio spaces, courses, and find gig opportunities.
+links:
+  website: https://gearup.market
+  blog: https://https://gearup.market/blog
+  x: https://x.com/gearupmarket
+  linkedin: https://linkedin.com/company/gearupmarket
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/gearup.market
+  reddit: null
+  tiktok: https://htiktok.com/@gearup.market
+  github: https://github.com/Gearup-Market/Stellar-Integration
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - Sub-SaharanAfrica
+    - MiddleEast&NorthAfrica
+  country: " Nigeria"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/jX91S4S-XQCzFQM2aht56Q/a440NV3DxCVFd3glgVc3havFQBNw8loE6R--D1NTQ4tLeifS4yaQvZrrp-EPm40Ug8I9XlfMKqDcjguLwFOsi-1ZiuJAwXSWexEZM6yiUowx8huvCMzBXocmTLBiMPiXl69bwI15LptNlo3kmeYNKA/CsY9MluVBgNT7g5chQzIENfi1DbdmQujguF5TqCQXS4
+  banner: null
+scf:
+  awarded_submissions:
+    - Gearup - Marketplace
+    - The Peer-2-Peer Marketplace
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec6upUevElzRhgCs
+    - https://communityfund.stellar.org/dashboard/submissions/recDsUIvFwd7tIAXc
+  awarded_round:
+    - "SCF #28"
+    - "SCF #32"
+  awarded_total: 124500
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
