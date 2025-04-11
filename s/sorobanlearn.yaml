@@ -1,0 +1,46 @@
+title: Soroban Learn
+other_names: null
+parent: null
+description: Bringing developers from zero to hero in their Soroban smart
+  contract development journey.
+links:
+  website: https://sorobanlearn.com
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Soroban-Learn/soroban-learn
+linktree: null
+attributes:
+  category: Education & Accelerator
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/XI1SIpIIjrE425CyPsMBmA/l2AdSFO-bucDA1IA0bxDbdvw-9ccF4o3m_YvVkYAcBo1Y84mP86Lde6RbAKnmugGGt9UbFJct6aJBYqiMhRunJE-wOHxuC0YChvYq9rlVQD6n7FJi6I3qjFDQ8vchorjtmCmHGqA884EfVBy2y5Vfw/La3916IMyHEl9N1iF7wwBE-0BN6Q-NVNanjaen2z73k
+  banner: null
+scf:
+  awarded_submissions:
+    - Soroban Learn
+    - SorobanLearn
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recQJLUR6hmcS5vqh
+    - https://communityfund.stellar.org/dashboard/submissions/recovwoOp8xxFpkfq
+    - https://communityfund.stellar.org/dashboard/submissions/recYWCrhSDvEopByV
+  awarded_round:
+    - "SCF #14"
+    - "SCF #16"
+    - "SCF #21"
+  awarded_total: 152000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
