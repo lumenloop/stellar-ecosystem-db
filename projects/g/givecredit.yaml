@@ -21,9 +21,9 @@ attributes:
   tags: []
   smart_contracts: true
   regions_services:
-    - LatinAmerica&Caribbean
-    - Sub-SaharanAfrica
-    - NorthAmerica(withoutMexico)
+    - Latin America & Caribbean
+    - Sub-Saharan Africa
+    - North America (without Mexico)
   country: United States
 images:
   icon: null
