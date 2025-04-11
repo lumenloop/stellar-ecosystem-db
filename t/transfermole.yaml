@@ -1,0 +1,42 @@
+title: TransferMole
+other_names: null
+parent: null
+description: Turning Telegram, Instagram and other social media usernames into
+  global payment aliases, incl. destination routing.
+links:
+  website: https://transfermole.com
+  blog: null
+  x: https://x.com/GoTransferMole
+  linkedin: https://linkedin.com/company/transfer-mole/
+  discord_server: null
+  telegram: https://t.me/transfermole
+  youtube: null
+  instagram: https://instagram.com/gotransfermole
+  reddit: null
+  tiktok: null
+  github: https://github.com/ivandzen/TransferMole
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - Nospecificregionofoperation
+  country: Switzerland
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/zqxFOjQpSVXcVQu-aAtBMA/P5I-mp16E5uImszUd1ouQ7BOfp0JzxSGRtTUiSc6yS47jKoTsMJhl59Z7EsGDV2-STWhw9gdcscyZdFj5b1Ght0kmJ2icCO2lt9_3OGWCl5RwYEEnoXDPOff4tQEW4UgXnvjuV1_hi_tWOjRH4IIvA/C6FxyDWVnT9aDVIPEvjaQUUdNMxO0-OLZTG1x4k1tBU
+  banner: null
+scf:
+  awarded_submissions:
+    - Connecting Stellar ramps to social username payment directory
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recFc20CibJqREDyr
+  awarded_round:
+    - "SCF #30"
+  awarded_total: 60000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
