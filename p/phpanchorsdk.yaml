@@ -1,0 +1,45 @@
+title: PHP Anchor SDK
+other_names: null
+parent: null
+description: The PHP Anchor SDK abstracts Stellar-specific functionality for
+  running an Anchor, allowing PHP devs to focus on business logic.
+links:
+  website: https://github.com/Argo-Navis-Dev/php-anchor-sdk
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Argo-Navis-Dev/php-anchor-sdk
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: Romania
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/5cQkisHAkOjtJd0u3B_JRA/RcpfIDiKWCN1pPWr08fcLuPmnv7LPVj3wx-Yj-Wr-NPNIeKaMN9mkZh0GtUFZbghFJWKlkAuOpZWZpA_tNhu5n9Ippc5efls4cJT7FVn-5qyKIxkofyuiRr4xXS-zSTyGBoeoNWAoTqlQyVmyJC95TBNZJli-lGeIkfJnGfSsVc/5DdpcHLIEqAM9Vpf8xsfBItmrzb_iVVDHXNfsWbVvIc
+  banner: null
+scf:
+  awarded_submissions:
+    - PHP Anchor SDK
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rect8pQfINu8Enmqh
+    - https://communityfund.stellar.org/dashboard/submissions/recHnYfdhDsCAmDHf
+    - https://communityfund.stellar.org/dashboard/submissions/recYidv6nP5tSv03Z
+  awarded_round:
+    - "SCF #22"
+    - "SCF #24"
+    - "SCF #27"
+  awarded_total: 152600
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
