@@ -1,0 +1,44 @@
+title: Nodies
+other_names: null
+parent: null
+description: Nodies is a Web3 infrastructure platform offering high-performance
+  RPC and Horizon services for the Stellar network on both Mainnet and
+  TestnetNodies is a Web3 infrastructure platform offering high-performance RPC
+  and Horizon services for the Stellar network on both Mainnet and Testnet.
+links:
+  website: https://nodies.app
+  blog: https://https://blog.nodies.app/
+  x: https://x.com/nodies_infra
+  linkedin: https://linkedin.com/company/nodies/
+  discord_server: https://nodies.app/discord
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/baaspoolsllc
+linktree: null
+attributes:
+  category: RPC & Nodes
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - Nospecificregionofoperation
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/JQhhwB-xvFgpoYh9jNJ18A/05lVlVGnPYxFN3za-37mOI5bd7_gnuRsZ05lKb-guxCk8BEHEEFAlSw3FH9rTT782GJ09zjo6vM2d9h3GVZ1uxyFF9qqDCjd7Pe-pOMrAXUGECjegpaFu9uKkw40d8Mji1SPflgwPlcSldCIZR60SZQiOkmFyl1Mn1sRQvkKdjBBq0VcMGotclhXOmdXzQ2AqGBXDtO8RwVhqsnnGkU0Dw/9tZCckbI_hhB0XDYAxiPmYfmu6DeD0l2v0o3moF-qbQ
+  banner: null
+scf:
+  awarded_submissions:
+    - Nodies Web3 Infra Services
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recwxiAUvdOz3nlNh
+  awarded_round:
+    - "SCF #30"
+  awarded_total: 62000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
