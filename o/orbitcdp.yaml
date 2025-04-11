@@ -1,0 +1,49 @@
+title: OrbitCDP
+other_names: null
+parent: null
+description: Harness Stellar's potential; collateralize with ease at OrbitCDP.
+links:
+  website: https://orbitcdp.finance
+  blog: null
+  x: null
+  linkedin: https://linkedin.com/company/orbitcdp
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/OrbitCDP
+linktree: null
+attributes:
+  category: Lending & Borrowing
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/487WwMqmPx6CDSEJ-d7vlA/iatns5AJq6f5WOl5Nvr9sVv4BWRvddyB2C-anf7PNrYeqpvvb8k5WNu97xOBEG5f8lGxs8IXvwKSlBF8s2iDjpMoq3UQjUvmJO2LEUG8_95psl03m3-jRbXXz-M3kKqBOGN5fQ3Sxp9CKbPl5-sgwg/oABjcJcyS66PlgUTfe8VwTyBuX0b60b65C2w-_y6mrY
+  banner: null
+scf:
+  awarded_submissions:
+    - "OrbitCDP: CDPs on Stellar "
+    - "OrbitCDP: Part 2 of budget"
+    - "OrbitCDP: CDPs on Stellar"
+    - OrbitCDP
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recb8O4gXWaS4RsaM
+    - https://communityfund.stellar.org/dashboard/submissions/rec5F9VZMtI9VazK9
+    - https://communityfund.stellar.org/dashboard/submissions/recAH1SPekMp9LIYX
+    - https://communityfund.stellar.org/dashboard/submissions/recgGLPg9l5ZoIcL5
+  awarded_round:
+    - "SCF #21"
+    - "SCF #21"
+    - "SCF #25"
+    - "SCF #29"
+  awarded_total: 230000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
