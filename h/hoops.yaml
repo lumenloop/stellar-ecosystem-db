@@ -1,0 +1,45 @@
+title: Hoops
+other_names:
+  - '"Hoops Finance"'
+parent: null
+description: Analytics and DeFi platform for risk-adjusted investment in Soroban
+  liquidity pools.
+links:
+  website: https://hoops.finance
+  blog: null
+  x: https://x.com/hoops_finance
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/alexanderkoh/hoops
+linktree: null
+attributes:
+  category: Data & Onchain Tools
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/mmQC3llJWGxUQVXSkFxCOw/7kL5yn2AAtRlSmfZ2BRE5fp4eQPbfTAr2gEGDMx5jEnoJpKpp7Jhcv4QbNwDp2Ib8QVQtsNWvLbKPtTDCDMye97kyqI7Vb6rEQC3Lwo-Q4nTXYWjDB4BIlxHz6RfaqL1ZDPsPa8XGaGI7YkvYjt_Ew/AEFbCnz9dnivDug6oc34-hrmKDIuF_gW9LFZIQCmpWs
+  banner: null
+scf:
+  awarded_submissions:
+    - Hoops Finance
+    - Risk-Assessed Analytics and Automated Liquidity Management
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rechiZHwFanNF1nnI
+    - https://communityfund.stellar.org/dashboard/submissions/recYojyYEHFK01KlM
+  awarded_round:
+    - "SCF #29"
+    - "SCF #30"
+  awarded_total: 150000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
