@@ -1,0 +1,44 @@
+title: Lantern
+other_names:
+  - '"Lantern Finance XLM Expansion"'
+parent: null
+description: Lantern Finance is a platform offering crypto-backed loans and
+  staking services, now supporting Stellar (XLM) as loan collateral .Lantern
+  Finance is a platform offering crypto-backed loans and staking services, now
+  supporting Stellar (XLM) as loan collateral .
+links:
+  website: https://lantern.finance
+  blog: https://https://lantern.finance/blog
+  x: https://x.com/LanternFi
+  linkedin: https://linkedin.com/company/lantern-fi/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/lantern.finance/
+  reddit: null
+  tiktok: null
+  github: https://github.com/lanternfi
+linktree: null
+attributes:
+  category: Lending & Borrowing
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: Mexico
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/pg3rn2DzGTSQJVFp4DWk-A/71_JWtCRA2ikpV_fBEIKDVMvpkqRr7b5VjCA44h2ULPJhllOWZ6MI_YwI_VwFIcO2fWspLWfxRz57UPLJz4eVP5zMTWho9JkkNmHO1KfQ1AmNcdrkZhc6S5GSphHg_VRMOKGwlMYegBMEZQk-lBE5U1fxBdNltrvIk6hrjwN4JHV9U-ex3QcK7ydAUJ7eSiB/SccJepf7XlRuV_1nTypGepOF-87k-u8kR5X0TTFqi0M
+  banner: null
+scf:
+  awarded_submissions:
+    - Lantern Finance XLM Expansion
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec1emvKo0DFpWx0c
+  awarded_round:
+    - "SCF #29"
+  awarded_total: 48483
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
