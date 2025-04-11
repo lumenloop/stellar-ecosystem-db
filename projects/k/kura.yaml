@@ -22,7 +22,7 @@ attributes:
   tags: []
   smart_contracts: false
   regions_services:
-    - NorthAmerica(withoutMexico)
+    - North America (without Mexico)
   country: United States
 images:
   icon: null
