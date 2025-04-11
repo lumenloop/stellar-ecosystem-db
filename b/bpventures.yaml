@@ -1,0 +1,42 @@
+title: BP Ventures
+other_names: null
+parent: null
+description: BP Ventures provides consulting and development services for
+  blockchain solutions, focusing on financial inclusion and decentralized
+  applications, specializing in leveraging the Stellar blockchain.
+links:
+  website: https://bpventures.us
+  blog: https://https://www.bpventures.us/blog
+  x: https://x.com/bpv_us
+  linkedin: https://linkedin.com/company/bpventures/
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/@bpventures
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/bp-ventures
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: " France"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/W1eRN1EhIVHg-sQrIOgz5A/vStZhhwesxbhNzkq9mDVrjoWQxnSAXK9G7xN6MecFr2QI-5dVWhtsPWXK0Dlhc3e-InKuaZkdNfK9pSiwq0vpOvmgQr6OW8p6f6tk7W-r_uKtcR_LPjKztiaTILOcPi1_wvJG1TsYpJ0gtgKCEPW3Q/4D3E-XdA72Qheo5VxT5Xji9ZeFm7kOkb283yYTLKdl8
+  banner: null
+scf:
+  awarded_submissions:
+    - BP Ventures
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec1UP0te2eVEQ6o0
+  awarded_round:
+    - "SCF #10"
+  awarded_total: 125000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
