@@ -29,9 +29,9 @@ attributes:
   tags: []
   smart_contracts: null
   regions_services:
-    - Sub-SaharanAfrica
-    - NorthAmerica(withoutMexico)
-    - Europe&CentralAsia
+    - Sub-Saharan Africa
+    - North America (without Mexico)
+    - Europe & Central Asia
   country: Côte d'Ivoire
 images:
   icon: null
