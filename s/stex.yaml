@@ -1,0 +1,41 @@
+title: sTeX
+other_names: null
+parent: Xycloo
+description: sTeX is a cloud environment to write, compile, share, and tokenize
+  LaTeX documents.
+links:
+  website: https://stex.xycloo.com
+  blog: https://https://blog.xycloo.com/
+  x: https://x.com/xyclooLabs
+  linkedin: https://linkedin.com/company/xycloolabs/
+  discord_server: https://discord.com/invite/HSrsvbmEsT
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/xycloo/documents-marketplace-devenv
+linktree: null
+attributes:
+  category: Verification
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: Italy
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/mu5F94fDSCwuMsyl0i8STQ/zFFBeP7feuLDPp21KqFHpwLgqwsw32bA3XGq2TnwLDq3f8PIjOmOnxSdZxwnutaYroVJHsPYWVJjBcXpyVpWu0P9-5FlhHoOf1Cezrx5H__3KHyj0HRbByveYEEtyIQ6nIAI_lzwzDODH_BD25-n-NYhkSSfGYRUyviMynKQuiBxmxUI2Ihf7anvJZFaIMuP/BML_epySx5mrlwOLFgadcNs0QKaci5RU8GQQgkSauWM
+  banner: null
+scf:
+  awarded_submissions:
+    - sTeX
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recYsvymcjyhXY4XV
+  awarded_round:
+    - "SCF #11"
+  awarded_total: 17000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
