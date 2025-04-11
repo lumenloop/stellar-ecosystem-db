@@ -1,0 +1,43 @@
+title: OnBoarding Club
+other_names: null
+parent: null
+description: Onboarding builders across emerging ecosystems with a unified
+  platform for resources, bounties, hackathons, jobs, grants and more.
+links:
+  website: https://onboarding.club
+  blog: null
+  x: https://x.com/onboardingclub
+  linkedin: https://linkedin.com/company/onboarding-club/
+  discord_server: https://discord.com/invite/8JR6pBUYqw
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/onboardingclub
+linktree: null
+attributes:
+  category: Education & Accelerator
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: India
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/xgNC8aZvyBSBUysBMVdPJg/O6lJJXwQvM1UqJRLYKK9fLXYLKbdMSDojtVmP6KWmkUu2V0l__Z6xp-Cba28YEH4inkOFPy_bYvgAPrJzg5Z5MUJ8JAenh6Xyh-Kz3EugovSR5VpycDbJc-8zSgv9dYSQ32QuCWADPgziH8YWE4lyA-JgCdB0QkXep6veuhcmv8/rgqp5TszhPGoCFJxNWoLkwHZaYodLmQt8jvcHoa5Phg
+  banner: null
+scf:
+  awarded_submissions:
+    - Onboarding.club
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/reclZen7CJQgQeWDH
+    - https://communityfund.stellar.org/dashboard/submissions/recxmriAgwEaO7GwF
+  awarded_round:
+    - "SCF #21"
+    - "SCF #26"
+  awarded_total: 121000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
