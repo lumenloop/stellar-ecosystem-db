@@ -1,0 +1,42 @@
+title: Chainlink
+other_names:
+  - '"Chainlink Oracles Relayer"'
+parent: null
+description: Provable, Manipulation Resistant Random Numbers From Chainlink
+  Oracles on Soroban.
+links:
+  website: https://docs.relink.services
+  blog: null
+  x: https://x.com/relinkservices
+  linkedin: https://linkedin.com/company/create3-labs
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/relinkservices
+linktree: null
+attributes:
+  category: Data & Onchain Tools
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: " Germany"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/NioFFMa3MUBdLn2K9vt8Vw/q3Xm06GJy1gJ-gB6WBavLzmZ7DSHdscSTW13ez74YYNKt2rYOuhndyiMWT_O1s2C8NKttmJuUfhe6XcHPH-Tptt-oj3YXuCQDxkzs3Tq22GR_8ihJij6m9klCg8t9XsoaLP7bsCaT-QmkP2ZfAvAmQ/0RZiBo_3MbPH1ZjhtfLtaijmXpG9I3RGcddPbceNsPQ
+  banner: null
+scf:
+  awarded_submissions:
+    - Chainlink Oracles Relayer
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recHahmCLtNhZaCUg
+  awarded_round:
+    - "SCF #15"
+  awarded_total: 38400
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
