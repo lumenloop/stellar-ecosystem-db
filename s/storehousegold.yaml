@@ -1,0 +1,42 @@
+title: Storehouse Gold
+other_names:
+  - Storehouse Gold to Stellar
+parent: null
+description: Storehouse is a redeemable token platform giving access to
+  individuals around the world to the protection and stability of gold.
+links:
+  website: https://storehouse.gold
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: RWA
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/225ktUFkkdZCK0ikq-mYfA/RX9mDejmUq5taAsqcc7EEQSNkdZrCDo2f1vBCeqmQ_D43MWHooe6JhkUi_GzInGnNQXrh5ATxkYT4zrlUZfwVBgbm-f-xmkZsmyoudDN1-V4MyppF4fSolUGlucKnMLlDbaxUmdorDO9A_nRl5d-C5lKBPmcoq7xZ3ur_OwEw8RRsKZedXEkMsQKzGG2Anhg/pszMnmMXN5N7xULWQCHF7HQn58VboGj0UeyWQaE2XFo
+  banner: null
+scf:
+  awarded_submissions:
+    - Storehouse Gold to Stellar
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recfvoyPLkwH0dEX8
+  awarded_round:
+    - "SCF #26"
+  awarded_total: 50000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
