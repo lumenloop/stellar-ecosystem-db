@@ -1,0 +1,42 @@
+title: Legacy Suite
+other_names:
+  - '"Legacy Suite on Stellar"'
+parent: null
+description: Revolutionizing estate planning with blockchain, making it
+  inclusive of digital assets and secure for all.
+links:
+  website: https://legacysuite.com
+  blog: https://https://www.legacysuite.com/blog
+  x: https://x.com/legacy_suite
+  linkedin: https://linkedin.com/company/legacysuite/
+  discord_server: https://discord.gg/Ne6DefZNt6
+  telegram: https://t.me/LegacySuiteOfficial
+  youtube: https://youtube.com/channel/UC1mgBZhlD9BnH57wmORtAOA/videos
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Avento-Labs/legacy-suite-contracts
+linktree: null
+attributes:
+  category: Verification
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/e8N6u4jfLT-fjl9u2X_oMg/QMB9R8nNCBpSZsFHrsmfiAdnzOyUKTN5tmB_1thNLyLppVzfb-AOEUsEXN0T5enTEh4Hd8fcy9htdG41LDxU9Fury6KJzjfLvhEMieSl2pH91zEb_59DJ8dRRzYu_NET3QNVBynidcdBPqx57-Rd3rUdLRHX2Q5JFU6vQ9VjEc0/N5hOzIPTa_yDtP6BFDbbJF-XhwUX__3SITEOfirx188
+  banner: null
+scf:
+  awarded_submissions:
+    - Legacy Suite on Stellar
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recfvb645h7vv8HYG
+  awarded_round:
+    - "SCF #24"
+  awarded_total: 49998
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
