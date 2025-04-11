@@ -1,0 +1,43 @@
+title: Soroban Command Insights
+other_names:
+  - '"Stellar Command Insights (SCI)"'
+parent: null
+description: A real-time monitoring and visualization system for Soroban CLI
+  commands on the Stellar network, powered by the ELK stack.
+links:
+  website: https://voluble-fairy-844611.netlify.app
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/SalihToruner/Soroban-ELK
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - Nospecificregionofoperation
+  country: Turkey
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/b82Py6bhh_vGY2gyem292Q/Dpwl7ZGWKXCckBEK0Sws9GpzkB5aWDNblsp3-8l9gar9-SdP6s7PBBeqEjlH_k-zsfu244Nz55zJb3GSXIpflkFLd24hSUiEt6U-di_FMmgZJ1TogIpMkAno96smeTln3znz7HdVlZSbego0byDIrg/-WunHT_e_Wmp6f0aBdwq9KNtlDZGlkn16bRmCfT8SX0
+  banner: null
+scf:
+  awarded_submissions:
+    - Soroban Command Insights (SCI)
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recR4ULg6RudZEquX
+  awarded_round:
+    - "SCF #29"
+  awarded_total: 35000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
