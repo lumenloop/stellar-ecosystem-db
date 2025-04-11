@@ -1,0 +1,41 @@
+title: Yativo
+other_names: null
+parent: null
+description: Yativo is a financial infrastructure platform that enables
+  companies to build, launch, and scale financial products in emerging markets
+  like Latin America and Asia. Their services include virtual accounts, payouts,
+  wallets, identity verification, and foreign exchange liquidity, all accessible
+  through a single API.
+links:
+  website: https://yativo.com
+  blog: https://https://yativo.com/blog/
+  x: https://x.com/YativoHq
+  linkedin: https://linkedin.com/company/yativo
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/yativo
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
