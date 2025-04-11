@@ -1,0 +1,41 @@
+title: Dropzey
+other_names: null
+parent: null
+description: Decentralized Airdrop Hub on Stellar Network. Create, manage, and
+  participate in airdrops, with transparency and efficiency.
+links:
+  website: https://dropzey.com
+  blog: https://https://medium.com/@dropzeyofficial
+  x: https://x.com/dropzeyofficial
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/@Dropzeyofficial
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/zainh332/dropzey
+linktree: null
+attributes:
+  category: Launchpad
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: Pakistan
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/eJI1FL7PFqn4-cO9gnjn8w/uxGaQn7o5v1ND1YVIsJHp7VNWBV-mxZhzw9SzQEYR0BY38RPtZ6RVDk2u-1THE-yv8Hr4bTgFq0eqnQvHw85EnUy4rbiFcZKSK_gXIMrsWS60zCdO5TTvQC6iNVQlIpi2Lr69nmi64AmpKdfP006Ig/BTcZ5Xoes9t09Gmyam-NQl23aNymuIUMy5de-HWxSoI
+  banner: null
+scf:
+  awarded_submissions:
+    - Dropzey
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recERxnKE8etaSrMs
+  awarded_round:
+    - "SCF #23"
+  awarded_total: 38500
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
