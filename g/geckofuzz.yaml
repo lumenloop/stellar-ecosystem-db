@@ -1,0 +1,42 @@
+title: Gecko Fuzz
+other_names:
+  - '"Gecko Fuzz: Automated Fuzzing"'
+parent: null
+description: Gecko uses formal verification and fuzzing guided by dataflow
+  patterns and LLMs to audit smart contracts on-chain autonomously.
+links:
+  website: https://github.com/jjjutla/GeckoFuzz
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/jjjutla/GeckoFuzz
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/9V6SvBNg8W-TWwB1MtLXIQ/VP9nnpN5G3BgxPmbOf-USaapEWaL_Uth9DUorbKdW3MbZrQDb-dRPW270PmfYltFSy9hV4vwd0cu6UukrR0ghjo1MQbIteeBtG1GK8VARbx99Xj2nDOCtJnrkStqynjTpSFX5Piis8j8MrnR0MnpptjNAEWE-LWBM_ozVhq7PTI/iSb77L5f0jRMEfOZA5gvCRTnl34uhZ0ElFmu6fgPxwc
+  banner: null
+scf:
+  awarded_submissions:
+    - "Gecko Fuzz: Automated Fuzzing"
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recgaYJqkY6XAjubP
+  awarded_round:
+    - "SCF #22"
+  awarded_total: 30000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
