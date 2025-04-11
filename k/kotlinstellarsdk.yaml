@@ -1,0 +1,40 @@
+title: Kotlin Stellar SDK
+other_names: null
+parent: null
+description: Interact with Stellar using idiomatic Kotlin and share code across platforms.
+links:
+  website: https://github.com/rahimklaber/stellar_kt
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/rahimklaber/stellar_kt
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/WGxSx3paYoyA-i59j50pmw/sFGm7LeF8T0u-YOJSJbASZkLfd-uhcyei03OqPykGgPqC_a6jG2aHAoYOGYtHP6VcmI085tMZoCvbh5RhhSBYXAlQsdq8USlBvIz1IiIw554Dce9tbiyO7KIM-mpY_4YAcTQcmHVSXRuDzZ7i9ETDQ/d-EawQrDLybF67XM0WPLCJukkDJf1a_DzTf9xJyTnLo
+  banner: null
+scf:
+  awarded_submissions:
+    - Kotlin Stellar SDK
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recJkbPGJBY1VXyJ9
+  awarded_round:
+    - "SCF #9"
+  awarded_total: 11500
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
