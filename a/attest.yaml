@@ -1,0 +1,44 @@
+title: attest
+other_names:
+  - '"Stellar Attestation Service"'
+parent: accred
+description: Soroban framework for attesting to digital interactions on the Stellar network.
+links:
+  website: https://attest.so
+  blog: null
+  x: https://x.com/attestprotocol
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/daccred/attest.so
+linktree: null
+attributes:
+  category: Verification
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: Ghana
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/MEXXw53ku6QW_h8LxntuIQ/bB3mfkoSb6EVwxu7wY2h6xEIv38XHhRpAQoeCdVQbwHF9PldqdDbsFFXsAMNIHHeZByEWE3ZSutBdnjuDf5yS-UvJDP_Ro0RoVgZiG2cvkS8wVrgViZZ0Ulbj9_CoGnyU7zheceBQXtqgFJSTQSWEQ/gX6k_VgRMjJFzOilRtrHMfoNOSRx3_YKMls1_aACQVk
+  banner: null
+scf:
+  awarded_submissions:
+    - Stellar Attestation Service
+    - Stellar Attestation (Proofs & Notaries)
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recF8AbyncoxdFYvk
+    - https://communityfund.stellar.org/dashboard/submissions/recIHN98Ja7MMb4DX
+  awarded_round:
+    - "SCF #29"
+    - "SCF #32"
+  awarded_total: 120550
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
