@@ -1,0 +1,42 @@
+title: Band
+other_names:
+  - '"Band Protocol"'
+parent: null
+description: Band Protocol is a cross-chain data oracle platform that aggregates
+  and connects real-world data and APIs to smart contracts.
+links:
+  website: https://bandprotocol.com
+  blog: https://https://blog.bandprotocol.com/
+  x: https://x.com/BandProtocol
+  linkedin: https://linkedin.com/company/
+  discord_server: https://discord.com/invite/3t4bsY7
+  telegram: https://t.me/bandprotocol
+  youtube: https://youtube.com/@bandprotocol
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/bandprotocol
+linktree: null
+attributes:
+  category: Oracle
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: Thailand
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/ORzumh9hAluFb-dLxSx3pA/msDc1ZtRl-vlGIXuPuh0LiwdNaYuCofGyKQTWHaNc11dw6PAkjvMkgKh_0svdD7Ug3isjg3QIUjrHznjZKqL5o1T6lBkKhQCJcpXB6HKU1sg_fPCU_0SmSAzsFTSqtI2Uqc5Q8c5-6JAPLbM8VAM4g/PJMa_9l78-NYtxuA4_bpazrn2l-PtQo5FQC5YUcrCQE
+  banner: null
+scf:
+  awarded_submissions:
+    - Band Protocol Oracle Solution
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recItGzRXb0jGGtzx
+  awarded_round:
+    - "SCF #16"
+  awarded_total: 60000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
