@@ -1,0 +1,40 @@
+title: Stellarscam.report
+other_names: null
+parent: null
+description: Collect scam reports and assist with taking site down and spreading info.
+links:
+  website: https://stellarscam.report
+  blog: https://https://stellarscam-report.medium.com/
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Education & Accelerator
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions:
+    - Stellarscam.report
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recGmQ4CAX2gjf7qz
+  awarded_round:
+    - "SCF #6"
+  awarded_total: 5445
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
