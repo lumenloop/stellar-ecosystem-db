@@ -49,11 +49,11 @@ Recent improvements and updates to the database include:
 - **Feedback Integration:**  
   A document listing suggestions and errors from the SCF datasets was shared with the SCF team to support ongoing improvements.
 
-## Data Metrics Comparison
+## Data Metrics Comparison (as of April 11th 2025)
 
 The following tables summarize key data points comparing the legacy SCF data with the updated Ecosystem DB values:
 
-### Project Metadata as of April 11th 2025
+### Project Metadata
 
 | **Field**       | **SCF Data** | **Ecosystem DB** |
 |-----------------|:------------:|:----------------:|
