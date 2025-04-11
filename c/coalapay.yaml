@@ -1,0 +1,45 @@
+title: Coala Pay
+other_names:
+  - '"Anticipatory Aid on Soroban"'
+parent: null
+description: Coala Pay is a platform designed to streamline the last-mile
+  distribution of international aid funds. By leveraging blockchain technology
+  and stablecoins, it aims to make the transfer of aid money simple, borderless,
+  and programmable, insulating donor funds from foreign currency risks,
+  excessive banking fees, and delays.
+links:
+  website: https://coalapay.org
+  blog: null
+  x: https://x.com/coalapay
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/pellartech/coala-pay-weather-oracle
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/a4tGpgoxj2Gv3xd--KzcoQ/WDmxEqmY45VTp-LMsKsKdrDDFL5vISCOyP2HWs_JXXF_GQz9bjGebPm5a6SBp5KWZLaYW0RD421y8Km0Ly09I1wdFgmZt2M7Dy4tHLEhNC_ctWQzZAzPTs2dQBH1vJgwFEqx4Ql6ewrKDFU-_bxo_8GccYLtf70tTZv4CzHRfTg/WZEnEu46ZpxtOKDuQAsMUOli9ncHMbntbXeR44gCt94
+  banner: null
+scf:
+  awarded_submissions:
+    - Anticipatory Aid on Soroban
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recVeAOrdY2HNMbY3
+  awarded_round:
+    - "SCF #22"
+  awarded_total: 50000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
