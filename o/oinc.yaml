@@ -1,0 +1,41 @@
+title: Oinc
+other_names: null
+parent: null
+description: Oinc is a seamless personal finance solution for LATAM young
+  adults, conveniently enabling better financial decision making.
+links:
+  website: https://useoinc.com.br
+  blog: https://https://blog.useoinc.com.br/
+  x: https://x.com/useoinc
+  linkedin: https://linkedin.com/company/useoinc/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: https://tiktok.com/@useoinc
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/AZxbgJpq9DwMjunM5iNH4A/QiaUsDNedV2IlXY1Eyg_VzEVILyf3Gsc_cWBE0HZ_h-lBccwBep4gyYsDOBUoETf49koHWZbmu1Aj-MDwI_BxKUUeM9y74nbBL1hZSJQyZHuX7m84cZ9B5EwJhaMw7pzwHxz_hyqllyxLy9GfEVs1g/OKTAuYkRDdHn1DsDKxEhq4nRglCgM7uXXUwBsJx0tUo
+  banner: null
+scf:
+  awarded_submissions:
+    - Oinc - Automated Personal Finance
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recHtAS5rmHwAFWhn
+  awarded_round:
+    - "SCF #17"
+  awarded_total: 105000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
