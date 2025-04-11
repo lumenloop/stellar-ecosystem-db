@@ -1,0 +1,43 @@
+title: HiYield
+other_names: null
+parent: Lydia Labs
+description: HiYield is building key components of onchain capital markets
+  infrastructure to bolster liquidity. Our initial products include a
+  tokenization protocol and a custom-built lending market ideal for onchain
+  repurchase agreements and fixed-income collateral types.
+links:
+  website: https://hiyield.xyz
+  blog: null
+  x: https://x.com/hiyield_xyz
+  linkedin: https://linkedin.com/company/hiyield-xyz
+  discord_server: https://discord.com/invite/VqVsdubDB6
+  telegram: null
+  youtube: https://youtube.com/@hiyield_xyz
+  instagram: https://instagram.com/hiyield.xyz
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: RWA
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/JTJZV5G77iFrljgJqrj2Vg/s9GWxED6Jjf4MjtAwpxHIouDsSBepaHpw2mdfuH4bVe331L3w0YqalEDW24yDmCyn3Lvw7mu6mAckWWs6QlSPQyPq_tGhNXIi_YWmE8roJrc6b_tZLHLelHzu7tedmrcYYOFr_rC0uCQeElQ0XD2sw8f8iMwJ_v87EsCBIRIS5k/WOaxd92XOeZU95NmhcX2jWmFECALZhukK3juNhhL3fQ
+  banner: null
+scf:
+  awarded_submissions:
+    - HiYield
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recjwQ8Ebg6OIV4BT
+  awarded_round:
+    - "SCF #18"
+  awarded_total: 150000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
