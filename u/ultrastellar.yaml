@@ -1,0 +1,55 @@
+title: Ultra Stellar
+other_names:
+  - Ultra Stellar + Lobstr
+parent: null
+description: Ultra Stellar, established in 2014, is a software engineering
+  company specializing in financial solutions for the Stellar network. The
+  company’s main products include LOBSTR, StellarX, and StellarTerm — three
+  leading Stellar wallets and interfaces. These secure and user-friendly
+  products empower individuals and businesses alike, enabling anyone in the
+  world to achieve financial freedom. Ultra Stellar also offers professional
+  services, assisting businesses in their transition into blockchain technology,
+  integrating with the Stellar network, and developing ready-to-launch
+  solutions.
+links:
+  website: https://ultrastellar.com
+  blog: null
+  x: https://x.com/ultrastellar
+  linkedin: https://linkedin.com/company/ultra-stellar/
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/channel/UCzOwdRJm-z1vEkM_SsyaiKg
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Lobstrco
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: " Estonia"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/Xx_8oNlIDY4e7hq_nZixkg/AOApeXYRggjk4vncd1tD-sQB2WTWaD_v8tTfUic3jPS7LEAAyFuDGv-sCcJwNlmJ5rRvvpYl1FfHW28qAfDAgNjeauUSyIHslj51FJUgd96hkQf4jnFBfWF2IIL8f-14hxuv7tInlq2Iq0dHx60Mtg_IDZZlXcs_SMbpKJfI0wk/Y7I5u_JifRo0i7BCuWcojiw4_TWvBr_6MmkODf0evTw
+  banner: null
+scf:
+  awarded_submissions:
+    - LOBSTR
+    - "LOBSTR: new Soroban features"
+    - Ultra Stellar / Soroban Integration
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/reckAPLIsrEDIE0Zb
+    - https://communityfund.stellar.org/dashboard/submissions/recLPGmYh7sNVjRz7
+    - https://communityfund.stellar.org/dashboard/submissions/recWR4fbwZYJ72i34
+  awarded_round:
+    - "SCF #2"
+    - "SCF #22"
+    - "SCF #17"
+  awarded_total: 232000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
