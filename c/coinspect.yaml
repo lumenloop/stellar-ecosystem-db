@@ -1,0 +1,38 @@
+title: Coinspect
+other_names: null
+parent: null
+description: "Since 2014 protecting critical decentralized systems: L1 nodes,
+  smart contracts audits, wallets, web3 dApps, exchanges, bridges."
+links:
+  website: https://coinspect.com
+  blog: https://https://coinspect.medium.com/
+  x: https://x.com/coinspect
+  linkedin: https://linkedin.com/company/coinspect/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/coinspect
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
