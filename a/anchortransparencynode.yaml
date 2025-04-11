@@ -1,0 +1,41 @@
+title: Anchor Transparency Node
+other_names: null
+parent: null
+description: "Enhancing Stellar's Anchors with the T Node: Secure, verifiable,
+  and transparent off-chain Payment Rails data verified on-chain."
+links:
+  website: https://usher.so
+  blog: https://https://www.usher.so/blog/
+  x: https://x.com/usher_web3
+  linkedin: https://linkedin.com/company/usherlabs/
+  discord_server: https://discord.com/invite/gHDPs569NR
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/usherlabs
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: Australia
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/wSB8aAPc6Lp1pi-L2fqXDA/mriFRSJ74EYVRDHGwskmV5HVFCbyVe1jr7I4TNwEYphb54W3UHmVkIo_-S9CiLdNMwavXr--_dv_mT_I_4qi91opuIx-uCqx3L0TLemB0vhpK96ZKhEgqZ1KH66foCeLqGPTxutWQeF8RBYmP-JcFMyQDCTYqH-HzVMTDTROMQM/fh4Pk38udpHUDL4TL1988JM-VDrfc6roQiD-wkTaU2E
+  banner: null
+scf:
+  awarded_submissions:
+    - Anchor Transparency Node
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recVxyQ6OUzSnT44d
+  awarded_round:
+    - "SCF #22"
+  awarded_total: 40000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
