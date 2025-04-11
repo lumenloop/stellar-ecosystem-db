@@ -1,0 +1,42 @@
+title: Styx
+other_names:
+  - "Styx: A Soroban-Cosmos Bridge"
+parent: null
+description: A mint/burn bridge connecting Soroban to Cosmos and the larger
+  Blockchain ecosystem.
+links:
+  website: https://figma.com/file/MCNoYBwA8wSAx0Qu4lIB1W/Styx-Design?type=design&node-id=0%3A1&mode=design&t=eQKAcKpzSPhTbLLR-1
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/jj7302/styx-bridge
+linktree: null
+attributes:
+  category: Bridge
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/rKBMIpgSV2wXiRJ0qZhhTA/InLj8J4RQks2VbTKyoYDZgj-YSSLLOla9JUmLXasbNGM8vpEx46I8ymwhtW4TatHEQAF13W37YEn1BLsukx4VAUZRERS4TyxNd1P-9QDR5m8Sqmlrf-sUhBYH0lLWpDdtTCOflmJPkXDntpt87QNFw/EdjPzyGS02FkdEzVhtr7PccGgssq-dKrXIH6cAIw6wc
+  banner: null
+scf:
+  awarded_submissions:
+    - "Styx: A Soroban-Cosmos Bridge"
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/reci8OPZVGDgt0ojE
+  awarded_round:
+    - "SCF #23"
+  awarded_total: 43000
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
