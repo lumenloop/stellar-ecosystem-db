@@ -1,0 +1,46 @@
+title: Mercury
+other_names: null
+parent: Xycloo Labs
+description: Mercury is a cost-effective and efficient indexing service that
+  specialized both on Soroban and Stellar "Classic/Vanilla" indexing. Mercury
+  also offers a cloud service for deploying advanced network-synced programs
+  that need to work with the Network's data.
+links:
+  website: https://mercurydata.app
+  blog: https://https://blog.xycloo.com/
+  x: https://x.com/xyclooLabs
+  linkedin: null
+  discord_server: https://discord.gg/sFwJxM88uK
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/xycloo
+linktree: null
+attributes:
+  category: Indexing
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: " Argentina"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/q8RB8O_IYHTZJX8IbtiBRA/6zO0m7dQAfeuhpvm9BQpKmw0NKVzSCtBnPD2hRcG1ai6YVOaP_vL23Mtm8TQ59M6zeC7Dt7OpQe7XK-rc8HFQv8TsaPTDXFxIAvDuYENMMTdtvqOxwF0BpFEc3ZHfoWu_12t5uNYTbCb72nFecCkWw/34JzM2Uy5-kegB7mU0eN-TLEA8rrye1fofcSpwPOhtg
+  banner: null
+scf:
+  awarded_submissions:
+    - Mercury
+    - The Mercury Ecosystem
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recwq69g0TVuylMjO
+    - https://communityfund.stellar.org/dashboard/submissions/reckeu03BF6X1OFq7
+  awarded_round:
+    - "SCF #19"
+    - "SCF #25"
+  awarded_total: 172000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
