@@ -1,0 +1,40 @@
+title: Bidali
+other_names: null
+parent: null
+description: Bidali is a platform for purchasing digital gift cards with
+  cryptocurrency, bridging crypto usability in everyday transactions, supporting
+  global brands, and ensuring fast, secure payments. XLM and Stellar USDC are
+  supported.
+links:
+  website: https://bidali.com
+  blog: https://https://medium.com/bidali
+  x: https://x.com/bidalihq
+  linkedin: https://linkedin.com/company/bidali
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/bidalihq
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
