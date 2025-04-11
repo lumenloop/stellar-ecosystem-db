@@ -1,0 +1,50 @@
+title: AnChain.AI
+other_names: null
+parent: null
+description: The AnChain.AI Catalog is an open-source catalog of audited smart
+  contracts designed to help companies build web3 projects faster.
+links:
+  website: https://anchain.ai
+  blog: https://https://www.anchain.ai/blog
+  x: https://x.com/AnChainAI
+  linkedin: https://linkedin.com/company/anchainai/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/AnChainAI
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/MWV24HNztSnCkMemFzB92Q/4fJw-n_l4IbrREB4kPftSmnPmWKRCXY_u928Wz7LmaG6P1ZbdyxDOCCXuPDJPebH97fAuxILr0YLdftqp7rw3T_TEH7ZB7zpFcu38GktTcob3DxAezPImHx50crMi-LT7d5AFJASDv5gPhwnXd4-MA/jG-h_hy6GBbErbazOT1qpWF5L57MLiMVEXWS0LaGcgg
+  banner: null
+scf:
+  awarded_submissions:
+    - CISO/BEI Stellar integration
+    - AnChain.AI - Tenzing Smart Contract Catalog
+    - AnChain.AI Web3SOC
+    - AnChain.AI Web3SOC completion
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recuNwIpd0qywbkzi
+    - https://communityfund.stellar.org/dashboard/submissions/rec8A43DCXVKh78FI
+    - https://communityfund.stellar.org/dashboard/submissions/rec0XJ3vYm5B0cls9
+    - https://communityfund.stellar.org/dashboard/submissions/recJS3CwdA4WWlQZx
+  awarded_round:
+    - "SCF #11"
+    - "SCF #15"
+    - "SCF #20"
+    - "SCF #23"
+  awarded_total: 435000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
