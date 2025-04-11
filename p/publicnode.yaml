@@ -1,0 +1,44 @@
+title: Public Node
+other_names: null
+parent: null
+description: A nonprofit organization that supports and brings a trusted and
+  meaningful public voice to open and inclusive blockchain networks.
+links:
+  website: https://publicnode.org
+  blog: https://https://publicnode.org/blog/
+  x: https://x.com/publicnode
+  linkedin: null
+  discord_server: https://discord.gg/pVR29p5NxK
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/publicnode
+linktree: null
+attributes:
+  category: RPC & Nodes
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/_kwpUL78eqEKw82LwwBwng/EuqFOtHoiEk0y1oKFOY9i6nmNVAti39O3geZb-vJyt-pSdAUk1EfMnO0G2W5YgVZQINuFl8ssZvLIrdnmjMtWF5-MFvLh4A9dydSe79uxbLGnRtSndAeJXMPx9jEPG34CuFuUFALKCVYKl2HcEuIMw/Xx-SIvJfKAM8BaNcnzlm0c9YX0xzj2pkCCY096aXmq4
+  banner: null
+scf:
+  awarded_submissions:
+    - Public Node – Nodes funded by community
+    - Public Node
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recTji3f3i7o27OUM
+    - https://communityfund.stellar.org/dashboard/submissions/recyLIn8jG3DJVJz3
+  awarded_round:
+    - "SCF #3"
+    - "SCF #13"
+  awarded_total: 150000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
