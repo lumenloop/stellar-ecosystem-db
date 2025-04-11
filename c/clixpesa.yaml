@@ -1,0 +1,43 @@
+title: Clixpesa
+other_names: null
+parent: null
+description: Clixpesa is a financial technology platform designed to simplify
+  money management and cryptocurrency for users, particularly in Sub-Saharan
+  Africa. It offers services such as low-fee money and crypto transfers,
+  interest-bearing deposits, rewards and discounts, and peer-to-peer loans.
+links:
+  website: https://clixpesa.com
+  blog: null
+  x: https://x.com/clixpesa
+  linkedin: https://linkedin.com/company/clixpesa/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/rizamoyi
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: Kenya
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/PaeRtCrZn7rW5jMKmDdPjA/CACJGRQ_UkKMO6vjOD1iV3BwjcUBWgYEjyzJyd5i7abt5wzc8Gh4EEHBxwWtTIPsVJCnidKBiZVNRKxwTzr1Upe2drc4nQhbu-iZSpZHo9gOUOE_RS7hGkz8vTQkiiFwKDndhBAQr_IY0emnxJEMXsmA6_0EJHAEH0eesOM-cZulAV6aIcY2zunUpu-vovoe/1ZEP_CF31YTI0_4vOhTTw1zIqkwx_RlvgiOx8C1j4no
+  banner: null
+scf:
+  awarded_submissions:
+    - Clixpesa
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recVDX0W60gkrJKWP
+  awarded_round:
+    - "SCF #26"
+  awarded_total: 35050
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
