@@ -1,0 +1,43 @@
+title: Benkiko
+other_names:
+  - '"Benkiko Finance"'
+parent: null
+description: A community scaling micropayment protocol for projects and digital
+  native communities.A community scaling micropayment protocol for projects and
+  digital native communities.
+links:
+  website: https://benkiko.io
+  blog: https://https://benkiko.substack.com/
+  x: https://x.com/BenkikoDAO
+  linkedin: null
+  discord_server: https://discord.gg/ucdnM7JDv3
+  telegram: https://t.me/+OFx5DupqLRE4YTM0
+  youtube: https://youtube.com/channel/UCDDJSrsdE1Bjfr2gqutQ9JQ
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/BenkikoDAO
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: Kenya
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions:
+    - Benkiko Finance
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recgkswpYe1ft72DP
+  awarded_round:
+    - "SCF #9"
+  awarded_total: 40000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
