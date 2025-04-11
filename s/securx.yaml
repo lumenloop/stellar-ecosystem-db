@@ -1,0 +1,42 @@
+title: SecuRx
+other_names:
+  - '"SecuRx - Medical Prescriptions"'
+parent: null
+description: SecuRx makes medical prescriptions safer, easier and more reliable
+  than any previous solution for all healthcare systems worldwide.
+links:
+  website: https://securxtech.wixsite.com/securx
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Verification
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: France
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/Rk2YTCXaSSN_lzKcXl9yRQ/Vysir5LVvCWsSPzLdCtThLNDrgp23q84F5vCz3ha9mgF1kSFX3nRyAgY8XdcYwKT-z3X1EyrtZDuQETTcIe-3EsqS1A7Xo_oxXxJIFzhqEVywyeGo_xVXk-8KDghABaqZx3u-_6kc71z8n8QLSSl_A/zz__cM9QPw0N4a8Luz8OkfQWJrcBSXOPZM6ZFxRfh5w
+  banner: null
+scf:
+  awarded_submissions:
+    - SecuRx - Medical Prescriptions
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recwS9b2xRCHdnssZ
+  awarded_round:
+    - "SCF #27"
+  awarded_total: 42400
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
