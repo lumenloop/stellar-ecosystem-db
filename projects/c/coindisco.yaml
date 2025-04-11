@@ -29,7 +29,7 @@ attributes:
   tags: []
   smart_contracts: true
   regions_services:
-    - Nospecificregionofoperation
+    - No specific region of operation
   country: Hong Kong
 images:
   icon: null
