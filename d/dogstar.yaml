@@ -1,0 +1,43 @@
+title: Dogstar
+other_names: null
+parent: null
+description: Dogstar is a DeFi play & learn platform that gamifies your crypto experience.
+links:
+  website: https://dogstarcoin.com
+  blog: null
+  x: https://x.com/dogstarcoin
+  linkedin: null
+  discord_server: https://discord.gg/wtA4hnDp2j
+  telegram: https://t.me/dogstarcoin
+  youtube: null
+  instagram: https://instagram.com/dogstarcoin/
+  reddit: null
+  tiktok: null
+  github: https://github.com/dogstarcoin
+linktree: null
+attributes:
+  category: Gaming
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: " Spain"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/nkf9c-pQzkYBdc7B5XC9DQ/jXVdsFGw7bLDEYXbyG9za32VfEM4gA1G534g5Kk5XE7wzDoyaIV5UO5enarqH7bThjGnrGzhFut1B6qvbnWKJuRY9PXPsXza1kdgYyr_B9nTVZJZ9u01sXtHN155zwDsCctzFLHgFy1LFq3W742jfRIyj1pP-FRsr4Qx-bxBVfRQW4_zeZpoVZWO3PByA2arYZidh9m0PI9_WCnA2OlZaGtl-N6-p2sC0EPn1dZrx-NDtk1ocewM7En0pXJaIkYm/Fix8vgJwLLp-3agN0KgCbP2QXrx-M4s6yjxLMEQ0sSQ
+  banner: null
+scf:
+  awarded_submissions:
+    - Dogstar
+    - Dogstar League
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recmn1pHr7N7jqA9D
+    - https://communityfund.stellar.org/dashboard/submissions/recOcOlGlsC6BUFmx
+  awarded_round:
+    - "SCF #16"
+    - "SCF #24"
+  awarded_total: 165407.5
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
