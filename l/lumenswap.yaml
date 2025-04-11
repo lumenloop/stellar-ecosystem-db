@@ -1,0 +1,44 @@
+title: Lumenswap
+other_names: null
+parent: null
+description: Lumenswap is a decentralized exchange (DEX) built on the Stellar
+  network, enabling users to swap and trade assets through a user-friendly
+  interface. It leverages Stellar's scalability and low fees to provide fast,
+  cost-effective transactions, and supports popular wallets like Rabet,
+  Freighter, and Albedo for seamless accessibility.
+links:
+  website: https://lumenswap.io
+  blog: https://https://medium.com/lumenswap
+  x: null
+  linkedin: null
+  discord_server: https://discord.gg/98pkKef9wa
+  telegram: https://t.me/LumenswapCommunity
+  youtube: https://youtube.com/channel/UCxyo1M9bSvsjXVu8nOakwTg
+  instagram: https://instagram.com/lumenswapofficial/
+  reddit: null
+  tiktok: null
+  github: https://github.com/lumenswap
+linktree: null
+attributes:
+  category: DEX
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions:
+    - Lumenswap
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recu69dUtviRW6oC7
+  awarded_round:
+    - "SCF #6"
+  awarded_total: 6786.63
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
