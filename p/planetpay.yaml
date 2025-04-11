@@ -1,0 +1,47 @@
+title: Planet Pay
+other_names:
+  - '"Stellar Flow"'
+parent: null
+description: PlanetPay provides advanced workflow tooling, Stellar and Soroban
+  support, and a fully-fledged API for creating non-custodial wallets, KYC/KYB,
+  and global payments, alongside white-label solutions for apps with
+  on/off-ramps and card integrations.
+links:
+  website: https://planetpay.io
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/ScaleMote/flow
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: " Argentina"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/InZRnavHVJEvK_ZP4dk2Bw/5FIr0304l8xYEB05MlGFaJZYxAXV9xOhQMiHAloIUQmH8ecv85fQ0ugl3H5W_LnjRbWUtkeZ9rO6XmYr13OcWBaFW5OkXwE7CQ4_Mg6mZ-TxhwksKj6gZqGPr9Tl4s4ZJyn8FY0N_L8P_v2z2a1KMw/qm6T9o94cEJKGO8t4FCJJx0c08eqvDSUTty2eGXJ99c
+  banner: null
+scf:
+  awarded_submissions:
+    - Stellar Flow
+    - Planet Pay (ex-Stellar Flow)
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec6OemBgG8xOkFk1
+    - https://communityfund.stellar.org/dashboard/submissions/reckrr0bqgDyL0AX8
+  awarded_round:
+    - "SCF #14"
+    - "SCF #21"
+  awarded_total: 144773.28
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
