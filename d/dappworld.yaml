@@ -1,0 +1,41 @@
+title: Dapp World
+other_names: null
+parent: null
+description: Comprehensive learning track on Stellar to help developers onboard
+  and build cutting-edge dapps on Stellar.
+links:
+  website: https://dapp-world.com
+  blog: null
+  x: https://x.com/dappworld100
+  linkedin: https://linkedin.com/company/dapp-world
+  discord_server: https://discord.gg/efYvkwGyYu
+  telegram: null
+  youtube: https://youtube.com/c/DAppWorld
+  instagram: https://instagram.com/dappworld100/
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Data & Onchain Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: India
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/qznGBndnmdC4hdEZeOsRTg/JrFmY_P_ofsaGoTnWzc9tsKxwlKu37WKFm17zE-BvDMO4gLMXjuCEo2WJfoToB_nyYisgeMglnIz9yFg_s-nQjjRHFgQXy2eIY4njIup38sF7q9z1pNvXVcLMfspwcWVeO2jEPwzuIQMOTsyIZGyoA/WXPDZfQZz15T8JKZ4lT7SFYB6HnZJS7M8MPhKt4flug
+  banner: null
+scf:
+  awarded_submissions:
+    - Comprehensive Stellar Track
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec5XtNfCR7Fg86mE
+  awarded_round:
+    - "SCF #27"
+  awarded_total: 14000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
