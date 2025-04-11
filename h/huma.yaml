@@ -1,0 +1,42 @@
+title: Huma
+other_names: null
+parent: null
+description: Huma Finance is the first Payment Financing (PayFi) network,
+  designed to provide instant liquidity solutions for global payments by
+  leveraging blockchain technology.
+links:
+  website: https://huma.finance
+  blog: https://https://blog.huma.finance/
+  x: https://x.com/humafinance
+  linkedin: https://linkedin.com/company/huma-finance/
+  discord_server: https://linkedin.com/company/huma-finance/
+  telegram: null
+  youtube: https://youtube.com/@humafinance
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/00labs/huma-contracts-v2
+linktree: null
+attributes:
+  category: RWA
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/nb37TuRzF7u71nBRjvhzeQ/LWb8MjdW9W5wGJebK82TZlU39AFDrg8dsIdPNsxTAKhlPweAZmESXa-aaY10YTyQScF1ZRWk1hRKtUNboDRg3Bi4GlQ7wSwQTKDUei-IkpxFKbVldokPHi1xN8dig5Fe6IsyndQjvmwJ2cBPJn_t9nTueZS7ujemdaq5hfM1epjaVWMhRwb0HvYooEZYvhHJ/fEpeZqTndtxI2_zR3_ffVumS3bb6Ny-cA3DdjQtrxZU
+  banner: null
+scf:
+  awarded_submissions:
+    - Huma Protocol Smart Contract
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rectN6ErZmODHk69p
+  awarded_round:
+    - "SCF #27"
+  awarded_total: 50000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
