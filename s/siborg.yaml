@@ -1,0 +1,44 @@
+title: SiBorg
+other_names: null
+parent: null
+description: SiBorg is creating a decentralized monetization protocol that
+  transforms media and creator visibility into a new asset class by tokenizing
+  advertising spaces across various interfaces, enabling buyers to speculate on
+  the future growth of publishers.
+links:
+  website: https://siborg.io
+  blog: https://https://mirror.xyz/0x075E07cFacE72E7256a47509C833C1515d2508b6
+  x: https://x.com/SiBorgLabs
+  linkedin: https://linkedin.com/company/siborg/
+  discord_server: https://discord.gg/siborglabs
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://siborg.io
+linktree: null
+attributes:
+  category: Social
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - Europe&CentralAsia
+  country: France
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/sjmMXEYM5imfWiaOPuHHQg/P7PyD6s1g0xlWWvthN3M36rNlpVI4VJcz5PVkcQk9g0A4b4XRmjnlsbxs5ozRVL2-2zCruqWosm-O9V-N2Dwz3vo8Xvt_mpP0Y8_I2jwBBPvso2D2pHqsr3XrxF8llyRg7ChXnTU0JWLqDyQeiLA4g/vs6Bcnbiwh08Z8LDkUv9D6zFKtzvgGajJBt1pyR0s0U
+  banner: null
+scf:
+  awarded_submissions:
+    - "SiBorg: The Future of Sponsorship through Tokenized Advertising Spaces"
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec7DMQ1TCxcapjR3
+  awarded_round:
+    - "SCF #31"
+  awarded_total: 95900
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
