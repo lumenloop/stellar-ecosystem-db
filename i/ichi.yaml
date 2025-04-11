@@ -1,0 +1,42 @@
+title: Ichi
+other_names:
+  - '"Solo Labs"'
+parent: Solo Labs
+description: ICHI offers automated liquidity strategies for DeFi, enabling users
+  to grow any token with low-slippage, on-chain liquidity.
+links:
+  website: https://ichi.org
+  blog: https://https://medium.com/ichifarm
+  x: https://x.com/ichifoundation
+  linkedin: null
+  discord_server: https://discord.gg/cxPGjGTy8V
+  telegram: https://t.me/ichifarm
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/ichifarm
+linktree: null
+attributes:
+  category: DEX
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/u7lTVMRDiPTJey0vpL6UHA/aqDvebAi0kDjJGbm709_R7J-m5m8aBVXYGjCVi_m1nmYRqBlBiY_wNTZj0SxWlrCsvcY0if_JfRYf2MdaGGGX79inoUw3qWNfDF2vEc426YgsGuxDxOP1IA-vxWgBRZd7TZ71gNVSZ1vFErWAizW9dSeDQPtaJoPJ8MQJEE5Icruo1NNo0wUoJ8mhF10gCrg/WM7PhUXC-fnRiQbdmu0f1zPJi5ifDwzDxAcx-PIiNAw
+  banner: null
+scf:
+  awarded_submissions:
+    - Solo Labs Automated Liquidity
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec9s1IHbpcWxvlX6
+  awarded_round:
+    - "SCF #26"
+  awarded_total: 50000
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
