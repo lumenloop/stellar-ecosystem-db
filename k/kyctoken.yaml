@@ -1,6 +1,6 @@
 title: KYC Token
 other_names:
-  - '"KYC Token & UI for RWA"'
+  - KYC Token & UI for RWA
 parent: Building Block Framework
 description: Build a KYC token with Soroban to accelerate the adoption of Real
   World Assets on Stellar for Financial Service Providers.
