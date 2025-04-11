@@ -1,0 +1,38 @@
+title: Wave
+other_names: null
+parent: null
+description: Wave is a mobile money service operating in Africa, allowing users
+  to deposit, withdraw, pay bills, and send money with minimal fees.
+links:
+  website: https://wave.com
+  blog: https://https://www.wave.com/en/blog/
+  x: https://x.com/wave_ug
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
