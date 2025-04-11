@@ -1,0 +1,43 @@
+title: Orally
+other_names:
+  - '"Orally Network"'
+parent: null
+description: On-chain oracles with cross-chain capabilities.Push andpull models
+  withunlimited price feedsandcustom data feeds.
+links:
+  website: https://orally.network
+  blog: null
+  x: https://x.com/orally_network
+  linkedin: https://linkedin.com/company/orally-network
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/@orally-zc1mg
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/orally-network
+linktree: null
+attributes:
+  category: Oracle
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - Europe&CentralAsia
+  country: " Portugal"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/N489hmuAQ4p5xWiqeJGbmQ/2J-G2an4eA2j03jt4PsgNpbj2hcRjjU55F96G5ha6lw4VVvqm2BWA6Ij84h5RTX1j96qAP_y6aEmRT-z9P1HVr5O5SAVN8mTcmRjSnxrupnz3cTUsLsa_061_Lkm9K41qx5vd_XO_1fNf_QDZMjj3w/RpTwrVheWjoBYQ_P4jr4DGF7sQJO3cFDIvh0aZpEKNE
+  banner: null
+scf:
+  awarded_submissions:
+    - Orally Network
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recCLcdUOLt2AvNHe
+  awarded_round:
+    - "SCF #27"
+  awarded_total: 48000
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
