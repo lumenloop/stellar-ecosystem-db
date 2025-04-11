@@ -1,0 +1,42 @@
+title: Abroad
+other_names: null
+parent: null
+description: Payment Layer for Interoperability between Stellar Wallets and QR
+  Fiat Payments.
+links:
+  website: https://getabroad.app
+  blog: null
+  x: https://x.com/payabroad
+  linkedin: https://linkedin.com/company/getabroad/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/abroad.tech
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - LatinAmerica&Caribbean
+  country: United Kingdom
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/3SBkR56GrSMOK4YsEFY7Yg/oqWL6j8VibrWRy4hx94fu-xp8sbZg-kiB6KPN5hHx-20edOZa4_AU1ffm8rEk7H8V9n3kXxQievy1soOXu5w7_1CKaRqi6wMA8mEJpZWrXwB2OyGicADaviUqugVJB8sj92HV0TB3Wmtmy7BMAg43g/tmsSta-RMLuVi1htAk98mSmZ7oLUp1HmgqmRn0ngOGE
+  banner: null
+scf:
+  awarded_submissions:
+    - Payment interoperability for wallets
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recy3we2U8HQUaOR6
+  awarded_round:
+    - "SCF #32"
+  awarded_total: 56120
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
