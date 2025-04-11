@@ -1,0 +1,40 @@
+title: Chartui
+other_names: null
+parent: null
+description: Chartui is a customizable trading client for the Stellar
+  Decentralized Exchange, offering real-time cryptocurrency prices, charts,
+  order books, and recent trades. It aims to provide traders with an efficient
+  and flexible way to interact with the Stellar DeFi ecosystem.
+links:
+  website: https://chartui.com
+  blog: https://https://medium.com/@chartui
+  x: https://x.com/chartuicom
+  linkedin: null
+  discord_server: https://discord.gg/tWmtVyGqs9
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Data & Onchain Tools
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
