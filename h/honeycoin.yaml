@@ -1,0 +1,45 @@
+title: Honeycoin
+other_names:
+  - '"Peer: Flights on Stellar"'
+parent: null
+description: Peer by HoneyCoin is a global, non-custodial financial super app
+  made for the general public and primarily built on Stellar.
+links:
+  website: https://usepeer.co
+  blog: null
+  x: https://x.com/honeycoinapp
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/@honeycoinapp
+  instagram: https://instagram.com/honeycoinapp/
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: Kenya
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/Dim1-HqRRXDDeYef5y5VXQ/QVTQjtKmtHBSmq9holEVKTGb9bw6UHhcumePrjYuEuAR4r_hKxTCvRPiNo6QyJiYtFCbpeNXps0Hp4F2AxmtxV8960uO-mithonTy3WzLvn36t9fMFtmvMUEOVDZnb5j90UcLd2xKk0Qx3ToZv_fdgPx8LobLqgZt87_YwpRmtr9IExydoFvjQvX0cNn__TJ/pE3woqxy-ZB-C4kWSftWbrClVc30uaskFlw9RKF7lnk
+  banner: null
+scf:
+  awarded_submissions:
+    - "Peer: Flights on Stellar"
+    - "Peer: The everything app."
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recUT585587cLfVlX
+    - https://communityfund.stellar.org/dashboard/submissions/recQmFbAAi5u83EE5
+  awarded_round:
+    - "SCF #22"
+    - "SCF #26"
+  awarded_total: 145000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
