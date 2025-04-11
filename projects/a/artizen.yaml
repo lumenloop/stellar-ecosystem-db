@@ -21,13 +21,13 @@ attributes:
   tags: []
   smart_contracts: null
   regions_services:
-    - LatinAmerica&Caribbean
-    - SouthAsia
-    - EastAsia&Pacific
-    - MiddleEast&NorthAfrica
-    - Europe&CentralAsia
-    - NorthAmerica(withoutMexico)
-    - Sub-SaharanAfrica
+    - Latin America & Caribbean
+    - South Asia
+    - East Asia & Pacific
+    - Middle East & North Africa
+    - Europe & Central Asia
+    - North America (without Mexico)
+    - Sub-Saharan Africa
   country: United States
 images:
   icon: null
