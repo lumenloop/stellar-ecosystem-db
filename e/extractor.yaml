@@ -1,0 +1,42 @@
+title: Extractor
+other_names:
+  - '"Extractor - Soroban Security"'
+parent: Hacken
+description: Extractor is a Post Deployment security solution that provides
+  multi-level asset protection in smart contracts against exploitation.
+links:
+  website: https://extractor.live
+  blog: null
+  x: https://x.com/hackenclub
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/haas-labs/extractor
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/O0NHv_DjaRk1h5lUZJ8ugQ/ymT7fcYytiwHgK9oYYrMI8zRA2Zm0PfnpRwY6-Vt3V_NXNuRLY2gGmvIxOMWhMhigdM2BEA_3G_YSmS9JVxV1DqwkwmdIR6D94I_Ilsi0itVgOrLuLjbx5e6PKMRyWLzlC0BOVL4YPYu7AuRVXlt9g/2o9ILvXM-05gtogLWSZq_mp_zNFIJuaj6YJcZBiqBNY
+  banner: null
+scf:
+  awarded_submissions:
+    - Extractor - Soroban Security
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recUoH70iB9pNdgYR
+  awarded_round:
+    - "SCF #21"
+  awarded_total: 50000
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
