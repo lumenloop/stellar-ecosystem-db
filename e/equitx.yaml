@@ -1,0 +1,45 @@
+title: EquitX
+other_names: null
+parent: null
+description: Seamlessly diversify your portfolio by investing in small-cap
+  stocks as crypto assets on the Stellar blockchain.
+links:
+  website: https://equitx.com
+  blog: null
+  x: https://x.com/Equit_X
+  linkedin: https://linkedin.com/company/equitx/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/EquitXCompany
+linktree: null
+attributes:
+  category: RWA
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - Europe&CentralAsia
+  country: " France"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/OKPBpmzTZoXny3PbmtX0lg/d_bhFzeIkKep-9sGR0fldriKM0mtomQY1_EVCIi1JsO7IZ4ADlpRU70CY6HpgLIH6Z8OYY5rCLCX7mcfecj9EIcxo6V5RFugG4DP1W-9Wufkf8kmPJlAM4F3QDhLfUmQYoQeXamqsv8RMRG3sJXEtQ/kd8fjKESI2XWAtPzNVQHeN_zCH-gzAz1cuUWr_jswLQ
+  banner: null
+scf:
+  awarded_submissions:
+    - "EquitX: Invest in Small Caps"
+    - EquitX - Phase 2
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recgGcVWMy7qp8CAd
+    - https://communityfund.stellar.org/dashboard/submissions/recVpLJSgXgMroJVF
+  awarded_round:
+    - "SCF #26"
+    - "SCF #31"
+  awarded_total: 150300
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
