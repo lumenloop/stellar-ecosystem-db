@@ -1,0 +1,47 @@
+title: Token Tails
+other_names: null
+parent: null
+description: Token Tails is a Web3 play-to-save game where players adopt virtual
+  NFT cats linked to real shelter cats, combining gaming with philanthropy. By
+  caring for their virtual pets and participating in various in-game activities,
+  players earn tokens and contribute to the welfare of real cats in shelters.
+links:
+  website: https://tokentails.com
+  blog: https://https://tokentails.com/feed
+  x: https://x.com/tokentails
+  linkedin: https://linkedin.com/company/token-tails/
+  discord_server: https://discord.gg/4FVYmnd7Hg
+  telegram: https://t.me/+ofyPNIfNX5w4ZjM8
+  youtube: null
+  instagram: https://instagram.com/tokentails
+  reddit: null
+  tiktok: https://tiktok.com/@tokentails
+  github: https://github.com/zbagdzevicius/tokentails
+linktree: null
+attributes:
+  category: Gaming
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - Europe&CentralAsia
+  country: Lithuania
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/XhREXpEBGTa0-vUNj_kfJA/tC2d_jIJno_1nA_1Z4ON8i3AsYRacYu2Kzx1cW_WTlrND6bHDj3iiogN92AIaB4THFB79E3zQH6lfU7SIb_vMBCTzd1yRH-fAA6mBhta8aVoep8i1WSo38Dd_zyAMTA-MmFIrRQFCjdy7WtgDEZZQQ/c6blehyy6ykt-EQLsLARRBSV9uiCtpoNvOk0U037ePw
+  banner: null
+scf:
+  awarded_submissions:
+    - Token Tails
+    - Token Tails - Play to Save gaming franchise that is all around cats
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/reco9b4GbncGKoSNb
+    - https://communityfund.stellar.org/dashboard/submissions/recEC30UHrhQ3h2Ue
+  awarded_round:
+    - "SCF #26"
+    - "SCF #30"
+  awarded_total: 144000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
