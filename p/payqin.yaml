@@ -1,0 +1,53 @@
+title: PayQin
+other_names:
+  - '"PayQin: Blockchain made simple"'
+parent: null
+description: PayQin is a financial platform powered by USDC on the Stellar
+  network, offering USD wallets for storing, sending, and receiving funds
+  seamlessly. Through integration with MoneyGram, it enables users in over 183
+  countries to access fast, affordable cross-border transactions, promoting
+  financial inclusion in underserved markets.PayQin is a financial platform
+  powered by USDC on the Stellar network, offering USD wallets for storing,
+  sending, and receiving funds seamlessly. Through integration with MoneyGram,
+  it enables users in over 183 countries to access fast, affordable cross-border
+  transactions, promoting financial inclusion in underserved markets.
+links:
+  website: https://payqin.com
+  blog: null
+  x: https://x.com/PayQinn
+  linkedin: https://linkedin.com/company/payqin/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/payqin/
+  reddit: null
+  tiktok: null
+  github: https://github.com/alinkon0207/payqin_stellar-web
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - Sub-SaharanAfrica
+    - NorthAmerica(withoutMexico)
+    - Europe&CentralAsia
+  country: Côte d'Ivoire
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/NR6hCt4sJgaseiClxcHfRg/q6gYhc7dqrJUWWJ3-A8f0P6JkiInZuHvlX0chii7YBcs50-LwQX5yUuf70jjnblWbiHVLyNbyXXSzookGAOf62Ij8c7PIRZDgsdABsQ7HgB4NH0zcTLCwdzrWbIgDgi6xWgpWS7gxC_xvvAar8Ffcg/uS15iZPjoKDnwN_KsLevnGecsJJrmAOx5AG-t_sasSo
+  banner: null
+scf:
+  awarded_submissions:
+    - "PayQin: Blockchain made simple"
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recQjC4JOmJ9hfjD9
+  awarded_round:
+    - "SCF #31"
+    - "SCF #28"
+  awarded_total: 100000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
