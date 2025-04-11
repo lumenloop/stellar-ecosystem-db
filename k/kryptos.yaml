@@ -1,0 +1,55 @@
+title: Kryptos
+other_names: null
+parent: null
+description: Kryptos is a comprehensive platform that streamlines cryptocurrency
+  tax reporting, portfolio management, and transaction tracking for individuals,
+  accountants, and enterprises. Supporting over 5,000 integrations, including
+  exchanges, wallets, and DeFi protocols, it automates tax calculations and
+  provides real-time financial insights to ensure compliance with global
+  regulations.Kryptos is a comprehensive platform that streamlines
+  cryptocurrency tax reporting, portfolio management, and transaction tracking
+  for individuals, accountants, and enterprises. Supporting over 5,000
+  integrations, including exchanges, wallets, and DeFi protocols, it automates
+  tax calculations and provides real-time financial insights to ensure
+  compliance with global regulations.
+links:
+  website: https://kryptos.io
+  blog: https://https://kryptos.io/blog
+  x: https://x.com/KryptosConnect
+  linkedin: https://linkedin.com/company/hellokryptos
+  discord_server: null
+  telegram: https://t.me/hellokryptos
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Kryptoskatt
+linktree: null
+attributes:
+  category: Data & Onchain Tools
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - Europe&CentralAsia
+    - NorthAmerica(withoutMexico)
+    - SouthAsia
+  country: Sweden
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/Y0fx9DZnRvl2DAbbGEzHgw/0lJuICnRrYyZC-LZcFOHQ0QqmGDQYx0-3A0S5BkF6oHTnQUJdn1SX9bUzi6E3xZuUAez_WScMGuHoJ0-lBcIieJlyMllGH2o8X_6LAMN6Wf7JUq4Q8E4WXVVR5_D4mg4imysvTYL8EknIR_la2wSUYlBXsMRMF9BJPJc1qhVYb4/ObwcZUvBI-pTQA03x8gnzh4q-FNVYZsJdX3aQvMnhTg
+  banner: null
+scf:
+  awarded_submissions:
+    - Enabling PMS
+    - Accounting
+    - Tax and other FinTech solutions to Stellar Ecosystem
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec8oYbd5tHsa1sGc
+  awarded_round:
+    - "SCF #30"
+  awarded_total: 35000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
