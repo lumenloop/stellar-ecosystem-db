@@ -22,9 +22,9 @@ attributes:
   tags: []
   smart_contracts: false
   regions_services:
-    - MiddleEast&NorthAfrica
-    - Sub-SaharanAfrica
-    - Europe&CentralAsia
+    - Middle East & North Africa
+    - Sub-Saharan Africa
+    - Europe & Central Asia
   country: United Kingdom
 images:
   icon: null
