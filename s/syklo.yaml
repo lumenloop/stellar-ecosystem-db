@@ -1,0 +1,42 @@
+title: Syklo
+other_names: null
+parent: null
+description: By installing the Syklo Pay WooCommerce plugin, businesses would
+  allow their customers to pay with any off-chain local currency (ARS, BRL, COP,
+  VES, etc…) and receive USDC on Stellar.
+links:
+  website: https://syklo.io
+  blog: null
+  x: https://x.com/Syklo_App
+  linkedin: null
+  discord_server: null
+  telegram: https://t.me/Syklo_app
+  youtube: https://youtube.com/@Syklo
+  instagram: https://instagram.com/syklo_app/
+  reddit: null
+  tiktok: null
+  github: null
+linktree: https://linktr.ee/SykloApp
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/CBs1patOnd0wAPFTlLS9Mw/rsxYZXMUMBJzymt2TvfmkMGJ0T7i-4Gjf6wavjw2GBKvEuqf-LdEk6XlKBrXv6syhkXbJ8FJx-diCgaelB3kT1uGPUmKAnkRdoNS-ZWQ7dmwTKaDKItZQN-u803s63fsGWRr_iuemzl1QffqwD3JEQ/-e7m9lvRrStpSdI1ugngkgYAKss7hxj11MSunTbSOWA
+  banner: null
+scf:
+  awarded_submissions:
+    - Syklo WooCommerce integration
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recnQwmWOJN7EZPmj
+  awarded_round:
+    - "SCF #19"
+  awarded_total: 25100
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
