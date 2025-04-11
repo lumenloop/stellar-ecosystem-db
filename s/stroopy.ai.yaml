@@ -1,0 +1,41 @@
+title: Stroopy.AI
+other_names: null
+parent: null
+description: Smart AI assistant for the Stellar community. Designed to help
+  users navigate across the Stellar ecosystem with ease, 24/7.&nbsp;.
+links:
+  website: https://stroopy.ai
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: " Canada"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/wf6h0M3kjLT9Agd6L0CS9A/AtGEkkF6eRjxRutsO5Qk_0Jn93IaQGlID5e5vFuPKp56qD_5iS6EpIkYfr2HXdgtXRQNyt1FCHBqanWqLDvUS0T-QqoBdXoYYSjdZWjulM4qUZ_3HrEhf2NCcWSU0JoA5_Wnlp75uSZNCgwlmg5mkfdyzrgLz3lx3KL0vbdeepI/gYA-Iq5bRCWT5ZzaZN8ceBgtDQfYJrBS2peLU72J0G0
+  banner: null
+scf:
+  awarded_submissions:
+    - Stroopy.AI
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recrI2qG6eVcHi3MA
+  awarded_round:
+    - "SCF #20"
+  awarded_total: 21370
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
