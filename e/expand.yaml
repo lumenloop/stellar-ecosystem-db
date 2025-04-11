@@ -1,0 +1,46 @@
+title: Expand
+other_names:
+  - '"Expand Network"'
+parent: null
+description: Expand.network offers a unified API that connects developers to
+  over 100 decentralized finance (DeFi) endpoints across more than 40
+  blockchains and protocols, including both EVM and non-EVM platforms.
+links:
+  website: https://expand.network
+  blog: null
+  x: https://x.com/expand_network
+  linkedin: https://linkedin.com/company/expandnetwork/
+  discord_server: https://discord.com/invite/UFMK7s5fwC
+  telegram: null
+  youtube: https://youtube.com/@expandnetworkofficial
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/expand-network
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/_WzbNiDTMHOu7c-8cUZT8A/ogig81sSGOvQrbeOwxo_j8emH0-NgS7m5ac3YsnrvkY7SfP05z4gyWNl2VhKlYV6nCvw66yyWVRcS00_qGQg-1SmDhcq9g3rHCpjT8sY9lW4hsWYY7XLkxBsHrpzHJGAWTtz8qRgX1wbgtt6bEtg7nHiBeIhMmpwHAPQL-f09hM/mrGfwdQRr5fdj0D0N8EwE1f-f1X3TtQSYumQdFxAEQA
+  banner: null
+scf:
+  awarded_submissions:
+    - Expand Stellar Integration
+    - Expand Phase 2 Integration
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recuWJCnqLfUFlLke
+    - https://communityfund.stellar.org/dashboard/submissions/recCaiDDtiKwH9Dah
+  awarded_round:
+    - "SCF #24"
+    - "SCF #26"
+  awarded_total: 137000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
