@@ -1,0 +1,41 @@
+title: Stellar Dashboard
+other_names: null
+parent: null
+description: The Stellar Network Dashboard provides real-time metrics and
+  insights into the Stellar network's performance, including lumen supply
+  statistics, transaction volumes, and network status. It serves as a valuable
+  resource for developers, investors, and users to monitor the health and
+  activity of the Stellar ecosystem.
+links:
+  website: https://dashboard.stellar.org
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/stellar/dashboard
+linktree: null
+attributes:
+  category: Data & Onchain Tools
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
