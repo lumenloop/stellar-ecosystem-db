@@ -1,0 +1,41 @@
+title: StellarStrides
+other_names: null
+parent: null
+description: Simplifying the complexities of branding and marketing in the
+  blockchain realm to empower projects within the Stellar ecosystem.
+links:
+  website: https://stellarstrides.xyz
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/KD63zFW4_ra8IQNsxvXg1w/_mErDnnLFt21Kw7syhTmifBfkwBQp8YPR6rKvPDRqBwr8pwrBzSPixDQQ6DAc2zLu9_uxC48TAHnsU-arjxZ306lb7qtZPN1VWJ1JFo8fDoA01ZCtLCuKybjYTNt9ixIHA-DvGfnkkDGNhhl293Xog/a1WXS3QrqKHvu9clDAfzOQMf-CcmQEUjxSYje4NSKCs
+  banner: null
+scf:
+  awarded_submissions:
+    - StellarStrides
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recSjtVmMF6aLUoTp
+  awarded_round:
+    - "SCF #22"
+  awarded_total: 14500
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
