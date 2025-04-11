@@ -1,0 +1,49 @@
+title: InstantDAO
+other_names: null
+parent: null
+description: Enables Stellar asset issuers to quickly turn their asset into a
+  governance token. InstantDAO offers a TOML loader and editor that allows the
+  issuer to easily customize the configuration for their DAO. They can specify
+  the ballot account, minimum voting power for proposals, quorum to pass
+  proposals, and other options for their specific needs.Enables Stellar asset
+  issuers to quickly turn their asset into a governance token. InstantDAO offers
+  a TOML loader and editor that allows the issuer to easily customize the
+  configuration for their DAO. They can specify the ballot account, minimum
+  voting power for proposals, quorum to pass proposals, and other options for
+  their specific needs.
+links:
+  website: https://instantdao.io
+  blog: null
+  x: https://x.com/instantdao
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: DAO & Governance
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions:
+    - InstantDao
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recxPZW5xXAdnBNSq
+  awarded_round:
+    - "SCF #8"
+  awarded_total: 50000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
