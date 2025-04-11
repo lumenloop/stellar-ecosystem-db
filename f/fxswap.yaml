@@ -1,0 +1,41 @@
+title: FX Swap
+other_names:
+  - '"FX Swap by Hedgehog"'
+parent: null
+description: An efficient and alternative way of foreign currency borrowing or investing.
+links:
+  website: https://hedgeeffective.com
+  blog: null
+  x: null
+  linkedin: https://linkedin.com/company/hedgeeffective
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: DEX
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/u88YIK2Ww0_xTRkK6_Tsrw/Z9kig5OZkVJiiprFLPJggO85XhCD5HmSmsVmEJPSpRmR5icg1alr9JtzTw2t0UYhFcKKMDYehGw7DAnyy26fcgKCw2R79VFrdzZlSTNPZN07PWJT_C9jFVI0Ro79lIrAdteg8i9h2v2d0ZxLnhOk_g/q-2SvM1vLhCHSgSD52PjacpjXcTD-D-Sghdox_D9wrs
+  banner: null
+scf:
+  awarded_submissions:
+    - FX Swap by Hedgehog
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec5LpAd2YYGkMTnZ
+  awarded_round:
+    - "SCF #21"
+  awarded_total: 42450
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
