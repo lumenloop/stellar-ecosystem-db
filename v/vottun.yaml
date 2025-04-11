@@ -1,0 +1,44 @@
+title: Vottun
+other_names:
+  - Vottun developer platform
+parent: null
+description: Vottun is a developer platform that simplifies the creation,
+  deployment, and management of Web3 applications by providing APIs and tools
+  for seamless integration of blockchain technologies, including support for
+  Soroban smart contracts on the Stellar network.
+links:
+  website: https://vottun.com
+  blog: https://https://medium.com/@vottun
+  x: https://x.com/Vottun
+  linkedin: https://es.linkedin.com/company/vottun
+  discord_server: https://discord.gg/4xcg8m9w
+  telegram: https://t.me/vottuncommunity
+  youtube: https://youtube.com/@vottun
+  instagram: https://instagram.com/vottun_/
+  reddit: null
+  tiktok: null
+  github: https://github.com/vottundev
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: " Spain"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/j-nqkH9nO3r4KGjBr7MyhQ/NWCLnoyJzAyzT9xio4HlaXsCIxTNZXxO1gqLRlBAoc2qnzwpWsB30OYa25lzJjpkwSWv0mNYpTt_dEih5yHPK8SWmYUxIISH1yXKWsy7PyAW0U7ENS9h2ipMi-PTMIMtl5APy54gfasx0Hwzq7389A/GBPfVOwCnsOWtM-z9HnuqjYvTAlof74LBCW1FbFMzew
+  banner: null
+scf:
+  awarded_submissions:
+    - Vottun developer platform
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recWOr4dRl7ZqEThk
+  awarded_round:
+    - "SCF #27"
+  awarded_total: 50000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
