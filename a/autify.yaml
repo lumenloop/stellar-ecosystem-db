@@ -1,0 +1,43 @@
+title: Autify
+other_names:
+  - '"Autify Network"'
+parent: null
+description: Autify Network is a supply chain management platform that leverages
+  blockchain and AI technologies to enhance transparency, traceability, and
+  trust across global supply chains.
+links:
+  website: https://autifynetwork.com
+  blog: https://https://autifynetwork.com/the-blog/
+  x: https://x.com/autifynetwork
+  linkedin: https://linkedin.com/company/autify-network/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/autify_network
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: India
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/RDr-6rHKkMqRcfrZTMHYlw/v3Jq4NDMeCZa1Xqk9ctvUgDJTDLGqR-mgxZPuwXTI81UhtoyCQg5O_qVHlbYolnQE3dgjx_e7dsJ0gL0sXvyUuz5mHmYlxTQxjJMYZRpKpIiH1M7s19PjqmRGbyOPUQOy9l3j5UFJ8NY-v6TQSXUZw/SB0Q1kf70M1m-oeRyGi1_PGDyURUtRSPUALyQEPt5z8
+  banner: null
+scf:
+  awarded_submissions:
+    - Autify Network
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recTAiDefI9ZNxR9E
+  awarded_round:
+    - "SCF #14"
+  awarded_total: 15000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
