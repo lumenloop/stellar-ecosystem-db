@@ -1,0 +1,47 @@
+title: Steepx
+other_names:
+  - '"Steepx Stellar Explorer"'
+parent: null
+description: Steexp is a ledger explorer for the Stellar network, providing
+  users with detailed insights into operations, transactions, ledgers, assets,
+  anchors, and exchanges. It supports multiple networks, including public, test,
+  and future networks, and offers features like transaction history, asset
+  information, and exchange data.
+links:
+  website: https://steexp.com
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/chatch/stellarexplorer
+linktree: null
+attributes:
+  category: Block Explorer
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/fP6aBfUMgnoWVFDKk1HwcA/cjsnl2JywVlNuUgh7fGMIvXlTENR3i7mEQ4vb7GIM-oltHEvSjcWhRVvoydBaYCtVafl5k2f-nTdOaRUcEUVfmmTEjGTWK2CPBYARFexuc6kOLSrOSRXp05Eq_JngTZ7BYVCEll5yE_JU8JbdXJCkQ/uEEmGOe5groiQPI9_CDec20pECVmyE_Xgedz5Pf6CoU
+  banner: null
+scf:
+  awarded_submissions:
+    - Stellar Explorer
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recZKQqHZYKuHG5Ib
+    - https://communityfund.stellar.org/dashboard/submissions/reccUoeNl7hFKThtM
+  awarded_round:
+    - "SCF #16"
+    - "SCF #20"
+  awarded_total: 31100
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
