@@ -1,0 +1,50 @@
+title: Aquarius
+other_names: null
+parent: null
+description: Aquarius is a liquidity layer designed to incentivize market-making
+  and liquidity provision on the Stellar network's native decentralized exchange
+  (DEX) and automated market makers (AMMs). It utilizes AQUA tokens to reward
+  liquidity providers, with the community voting on which markets to
+  incentivize.
+links:
+  website: https://aqua.network
+  blog: https://https://medium.com/aquarius-aqua
+  x: https://x.com/aqua_token
+  linkedin: null
+  discord_server: https://discord.gg/sgzFscHp4C
+  telegram: https://t.me/aquarius_official_community
+  youtube: https://youtube.com/@aqua.network
+  instagram: null
+  reddit: https://reddit.com/r/AquariusAqua/
+  tiktok: null
+  github: https://github.com/AquaToken
+linktree: null
+attributes:
+  category: AMM
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: Saint Vincent and the Grenadines
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/bIcCUDNrpqxpAtFUtwIL-g/OoB3Tr8A1rxunjZBid79AH9Nd5tB8dosQWSsKfu0BZpk2lGt5IZOML8BvTK72GQ4mcyTqocdabMEgCKW_HvrLOMOaoFFxVTFJrZZNEWPnkgL-4kQxLQbIIp1_AHLWOrGCUmSn8d5CCa48tBpNYaNXQ/zfLy5SUJ630pa1IrJP07_DOVIL1uuUUdHZtWnv-gAU0
+  banner: null
+scf:
+  awarded_submissions:
+    - Soroban & Aquarius
+    - Aquarius AMM Launch on Soroban
+    - Aquarius Soroban Yield Bridge
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recRUJxeF1PdlM6aV
+    - https://communityfund.stellar.org/dashboard/submissions/recmDHN0X0EQoxVWw
+    - https://communityfund.stellar.org/dashboard/submissions/recn8gHxphN9KtVXj
+  awarded_round:
+    - "SCF #17"
+    - "SCF #23"
+    - "SCF #27"
+  awarded_total: 291000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
