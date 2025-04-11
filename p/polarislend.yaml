@@ -1,0 +1,41 @@
+title: Polaris Lend
+other_names:
+  - '"Fixed Rate Fixie"'
+parent: Jet Protocol
+description: CLOB-based fixed rate fixed term lending.
+links:
+  website: https://jetprotocol.io
+  blog: https://https://medium.com/jetprotocol
+  x: https://x.com/JetProtocol
+  linkedin: null
+  discord_server: https://discord.gg/RW2hsqwfej
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/jet-lab/polaris
+linktree: null
+attributes:
+  category: Lending & Borrowing
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/xQR0AZv4LdPB_m1rx96_QQ/rdfk8oWBoVs0qwVkfKmHDXmYigfxH72PjKfxq6n4YqcoDgFJ5ykkleOGy_EuN7hvG020a93ptaJ9m2zzF4Du8TNPqzTN-aFl1RmCyTgWZfea4XjCoWxocc0ZBnSJoG7UXqwp_5O6orVAbA9Z1nyZTw/sHzKkGwwV50FOKZXwhk65dPXTl5DzsUlrz2XOJKWpFs
+  banner: null
+scf:
+  awarded_submissions:
+    - Polaris Lend (Former "fixie")
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec1JSgNcanaFgHJ5
+  awarded_round:
+    - "SCF #21"
+  awarded_total: 54900
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
