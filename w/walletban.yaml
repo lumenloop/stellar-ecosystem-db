@@ -1,0 +1,41 @@
+title: Walletban
+other_names: null
+parent: null
+description: Walletban is an effortless, walletless onboarding solution for
+  devs, allows you to deploy SACs, and interact with chain via REST!.
+links:
+  website: https://walletban.xyz
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/walletban
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/6uHW5YO_R4a9D84w0afqeQ/HMf0pTw8CmHg9bHUlicC01PhLk6IYTRz3HjI1HQntol6I8fu9-gHWwZGZNtGrnfs24U9bE9w9O7LFu5ElqZxE3ndb-y-0dNBPtbn-CxxYv6Tnht3ZIk6zot_SSc01erK1Tp8IKqf-acmp4rhSP_3bA/MjoehILgUbGQp_fAoJQfmClNPhCvS6Iy5A-hgiW_lkg
+  banner: null
+scf:
+  awarded_submissions:
+    - Walletban
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recdrPETj4S6sFkPc
+  awarded_round:
+    - "SCF #20"
+  awarded_total: 20000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
