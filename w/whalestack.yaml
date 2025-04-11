@@ -1,0 +1,47 @@
+title: Whalestack
+other_names:
+  - COINQVEST
+parent: null
+description: A cryptocurrency payment gateway and API solution that enables
+  businesses to accept and settle payments in digital currencies like Bitcoin,
+  Ethereum, and Stellar Lumens, converting them into fiat currencies such as USD
+  or EUR.
+links:
+  website: https://coinqvest.com
+  blog: null
+  x: https://x.com/WhalestackHQ
+  linkedin: https://linkedin.com/company/whalestack/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/whalestackhq
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/uJm5rwk2QV43hFOxteVymQ/G3Jx6d_-BfDGGl6kpXsMUSiD0IjRFFLNJTGbvbvAxAwMWIjTTLoSgwsO0_oDB8cu-Npr8SXRllCglJlK97n6gKsKL1ZNqxuCfD3pLo2pO0pggqdR4l5CcdrAVqgXLuPcSJu4InvOtiy9essGKlRuBdGrIP0JWBc0IIl-wuguVl6oRGEklhEmrBV9AHjX1Ww2z5YXMcmfJ9T4Y__r6kukKQ/z9UE0GKUvzMstCLwrXA6U6625HASTLD-2izLN1dWMFg
+  banner: null
+scf:
+  awarded_submissions:
+    - COINQVEST
+    - COINQVEST - Enterprise Payment Processing
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recTcTox813mQJThm
+    - https://communityfund.stellar.org/dashboard/submissions/recclYO5p5WMKnecg
+  awarded_round:
+    - "SCF #4"
+    - "SCF #7"
+  awarded_total: 354506
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
