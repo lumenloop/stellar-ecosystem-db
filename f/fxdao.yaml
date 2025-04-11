@@ -1,0 +1,41 @@
+title: FxDAO
+other_names: null
+parent: Creit Tech
+description: Debt issuance protocol for the issuance of decentralized
+  stablecoins backed by XLMs.
+links:
+  website: https://fxdao.io
+  blog: https://https://fxdao.io/blog
+  x: https://x.com/FxDAO_io
+  linkedin: null
+  discord_server: https://discord.gg/Ftrx9X6YRk
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/FxDAO
+linktree: null
+attributes:
+  category: Lending & Borrowing
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: Chile
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/2LT75RjeyUC4JtRMOXQ0cw/23F4LLYbfyTgg29YyeSA12XqpkXuAKbuIA6RqzLlfbpeZXwt4A3IlbrzwcryPoSVa6ZbGpnn9zHG3OErXO4bERFxLd1Xd9joayvyeKJoHzmr-EDqKv4e2NWqeS7zaY6vNsWTJmXlT9nt3Qqj39v26Q/oMFTzjQCqFNqnZ60syxT7xAMk4DN2MXaXldIKqJahek
+  banner: null
+scf:
+  awarded_submissions:
+    - FxDAO
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recAC4HtF0qVZ5yww
+  awarded_round:
+    - "SCF #13"
+  awarded_total: 74800
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
