@@ -1,0 +1,41 @@
+title: Stellar Light
+other_names: null
+parent: null
+description: Explore and Navigate dApps, Tools, Stablecoins, DAOs, Wallets, NFTs
+   & more built on Soroban.
+links:
+  website: https://stellarlight.xyz
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Stellar-Light
+linktree: null
+attributes:
+  category: Data & Onchain Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: " Canada"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/GjrDR4peicRt38GzklPglA/SuXdBn2dM6Hmsa0Lpdp5T9HB7U34r8a7MU343X0w523UuqFyX8ffA6apPChI4li4WiQlWA-tUWfNFG5EfLNhAa9t6jt54nM4qJc4bgpiPeMGYZqbJjiM2u2qMeZzU3dWoERUY_lIWZqguXgUGW49fZXp05op1pEk02nM5NCWrss/Ur5Tw54f9eISr1yA33dSWWp_kloPIM3rd1lpsZkNbQ0
+  banner: null
+scf:
+  awarded_submissions:
+    - Stellar Light
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recvrlsJ7CvVR5aLv
+  awarded_round:
+    - "SCF #22"
+  awarded_total: 13000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
