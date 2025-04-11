@@ -1,0 +1,41 @@
+title: Wirecash
+other_names: null
+parent: null
+description: Wirecash offers virtual currency payments to suit all your needs,
+  whether you're a small or large company, or an individual.
+links:
+  website: https://wirecash.com
+  blog: null
+  x: https://x.com/wirecash
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/wirecash
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: " Germany"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/lP-w_rhG87yoYYucE9qXsg/tcpDv_yYx_3hRfg0Vof032ELVQsWMlT-mmCagsyM2Nbfb05cShR8li78dopDMotSteolfGPzyirXIij6WxFVcnYzSIkR4z-f48PMNhMSVQpBgv1R5vu_8Fr6BJq9XvTaN9kyBjRLSLGBASo3fwyDxQ/qeclbNKRDDVxXmjor7U5im4j8Ds8NlviA92DKVmUHb4
+  banner: null
+scf:
+  awarded_submissions:
+    - Wirecash
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rectAXtdhsFXyPWfP
+  awarded_round:
+    - "SCF #11"
+  awarded_total: 100000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
