@@ -1,0 +1,46 @@
+title: Sentit
+other_names:
+  - '"Sendit"'
+parent: null
+description: Sentit is a non-custodial blockchain wallet emphasizing
+  cross-border payments, offering a straightforward solution for transferring
+  money via email through the Stellar blockchain.Sentit is a non-custodial
+  blockchain wallet emphasizing cross-border payments, offering a
+  straightforward solution for transferring money via email through the Stellar
+  blockchain.
+links:
+  website: https://sentit.io
+  blog: https://https://sentit.medium.com/
+  x: https://x.com/Sentit_official
+  linkedin: https://linkedin.com/company/sentit-official
+  discord_server: https://discord.gg/pjWygBM2
+  telegram: https://t.me/sentit_wallet
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: " Nigeria"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/6kFwerzxx0s9K82cwUlKeA/oGGNy_YEBapd2TP2OvSlVvPiLuBIyYttQo9DuIWWmkj4a_zR9dSQpeOCddVyH7BAdFTw7_UyM1gldflkiK6ErtMxKzFc2etOAoxBJNY2ex3N5w5IYdOvWJfnlTcNF8-6JtFhqc9N34d30f-A0G-7VA/y0e_HXAIJkU22pEwnrKkvIU6K--UtceCyX_XMXCXzlo
+  banner: null
+scf:
+  awarded_submissions:
+    - Sentit
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec54XD3QmAUoMA1r
+  awarded_round:
+    - "SCF #10"
+  awarded_total: 55000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
