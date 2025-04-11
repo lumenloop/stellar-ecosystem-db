@@ -1,0 +1,44 @@
+title: StreamingFast
+other_names:
+  - StreamingFast (core dev team at The Graph)
+parent: null
+description: Firehose and Substreams integration to bring a non-EVM chain to The
+  GraphFirehose and Substreams integration to bring a non-EVM chain to The
+  Graph.
+links:
+  website: https://streamingfast.io
+  blog: https://https://www.streamingfast.io/blog
+  x: https://x.com/streamingfastio
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/streamingfast
+linktree: null
+attributes:
+  category: Indexer
+  tags: []
+  smart_contracts: true
+  regions_services:
+    - NorthAmerica(withoutMexico)
+  country: " Canada"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/aycZvZBbX1d1KfbPkmOApA/W_QD5PS8qUeXnfaSgUyNKZJGhoMIqU-Q-wMA_NCHr_MAkbAoGgnogPXfrwgZTtyhVqtT7jHf6h9o7WSsF8_2Ehg-JGNPoPmrR6veaiD-5FtvG1CN-wC_4wX7O13qXenenM_VneUwIB_ZzKMp1_EAsw/-e8xnWRwHv6qgxUWMPlHpK6X5RxV-rHDgndJ5wdZQZU
+  banner: null
+scf:
+  awarded_submissions:
+    - The graph indexing stack integration of Stellar
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recxtseGT8HXT3ZDC
+  awarded_round:
+    - "SCF #31"
+  awarded_total: 150000
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
