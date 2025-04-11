@@ -1,0 +1,42 @@
+title: GrantPicks
+other_names:
+  - '"GrantPicks by PotLock"'
+parent: null
+description: GrantPicks by Potlock is a Soroban-enabled funding platform using
+  pairwise voting to easily allocate grants to Stellar projects.
+links:
+  website: https://stellar.grantpicks.com
+  blog: https://https://blog.potlock.org/
+  x: https://x.com/potlock_
+  linkedin: https://linkedin.com/company/potlock
+  discord_server: null
+  telegram: https://t.me/+27V0rWUiq5liZmIx
+  youtube: https://yotube.com/@potlock
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/PotLock/grantpicks-stellar
+linktree: null
+attributes:
+  category: Sustainability & Public Goods
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/eMjK2GmoradyfMAuafvKKg/B9I3dKx1DcFg1gToaLySFGYM4wejjHryLwQBBkR7NLYyeLHw-Lvajkcl1hZQvp4g4YaxM7WhnGKRDJr6XxMAfD-62rY3I3NLdWNIBgP1Zi9ZfQATg4Siw-5nEH0pBicdoKj0l7huCuZdW-GjI94QRw/3kW2Zw4bELn1DSumD_vAXrdJ0Ru4dy-Gz8isQPJDA3U
+  banner: null
+scf:
+  awarded_submissions:
+    - GrantPicks by PotLock
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recd8I7PUKkkPIO6d
+  awarded_round:
+    - "SCF #27"
+  awarded_total: 50000
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
