@@ -1,0 +1,48 @@
+title: Infinity Wallet
+other_names: null
+parent: null
+description: Desktop wallet providing a one-stop solution for payments &
+  seamless use of DeFi with Web3 browser for easy access to Web3.
+links:
+  website: https://infinitywallet.io
+  blog: https://https://infinitywallet.io/blog
+  x: https://x.com/InfinityWallet
+  linkedin: null
+  discord_server: https://discord.gg/nQMnwXjdvy
+  telegram: null
+  youtube: https://youtube.com/channel/UCPnnMXAFcZEtpNnF1BRNgHg
+  instagram: https://instagram.com/infinity_wallet/
+  reddit: https://reddit.com/r/InfinityEcosystem/
+  tiktok: null
+  github: https://github.com/InfinityWallet
+linktree: null
+attributes:
+  category: Wallet
+  tags: []
+  smart_contracts: null
+  regions_services:
+    - LatinAmerica&Caribbean
+    - SouthAsia
+    - EastAsia&Pacific
+    - MiddleEast&NorthAfrica
+    - Europe&CentralAsia
+    - NorthAmerica(withoutMexico)
+    - Sub-SaharanAfrica
+  country: " Portugal"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/o6qeMRD_Z4DcHyCI4R7_Ng/aKvWFJeB3VTUG6uv59robsft19lWb1TFgNv4jXXv7aDEDpT0BDByvpCK9DR_qWoGsBYRxAeYqpFVQyCkLiHgsF04Nc9uJ-6CxcmNSOlgqIWbbMU4u8p4kj8psdGfmEwKBRNY9Pdxg5362Q3Z42Rebg/IpREiESv-EJdVWh78BCzfXB49Dgcu-273Gd8wJo3FYk
+  banner: null
+scf:
+  awarded_submissions:
+    - Infinity Wallet
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec19YyUKPo2XVINi
+  awarded_round:
+    - "SCF #16"
+  awarded_total: 130000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
