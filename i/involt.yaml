@@ -1,0 +1,40 @@
+title: involt
+other_names:
+  - '"Ping"'
+parent: null
+description: Ping is a global neo-bank designed for contractors and freelancers,
+  offering free U.S. dollar accounts, invoicing capabilities, and the option to
+  receive payments in both fiat and cryptocurrencies.
+links:
+  website: https://getinvolt.com
+  blog: null
+  x: https://x.com/holapinglatam
+  linkedin: https://instagram.com/pinglatam/
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/@lets_ping
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
