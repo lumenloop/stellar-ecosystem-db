@@ -1,0 +1,42 @@
+title: Blox
+other_names:
+  - '"Bank2Bit"'
+parent: null
+description: Developing a user-friendly fiat-to-crypto platform for seamless
+  converting between LATAM fiat and stellar listed assets.
+links:
+  website: https://blox.global
+  blog: null
+  x: https://x.com/BLOX_globe
+  linkedin: https://linkedin.com/company/bloxglobal/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/blox.global
+  reddit: null
+  tiktok: null
+  github: null
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/T17EwkWR7AFuY1AAvUuQcA/Lq0yaia0wrwRwnOpcQZCwsBnybQNpTYtWvjM_eJlxGH_yOJHW4Dg5So_IdwD96xiXrG3BFILGAPy08d688B0GMy8HVZ_xXNO838CMxDUrYUyAPQLBV73a4nLqRdjCd1a06mOHtCWRpU7T2_UuGVa98C0dahYZCI8Pnz8XfpoJZg/G7YKvXUhNErb4gAwOkT7GAS_iOkLrJRPi6KiA6aORJY
+  banner: null
+scf:
+  awarded_submissions:
+    - Bank2Bit by Bloxcross
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recZRSwovS4aApiHA
+  awarded_round:
+    - "SCF #20"
+  awarded_total: 48000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
