@@ -1,0 +1,42 @@
+title: Yellow Card
+other_names: null
+parent: null
+description: Yellow Card is a pan-African fintech company operating across 20
+  countries, providing secure and cost-effective methods for individuals and
+  businesses to buy and sell cryptocurrencies like BTC, ETH, USDT, USDC, and
+  PYUSD using local currencies. In 2024, Yellow Card integrated USD Coin (USDC)
+  on the Stellar network, enabling users to conduct near-instant, low-cost
+  cross-border transactions across Africa.
+links:
+  website: https://yellowcard.io
+  blog: https://https://yellowcard.io/blog/
+  x: https://x.com/yellowcard_app
+  linkedin: https://linkedin.com/company/yellowcardapp/
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: https://instagram.com/yellowcard_app/
+  reddit: null
+  tiktok: null
+  github: https://github.com/yellowcardfinancial
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions: null
+  awarded_submissions_url: null
+  awarded_round: null
+  awarded_total: null
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
