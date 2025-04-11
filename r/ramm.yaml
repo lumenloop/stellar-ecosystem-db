@@ -1,0 +1,42 @@
+title: RAMM
+other_names:
+  - '"RAMM: Global Retail Commerce"'
+parent: null
+description: A novel DEX/AMM where brands sell direct to consumers w/out the
+  high selling fees of Amazon/eBay, while keeping all customer data.
+links:
+  website: https://WWW.RAMM.ai
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/jamiels/ramm.ai
+linktree: null
+attributes:
+  category: AMM
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: United States
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/Id8AVlWsdx-lpmuifGbFOw/uT25T-DvsL-XVPk5ZFv-UxyTi87rYH_-XN7-1JacXQjRYKLLbrnzZMWL11iLG6KDNqDqpHb0snqAd2R-pxAvbRpXOz6t67sWeKhJtZOkTfnQOWZy-pn7nzxAwDVGSmDeJM1P9UC-MW2ZLrBDv6TXzoiiS27zoVdLR6lfWV9EUZo/VKFb7EkjodAzwkbARUoNCm-qBenQF3pCJDNsrW9WbCI
+  banner: null
+scf:
+  awarded_submissions:
+    - "RAMM: Global Retail Commerce"
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/rec3MBR9xIV3XOJw1
+  awarded_round:
+    - "SCF #22"
+  awarded_total: 38500
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
