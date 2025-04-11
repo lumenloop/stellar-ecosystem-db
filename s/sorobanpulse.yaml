@@ -1,0 +1,47 @@
+title: SorobanPulse
+other_names: null
+parent: null
+description: SorobanPulse showcases Soroban's true potential through data and
+  metrics from real world problem-solving dApps.
+links:
+  website: https://sorobanpulse.app
+  blog: null
+  x: https://x.com/SorobanPulse
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/CrossChainLabs-Stellar/sorobanpulse-webapp
+linktree: null
+attributes:
+  category: Data & Onchain Tools
+  tags: []
+  smart_contracts: false
+  regions_services: null
+  country: Romania
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/pPt6Js6oGW6_QOjhoxhLwQ/RmUwgGZLNtv9MLVqIKGrYvHnDptr9sZcnVorMudTcnSGY57zt-VV7Pvh3sBDIr9GqhrjDh74UrOvSG4ASO-UroZ8yu1ct7Hn56lHrzvPmjth28Ux-skWJStSkv38SdHWfsxqWl_RihWp2pJS74g6EA/WeXHDRYer5Ju3nj7rKLzSTsF844RgCZUenWLCKeRD-s
+  banner: null
+scf:
+  awarded_submissions:
+    - StellarPulse
+    - SorobanPulse
+    - SorobanPulse v2
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recPl3UvHNe1nngVy
+    - https://communityfund.stellar.org/dashboard/submissions/reccKirUoWW2ux0Le
+    - https://communityfund.stellar.org/dashboard/submissions/rec78cnFmi3n9aMxx
+  awarded_round:
+    - "SCF #11"
+    - "SCF #16"
+    - "SCF #20"
+  awarded_total: 168500
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
