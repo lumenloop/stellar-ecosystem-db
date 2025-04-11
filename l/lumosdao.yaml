@@ -1,0 +1,41 @@
+title: LumosDAO
+other_names: null
+parent: null
+description: Decentralized Governance on Stellar Network. Create, manage, and
+  participate in DAOs seamlessly, with transparency and efficiency.
+links:
+  website: https://lumosdao.io
+  blog: null
+  x: https://x.com/DaoLumos
+  linkedin: null
+  discord_server: null
+  telegram: https://t.co/sFH9rYdysY
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/naveed-siddiqi/lumos-dao
+linktree: null
+attributes:
+  category: DAO & Governance
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: Azerbaijan
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/MYAN1orkEw8_7ad1ib2PwQ/i1wvK2prT7gX-ZjdDuPBXvh1cFQZxt1Q20Lyo9Rq4lu80YyEZQ3y7GIscrq23BC8jxwjtHh91DxUrLWgCK3NhyYrLqboxoO8RA-Ug3g96-puimwdPO8PVCFZQqrEQQBqdK_NGhexBq1dRcAF0EmOjA/XQYgvlXA13odsGYO5slMy63BWLXycwXu1GP-N0ChdF4
+  banner: null
+scf:
+  awarded_submissions:
+    - LumosDAO
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recoH3wbnTFB9AYpG
+  awarded_round:
+    - "SCF #21"
+  awarded_total: 60000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
