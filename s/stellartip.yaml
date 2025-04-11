@@ -1,0 +1,45 @@
+title: Stellar Tip
+other_names: null
+parent: null
+description: Stellar Tip makes it super easy to send and receive tips using the
+  Stellar Network. To receive tips, you must add your Stellar address to your
+  YouTube channel description or Twitch/GitHub bio.Stellar Tip makes it super
+  easy to send and receive tips using the Stellar Network. To receive tips, you
+  must add your Stellar address to your YouTube channel description or
+  Twitch/GitHub bio.
+links:
+  website: https://chromewebstore.google.com/detail/stellar-tip/nofpjgocmncmlacjfnniilnckjbhmgdh
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/MichaelxhJiang/stellar-tip
+linktree: null
+attributes:
+  category: Social
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: null
+images:
+  icon: null
+  thumbnail: null
+  banner: null
+scf:
+  awarded_submissions:
+    - Stellar Tip - Tipping for content creators and developers
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recLG9qWeD5OX4xTP
+  awarded_round:
+    - "SCF #4"
+  awarded_total: 0
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
