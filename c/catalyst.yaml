@@ -1,0 +1,42 @@
+title: Catalyst
+other_names:
+  - '"Catalyst Blockchain Manager"'
+parent: Intellecteu
+description: EcoXChange is a multifunction white-labeled platform marketplace to
+  support manufacturing companies reduce their carbon footprint.
+links:
+  website: https://catalyst.intellecteu.com
+  blog: null
+  x: https://x.com/Catalyst_BM
+  linkedin: https://linkedin.com/uas/login?session_redirect=%2Fshowcase%2F73072309
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/stellar-chef/stellar-chef
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: Ukraine
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/MgmjUw1Zq1cW8IB_PTjAWA/Jwa-53RG7xmIWgjTx1EMm24hIbcR0571Dj164iavZZAXxjreaIY8XnbCq4YvFZnBKlM7aLAIteCx3MXEUdEoiE6CAUKDLD7ouUY6eNyT-9l2QuLvtRtijma2fFC39Mh2vw9zwtL684HOiGN9b1-zdQ/NYduSBQMMtS7EPVuRCuop95yiFkahmGgMWtHsBlg8xw
+  banner: null
+scf:
+  awarded_submissions:
+    - Catalyst Blockchain Manager
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recNpbO0bjz8Gs5DO
+  awarded_round:
+    - "SCF #22"
+  awarded_total: 91800
+mainnet:
+  live: false
+  tokens: []
+  contracts: []
+  audits: []
