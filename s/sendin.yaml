@@ -1,0 +1,40 @@
+title: SendIN
+other_names: null
+parent: null
+description: US to India money transfers made easy, cheap u0026amp; lightning fast.
+links:
+  website: https://github.com/SendIN-Org/sendIN
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/SendIN-Org/sendIN
+linktree: null
+attributes:
+  category: Payments
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: " India"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/GBOjSmWPzUDkzSYCSI4qow/6E8sm4Our-W2Qvkgcu8l5WEo6-Wmi5oPxfuS8UrZSyM9G0TXozKvmRLVofv5uWQGXJV-BntUhYm03ekMhmdBI8yuvGydC5akDSOeyrP0caMTkSgWFEBiSUSbw6J6CqaHe1xHUyjCPzlkchjGCm-gu0AEoEtKX8vgkZTJ17CrzFftGVxp9aNbJVYbpmN91kdV/YwchwFgtekXI8Q5I7dlih_EwdVYb59bm1owNxYDwxs4
+  banner: null
+scf:
+  awarded_submissions:
+    - SendIN
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/reclOpHi3CxBBYPaO
+  awarded_round:
+    - "SCF #29"
+  awarded_total: 37500
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
