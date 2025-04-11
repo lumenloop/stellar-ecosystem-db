@@ -1,0 +1,42 @@
+title: Lightecho
+other_names:
+  - '"Lightecho Stellar Oracle"'
+parent: BP Ventures
+description: Reliable and Trustworthy Emerging markets and XLM Volatility price
+  feed for Soroban.
+links:
+  website: https://lightecho.io
+  blog: https://https://blog.lightecho.io/
+  x: https://x.com/lightechoi
+  linkedin: https://linkedin.com/company/bpventures/
+  discord_server: null
+  telegram: null
+  youtube: https://youtube.com/channel/UCugQSzh7RMnCa2poIUTyRUA
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/bp-ventures/lightecho-stellar-oracle
+linktree: null
+attributes:
+  category: Oracle
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: " Brazil"
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/DmrTrZDe3dKwWqh6OlMKiw/jyX1cZeYj-Cdfp8ICjk8bLR_kKsgXChoXIHeMI_Se7Sa9NZXObVlNUNcPOLVTPcK0FwHZ7AoaNruCCgCy7dDDjo6ueLqNHu0a2ikRbUcOoyc4xfun9BHk-1Z6CMjGb5pQJLGItKYsX5Pchvexubf8A/4VSOPUdyLW_fFo7KXYNCmAD-PebzL1C2Pe5xJEoZuxQ
+  banner: null
+scf:
+  awarded_submissions:
+    - Lightecho Stellar Oracle
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recLl0Y8hNXWZttmc
+  awarded_round:
+    - "SCF #16"
+  awarded_total: 93110
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
