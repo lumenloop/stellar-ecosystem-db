@@ -1,0 +1,42 @@
+title: Soroban React
+other_names:
+  - '"@soroban-react and Boilerplate"'
+parent: null
+description: "Full-Stack DApp Boilerplate for Soroban Contracts: @soroban-react
+  support, standards, tutorials, and open-source contributions."
+links:
+  website: https://github.com/paltalabs/soroban-react
+  blog: null
+  x: null
+  linkedin: null
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/paltalabs/soroban-react
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: true
+  regions_services: null
+  country: Chile
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/zP7uY1nmskDxtIRAaiUFjg/e2xmVniJf99GHJiLdjvSshqKxgkNdEGS72x3kDQOSG5W4hqEWyynF422QQuTXJ9P82vXOp283IYMC9aRgSawmymK79h-TwN5wuVvz7wkt2U9irl-vQs_O-xRjAAAl3LENeNTNMZDbtF48-qQjT6v5A/qtkB3uOqkPgXqweAEODy5bdfJglHwOG136fxjDbBxjQ
+  banner: null
+scf:
+  awarded_submissions:
+    - "@soroban-react and Boilerplate"
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recBHrtJV6ztGGICQ
+  awarded_round:
+    - "SCF #20"
+  awarded_total: 25000
+mainnet:
+  live: true
+  tokens: []
+  contracts: []
+  audits: []
