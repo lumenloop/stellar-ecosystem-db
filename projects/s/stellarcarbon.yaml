@@ -23,7 +23,7 @@ attributes:
   tags: []
   smart_contracts: true
   regions_services:
-    - Nospecificregionofoperation
+    - No specific region of operation
   country: Netherlands
 images:
   icon: null
