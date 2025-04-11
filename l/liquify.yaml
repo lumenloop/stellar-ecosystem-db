@@ -1,6 +1,6 @@
 title: Liquify
 other_names:
-  - '"Infrastructure Support Liquify"'
+  - Infrastructure Support Liquify
 parent: null
 description: Provide Stellar & Soroban with long-term public RPC endpoints and
   archival support.
