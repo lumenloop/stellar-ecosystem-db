@@ -1,0 +1,43 @@
+title: Stellar Rust SDK
+other_names: null
+parent: null
+description: Integration of a Rust SDK into the Stellar ecosystem.
+links:
+  website: https://baseflow.com
+  blog: null
+  x: null
+  linkedin: https://linkedin.com/company/baseflowit
+  discord_server: null
+  telegram: null
+  youtube: null
+  instagram: null
+  reddit: null
+  tiktok: null
+  github: https://github.com/Baseflow/stellar-rust-sdk
+linktree: null
+attributes:
+  category: Dev Tools
+  tags: []
+  smart_contracts: null
+  regions_services: null
+  country: Netherlands
+images:
+  icon: null
+  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/pb91zeN1VelM5c4bvJaL5w/inmRuYs_3x6hVon4r7DRSNdSHpKD4hGQ144MXhAGSAfrQGiE3qTvVkw7JKEZkJwbq-q5M1OaXTnJFYPOlGeOfsLqH44OHloXqKT88U3KSkOvV--7zWC8s_3SIPx1YWW7ONuVOeTwdu-NVHqZmIWF1A/cMOURf3xUQeKqKn4-zFyzopSlQNHX6LIhtWr4YotjOE
+  banner: null
+scf:
+  awarded_submissions:
+    - Stellar Rust SDK
+    - Stellar RUST SDK Phase II
+  awarded_submissions_url:
+    - https://communityfund.stellar.org/dashboard/submissions/recO97yX78hdHD9WX
+    - https://communityfund.stellar.org/dashboard/submissions/recnNmjVZlXtzzEwc
+  awarded_round:
+    - "SCF #18"
+    - "SCF #22"
+  awarded_total: 80000
+mainnet:
+  live: null
+  tokens: []
+  contracts: []
+  audits: []
