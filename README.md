@@ -47,7 +47,7 @@ Recent improvements and updates to the database include:
   Projects within the SCF dataset were re-evaluated, with some split or combined based on renames or duplicates, and submissions were reassigned accordingly.
 
 - **Feedback Integration:**  
-  A document listing suggestions and errors from the SCF datasets was shared with the SCF team to support ongoing improvements.
+  A [document](https://docs.google.com/spreadsheets/d/1JDBQVIIbiP86IgH1RX9VHDpsUVCj8Xha5NEYBr9mH5c/edit?usp=sharing) listing suggestions and errors from the SCF data was shared with the SCF team to support ongoing improvements.
 
 ## Data Metrics Comparison (as of April 11th 2025)
 
