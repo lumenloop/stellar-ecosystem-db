@@ -178,4 +178,4 @@ Contributions are welcome! Whether you’re suggesting improvements or submittin
   Maintaining an open dialogue with project teams and contributors to keep data accurate and up-to-date.
 
 ## Acknowledgments
-A special thank you to everyone who has contributed to the creation and refinement of the Stellar Ecosystem Database, including the teams at Lumen Light and the Stellar Community Fund, as well as all community members who provided feedback and updates.
+A special thank you to everyone who has contributed to the creation and refinement of the Stellar Ecosystem Database, including the teams at Stellar Light and the Stellar Community Fund, as well as all community members who provided feedback and updates.
