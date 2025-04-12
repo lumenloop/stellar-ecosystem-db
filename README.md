@@ -35,7 +35,7 @@ Recent improvements and updates to the database include:
   An Ecosystem DB working group was launched to steer and oversee database enhancements.
 
 - **Standardizing Categories & Tags:**  
-  Initiatives to coordinate and standardize project categories, tags, and attributes have been implemented.
+  Initiative to coordinate and standardize project categories, tags, and attributes [have been started](https://docs.google.com/spreadsheets/d/e/2PACX-1vQuoApWUNNknaQKK5_ppZ2Vc4VKsgU4YeshR2QHBQ6P63ncwiWjPIjAUtn9Uc65OdL2iyDG_7xatwix/pubhtml#).
 
 - **Data Verification:**  
   Outreach was conducted to project teams to resolve conflicting data and verify details.
