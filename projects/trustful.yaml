@@ -1,0 +1,41 @@
+title: Trustful
+other_names: null
+parent: null
+description: |
+  A reputation system using Stellar badges and on-chain data that prioritizes fair cross-community collaboration over wealth.
+links:
+  website:
+    - figma.com/proto/i5QYp8ljphq5Zdv6BIt5op/Trustful?node-id=1-56&starting-point-node-id=1%3A56
+    - trustful-stellar.vercel.app
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/blockful-io
+    - github.com/blockful/trustful-stellar-v1
+attributes:
+  category: Developer Tooling
+  tags:
+    - Governance
+  operating_region:
+    - Latin America & Caribbean
+  based_in: Brazil
+scf:
+  awarded_total: 142000
+  awarded_round:
+    - 27
+    - 30
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recTRjymkbSHuOlXH
+    - https://communityfund.stellar.org/dashboard/submissions/recnj68U9UZAHjBOi
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

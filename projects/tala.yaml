@@ -1,0 +1,34 @@
+title: Tala
+other_names: null
+parent: null
+description: Tala is a digital financial services provider in emerging markets, offering credit, payments, savings, and other financial tools to underserved populations.
+links:
+  website:
+    - tala.co
+  blog:
+    - tala.co/blog
+  x:
+    - talamobile
+  linkedin:
+    - linkedin.com/company/talamobile
+  discord: []
+  telegram: []
+  youtube:
+    - youtube.com/channel/UCwOxJtVFsb1dYATcuGMpBNQ
+  instagram:
+    - talamobile
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/inventure
+attributes:
+  category: null
+  tags: []
+  operating_region: []
+  based_in: null
+scf: null
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

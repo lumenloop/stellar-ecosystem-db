@@ -1,0 +1,36 @@
+title: Gecko Fuzz
+other_names:
+  - 'Gecko Fuzz: Automated Fuzzing'
+parent: null
+description: |
+  Gecko uses formal verification and fuzzing guided by dataflow patterns and LLMs to audit smart contracts on-chain autonomously.
+links:
+  website:
+    - github.com/jjjutla/GeckoFuzz
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/jjjutla/GeckoFuzz
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region: []
+  based_in: null
+scf:
+  awarded_total: 30000
+  awarded_round:
+    - 22
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recgaYJqkY6XAjubP
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

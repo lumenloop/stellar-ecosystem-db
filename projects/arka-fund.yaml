@@ -1,0 +1,35 @@
+title: Arka.fund
+other_names: null
+parent: null
+description: |
+  Arka.fund turns the Soroban smart-contract platform on Stellar into a transparent, on-chain asset-management protocol. Our vision is to democratize professional-grade asset management on Stellar with open-source transparency and institutional-level tooling. We aim to scale swiftly—growing assets under management and onboarding thousands of Arkas over the next two years—while keeping contracts audited and slippage at industry-leading levels per rebalance. Arka.fund is supported by Ethernodes.io, a custodial input/output vault platform and node operator with over $160 million TVL across networks such as Bitcoin, Ethereum, Space-and-Time, NEAR, Sonic... With just a few clicks, managers can launch a new Arka (a non-custodial investment vehicle), select any whitelisted Stellar asset as the unit of account, and fine-tune parameters such as: • deposit and withdrawal caps • fee schedule — management, performance, and entry/exit fees • permissible assets • rebalance frequency and slippage tolerance A built-in Router executes atomic, multi-hop swaps across six integrated AMMs and a lending/borrowing adapter, while preserving full sovereignty over Arka funds. Depositors mint share tokens and can monitor NAV in real time. When they redeem, the protocol burns their shares and automatically unwinds all positions back into the denomination asset, returning principal plus profits in a single transaction. DAO governance (Governor, Timelock, and Treasury contracts) lets token-holders vote on new asset listings, parameter changes, upgrades, and revenue distribution. Finally, a tiered Manager Level program rewards consistently profitable strategies with higher AUM ceilings and an increased share of protocol revenue.
+links:
+  website:
+    - arka.fund
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/dogstarapps/arka.fund
+attributes:
+  category: Financial Protocols
+  tags: []
+  operating_region:
+    - Europe & Central Asia
+  based_in: Spain
+scf:
+  awarded_total: 144000
+  awarded_round:
+    - 37
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

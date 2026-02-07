@@ -1,0 +1,44 @@
+title: Tauvlo
+other_names: null
+parent: null
+description: |
+  Tauvlo is a tokenized real estate investment marketplace that makes investing in real estate accessible for everyone.
+links:
+  website:
+    - tauvlo.com
+  blog:
+    - tauvlo.com/blog
+  x:
+    - tauvlo
+  linkedin:
+    - linkedin.com/company/tauvlo-a-tokenized-real-estate-marketplace
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/tauvlo
+attributes:
+  category: Applications
+  tags:
+    - Real Estate
+    - Tokenization
+    - Marketplace
+    - Fractional Ownership
+  operating_region: []
+  based_in: Czech Republic
+scf:
+  awarded_total: 145000
+  awarded_round:
+    - 23
+    - 26
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recfgOVFwu6cukrrT
+    - https://communityfund.stellar.org/dashboard/submissions/rece6tiLTFxaIp9T8
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

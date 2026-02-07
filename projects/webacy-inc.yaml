@@ -1,0 +1,36 @@
+title: Webacy Inc.
+other_names: null
+parent: null
+description: |
+  Decisioning and risk data scoring for digital assets and wallets
+links:
+  website:
+    - dd.xyz
+  blog: []
+  x:
+    - mywebacy
+  linkedin:
+    - linkedin.com/company/webacy
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Infrastructure & Services
+  tags: []
+  operating_region:
+    - United States
+  based_in: United States
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 38
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

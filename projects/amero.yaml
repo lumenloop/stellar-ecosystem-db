@@ -1,0 +1,47 @@
+title: Amero
+other_names:
+  - AMERO-DeFi Collective Savings
+  - Amero Exchange
+parent: null
+description: |
+  Empowering collaborative savings via decentralized governance and transparent smart contracts on Stellar with Amero Platform.
+links:
+  website:
+    - amero.exchange
+  blog: []
+  x:
+    - amero_exchange
+  linkedin:
+    - linkedin.com/company/ameroexchange
+    - linkedin.com/do.linkedin.com/company/ameroexchange
+  discord: []
+  telegram: []
+  youtube: []
+  instagram:
+    - airtminc
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Amerogithub
+attributes:
+  category: Applications
+  tags:
+    - P2P
+    - Moneygram
+    - Cross-Border Payments
+  operating_region:
+    - Dominican Republic
+  based_in: Dominican Republic
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 28
+    - 31
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recaF5bsiYHsjouqw
+    - https://communityfund.stellar.org/dashboard/submissions/recLm7MyA4VW2b4IX
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

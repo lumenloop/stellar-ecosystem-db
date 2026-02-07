@@ -1,0 +1,43 @@
+title: Silicore
+other_names: null
+parent: null
+description: |
+  Democratizing knowledge of distinct Anchor benefits
+links:
+  website:
+    - silicore.io
+    - figma.com/design/vAoC9nyTs5Cg6A2pllTUWt/Silicore?node-id=0-1&t=h212M0CT1vGbXqeY-1
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube:
+    - youtube.com/@Silicore-w3n
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Ilanklim
+    - github.com/Ilanklim/EasyA_Hackathon
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Anchor
+    - Automation
+    - SDK
+    - API
+    - Infrastructure
+  operating_region: []
+  based_in: United States
+scf:
+  awarded_total: 31000
+  awarded_round:
+    - 29
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recyN1rWGOVPFszvZ
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,38 @@
+title: Axal
+other_names: null
+parent: null
+description: |
+  Axal hopes to progressively expand into the Stellar ecosystem, starting off with Autopilot support for Stellar (close collab with Stellar and the Privy team), progressing to custom Stellar-ecosystem themed indices, and ultimately seamless onboarding for folks via Stellar to future agent-powered products. Would also love to chat about autonomous PayFi, a potential MoneyGram on-ramping to Autopilot integration, and more longer term efforts.
+links:
+  website:
+    - ax.al
+  blog: []
+  x:
+    - getaxal
+  linkedin:
+    - linkedin.com/company/getaxal
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/getaxal/verified-signer
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - North America (without Mexico)
+  based_in: United States
+scf:
+  awarded_total: 60800
+  awarded_round:
+    - 10
+    - 35
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

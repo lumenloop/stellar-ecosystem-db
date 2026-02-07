@@ -1,0 +1,36 @@
+title: DomiPago
+other_names: null
+parent: null
+description: |
+  DomiPago is a cross-border remittance platform committed to transforming how Dominican families send and receive money. Our vision is to eliminate the high fees, long delays, and complex processes often found in traditional transfers, ensuring vital support arrives swiftly and securely. By leveraging RTPs and Stablecoin rails, we provide near-instant settlement and transparent, low-cost transactions.  Through an intuitive web interface and WhatsApp integration, users can initiate and confirm transfers in under 60 seconds, drastically enhancing convenience. On the receiving end, DomiPago partners with local banks, mobile wallets, and cash pickup locations throughout the Dominican Republic to streamline off-ramps and accommodate varying user preferences. Ultimately, DomiPago’s mission is to empower the Dominican diaspora by bridging economic gaps and offering a faster, more affordable remittance option.
+links:
+  website:
+    - domipago.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/melomar10/domipago
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - Latin America & Caribbean
+    - North America (without Mexico)
+  based_in: Argentina
+scf:
+  awarded_total: 110000
+  awarded_round:
+    - 37
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,34 @@
+title: Indentura
+other_names: null
+parent: null
+description: |
+  Indentura, a primitive by Thaw Digital, is rebuilding credit markets on top of stablecoin rails.  Led by a team that previously built and exited two fintechs that reached unicorn status, we are combining deep experience in structured credit , fintechand DeFi to create the infrastructure missing from today’s stablecoin economy.  Stablecoins today move billions in payments, but their application in conventional credit markets remains limited at best. Most crypto lending revolves around token leverage, while traditional credit remains tied to opaque and systems and outdated legacy infrastructure.  Indentura is a protocol that allows borrowers to pledge high-quality offchain collateral and access stablecoin credit lines from a global onchain liquidity pool. We combine DeFi-native liquidity with offchain infrastructure that gives lenders enforceable legal claims and real-time visibility into pledged collateral, while preserving borrower privacy.  Our initial product enables specialty finance companies to receive a stablecoin revolving credit facility to fund small and medium sized businesses businesses in fiat. These credit lines are essential for managing cash flow, but are rarely available outside the banking system. By reallocating idle funds into short-duration DeFi yield sources until drawn, we eliminate cash drag and make revolving facilities viable for non-bank lenders to access for the benefit of their clients.  This is the first step toward a broader credit system built around programmable liquidity. Over time, Indentura will support SME lending, embedded fintech credit, consumer borrowing, and onchain structured products.  We’re building on Stellar because its low fees, high throughput, and native stablecoin infrastructure make it the right platform for scaling credit use cases globally.
+links:
+  website:
+    - thawdigital.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Financial Protocols
+  tags: []
+  operating_region:
+    - North America (without Mexico)
+  based_in: United States
+scf:
+  awarded_total: 120000
+  awarded_round:
+    - 37
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

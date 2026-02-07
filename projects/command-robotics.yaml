@@ -1,0 +1,34 @@
+title: Command Robotics
+other_names: null
+parent: null
+description: Command Robotics integrates the Stellar blockchain into its platform to enhance secure and transparent coordination of robotic fleets.
+links:
+  website:
+    - adaptive-goal-management.herokuapp.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/mukmalone/AdaptiveGoalManagement
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region: []
+  based_in: Canada
+scf:
+  awarded_total: 5000
+  awarded_round:
+    - 9
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recyGPuk4TiBasCLl
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

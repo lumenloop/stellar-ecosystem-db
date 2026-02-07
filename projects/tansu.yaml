@@ -1,0 +1,40 @@
+title: Tansu
+other_names:
+  - Tansu - Soroban Versioning
+parent: null
+description: |
+  Bring decentralization back to Version control System with Soroban providing transparency, integrity and security.
+links:
+  website:
+    - tansu.dev
+  blog:
+    - tansu.dev/blog
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/tupui/soroban-versioning
+attributes:
+  category: Developer Tooling
+  tags:
+    - Governance
+  operating_region: []
+  based_in: Austria
+scf:
+  awarded_total: 147360
+  awarded_round:
+    - 28
+    - 30
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recheNDUSZjVVMowM
+    - https://communityfund.stellar.org/dashboard/submissions/recSDU41kudJLzoXL
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

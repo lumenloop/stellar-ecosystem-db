@@ -1,0 +1,34 @@
+title: Aerochain
+other_names: null
+parent: null
+description: |
+  AeroChain is a blockchain infrastructure built on Stellar, designed to provide full end-to-end traceability for aircraft parts. It aims to become the go-to trust protocol for the aerospace industry.  The system uses a hybrid architecture combining Stellar smart contracts, a business-layer API, and SaaS interfaces for easy integration into existing tools. Each part is assigned a tamper-proof digital identity that records lifecycle events — from manufacturing to maintenance, ownership, and recycling.  AeroChain addresses key industry challenges: regulatory compliance, paperwork, human error, and lack of transparency. It automates compliance documentation, tracks parts in real time, and helps reduce costs and errors by up to 80%.  We target OEMs, MROs, airlines, lessors, and regulators with role-specific tools for certification, authenticity checks, predictive maintenance, and shared audit trails.  We’ve already started developing basic features on Stellar. You can find more technical details in the analytics document.  Our goal is to onboard over 2,000 aerospace players by 2029 and establish AeroChain as the European standard for traceability — leveraging Stellar’s speed, low cost, and energy efficiency
+links:
+  website:
+    - aerochain.wingleet.com/redoc
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/SebWingleet/Aerochain-Stellar
+attributes:
+  category: Infrastructure & Services
+  tags: []
+  operating_region: []
+  based_in: France
+scf:
+  awarded_total: 128000
+  awarded_round:
+    - 38
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

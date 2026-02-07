@@ -1,0 +1,34 @@
+title: SNNAC
+other_names: null
+parent: null
+description: SNNAC users engage in seamless transactions using Stellar Lumens, Non-Fungible Tokens (NFTs) & Near Field Communications (NFC).
+links:
+  website:
+    - snnac.me
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/BlockShangerous/SNNAC
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+scf:
+  awarded_total: 7500
+  awarded_round:
+    - 11
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec7rqjVZKmExp44A
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

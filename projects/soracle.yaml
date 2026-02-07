@@ -1,0 +1,43 @@
+title: Soracle
+other_names:
+  - Soracle.org
+parent: null
+description: |
+  General purpose http oracles with verifiable encryption threshold key derivation on Stellar
+links:
+  website:
+    - soracle.org
+    - posted.app
+  blog: []
+  x:
+    - tryposted
+  linkedin: []
+  discord:
+    - discord.gg/Ane3ppsEGU
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit:
+    - r/Posted
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/PostedApp
+    - github.com/stellarmask/stellarmask
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Oracle
+  operating_region:
+    - United States
+  based_in: United States
+scf:
+  awarded_total: 24000
+  awarded_round:
+    - 22
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recAJUif7d6m2q3J3
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

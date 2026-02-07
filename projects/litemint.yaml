@@ -1,0 +1,48 @@
+title: Litemint
+other_names: null
+parent: null
+description: |
+  Gives creators the power to distribute their work directly to their fans, no middleman allowed!
+links:
+  website:
+    - litemint.com
+  blog:
+    - blog.litemint.com
+  x:
+    - liteminthq
+  linkedin:
+    - linkedin.com/company/litemint
+  discord:
+    - litemint.gg
+  telegram: []
+  youtube:
+    - youtube.com/litemint
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/litemint/litemint
+    - github.com/litemint
+attributes:
+  category: Applications
+  tags:
+    - NFTs
+    - Marketplace
+  operating_region:
+    - Korea
+  based_in: South Korea
+scf:
+  awarded_total: 376834.53
+  awarded_round:
+    - 3
+    - 19
+    - 7
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recTdRTrjdI0eg1BW
+    - https://communityfund.stellar.org/dashboard/submissions/recpYqqIa55PTnKF3
+    - https://communityfund.stellar.org/dashboard/submissions/recNYpfzGg7h2uLau
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

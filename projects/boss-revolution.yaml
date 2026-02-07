@@ -1,0 +1,40 @@
+title: Boss Revolution
+other_names:
+  - Leaf Global Fintech
+  - Boss Money
+parent: IDT
+description: |
+  A digital wallet that enables users to store, send and receive, and exchange in multiple stablecoins on their phones— no smartphone required.
+links:
+  website:
+    - bossrevolution.com
+    - bossmoney.com
+  blog: []
+  x:
+    - bossrevolution
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/IDTdesign
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - United States
+  based_in: United States
+scf:
+  awarded_total: 249112
+  awarded_round:
+    - 7
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recGnQ6l4nKzgQLpT
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

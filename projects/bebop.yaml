@@ -1,0 +1,48 @@
+title: Bebop
+other_names: null
+parent: null
+description: |
+  Bebop is the future of finance for Africa's 500 million unbanked and underbanked youth, by building a bank on chain and leveraging the power of stable coin technology.
+links:
+  website:
+    - bebop.cash
+  blog: []
+  x:
+    - bebopcash
+  linkedin:
+    - linkedin.com/company/bebopcash
+    - linkedin.com/company/bebopcash/posts/?feedView=all
+  discord:
+    - discord.gg/v7QstCk5
+  telegram: []
+  youtube: []
+  instagram:
+    - bebopcash
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/christopherkarani/escrowcotract
+attributes:
+  category: Applications
+  tags:
+    - Africa
+    - Software Wallet
+    - Mobile
+    - P2P
+  operating_region:
+    - North America (without Mexico)
+    - Sub-Saharan Africa
+  based_in: United Kingdom
+scf:
+  awarded_total: 148970
+  awarded_round:
+    - 28
+    - 31
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recisU9Kvy1ORE0BX
+    - https://communityfund.stellar.org/dashboard/submissions/rec4Ae95oRI0kTbVL
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

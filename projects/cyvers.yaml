@@ -1,0 +1,51 @@
+title: CyVers
+other_names: null
+parent: null
+description: |
+  Cyvers is a ML & AI based security solution that proactively mitigates and prevents asset-loss related exploits in real-time.
+links:
+  website:
+    - cyvers.ai
+  blog:
+    - cyvers.ai/blog
+  x:
+    - cyvers_
+  linkedin:
+    - linkedin.com/company/cyvers
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/CyVers-AI
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Security
+    - AI
+    - Cross-Chain
+    - API
+    - DeFi
+    - CEX
+    - DEX
+    - On-Off Ramp
+    - CBDC
+    - Tokenization
+    - Risk Management
+    - Analytics
+  operating_region:
+    - Romania
+  based_in: Israel
+scf:
+  awarded_total: 49996
+  awarded_round:
+    - 26
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec06I0eNKQ4gWeOq
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

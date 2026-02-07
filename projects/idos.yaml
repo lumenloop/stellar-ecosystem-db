@@ -1,0 +1,52 @@
+title: idOS
+other_names:
+  - Identity Operating System
+parent: null
+description: |
+  The idOS is a decentralized identity and storage layer for user data. The idOS enables KYC re-usability in a compliant way. 
+links:
+  website:
+    - idos.network
+  blog: []
+  x:
+    - idos_network
+  linkedin:
+    - linkedin.com/company/idos-network
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/idos-network
+    - github.com/idos-network/idos-sdk-js
+attributes:
+  category: Applications
+  tags:
+    - Identity
+    - KYC
+    - Nodes
+    - Storage
+    - Wallet Infra
+    - Anchor
+  operating_region:
+    - North America (without Mexico)
+    - Europe & Central Asia
+    - Sub-Saharan Africa
+    - Middle East & North Africa
+    - East Asia & Pacific
+    - South Asia
+    - Latin America & Caribbean
+  based_in: Portugal
+scf:
+  awarded_total: 125000
+  awarded_round:
+    - 31
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recFctBzb2Zo3VO4z
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

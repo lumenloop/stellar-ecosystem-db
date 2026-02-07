@@ -1,0 +1,45 @@
+title: EasyA
+other_names: null
+parent: null
+description: |
+  EasyA creates a Soroban crash course and gets devs from its huge network of 750K+ engineers building on Soroban via its app.
+links:
+  website:
+    - easya.io
+  blog:
+    - easya.io/blog
+  x:
+    - easya_app
+  linkedin:
+    - linkedin.com/company/easya
+    - linkedin.com/company/30108824
+  discord: []
+  telegram: []
+  youtube:
+    - youtube.com/@EasyA_app
+  instagram:
+    - easya_app
+  reddit: []
+  tiktok:
+    - easya_app
+  linktree: []
+  github: []
+attributes:
+  category: Education & Community
+  tags:
+    - e-learning
+  operating_region:
+    - United States
+  based_in: United Kingdom
+scf:
+  awarded_total: 231800
+  awarded_round:
+    - 17
+    - 23
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recOiKOyCVxtjSbaG
+    - https://communityfund.stellar.org/dashboard/submissions/recTQdI9l50TRAYin
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,40 @@
+title: StellarTerm
+other_names: null
+parent: null
+description: |
+  advanced trading client for the Stellar network
+links:
+  website:
+    - stellarterm.com
+    - galactictalk.org/d/2212-stellarterm-advanced-trading-client-for-the-stellar-network
+  blog: []
+  x:
+    - stellarterm
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/stellarterm
+attributes:
+  category: Financial Protocols
+  tags:
+    - DEX
+    - Web
+  operating_region:
+    - Indonesia
+  based_in: Estonia
+scf:
+  awarded_total: 17640.89
+  awarded_round:
+    - 3
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recGp2bg7OQlVFllx
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

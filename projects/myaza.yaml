@@ -1,0 +1,48 @@
+title: Myaza
+other_names:
+  - Myaza | Transact Across Africa
+parent: null
+description: |
+  Myaza is transforming how individuals and businesses across Africa manage money and make payments. By providing a seamless platform for cross-border transactions, we empower users to send, receive, and exchange money affordably and efficiently. Our innovative use of financial infrastructure ensures fast, reliable transactions while addressing the unique challenges of intra-African payments. With a focus on financial inclusion, we aim to connect the continent, enabling economic growth and mobility.
+links:
+  website:
+    - myaza.co
+  blog:
+    - myaza.co/blog
+  x:
+    - myazahq
+  linkedin:
+    - linkedin.com/company/myazahq
+  discord: []
+  telegram: []
+  youtube: []
+  instagram:
+    - myazahq
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/myazahq
+attributes:
+  category: Applications
+  tags:
+    - Africa
+    - Cross-Border Payments
+    - Payments
+    - AI
+  operating_region:
+    - Sub-Saharan Africa
+    - Middle East & North Africa
+  based_in: Nigeria
+scf:
+  awarded_total: 146371
+  awarded_round:
+    - 26
+    - 32
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec7so7Dp8MsWFhTS
+    - https://communityfund.stellar.org/dashboard/submissions/rec3sQBgctMIdAhJ7
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,37 @@
+title: Blux
+other_names: null
+parent: null
+description: |
+  Blux is a connect kit designed to make integrating decentralized applications (dApps) with wallets, email, and phone authentication seamless. Built with a focus on the Stellar ecosystem, it enhances user onboarding and engagement while simplifying development.  We provide developers with easy-to-use tools and customizable modals that speed up integration and improve user retention. Blux supports multiple wallets, including cold wallets, as well as login options via email, phone, and OAuth (Google/Apple), striking a balance between accessibility, security, and flexibility.  Our goal is to be the go-to solution for developers building on Stellar and beyond, bridging the gap between traditional user experiences and blockchain technology.
+links:
+  website:
+    - blux.cc
+  blog: []
+  x:
+    - bluxofficial
+  linkedin: []
+  discord:
+    - discord.gg/npsssdyk
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/bluxcc
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region:
+    - Europe
+  based_in: Turkey
+scf:
+  awarded_total: 81000
+  awarded_round:
+    - 36
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

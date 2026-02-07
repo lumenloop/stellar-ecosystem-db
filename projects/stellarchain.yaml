@@ -1,0 +1,43 @@
+title: Stellarchain
+other_names:
+  - Stellarchain.io
+parent: null
+description: |
+  The StellarChain.Dev Community will be a platform for engaging stellar community members and creating new connection, introducing new features and functionalities while collecting data from the blockchain. This extension will provide additional tools and resources to further empower users, ensuring a more interactive, transparent, and efficient experience for all participants in the Stellar ecosystem.
+links:
+  website:
+    - stellarchain.io
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/stellarchain
+    - github.com/stellarchain/stellarchain-v3
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Block Explorer
+    - Ecosystem Discovery
+    - Analytics
+  operating_region: []
+  based_in: Romania
+scf:
+  awarded_total: 240635
+  awarded_round:
+    - 19
+    - 23
+    - 1
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/receYuwM1ucRK5MB2
+    - https://communityfund.stellar.org/dashboard/submissions/recKACcbgfiocc06L
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,38 @@
+title: Oinc
+other_names: null
+parent: null
+description: |
+  Oinc is a seamless personal finance solution for LATAM young adults, conveniently enabling better financial decision making
+links:
+  website:
+    - useoinc.com.br
+  blog:
+    - blog.useoinc.com.br
+  x:
+    - useoinc
+  linkedin:
+    - linkedin.com/company/useoinc
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok:
+    - useoinc
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+scf:
+  awarded_total: 105000
+  awarded_round:
+    - 17
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recHtAS5rmHwAFWhn
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

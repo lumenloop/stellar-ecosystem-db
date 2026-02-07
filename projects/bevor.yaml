@@ -1,0 +1,36 @@
+title: Bevor
+other_names: null
+parent: null
+description: |
+  BevorAI is the AI co-pilot for smart contract security - an API and platform that integrates across development, devops, chat, and auditing lifecycles. Think, "Wiz for Web3". Both auditing firms and development teams use BevorAI to auto-detect vulnerabilities, streamline their development and auditing, model on-chain risk, and speed up audit delivery We have strong plans to integrate Rust in order to support the growing Soroban and Stellar ecosystem. Auditing Rust contracts is extremely important to allow this ecosystem to grow safely. As more institutions and teams adopt Rust-based smart contracts for their security and performance benefits, the need for specialized automated security tooling becomes critical. Without robust auditing infrastructure, the Rust smart contract ecosystem risks experiencing the same growing pains that plagued earlier blockchain platforms. Our roadmap prioritizes building comprehensive Rust security analysis to ensure teams can build confidently and scale safely on Stellar.
+links:
+  website:
+    - bevor.io
+  blog: []
+  x:
+    - bevorai_agent
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Bevor-Protocol
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region:
+    - United States
+  based_in: United States
+scf:
+  awarded_total: 102000
+  awarded_round:
+    - 40
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

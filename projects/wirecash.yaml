@@ -1,0 +1,42 @@
+title: Wirecash
+other_names: null
+parent: null
+description: |
+  Wirecash offers virtual currency payments to suit all your needs, whether you're a small or large company, or an individual.
+links:
+  website:
+    - wirecash.com
+  blog: []
+  x:
+    - wirecash
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/wirecash
+attributes:
+  category: Applications
+  tags:
+    - Payment Gateway
+    - Merchant
+    - Payments
+    - B2B
+    - Cross-Border Payments
+  operating_region:
+    - Germany
+  based_in: Germany
+scf:
+  awarded_total: 100000
+  awarded_round:
+    - 11
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rectAXtdhsFXyPWfP
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

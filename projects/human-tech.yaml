@@ -1,0 +1,39 @@
+title: human.tech
+other_names: null
+parent: null
+description: |
+  keys, wallets, and identity for personhood, self-custody, and privacy
+links:
+  website:
+    - human.tech
+  blog: []
+  x:
+    - 0xholonym
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/holosoe/Human-Wallet-On-Stellar
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Identity
+  operating_region:
+    - Middle East & North Africa
+    - North America (without Mexico)
+    - South Asia
+  based_in: United States
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 34
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

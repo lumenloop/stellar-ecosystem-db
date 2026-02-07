@@ -1,0 +1,47 @@
+title: Decaf
+other_names:
+  - Decaf Pay
+parent: null
+description: |
+  The cheapest and fastest way to send money internationally
+links:
+  website:
+    - decaf.so
+  blog: []
+  x:
+    - decaf_so
+  linkedin:
+    - linkedin.com/company/decafpay
+  discord:
+    - discord.gg/fVn2THZAkV
+  telegram: []
+  youtube: []
+  instagram:
+    - decaf.so
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/decafteam
+attributes:
+  category: Applications
+  tags:
+    - Software Wallet
+    - Mobile
+    - P2P
+    - Cross-Border Payments
+    - Latam
+    - Multi-Chain
+  operating_region:
+    - Mexico
+  based_in: Mexico
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 17
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recp4q5jA9dXq7to6
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

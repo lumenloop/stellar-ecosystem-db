@@ -1,0 +1,38 @@
+title: Rust Soroban Client Library
+other_names: null
+parent: null
+description: |
+  rs-soroban-client is a Rust library for communicating with a Soroban RPC server and using it on the client side. This library will enable developers to seamlessly integrate Soroban functionality into their Rust-based applications and services. 
+links:
+  website:
+    - github.com/rahul-soshte/rs-soroban-client
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/rahul-soshte/rs-soroban-client
+attributes:
+  category: Developer Tooling
+  tags:
+    - SDK
+  operating_region: []
+  based_in: India
+scf:
+  awarded_total: 56000
+  awarded_round:
+    - 17
+    - 32
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recJ1m2AzJdAiqm8Q
+    - https://communityfund.stellar.org/dashboard/submissions/rec2Va7FjwZ5EM8y8
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

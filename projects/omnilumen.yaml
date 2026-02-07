@@ -1,0 +1,38 @@
+title: OmniLumen
+other_names: null
+parent: null
+description: |
+  OmniLumen is a comprehensive development environment for Stellar and Soroban, offering a suite of integrated tools and libraries to streamline the development process. OmniLumen offers a comprehensive local development suite for Stellar, similar to how wagmi.sh provides tools for Ethereum Virtual Machine (EVM) development. While wagmi.sh simplifies building on EVM with React hooks and CLI tools, OmniLumen delivers similar capabilities tailored for Stellar, including quick start, BigQuery integration, and local LLM integration.
+links:
+  website:
+    - omnilumen.net
+    - github.com/OmniLumen
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/OmniLumen
+attributes:
+  category: Developer Tooling
+  tags:
+    - DevX
+    - CLI
+  operating_region: []
+  based_in: United States
+scf:
+  awarded_total: 50000
+  awarded_round:
+    - 28
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recowXcSbEYnfaD1C
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

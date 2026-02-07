@@ -1,0 +1,39 @@
+title: KMAC State Machine Template
+other_names: null
+parent: null
+description: |
+  Design and implementation of a Finite State Machine Template using design patterns and extensible functions written in Soroban SDK
+links:
+  website:
+    - github.com/huitemagico/kmac
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/huitemagico/kmac
+attributes:
+  category: Developer Tooling
+  tags:
+    - SDK
+    - Implementation
+    - Art
+    - Community
+  operating_region: []
+  based_in: Chile
+scf:
+  awarded_total: 7500
+  awarded_round:
+    - 20
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recY4eR4uXNvkXnAG
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

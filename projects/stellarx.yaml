@@ -1,0 +1,30 @@
+title: StellarX
+other_names: null
+parent: Ultra Stellar
+description: StellarX is a decentralized trading platform built on the Stellar network, enabling users to trade a wide range of assets directly from their wallets. It offers access to Automated Market Makers (AMMs) for liquidity provision and supports seamless on and off-ramp services for various cryptocurrencies.
+links:
+  website:
+    - stellarx.com
+  blog:
+    - medium.com/stellarxhq
+  x:
+    - stellarxhq
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: null
+  tags: []
+  operating_region: []
+  based_in: null
+scf: null
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,36 @@
+title: Elio DAO
+other_names: null
+parent: null
+description: |
+  Our Platform makes it simple to launch and manage a DAO, with customizable governance rules and transparent decision-making processes.
+links:
+  website:
+    - elio-dao.org
+  blog: []
+  x:
+    - eliodao_org
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/deep-ink-ventures
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region: []
+  based_in: null
+scf:
+  awarded_total: 148200
+  awarded_round:
+    - 15
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recAn7u7cJ9KA3AEd
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

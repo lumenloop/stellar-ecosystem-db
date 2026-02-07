@@ -1,0 +1,31 @@
+title: Sora
+other_names:
+  - Soracle.org
+  - Soroban CLI Cross Platform GUI
+parent: null
+description: SORA is a Stellar development toolkit that simplifies building and managing Stellar-based projects with features like smart contract development and network configuration. It includes tools for streamlined project workflows and a Visual Studio Code extension for enhanced productivity.
+links:
+  website:
+    - posted.app
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/yk-labs-dev/soroban-cli-gui
+attributes:
+  category: null
+  tags: []
+  operating_region: []
+  based_in: null
+scf: null
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

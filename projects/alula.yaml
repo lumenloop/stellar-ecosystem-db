@@ -1,0 +1,37 @@
+title: Alula
+other_names: null
+parent: null
+description: |
+  Alula is a lending protocol with looping functionality on Stellar. It relies on the network's low-cost transactions and efficient Soroban platform to deliver best-in-class service to its users, diversifying the DeFi ecosystem.
+links:
+  website:
+    - alula.finance
+  blog: []
+  x: []
+  linkedin:
+    - linkedin.com/in/alex-a-ray
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/mfactory-lab
+attributes:
+  category: Financial Protocols
+  tags:
+    - DeFi
+    - Lending & Borrowing
+  operating_region: []
+  based_in: Switzerland
+scf:
+  awarded_total: 145000
+  awarded_round:
+    - 34
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

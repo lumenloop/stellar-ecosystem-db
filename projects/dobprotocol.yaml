@@ -1,0 +1,40 @@
+title: Dobprotocol
+other_names: null
+parent: null
+description: |
+  Dobprotocol is a decentralized protocol that automates the distribution of Real-World Assets (RWA) using artificial intelligence (AI), smart contracts, and blockchain technology. By eliminating intermediaries, Dobprotocol ensures transparent, efficient, and programmable value distribution, redefining how assets are managed and shared in the digital economy.  Our infrastructure integrates Decentralized Finance AI (DeFAI) to optimize capital allocation and financial automation, while Decentralized Autonomous Machines (DAMs) enable autonomous revenue generation and distribution without human intervention. Through blockchain interoperability, Dobprotocol facilitates seamless integration with DeFi ecosystems, tokenization platforms, and automated financial flows.  By leveraging Stellar’s fast, low-cost transactions and global reach, we aim to create a scalable, inclusive financial infrastructure that empowers individuals, businesses, and institutions to access and manage assets with efficiency and transparency.
+links:
+  website:
+    - linktr.ee/dobprotocol
+  blog: []
+  x:
+    - dobprotocol
+  linkedin:
+    - linkedin.com/company/dobprotocol
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Dobprotocol/stellar-distribution-contracts
+attributes:
+  category: Infrastructure & Services
+  tags: []
+  operating_region:
+    - Latin America & Caribbean
+    - North America (without Mexico)
+    - Europe & Central Asia
+  based_in: Chile
+scf:
+  awarded_total: 143330
+  awarded_round:
+    - 11
+    - 37
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

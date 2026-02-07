@@ -1,0 +1,48 @@
+title: Hana
+other_names:
+  - Hana Wallet
+parent: null
+description: |
+  Hana Wallet: Simple multi-chain crypto on-the-go, Like MetaMask, Polkadot.js, ICONex, Keplr, all in one, for everybody.
+links:
+  website:
+    - hanawallet.io
+  blog:
+    - medium.com/@hanawallet
+  x:
+    - hanawallet
+  linkedin:
+    - linkedin.com/company/hana-tech-1
+  discord:
+    - discord.gg/b5QvCXJjJM
+  telegram: []
+  youtube:
+    - youtube.com/@hanawallet
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Hana-Technology
+attributes:
+  category: Applications
+  tags:
+    - Browser
+    - Software Wallet
+    - Mobile
+    - Multi-Chain
+  operating_region:
+    - East Asia & Pacific
+  based_in: Australia
+scf:
+  awarded_total: 132000
+  awarded_round:
+    - 22
+    - 25
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recQxCaMDVhJL85AO
+    - https://communityfund.stellar.org/dashboard/submissions/recryJTSYRWHf1GqJ
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,49 @@
+title: Band
+other_names:
+  - Band Protocol
+parent: null
+description: |
+  Band Protocol is a cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts.
+links:
+  website:
+    - bandprotocol.com
+  blog:
+    - blog.bandprotocol.com
+  x:
+    - bandprotocol
+  linkedin:
+    - linkedin.com/company
+  discord:
+    - discord.gg/3t4bsY7
+    - discord.gg/qDcEsjCj
+  telegram:
+    - t.me/bandprotocol
+  youtube:
+    - youtube.com/@bandprotocol
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/bandprotocol
+    - github.com/bandprotocol/band-std-reference-contracts-soroban
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Oracle
+    - Cross-Chain
+    - DeFi
+    - Multi-Chain
+  operating_region:
+    - Thailand
+  based_in: Thailand
+scf:
+  awarded_total: 60000
+  awarded_round:
+    - 16
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recItGzRXb0jGGtzx
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,42 @@
+title: uils
+other_names: null
+parent: null
+description: |
+  Embedded finances for the mobility gig economy 
+links:
+  website:
+    - uils.la
+  blog: []
+  x:
+    - somosuils
+    - www.twitter.com
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags:
+    - Latam
+    - Mobile
+    - KYC
+    - Payments
+    - P2P
+  operating_region:
+    - Buenos Aires, Argentina
+  based_in: Argentina
+scf:
+  awarded_total: 141027.5
+  awarded_round:
+    - 17
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recb7lLAeoG5poknB
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,36 @@
+title: Stellarmint
+other_names: null
+parent: null
+description: |
+  Stellar Tokens Made Easier 
+links:
+  website:
+    - stellarmint.io
+  blog: []
+  x:
+    - stellarmintio
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Developer Tooling
+  tags:
+    - Launchpad
+  operating_region: []
+  based_in: United States
+scf:
+  awarded_total: 51277.94
+  awarded_round:
+    - 5
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recqwxZuu8Ox6MgqP
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

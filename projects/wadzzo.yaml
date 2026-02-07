@@ -1,0 +1,44 @@
+title: Wadzzo
+other_names:
+  - Wadzzo - Explore
+  - Collect
+  - Win
+parent: null
+description: |
+  Wadzzo is an innovative geolocation-based app that connects users with their surroundings by rewarding them for discovering and engaging with digital pins, which can be created and placed by brands and organizations. Featuring its own marketplace, Wadzzo enhances user experiences through interactive campaigns, enabling seamless exchanges of digital assets while allowing brands to foster community engagement and track participation effectively. 
+links:
+  website:
+    - wadzzo.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram:
+    - wadzzo
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Wadzzo2023
+attributes:
+  category: Applications
+  tags:
+    - Geolocation
+    - Marketplace
+    - Mobile
+    - Collectibles
+  operating_region:
+    - North America (without Mexico)
+  based_in: United States
+scf:
+  awarded_total: 5000
+  awarded_round:
+    - 27
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec9df0gMcvT7weQ2
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

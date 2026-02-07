@@ -1,0 +1,40 @@
+title: Unstoppable Wallet
+other_names: null
+parent: null
+description: |
+  Unstoppable Wallet is an open-source, non-custodial, cryptocurrency wallet that supports multiple blockchains, including Bitcoin, Ethereum, and others. It provides secure storage and management of assets, along with features like swapping and DeFi integration. Being open-source, its transparency and security can be verified by the community. Available for iOS and Android.
+links:
+  website:
+    - unstoppable.money
+  blog: []
+  x:
+    - unstoppablebyhs
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/horizontalsystems/StellarKit.Swift / https://github.com/horizontalsystems/stellar-kit-android
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Software Wallet
+    - Cross-Chain
+    - DeFi
+    - Multi-Chain
+  operating_region:
+    - North America (without Mexico)
+  based_in: Turkey
+scf:
+  awarded_total: 128900
+  awarded_round:
+    - 34
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

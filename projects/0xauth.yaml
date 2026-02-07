@@ -1,0 +1,43 @@
+title: 0xAuth
+other_names: null
+parent: null
+description: |
+  0xAuth will enable seamless compliance andinteroperability for tokenised funds.
+links:
+  website:
+    - 0xauth.co
+    - david.inc
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/authentication-labs/0xauth-stellar
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Cross-Chain
+    - Identity
+    - KYC
+    - Multi-Chain
+    - Tokenization
+  operating_region: []
+  based_in: United Arab Emirates
+scf:
+  awarded_total: 135000
+  awarded_round:
+    - 27
+    - 29
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec2UJLCx1DBLgdm4
+    - https://communityfund.stellar.org/dashboard/submissions/recsAQHCghw9HIUvF
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,36 @@
+title: Dex Tools
+other_names:
+  - DEXTools Soroban Integration
+parent: null
+description: Provide real time pricing data, charts, price alerts and other valuable information to traders of all Soroban pools.
+links:
+  website:
+    - dextools.io
+  blog:
+    - dextools.medium.com
+  x:
+    - dextoolsapp
+  linkedin:
+    - linkedin.com/company/dextoolsapp
+  discord: []
+  telegram:
+    - t.me/DEXToolsCommunity
+  youtube:
+    - youtube.com/c/DEXToolsAcademy
+  instagram:
+    - dextools.official
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/dextools-io
+attributes:
+  category: null
+  tags: []
+  operating_region: []
+  based_in: null
+scf: null
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

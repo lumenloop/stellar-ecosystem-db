@@ -1,0 +1,43 @@
+title: BitGifty
+other_names: null
+parent: null
+description: |
+  Enabling Crypto GIfting and Bill Payment in Africa
+links:
+  website:
+    - bitgifty.com
+  blog: []
+  x:
+    - bitgifty
+  linkedin:
+    - linkedin.com/company/bitgifty
+  discord: []
+  telegram: []
+  youtube: []
+  instagram:
+    - bitgifty
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/damzylance/bigiftyxsoroban
+attributes:
+  category: Applications
+  tags:
+    - Gift Cards
+    - Africa
+    - Bill Payment
+    - Payments
+  operating_region:
+    - Nigeria
+  based_in: Nigeria
+scf:
+  awarded_total: 35200
+  awarded_round:
+    - 27
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recUleqROhGvokHEf
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

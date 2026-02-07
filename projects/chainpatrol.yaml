@@ -1,0 +1,40 @@
+title: ChainPatrol
+other_names: null
+parent: null
+description: |
+  ChainPatrol is a real-time Web3 security platform that detects, blocks, and takes down online threats targeting crypto users, such as phishing sites, fake social accounts, and impersonation attempts. Our system protects leading ecosystems like Consensys, Arbitrum, and Sui through proactive monitoring and takedown coverage across Discord, Slack, Telegram, and over 20 crypto wallets. With support from Stellar, we aim to expand this coverage to safeguard its ecosystem, boost user trust, and enable safer adoption.
+links:
+  website:
+    - chainpatrol.com
+  blog: []
+  x:
+    - chainpatrol
+  linkedin:
+    - linkedin.com/company/chainpatrol
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/chainpatrol
+attributes:
+  category: Infrastructure & Services
+  tags: []
+  operating_region:
+    - East Asia & Pacific
+    - Europe & Central Asia
+    - North America (without Mexico)
+    - Latin America & Caribbean
+  based_in: Canada
+scf:
+  awarded_total: 100000
+  awarded_round:
+    - 40
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

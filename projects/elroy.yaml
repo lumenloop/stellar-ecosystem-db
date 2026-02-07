@@ -1,0 +1,32 @@
+title: Elroy
+other_names: null
+parent: Boss Revolution
+description: Banking services without credit checks, offering free debit cards, no hidden fees, and compatibility with Apple Pay and Google Pay.
+links:
+  website:
+    - elroy.app
+  blog:
+    - elroy.app/blog
+  x:
+    - myelroyapp
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram:
+    - myelroyapp
+  reddit: []
+  tiktok:
+    - myelroy
+  linktree: []
+  github: []
+attributes:
+  category: null
+  tags: []
+  operating_region: []
+  based_in: null
+scf: null
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

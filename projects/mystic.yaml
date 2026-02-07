@@ -1,0 +1,44 @@
+title: Mystic
+other_names:
+  - Mystic - RWA lending market
+  - Mystic Finance
+parent: null
+description: |
+  Mystic is building a lending market for RWAs, which lets borrowers take out stablecoins using their tokenized real-world assets.
+links:
+  website:
+    - mysticfinance.xyz
+  blog:
+    - mirror.xyz/0xEB0700e0526471858c756D2074944EDecB547d92
+  x:
+    - mystic_finance
+  linkedin:
+    - linkedin.com/company/mysticfinancexyz
+  discord:
+    - discord.gg/bxBk2YJ6wM
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/mystic-finance
+attributes:
+  category: Financial Protocols
+  tags:
+    - DeFi
+    - Lending & Borrowing
+  operating_region:
+    - Nigeria
+  based_in: Portugal
+scf:
+  awarded_total: 47000
+  awarded_round:
+    - 29
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recqCzftyJOhfSKmB
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

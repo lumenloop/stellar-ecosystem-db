@@ -1,0 +1,29 @@
+title: Freighter
+other_names: null
+parent: null
+description: Freighter is a non-custodial browser extension wallet developed by the Stellar Development Foundation that enables users to sign Stellar transactions directly from their web browser.
+links:
+  website:
+    - freighter.app
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/stellar/freighter
+attributes:
+  category: null
+  tags: []
+  operating_region: []
+  based_in: null
+scf: null
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

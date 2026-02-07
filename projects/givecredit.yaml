@@ -1,0 +1,45 @@
+title: GiveCredit
+other_names: null
+parent: null
+description: |
+  Offset carbon emissions with tax-deductible XLM donations- automated by Soroban.
+links:
+  website:
+    - givecredits.cfce.io
+  blog: []
+  x:
+    - c4collabecon
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/CollaborativeEconomics/give-credit
+    - github.com/aolieman/cfce-monorepo
+attributes:
+  category: Applications
+  tags:
+    - Eco-Friendly
+    - NFT
+    - AI
+  operating_region:
+    - Latin America & Caribbean
+    - Sub-Saharan Africa
+    - North America (without Mexico)
+  based_in: United States
+scf:
+  awarded_total: 97000
+  awarded_round:
+    - 22
+    - 28
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recal7H9VYGzL17M0
+    - https://communityfund.stellar.org/dashboard/submissions/recjpO5HRcHKL3QhH
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

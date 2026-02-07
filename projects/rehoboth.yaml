@@ -1,0 +1,44 @@
+title: Rehoboth
+other_names:
+  - Rehoboth Finance
+parent: null
+description: |
+  Crypto Savings and Payments
+links:
+  website:
+    - rehobothfinance.com
+  blog:
+    - rehobothfinance.medium.com
+  x:
+    - rehobothapp
+  linkedin:
+    - linkedin.com/company/rehoboth-finance
+  discord: []
+  telegram:
+    - t.me/rehobothfinance
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Rehoboth-Finance
+attributes:
+  category: Applications
+  tags:
+    - Africa
+    - Savings
+    - P2P
+  operating_region:
+    - Sub-Saharan Africa
+  based_in: Nigeria
+scf:
+  awarded_total: 23300
+  awarded_round:
+    - 27
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recHJGfP4QX8paLWp
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

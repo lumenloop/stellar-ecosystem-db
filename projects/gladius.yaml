@@ -1,0 +1,43 @@
+title: Gladius
+other_names:
+  - 'Gladius: play'
+  - learn
+  - earn
+parent: null
+description: |
+  Gladius gamifies education, connecting parents, sports clubs, and students with NFT prizes and rewards
+links:
+  website:
+    - gladiusclub.com
+  blog: []
+  x:
+    - dcromp88
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/gladiusclub
+attributes:
+  category: Applications
+  tags:
+    - Gaming
+    - e-learning
+    - NFTs
+  operating_region:
+    - Europe & Central Asia
+  based_in: Estonia
+scf:
+  awarded_total: 45000
+  awarded_round:
+    - 23
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recfsyLeAtOamI3vm
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

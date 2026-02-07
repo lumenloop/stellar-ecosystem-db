@@ -1,0 +1,45 @@
+title: Bondhive
+other_names:
+  - BondHive:OnChain Fixed Deposit
+parent: null
+description: |
+  Bond Hive simplifies on-chain savings, offering fixed returns by tokenizing funding fees, making complex futures easy for everyone
+links:
+  website:
+    - bondhive.xyz
+  blog: []
+  x:
+    - bondhive
+  linkedin: []
+  discord: []
+  telegram:
+    - t.me/+AjBlPFAjjLYyNWNl
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Bond-Hive
+    - github.com/Bond-Hive/soroban_contracts
+attributes:
+  category: Financial Protocols
+  tags:
+    - Yield
+    - DeFi
+  operating_region:
+    - France
+  based_in: United Kingdom
+scf:
+  awarded_total: 190000
+  awarded_round:
+    - 27
+    - 29
+    - 24
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec1ukEnQRTCfaoHw
+    - https://communityfund.stellar.org/dashboard/submissions/recFFYDdyYhSVQ9np
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

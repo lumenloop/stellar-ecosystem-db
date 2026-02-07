@@ -1,0 +1,55 @@
+title: Meru
+other_names: null
+parent: null
+description: |
+  Financial services app for Freelancers and remote workers in Latin America
+links:
+  website:
+    - getmeru.com
+  blog:
+    - getmeru.com/blog
+  x:
+    - getmeru
+  linkedin:
+    - linkedin.com/company/meru-r3mit-solutions-inc
+    - linkedin.com/company/88967421/admin/feed/posts
+  discord:
+    - discord.gg/dgAdX37rHN
+    - discord.gg/AJwxuhGY
+  telegram: []
+  youtube:
+    - youtube.com/channel/UCAsKXCWWM7OoT5bWimGttrg
+  instagram:
+    - meru.app
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags:
+    - Software Wallet
+    - Mobile
+    - P2P
+    - Latam
+    - Cross-Border Payments
+    - DeFi
+    - Savings
+    - Freelancers
+    - Moneygram
+  operating_region: []
+  based_in: Colombia
+scf:
+  awarded_total: 225360
+  awarded_round:
+    - 14
+    - 22
+    - 25
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/reck9KKpu9MWkU3Bf
+    - https://communityfund.stellar.org/dashboard/submissions/recdQqHy4AR9ZBWyO
+    - https://communityfund.stellar.org/dashboard/submissions/recNGVuHLxCxlKmzw
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

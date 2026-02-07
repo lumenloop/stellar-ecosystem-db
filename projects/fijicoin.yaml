@@ -1,0 +1,33 @@
+title: FijiCoin
+other_names: null
+parent: null
+description: Pathway for remittances into the South PacificPathway for remittances into the South Pacific.
+links:
+  website:
+    - mai.money
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: Fiji
+scf:
+  awarded_total: 50000
+  awarded_round:
+    - 8
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recSS7NnNEi1Fa3eM
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

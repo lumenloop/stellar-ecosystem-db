@@ -1,0 +1,47 @@
+title: Decentrio
+other_names: null
+parent: null
+description: |
+  We propose to provide a reliable RPC service and make a highly functional transactions/events indexer for Soroban Dapp.
+links:
+  website:
+    - decentrio.ventures
+  blog: []
+  x:
+    - decentriolabs
+  linkedin: []
+  discord:
+    - decentrio.ventures
+  telegram:
+    - decentrio.ventures
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/decentrio
+    - github.com/decentrio/sorobook
+attributes:
+  category: Developer Tooling
+  tags:
+    - RPC
+    - API
+    - Database
+    - Hosting
+    - Infrastructure
+  operating_region:
+    - Viet Nam
+  based_in: Vietnam
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 24
+    - 29
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec38EACiEgZHpXzk
+    - https://communityfund.stellar.org/dashboard/submissions/rec9Hr5X3cViYi8Te
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,38 @@
+title: Juntta
+other_names:
+  - 'Juntta: Web3 Crowdfunding for LATAM'
+parent: null
+description: |
+  Juntta is the first transparent crowdfunding platform built in Peru, addressing the trust gap in digital fundraising across Latin America. It allows individuals, NGOs, and companies to launch verified campaigns in minutes, share their stories with images and updates, display real-time progress, and publish a complete donor list. Donations currently flow through local payment rails (Yape, Plin, bank transfers) and credit/debit cards, both domestic and international. After winning the Stellar Ideathon 2025, we developed a working prototype that connects traditional payment methods with a blockchain-ready backend. With SCF Build, Juntta will integrate the Stellar network to bring full on-chain transparency to donations and fund management. Each contribution will trigger a transaction on Stellar, generating a verifiable record stored in the public ledger and displayed on a real-time dashboard. Smart contracts built on Soroban will escrow donations, automate milestone-based releases, and record fund movement between wallets. A custom API layer will index blockchain data, synchronize it with Juntta’s Web2 interface, and allow third parties—such as NGOs or CSR programs—to connect seamlessly. Our MVP focuses on verified social impact campaigns in Peru, aiming to digitize a market that remains mostly offline. Upcoming features include Juntta Rifas, a transparent raffle tool for NGOs and creators, and Juntta Empresas, built for companies running CSR initiatives. Stellar’s low-cost, borderless infrastructure will enable expansion across LATAM. Led by a multidisciplinary team in fintech, social impact, and software engineering, Juntta’s mission is to rebuild trust in digital giving and make transparent fundraising accessible to everyone in Latin America.
+links:
+  website:
+    - juntta.org
+  blog: []
+  x:
+    - junttaperu
+  linkedin:
+    - linkedin.com/company/juntta
+  discord:
+    - discord.gg/HPhW9Unx
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - Latin America & Caribbean
+  based_in: Peru
+scf:
+  awarded_total: 48000
+  awarded_round:
+    - 40
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

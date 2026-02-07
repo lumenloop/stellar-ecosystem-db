@@ -1,0 +1,43 @@
+title: Copperx
+other_names:
+  - Copperx - Gateway and Payout
+parent: null
+description: |
+  We’re building next-gen financial tools for businesses and consumers to help accept and manage payments using stablecoins.
+links:
+  website:
+    - copperx.io
+  blog:
+    - copperx.io/blog
+  x:
+    - copperxhq
+  linkedin:
+    - linkedin.com/company/copperx
+  discord: []
+  telegram:
+    - t.me/+bVxXaalfhF8wMDFl
+  youtube:
+    - youtube.com/@copperxhq
+  instagram:
+    - copperxhq
+  reddit:
+    - r/Copperx
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/copperxhq
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: United Arab Emirates
+scf:
+  awarded_total: 50000
+  awarded_round:
+    - 29
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec02RUwR3wO7gsH3
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

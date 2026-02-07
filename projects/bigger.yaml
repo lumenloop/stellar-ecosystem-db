@@ -1,0 +1,45 @@
+title: Bigger
+other_names:
+  - BiGGER - Startup Camp 2.0
+parent: null
+description: |
+  Relaunching the Stellar Startup Camp to make it self-serve and replicable globally.
+links:
+  website:
+    - biggertech.co
+  blog:
+    - biggertech.co/blog
+  x:
+    - biggertechco
+  linkedin:
+    - linkedin.com/company/biggertech
+  discord: []
+  telegram: []
+  youtube: []
+  instagram:
+    - biggertech.co
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/bigger-tech
+attributes:
+  category: Education & Community
+  tags:
+    - Community
+    - Workshops
+  operating_region:
+    - Sidney, Australia
+  based_in: Australia
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 23
+    - 28
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recLcRUIYogQT6DHs
+    - https://communityfund.stellar.org/dashboard/submissions/recGWdH8UVAhNcaxx
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

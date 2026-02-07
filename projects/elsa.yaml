@@ -1,0 +1,40 @@
+title: Elsa
+other_names:
+  - 'Elsa Wallet: Banking Filipinos'
+parent: Borderless
+description: |
+  A wallet for Filipinos to receive, spend and earn from their remittances – bringing them closer to their overseas loved ones.
+links:
+  website:
+    - elsa.care
+  blog: []
+  x:
+    - elsa_fintech
+  linkedin:
+    - linkedin.com/company/elsa-care
+  discord: []
+  telegram: []
+  youtube: []
+  instagram:
+    - hi.elsa.care
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/elsa-care
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - Spain
+  based_in: null
+scf:
+  awarded_total: 95000
+  awarded_round:
+    - 11
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec98Nb2sLU0GFRvp
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

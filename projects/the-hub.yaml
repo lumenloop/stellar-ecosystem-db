@@ -1,0 +1,41 @@
+title: THE HUB
+other_names:
+  - THE HUB Citizens Portal
+parent: null
+description: |
+  Deploy THE HUB Citizens Portal (interoperable avatar generation platform) on Stellar.
+links:
+  website:
+    - thehubdao.xyz
+  blog:
+    - medium.com/@THEHUB_DAO
+  x:
+    - thehub_dao
+  linkedin:
+    - linkedin.com/company/the-hub-dao
+  discord: []
+  telegram:
+    - t.me/thehub_dao
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/thehubdao
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - Germany
+  based_in: Germany
+scf:
+  awarded_total: 46500
+  awarded_round:
+    - 29
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recQFye9LGFqAXQWh
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,48 @@
+title: Lumen Loop
+other_names: null
+parent: null
+description: |
+  Lumen Loop aggregates the latest news, projects and events from the Stellar ecosystem into one central hub.
+links:
+  website:
+    - lumenloop.com
+  blog: []
+  x:
+    - lumenloop
+  linkedin:
+    - linkedin.com/company/lumenloop
+  discord: []
+  telegram: []
+  youtube:
+    - youtube.com/@lumen_loop
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/lumenloop
+attributes:
+  category: Applications
+  tags:
+    - Ecosystem Discovery
+    - AI
+    - Community
+    - Analytics
+    - Database
+    - Automation
+    - Social
+    - Identity
+  operating_region:
+    - North America (without Mexico)
+  based_in: United States
+scf:
+  awarded_total: 142720
+  awarded_round:
+    - 26
+    - 35
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recIejuRkvbm4kZSv
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,47 @@
+title: Emigro
+other_names: null
+parent: null
+description: |
+  Emigro is the traveler's digital wallet. A fiat stablecoin-based, card-less digital payments wallet for digital nomads, long-term travelers and expats in LatAm.
+links:
+  website:
+    - emigro.co
+  blog: []
+  x:
+    - emigrobr
+  linkedin:
+    - linkedin.com/br.linkedin.com/company/emigro-inc
+    - linkedin.com/company/emigro-inc
+  discord: []
+  telegram: []
+  youtube: []
+  instagram:
+    - emigrobr
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/emigro
+attributes:
+  category: Applications
+  tags:
+    - Latam
+    - Payments
+    - P2P
+    - Software Wallet
+  operating_region: []
+  based_in: Brazil
+scf:
+  awarded_total: 176320
+  awarded_round:
+    - 17
+    - 20
+    - 25
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recMpM56WpU1AMLd1
+    - https://communityfund.stellar.org/dashboard/submissions/rec3V2931dtXFcoML
+    - https://communityfund.stellar.org/dashboard/submissions/recrEOmS40AmR6y25
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

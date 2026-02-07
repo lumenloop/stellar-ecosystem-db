@@ -1,0 +1,53 @@
+title: SiBorg
+other_names: null
+parent: null
+description: |
+  SiBorg is creating a decentralized monetization protocol that transforms media and creator visibility into a new asset class by tokenizing advertising spaces across various interfaces, enabling buyers to speculate on the future growth of publishers
+links:
+  website:
+    - siborg.io
+  blog:
+    - mirror.xyz/0x075E07cFacE72E7256a47509C833C1515d2508b6
+  x:
+    - siborglabs
+  linkedin:
+    - linkedin.com/company/siborg
+  discord:
+    - discord.gg/siborglabs
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/siborg.io
+    - github.com/siborg-ads/stellar-client
+attributes:
+  category: Developer Tooling
+  tags:
+    - Tokenization
+    - Marketplace
+    - DeFi
+    - Art
+    - API
+    - SDK
+    - GraphQL
+    - Rust
+    - Python
+    - JS
+    - Storage
+    - Payments
+  operating_region:
+    - Europe & Central Asia
+  based_in: France
+scf:
+  awarded_total: 95900
+  awarded_round:
+    - 31
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec7DMQ1TCxcapjR3
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

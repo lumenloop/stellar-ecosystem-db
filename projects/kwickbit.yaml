@@ -1,0 +1,44 @@
+title: Kwickbit
+other_names:
+  - 'Kwickbit: Corp DeFi Accounting'
+parent: null
+description: |
+  Enhance DeFi accounting with full transaction history, reconciliation, financial reports via UI/API, expand protocol integration
+links:
+  website:
+    - kwickbit.com
+  blog:
+    - kwickbit.medium.com
+  x:
+    - kwickbit
+  linkedin:
+    - linkedin.com/company/kwickbit
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/kwickbit
+attributes:
+  category: Applications
+  tags:
+    - Accounting
+    - API
+  operating_region:
+    - French Guiana
+  based_in: Estonia
+scf:
+  awarded_total: 119000
+  awarded_round:
+    - 20
+    - 24
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec4NbrgB4FWGVIm4
+    - https://communityfund.stellar.org/dashboard/submissions/recrcyLc9CBiDZ8Ev
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

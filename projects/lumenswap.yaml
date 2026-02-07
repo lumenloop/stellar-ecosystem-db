@@ -1,0 +1,42 @@
+title: Lumenswap
+other_names: null
+parent: null
+description: |
+  Web service to swap assets on Stellar network
+links:
+  website:
+    - lumenswap.io
+  blog:
+    - medium.com/lumenswap
+  x: []
+  linkedin: []
+  discord:
+    - discord.gg/98pkKef9wa
+  telegram:
+    - t.me/LumenswapCommunity
+  youtube:
+    - youtube.com/channel/UCxyo1M9bSvsjXVu8nOakwTg
+  instagram:
+    - lumenswapofficial
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/lumenswap
+attributes:
+  category: Financial Protocols
+  tags:
+    - DEX
+    - Web
+  operating_region: []
+  based_in: null
+scf:
+  awarded_total: 6786.63
+  awarded_round:
+    - 6
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recu69dUtviRW6oC7
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

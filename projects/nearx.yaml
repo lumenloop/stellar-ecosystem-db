@@ -1,0 +1,44 @@
+title: NearX
+other_names:
+  - NearX - Dev Educational Program
+parent: null
+description: |
+  Comprehensive educational program for web2 developers to master Stellar & Soroban coding.
+links:
+  website:
+    - nearx.com.br
+  blog: []
+  x:
+    - nearxschool
+  linkedin: []
+  discord:
+    - discord.gg/nearx
+  telegram: []
+  youtube:
+    - youtube.com/@Nearxschool
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/nrxschool
+attributes:
+  category: Education & Community
+  tags:
+    - Community
+    - Latam
+  operating_region:
+    - Brazil
+  based_in: Brazil
+scf:
+  awarded_total: 79990
+  awarded_round:
+    - 25
+    - 29
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec0XaDF02evmi06n
+    - https://communityfund.stellar.org/dashboard/submissions/recgSPiti9D1KPRG3
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

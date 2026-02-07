@@ -1,0 +1,40 @@
+title: Nebula
+other_names: null
+parent: Eiger
+description: |
+  Nebula a Soroban contract library, governance, modules and ready to use contracts. Quasar a Soroban indexer.
+links:
+  website:
+    - nebula.eiger.co
+    - eiger.co
+  blog:
+    - eiger.co/blog
+  x:
+    - eiger_co
+  linkedin:
+    - linkedin.com/company/eigerco
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/eigerco/nebula
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region:
+    - Finland
+  based_in: null
+scf:
+  awarded_total: 149458
+  awarded_round:
+    - 18
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recYkjDsD5FKqcfy0
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

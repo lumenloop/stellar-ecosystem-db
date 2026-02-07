@@ -1,0 +1,50 @@
+title: Artizen
+other_names: null
+parent: null
+description: |
+  Artizen is a match funding platform. We help brads 10x growth for their ecosystems by funding breakthroughs in art, science, and technology.
+links:
+  website:
+    - artizen.fund
+  blog: []
+  x:
+    - artizenfund
+  linkedin:
+    - linkedin.com/company/artizen-fund
+  discord: []
+  telegram: []
+  youtube: []
+  instagram:
+    - artizen_fund
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/artizen-fund
+attributes:
+  category: Applications
+  tags:
+    - NFT
+    - Cross-Border Payments
+    - Payments
+    - Tokenization
+    - Ecosystem Discovery
+  operating_region:
+    - Latin America & Caribbean
+    - South Asia
+    - East Asia & Pacific
+    - Middle East & North Africa
+    - Europe & Central Asia
+    - North America (without Mexico)
+    - Sub-Saharan Africa
+  based_in: United States
+scf:
+  awarded_total: 130000
+  awarded_round:
+    - 33
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recbMhw9t64VaUFUP
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

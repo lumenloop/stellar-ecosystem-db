@@ -1,0 +1,38 @@
+title: Soroban Security Portal
+other_names: null
+parent: null
+description: |
+  Soroban Security Portal is a go-to hub for all things secure in the world of Soroban - Soroban's smart contract platform. Think of it as your safety compass: audit history, tools, tips and top-tier experts who've put Soroban projects through their paces.
+links:
+  website:
+    - sorobansecurity.com
+  blog: []
+  x:
+    - inferara_kk
+  linkedin:
+    - linkedin.com/company/inferara
+  discord:
+    - discord.gg/AHb3fBuU
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Inferara/soroban-security-portal
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region:
+    - East Asia & Pacific
+  based_in: Japan
+scf:
+  awarded_total: 44190
+  awarded_round:
+    - 36
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,45 @@
+title: Spacewalk
+other_names: null
+parent: Pendulum
+description: |
+  The first bridge to Polkadot: giving Stellar users more access to the DeFi world.
+links:
+  website:
+    - pendulumchain.org/spacewalk
+  blog:
+    - medium.com/pendulum-chain
+  x:
+    - pendulum_chain
+  linkedin:
+    - linkedin.com/company/pendulum-chain
+  discord:
+    - discord.gg/wJ2fQh776B
+  telegram:
+    - t.me/pendulum_community
+  youtube: []
+  instagram: []
+  reddit:
+    - r/Pendulum_Chain
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/pendulum-chain
+    - github.com/pendulum-chain/spacewalk
+attributes:
+  category: Financial Protocols
+  tags:
+    - Bridge
+    - Multi-Chain
+  operating_region:
+    - Germany
+  based_in: Germany
+scf:
+  awarded_total: 100000
+  awarded_round:
+    - 11
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recY3x0bUhYwPUUSY
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

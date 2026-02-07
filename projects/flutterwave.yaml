@@ -1,0 +1,32 @@
+title: Flutterwave
+other_names: null
+parent: null
+description: Flutterwave is a fintech company that provides payment infrastructure for global merchants and service providers, enabling businesses to accept payments in over 150 currencies through various channels.
+links:
+  website:
+    - flutterwave.com
+  blog:
+    - flutterwave.com/us/blog
+  x:
+    - theflutterwave
+  linkedin:
+    - linkedin.com/company/flutterwave
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/flutterwave
+attributes:
+  category: null
+  tags: []
+  operating_region: []
+  based_in: null
+scf: null
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

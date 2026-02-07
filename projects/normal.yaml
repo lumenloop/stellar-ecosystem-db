@@ -1,0 +1,46 @@
+title: Normal
+other_names: null
+parent: null
+description: |
+  A wrapped asset protocol helping institutions turn any token held in qualified custody into a yield-generating wrapped asset (“Normal Token”), which can be deployed as liquidity across DEXs. This makes it possible for investors to trade any crypto asset from a single interface and create on-chain crypto index fund tokens — each representing a diversified basket of assets, transparently rebalanced and fully tradable on-chain.
+links:
+  website:
+    - normalfinance.io/protocol
+    - normalfinance.io
+  blog:
+    - normalfi.substack.com
+  x:
+    - normalfi
+  linkedin:
+    - linkedin.com/company/normalfi
+  discord:
+    - discord.gg/xQMvceZjeS
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/normalfinance/normal-v1
+    - github.com/normalfinance/normal-stellar-amm
+attributes:
+  category: Financial Protocols
+  tags:
+    - Synthetics
+    - DeFi
+  operating_region:
+    - North America (without Mexico)
+  based_in: United States
+scf:
+  awarded_total: 200000
+  awarded_round:
+    - 31
+    - 35
+    - 25
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec1aqc0VAiLYnxnM
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

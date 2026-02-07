@@ -1,0 +1,45 @@
+title: StellarGPT
+other_names: null
+parent: null
+description: |
+  Semantic and Index-Based Search Integration across the entire Stellar Ecosystem digital footprint of docs, APIs, dApps etc.
+links:
+  website:
+    - stellar-gpt.vercel.app
+  blog: []
+  x: []
+  linkedin: []
+  discord:
+    - discord.gg/Ruv3sbNQ
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/richafltr/StellarGPT
+attributes:
+  category: Developer Tooling
+  tags:
+    - Africa
+    - Asia
+    - Web
+    - API
+    - e-learning
+    - Ecosystem Discovery
+    - Identity
+    - Community
+  operating_region:
+    - North America (without Mexico)
+  based_in: United States
+scf:
+  awarded_total: 25000
+  awarded_round:
+    - 20
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec3J9EW3GQO3lgXR
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,40 @@
+title: Soroban Assistant
+other_names: null
+parent: null
+description: |
+  AI assistant for Soroban Q&A, smart-contract code writing & rigorous testing to elevate your smart-contract projects.
+links:
+  website:
+    - soroban-assistant.herokuapp.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Developer Tooling
+  tags:
+    - AI
+    - Fuzz
+    - Formal Verification
+    - Solidity
+    - Security
+    - Automation
+  operating_region: []
+  based_in: France
+scf:
+  awarded_total: 15000
+  awarded_round:
+    - 14
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec0jGQZos0pFphvx
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

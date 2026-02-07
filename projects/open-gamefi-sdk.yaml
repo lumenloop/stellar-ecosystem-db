@@ -1,0 +1,35 @@
+title: 'Open GameFi SDK '
+other_names: null
+parent: null
+description: |
+  Strengthening Stellar's ecosystem with open-source tools for GameFi integration.
+links:
+  website:
+    - github.com/yanis7774/Stellar-GameFi-integration/tree/main
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/yanis7774/Stellar-GameFi-integration
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region: []
+  based_in: null
+scf:
+  awarded_total: 39000
+  awarded_round:
+    - 28
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recchyWjFSmOPmvZl
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

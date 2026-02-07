@@ -1,0 +1,35 @@
+title: Soroban SDK Tools
+other_names: null
+parent: null
+description: |
+  We propose the soroban-sdk-tools crate extending rs-soroban-sdk, designed to streamline smart contract development. Loam, which has largely been integrated into scaffold-stellar, contains loamstorage (https://github.com/loambuild/loam/blob/main/crates/loam-sdk-macro/src/subcontract/storage.rs), a storage management framework. This project builds upon this functionality by introducing additional tools for storage management, composable error handling, and contract authorization testing:  loamstorage consolidates the storage interface into one type, removing boilerplate and focusing on what is being stored. It introduced storage collections which handle the key definitions, ensuring their uniqueness. We propose contractstorage which will expand on this foundation: including macros enabling shorter key names reducing storage costs without sacrificing readability, mechanisms for automatically minimizing key sizes to optimize ledger efficiency, and composable storage patterns that promote modular contract design while ensuring unique storage keys.  scerr, a framework for composable error propagation across contracts. Currently errors are manually assigned a number. If they are imported from different sources and are assigned the same one, when the contract fails it will be unclear which one was the cause. Our solution will ensure that each error is assigned a unique number, even those from cross contract calls.  We also plan to improve authorization flow testing. Currently when writing tests developers must handcraft a mock authorization entry before making a contract call. We propose a new contract client which will handle both authorizing and making contract calls.  soroban-sdk-tools will enhance developer productivity, reduce on-chain resource consumption, and foster consistency in contract implementations. 
+links:
+  website:
+    - github.com/BlaineHeffron/soroban-sdk-tools
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/BlaineHeffron/soroban-sdk-tools
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region:
+    - North America (without Mexico)
+  based_in: United States
+scf:
+  awarded_total: 60000
+  awarded_round:
+    - 39
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

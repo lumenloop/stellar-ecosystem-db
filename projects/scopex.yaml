@@ -1,0 +1,42 @@
+title: ScopeX
+other_names: null
+parent: null
+description: |
+  Simplified fiat remittance app for web2 users without exposing complexity of crypto world
+links:
+  website:
+    - scopex.money
+  blog: []
+  x:
+    - 0xscopex
+  linkedin:
+    - linkedin.com/company/0xscopex
+  discord: []
+  telegram: []
+  youtube: []
+  instagram:
+    - scopex_fintech
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags:
+    - Cross-Border Payments
+    - India
+    - Asia
+  operating_region: []
+  based_in: India
+scf:
+  awarded_total: 78000
+  awarded_round:
+    - 26
+    - 30
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recVBPIbN6ojsDcHK
+    - https://communityfund.stellar.org/dashboard/submissions/recQqSzJ9ggbbyirH
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

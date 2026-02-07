@@ -1,0 +1,40 @@
+title: LOAM
+other_names: null
+parent: null
+description: |
+  Focus on the important parts of your Soroban Dapp. Let Loam handle the tedious bits.
+links:
+  website:
+    - loam.build
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/loambuild
+attributes:
+  category: Developer Tooling
+  tags:
+    - SDK
+    - Automation
+    - DevX
+  operating_region: []
+  based_in: United States
+scf:
+  awarded_total: 143900
+  awarded_round:
+    - 24
+    - 29
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec3XoeMveOKOZzQS
+    - https://communityfund.stellar.org/dashboard/submissions/rect6tCyLANzPdveo
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,46 @@
+title: Eascrow
+other_names: null
+parent: null
+description: |2
+   Eascrow is a web3 escrow platform powered by Stellar smart contracts, ensuring secure and transparent online transactions. It simplifies cross-border payments and builds trust for freelancers, businesses, and individuals.
+links:
+  website:
+    - eascrow.webflow.io
+    - eascrow.xyz
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Eascrow/Eascrow
+attributes:
+  category: Financial Protocols
+  tags:
+    - Web
+    - Cross-Border Payments
+    - Freelancers
+    - Payments
+    - Art
+    - Security
+  operating_region:
+    - Europe & Central Asia
+    - Latin America & Caribbean
+  based_in: France
+scf:
+  awarded_total: 147950
+  awarded_round:
+    - 23
+    - 32
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec5SQUCL0doQ1r5M
+    - https://communityfund.stellar.org/dashboard/submissions/rec6VkAae8WVHS0XA
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

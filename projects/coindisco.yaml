@@ -1,0 +1,44 @@
+title: Coindisco
+other_names:
+  - Galaxy Ramp - fiat onramp to any token on Stellar
+parent: Ultra Stellar
+description: |
+  Galaxy Ramp offers an onramp for any token on the Stellar network to help users simplify the purchase of Stellar tokens with fiat using Soroban. Existing solutions do not allow direct purchase with a card or bank account on Stellar any tokens except XLM or USDC.
+links:
+  website:
+    - coindisco.com
+  blog: []
+  x:
+    - coindisco
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/coindisco
+    - github.com/coindisco/galaxy-ramp
+attributes:
+  category: Applications
+  tags:
+    - On-Off Ramp
+    - API
+    - Payments
+    - Infrastructure
+    - Multi-Chain
+  operating_region:
+    - East Asia & Pacific
+  based_in: Poland
+scf:
+  awarded_total: 96000
+  awarded_round:
+    - 30
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec7yuazvycNZIcvj
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

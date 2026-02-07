@@ -1,0 +1,39 @@
+title: Puenta
+other_names:
+  - KometPay
+parent: null
+description: |
+  KometPay is the app that helps Latino migrants to better support their families abroad. At its core, KometPay leverages blockchain to offer the most competitive international money transfer option - in terms of speed, cost and ease - between US and Colombia. We also empower recipients to hold and transact in USD (USDC) to mitigate local currency fluctuation and also with free and instant local transfers.
+links:
+  website:
+    - kometpay.com
+  blog: []
+  x: []
+  linkedin:
+    - linkedin.com/company/kometpay/?viewAsMember=true
+  discord:
+    - kometpay
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+scf:
+  awarded_total: 171294
+  awarded_round:
+    - 14
+    - 18
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recuFZQfo6tloPz6e
+    - https://communityfund.stellar.org/dashboard/submissions/recI9BE8VwhuHqyBp
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

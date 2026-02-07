@@ -1,0 +1,34 @@
+title: Clear
+other_names: null
+parent: null
+description: |
+  Asmart contract solution connecting payment companies to instant liquidity from individual guarantors for their daily operations.
+links:
+  website:
+    - borderlesspayments.xyz/clear
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Financial Protocols
+  tags: []
+  operating_region: []
+  based_in: Spain
+scf:
+  awarded_total: 45000
+  awarded_round:
+    - 26
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recZI6G0tdDrevSQz
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

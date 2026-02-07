@@ -1,0 +1,47 @@
+title: Paystreme
+other_names: null
+parent: Wallet Guru
+description: |
+  A payment streaming platform that enables customers to pay in real time for services.
+links:
+  website:
+    - mywalletguru.com
+    - walletguru.com
+  blog: []
+  x:
+    - walletgurullc
+  linkedin:
+    - linkedin.com/company/walletguru
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/WalletGuruLLC/paystreme
+    - github.com/WalletGuruLLC/wg-docs
+attributes:
+  category: Applications
+  tags:
+    - Payment Streaming
+    - Latam
+    - Unbanked
+    - Mobile
+    - On-Off Ramp
+    - Moneygram
+    - Anchor
+  operating_region:
+    - North America (without Mexico)
+  based_in: United States
+scf:
+  awarded_total: 50000
+  awarded_round:
+    - 11
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recHSkknw3I5dlCDK
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

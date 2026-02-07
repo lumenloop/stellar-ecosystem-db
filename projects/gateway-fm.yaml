@@ -1,0 +1,46 @@
+title: Gateway.fm
+other_names: null
+parent: null
+description: |
+  Public Soroban RPC infra from gateway.fm. Mainnet/Testnet: 30RPS free of charge. Or 60RPS after the signup at https://admin.gateway.fm/
+links:
+  website:
+    - gateway.fm
+    - gateway.fm/public-rpc
+  blog:
+    - gateway.fm/blog
+  x:
+    - gateway_eth
+  linkedin:
+    - linkedin.com/company/gateway-fm
+  discord:
+    - discord.gg/77vtmKNbkf
+  telegram:
+    - t.me/gateway_fm
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/gateway-fm
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - RPC
+    - Infrastructure
+    - Nodes
+    - Analytics
+  operating_region:
+    - United States
+  based_in: Netherlands
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 16
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recw85qJRueeg4l6d
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

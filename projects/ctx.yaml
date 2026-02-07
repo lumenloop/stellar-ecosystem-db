@@ -1,0 +1,39 @@
+title: CTX
+other_names:
+  - CTX.com
+parent: null
+description: |
+  Spend your XLM and USDC at thousands of physical and online stores.
+links:
+  website:
+    - ctx.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags:
+    - Payments
+    - Gift Cards
+    - Merchant
+    - Multi-Chain
+  operating_region: []
+  based_in: United Kingdom
+scf:
+  awarded_total: 88200
+  awarded_round:
+    - 19
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recs3a3kKPgwjWT1Y
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

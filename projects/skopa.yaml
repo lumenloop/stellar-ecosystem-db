@@ -1,0 +1,41 @@
+title: Skopa
+other_names: null
+parent: null
+description: |
+  Your money around the world in 3 clicks!
+links:
+  website:
+    - skopa.io
+  blog: []
+  x:
+    - skopaapp
+  linkedin:
+    - linkedin.com/company/skopa-app
+    - linkedin.com/in/silvina-saranz-216ba7143
+  discord: []
+  telegram: []
+  youtube: []
+  instagram:
+    - skopaapp
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/dev-api-new.skopadev.com/api/#
+attributes:
+  category: Applications
+  tags:
+    - Cross-Border Payments
+    - Payments
+  operating_region: []
+  based_in: Bolivia
+scf:
+  awarded_total: 37840
+  awarded_round:
+    - 20
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recagcYqPo0lfLMtO
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

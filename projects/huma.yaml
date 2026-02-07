@@ -1,0 +1,45 @@
+title: Huma
+other_names: null
+parent: null
+description: |
+  Bring Huma, one of the most sophisticated business lending protocols, to Soroban; projected to drive $1B+ transaction in 12 mos
+links:
+  website:
+    - huma.finance
+  blog:
+    - blog.huma.finance
+  x:
+    - humafinance
+  linkedin:
+    - linkedin.com/company/huma-finance
+  discord:
+    - linkedin.com/company/huma-finance
+  telegram: []
+  youtube:
+    - youtube.com/@humafinance
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/00labs/huma-contracts-v2
+    - github.com/00labs
+attributes:
+  category: Financial Protocols
+  tags:
+    - DeFi
+    - Lending & Borrowing
+    - Multi-Chain
+  operating_region:
+    - United States
+  based_in: United States
+scf:
+  awarded_total: 50000
+  awarded_round:
+    - 27
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rectN6ErZmODHk69p
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,39 @@
+title: TuCambio
+other_names:
+  - TuCambio Wallets
+parent: null
+description: |
+  TuCambio´s Wallet is a Stellar-based API on/off-ramp infrastructure that facilitates real-time integration with local banking systems. That enables users to send money between countries directly to their bank accounts in seconds and at low cost. Recipients can instantly convert received crypto into local fiat currency, allowing them to access and spend funds as needed, without exposure to currency devaluation. Recipients will be able to receive the funds in a non-custodial, interoperable, and fully decentralized wallet. Funds are converted into USDC at the origin and can be instantly converted to fiat at the destination. This functionality includes automated wallet creation, activation via XLM, trustlines for USDC, and a secure interface where the user retains control of their private key. This implementation, fully based on Stellar, enables a unique combination of crypto and fiat: thanks to our API ramps with local banking connections in Chile, Peru, Colombia, Venezuela, Argentina, Bolivia, United States and Panama. We are also in the process of signing a contract that will enable connections with ramps in over 160 countries. Currently, we are a validated startup in the market: we have over 14,000 clients available for immediate wallet deployment. This positions TuCambio Wallets as a real financial inclusion solution powered by Stellar.
+links:
+  website:
+    - tucambio.app
+  blog: []
+  x: []
+  linkedin:
+    - linkedin.com/company/tucambiospa
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/tucambioapp
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - Latin America & Caribbean
+    - Europe & Central Asia
+    - North America (without Mexico)
+  based_in: Chile
+scf:
+  awarded_total: 75000
+  awarded_round:
+    - 37
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

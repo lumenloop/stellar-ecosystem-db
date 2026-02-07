@@ -1,0 +1,41 @@
+title: Haciendo Stellar
+other_names: null
+parent: null
+description: |
+  We are a communication and content platform designed to empower the Stellar community in the Latam and Spanish-speaking region.
+links:
+  website:
+    - haciendostellar.com
+  blog: []
+  x:
+    - haciendostellar
+  linkedin: []
+  discord:
+    - discord.gg/3StMXdjGt3
+  telegram: []
+  youtube:
+    - youtube.com/@haciendostellar
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Education & Community
+  tags:
+    - Latam
+    - Community
+  operating_region: []
+  based_in: Spain
+scf:
+  awarded_total: 56460
+  awarded_round:
+    - 13
+    - 19
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec9lcpC8qKgb7Tyc
+    - https://communityfund.stellar.org/dashboard/submissions/recp9KDwOeRFfD6Fx
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

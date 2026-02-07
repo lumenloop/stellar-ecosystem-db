@@ -1,0 +1,42 @@
+title: Alfred
+other_names: null
+parent: null
+description: |
+  B2B Last mile payments infrastructure for LATAM
+links:
+  website:
+    - alfredpay.io
+  blog:
+    - alfredramp.medium.com
+  x:
+    - alfredlatam
+  linkedin:
+    - linkedin.com/company/alfredpay
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags:
+    - B2B
+    - Wallet Infra
+    - Caribbean
+  operating_region: []
+  based_in: Mexico
+scf:
+  awarded_total: 335000
+  awarded_round:
+    - 9
+    - 19
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recGGvGWEBcaG43xj
+    - https://communityfund.stellar.org/dashboard/submissions/recJEHkfUrrbLVcg8
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

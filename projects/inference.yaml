@@ -1,0 +1,38 @@
+title: Inference
+other_names: null
+parent: null
+description: |
+  Inference is designed as a domain‑specific formal specification language for Web3 native applications. Designed for WASM based infrastructure, Stellar is the ideal  ecosystem to apply both our expertise & inference. Its syntax is concise and Rust‑like, and it aims to let developers write formal specifications and correctness proofs in a way that resembles writing unit tests. Inference seeks to bridge the gap between theorem proving and practical application development in blockchains. This approach provides a path to integrate formal verification into the development process for Soroban developers.
+links:
+  website:
+    - inferara.com
+  blog: []
+  x:
+    - inferara_kk
+  linkedin:
+    - linkedin.com/company/inferara
+  discord:
+    - discord.gg/AHb3fBuU
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Inferara/inference-language-spec
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region:
+    - South Asia
+  based_in: Japan
+scf:
+  awarded_total: 149730
+  awarded_round:
+    - 39
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

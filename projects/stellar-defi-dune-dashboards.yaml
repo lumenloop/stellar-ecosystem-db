@@ -1,0 +1,36 @@
+title: Stellar DeFi Dune Dashboards
+other_names: null
+parent: Paltalabs
+description: |
+  Right now, most DeFi stats on Stellar come from project-provided reports, which are not always transparent or easy to verify. Platforms like DeFi Llama and DappRadar often rely on these reports instead of pulling data directly from the blockchain. The Stellar DeFi Dune Dashboards will change this by providing fully verifiable, on-chain data from smart contract activity. These dashboards will track important stats like Weekly and Monthly Active Users, Average Slippage on Trades, Percentage of Aggregated Trades, and Liquidity Provider Activity. For AMMs and aggregators, we will show key insights, including trade volume, slippage, price impact, and how often trades go through aggregators instead of single AMMs. We will also track arbitrage profits and how many trades are related to arbitrage. This project will make Stellar DeFi data more transparent and accessible for everyone, helping users, developers, and investors understand how healthy and active the ecosystem really is. We will also maintain and update the dashboards for one year to ensure they stay reliable.
+links:
+  website:
+    - dune.com/paltalabs
+  blog: []
+  x:
+    - paltalabs
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/paltalabs
+attributes:
+  category: Infrastructure & Services
+  tags: []
+  operating_region:
+    - Brazil
+  based_in: Chile
+scf:
+  awarded_total: 25000
+  awarded_round:
+    - 35
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

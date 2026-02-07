@@ -1,0 +1,54 @@
+title: Pakana.Net
+other_names: null
+parent: null
+description: |
+  Pakana: A blockchain-driven platform for payment and document processing using the Stellar Network and our proprietary lockb0x storage protocol. Built with our open-source SCF Awarded Projects, the Stellar Razor and Blazor Components and the Stellar Identity Framework. Pakana aims to automate and secure regulated payment and escrow transactions. 
+links:
+  website:
+    - pakana.net
+  blog: []
+  x: []
+  linkedin:
+    - linkedin.com/company/pakana
+    - linkedin.com/in/pakana
+  discord: []
+  telegram: []
+  youtube:
+    - youtube.com/@PakanaSoftware
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/lockb0x-llc/Pakana-Stellar-Razor-Components
+    - github.com/lockb0x-llc
+attributes:
+  category: Applications
+  tags:
+    - Payment Gateway
+    - Peer-to-Peer
+    - AI
+    - API
+    - Automation
+    - Identity
+    - Tokenization
+    - Real Estate
+    - Multi Signatures
+    - Freelancers
+    - Marketplace
+    - Software Wallet
+    - Infrastructure
+    - Security
+    - Art
+  operating_region: []
+  based_in: United States
+scf:
+  awarded_total: 45200
+  awarded_round:
+    - 21
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recR32JiVTfXBDnke
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

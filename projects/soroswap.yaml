@@ -1,0 +1,51 @@
+title: Soroswap
+other_names:
+  - Soroswap.Finance
+parent: PaltaLabs
+description: |
+  Open-source AMM protocol and AMM Aggregator with Ecosystem Interoperability for providing liquidity and trading Stellar Assets in Soroban.
+links:
+  website:
+    - soroswap.finance
+  blog:
+    - medium.com/soroswap
+  x:
+    - soroswap
+  linkedin:
+    - linkedin.com/company/paltalabs
+    - linkedin.com/company/soroswap
+  discord:
+    - discord.gg/yXFaku4w9u
+    - discord.gg/JdTz2Tbd
+  telegram: []
+  youtube:
+    - youtube.com/@Soroswap.Finance
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/soroswap
+attributes:
+  category: Financial Protocols
+  tags:
+    - DEX
+    - DeFi
+  operating_region: []
+  based_in: Chile
+scf:
+  awarded_total: 346750
+  awarded_round:
+    - 15
+    - 17
+    - 21
+    - 24
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recQcIB562ZHDFqdJ
+    - https://communityfund.stellar.org/dashboard/submissions/recDy2knwdmwAPWBd
+    - https://communityfund.stellar.org/dashboard/submissions/recfVynUAvAjZO4Nj
+    - https://communityfund.stellar.org/dashboard/submissions/recWFIADW1gqmyvl7
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

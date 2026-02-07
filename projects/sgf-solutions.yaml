@@ -1,0 +1,34 @@
+title: SGF Solutions
+other_names: null
+parent: null
+description: |
+  Provide liquidity to Argentinians by exchanging USDC for ARS, and depositing them directly into their bank accounts
+links:
+  website:
+    - sgfsolutions.io
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: Argentina
+scf:
+  awarded_total: 30500
+  awarded_round:
+    - 28
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec3KOWI0PBoNoy0A
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

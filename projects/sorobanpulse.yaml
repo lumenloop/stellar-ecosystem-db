@@ -1,0 +1,42 @@
+title: SorobanPulse
+other_names: null
+parent: null
+description: |
+  SorobanPulse showcases Soroban's true potential through data and metrics from real world problem-solving dApps.
+links:
+  website:
+    - sorobanpulse.app
+  blog: []
+  x:
+    - sorobanpulse
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/CrossChainLabs-Stellar/sorobanpulse-webapp
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Analytics
+    - Ecosystem Discovery
+  operating_region: []
+  based_in: Romania
+scf:
+  awarded_total: 168500
+  awarded_round:
+    - 11
+    - 16
+    - 20
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recPl3UvHNe1nngVy
+    - https://communityfund.stellar.org/dashboard/submissions/reccKirUoWW2ux0Le
+    - https://communityfund.stellar.org/dashboard/submissions/rec78cnFmi3n9aMxx
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,46 @@
+title: Scalps
+other_names: null
+parent: null
+description: |
+  Scalps is a social payments network offering merchant discovery, payments, social interactions, and an on-chain loyalty system.
+links:
+  website:
+    - scalps.co
+  blog:
+    - medium.com/@scalps.finance
+  x:
+    - scalpsfinance
+  linkedin:
+    - linkedin.com/company/scalps
+    - linkedin.com/company/scalps/?viewAsMember=true
+  discord:
+    - discord.gg/zEpshZbR
+  telegram:
+    - t.me/ScalpsAnnouncements
+  youtube:
+    - youtube.com/@Scalps_Official
+  instagram:
+    - scalps.finance
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/imobi/scalps-core-api
+attributes:
+  category: Applications
+  tags:
+    - Social
+    - Payments
+  operating_region:
+    - Georgia
+  based_in: South Africa
+scf:
+  awarded_total: 30600
+  awarded_round:
+    - 18
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recFle2Dv0grIDayf
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

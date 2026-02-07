@@ -1,0 +1,35 @@
+title: Kotlin Stellar SDK
+other_names: null
+parent: null
+description: |
+  Interact with Stellar using idiomatic Kotlin and share code across platforms.
+links:
+  website:
+    - github.com/rahimklaber/stellar_kt
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/rahimklaber/stellar_kt
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region: []
+  based_in: null
+scf:
+  awarded_total: 11500
+  awarded_round:
+    - 9
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recJkbPGJBY1VXyJ9
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

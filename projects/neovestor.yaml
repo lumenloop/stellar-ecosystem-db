@@ -1,0 +1,39 @@
+title: Neovestor
+other_names:
+  - Neovestor - An RWA launchpad
+parent: null
+description: |
+  Neovestor connects emerging market investors with real-world assets and businesses.
+links:
+  website:
+    - neovestor.com
+  blog: []
+  x:
+    - neovestorcom
+  linkedin: []
+  discord:
+    - discord.gg/Y57PBsvPct
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/neovestor-tech
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - Indonesia
+  based_in: null
+scf:
+  awarded_total: 50000
+  awarded_round:
+    - 28
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recUcnDR8rtlntavE
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

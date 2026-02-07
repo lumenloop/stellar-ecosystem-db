@@ -1,0 +1,40 @@
+title: xBull
+other_names: null
+parent: Creit Tech
+description: |
+  The most versatile Stellar Wallet in the whole network… Created by demanding developers, for demanding users.
+links:
+  website:
+    - xbull.app
+  blog: []
+  x:
+    - xbullwallet
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Creit-Tech/xBull-Wallet
+attributes:
+  category: Applications
+  tags:
+    - Browser
+    - Software Wallet
+    - P2P
+    - Payments
+  operating_region: []
+  based_in: Canada
+scf:
+  awarded_total: 56200
+  awarded_round:
+    - 9
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recFqkCcGL7ABiF7G
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

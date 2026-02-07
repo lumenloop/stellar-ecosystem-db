@@ -1,0 +1,48 @@
+title: StreamingFast
+other_names: null
+parent: null
+description: |
+  Substreams and Subgraphs are powerful blockchain indexing technologies, developed to provide users a full programmable and high-performance stack for any on-chain data related need. To bring a non-EVM chain onto The Graph, the StreamingFast team must first complete a Firehose and Substreams integration, see here for more information: https://thegraph.com/docs/en/new-chain-integration/
+links:
+  website:
+    - streamingfast.io
+    - thegraph.com/docs/en/new-chain-integration
+  blog:
+    - streamingfast.io/blog
+  x:
+    - streamingfastio
+    - graphprotocol
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/streamingfast
+    - github.com/streamingfast/firehose-stellar
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - SDK
+    - Nodes
+    - API
+    - Infrastructure
+    - DevX
+    - Ecosystem Discovery
+    - Cross-Chain
+  operating_region:
+    - North America (without Mexico)
+  based_in: Canada
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 31
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recxtseGT8HXT3ZDC
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

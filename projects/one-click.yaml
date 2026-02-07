@@ -1,0 +1,48 @@
+title: One Click
+other_names:
+  - OneClick.Fi
+parent: null
+description: |
+  OneClick.Fi offers an all-in-one DeFi onboarding platform to help web3 users get access to the best DeFi protocols/opportunities in one click with simple UX, gamification, and AI-powered risk assessments. 
+links:
+  website:
+    - oneclick.fi
+  blog:
+    - medium.com/oneclickfi
+  x:
+    - oneclickfi
+  linkedin:
+    - linkedin.com/company/oneclickfi
+  discord:
+    - discord.gg/oneclickfi
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/One-Click-Crypto
+attributes:
+  category: Applications
+  tags:
+    - DeFi
+    - Cross-Chain
+    - Yield
+    - AI
+    - Airdrop
+    - Liquidity
+    - Ecosystem Discovery
+  operating_region:
+    - Europe & Central Asia
+  based_in: Netherlands
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 32
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recVvr1MlNxJEIRvs
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

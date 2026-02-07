@@ -1,0 +1,44 @@
+title: CLOB
+other_names: null
+parent: null
+description: |
+  Revolutionizing DEXs: Stellar's CLOB combines decentralized assets with a centralized orderbook, redefining trading efficiency.
+links:
+  website:
+    - ideasoft.io
+  blog:
+    - ideasoft.io/blog
+  x:
+    - o_ideasoft
+  linkedin:
+    - linkedin.com/company/ideasoft.io
+  discord: []
+  telegram:
+    - t.me/ideasoftio
+  youtube: []
+  instagram:
+    - ideasoft_io
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/IdeaSoft-Demo
+    - github.com/orgs/dCLOB
+attributes:
+  category: Financial Protocols
+  tags:
+    - DeFi
+    - DEX
+  operating_region: []
+  based_in: Portugal
+scf:
+  awarded_total: 86811.1
+  awarded_round:
+    - 20
+    - 29
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recyjcPV4GrExiwhR
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

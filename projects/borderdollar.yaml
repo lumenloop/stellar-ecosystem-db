@@ -1,0 +1,47 @@
+title: BorderDollar
+other_names: null
+parent: null
+description: |
+  BorderDollar provides investors with opportunities to invest in real-world assets through SME cross-border trade invoice financing
+links:
+  website:
+    - borderdollar.co
+  blog: []
+  x:
+    - 'https:'
+  linkedin:
+    - linkedin.com/in/jackietanyen
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/randomacy
+attributes:
+  category: Applications
+  tags:
+    - SME
+    - Cross-Border Payments
+    - Liquidity
+    - KYC
+    - Moneygram
+    - Supply-Chain
+    - Lending & Borrowing
+    - Unbanked
+  operating_region: []
+  based_in: Singapore
+scf:
+  awarded_total: 133000
+  awarded_round:
+    - 26
+    - 29
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recTfc2QWaiOjUbg9
+    - https://communityfund.stellar.org/dashboard/submissions/recDTKZEE2PaegFTc
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

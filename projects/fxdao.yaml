@@ -1,0 +1,44 @@
+title: FxDAO
+other_names: null
+parent: Creit Tech
+description: |
+  Debt issuance protocol for the issuance of decentralized stablecoins backed by XLMs
+links:
+  website:
+    - fxdao.io
+  blog:
+    - fxdao.io/blog
+  x:
+    - fxdao_io
+  linkedin: []
+  discord:
+    - discord.gg/Ftrx9X6YRk
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/FxDAO
+attributes:
+  category: Financial Protocols
+  tags:
+    - CDP
+    - DeFi
+  operating_region:
+    - Chile
+  based_in: Marshall Islands
+scf:
+  awarded_total: 224800
+  awarded_round:
+    - 13
+    - 24
+    - 25
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recAC4HtF0qVZ5yww
+    - https://airtable.com/appymB1sbp5uidiGe/shrS2NKmPkCEEwLlz/tblpytbu3t73kssiE/viwe2PM63mriKPe4W/rec95qhUPvuRiCCFQ
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

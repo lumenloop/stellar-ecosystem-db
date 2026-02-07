@@ -1,0 +1,45 @@
+title: Beamable
+other_names:
+  - Onboard Game Devs with Beamable
+parent: null
+description: |
+  This project aims to expand the Stellar blockchain’s footprint in gaming by integrating with Beamable, a leading game server and LiveOps platform, enabling developers to rapidly build, launch, and scale web3-powered games on the Stellar blockchain.  Beamable provides SDKs for Unity, Unreal, and Web (JavaScript/TypeScript), allowing game studios to seamlessly connect their games to Stellar smart contracts, NFTs, tokens, and wallets without needing deep blockchain expertise. Through this initiative, Stellar will gain a plug-and-play developer stack tailored to real-time, asset-rich games. Beamable’s SDKs will expose Stellar wallet auth, token interactions, and marketplace integration across major game engines and web platforms. Pre-built microservices will reduce development complexity, supporting features like inventory management, player stats, and content versioning. Beamable will promote this solution through its composable backend Marketplace and utilize Beamable Network Boost, a proven promotional engine that has driven millions of engagements across Discord, Steam, Twitch, and social channels. Games that integrate with Beamable on Stellar will gain access to over 3 million wallet-connected players and benefit from coordinated airdrops, influencer campaigns, and social activations. The Beamable x Stellar integration offers a comprehensive solution, featuring easy-to-use SDKs, operational infrastructure, monetization tools, and a player network, empowering developers to build on Stellar quickly while driving token utility and genuine gamer adoption across mobile, PC, web, and beyond.
+links:
+  website:
+    - beamable.com
+  blog: []
+  x:
+    - beamable
+  linkedin:
+    - linkedin.com/company/beamable
+  discord:
+    - discord.gg/beamable
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/beamable/Stellar-Project
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region:
+    - Latin America & Caribbean
+    - South Asia
+    - East Asia & Pacific
+    - Middle East & North Africa
+    - Europe & Central Asia
+    - North America (without Mexico)
+    - Sub-Saharan Africa
+  based_in: Brazil
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 38
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,38 @@
+title: Soroban Timelock Contract
+other_names: null
+parent: 57blocks
+description: |
+  Develop a standard timelock contract that can be leveraged by Soroban protocol developers to increase user trust
+links:
+  website:
+    - 57blocks.io
+    - github.com/57blocks/stellar-timelock-contract/tree/dev
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/57blocks/stellar-timelock-contract
+attributes:
+  category: Developer Tooling
+  tags:
+    - Example Contract
+    - Governance
+  operating_region: []
+  based_in: China
+scf:
+  awarded_total: 24000
+  awarded_round:
+    - 27
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/reclhILl81OAe3spU
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

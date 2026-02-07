@@ -1,0 +1,42 @@
+title: Public Node
+other_names: null
+parent: null
+description: |
+  A nonprofit organization that supports and brings a trusted and meaningful public voice to open and inclusive blockchain networks. 
+links:
+  website:
+    - publicnode.org
+  blog:
+    - publicnode.org/blog
+  x:
+    - publicnode
+  linkedin: []
+  discord:
+    - discord.gg/pVR29p5NxK
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/publicnode
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Nodes
+  operating_region:
+    - Everywhere
+  based_in: United States
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 3
+    - 13
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recTji3f3i7o27OUM
+    - https://communityfund.stellar.org/dashboard/submissions/recyLIn8jG3DJVJz3
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

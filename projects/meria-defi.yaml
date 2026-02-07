@@ -1,0 +1,35 @@
+title: Meria DeFi
+other_names: null
+parent: null
+description: |
+  Meria DeFi platform (project code "The Place To Stake" is a non-custodial one-stop shop for yield generation and portfolio monitoring across multiple blockchains, aggregating yield protocols and staking with transparency and institutional-grade reliability.
+links:
+  website:
+    - defi.meria.com
+  blog: []
+  x:
+    - meria_finance
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - France
+  based_in: France
+scf:
+  awarded_total: 45000
+  awarded_round:
+    - 40
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

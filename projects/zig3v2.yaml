@@ -1,0 +1,35 @@
+title: Zig3v2
+other_names: null
+parent: null
+description: Fast & Secure Stellar Biometric Account Creation, Storage and SigningFast & Secure Stellar Biometric Account Creation, Storage and Signing.
+links:
+  website:
+    - zig3.io
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Nathanofzion/zi-playground
+attributes:
+  category: Financial Protocols
+  tags:
+    - DEX
+  operating_region: []
+  based_in: Pakistan
+scf:
+  awarded_total: 2500
+  awarded_round:
+    - 11
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recZ1SF2QkpUgMr2U
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

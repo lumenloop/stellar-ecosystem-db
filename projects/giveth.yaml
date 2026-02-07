@@ -1,0 +1,45 @@
+title: Giveth
+other_names: null
+parent: null
+description: |
+  Bring Quadratic Funding and 1000s of projects to Stellar by integrating Giveth.
+links:
+  website:
+    - giveth.io
+  blog:
+    - blog.giveth.io
+  x:
+    - giveth
+  linkedin: []
+  discord:
+    - discord.giveth.io
+  telegram: []
+  youtube:
+    - youtube.com/givethio
+  instagram:
+    - giveth.io
+  reddit:
+    - r/giveth
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Giveth
+    - github.com/Giveth/giveth-dapps-v2
+attributes:
+  category: Applications
+  tags:
+    - Funding Allocation
+    - Multi-Chain
+  operating_region:
+    - Croatia
+  based_in: Spain
+scf:
+  awarded_total: 50000
+  awarded_round:
+    - 28
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rechcT1UmtJlod9ec
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

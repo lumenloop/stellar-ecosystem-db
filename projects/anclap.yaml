@@ -1,0 +1,45 @@
+title: Anclap
+other_names: null
+parent: null
+description: |
+  Infrastructure that connects Web3 to financial systems, makes FIAT<>Crypto interoperable and converts any company into a fintech.
+links:
+  website:
+    - anclap.com
+  blog: []
+  x:
+    - anclapfintech
+  linkedin:
+    - linkedin.com/company/anclap
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/anclap
+    - github.com/anclap, https://github.com/anclap
+attributes:
+  category: Financial Protocols
+  tags:
+    - Anchor
+    - Latam
+  operating_region:
+    - Argentina
+  based_in: Argentina
+scf:
+  awarded_total: 572162
+  awarded_round:
+    - 7
+    - 17
+    - 26
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/reclgGPwy2rlCwsp9
+    - https://communityfund.stellar.org/dashboard/submissions/reccDyvfqZISOWHI7
+    - https://communityfund.stellar.org/dashboard/submissions/recL0SgcprAhb6uSy
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

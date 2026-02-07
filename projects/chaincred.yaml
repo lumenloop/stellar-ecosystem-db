@@ -1,0 +1,37 @@
+title: ChainCred
+other_names: null
+parent: null
+description: |
+  Infra for Founders &amp; Investors to exchange &amp; fetch credible company finances on Soroban ensuring data transparency &amp; verification
+links:
+  website:
+    - prince29chouhan.github.io/ChainCred_landing
+  blog: []
+  x:
+    - chaincred
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/kommitters/chaincerts-smart-contracts
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - Mexico
+  based_in: null
+scf:
+  awarded_total: 32000
+  awarded_round:
+    - 27
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recP4mLvsBD60bfIv
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

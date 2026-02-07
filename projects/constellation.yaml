@@ -1,0 +1,40 @@
+title: Constellation
+other_names:
+  - Constellation Protocol
+parent: null
+description: |
+  A protocol for creating and managing tokenized indexes on Stellar
+links:
+  website:
+    - github.com/constellation-protocol
+    - github.com/constellation-protocol/constellation-protocol
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/constellation-protocol
+    - github.com/constellation-protocol/constellation-protocol
+attributes:
+  category: Infrastructure & Services
+  tags: []
+  operating_region: []
+  based_in: United States
+scf:
+  awarded_total: 210000
+  awarded_round:
+    - 19
+    - 23
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recaIeMYytTyQmjRu
+    - https://communityfund.stellar.org/dashboard/submissions/recL80NY0OnJCAbHG
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

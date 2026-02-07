@@ -1,0 +1,44 @@
+title: Expand
+other_names:
+  - Expand Network
+parent: null
+description: |
+  Expand.network's unified API will help users to efficiently transact, source data, and build in the Stellar ecosystem.
+links:
+  website:
+    - expand.network
+  blog: []
+  x:
+    - expand_network
+  linkedin:
+    - linkedin.com/company/expandnetwork
+  discord:
+    - discord.gg/UFMK7s5fwC
+  telegram: []
+  youtube:
+    - youtube.com/@expandnetworkofficial
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/expand-network
+    - github.com/expand-network/sdk-nodejs
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region:
+    - United States
+  based_in: United States
+scf:
+  awarded_total: 137000
+  awarded_round:
+    - 24
+    - 26
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recuWJCnqLfUFlLke
+    - https://communityfund.stellar.org/dashboard/submissions/recCaiDDtiKwH9Dah
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

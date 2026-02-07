@@ -1,0 +1,47 @@
+title: Kura
+other_names:
+  - 'Kura: X-border solutions for Caribbean'
+parent: null
+description: |
+  We create transparency and impact by reducing cash use and enabling merchants in LAC to get paid directly at their points of sale
+links:
+  website:
+    - kuratek.com
+  blog: []
+  x:
+    - kurapayments
+  linkedin:
+    - linkedin.com/company/kura-fintech
+    - linkedin.com/company/kura-fintech/?viewAsMember=true
+  discord: []
+  telegram: []
+  youtube: []
+  instagram:
+    - kurapayments
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/KuraApp
+attributes:
+  category: Applications
+  tags:
+    - B2B
+    - Caribbean
+    - Haiti
+    - Cross-Border Payments
+  operating_region:
+    - North America (without Mexico)
+  based_in: United States
+scf:
+  awarded_total: 147300
+  awarded_round:
+    - 27
+    - 31
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recZgZOpwThqNmkmm
+    - https://communityfund.stellar.org/dashboard/submissions/recDvnkHMNhQh0F0t
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

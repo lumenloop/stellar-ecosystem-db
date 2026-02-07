@@ -1,0 +1,40 @@
+title: DevAsign
+other_names: null
+parent: null
+description: |
+  DevAsign streamlines open-source project management by automating bounty payouts and intelligently handling pull requests with advanced AI review.
+links:
+  website:
+    - devasign.com
+  blog: []
+  x:
+    - devasign
+  linkedin:
+    - linkedin.com/company/devasign
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region:
+    - Sub-Saharan Africa
+    - Europe & Central Asia
+    - North America (without Mexico)
+    - South Asia
+  based_in: Nigeria
+scf:
+  awarded_total: 80000
+  awarded_round:
+    - 9
+    - 39
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

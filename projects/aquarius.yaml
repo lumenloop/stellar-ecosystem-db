@@ -1,0 +1,48 @@
+title: Aquarius
+other_names: null
+parent: null
+description: |
+  Aquarius yield assets: bridging Stellar and Ethereum with Soroban, to offer secure, and decentralized yield opportunities.
+links:
+  website:
+    - aqua.network
+  blog:
+    - medium.com/aquarius-aqua
+  x:
+    - aqua_token
+  linkedin: []
+  discord:
+    - discord.gg/sgzFscHp4C
+  telegram:
+    - t.me/aquarius_official_community
+  youtube:
+    - youtube.com/@aqua.network
+  instagram: []
+  reddit:
+    - r/AquariusAqua
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/AquaToken
+attributes:
+  category: Financial Protocols
+  tags:
+    - DEX
+    - DeFi
+  operating_region: []
+  based_in: Poland
+scf:
+  awarded_total: 391000
+  awarded_round:
+    - 17
+    - 23
+    - 27
+    - 24
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recRUJxeF1PdlM6aV
+    - https://communityfund.stellar.org/dashboard/submissions/recmDHN0X0EQoxVWw
+    - https://communityfund.stellar.org/dashboard/submissions/recn8gHxphN9KtVXj
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

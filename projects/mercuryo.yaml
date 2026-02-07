@@ -1,0 +1,48 @@
+title: 'Mercuryo '
+other_names: null
+parent: null
+description: |
+  Mercuryo is a leading web3 payment company empowering clients across 150 countries. 
+links:
+  website:
+    - mercuryo.io
+  blog: []
+  x:
+    - mercuryo_io
+  linkedin:
+    - linkedin.com/company/mercuryo-io/mycompany
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/mercuryoio
+    - github.com/oor-api.redoc.ly
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Payments
+    - API
+    - Wallet Infra
+  operating_region:
+    - Latin America & Caribbean
+    - East Asia & Pacific
+    - Middle East & North Africa
+    - Sub-Saharan Africa
+    - North America (without Mexico)
+    - Europe & Central Asia
+    - South Asia
+  based_in: United Kingdom
+scf:
+  awarded_total: 50000
+  awarded_round:
+    - 31
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recNQZK29Ly63kIP2
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

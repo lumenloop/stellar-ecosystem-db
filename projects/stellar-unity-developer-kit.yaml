@@ -1,0 +1,36 @@
+title: Stellar Unity Developer Kit
+other_names: null
+parent: null
+description: |
+  This powerful Unity-based developer toolkit allows video game and application developers to easily integrate Stellar smart contracts and blockchain features directly into their C# Unity projects. The developer toolkit will seamlessly bridge gap between Stellar and C# and empower developers to interface with the Stellar network and third party wallets using our robust C# libraries, templates and documentation. In addition, we will provide all the tools needed to implement commonly needed video game specific use cases for web3 users like in-game tokens, authentication, leaderboards, tournaments. By removing the steep learning curve of interacting with Soroban, this toolkit empowers a new wave of builders, from indie studios to experimental app creators, to bring blockchain-backed experiences to users seamlessly. While there is a Unity SDK available for Stellar the existing Stellar C# SDK is incompatible with Unity 6.1 and above- making it impossible to compile or execute critical network and serialization components without extensive refactoring and custom rebuilds of core libraries such as networking, XDR parsing, and cryptographic key management. Other existing ecosystem SDKs are inadequate for the web3 gaming use case and have not been maintained. This project provides a solution to this issue.
+links:
+  website:
+    - scryingst.one
+  blog: []
+  x:
+    - scrying_stone
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/towa-hi/StellarUnityDevToolkit
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region:
+    - United States
+  based_in: United States
+scf:
+  awarded_total: 47000
+  awarded_round:
+    - 40
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

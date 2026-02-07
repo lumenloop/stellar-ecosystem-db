@@ -1,0 +1,41 @@
+title: Answerly
+other_names: null
+parent: null
+description: Offers content ownership & rewards for HQ answers.Offers content ownership & rewards for HQ answers.
+links:
+  website:
+    - answerly.app
+  blog:
+    - imrazarizvi.medium.com
+  x:
+    - answerlyapp
+  linkedin: []
+  discord: []
+  telegram:
+    - t.me/answerlyofficial
+  youtube:
+    - youtube.com/c/AnswerlyApp
+  instagram:
+    - answerlyapp
+  reddit: []
+  tiktok: []
+  linktree:
+    - answerlyapp
+  github:
+    - github.com/answerly-app
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - Pakistan
+  based_in: null
+scf:
+  awarded_total: 0
+  awarded_round:
+    - 9
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recP1Xp2YnSfxoXHE
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

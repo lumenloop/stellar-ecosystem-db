@@ -1,0 +1,37 @@
+title: Splyce Finance
+other_names: null
+parent: null
+description: |
+  Splyce converts RWA and crypto-native yield strategies into composable, permissionless tokens. Through our sRWA standard and on-chain wrappers, asset managers can distribute institutional-grade products directly into DeFi.
+links:
+  website:
+    - splyce.finance
+  blog: []
+  x:
+    - splycefi
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Splyce-Finance
+attributes:
+  category: Financial Protocols
+  tags: []
+  operating_region:
+    - Middle East & North Africa
+    - North America (without Mexico)
+  based_in: United States
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 36
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,40 @@
+title: TheXBank
+other_names: null
+parent: null
+description: |
+  TheXBank is a fully licensed digital finance platform offering same-day crypto-to-fiat payouts, multi-currency IBAN services, and cross-border payments in 25+ currencies. We serve individuals and businesses globally with seamless off-ramping — and now, with our crypto cards already live, users can spend digital assets anywhere in the world, instantly and effortlessly.
+links:
+  website:
+    - thexbank.io
+  blog: []
+  x:
+    - the_xbank
+  linkedin:
+    - linkedin.com/company/thexbanky-s-r-o
+  discord:
+    - discord.gg/ccFjgZZk
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Financial Protocols
+  tags: []
+  operating_region:
+    - Latin America & Caribbean
+    - East Asia & Pacific
+    - Europe & Central Asia
+    - Middle East & North Africa
+  based_in: Turkey
+scf:
+  awarded_total: 89500
+  awarded_round:
+    - 40
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

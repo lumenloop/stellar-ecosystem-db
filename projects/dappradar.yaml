@@ -1,0 +1,46 @@
+title: DappRadar
+other_names:
+  - Soroban DappRadar Integration
+parent: null
+description: |
+  Integrating Soroban on DappRadar, tracking its dapps data and bringing crypto degens to the ecosystem.
+links:
+  website:
+    - dappradar.com
+  blog:
+    - dappradar.com/blog
+  x:
+    - dappradar
+  linkedin: []
+  discord:
+    - discord.gg/4ybbssrHkm
+  telegram:
+    - t.me/joinchat/GdhNjQ8PMhCZ_a0CZutmXg
+  youtube:
+    - youtube.com/c/DappRadar
+  instagram:
+    - dappradar
+  reddit: []
+  tiktok:
+    - dappradar
+  linktree: []
+  github:
+    - github.com/dappradar
+attributes:
+  category: Developer Tooling
+  tags:
+    - Analytics
+  operating_region:
+    - Malaysia
+  based_in: Lithuania
+scf:
+  awarded_total: 145000
+  awarded_round:
+    - 27
+    - 34
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recWPirIc6IP4v27v
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

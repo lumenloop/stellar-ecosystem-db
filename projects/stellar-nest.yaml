@@ -1,0 +1,42 @@
+title: Stellar-Nest
+other_names: null
+parent: null
+description: |
+  Easy way to kickstart a project in Stellar with Nest.
+links:
+  website:
+    - github.com/Alkeops/It-s-not-another-package
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Alkeops/It-s-not-another-package
+attributes:
+  category: Developer Tooling
+  tags:
+    - SDK
+    - Nodes
+    - API
+    - Infrastructure
+    - Nest
+    - Horizon
+    - DevX
+  operating_region: []
+  based_in: Mexico
+scf:
+  awarded_total: 14800
+  awarded_round:
+    - 25
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recPokqT9ma4wpqQE
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

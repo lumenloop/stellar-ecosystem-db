@@ -1,0 +1,40 @@
+title: LumosDAO
+other_names: null
+parent: null
+description: |
+  Decentralized Governance on Stellar Network. Create, manage, and participate in DAOs seamlessly, with transparency and efficiency.
+links:
+  website:
+    - lumosdao.io
+    - lumoscore.com
+  blog: []
+  x:
+    - daolumos
+  linkedin: []
+  discord: []
+  telegram:
+    - t.co/sFH9rYdysY
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/naveed-siddiqi/lumos-dao
+attributes:
+  category: Developer Tooling
+  tags:
+    - DAO Tool
+    - Governance
+  operating_region: []
+  based_in: Azerbaijan
+scf:
+  awarded_total: 60000
+  awarded_round:
+    - 21
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recoH3wbnTFB9AYpG
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

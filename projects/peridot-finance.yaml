@@ -1,0 +1,36 @@
+title: Peridot Finance
+other_names: null
+parent: null
+description: |
+  Peridot is a cross-chain lending and borrowing protocol built natively on Stellar’s Soroban smart contract engine. Our mission is to abstract away DeFi complexity and deliver a seamless, user-friendly experience that feels more like fintech than crypto.  Users can deposit collateral on one blockchain and borrow assets on another without needing to manage multiple wallets, bridges, or gas fees. Our Hub & Spoke architecture centralizes logic on Stellar, while lightweight smart contracts on other chains (e.g. Ethereum, Sui) route user interactions via Wormhole’s cross-chain messaging.  Built entirely on Soroban, our smart contracts manage core lending mechanics: collateral tracking, interest accrual, liquidation, and liquidity logic optimized for low fees and WASM-based performance.  What sets us apart is our focus on usability. We’ve developed a Stellar-optimized frontend that abstracts technical friction and integrates seamlessly with wallets like Freighter. An AI Strategy Agent acts as a personalized guide, helping users choose between risk-based strategies, interpret on-chain data, and make better financial decisions especially helpful for newcomers.  In future releases, perpetual trading will allow users to open leveraged positions directly using supplied collateral, enhancing capital efficiency.  By combining Soroban’s speed and affordability with strong UX, Peridot unlocks intuitive cross-chain DeFi for both crypto-natives and Web2 users while positioning Stellar at the center of the next generation of decentralized finance.
+links:
+  website:
+    - peridot.finance
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/PeridotFinance/Peridot-Soroban
+attributes:
+  category: Financial Protocols
+  tags: []
+  operating_region:
+    - North America (without Mexico)
+  based_in: Germany
+scf:
+  awarded_total: 91750
+  awarded_round:
+    - 11
+    - 38
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

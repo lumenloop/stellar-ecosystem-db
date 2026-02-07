@@ -1,0 +1,39 @@
+title: BAF
+other_names:
+  - 'BAF: Summer of Stellar'
+parent: null
+description: |
+  Workshops, content, and tutorials, culminating in a Builders Retreat and demo day in the heart of the Bay Area.
+links:
+  website:
+    - blockchainacceleration.org
+  blog: []
+  x:
+    - thebafnetwork
+  linkedin:
+    - linkedin.com/company/thebafnetwork
+  discord: []
+  telegram: []
+  youtube:
+    - youtube.com/channel/UClN34KJfDsCVRs8rJHXH_-A
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Education & Community
+  tags: []
+  operating_region:
+    - Argentina
+  based_in: United States
+scf:
+  awarded_total: 37500
+  awarded_round:
+    - 28
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recMMWmxb6Qfg3Lbx
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

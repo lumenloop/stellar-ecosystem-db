@@ -1,0 +1,49 @@
+title: Stride
+other_names: null
+parent: null
+description: |
+  Stride is a multi-platform fitness ecosystem that combines health tracking with tokenized incentives, allowing users to earn rewards as they achieve their fitness goals. Available on mobile and messaging apps, Stride bridges traditional and Web3 fitness experiences for a sustainable, engaging, and accessible approach to health.
+links:
+  website:
+    - stride.social
+  blog: []
+  x:
+    - stridesocials
+  linkedin: []
+  discord:
+    - discord.gg/stridesocials
+  telegram:
+    - t.me/StrideLite
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags:
+    - Mobile
+    - AI
+    - Gaming
+    - Social
+    - Airdrop
+    - NFT
+    - Ecosystem Discovery
+    - Telegram Mini App
+    - Cross-Border Payments
+    - Payments
+    - Talent Platform
+  operating_region:
+    - Europe & Central Asia
+  based_in: South Africa
+scf:
+  awarded_total: 120000
+  awarded_round:
+    - 33
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recQTvLPkW5iXhuCO
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

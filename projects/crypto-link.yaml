@@ -1,0 +1,34 @@
+title: Crypto Link
+other_names: null
+parent: null
+description: |
+  Discord bot which enables p2p transactions, payments and community monetization
+links:
+  website: []
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Crypto-Link-Payments/crypto-link
+attributes:
+  category: Infrastructure & Services
+  tags: []
+  operating_region: []
+  based_in: null
+scf:
+  awarded_total: 3606.28
+  awarded_round:
+    - 6
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recsOeH8VBQkVx4KL
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

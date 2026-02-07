@@ -1,0 +1,42 @@
+title: Estrela
+other_names: null
+parent: null
+description: "Estrela is a decentralized platform for efficient low-slippage stablecoin swaps\_\n"
+links:
+  website:
+    - allbridge.io
+  blog: []
+  x: []
+  linkedin: []
+  discord:
+    - discord.gg/ASuPY8d3E6
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/allbridge-io/dex-soroban-contracts
+attributes:
+  category: Financial Protocols
+  tags:
+    - Stablecoins
+    - DeFi
+    - Liquidity
+    - SDK
+    - Cross-Chain
+    - Implementation
+  operating_region: []
+  based_in: Ukraine
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 22
+    - 35
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec4bVlu0r3K0SEzo
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,47 @@
+title: Cobo
+other_names:
+  - Cobo Custody Integration for Institution
+parent: null
+description: |
+  This integration delivers substantial value to the Stellar ecosystem:  For Stellar Network: - New institutional TVL: $1.5M+ immediate assets under custody - Payment volume growth: 50+ providers scaling Stellar transactions - APAC market expansion: Access to Cobo's 500+ institutional clients, primarily in the APAC region - Enhanced security posture: Institutional-grade MPC security for network participants - Developer tools: SDKs and APIs enabling broader adoption  For Cobo Clients: - Advanced MPC option for Stellar assets - Regulated infrastructure for global payments - Cross-chain interoperability through bridging solutions - Advanced compliance meeting regulatory requirements
+links:
+  website:
+    - cobo.com
+  blog: []
+  x:
+    - cobo_global
+  linkedin:
+    - linkedin.com/company/cobo-global
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/CoboGlobal
+attributes:
+  category: Applications
+  tags:
+    - Institutional
+    - Cross-Chain
+    - MPC
+    - Bridge
+    - Security
+    - Payments
+    - API
+    - SDK
+    - Liquidity
+  operating_region:
+    - East Asia & Pacific
+  based_in: Singapore
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 35
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

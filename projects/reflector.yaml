@@ -1,0 +1,50 @@
+title: Reflector
+other_names: null
+parent: Stellar Expert
+description: |
+  Decentralized price feed oracle for Stellar DeFi smart contracts to support derivatives, lending, and asset management
+links:
+  website:
+    - reflector.world
+    - reflector.network
+  blog:
+    - medium.com/@reflector-network
+  x:
+    - in_reflector
+  linkedin: []
+  discord:
+    - discord.gg/uy5UXg3t6F
+    - discord.gg/v2ggfDty2d
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/orgs/reflector-network
+    - github.com/reflector-network
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Oracle
+    - Multi Signatures
+  operating_region:
+    - Portugal
+  based_in: Portugal
+scf:
+  awarded_total: 444840
+  awarded_round:
+    - 15
+    - 20
+    - 26
+    - 29
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recWtqpdZ2UzVkfhe
+    - https://communityfund.stellar.org/dashboard/submissions/recfrasfvgSGAXEZD
+    - https://communityfund.stellar.org/dashboard/submissions/rec6KwJXq7HNQpjAb
+    - https://communityfund.stellar.org/dashboard/submissions/receZeLlUlVSruadg
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

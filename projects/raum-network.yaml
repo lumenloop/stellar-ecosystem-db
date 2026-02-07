@@ -1,0 +1,39 @@
+title: Raum Network
+other_names: null
+parent: null
+description: |
+  RaumFi DEXempowers seamless token swap through an AMM while offering insights and metrics via uniquely designed dashboard.
+links:
+  website:
+    - dex.raum.network
+  blog: []
+  x:
+    - raumfi
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Raum-Network/raum-raumfi-core-v1
+attributes:
+  category: Financial Protocols
+  tags:
+    - DEX
+    - DeFi
+  operating_region:
+    - India
+  based_in: India
+scf:
+  awarded_total: 50000
+  awarded_round:
+    - 27
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recE9g5g3dHHxuMjq
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

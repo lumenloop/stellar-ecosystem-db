@@ -1,0 +1,46 @@
+title: Vottun
+other_names:
+  - Vottun developer platform
+parent: null
+description: |
+  With the integration of Soroban into the Vottun developer platformWeb2 developers will be able to build Web3 solutions on Soroban
+links:
+  website:
+    - vottun.com
+    - web3.vottun.io
+  blog:
+    - medium.com/@vottun
+  x:
+    - vottun
+  linkedin:
+    - linkedin.com/es.linkedin.com/company/vottun
+  discord:
+    - discord.gg/4xcg8m9w
+  telegram:
+    - t.me/vottuncommunity
+  youtube:
+    - youtube.com/@vottun
+  instagram:
+    - vottun_
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/vottundev
+attributes:
+  category: Developer Tooling
+  tags:
+    - DevX
+  operating_region:
+    - Spain
+  based_in: Spain
+scf:
+  awarded_total: 50000
+  awarded_round:
+    - 27
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recWOr4dRl7ZqEThk
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

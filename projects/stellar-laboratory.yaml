@@ -1,0 +1,29 @@
+title: Stellar Laboratory
+other_names: null
+parent: null
+description: Stellar Laboratory is a web-based toolkit for developers to explore and interact with the Stellar network, enabling transaction creation, signing, and submission. It also supports various Horizon API actions and offers tools like XDR decoding for enhanced development flexibility.
+links:
+  website:
+    - laboratory.stellar.org
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/stellar/laboratory
+attributes:
+  category: null
+  tags: []
+  operating_region: []
+  based_in: null
+scf: null
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

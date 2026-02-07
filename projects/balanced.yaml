@@ -1,0 +1,44 @@
+title: Balanced
+other_names:
+  - Connecting Balanced to Stellar
+parent: null
+description: "Balanced is a cross-chain DEX and stablecoin that enables\_native cross-chain DeFi primitives for any ecosystem.\n"
+links:
+  website:
+    - balanced.network
+  blog:
+    - blog.balanced.network
+  x:
+    - balanceddao
+  linkedin: []
+  discord:
+    - discord.gg/DCa53m9wPq
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit:
+    - r/BalancedNetwork
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/balancednetwork
+attributes:
+  category: Financial Protocols
+  tags:
+    - DEX
+    - DeFi
+  operating_region:
+    - New Zealand
+  based_in: New Zealand
+scf:
+  awarded_total: 122000
+  awarded_round:
+    - 29
+    - 25
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recsdvsPQ2rnhYmtS
+    - https://communityfund.stellar.org/dashboard/submissions/recQKKkneN4Bw49s9
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,45 @@
+title: Sytemap
+other_names: null
+parent: null
+description: |
+  Sytemap is building tokenized savings for property access in Africa, enabling underserved people—especially women—to own real estate with as little as $40 upfront and flexible 24-month payment plans.
+links:
+  website:
+    - sytemap.com
+  blog: []
+  x:
+    - sytemaphq
+  linkedin:
+    - linkedin.com/company/sytemaphq
+  discord: []
+  telegram: []
+  youtube:
+    - youtube.com/sytemap
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/houseafrica/steller-blockchain-integration
+attributes:
+  category: Applications
+  tags:
+    - Africa
+    - NFT
+    - Real Estate
+    - Marketplace
+    - DeFi
+    - Cross-Border Payments
+  operating_region:
+    - Sub-Saharan Africa
+  based_in: Nigeria
+scf:
+  awarded_total: 35000
+  awarded_round:
+    - 29
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recW5iwiFOUUejYvP
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

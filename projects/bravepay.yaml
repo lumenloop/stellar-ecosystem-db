@@ -1,0 +1,45 @@
+title: BravePay
+other_names:
+  - 'BravePay:'
+parent: null
+description: |
+  Makes cashless payments accessible to on and offline retailers, transforming any smartphone & website in a POS
+links:
+  website:
+    - bravepay.net
+  blog:
+    - bravepay.medium.com
+  x:
+    - bravecorporati1
+  linkedin:
+    - linkedin.com/company/brave-corporation
+  discord: []
+  telegram:
+    - t.me/bravecorporation
+  youtube:
+    - youtube.com/@bravepayofficial
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags:
+    - Payment Gateway
+    - POS
+    - Mobile
+    - Web
+  operating_region:
+    - Europe & Central Asia
+  based_in: Spain
+scf:
+  awarded_total: 200000
+  awarded_round:
+    - 11
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recTgnhXkShvxMuZb
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

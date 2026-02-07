@@ -1,0 +1,58 @@
+title: Scout
+other_names: null
+parent: null
+description: |
+  To enhance the usability of Scout and raise awareness about the product and the security issues it tackles, aiding Soroban devs.
+links:
+  website:
+    - coinfabrik.com
+  blog:
+    - medium.com/@coinfabrik
+  x:
+    - coinfabrik
+  linkedin:
+    - linkedin.com/ar.linkedin.com/company/coinfabrik
+  discord: []
+  telegram:
+    - t.me/+Ifsn9HszqRlkM2E5
+  youtube:
+    - youtube.com/channel/UC2GmjCr7aEz-il31kqOy9aw
+  instagram:
+    - coinfabrik
+  reddit:
+    - r/CoinFabrik
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/CoinFabrik/scout
+    - github.com/CoinFabrik/scout-audit
+attributes:
+  category: Developer Tooling
+  tags:
+    - Security
+    - CLI
+    - Visual Studio Code
+    - Community
+    - Grants
+    - DevX
+    - Ecosystem Discovery
+  operating_region:
+    - Argentina
+  based_in: Argentina
+scf:
+  awarded_total: 240000
+  awarded_round:
+    - 20
+    - 23
+    - 27
+    - 3
+    - 4
+    - 1
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec9qEUMQyHnfk1ln
+    - https://communityfund.stellar.org/dashboard/submissions/recPOG1QJ1ggXcygp
+    - https://communityfund.stellar.org/dashboard/submissions/reckierHxbkwUbx3s
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

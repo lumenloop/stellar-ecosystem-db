@@ -1,0 +1,39 @@
+title: Stellar Rust SDK
+other_names: null
+parent: null
+description: |
+  We propose the integration of a Rust SDK into the Stellar ecosystem, as a addition to the currently available SDK's.
+links:
+  website:
+    - baseflow.com
+  blog: []
+  x: []
+  linkedin:
+    - linkedin.com/company/baseflowit
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Baseflow/stellar-rust-sdk
+attributes:
+  category: Developer Tooling
+  tags:
+    - SDK
+  operating_region: []
+  based_in: Netherlands
+scf:
+  awarded_total: 80000
+  awarded_round:
+    - 18
+    - 22
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recO97yX78hdHD9WX
+    - https://communityfund.stellar.org/dashboard/submissions/recnNmjVZlXtzzEwc
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,50 @@
+title: attest
+other_names:
+  - Stellar Attestation Service
+parent: accred
+description: |
+  Soroban framework for attesting to digital interactions on the Stellar network.
+links:
+  website:
+    - attest.so
+    - sasdev.xyz
+  blog: []
+  x:
+    - attestprotocol
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/daccred/attest.so
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Identity
+    - SDK
+    - API
+    - Storage
+    - Tokenization
+    - No-Code
+    - Analytics
+    - CLI
+    - Governance
+  operating_region:
+    - Ghana
+  based_in: United Kingdom
+scf:
+  awarded_total: 120550
+  awarded_round:
+    - 29
+    - 32
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recF8AbyncoxdFYvk
+    - https://communityfund.stellar.org/dashboard/submissions/recIHN98Ja7MMb4DX
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

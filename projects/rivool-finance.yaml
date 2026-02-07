@@ -1,0 +1,39 @@
+title: Rivool Finance
+other_names:
+  - 'Rivool Finance: RWA in Emerging Markets'
+  - Rivool
+parent: null
+description: |
+  Rivool offers a platform that connects global investors to high-yield assets in emerging markets, such as Brazil. We work directly in the origination and structuring of private credit, receiving a structuring fee that few projects have access to. Our proprietary risk analysis, applied to asset selection, allows us to capture a management fee in line with traditional market practices. Rivool’s uniqueness lies in its business model: we bring together specialized and locally regulated partner originators with a B2B network of Financial Advisors who seek safe and profitable alternatives for portfolio diversification with low-volatility on-chain assets. We are not reinventing the logic of credit — our innovation lies in applying technology to bring efficiency, eliminate unnecessary intermediaries and open new funding channels.  This grant will help Rivool bring global capital into tokenized private credit by using Stellar to issue, manage, and scale access to high-yield credit deals from Brazil.
+links:
+  website:
+    - rivool.finance
+  blog: []
+  x:
+    - rivoolfinance
+  linkedin:
+    - linkedin.com/company/rivool-finance
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/gitlab.com/rivool-finance/stellar-contracts
+attributes:
+  category: Financial Protocols
+  tags: []
+  operating_region:
+    - Latin America & Caribbean
+  based_in: Brazil
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 37
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

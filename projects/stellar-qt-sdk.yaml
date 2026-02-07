@@ -1,0 +1,37 @@
+title: Stellar Qt SDK
+other_names:
+  - SDK for Stellar Qt
+parent: null
+description: Stellar SDK for Qt/C++. Interface to deal with Horizon APIStellar SDK for Qt/C++. Interface to deal with Horizon API.
+links:
+  website:
+    - github.com/bnogalm/StellarQtSDK
+    - galactictalk.org/d/2300-sdk-for-stellar-qt
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/bnogalm/StellarQtSDK
+attributes:
+  category: Developer Tooling
+  tags:
+    - SDK
+  operating_region: []
+  based_in: Spain
+scf:
+  awarded_total: 0
+  awarded_round:
+    - 4
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recXb0s7x1Lm8XyXY
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

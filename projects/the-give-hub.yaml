@@ -1,0 +1,51 @@
+title: The Give Hub
+other_names: null
+parent: null
+description: |
+  A crowdfunding and microloan platform for social causes focusing on remote regions of Latin America and Africa
+links:
+  website:
+    - thegivehub.com
+  blog:
+    - blog.thegivehub.com/en
+  x:
+    - therealgivehub
+  linkedin:
+    - linkedin.com/company/thegivehub
+  discord:
+    - discord.gg/tJREDeHV
+  telegram: []
+  youtube:
+    - youtube.com/@TheGiveHub
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree:
+    - 'https:'
+  github:
+    - github.com/thegivehub
+attributes:
+  category: Applications
+  tags:
+    - Latam
+    - Africa
+    - Social
+    - AI
+    - Mobile
+    - Cross-Border Payments
+  operating_region:
+    - North America (without Mexico)
+    - Latin America & Caribbean
+    - Middle East & North Africa
+    - Sub-Saharan Africa
+  based_in: United States
+scf:
+  awarded_total: 45000
+  awarded_round:
+    - 33
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recrpQc2euTFMrS72
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,46 @@
+title: Kryptos
+other_names: null
+parent: null
+description: |
+  Integrating Stellar Network and Ecosystem into Kryptos to help users and businesses to aggregate all their financial data and unlock access to an ecosystem of fintech applications and services built using the first-ever financial data standardization protocol in Web3.
+links:
+  website:
+    - kryptos.io
+  blog:
+    - kryptos.io/blog
+  x:
+    - kryptosconnect
+  linkedin:
+    - linkedin.com/company/hellokryptos
+  discord: []
+  telegram:
+    - t.me/hellokryptos
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Kryptoskatt
+attributes:
+  category: Developer Tooling
+  tags:
+    - Accounting
+    - DeFi
+    - Enterprise
+    - Multi-Chain
+  operating_region:
+    - Europe & Central Asia
+    - North America (without Mexico)
+    - South Asia
+  based_in: Sweden
+scf:
+  awarded_total: 35000
+  awarded_round:
+    - 30
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec8oYbd5tHsa1sGc
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

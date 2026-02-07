@@ -1,0 +1,34 @@
+title: Moneygram
+other_names: null
+parent: null
+description: MoneyGram is a global leader in cross-border P2P payments and money transfers, operating in over 200 countries and territories. Through its partnership with the Stellar Development Foundation, MoneyGram has integrated blockchain technology to enable seamless cash-to-crypto and crypto-to-cash conversions, enhancing financial access and inclusion worldwide.
+links:
+  website:
+    - moneygram.com
+  blog:
+    - blog.moneygram.com
+  x:
+    - moneygram
+  linkedin:
+    - linkedin.com/company/moneygram-international
+  discord: []
+  telegram: []
+  youtube:
+    - youtube.com/user/MoneyGramInt
+  instagram:
+    - moneygram
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/stellar/moneygram-access-wallet-mvp
+attributes:
+  category: null
+  tags: []
+  operating_region: []
+  based_in: null
+scf: null
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

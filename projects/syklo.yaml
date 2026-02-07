@@ -1,0 +1,50 @@
+title: Syklo
+other_names: null
+parent: null
+description: |
+  We are integrating decentralized yield into a P2P wallet using the Blend lending protocol on Stellar. Wallet balances are typically idle; this feature lets users opt in to supply USDC to on-chain lending pools and earn interest from borrowers.
+
+  The objective is to:
+
+  *Enable passive yield on USDC without leaving the wallet
+
+  *Keep the experience simple for non-DeFi users
+
+  *Maintain user custody and on-chain transparency
+
+  *Increase wallet engagement and capital efficiency
+links:
+  website:
+    - syklo.io
+  blog: []
+  x:
+    - syklo_app
+  linkedin: []
+  discord: []
+  telegram:
+    - t.me/Syklo_app
+  youtube:
+    - youtube.com/@Syklo
+  instagram:
+    - syklo_app
+  reddit: []
+  tiktok: []
+  linktree:
+    - SykloApp
+  github: []
+attributes:
+  category: End-User Application
+  tags: []
+  operating_region:
+    - Mexico
+  based_in: Mexico
+scf:
+  awarded_total: 25100
+  awarded_round:
+    - 19
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recnQwmWOJN7EZPmj
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

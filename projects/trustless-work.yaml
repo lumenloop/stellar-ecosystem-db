@@ -1,0 +1,46 @@
+title: Trustless Work
+other_names: null
+parent: null
+description: |
+  Escrows-as-a-Service 
+links:
+  website:
+    - trustlesswork.com
+  blog: []
+  x:
+    - trustlesswork
+  linkedin:
+    - linkedin.com/company/trustlesswork
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Tico4Chain-Coders
+    - github.com/Trustless-Work
+attributes:
+  category: End-User Application
+  tags:
+    - B2B
+    - Marketplace
+    - Real Estate
+    - API
+    - Payments
+    - Art
+  operating_region:
+    - North America (without Mexico)
+    - Latin America & Caribbean
+  based_in: Costa Rica
+scf:
+  awarded_total: 70000
+  awarded_round:
+    - 31
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recNs5mLS2K2GFKVu
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

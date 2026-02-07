@@ -1,0 +1,37 @@
+title: Sentinel
+other_names:
+  - Sentinel Protocol
+parent: null
+description: |
+  Sentinel Protocol is a parametric insurance framework built on the Soroban blockchain, enabling trustless, automated coverage through smart contracts and decentralized oracles. It can support insurance in any vertical with a reliable data source. The first vertical we are building is flight delay insurance, which offers travelers automatic payouts if a flight is delayed beyond a set threshold, with no claims process or approvals. 
+links:
+  website:
+    - sentinel-finance.vercel.app
+  blog: []
+  x:
+    - sentinel_fi
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/SentinelFi
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - North America (without Mexico)
+  based_in: United States
+scf:
+  awarded_total: 128000
+  awarded_round:
+    - 36
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

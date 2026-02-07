@@ -1,0 +1,42 @@
+title: AssemblyScript Soroban SDK
+other_names: null
+parent: null
+description: |
+  The AssemblyScript Soroban SDK is an open source SDK that supports writing contracts for Soroban by using AssemblyScript.
+links:
+  website:
+    - github.com/Soneso/as-soroban-sdk
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Soneso/as-soroban-sdk
+attributes:
+  category: Developer Tooling
+  tags:
+    - SDK
+  operating_region: []
+  based_in: Spain
+scf:
+  awarded_total: 158460
+  awarded_round:
+    - 10
+    - 14
+    - 18
+    - 28
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rechLNmH8fN9cBMQM
+    - https://communityfund.stellar.org/dashboard/submissions/rec2ypZv4xeGu177p
+    - https://communityfund.stellar.org/dashboard/submissions/rect2OQxgI4OYMgTd
+    - https://communityfund.stellar.org/dashboard/submissions/rec6BPjqE2tB48RQX
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

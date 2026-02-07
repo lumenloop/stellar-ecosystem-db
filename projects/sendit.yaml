@@ -1,0 +1,32 @@
+title: Sendit
+other_names: null
+parent: null
+description: ''
+links:
+  website: []
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+scf:
+  awarded_total: 0
+  awarded_round:
+    - 4
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recDLqNaPrMbRxI77
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,54 @@
+title: Palremit
+other_names: null
+parent: null
+description: |
+  Palremit is a digital wallet and exchange enabling safe and convenient financial transactions in multiple currencies. We offer a plethora of options in currencies from fiat to crypto while enabling international cross-border transactions across all its services.
+links:
+  website:
+    - palremit.com
+  blog: []
+  x:
+    - palremit
+  linkedin:
+    - linkedin.com/company/palremit
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/palremit
+attributes:
+  category: Applications
+  tags:
+    - Multi-Chain
+    - Cross-Border Payments
+    - Remittances
+    - Payments
+    - On-Off Ramp
+    - Mobile
+    - Web
+    - Peer-to-Peer
+    - Security
+    - Infrastructure
+    - DeFi
+    - Wallet Infra
+    - USD
+  operating_region:
+    - Europe & Central Asia
+    - Sub-Saharan Africa
+    - North America (without Mexico)
+    - East Asia & Pacific
+  based_in: Nigeria
+scf:
+  awarded_total: 60000
+  awarded_round:
+    - 32
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recBocurhXA9SC6Xu
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

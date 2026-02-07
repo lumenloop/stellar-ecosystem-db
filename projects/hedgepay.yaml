@@ -1,0 +1,36 @@
+title: HedgePay
+other_names: null
+parent: null
+description: |
+  DeFi offers better yields than traditional banks, but most people never access it because onboarding is confusing and overly technical. Hedgepay solves that by turning DeFi into a simple, mobile self-banking experience built for users in Latin America.  At its core, Hedgepay is a self-custodial wallet that gives users direct access to stablecoin savings and curated DeFi investments. There are no seed phrases, gas fees, or complicated setup. Users can fund their account through local bank transfers or Pix, convert to USDC, and invest in vetted DeFi products through the Invest tab. Portfolio performance and withdrawals are displayed clearly inside the app.  Behind the scenes, Hedgepay uses secure key abstraction and transaction automation so users can interact with DeFi without managing blockchain details. All operations run on Stellar and Soroban, providing fast, low-cost access to global liquidity.  Future updates will add virtual debit cards linked to USDC balances and virtual ACH and IBAN accounts, allowing users to spend or move funds internationally without leaving the app.  Hedgepay’s goal is to make saving and investing in digital dollars as easy as using a bank app, giving people in emerging markets real access to stable income and financial independence.
+links:
+  website:
+    - hedgepay.app
+  blog: []
+  x: []
+  linkedin:
+    - linkedin.com/company/hedgepayapp
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/hedgepayapp
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - Latin America & Caribbean
+  based_in: Estonia
+scf:
+  awarded_total: 118600
+  awarded_round:
+    - 40
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

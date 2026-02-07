@@ -1,0 +1,37 @@
+title: OneKey
+other_names: null
+parent: null
+description: |
+  OneKey envisions a future where users can seamlessly and securely manage Stellar assets, leveraging our industry-leading hardware and software wallets to drive broader adoption of Stellar network. By fully integrating the Stellar network into both our hardware wallets (OneKey Pro & Classic 1S) and our self-developed software wallet app, we aim to empower millions of users with robust tools for holding, transacting, and interacting with $XLM and custom Stellar assets, while maintaining the highest standards of security and user experience.
+links:
+  website:
+    - onekey.so
+  blog: []
+  x:
+    - onekeyhq
+  linkedin:
+    - linkedin.com/company/onekeyhq
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/onekeyhq
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - East Asia & Pacific
+  based_in: China
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 39
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

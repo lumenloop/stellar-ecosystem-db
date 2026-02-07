@@ -1,0 +1,44 @@
+title: BlockEden.xyz
+other_names: null
+parent: null
+description: |
+  Stellar Soroban Indexer and GraphQL
+links:
+  website:
+    - BlockEden.xyz
+  blog:
+    - BlockEden.xyz/blogs
+  x:
+    - blockedenhq
+  linkedin:
+    - linkedin.com/in/dora-noda-35952622a
+  discord:
+    - discord.gg/4Yfvs2HWey
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/blockedenhq
+    - github.com/BlockEdenHQ
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Indexer
+    - GraphQL
+    - Multi-Chain
+  operating_region:
+    - United States
+  based_in: United States
+scf:
+  awarded_total: 139999
+  awarded_round:
+    - 18
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recR2IbUJQTFDHKpA
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

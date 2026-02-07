@@ -1,0 +1,47 @@
+title: Untangled
+other_names:
+  - Untangled Vault
+parent: null
+description: |
+  Untangled Vault is an automated, non-custodial, data-driven asset management protocol enabling anyone to set and execute strategies to fit investor risk/return appetite. Untangled Vault is powered by Untangled pool, an asset tokenization protocol focusing on RWA private credits and Credio, a risk oracle providing machine learning model inferences and onchain monitoring to RWA.
+links:
+  website:
+    - untangled.finance
+  blog:
+    - medium.com/untangledfin
+  x:
+    - untangledfi
+    - untangledfin
+  linkedin:
+    - linkedin.com/company/untangled-finance
+  discord:
+    - discord.gg/neucRJEWHe
+  telegram: []
+  youtube:
+    - youtube.com/@web3_antivirus
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/untangledfinance
+    - github.com/untangledfinance/soroban-vault-contract
+attributes:
+  category: Financial Protocols
+  tags:
+    - Yield Aggregator
+    - DeFi
+  operating_region:
+    - United Kingdom
+  based_in: United Kingdom
+scf:
+  awarded_total: 200000
+  awarded_round:
+    - 31
+    - 25
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec5hF8af5tfhSlT2
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

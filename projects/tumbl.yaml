@@ -1,0 +1,30 @@
+title: Tumbl
+other_names: null
+parent: null
+description: Tumbl is a platform for deploying automated financial workflows on Stellar, without needing to write a single line of code.  From payroll, disbursements and international on/off ramps, to yield-bearing assets, to liquidity rewards, Tumbl is the all in one platform for deploying and accessing automated finance on Stellar.
+links:
+  website:
+    - tumbl.xyz
+  blog: []
+  x: []
+  linkedin:
+    - linkedin.com/in/amrith-srinivas-8a4b06262
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/cordilleradev
+attributes:
+  category: null
+  tags: []
+  operating_region: []
+  based_in: null
+scf: null
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

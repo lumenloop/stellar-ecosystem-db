@@ -1,0 +1,37 @@
+title: AIDA
+other_names: null
+parent: null
+description: |
+  AIDA is an AI-powered multi-chain platform that combines three core modules: Trading Terminal, MindSharing, and LaunchZone, and enables users to create, analyze, and trade tokens — including RWA, AI, MEME, and GameFi — in real time across multiple blockchains. With Stellar integration, AIDA will make issuing and promoting Stellar-native tokens seamless and accessible, and Stellar assets will gain equal visibility within our trading terminal, analytics engine, and KOL campaign system, giving developers and traders the same opportunities as projects on other chains. The Trading Terminal features a multi-DEX aggregator with best execution, now including Stellar DEX liquidity, unified charts and pair discovery where Stellar tokens appear alongside other assets, and AI-driven market scanning to identify trends and opportunities for Stellar tokens. MindSharing is a KOL campaign engine tailored for Stellar projects, offering transparent reward pools in XLM or custom Stellar tokens, and works for both Pre-TGE and Post-TGE projects with instant, low-cost payouts via Stellar. LaunchZone is a no-code token creation suite for Stellar-based tokens, enabling fast listing and liquidity pool setup for Stellar assets, with native integration with the AIDA wallet, campaign engine, and trading terminal, providing a full cycle for Stellar projects to create, launch, promote, and trade.
+links:
+  website:
+    - aidapp.com
+  blog: []
+  x:
+    - aidappcom
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - South Asia
+    - East Asia & Pacific
+    - Europe & Central Asia
+  based_in: United Arab Emirates
+scf:
+  awarded_total: 47000
+  awarded_round:
+    - 39
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

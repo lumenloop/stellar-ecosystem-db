@@ -1,0 +1,47 @@
+title: Rahat
+other_names: null
+parent: null
+description: |
+  Integrate Rahat, a financial access platform on Stellar to help humanitarian agencies empower vulnerable communities with efficient, transparent, and low-cost aid delivery with automated weather triggers event before the onset of a climate disaster. 
+links:
+  website:
+    - rahat.io
+  blog:
+    - rahat.io/blogs?page=1&limit=100
+  x:
+    - rahataid
+  linkedin:
+    - linkedin.com/company/rumsan
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/rahataid
+attributes:
+  category: Applications
+  tags:
+    - Aid
+    - USD
+    - Art
+    - API
+    - Community
+    - Ecosystem Discovery
+    - Automation
+  operating_region:
+    - South Asia
+    - East Asia & Pacific
+  based_in: Nepal
+scf:
+  awarded_total: 149962
+  awarded_round:
+    - 30
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec1ZJuYde6wkjlWJ
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

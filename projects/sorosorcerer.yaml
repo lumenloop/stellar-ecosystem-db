@@ -1,0 +1,39 @@
+title: Sorosorcerer
+other_names:
+  - Sorosorcerer.com
+parent: null
+description: |
+  An easy to use tool to develop smart contracts on soroban for use-case builders with secure and vetted code
+links:
+  website:
+    - sorosorcerer.com
+  blog: []
+  x:
+    - efikodlt
+  linkedin: []
+  discord:
+    - discord.gg/5mxkqWaX7F
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/NossicaSystems/soroban_extend
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region:
+    - Netherlands
+  based_in: Netherlands
+scf:
+  awarded_total: 40000
+  awarded_round:
+    - 16
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recMrJRtoPBpXYIMY
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

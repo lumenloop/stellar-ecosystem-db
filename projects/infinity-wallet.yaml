@@ -1,0 +1,49 @@
+title: Infinity Wallet
+other_names: null
+parent: null
+description: |
+  A one-stop self-custodial crypto wallet 
+links:
+  website:
+    - infinitywallet.io
+  blog:
+    - infinitywallet.io/blog
+  x:
+    - infinitywallet
+  linkedin: []
+  discord:
+    - discord.gg/nQMnwXjdvy
+  telegram: []
+  youtube:
+    - youtube.com/channel/UCPnnMXAFcZEtpNnF1BRNgHg
+  instagram:
+    - infinity_wallet
+  reddit:
+    - r/InfinityEcosystem
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/InfinityWallet
+attributes:
+  category: Applications
+  tags:
+    - Payments
+    - DeFi
+    - Web
+    - Cross-Border Payments
+    - Multi-Chain
+  operating_region:
+    - Latin America & Caribbean
+    - East Asia & Pacific
+    - Europe & Central Asia
+  based_in: Spain
+scf:
+  awarded_total: 130000
+  awarded_round:
+    - 16
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec19YyUKPo2XVINi
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

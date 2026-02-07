@@ -1,0 +1,34 @@
+title: Stellar Transaction Visualizer
+other_names: null
+parent: null
+description: |
+  Stellar Transaction Visualizer is a professional-grade tool designed to help developers and users analyze, simulate, and debug Stellar blockchain transactions with clarity and ease. Built on modern web technologies, this visualizer transforms complex transaction data into intuitive, interactive experiences.  At its core, the platform features a dynamic visual graph that displays each transaction's flow - complete with color-coded connections, animated sequencing, and detailed operation nodes showing type-specific data. Whether you’re tracking payments, contract interactions, or account creations, every element is rendered for quick understanding.
+links:
+  website:
+    - stellarvisualizer.vercel.app
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/NibrasD/stellar-transaction-visualizer
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region: []
+  based_in: Egypt
+scf:
+  awarded_total: 50000
+  awarded_round:
+    - 37
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

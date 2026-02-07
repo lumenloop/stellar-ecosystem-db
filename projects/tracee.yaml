@@ -1,0 +1,38 @@
+title: Tracee
+other_names: null
+parent: null
+description: |
+  A seamless cross-border payment channel from European SMBs and NGOs to MENA individuals, ensuring quick, secure, and cheap single and bulk transfers.
+links:
+  website:
+    - traceeapp.com
+  blog: []
+  x: []
+  linkedin:
+    - linkedin.com/company/traceeapp
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Tracee1910/tracee-app
+attributes:
+  category: Applications
+  tags:
+    - SDP
+    - MENA
+  operating_region: []
+  based_in: France
+scf:
+  awarded_total: 128925
+  awarded_round:
+    - 16
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recMi36KGHYwtBcZl
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

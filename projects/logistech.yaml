@@ -1,0 +1,41 @@
+title: Logistech
+other_names: null
+parent: null
+description: |
+  We are an existing payment processor with clients such as cruises, hotels and hostels. These users often have to pay high fees at check-out. By integrating Stellar we want to decrease these fees and offer an easy to use way to check-out at lower fees. We will be integrating through the Beans merchant SDK, making use of their global on-ramps and check-out API to abstract crypto away for our customers. 
+links:
+  website:
+    - logistechglobal.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/beans-bv
+attributes:
+  category: Applications
+  tags:
+    - Payment Gateway
+    - Merchant
+    - POS
+    - On-Off Ramp
+    - Cross-Border Payments
+    - SDK
+  operating_region:
+    - East Asia & Pacific
+  based_in: Vietnam
+scf:
+  awarded_total: 101120
+  awarded_round:
+    - 34
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

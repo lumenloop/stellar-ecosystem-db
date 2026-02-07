@@ -1,0 +1,37 @@
+title: Loop Finance
+other_names:
+  - Loop - Cashback Everywhere with Stellar
+  - Loop
+parent: null
+description: |
+  Loop reimagines everyday spending by combining the discounts, flexibility and global acceptance of gift cards with the power of blockchain-enabled payments. Users instantly access discounted digital gift cards to shop with merchants across the US, Canada, the UK, and Western Europe. We make savings seamless, global, and inclusive by rewarding customers for how they pay and encourage adoption of innovative financial rails while delivering immediate value at the checkout. Stellar payments empower us to offer significant cashback, passing on the savings from this optimal payment rail and the discounts we receive from suppliers. USDC cashback is delivered instantly to the integrated Stellar passkey wallet. We provide instant, borderless access to savings every time users shop, drive adoption of Stellar as a fast, low-cost, interoperable settlement layer through fantastic discounts, and deliver a frictionless user experience that works across web, mobile, and in-store environments. From a technical perspective, we integrate Stellar for instantly settled on-chain payments, accepting XLM, USDC, and EURC. Users receive instant cashback in USDC to their passkey based wallet. We also enable fast onboarding to Stellar with integrated on-ramps, enabling us to win organic users at any level of blockchain familiarity. For gift cards we integrate leading gift card suppliers: Blackhawk, Incomm, SVS, Tillo, Runa. Through these we have access to hundreds of top merchants covering 300k+ store locations. Finally in addition to the gift card programme we'll offer a cash back mastercard/visa card ensuring users can spend and save anywhere. 
+links:
+  website:
+    - loopfinance.io
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - Europe & Central Asia
+    - North America (without Mexico)
+  based_in: United Kingdom
+scf:
+  awarded_total: 139600
+  awarded_round:
+    - 40
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

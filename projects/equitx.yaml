@@ -1,0 +1,43 @@
+title: EquitX
+other_names: null
+parent: null
+description: |
+  Diversify your portfolio by investing in small-cap stocks as crypto assets on the Stellar blockchain.
+links:
+  website:
+    - equitx.com
+  blog: []
+  x:
+    - equit_x
+  linkedin:
+    - linkedin.com/company/equitx
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/EquitXCompany
+    - github.com/EquitXCompany/equitx-project/commits/main
+attributes:
+  category: Financial Protocols
+  tags:
+    - Synthetics
+    - DeFi
+  operating_region:
+    - Europe & Central Asia
+  based_in: France
+scf:
+  awarded_total: 150300
+  awarded_round:
+    - 26
+    - 31
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recgGcVWMy7qp8CAd
+    - https://communityfund.stellar.org/dashboard/submissions/recVpLJSgXgMroJVF
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

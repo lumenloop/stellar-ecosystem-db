@@ -1,0 +1,35 @@
+title: OpenSolar
+other_names: null
+parent: null
+description: |
+  Securitized project financing powered by Stellar
+links:
+  website:
+    - openx.solar
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/YaleOpenLab/opensolar
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+scf:
+  awarded_total: 24357.0234
+  awarded_round:
+    - 5
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recei4RC1NYovsqZi
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

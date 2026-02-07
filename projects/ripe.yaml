@@ -1,0 +1,42 @@
+title: Ripe
+other_names: null
+parent: null
+description: |
+  Stellar anchor to GCash in the Philippines
+links:
+  website:
+    - ripe.money
+  blog:
+    - ripe.money/blog
+  x:
+    - ripepayments
+  linkedin:
+    - linkedin.com/company/ripemoney
+  discord: []
+  telegram:
+    - t.me/ripemoney
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/ripe-money
+attributes:
+  category: Applications
+  tags:
+    - Asia
+    - Cross-Border Payments
+    - Philippines
+  operating_region: []
+  based_in: Philippines
+scf:
+  awarded_total: 100000
+  awarded_round:
+    - 17
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/reczm3NWCRztmpQAK
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

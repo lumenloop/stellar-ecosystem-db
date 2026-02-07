@@ -1,0 +1,45 @@
+title: Dapplooker
+other_names: null
+parent: null
+description: |
+  Stellar Network integration for No-Code Web3 Business Intelligence, Community Analytics, and Visualization
+links:
+  website:
+    - dapplooker.com
+  blog:
+    - blog.dapplooker.com
+  x:
+    - dapplooker
+  linkedin:
+    - linkedin.com/company/dapplooker
+    - linkedin.com/company/dapplooker?originalSubdomain=in
+  discord:
+    - discord.gg/s2BYwUMTQ4
+  telegram:
+    - t.me/dapplooker
+  youtube:
+    - youtube.com/channel/UC1KJmtb3UhnWSN_sDv71_fg
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/dapplooker
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Analytics
+    - API
+  operating_region:
+    - India
+  based_in: India
+scf:
+  awarded_total: 27700
+  awarded_round:
+    - 24
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recRWimCH2fHeod4L
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

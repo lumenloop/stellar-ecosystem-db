@@ -1,0 +1,46 @@
+title: Bitwave
+other_names: null
+parent: null
+description: |
+  Bitwave is a digital asset finance platform designed to manage the intersection of digital asset accounting, tax, and compliance.
+links:
+  website:
+    - bitwave.io
+    - Bitwave.io
+  blog:
+    - bitwave.io/blog
+  x:
+    - bitwaveplatform
+  linkedin:
+    - linkedin.com/company/bitwaveplatform
+  discord: []
+  telegram: []
+  youtube:
+    - youtube.com/channel/UC3eA1Ql5Ay8aio4BDCG4pSA
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Enterprise
+    - Payments
+    - Automation
+    - B2B
+  operating_region:
+    - United States
+  based_in: United States
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 24
+    - 29
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recuqcat2t0W9ya9o
+    - https://communityfund.stellar.org/dashboard/submissions/recTq3wV5OuPXU0mp
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

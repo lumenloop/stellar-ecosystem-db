@@ -1,0 +1,40 @@
+title: Task.io
+other_names: null
+parent: null
+description: |
+  Connect teams with your social missions  Mobile-first technology powered by blockchain. Gather data, provide user incentives, and report on the impact created.
+links:
+  website:
+    - task.io
+  blog:
+    - blog.thebluemarble.io
+  x:
+    - taskdotio
+  linkedin:
+    - linkedin.com/company/taskdotio
+  discord: []
+  telegram:
+    - t.me/joinchat/HV8nuREPTKOXtC-DcCofIw
+  youtube: []
+  instagram:
+    - taskdotio
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/taskdotio
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: Thailand
+scf:
+  awarded_total: 283499
+  awarded_round:
+    - 7
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rechmD8fdwrII1xaQ
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

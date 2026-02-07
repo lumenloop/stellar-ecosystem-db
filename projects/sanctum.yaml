@@ -1,0 +1,40 @@
+title: Sanctum
+other_names:
+  - Soroban contracts with secrets
+parent: null
+description: |
+  We are building ZK+MPC tech to enable smart contracts to compute on secret state, thus bringing privacy to the Stellar apps.
+links:
+  website:
+    - github.com/zkbricks/mpc-zexe
+    - github.com/zkbricks/sanctum
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/zkbricks/mpc-zexe
+    - github.com/zkbricks/sanctum
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region: []
+  based_in: United States
+scf:
+  awarded_total: 135000
+  awarded_round:
+    - 23
+    - 25
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recdGy1JdPi0qtRpj
+    - https://communityfund.stellar.org/dashboard/submissions/recEXQ7VUoxGVHeZx
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

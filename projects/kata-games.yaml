@@ -1,0 +1,40 @@
+title: Kata.Games
+other_names: null
+parent: null
+description: |
+  Empowering indie developers with tools to create innovative online games, that use Web3 technologies
+links:
+  website:
+    - kata.games
+  blog: []
+  x:
+    - createplayearn
+  linkedin:
+    - linkedin.com/company/kata-games
+  discord:
+    - discord.gg/SHdJhcWvQD
+  telegram: []
+  youtube:
+    - youtube.com/@wkta11
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/gaudiatech/pyved-engine
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - Europe & Central Asia
+  based_in: France
+scf:
+  awarded_total: 25000
+  awarded_round:
+    - 11
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recHtbbed2g2fGLlZ
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

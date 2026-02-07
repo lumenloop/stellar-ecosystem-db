@@ -1,0 +1,35 @@
+title: Stellot
+other_names: null
+parent: null
+description: |
+  e-Voting platform
+links:
+  website:
+    - stellot.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/stanbar/stellot
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+scf:
+  awarded_total: 0
+  awarded_round:
+    - 4
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec4OC7H7Ywe9d5gN
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,38 @@
+title: DeFarm
+other_names: null
+parent: null
+description: |
+  DeFarm is an agricultural traceability platform that enables organizations to participate in collaborative networks (circuits) while maintaining complete data sovereignty. Our system allows producers, certifiers, and government authorities to selectively share agricultural data through privacy-preserving disclosure mechanisms, ensuring compliance and transparency without compromising sensitive information.
+links:
+  website:
+    - defarm.net
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/defarm-repo
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - Latin America & Caribbean
+    - Middle East & North Africa
+    - Europe & Central Asia
+  based_in: Brazil
+scf:
+  awarded_total: 90000
+  awarded_round:
+    - 10
+    - 40
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

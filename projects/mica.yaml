@@ -1,0 +1,38 @@
+title: Mica
+other_names: null
+parent: null
+description: |
+  Mica escrow creates security in real estate transactions.
+links:
+  website:
+    - mica.rent
+  blog:
+    - mica.rent/blog
+  x: []
+  linkedin:
+    - linkedin.com/company/micarent
+  discord: []
+  telegram: []
+  youtube: []
+  instagram:
+    - mica.rent
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/MicaTechnology/escrow_api
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: Mexico
+scf:
+  awarded_total: 138700
+  awarded_round:
+    - 16
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recdcC4akBWPOdMsS
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,43 @@
+title: Pluto Loans
+other_names:
+  - Pluto Loans B2B
+parent: null
+description: |
+  Self-repaying loans: Spend your future yield today
+links:
+  website:
+    - plutoloans.com
+    - plutoloans.com/en/plutoloans_en
+  blog: []
+  x:
+    - plutodaofinance
+  linkedin:
+    - linkedin.com/company/plutodao
+  discord:
+    - discord.gg/9hkx2AVhpc
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/PlutoDAO
+attributes:
+  category: Financial Protocols
+  tags: []
+  operating_region:
+    - Argentina
+  based_in: null
+scf:
+  awarded_total: 141180
+  awarded_round:
+    - 10
+    - 15
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/reccHsP7ESotRVcIv
+    - https://communityfund.stellar.org/dashboard/submissions/recVYQzThUCdFa0N5
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

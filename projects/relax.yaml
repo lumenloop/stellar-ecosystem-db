@@ -1,0 +1,33 @@
+title: Relax
+other_names: null
+parent: null
+description: |
+  Track human resource assets (vacation days, salary, etc) on Stellar
+links:
+  website: []
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+scf:
+  awarded_total: 4514.95
+  awarded_round:
+    - 6
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recdDizcOwENDizno
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

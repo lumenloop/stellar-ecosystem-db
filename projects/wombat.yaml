@@ -1,0 +1,44 @@
+title: Wombat
+other_names:
+  - Wombat Exchange
+parent: null
+description: |
+  Wombat Exchange is a multichain stableswap, focused on re-engineering the stableswap experience with its innovative algorithm.
+links:
+  website:
+    - wombat.exchange
+  blog:
+    - medium.com/wombat-exchange
+  x:
+    - wombatexchange
+  linkedin:
+    - linkedin.com/company/wombat-exchange
+  discord:
+    - discord.gg/Wombat
+  telegram:
+    - t.me/WombatExchange
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/wombat-exchange
+attributes:
+  category: Financial Protocols
+  tags:
+    - DEX
+    - DeFi
+  operating_region:
+    - East Asia & Pacific
+  based_in: Hong Kong
+scf:
+  awarded_total: 150004.63
+  awarded_round:
+    - 18
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec5a6qOoWCjaHweW
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

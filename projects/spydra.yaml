@@ -1,0 +1,49 @@
+title: Spydra
+other_names:
+  - Spydra-Low code RWA Tokenization engine
+parent: null
+description: |
+  Spydra is a low code Tokenization platform to tokenize Real world assets for Asset Owners/Issuers without writing a single line of code
+links:
+  website:
+    - spydra.app
+  blog:
+    - medium.com/@spydra
+  x:
+    - spydra_io
+  linkedin:
+    - linkedin.com/company/spydra
+  discord:
+    - discord.gg/sNEqjP2KBs
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/spydra-tech
+    - github.com/spydra-tech/erc3643
+attributes:
+  category: Applications
+  tags:
+    - Tokenization
+    - Real Estate
+    - Identity
+    - KYC
+    - No-Code
+    - AI
+  operating_region:
+    - South Asia
+    - Middle East & North Africa
+  based_in: India
+scf:
+  awarded_total: 132000
+  awarded_round:
+    - 31
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recFPqlkdvLeOs6WU
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

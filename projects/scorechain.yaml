@@ -1,0 +1,37 @@
+title: Scorechain
+other_names:
+  - (SSC) - Scorechain Stellar Compliance
+parent: null
+description: |
+  Scorechain for Stellar Compliance will integrate the Stellar blockchain into Scorechain’s enterprise-grade crypto compliance platform. The objective is to support Stellar with the same level of advanced KYT (Know-Your-Transaction), risk scoring, and AML tools we currently offer for 15+ blockchains including Bitcoin, Ethereum, and Ripple.
+links:
+  website:
+    - scorechain.com
+  blog: []
+  x:
+    - scorechain
+  linkedin:
+    - linkedin.com/company/scorechain
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - Luxembourg
+  based_in: Luxembourg
+scf:
+  awarded_total: 85000
+  awarded_round:
+    - 36
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

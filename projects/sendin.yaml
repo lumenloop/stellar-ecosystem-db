@@ -1,0 +1,45 @@
+title: SendIN
+other_names: null
+parent: null
+description: |
+  US to India money transfers made easy, cheap &amp; lightning fast.
+links:
+  website:
+    - github.com/SendIN-Org/sendIN
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/SendIN-Org/sendIN
+attributes:
+  category: Applications
+  tags:
+    - Remittances
+    - Payments
+    - Cross-Border Payments
+    - USA
+    - India
+    - KYC
+    - On-Off Ramp
+    - Web
+  operating_region:
+    - East Asia & Pacific
+  based_in: India
+scf:
+  awarded_total: 104500
+  awarded_round:
+    - 29
+    - 36
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/reclOpHi3CxBBYPaO
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

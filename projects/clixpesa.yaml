@@ -1,0 +1,46 @@
+title: Clixpesa
+other_names: null
+parent: null
+description: |
+  Making money and crypto simple for everyone
+links:
+  website:
+    - clixpesa.com
+  blog: []
+  x:
+    - clixpesa
+  linkedin:
+    - linkedin.com/company/clixpesa
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/rizamoyi
+    - github.com/clixpesa
+attributes:
+  category: Applications
+  tags:
+    - Africa
+    - Savings
+    - Peer-to-Peer
+    - Lending & Borrowing
+    - Unbanked
+    - Payments
+    - Art
+  operating_region:
+    - Kenya
+  based_in: Kenya
+scf:
+  awarded_total: 35050
+  awarded_round:
+    - 26
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recVDX0W60gkrJKWP
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

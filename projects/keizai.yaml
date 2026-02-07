@@ -1,0 +1,39 @@
+title: Keizai
+other_names: null
+parent: null
+description: |
+  Keizai is a postman-like Soroban contract testing platform
+links:
+  website:
+    - keizai.dev
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/keizai-tools
+attributes:
+  category: Developer Tooling
+  tags:
+    - Security
+    - Testing
+  operating_region: []
+  based_in: Australia
+scf:
+  awarded_total: 88300
+  awarded_round:
+    - 21
+    - 28
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recFhanAqcbR56Bv8
+    - https://communityfund.stellar.org/dashboard/submissions/recn2qqdZGTIcTm0n
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,35 @@
+title: Chef
+other_names: null
+parent: null
+description: |
+  Chef is a tool that helps developers set up their test environments quickly
+links:
+  website:
+    - stellar-chef.github.io/stellar-chef
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/stellar-chef/stellar-chef
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region: []
+  based_in: null
+scf:
+  awarded_total: 18000
+  awarded_round:
+    - 22
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recskJRJnsD63Lg4G
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

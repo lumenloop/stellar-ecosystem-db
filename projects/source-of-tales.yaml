@@ -1,0 +1,41 @@
+title: Source of Tales
+other_names: null
+parent: null
+description: |
+  Own your virtual self in a friendly retro world.
+links:
+  website:
+    - sourceoftales.org/stellar
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/gitlab.com/tales
+attributes:
+  category: Applications
+  tags:
+    - Gaming
+    - Identity
+    - AI
+    - Trading
+    - Database
+    - Security
+  operating_region: []
+  based_in: Germany
+scf:
+  awarded_total: 7500
+  awarded_round:
+    - 10
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recMAwrPuhoeSNk05
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

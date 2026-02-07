@@ -1,0 +1,42 @@
+title: Soroban Governor
+other_names:
+  - Soroban Governor DAO
+parent: Script3
+description: Open source, flexible, fully functional DAO smart contract framework inspired by the OpenZeppelin Governor.
+links:
+  website:
+    - governance.script3.io
+  blog:
+    - script3.medium.com
+  x:
+    - script3official
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/script3/soroban-governor
+attributes:
+  category: Developer Tooling
+  tags:
+    - Governance
+    - DAO Tool
+  operating_region:
+    - United States
+  based_in: United States
+scf:
+  awarded_total: 111300
+  awarded_round:
+    - 22
+    - 24
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recB4ormy61AOrN5I
+    - https://communityfund.stellar.org/dashboard/submissions/recsEVEThwFT4tSNI
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

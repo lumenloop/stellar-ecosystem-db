@@ -1,0 +1,41 @@
+title: Lul
+other_names:
+  - Lul-Serving the unbanked
+parent: null
+description: |
+  This is a previously initially funded project. Our apps aids financially underserved refugees and unbanked individuals in sub-Saharan Africa. Many Africans lack adequate banking. For example, 350 Million people are unbanked in Sub-Saharan Africa. Also, Millions of refugees don’t have financial access. Refugees often encounter hurdles accessing traditional banking due to language barriers, documentation challenges, and unfamiliarity with other financial options.   Our app, utilizing Stellar, tackles these issues by providing vital services like remittance, digital wallets, payments, crowd funding, rotating savings and credit associations, and virtual cards. These solutions are crafted to offer refugees and unbanked individuals secure and affordable access to financial services, bolstering their financial inclusion and stability.         Now we have been funded Initial funding in previous round of SCF # 29. We were supposed to deliver basic payment and remittance functionality. We have done that. Additionally after we were recommended to  show traction after we applied for #35, we have launched closed beta with 125 users and have gotten rave response and people are already using this app. And we want to progress to the next phase of development, which is developing, the remaining functionalities, such as crowd funding, rotating savings and credit associations, and virtual cards,  and launch on Testnet.
+links:
+  website:
+    - lulpay.com
+  blog: []
+  x: []
+  linkedin:
+    - linkedin.com/in/zerayacob-a-tedla-1abb64b9
+  discord:
+    - discord.gg/rC4jqHmA
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/lulpay
+    - github.com/Zerie5
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - Sub-Saharan Africa
+  based_in: Uganda
+scf:
+  awarded_total: 58000
+  awarded_round:
+    - 29
+    - 38
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rectWILIUqnvfGvTK
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

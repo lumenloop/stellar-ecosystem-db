@@ -1,0 +1,51 @@
+title: Obsrvr
+other_names:
+  - Flow
+parent: null
+description: |
+  Flow is a data indexing solution that lets Stellar data be received, changed, and sent to external data stores in real time. Flow builds up the Composable Data Platform, the next generation data-access platform on Stellar. With an open-source cli component and a managed service through Obsrvr. Flow lets developers make custom workflows based on blockchain data, which makes sure that data flows smoothly into their applications or analytical systems.   The components that make up the solution are: Publicly available datasets for Mainnet, Testnet and Futurenet created using Stellar Galexie (requester pays), CLI indexer that can be self hosted,  SaaS offering with shared and dedicated options
+links:
+  website:
+    - withobsrvr.com
+  blog:
+    - withobsrvr.com/blog
+  x:
+    - withobsrvr
+  linkedin:
+    - linkedin.com/company/obsrvr
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/withObsrvr/nomad-pack-web3-registry
+    - github.com/withObsrvr/flowctl
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - SDK
+    - CLI
+    - API
+    - Infrastructure
+    - Automation
+    - Database
+    - Analytics
+    - RPC
+    - Nodes
+    - Hosting
+    - Ecosystem Discovery
+  operating_region:
+    - North America (without Mexico)
+  based_in: United States
+scf:
+  awarded_total: 120000
+  awarded_round:
+    - 35
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

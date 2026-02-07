@@ -1,0 +1,35 @@
+title: Zebec
+other_names: null
+parent: null
+description: Zebec is a decentralized infrastructure network that facilitates real-time, frictionless, and continuous streams of payments, enabling seamless financial transactions for individuals and businesses. Their products include real-time payroll systems, on-chain payment solutions, and crypto-enabled debit cards.
+links:
+  website:
+    - zebec.io
+  blog:
+    - medium.com/zebec-protocol
+  x:
+    - zebec_hq
+  linkedin:
+    - linkedin.com/company/zebec-network
+  discord:
+    - discord.gg/fJM9cHuvvB
+  telegram:
+    - t.me/zebecprotocol
+  youtube: []
+  instagram:
+    - zebec_hq
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Zebec-protocol
+attributes:
+  category: null
+  tags: []
+  operating_region: []
+  based_in: null
+scf: null
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

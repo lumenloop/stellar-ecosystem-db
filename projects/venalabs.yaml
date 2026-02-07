@@ -1,0 +1,36 @@
+title: Venalabs
+other_names: null
+parent: null
+description: |
+  At VenaLabs, we believe the best way to learn Web3 is through hands-on practice. Instead of passively watching or reading, users actively engage with real blockchain concepts through gamified and interactive experiences.    Our platform is structured like a video game: users follow learning maps that simulate real on-chain actions. Each map focuses on a specific blockchain, introducing core concepts step by step. As they progress, users unlock new maps and challenges, earning on-chain certifications minted as NFTs to validate their achievements.    To simplify complex topics, we include mini-games that turn abstract ideas into fun, interactive exercises. Once users are ready, they can take on Airdrop Conquests—real-world quests that let them apply what they’ve learned and earn tangible rewards.    With the help of AI-powered virtual mentors offering guidance and feedback along the way, VenaLabs turns blockchain education into an immersive and practical journey, giving learners the tools they need to confidently navigate the Web3 space
+links:
+  website:
+    - venalabs.com
+  blog: []
+  x:
+    - venalabs
+  linkedin:
+    - linkedin.com/company/venalabs
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - France
+  based_in: France
+scf:
+  awarded_total: 86000
+  awarded_round:
+    - 36
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,47 @@
+title: Certik
+other_names:
+  - Skynet
+parent: Certik
+description: |
+  Building Stellar chain support to CertiK’s Skynet for community security and SkyInsights for compliance/risk monitoring.
+links:
+  website:
+    - skynet.certik.com
+    - certik.com/products/skyinsights
+  blog:
+    - certik.com/resources/blog
+  x:
+    - certik
+  linkedin:
+    - linkedin.com/company/certik
+  discord:
+    - discord.gg/certik
+  telegram:
+    - t.me/CertiKCommunity
+  youtube:
+    - youtube.com/channel/UCCcFr6FTUeWDIqUdY8i1W5w
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/CertiKProject
+attributes:
+  category: Developer Tooling
+  tags:
+    - Security
+    - Analytics
+    - Monitoring
+  operating_region:
+    - United States
+  based_in: United States
+scf:
+  awarded_total: 49997
+  awarded_round:
+    - 25
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recYJNdSR6lx5fl4w
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

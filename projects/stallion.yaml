@@ -1,0 +1,38 @@
+title: stallion
+other_names: null
+parent: null
+description: |
+  Stallion is a platform designed to connect skilled individuals within the stellar ecosystem to opportunities where they can contribute to projects. It's primary goal is to onboard a diverse pool of talents, developers, designers, writers, project managers and others into the stellar ecosystem   Stallion acts as a bridge that connects skilled individuals with relevant projects, bounties and job opportunities within the stellar ecosystem. Through its focus on collaboration, Stallion aims to drive innovation, ensuring that talents contribute to projects that not only advance the Stellar network but also empower individuals to grow professionally. Whether you’re an expert looking for your next challenge or a newcomer eager to enter the blockchain space, Stallion is the place to find and engage with opportunities in the Stellar ecosystem
+links:
+  website:
+    - earnstallions.xyz
+  blog: []
+  x:
+    - stallionsassmbl
+  linkedin: []
+  discord:
+    - discord.gg/VVmxCBuw
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/stallionsassemble/stallion-contract
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - Sub-Saharan Africa
+  based_in: Nigeria
+scf:
+  awarded_total: 50000
+  awarded_round:
+    - 10
+    - 39
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

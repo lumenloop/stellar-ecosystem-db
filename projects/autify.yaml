@@ -1,0 +1,40 @@
+title: Autify
+other_names:
+  - Autify Network
+parent: null
+description: |
+  Developing a revolutionary cross-border payment infrastructures & supply-chain management through the power of blockchain and AI
+links:
+  website:
+    - autifynetwork.com
+  blog:
+    - autifynetwork.com/the-blog
+  x:
+    - autifynetwork
+  linkedin:
+    - linkedin.com/company/autify-network
+  discord: []
+  telegram: []
+  youtube: []
+  instagram:
+    - autify_network
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - India
+  based_in: India
+scf:
+  awarded_total: 15000
+  awarded_round:
+    - 14
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recTAiDefI9ZNxR9E
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

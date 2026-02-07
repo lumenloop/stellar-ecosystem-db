@@ -1,0 +1,36 @@
+title: Mimoto
+other_names: null
+parent: null
+description: |
+  Mimoto uses ZK proofs for swift, secure identity verification in payments, protecting user privacy and financial safety.
+links:
+  website:
+    - github.com/nkoorty/Mimoto
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/nkoorty/Mimoto
+    - github.com/nkoorty
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region: []
+  based_in: United Kingdom
+scf:
+  awarded_total: 30000
+  awarded_round:
+    - 26
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recvAM8g3CmmFQM1p
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

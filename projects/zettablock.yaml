@@ -1,0 +1,33 @@
+title: ZettaBlock
+other_names: null
+parent: null
+description: ZettaBlock offers APIs for querying and analyzing Stellar on-chain data, enabling developers to build data-driven applications on the Stellar network. It simplifies access to transaction insights, account activity, and network analytics without requiring extensive infrastructure setup.
+links:
+  website:
+    - zettablock.com
+  blog:
+    - blog.zettablock.com
+  x:
+    - zettablockhq
+  linkedin:
+    - linkedin.com/company/zettablockhq
+  discord: []
+  telegram: []
+  youtube:
+    - youtube.com/channel/UCZ7OYTGcXA93faGcmnyjTzw
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Zettablock
+attributes:
+  category: null
+  tags: []
+  operating_region: []
+  based_in: null
+scf: null
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

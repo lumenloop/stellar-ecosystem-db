@@ -1,0 +1,37 @@
+title: Liqvid.xyz
+other_names: null
+parent: null
+description: |
+  Liqvid.xyz is a compliant infrastructure layer powering tokenization, capital formation, and secondary liquidity across private mid-market alternative assets including private credit, real estate, private equity, bonds, royalties, and more. At Liqvid, we tokenize yield-generating assets and strategies - enabling investors to allocate into diversified private markets, access on-chain collateralized loans, and unlock secondary liquidity with instant settlement.
+links:
+  website:
+    - liqvid.xyz
+  blog: []
+  x:
+    - liqvid_xyz
+  linkedin:
+    - linkedin.com/company/liqvidprotocol
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Asterizm-Protocol/asterizm-contracts-stellar
+attributes:
+  category: Financial Protocols
+  tags: []
+  operating_region:
+    - Cyprus
+  based_in: Serbia
+scf:
+  awarded_total: 137500
+  awarded_round:
+    - 37
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

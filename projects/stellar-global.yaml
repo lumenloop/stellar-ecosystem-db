@@ -1,0 +1,40 @@
+title: Stellar Global
+other_names: null
+parent: null
+description: |
+  Stellar Global: Connecting the Human Network
+links:
+  website:
+    - stellarglobal.community
+    - stellar-global.org
+  blog: []
+  x:
+    - stellarglobal_
+  linkedin: []
+  discord:
+    - discord.gg/fKktv6GMxK
+  telegram: []
+  youtube:
+    - youtube.com/@StellarGlobalCommunity
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Education & Community
+  tags:
+    - Community
+  operating_region:
+    - United States
+  based_in: United States
+scf:
+  awarded_total: 100000
+  awarded_round:
+    - 9
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/reckCItu7Q79QoTBF
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,42 @@
+title: DFS Labs
+other_names:
+  - Stellar Surge
+parent: null
+description: |
+  Stellar Surge seeks to build a community of engaged African engineers and startups innovating on Stellar and Soroban. 
+links:
+  website:
+    - dfslab.net
+  blog:
+    - dfslab.net/blog
+  x:
+    - thedfslab
+  linkedin:
+    - linkedin.com/company/dfslab
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Education & Community
+  tags:
+    - Community
+    - Workshops
+    - Africa
+  operating_region:
+    - France
+  based_in: Nigeria
+scf:
+  awarded_total: 50000
+  awarded_round:
+    - 24
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recc3FaUY1QXUGaEx
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

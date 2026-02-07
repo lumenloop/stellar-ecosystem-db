@@ -1,0 +1,48 @@
+title: Perun
+other_names:
+  - Perun State Channels
+parent: null
+description: |
+  We extend Perun State Channels in the Stellar ecosystem so they can utilize off-chain and cross-chain transactions.
+links:
+  website:
+    - polycry.pt
+    - perun.network
+  blog: []
+  x:
+    - polycrypt_
+  linkedin:
+    - linkedin.com/company/perun-network
+  discord:
+    - discord.com/channels/897514728459468821/1082054199187083264/threads/1129011157789851748
+  telegram: []
+  youtube:
+    - youtube.com/watch?v=hUHEiVOBeCw
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/perun-network/perun-soroban-contract
+attributes:
+  category: Applications
+  tags:
+    - Cross-Chain
+    - State Channels
+    - DeFi
+    - Liquidity
+  operating_region:
+    - Europe & Central Asia
+  based_in: Germany
+scf:
+  awarded_total: 174800
+  awarded_round:
+    - 17
+    - 24
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recka4IUGyCSpMaKW
+    - https://communityfund.stellar.org/dashboard/submissions/recWpw21bCgqWztUk
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

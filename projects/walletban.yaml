@@ -1,0 +1,36 @@
+title: Walletban
+other_names: null
+parent: null
+description: |
+  Walletban is an effortless, walletless onboarding solution for devs, allows you to deploy SACs, and interact with chain via REST!
+links:
+  website:
+    - walletban.xyz
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/walletban
+    - github.com/walletban/walletban
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region: []
+  based_in: null
+scf:
+  awarded_total: 20000
+  awarded_round:
+    - 20
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recdrPETj4S6sFkPc
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,57 @@
+title: B4B
+other_names:
+  - B4B.app
+  - Content DAO
+parent: null
+description: |
+  A decentralized system rewarding content creators for translating Web3 concepts to everyday users
+links:
+  website:
+    - b4b.app
+    - contentdao.app
+  blog:
+    - medium.com/@b4b.world
+  x:
+    - b4b_world
+    - contentdaoapp
+  linkedin:
+    - linkedin.com/company/b4b-world
+    - linkedin.com/company/contentdao
+  discord:
+    - discord.gg/cx6xndBz
+  telegram:
+    - t.me/CalimeroOfficial
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/gitlab.com/b4b-world
+    - github.com/ContentDAO
+attributes:
+  category: Applications
+  tags:
+    - Social
+    - Payments
+    - API
+    - USD
+    - Art
+    - Database
+    - AI
+    - Telegram Mini App
+  operating_region:
+    - Argentina
+  based_in: Singapore
+scf:
+  awarded_total: 130000
+  awarded_round:
+    - 27
+    - 31
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recUJPxEC1NhY3hU8
+    - https://communityfund.stellar.org/dashboard/submissions/recCKZxVBYc2jgue4
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

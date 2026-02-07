@@ -1,0 +1,48 @@
+title: SorobanHooks
+other_names: null
+parent: null
+description: |
+  Real-Time On-Chain Data Made Simple,  Get App-ready data instantly for developers & communities!! 
+links:
+  website:
+    - sorobanhooks.xyz
+  blog: []
+  x:
+    - sorobanhooks
+  linkedin: []
+  discord:
+    - discord.gg/AbMxBhxQ
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/sorobanhooks
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Automation
+    - Cross-Chain
+    - API
+    - Analytics
+    - SDK
+    - Infrastructure
+    - Web
+    - Mobile
+    - Payments
+  operating_region:
+    - East Asia & Pacific
+  based_in: India
+scf:
+  awarded_total: 55000
+  awarded_round:
+    - 33
+    - 37
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recwkBsoW10eSCw85
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

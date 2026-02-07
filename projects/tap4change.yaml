@@ -1,0 +1,46 @@
+title: TAP4Change
+other_names: null
+parent: null
+description: |
+  The social micro-funding platform that makes the Donation Experience (DX) attractive to the younger generations.
+links:
+  website:
+    - tap4change.org
+  blog:
+    - tap4change.org/blog
+  x:
+    - t4c_app
+  linkedin:
+    - linkedin.com/company/tap4change
+  discord: []
+  telegram: []
+  youtube: []
+  instagram:
+    - tap4change
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags:
+    - Fundraising
+    - NFTs
+    - Social
+    - Remittances
+    - Community
+    - Payments
+    - Not-for-profit
+  operating_region:
+    - Australia
+  based_in: Australia
+scf:
+  awarded_total: 80608
+  awarded_round:
+    - 21
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recX2xrCk7WLPVew0
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

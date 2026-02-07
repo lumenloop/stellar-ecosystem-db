@@ -1,0 +1,35 @@
+title: Stellar Tip
+other_names: null
+parent: null
+description: |
+  Tipping for content creators and developers
+links:
+  website:
+    - chromewebstore.google.com/detail/stellar-tip/nofpjgocmncmlacjfnniilnckjbhmgdh
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/MichaelxhJiang/stellar-tip
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+scf:
+  awarded_total: 0
+  awarded_round:
+    - 4
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recLG9qWeD5OX4xTP
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

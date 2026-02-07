@@ -1,0 +1,46 @@
+title: Dogstar
+other_names: null
+parent: null
+description: |
+  Dogstar is a DeFi play & learn platform that gamifies your crypto experience
+links:
+  website:
+    - dogstarcoin.com
+    - app.dogstarcoin.com
+  blog: []
+  x:
+    - dogstarcoin
+  linkedin: []
+  discord:
+    - discord.gg/wtA4hnDp2j
+  telegram:
+    - t.me/dogstarcoin
+  youtube: []
+  instagram:
+    - dogstarcoin
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/dogstarcoin
+    - github.com/dogstarapps
+attributes:
+  category: Applications
+  tags:
+    - Gaming
+    - DeFi
+  operating_region:
+    - Spain
+  based_in: Spain
+scf:
+  awarded_total: 165407.5
+  awarded_round:
+    - 16
+    - 24
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recmn1pHr7N7jqA9D
+    - https://communityfund.stellar.org/dashboard/submissions/recOcOlGlsC6BUFmx
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

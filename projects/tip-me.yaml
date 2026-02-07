@@ -1,0 +1,34 @@
+title: tip me
+other_names: null
+parent: null
+description: Tip Me is a platform that allows consumers to directly tip workers behind their purchased goods, promoting transparency and fair compensation in global supply chains.Tip Me is a platform that allows consumers to directly tip workers behind their purchased goods, promoting transparency and fair compensation in global supply chains.
+links:
+  website:
+    - tip-me.org
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram:
+    - tipme.global
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: Germany
+scf:
+  awarded_total: 145000
+  awarded_round:
+    - 9
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recrPNXsnMqfMFRXI
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

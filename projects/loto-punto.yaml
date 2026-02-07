@@ -1,0 +1,48 @@
+title: Loto Punto
+other_names:
+  - 'Loto Punto: Automated Remmitance Kiosks'
+parent: null
+description: |
+  Loto Punto kiosks enable easy and affordable self-service transactions in cash within seconds, providing a fast, easy, and inexpensive way to pay, send and receive money. By integrating Stellar Blockchain with Loto Punto’s micro- service-oriented architecture system, we'll offer a more convenient an inexpensive channel for cross border remittances. This is achieved by converting physical FIAT currency into cryptocurrency and vice versa, partnering with relevant Stellar Wallets that provide on-ramp and off-ramp services in each LATAM country. 
+links:
+  website:
+    - lotopunto.co
+  blog: []
+  x:
+    - victuol
+  linkedin:
+    - linkedin.com/company/loto-punto
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/victuol/stellar
+attributes:
+  category: Applications
+  tags:
+    - Latam
+    - On-Off Ramp
+    - Payment Gateway
+    - Remittances
+    - Peer-to-Peer
+    - Unbanked
+    - AI
+    - Security
+    - Cross-Border Payments
+    - Payments
+  operating_region:
+    - Latin America & Caribbean
+  based_in: Colombia
+scf:
+  awarded_total: 75975
+  awarded_round:
+    - 34
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,44 @@
+title: CommuniDAO
+other_names: null
+parent: null
+description: |
+  Initially conceived as a Discord bot, the project has evolved into a comprehensive DAO tooling suite, complete with an Integrations SDK that allows for custom app development. The platform leverages Soroban, to manage memberships and facilitate governance, aiming to create a more democratic and scalable community ecosystem.
+links:
+  website:
+    - communidao.cc
+  blog: []
+  x: []
+  linkedin: []
+  discord:
+    - discord.gg/trppmYjVJJ
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/communidao
+attributes:
+  category: Developer Tooling
+  tags:
+    - DAO Tool
+    - Governance
+    - Discord
+    - Community
+  operating_region: []
+  based_in: United States
+scf:
+  awarded_total: 219200
+  awarded_round:
+    - 14
+    - 16
+    - 20
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recTGMVa9Utt1JQg5
+    - https://communityfund.stellar.org/dashboard/submissions/recxH0eXulsk9NUBp
+    - https://communityfund.stellar.org/dashboard/submissions/recJqAK96rS4QEe0v
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

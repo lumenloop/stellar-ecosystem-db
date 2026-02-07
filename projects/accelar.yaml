@@ -1,0 +1,40 @@
+title: Accelar
+other_names: null
+parent: null
+description: |
+  A unified product infrastructure; develop, launch and manage integratedweb2 and web3 features with multichain capabilities.
+links:
+  website:
+    - accelar.io
+  blog: []
+  x:
+    - accelarlabs
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Accelar-labs
+attributes:
+  category: Applications
+  tags:
+    - Multi-Chain
+    - Automation
+    - AI
+  operating_region:
+    - São Paulo
+  based_in: Brazil
+scf:
+  awarded_total: 33000
+  awarded_round:
+    - 26
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recCMqF6lhiTo4ZeO
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

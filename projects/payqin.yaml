@@ -1,0 +1,46 @@
+title: PayQin
+other_names:
+  - 'PayQin: Blockchain made simple'
+parent: null
+description: |
+  PayQin is a financial platform offering a USD wallet powered by USDC on the Stellar network, tailored to users in emerging markets. Our platform allows users to store, send, and receive funds seamlessly, providing a reliable alternative for those in cash-dependent economies. Through our integration with MoneyGram, users can fund their wallets in over 183 countries, making cross-border transactions faster, easier, and more affordable. By leveraging the Stellar network's low transaction fees and speed, PayQin brings financial inclusion to underserved markets, empowering users with modern financial tools.
+links:
+  website:
+    - payqin.com
+  blog: []
+  x:
+    - payqinn
+  linkedin:
+    - linkedin.com/company/payqin
+  discord: []
+  telegram: []
+  youtube: []
+  instagram:
+    - payqin
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/alinkon0207/payqin_stellar-web
+attributes:
+  category: Applications
+  tags:
+    - Cross-Border Payments
+    - Moneygram
+    - Payments
+  operating_region:
+    - Sub-Saharan Africa
+    - North America (without Mexico)
+    - Europe & Central Asia
+  based_in: Côte d'Ivoire
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 31
+    - 28
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recQjC4JOmJ9hfjD9
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

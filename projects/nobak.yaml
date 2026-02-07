@@ -1,0 +1,44 @@
+title: Nobak
+other_names: null
+parent: null
+description: |
+  Dive into Soroban's universe on Stellar, where the digital realm becomes your playground
+links:
+  website:
+    - nobak.net
+  blog: []
+  x: []
+  linkedin: []
+  discord:
+    - discord.gg/GR5cB3y2
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/nobak-net/nobak-mobile
+    - github.com/nobak-net
+attributes:
+  category: Applications
+  tags:
+    - Ecosystem Discovery
+    - DeFi
+    - AI
+    - SDK
+  operating_region:
+    - Latin America & Caribbean
+    - Europe & Central Asia
+    - North America (without Mexico)
+  based_in: Argentina
+scf:
+  awarded_total: 34500
+  awarded_round:
+    - 23
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recsBO1vLdYFZMucB
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

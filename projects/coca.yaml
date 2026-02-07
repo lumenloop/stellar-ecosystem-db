@@ -1,0 +1,46 @@
+title: Coca
+other_names:
+  - COCA.XYZ
+parent: null
+description: |
+  Non-custodial Debit Card and IBAN powered by MPC and anonymous biometrics. Stats: 100,000+ Users and 250,000+ Wallets
+links:
+  website:
+    - coca.xyz
+  blog:
+    - coca.xyz/blog
+  x:
+    - coca_wallet
+  linkedin:
+    - linkedin.com/company/cocawallet
+  discord:
+    - discord.gg/AVxksnCubn
+  telegram: []
+  youtube:
+    - youtube.com/@cocawallet
+  instagram:
+    - cocawallet
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags:
+    - Telegram Mini App
+    - Software Wallet
+    - MPC
+    - Payments
+  operating_region:
+    - Sweden
+  based_in: United Kingdom
+scf:
+  awarded_total: 50000
+  awarded_round:
+    - 25
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec2VJOCKxuBhs62G
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,41 @@
+title: SorobanMath
+other_names: null
+parent: null
+description: |
+  Fixed-Point Math Library for soroban smart contracts with advanced math and high precision
+links:
+  website:
+    - github.com/rahul-soshte/soroban-math
+  blog: []
+  x:
+    - rahulsoshte
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/rahul-soshte/soroban-math
+attributes:
+  category: Developer Tooling
+  tags:
+    - Library
+    - SDK
+    - DeFi
+    - Rust
+    - Infrastructure
+  operating_region: []
+  based_in: India
+scf:
+  awarded_total: 40000
+  awarded_round:
+    - 20
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recLrZzcvzjqBngsh
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

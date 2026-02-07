@@ -1,0 +1,39 @@
+title: Fairblock
+other_names:
+  - Confidential Transfers and Balances
+parent: null
+description: |
+  Fairblock is building compliant, confidential transfers and balances using multimodal cryptography (MPC-IBE, HE, ZK). We build developer tooling and applications that span across various privacy use cases. Two flagship use cases are confidential stablecoins and protected trading.  1. Confidential stablecoins (our primary focus on Stellar): Jay Geng’s talk on Confidential Tokens at Meridian captured the direction and outcome we are shipping. We encrypt transfer amounts and balances so users get bank-like privacy and better execution: lower slippage, no frontrunning, tighter quotes, less market impact of large orders.  2. Protected trading: Encrypted limit orders, intents, and bids with conditional decryption after settlement. What users get is protection from manipulation (e.g. frontrunning) caused by onchain information leakage across trading, lending, predictions, and intents markets.  We build dev tooling so teams can add privacy without reinventing the cryptography. We’ve also shipped applications like encrypted limit orders with CowSwap, our own predictions app with encrypted bids called Time Machine, and are working with teams like Arbitrum, Hyperliquid, Noble, Anoma, Uniswap, and Squid.  Our approach is to use the right cryptographic tool for the right job to ensure it’s performant, secure, and compliant (via selective disclosure). Privacy builds trust with both retail and institutional users. If strategies, balances, and invoices remain public onchain, adoption will always hit a ceiling. We envision privacy that’s verifiable and selective is how payments and RWAs will scale.
+links:
+  website:
+    - fairblock.network
+  blog: []
+  x:
+    - 0xfairblock
+  linkedin:
+    - linkedin.com/company/fairblock
+  discord:
+    - discord.gg/fairblock
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Fairblock
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region:
+    - North America (without Mexico)
+  based_in: Canada
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 40
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

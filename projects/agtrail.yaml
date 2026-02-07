@@ -1,0 +1,38 @@
+title: AgTrail
+other_names:
+  - 'AgTrail: Stellar Food Traceability'
+parent: null
+description: |
+  AgTrail is a tech-enabled food traceability solution empowering mid-level farmers in Nigeria with end-to-end visibility of their products—from planting to consumption. By integrating Stellar blockchain, AgTrail ensures immutable, transparent records of every stage in the supply chain while enabling seamless, low-cost cross-border payments from premium markets.  Vision: Build Africa’s most trusted, transparent, and accessible agricultural supply chain, where farmers receive fair value, consumers trust their food, and compliance with global food safety standards is seamless.  Objectives:  Provide farmers real-time tracking via IoT devices and QR codes.  Ensure compliance with NAFDAC, EU, and FDA FSMA standards to unlock premium market access.  Enable secure, instant payments using Stellar’s blockchain infrastructure.  Deliver actionable, data-driven insights to reduce waste, improve efficiency, and boost profitability.  Technical Implementation: AgTrail uses IoT sensors and farmer-input data to capture key supply chain details, hashed and stored on Stellar blockchain for security and traceability. Each product batch is assigned a unique QR code, enabling processors, regulators, and consumers to instantly verify its journey. Stellar’s payment rails facilitate direct, low-cost transactions from verified buyers, with AgTrail acting as an intermediary to channel payments to farmers who are not digitally savvy.  By combining blockchain-powered traceability with financial inclusion, AgTrail positions African farmers as globally competitive and compliant, bridging trust gaps, improving food safety, and driving sustainable growth across agricultural markets.
+links:
+  website:
+    - agtrail.agrolinking.com
+  blog: []
+  x:
+    - agrolinking
+  linkedin:
+    - linkedin.com/company/agrolinking
+  discord:
+    - discord.gg/gcD5rn6sJV
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - Sub-Saharan Africa
+  based_in: Nigeria
+scf:
+  awarded_total: 60000
+  awarded_round:
+    - 38
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

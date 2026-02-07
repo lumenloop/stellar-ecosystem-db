@@ -1,0 +1,47 @@
+title: Allbridge
+other_names:
+  - Allbridge Core
+parent: null
+description: |
+  Allbridge Core enables users to seamlessly access the Stellar ecosystem through native stablecoin swaps.
+links:
+  website:
+    - allbridge.io
+  blog:
+    - allbridge.medium.com
+  x:
+    - allbridge_io
+  linkedin: []
+  discord:
+    - discord.gg/ASuPY8d3E6
+  telegram:
+    - t.me/allbridge_official
+  youtube: []
+  instagram: []
+  reddit:
+    - r/allbridge
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/allbridge-io
+    - github.com/allbridge-public/allbridge-core-soroban-contracts
+attributes:
+  category: Financial Protocols
+  tags:
+    - Bridge
+    - DeFi
+  operating_region:
+    - Ukraine
+  based_in: Portugal
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 20
+    - 23
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recbUS7phMUCfxP6V
+    - https://communityfund.stellar.org/dashboard/submissions/recKNLK0K1U0wTGlU
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

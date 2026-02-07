@@ -1,0 +1,39 @@
+title: Solarkraft
+other_names: null
+parent: null
+description: |
+  Runtime monitoring of Soroban smart contracts to aid developers and auditors in finding critical bugs before and in production.
+links:
+  website:
+    - github.com/freespek/solarkraft
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/freespek/solarkraft
+attributes:
+  category: Developer Tooling
+  tags:
+    - Security
+    - Monitoring
+  operating_region: []
+  based_in: Austria
+scf:
+  awarded_total: 117000
+  awarded_round:
+    - 24
+    - 29
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec05ielYqgWQu4OH
+    - https://communityfund.stellar.org/dashboard/submissions/recTmGxt9atX6ovnz
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

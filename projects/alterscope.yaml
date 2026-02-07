@@ -1,0 +1,53 @@
+title: Alterscope
+other_names: null
+parent: null
+description: |
+  Alterscope develops the community-driven platform unifying real-time risk processing and monitoring capabilities with zk-proofs to unlock verifiable liquidity management for protocol foundations, professional investors, and retail users.
+links:
+  website:
+    - alterscope.org
+  blog: []
+  x:
+    - alterscope
+  linkedin:
+    - linkedin.com/company/alterscope
+    - linkedin.com/company/Alterscope
+  discord:
+    - discord.gg/QpVxf742qx
+  telegram:
+    - t.me/solitynetwork
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Solity-Network
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Risk Management
+    - Liquidity
+    - Security
+    - Governance
+    - DeFi
+    - Community
+    - Analytics
+    - API
+    - Nodes
+    - Infrastructure
+  operating_region:
+    - Europe & Central Asia
+  based_in: Germany
+scf:
+  awarded_total: 137600
+  awarded_round:
+    - 24
+    - 26
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recam5gal7vWgPt9A
+    - https://communityfund.stellar.org/dashboard/submissions/rec9bGg7CKnZUW3tG
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

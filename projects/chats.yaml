@@ -1,0 +1,47 @@
+title: CHATS
+other_names:
+  - Convexity Humanitarian Aid Transfer Solution
+parent: null
+description: |
+  CHATS offers blockchain-based cash and voucher solutions to improve programs by MercyCorps, UNICEF  and other iNGOs partners and donors to ensure transparent, secure, and efficient aid distribution.
+links:
+  website:
+    - chats.cash
+  blog: []
+  x:
+    - withconvexity_
+  linkedin:
+    - linkedin.com/company/convexity
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/ConvexityTeam/chats-ngo
+    - github.com/team-convexity/chatspy; https://github.com/team-convexity/contracts
+attributes:
+  category: Applications
+  tags:
+    - Aid
+    - Cross-Border Payments
+    - Stablecoins
+    - Payment Gateway
+    - Remittances
+    - Tokenization
+    - Infrastructure
+  operating_region:
+    - Sub-Saharan Africa
+  based_in: Nigeria
+scf:
+  awarded_total: 89500
+  awarded_round:
+    - 30
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recsfR7WfhvD7zd8o
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,41 @@
+title: Houdiniswap
+other_names: null
+parent: null
+description: |
+  Houdini Swap: The Frontend of Crypto  Houdini Swap is a leading non-custodial, cross-chain liquidity aggregator that unifies DEXs, aggregators, bridges, and centralized providers into one seamless interface. We empower users and partners with unmatched execution across 80+ networks and over 4.5 million route combinations.  Our platform offers two key transaction options:  Standard Swaps - Fast, secure, and efficient swaps using the best available rates across our extensive partner network.  Compliant Private Swaps - A unique offering that ensures AML-compliant privacy by breaking the on-chain link between sender and receiver-ideal for projects and users seeking confidentiality without compromising regulatory integrity.  With a robust API for plug-and-play integration, Houdini Swap is trusted by 30+ API partners and over 100 listing partners. We’re the go-to infrastructure for projects looking to scale user access, liquidity, and compliance-ready privacy.
+links:
+  website:
+    - houdiniswap.com
+  blog: []
+  x:
+    - houdiniswap
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - South Asia
+    - East Asia & Pacific
+    - Middle East & North Africa
+    - Sub-Saharan Africa
+    - Europe & Central Asia
+    - North America (without Mexico)
+    - Latin America & Caribbean
+  based_in: Canada
+scf:
+  awarded_total: 115000
+  awarded_round:
+    - 40
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

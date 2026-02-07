@@ -1,0 +1,40 @@
+title: Idunu
+other_names:
+  - 'IDUNU: Help Kids Thrive'
+parent: null
+description: |
+  IDUNU: A fundraising and fund distribution platform for high-impact, cost-effective charities working with underprivileged kids.
+links:
+  website:
+    - idunu.org
+    - sponsoraschoolkit.com
+  blog:
+    - idunu.org/blog
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram:
+    - idunu_foundation
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: Nigeria
+scf:
+  awarded_total: 30000
+  awarded_round:
+    - 21
+    - 25
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec8hQ6VSQ4036a93
+    - https://communityfund.stellar.org/dashboard/submissions/recLB7DIx8J5C198j
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

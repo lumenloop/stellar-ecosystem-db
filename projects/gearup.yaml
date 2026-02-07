@@ -1,0 +1,53 @@
+title: Gearup
+other_names:
+  - Gearup - Marketplace
+parent: null
+description: |
+  GearUp is a Stellar-based P2P marketplace for African creators to rent, buy, sell gear, studio spaces, courses, and find gig opportunities.
+links:
+  website:
+    - gearup.market
+  blog:
+    - gearup.market/blog
+  x:
+    - gearupmarket
+  linkedin:
+    - linkedin.com/company/gearupmarket
+  discord: []
+  telegram: []
+  youtube: []
+  instagram:
+    - gearup.market
+  reddit: []
+  tiktok:
+    - 'https:'
+  linktree: []
+  github:
+    - github.com/Gearup-Market/Stellar-Integration
+    - github.com/Gearup-Market
+attributes:
+  category: Applications
+  tags:
+    - Africa
+    - Marketplace
+    - Peer-to-Peer
+    - Tokenization
+    - Art
+    - Payments
+    - Freelancers
+  operating_region:
+    - Sub-Saharan Africa
+    - Middle East & North Africa
+  based_in: Nigeria
+scf:
+  awarded_total: 124500
+  awarded_round:
+    - 28
+    - 32
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec6upUevElzRhgCs
+    - https://communityfund.stellar.org/dashboard/submissions/recDsUIvFwd7tIAXc
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,33 @@
+title: Taurus
+other_names: null
+parent: null
+description: Taurus is a European leader in digital asset infrastructure, providing enterprise-grade solutions for custody, tokenization, and management of cryptocurrencies, tokenized assets, and digital currencies.Their platform enables financial institutions to securely issue, book, transfer, and trade digital assets, integrating seamlessly with existing banking systems.
+links:
+  website:
+    - taurushq.com
+  blog:
+    - taurushq.com/blog
+  x:
+    - taurus_hq
+  linkedin:
+    - linkedin.com/company/taurus-sa
+  discord: []
+  telegram: []
+  youtube:
+    - youtube.com/channel/UCr2zjP7do4gLGOR-WEi6psw
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/taurushq-io
+attributes:
+  category: null
+  tags: []
+  operating_region: []
+  based_in: null
+scf: null
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

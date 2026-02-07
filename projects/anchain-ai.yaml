@@ -1,0 +1,48 @@
+title: AnChain.AI
+other_names: null
+parent: null
+description: |
+  The AnChain.AI Catalog is an open-source catalog of audited smart contracts designed to help companies build web3 projects faster.
+links:
+  website:
+    - anchain.ai
+  blog:
+    - anchain.ai/blog
+  x:
+    - anchainai
+  linkedin:
+    - linkedin.com/company/anchainai
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/AnChainAI
+attributes:
+  category: Developer Tooling
+  tags:
+    - Security
+    - AI
+    - Multi-Chain
+  operating_region:
+    - United States
+  based_in: United States
+scf:
+  awarded_total: 435000
+  awarded_round:
+    - 11
+    - 15
+    - 20
+    - 23
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recuNwIpd0qywbkzi
+    - https://communityfund.stellar.org/dashboard/submissions/rec8A43DCXVKh78FI
+    - https://communityfund.stellar.org/dashboard/submissions/rec0XJ3vYm5B0cls9
+    - https://communityfund.stellar.org/dashboard/submissions/recJS3CwdA4WWlQZx
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

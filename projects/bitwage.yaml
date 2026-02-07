@@ -1,0 +1,34 @@
+title: Bitwage
+other_names: null
+parent: null
+description: Allows employees and freelancers to receive payment in a variety of currencies, including Bitcoin, Ethereum, stablecoins (including Stellar USDC), and local currencies.
+links:
+  website:
+    - bitwage.com
+  blog:
+    - blog.bitwage.com
+  x:
+    - bitwage
+  linkedin:
+    - linkedin.com/company/bitwage
+  discord: []
+  telegram: []
+  youtube:
+    - youtube.com/channel/UCazOSizBQuq-6pgMxuNf1pw
+  instagram:
+    - bitwagelatam
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/bitwage
+attributes:
+  category: null
+  tags: []
+  operating_region: []
+  based_in: null
+scf: null
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

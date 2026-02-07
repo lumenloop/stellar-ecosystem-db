@@ -1,0 +1,33 @@
+title: Uniblock
+other_names: null
+parent: null
+description: |
+  Uniblock is God mode for crypto developers. Developers get instant access to 1,500 APIs and 100+ protocols from 50 partners, including Alchemy, Helius, QuickNode, CoinGecko, CoinMarketCap, and many more. We save developers time and money by unlocking access to all the best tools. One monthly plan for limitless potential.   We are striving to build the tooling and capabilities that developers leverage in Web2 through Google Cloud API Management or AWS API Manager and bring that into Web3. We are driven to reduce the silos that exist across different infrastructure providers, and ultimately help the end-users - the builders - get access to the best tools available to bring their ideas to life without the headaches of multiple providers. Allowing projects to work with less operational complexity, less technical fragility and fragmentation, and less monthly expenses to get the data that they need to build.   To date, we have partnered with leading companies across Web3 - the providers listed above, but also other major players like Moonpay and many others to help build a robust partner ecosystem for our supported chains and protocols.   Today, we have a fully functional product with thousands of developers who have signed up for accounts and are building with us. We are continuously improving our auto-routing and AI models behind the scenes, forging new partnerships with providers, and bringing our new way of working in Web3 to as many chains and ecosystems as possible. 
+links:
+  website:
+    - uniblock.dev
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Infrastructure & Services
+  tags: []
+  operating_region: []
+  based_in: Canada
+scf:
+  awarded_total: 142740
+  awarded_round:
+    - 36
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

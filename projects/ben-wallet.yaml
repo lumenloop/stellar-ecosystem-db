@@ -1,0 +1,34 @@
+title: Ben Wallet
+other_names: null
+parent: null
+description: |
+  The first android native wallet for the KALE ecosystem, offering an intuitive, better and easier to use UX.
+links:
+  website:
+    - ben-wallet.gitbook.io/ben-wallet
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/ben-platform
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: Venezuela
+scf:
+  awarded_total: 77910
+  awarded_round:
+    - 37
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

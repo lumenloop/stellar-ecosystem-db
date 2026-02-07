@@ -1,0 +1,41 @@
+title: RampMeDaddy
+other_names: null
+parent: null
+description: |
+  RampMeDaddy is integrating Stellar Passkey Smart wallets directly into Telegram, offering a seamless user experience with Face ID for creating and managing self-custodial wallets. This allows us to provide each user with a unique wallet to hold funds and send low-cost, global peer-to-peer payments using USDC.xlm—all within Telegram. Our mission is to empower underbanked regions and revolutionize international remittances, leveraging Telegram’s global reach of over 1 billion users.
+links:
+  website:
+    - rampmedaddy.com
+  blog:
+    - rampmedaddy.com/blog
+  x:
+    - rmd_wallet
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/trustek-io/rampmedaddy-frontend
+attributes:
+  category: Applications
+  tags:
+    - Telegram Mini App
+    - Cross-Border Payments
+    - P2P
+  operating_region:
+    - North America (without Mexico)
+  based_in: United States
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 30
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recu5pymuQTqCQDZ2
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

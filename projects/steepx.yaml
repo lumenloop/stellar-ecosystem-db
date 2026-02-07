@@ -1,0 +1,41 @@
+title: Steepx
+other_names:
+  - Steepx Stellar Explorer
+parent: null
+description: |
+  Soroban / latest protocol support and stack upgrade
+links:
+  website:
+    - steexp.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/chatch/stellarexplorer
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Block Explorer
+    - Ecosystem Discovery
+    - Analytics
+  operating_region: []
+  based_in: null
+scf:
+  awarded_total: 31100
+  awarded_round:
+    - 16
+    - 20
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recZKQqHZYKuHG5Ib
+    - https://communityfund.stellar.org/dashboard/submissions/reccUoeNl7hFKThtM
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

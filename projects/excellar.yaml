@@ -1,0 +1,48 @@
+title: Excellar
+other_names: null
+parent: null
+description: |
+  Excellar is bringing regulated yield-bearing crypto denominated liquid yield tokens to Stellar.
+links:
+  website:
+    - excellar.finance
+  blog: []
+  x:
+    - excellarfinance
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/scifecap/excellar
+    - github.com/excellar-labs/excellar-contracts
+attributes:
+  category: Financial Protocols
+  tags:
+    - CDP
+    - DeFi
+  operating_region:
+    - Latin America & Caribbean
+    - East Asia & Pacific
+    - Middle East & North Africa
+    - Europe & Central Asia
+    - South Asia
+  based_in: India
+scf:
+  awarded_total: 238750
+  awarded_round:
+    - 17
+    - 26
+    - 24
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recDCdserATw05JGr
+    - https://communityfund.stellar.org/dashboard/submissions/recNUN3okJAGoV8i9
+    - https://communityfund.stellar.org/dashboard/submissions/reciIMJ1Qou160HSg
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

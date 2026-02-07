@@ -1,0 +1,39 @@
+title: Extractor
+other_names:
+  - Extractor - Soroban Security
+parent: Hacken
+description: |
+  Extractor is a Post Deployment security solution that provides multi-level asset protection in smart contracts against exploitation.
+links:
+  website:
+    - extractor.live
+    - extractor.hacken.io
+  blog: []
+  x:
+    - hackenclub
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/haas-labs/extractor
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region:
+    - Ukraine
+  based_in: Portugal
+scf:
+  awarded_total: 50000
+  awarded_round:
+    - 21
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recUoH70iB9pNdgYR
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

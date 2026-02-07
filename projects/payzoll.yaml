@@ -1,0 +1,36 @@
+title: PayZoll
+other_names: null
+parent: null
+description: "PayZoll – Crypto native payouts Infrastructure on Stellar.   PayZoll is building the decentralized Stripe for Web3, a modular, intelligent, and production-ready payments stack that unifies crypto and fiat transactions under one seamless roof. Built for scalability and grounded in real-world usability, PayZoll bridges blockchain rails with traditional finance, starting where it’s needed most: emerging markets.   \LWith Stellar's infrastructure at its core, we're building tools that are simple, secure, and scalable — unlocking Web3 finance for the next billion users.     Technical Implementation :   Main website : https://www.payzoll.xyz ,  Stellar Testnet Integrated Website(Stellar Build Better Hackathon) : https://payzoll-stellar.onrender.com   1. Bulk Transaction Contracts (Soroban) - Rust-based Soroban contract that ingests a payroll manifest (list of recipients + amounts) and executes all PaymentOps in one atomic transaction. - Role-based access control baked into the contract: only registered “employer” keys can submit batch jobs, and “auditor” keys can read execution logs. - On-chain validation of token trustlines and sufficient balances before dispatch, preventing partial failures mid-batch.    2. Multi-Hop Swap Mechanism - Soroban integration with Stellar AMM pools: our contract queries the best XLM⇄USDC (or custom-asset) path via on-chain price oracles and executes the swap immediately prior to payouts. - Optimal route discovery using the Soroban Rust SDK’s path-finding APIs, ensuring minimal slippage and predictable token conversions. - Seamless in-contract settlement: swapped funds are forwarded directly into the batch payment flow, so employers only need to fund XLM (or any single asset) and the contract handles the rest.    3. Enhanced Frontend Experience - Next.js + Tailwind UI that leverages the Stellar JS SDK and Freighter wallet for: - Real-time transaction dashboards via Horizon streaming (payment success/failure, swap quotes). - Interactive batch submission form with on-the-fly validation of recipient addresses, asset balances, and estimated network fees. - One-click payroll trigger: employers upload a CSV, review the swap rate & fee summary, then dispatch the entire payroll in a single confirmation.\n"
+links:
+  website:
+    - payzoll.xyz
+  blog: []
+  x:
+    - payzoll
+  linkedin:
+    - linkedin.com/company/payzoll
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/PayZoll-Orgs
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - South Asia
+  based_in: India
+scf:
+  awarded_total: 100000
+  awarded_round:
+    - 36
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

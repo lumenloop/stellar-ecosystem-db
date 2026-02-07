@@ -1,0 +1,36 @@
+title: ICanProveIt
+other_names:
+  - ICanProveIt -Proof-of-Learning
+parent: null
+description: |
+  An AI exam generation platform for the creation of universally respected, academic-standard proof-of-learning certificates.
+links:
+  website:
+    - tims-personal-organization.gitbook.io/icanproveit
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/tuvalusoftware
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: Estonia
+scf:
+  awarded_total: 50000
+  awarded_round:
+    - 26
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rectVXjaidotlGe5e
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

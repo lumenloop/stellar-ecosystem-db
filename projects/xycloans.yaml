@@ -1,0 +1,45 @@
+title: XycLoans
+other_names: null
+parent: Xycloo
+description: |
+  XycLoans is a decentralized flash loans protocol that runs on Soroban. It manages its own liquidity being structured in liquidity pools for each supported token. Borrowers can borrow from these pools any available amount through flash loans and lenders can provide liquidity to earn healthy and risk-free yields (as flash loans never lose liquidity by design). XycLoans is a flash loans-only protocol, making it extremely safe in terms of security and investment opportunities. 
+links:
+  website:
+    - xycloans.app
+    - xycloo.com
+  blog:
+    - blog.xycloo.com
+  x:
+    - xycloolabs
+  linkedin:
+    - linkedin.com/company/xycloolabs
+  discord:
+    - discord.gg/gGvB2Bj2S5
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/xycloo/xycloans
+attributes:
+  category: Financial Protocols
+  tags:
+    - DeFi
+    - Lending & Borrowing
+  operating_region:
+    - Argentina
+  based_in: Argentina
+scf:
+  awarded_total: 81800
+  awarded_round:
+    - 13
+    - 24
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recbjvBMO5YVW5op0
+    - https://communityfund.stellar.org/dashboard/submissions/recenixBSty0Z0kdb
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

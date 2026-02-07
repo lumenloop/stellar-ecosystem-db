@@ -1,0 +1,46 @@
+title: Abroad
+other_names: null
+parent: null
+description: |
+  Open source protocol for Crypto-Fiat instant payment orchestration 
+links:
+  website:
+    - getabroad.app
+    - abroad.finance
+  blog: []
+  x:
+    - payabroad
+  linkedin:
+    - linkedin.com/company/getabroad
+  discord:
+    - discord.gg/aSw3QN95
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/abroad.tech
+    - github.com/abroad-finance/abroad
+attributes:
+  category: Financial Protocols
+  tags:
+    - Cross-Border Payments
+    - Wallet Infra
+    - Payment Gateway
+  operating_region:
+    - Latin America & Caribbean
+    - South Asia
+  based_in: United Kingdom
+scf:
+  awarded_total: 149820
+  awarded_round:
+    - 32
+    - 35
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recy3we2U8HQUaOR6
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

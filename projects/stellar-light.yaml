@@ -1,0 +1,39 @@
+title: Stellar Light
+other_names: null
+parent: null
+description: "Explore and Navigate dApps, Tools, Stablecoins, DAOs, Wallets, NFTs \L& more built on Soroban.\n"
+links:
+  website:
+    - stellarlight.xyz
+    - github.com/Stellar-Light
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Stellar-Light
+attributes:
+  category: Applications
+  tags:
+    - Ecosystem Discovery
+  operating_region: []
+  based_in: Canada
+scf:
+  awarded_total: 13000
+  awarded_round:
+    - 22
+    - 3
+    - 4
+    - 1
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recvrlsJ7CvVR5aLv
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,41 @@
+title: RemittEase
+other_names: null
+parent: null
+description: |
+  RemittEase – Send money instantly and securely across African borders. Powered by Stellar, we offer faster, cheaper, and more transparent remittance solutions than traditional wallets.
+links:
+  website:
+    - remittease.xyz
+  blog: []
+  x:
+    - remitt_ease
+  linkedin:
+    - linkedin.com/in/noblenyoni
+  discord:
+    - discord.gg/ewmuwbZFgS
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Web3WizardZ/remi-p
+attributes:
+  category: Financial Protocols
+  tags: []
+  operating_region:
+    - Middle East & North Africa
+    - Sub-Saharan Africa
+    - Latin America & Caribbean
+  based_in: South Africa
+scf:
+  awarded_total: 54050
+  awarded_round:
+    - 9
+    - 36
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

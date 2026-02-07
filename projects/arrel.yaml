@@ -1,0 +1,42 @@
+title: Arrel
+other_names:
+  - Institutional Treasury - XLM
+parent: null
+description: |
+  Integration of Stellar blockchain into existing Digital Asset PLatform (DAPL)to reduce adoption barrier for institutional clients
+links:
+  website:
+    - arreltech.com/platform
+  blog: []
+  x:
+    - arreltech
+  linkedin:
+    - linkedin.com/company/arrel-technology
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Institutional
+  operating_region:
+    - Sub-Saharan Africa
+    - Europe & Central Asia
+    - North America (without Mexico)
+  based_in: South Africa
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 27
+    - 38
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recb03CISF3JCSdeW
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

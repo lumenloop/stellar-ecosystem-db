@@ -1,0 +1,39 @@
+title: Fastbuka
+other_names:
+  - Choppaddi - Food and Grocery App
+  - Choppaddi
+parent: null
+description: |
+  Choppaddi (FKA FastBuka) is a blockchain-enabled food and grocery delivery platform built on the Stellar network that connect customers, vendors, and riders across Africa with instant top-ups, fast payments, crypto and local currency options, built-in dispute resolution, and task-based rewards, making delivery faster, fairer, and more inclusive.
+links:
+  website:
+    - fastbuka.com
+  blog: []
+  x:
+    - fastbuka
+  linkedin:
+    - linkedin.com/company/fastbukadelivery
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/fastbuka
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - Sub-Saharan Africa
+  based_in: Nigeria
+scf:
+  awarded_total: 70000
+  awarded_round:
+    - 38
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

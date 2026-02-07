@@ -1,0 +1,55 @@
+title: Utoken
+other_names:
+  - Upesa
+parent: null
+description: |
+  Upesa is a digital wallet leveraging local stablecoin for everyday and cross-border payment.
+links:
+  website:
+    - utoken.network
+    - upesa.app
+  blog: []
+  x:
+    - utokenapp
+    - upesahq
+  linkedin:
+    - linkedin.com/company/utoken-app
+  discord: []
+  telegram:
+    - t.me/utokenApp
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Utokens
+    - github.com/utokens
+attributes:
+  category: Applications
+  tags:
+    - Stablecoins
+    - USA
+    - Europe
+    - Freelancers
+    - Payments
+    - Cross-Border Payments
+    - Peer-to-Peer
+    - DeFi
+    - Lending & Borrowing
+  operating_region:
+    - Europe & Central Asia
+    - Sub-Saharan Africa
+    - North America (without Mexico)
+  based_in: Nigeria
+scf:
+  awarded_total: 59979
+  awarded_round:
+    - 28
+    - 35
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rechwhwWyyUgGgDlC
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

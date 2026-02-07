@@ -1,0 +1,45 @@
+title: BlindPay
+other_names: null
+parent: null
+description: |
+  Stablecoin API for global payments. We handle all regulatory and compliance requirements so companies can send a receive money worldwide using stablecoins, fiat money and multiple blockchains.
+links:
+  website:
+    - blindpay.com
+  blog: []
+  x:
+    - blindpaylabs
+  linkedin:
+    - linkedin.com/company/blindpay
+  discord:
+    - discord.gg/2DFKYaxjpp
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/blindpaylabs
+attributes:
+  category: Applications
+  tags:
+    - Stablecoins
+    - Payment Gateway
+    - Cross-Border Payments
+    - API
+    - Multi-Chain
+  operating_region:
+    - North America (without Mexico)
+    - Latin America & Caribbean
+  based_in: Brazil
+scf:
+  awarded_total: 40000
+  awarded_round:
+    - 33
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec9omQfwyAe5KiKD
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

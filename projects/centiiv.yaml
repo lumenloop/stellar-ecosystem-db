@@ -1,0 +1,38 @@
+title: Centiiv
+other_names: null
+parent: null
+description: |
+  Centiiv empowers African businesses with tools to enable them scale operations by cutting losses, closing sales faster, and boosting customer retention whilst accepting payments locally and globally. It is a payment gateway that combines web2 and web3 technologies with inbuilt escrow, credit clawback and loyalty reward systems.
+links:
+  website:
+    - centiiv.com
+  blog: []
+  x:
+    - _centiiv
+  linkedin:
+    - linkedin.com/company/centiiv
+  discord:
+    - discord.gg/kKNPz7cB
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Centiiv/protocol-node
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - Sub-Saharan Africa
+  based_in: Nigeria
+scf:
+  awarded_total: 51300
+  awarded_round:
+    - 36
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

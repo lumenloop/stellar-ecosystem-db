@@ -1,0 +1,47 @@
+title: TransferMole
+other_names: null
+parent: null
+description: |
+  Turning Telegram, Instagram and other social media usernames into global payment aliases, incl. destination routing
+links:
+  website:
+    - transfermole.com
+  blog: []
+  x:
+    - gotransfermole
+  linkedin:
+    - linkedin.com/company/transfer-mole
+  discord: []
+  telegram:
+    - t.me/transfermole
+  youtube: []
+  instagram:
+    - gotransfermole
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/ivandzen/TransferMole
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Social
+    - Payment Gateway
+    - On-Off Ramp
+    - Peer-to-Peer
+    - Cross-Border Payments
+    - Freelancers
+    - USD
+    - API
+  operating_region: []
+  based_in: Switzerland
+scf:
+  awarded_total: 60000
+  awarded_round:
+    - 30
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recFc20CibJqREDyr
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

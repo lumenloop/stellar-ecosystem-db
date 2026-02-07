@@ -1,0 +1,43 @@
+title: ART Club
+other_names: null
+parent: null
+description: |
+  ART Club, sponsored by the Swedish Arts Committee, connects creators with funders and brings discounts to daily shopping.
+links:
+  website:
+    - artclubcard.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/GRMarkkes/ArtCC
+attributes:
+  category: Applications
+  tags:
+    - Europe
+    - Tokenization
+    - Marketplace
+    - Governance
+    - Community
+    - Payments
+    - Funding Allocation
+    - NFT
+  operating_region: []
+  based_in: Sweden
+scf:
+  awarded_total: 40000
+  awarded_round:
+    - 26
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec9eqtn0a4eB7iGq
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

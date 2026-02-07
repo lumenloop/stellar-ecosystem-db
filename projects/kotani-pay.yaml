@@ -1,0 +1,42 @@
+title: Kotani Pay
+other_names: null
+parent: null
+description: |
+  Stablecoin payments without the need for an Internet connection or a bank account.
+links:
+  website:
+    - kotanipay.com
+  blog: []
+  x:
+    - kotanipay
+  linkedin:
+    - linkedin.com/company/kotanipay
+  discord: []
+  telegram:
+    - t.me/+Gmn5yjd5U9U0MmE0
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags:
+    - Africa
+    - Software Wallet
+    - Mobile
+    - P2P
+  operating_region:
+    - Kenya
+  based_in: Ghana
+scf:
+  awarded_total: 100000
+  awarded_round:
+    - 11
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec9ylKAGxTVT4Lex
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

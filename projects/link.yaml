@@ -1,0 +1,47 @@
+title: LINK
+other_names:
+  - LINK IO
+parent: null
+description: |
+  Web3 cross border payments infrastructure for Africa
+links:
+  website:
+    - linkio.world
+  blog: []
+  x:
+    - link_io
+  linkedin:
+    - linkedin.com/company/link-xyz
+  discord: []
+  telegram: []
+  youtube: []
+  instagram:
+    - link.io_
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/linkioafrica
+attributes:
+  category: Applications
+  tags:
+    - Africa
+    - B2B
+    - Wallet Infra
+  operating_region:
+    - Turkey
+  based_in: United Kingdom
+scf:
+  awarded_total: 277000
+  awarded_round:
+    - 10
+    - 15
+    - 28
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recWONcXU1LVBGZfQ
+    - https://communityfund.stellar.org/dashboard/submissions/recIf1jFrLDhF2wvL
+    - https://communityfund.stellar.org/dashboard/submissions/recM5WNSe47TmTcfA
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

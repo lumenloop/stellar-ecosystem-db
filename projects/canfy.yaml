@@ -1,0 +1,35 @@
+title: Canfy
+other_names: null
+parent: null
+description: |
+  A developer copilot trained on extensive knowledge of Stellar and Soroban to navigate the complexities and assist on apps creation.
+links:
+  website:
+    - canfy.net
+  blog: []
+  x: []
+  linkedin:
+    - linkedin.com/company/canfy
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region: []
+  based_in: null
+scf:
+  awarded_total: 50100
+  awarded_round:
+    - 19
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recfjZWvOsCHoeqOV
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

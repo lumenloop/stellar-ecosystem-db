@@ -1,0 +1,39 @@
+title: Ebioro
+other_names: null
+parent: null
+description: |
+  Financial Freedom for all Cubans
+links:
+  website:
+    - ebioro.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags:
+    - Remittances
+    - Stablecoins
+    - Payments
+    - Cuba
+    - Caribbean
+  operating_region: []
+  based_in: Netherlands
+scf:
+  awarded_total: 236763
+  awarded_round:
+    - 8
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recsWgGMe0r36Gza0
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,44 @@
+title: Soroban Optimsitic Oracle
+other_names:
+  - Soroban Optimistic Oracle
+parent: null
+description: |2
+   SOO is a decentralized arbitration system for resolving on-chain disputes. It serves as an oracle for projects like prediction markets, insurance protocols, derivatives, and cross-chain bridges, providing data ranging from cryptocurrency prices to sports and political events.
+links:
+  website:
+    - github.com/stackman27/soroban-opt-oracle
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/stackman27/soroban-opt-oracle
+    - github.com/stackman27/SOO
+attributes:
+  category: Applications
+  tags:
+    - Oracle
+    - Cross-Chain
+    - Rust
+    - Security
+    - Plugin
+    - DeFi
+  operating_region:
+    - North America (without Mexico)
+  based_in: United States
+scf:
+  awarded_total: 30000
+  awarded_round:
+    - 33
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recP2KIZz7r2yBrkG
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,42 @@
+title: Digicus
+other_names: null
+parent: null
+description: |
+  Digicus, Scratch for smart contracts, simplifies contract creation &amp; modification via an intuitive, Lego-like graphical interface.
+links:
+  website:
+    - ide.digicus.dev
+    - spaced-out-thoughts-development-foundation.org/2024/10/10/digicus-whitepaper.html
+  blog:
+    - spaced-out-thoughts-dev-foundation.github.io/blog
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/robertDurst
+    - github.com/spaced-out-thoughts-dev-foundation
+attributes:
+  category: Developer Tooling
+  tags:
+    - DevX
+  operating_region:
+    - North America (without Mexico)
+  based_in: United States
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 26
+    - 29
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recF2pa0KGpGBfFBP
+    - https://communityfund.stellar.org/dashboard/submissions/recoFbY3txQwrt3p2
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

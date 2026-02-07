@@ -1,0 +1,38 @@
+title: Soroban Resource Usage Reporter
+other_names: null
+parent: 57blocks
+description: |
+  Soroban Resource Usage Reporter is designed to meet the specific needs of developers working within the Soroban ecosystem. In the coding and testing phases, this tool enables developers to efficiently track resource usage through key metrics, much like Hardhat Gas Reporter helps Ethereum developers streamline contract efficiency. By offering insights into these metrics, developers are empowered to write more efficient and cost-effective smart contracts from the very start.  For Stellar, this tool can help drive adoption and best practices within the ecosystem. By providing developers with early-stage resource usage tracking and optimization suggestions, Stellar can foster a community that is conscious of resource efficiency, which is crucial for maintaining scalability and cost-effectiveness across the network.
+links:
+  website:
+    - 57blocks.io
+  blog:
+    - 57blocks.io/blog
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/57blocks/stellar-resource-usage-report
+attributes:
+  category: Developer Tooling
+  tags:
+    - Analytics
+    - DevX
+  operating_region: []
+  based_in: China
+scf:
+  awarded_total: 18240
+  awarded_round:
+    - 31
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recqvm203drzGVJ0t
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

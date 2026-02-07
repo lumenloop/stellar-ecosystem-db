@@ -1,0 +1,41 @@
+title: Whalestack
+other_names:
+  - COINQVEST
+parent: null
+description: |
+  Enterprise Cryptocurrency Payment Processing
+links:
+  website:
+    - coinqvest.com
+  blog: []
+  x:
+    - whalestackhq
+  linkedin:
+    - linkedin.com/company/whalestack
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/whalestackhq
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - Finland
+  based_in: null
+scf:
+  awarded_total: 354506
+  awarded_round:
+    - 4
+    - 7
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recTcTox813mQJThm
+    - https://communityfund.stellar.org/dashboard/submissions/recclYO5p5WMKnecg
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

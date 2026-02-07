@@ -1,0 +1,46 @@
+title: OrbitCDP
+other_names: null
+parent: null
+description: |
+  Harness Stellar's potential; collateralize with ease at OrbitCDP.
+links:
+  website:
+    - orbitcdp.finance
+  blog: []
+  x: []
+  linkedin:
+    - linkedin.com/company/orbitcdp
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/OrbitCDP
+    - github.com/zenith-protocols/orbit-contracts
+attributes:
+  category: Financial Protocols
+  tags:
+    - CDP
+    - DeFi
+  operating_region: []
+  based_in: United States
+scf:
+  awarded_total: 280000
+  awarded_round:
+    - 21
+    - 21
+    - 25
+    - 29
+    - 25
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recb8O4gXWaS4RsaM
+    - https://communityfund.stellar.org/dashboard/submissions/rec5F9VZMtI9VazK9
+    - https://communityfund.stellar.org/dashboard/submissions/recAH1SPekMp9LIYX
+    - https://communityfund.stellar.org/dashboard/submissions/recgGLPg9l5ZoIcL5
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

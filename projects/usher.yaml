@@ -1,0 +1,46 @@
+title: Usher
+other_names:
+  - Anchor Transparency Node
+parent: null
+description: |
+  Enhancing Stellar's Anchors with the T Node: Secure, verifiable, and transparent off-chain Payment Rails data verified on-chain.
+links:
+  website:
+    - usher.so
+  blog:
+    - usher.so/blog
+  x:
+    - usher_web3
+  linkedin:
+    - linkedin.com/company/usherlabs
+  discord:
+    - discord.gg/gHDPs569NR
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/usherlabs
+    - github.com/usherlabs/stellar-transparency
+attributes:
+  category: Developer Tooling
+  tags:
+    - Anchor
+    - Payments
+    - Security
+    - Cross-Chain
+  operating_region:
+    - United States
+  based_in: Australia
+scf:
+  awarded_total: 40000
+  awarded_round:
+    - 22
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recVxyQ6OUzSnT44d
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,47 @@
+title: P'aid
+other_names:
+  - P'aid Payrolling
+parent: null
+description: |
+  Easy and affordable payroll with Blockchain abstracted away!
+links:
+  website:
+    - p-aid.world
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags:
+    - Payroll
+    - Aid
+    - Stablecoins
+    - Payment Gateway
+    - Cross-Border Payments
+    - Automation
+    - API
+    - Security
+    - Identity
+    - Multi-Chain
+    - Ecosystem Discovery
+    - Infrastructure
+  operating_region: []
+  based_in: Netherlands
+scf:
+  awarded_total: 50000
+  awarded_round:
+    - 26
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec85TDjqVvWzY6oR
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

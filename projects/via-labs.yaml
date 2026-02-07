@@ -1,0 +1,45 @@
+title: VIA Labs
+other_names: null
+parent: null
+description: |
+  The VIA Network is an omni-chain infrastructure that enables developers to create cross-chain products between Stellar and 140+ other blockchains (including both EVM and non-EVM chains). This interconnectivity opens the door for dapp developers to send messages, data and value between all supported chains.  Unified Liquidity: Access liquidity across many blockchains. Unified Features: Unique features easily accessible across networks. Unified Developer Experience: Ease of integration and maintenance. Unified User Base: Users previously scattered across various networks now united.  Further, it enables expansion and/or migration of existing dapps from other networks to easily onboard into the Stellar ecosystem.
+links:
+  website:
+    - vialabs.io
+  blog: []
+  x:
+    - via_labs
+  linkedin:
+    - linkedin.com/company/via-labs-llc
+  discord:
+    - discord.gg/vialabs
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/VIALabs-io/via-drivers
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Cross-Chain
+    - Bridge
+    - SDK
+    - API
+    - Liquidity
+    - Workshops
+    - Infrastructure
+  operating_region:
+    - North America (without Mexico)
+  based_in: United States
+scf:
+  awarded_total: 95000
+  awarded_round:
+    - 35
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,49 @@
+title: AirGap
+other_names: null
+parent: null
+description: |
+  AirGap offers a robust, cost-effective solution by turning any smartphone into a secure cold wallet. AirGap consists of Wallet (hot wallet for transactions) and Vault (cold wallet for offline signing). Vault can also be used as a standalone solution with MetaMask for enhanced security.
+links:
+  website:
+    - airgap.it
+  blog: []
+  x:
+    - airgap_it
+  linkedin:
+    - linkedin.com/company/airgap
+  discord:
+    - discord.gg/4Senj3xZ5s
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/airgap-it
+attributes:
+  category: Applications
+  tags:
+    - Software Wallet
+    - Hardware Wallet
+    - Security
+    - SDK
+    - Wallet Infra
+  operating_region:
+    - Latin America & Caribbean
+    - South Asia
+    - East Asia & Pacific
+    - Middle East & North Africa
+    - Europe & Central Asia
+    - North America (without Mexico)
+    - Sub-Saharan Africa
+  based_in: Switzerland
+scf:
+  awarded_total: 60000
+  awarded_round:
+    - 35
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

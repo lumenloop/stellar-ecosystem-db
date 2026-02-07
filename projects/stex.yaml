@@ -1,0 +1,41 @@
+title: sTeX
+other_names: null
+parent: Xycloo
+description: |
+  A modern cloud LaTeX editor with a google docs alike UX and UI, and a built-in Stellar decentralised documents marketplace.
+links:
+  website:
+    - stex.xycloo.com
+  blog:
+    - blog.xycloo.com
+  x:
+    - xycloolabs
+  linkedin:
+    - linkedin.com/company/xycloolabs
+  discord:
+    - discord.gg/HSrsvbmEsT
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/xycloo/documents-marketplace-devenv
+    - github.com/Xycloo/documents-marketplace-devenv
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region:
+    - Argentina
+  based_in: Italy
+scf:
+  awarded_total: 17000
+  awarded_round:
+    - 11
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recYsvymcjyhXY4XV
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

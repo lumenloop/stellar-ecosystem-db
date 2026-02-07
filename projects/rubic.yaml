@@ -1,0 +1,36 @@
+title: Rubic
+other_names: null
+parent: null
+description: |
+  This integration will connect Stellar to Rubic’s aggregation infrastructure, allowing users to access the best available rates for Stellar-based assets through live DEXs and bridges already operating on Stellar. Rubic will onboard these providers into its platform, giving broader visibility and easier access to Stellar. New providers can also be added over time, creating an open path for expanding access without rebuilding infrastructure. As a key part of integration, Rubic will implement multihop swaps for Stellar, allowing any-to-any token exchanges with efficient routing. Custom smart contracts and a dedicated mechanism will be developed to support this feature. For Stellar-based projects, this opens the door to seamless integration of same-chain and cross-chain swaps through Rubic’s API, SDK, or widget. No need to build in-house solutions or maintain bridge logic because Rubic handles that layer. This removes integration overhead, unifies liquidity access, and gives developers and users a smoother experience across Stellar and beyond.
+links:
+  website:
+    - rubic.exchange
+  blog: []
+  x:
+    - cryptorubic
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Cryptorubic
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - Romania
+  based_in: Russia
+scf:
+  awarded_total: 90000
+  awarded_round:
+    - 38
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

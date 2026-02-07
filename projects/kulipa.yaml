@@ -1,0 +1,45 @@
+title: Kulipa
+other_names:
+  - Kulipa Debit Card
+parent: null
+description: |
+  A card that enables payments in stablecoin where Visa and Mastercard are accepted, with settlement on Stellar.
+links:
+  website:
+    - kulipa.xyz
+  blog:
+    - kulipa.xyz/blog
+  x:
+    - kulipaxyz
+  linkedin:
+    - linkedin.com/company/kulipa-inc
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags:
+    - Stablecoins
+    - Payments
+    - Anchor
+    - KYC
+    - Wallet Infra
+  operating_region:
+    - Europe & Central Asia
+    - Latin America & Caribbean
+  based_in: United Kingdom
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 31
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recon7Vnw25iu3Faw
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

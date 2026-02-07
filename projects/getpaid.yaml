@@ -1,0 +1,34 @@
+title: GetPaid
+other_names: null
+parent: null
+description: |
+  Provides creators, traders and freelancers in Africa with opportunities to create income through connecting and learning. Live, Work and GetPaid.
+links:
+  website:
+    - getpaid.africa
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+scf:
+  awarded_total: 192500
+  awarded_round:
+    - 9
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recNDS0b5hl2VKuFI
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

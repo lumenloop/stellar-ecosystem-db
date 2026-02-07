@@ -1,0 +1,47 @@
+title: SubQuery
+other_names:
+  - SubQuery Network
+parent: null
+description: |
+  SubQuery is a leading blockchain data indexer that provides developers with fast, flexible, universal, and decentralised APIs for web3 projects. We empower developers from over 100+ ecosystems including Stellar, Ethereum, Polygon, Polkadot, Cosmos, Algorand, NEAR, and Avalanche with rich indexed data to allow them to build intuitive and immersive decentralised applications. This blockchain developer toolkit enables developers to focus on their core use case and front-end without wasting time building a custom backend for data processing activities. In the near future, the SubQuery Network will replicate this scalable and reliable solution in a completely decentralised manner.
+links:
+  website:
+    - subquery.network
+  blog:
+    - blog.subquery.network
+  x:
+    - subquerynetwork
+  linkedin:
+    - linkedin.com/company/subquery
+  discord:
+    - discord.gg/subquery
+  telegram:
+    - t.me/subquerynetwork
+  youtube:
+    - youtube.com/c/SubQueryNetwork
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/subquery
+    - github.com/subquery/subql-stellar
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Indexer
+    - API
+    - Multi-Chain
+  operating_region:
+    - New Zealand
+  based_in: New Zealand
+scf:
+  awarded_total: 98640
+  awarded_round:
+    - 18
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recv7q71W4I8LcYAw
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

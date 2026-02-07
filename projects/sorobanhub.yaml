@@ -1,0 +1,42 @@
+title: SorobanHub
+other_names: null
+parent: Creit Tech
+description: |
+  Manage, monitor and interact with your deployed contracts from a single and free to use desktop app.
+links:
+  website:
+    - sorobanhub.com
+  blog: []
+  x:
+    - creittech_
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Creit-Tech/SorobanHub-app
+attributes:
+  category: Developer Tooling
+  tags:
+    - SDK
+    - DevX
+    - Contract Management
+  operating_region:
+    - Chile
+  based_in: Chile
+scf:
+  awarded_total: 78500
+  awarded_round:
+    - 25
+    - 28
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recxRNH1fR2fkoj4w
+    - https://communityfund.stellar.org/dashboard/submissions/rec8xDnSJsXhggxFP
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

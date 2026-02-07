@@ -1,0 +1,34 @@
+title: Trezor
+other_names: null
+parent: null
+description: Trezor is a hardware wallet designed to securely store and manage cryptocurrencies offline, protecting assets from online threats. It supports a wide range of cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), and Stellar (XLM).
+links:
+  website:
+    - trezor.io
+  blog:
+    - blog.trezor.io
+  x:
+    - trezor
+  linkedin:
+    - linkedin.com/company/trezor
+  discord: []
+  telegram: []
+  youtube: []
+  instagram:
+    - trezor.io
+  reddit:
+    - r/TREZOR
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/trezor
+attributes:
+  category: null
+  tags: []
+  operating_region: []
+  based_in: null
+scf: null
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

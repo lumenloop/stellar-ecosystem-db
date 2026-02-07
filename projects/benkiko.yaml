@@ -1,0 +1,46 @@
+title: Benkiko
+other_names:
+  - Benkiko Finance
+  - Benkiko REST APIs
+parent: null
+description: |
+  Abstracting Horizon and Soroban RPC endpoints with universal REST APIs
+links:
+  website:
+    - benkiko.io
+    - api.benkiko.xyz
+  blog:
+    - benkiko.substack.com
+  x:
+    - benkikodao
+    - benkikoapis
+  linkedin: []
+  discord:
+    - discord.gg/ucdnM7JDv3
+  telegram:
+    - t.me/+OFx5DupqLRE4YTM0
+  youtube:
+    - youtube.com/channel/UCDDJSrsdE1Bjfr2gqutQ9JQ
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/BenkikoDAO
+    - github.com/BenkikoDAO/benkiko-api
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region:
+    - Sub-Saharan Africa
+  based_in: Kenya
+scf:
+  awarded_total: 40000
+  awarded_round:
+    - 9
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recgkswpYe1ft72DP
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

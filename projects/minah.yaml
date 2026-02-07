@@ -1,0 +1,38 @@
+title: Minah
+other_names: null
+parent: null
+description: |
+  Minah.io is a decentralized platform transforming the investment landscape for Real World Assets (RWA) in West Africa. Our mission is to address the region's limited funding access and enhance transparency in the investment process, focusing on high-growth sectors like real estate, energy, and agriculture. By bridging the funding gap, Minah unlocks a vital channel for African development while offering investors a structured, accessible path to this high-potential market.  Our go-to-market strategy leverages the strong and consistent diaspora flows, which directed over $54 billion to the region in 2023 alone. By streamlining these remittance flows, we create an efficient investment entry point for diaspora members, setting a stable foundation to a wider audience, including non-African descendants and crypto enthusiasts.  In terms of projects, we currently have a pipeline of c. 4M€ projects and aim to finalize the conception and distribution of two strategy in the next 6months representig c. 1,5M€. At the end of the year 2026 we aim a cumulative TVL of approximately €[10-20] million. After initial successes, we will introduce a utility token to enhance community engagement and integrate DeFi mechanisms. This phase will center on a tokenized RWA approach, cultivating a community of investors and unlocking DeFi potential within Africa's emerging market.
+links:
+  website:
+    - minah.io
+  blog: []
+  x:
+    - minahlabs
+  linkedin:
+    - linkedin.com/company/minahio
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Gakpe/Minah_Blockchain_V0.2
+attributes:
+  category: Financial Protocols
+  tags: []
+  operating_region:
+    - Sub-Saharan Africa
+  based_in: France
+scf:
+  awarded_total: 97500
+  awarded_round:
+    - 11
+    - 38
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

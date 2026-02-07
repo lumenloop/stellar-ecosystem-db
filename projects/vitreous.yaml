@@ -1,0 +1,40 @@
+title: Vitreous
+other_names: null
+parent: null
+description: |
+  Transparent fundraising platform
+links:
+  website:
+    - vitreous.co
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags:
+    - Fundraising
+    - Social
+    - Community
+    - Aid
+    - Unbanked
+    - Ecosystem Discovery
+  operating_region: []
+  based_in: France
+scf:
+  awarded_total: 50000
+  awarded_round:
+    - 10
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec4Nwk1DCefv8BKu
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

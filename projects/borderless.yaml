@@ -1,0 +1,37 @@
+title: Borderless
+other_names: null
+parent: null
+description: |
+  An API solution enabling financial institutions in remittance-receiving countries to onboard overseas customers and their funds.
+links:
+  website:
+    - borderlesspayments.xyz
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Borderless-Payments
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: Spain
+scf:
+  awarded_total: 125500
+  awarded_round:
+    - 20
+    - 22
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec32utFP3jR18fr7
+    - https://communityfund.stellar.org/dashboard/submissions/recWsJsebcTT9zF3Q
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

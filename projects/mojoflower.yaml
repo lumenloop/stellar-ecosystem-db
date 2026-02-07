@@ -1,0 +1,47 @@
+title: Mojoflower
+other_names: null
+parent: null
+description: |
+  Mojoflower is building a number of products on Stellar. Bloom is a entity creator built on Soroban and Petal is a document signing service that allows users to sign documents using their Stellar wallets. 
+links:
+  website:
+    - mojoflower.io
+    - petal.so
+  blog:
+    - mojoflower-oli.medium.com
+  x:
+    - mojoflower_io
+    - home
+  linkedin:
+    - linkedin.com/company/mojoflower
+  discord: []
+  telegram: []
+  youtube: []
+  instagram:
+    - 'https:'
+  reddit: []
+  tiktok:
+    - qolaq.foundation
+  linktree: []
+  github:
+    - github.com/Mojoflower-garden
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - Iceland
+  based_in: null
+scf:
+  awarded_total: 343915
+  awarded_round:
+    - 17
+    - 11
+    - 7
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec5zyGnVx1mUR50F
+    - https://communityfund.stellar.org/dashboard/submissions/rec2zLlTCpBSzq6XL
+    - https://communityfund.stellar.org/dashboard/submissions/recY7hkMQ59n12mOa
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,40 @@
+title: Dapp World
+other_names: null
+parent: null
+description: |
+  Comprehensive learning track on Stellar to help developers onboard and build cutting-edge dapps on Stellar.
+links:
+  website:
+    - dapp-world.com
+  blog: []
+  x:
+    - dappworld100
+  linkedin:
+    - linkedin.com/company/dapp-world
+  discord:
+    - discord.gg/efYvkwGyYu
+  telegram: []
+  youtube:
+    - youtube.com/c/DAppWorld
+  instagram:
+    - dappworld100
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Education & Community
+  tags: []
+  operating_region:
+    - India
+  based_in: India
+scf:
+  awarded_total: 14000
+  awarded_round:
+    - 27
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec5XtNfCR7Fg86mE
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

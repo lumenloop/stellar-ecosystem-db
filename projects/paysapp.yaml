@@ -1,0 +1,34 @@
+title: Paysapp
+other_names: null
+parent: null
+description: |
+  Stellar payments in Whatsapp
+links:
+  website: []
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/kuyawa/paysapp
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+scf:
+  awarded_total: 0
+  awarded_round:
+    - 3
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec4C0qVstIHsPgm0
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,45 @@
+title: OtterSec
+other_names: null
+parent: null
+description: |
+  We are a blockchain cybersecurity company
+links:
+  website:
+    - osec.io
+  blog:
+    - osec.io/blog
+  x:
+    - osec_io
+  linkedin:
+    - linkedin.com/company/91739484
+    - linkedin.com/company/91739484/admin/feed/posts
+  discord:
+    - discord.gg/QNE5b7Pgrs
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/otter-sec
+    - github.com/otter-sec/stellar-verify
+attributes:
+  category: Developer Tooling
+  tags:
+    - AI
+    - Security
+    - Formal Verification
+  operating_region:
+    - United States
+  based_in: United States
+scf:
+  awarded_total: 137500
+  awarded_round:
+    - 18
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recUtPJPaKlIhvc6E
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,39 @@
+title: Comet
+other_names: null
+parent: null
+description: |
+  Comet is a weighted AMM protocol that offers soroban projects a flexible solution set when picking liquidity venues
+links:
+  website:
+    - github.com/CometDEX
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/CometDEX
+attributes:
+  category: Financial Protocols
+  tags:
+    - DEX
+    - DeFi
+  operating_region: []
+  based_in: United States
+scf:
+  awarded_total: 291000
+  awarded_round:
+    - 13
+    - 18
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recG7Kj7ouwAFP2XY
+    - https://communityfund.stellar.org/dashboard/submissions/recIRbsKDA1ayFXCF
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

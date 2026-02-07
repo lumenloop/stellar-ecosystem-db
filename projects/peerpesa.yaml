@@ -1,0 +1,49 @@
+title: PeerPesa
+other_names: null
+parent: null
+description: |
+  Connecting Africa Through P2P Payments
+links:
+  website:
+    - peerpesa.co
+  blog: []
+  x:
+    - peer_pesa
+  linkedin:
+    - linkedin.com/company/peerpesa
+  discord:
+    - discord.gg/hxzdqsEx
+  telegram: []
+  youtube:
+    - youtube.com/@PeerPesa
+  instagram:
+    - peer_pesa
+  reddit: []
+  tiktok:
+    - peerpesa
+  linktree: []
+  github:
+    - github.com/PeerPESA-dAPP/peerPesa-Web3
+attributes:
+  category: Applications
+  tags:
+    - Africa
+    - Peer-to-Peer
+    - Cross-Border Payments
+    - Mobile
+    - DEX
+    - Remittances
+    - Payments
+  operating_region:
+    - Sub-Saharan Africa
+  based_in: Uganda
+scf:
+  awarded_total: 45000
+  awarded_round:
+    - 33
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recj3q75Rnnn3ahfb
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

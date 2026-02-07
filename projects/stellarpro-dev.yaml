@@ -1,0 +1,44 @@
+title: stellarpro.dev
+other_names: null
+parent: null
+description: |
+  Stellar-focused education platform for post-beginnerdevelopers wanting to grow their skills to intermediate and advanced levels.
+links:
+  website:
+    - stellarpro.dev
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/omeganetwork-tech
+attributes:
+  category: Developer Tooling
+  tags:
+    - e-learning
+    - SDK
+    - Workshops
+    - Ecosystem Discovery
+    - Community
+  operating_region:
+    - Latin America & Caribbean
+    - North America (without Mexico)
+  based_in: Venezuela
+scf:
+  awarded_total: 65880
+  awarded_round:
+    - 17
+    - 29
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recpomNZXKFtufheP
+    - https://communityfund.stellar.org/dashboard/submissions/recEafxknk0CPdmB7
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

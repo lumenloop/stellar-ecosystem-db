@@ -1,0 +1,34 @@
+title: DEB
+other_names: null
+parent: null
+description: |
+  Ride-share app
+links:
+  website:
+    - demo.drivedeb.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+scf:
+  awarded_total: 653.09
+  awarded_round:
+    - 6
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recZLr4loEBkuuARn
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

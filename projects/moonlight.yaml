@@ -1,0 +1,36 @@
+title: Moonlight
+other_names:
+  - Moonlight Protocol
+parent: null
+description: |
+  Moonlight Protocol is a non-custodial privacy solution built on Stellar, enabling private balances and transactions without sacrificing user control. It is tailored for financial institutions and wallets looking to leverage blockchain while preserving customer privacy. The protocol combines open source on-chain components with off-chain infrastructure, including privacy-preserving transaction bundling and SEP-10-based user authentication for compliance. This architecture allows “privacy providers” (such as wallets or institutions) to shield user identities while remaining fully compliant with regulations. Moonlight's first PoC is already live on the Stellar testnet, with functioning Soroban contracts and other off-chain components to enable private transaction execution demonstrating its feasibility.
+links:
+  website:
+    - moonlight-10.gitbook.io/moonlight-docs
+  blog: []
+  x: []
+  linkedin:
+    - linkedin.com/company/aha-labs-dev
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Moonlight-Protocol
+attributes:
+  category: Infrastructure & Services
+  tags: []
+  operating_region: []
+  based_in: France
+scf:
+  awarded_total: 134990
+  awarded_round:
+    - 37
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

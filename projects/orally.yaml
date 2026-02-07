@@ -1,0 +1,46 @@
+title: Orally
+other_names:
+  - Orally Network
+parent: null
+description: |
+  Fully decentralized oracles for any type of data from real world and side chains. 
+links:
+  website:
+    - orally.network
+  blog: []
+  x:
+    - orally_network
+  linkedin:
+    - linkedin.com/company/orally-network
+  discord: []
+  telegram: []
+  youtube:
+    - youtube.com/@orally-zc1mg
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/orally-network
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Oracle
+    - Cross-Chain
+    - AI
+    - SDK
+    - Security
+    - Automation
+  operating_region:
+    - Europe & Central Asia
+  based_in: Portugal
+scf:
+  awarded_total: 48000
+  awarded_round:
+    - 27
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recCLcdUOLt2AvNHe
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

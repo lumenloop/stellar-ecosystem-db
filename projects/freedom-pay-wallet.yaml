@@ -1,0 +1,36 @@
+title: Freedom Pay Wallet
+other_names: null
+parent: null
+description: |+
+  The Freedom Pay Wallet is a non custodial wallet that makes payments accessible for all, we provide both low cost remittance and payment services. Our mission is about building something that makes a difference for real people. Our digital wallet empowers people in rural Africa by providing the unbanked with essential access to goods and services.
+
+links:
+  website:
+    - freedompaywallet.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - Sub-Saharan Africa
+  based_in: United Kingdom
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 9
+    - 38
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

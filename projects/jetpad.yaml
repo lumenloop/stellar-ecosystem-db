@@ -1,0 +1,47 @@
+title: JetPad
+other_names: null
+parent: null
+description: |
+  JetPad is redefining finance for Africa’s 500 million unbanked and underbanked youth by building an on-chain banking experience powered by stablecoins and seamless blockchain transactions.
+links:
+  website:
+    - wallet.jetpad.finance
+  blog: []
+  x:
+    - jetpad_finance
+  linkedin:
+    - linkedin.com/company/jetpad-finance
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Jetpad-Digital-Limited/jetpad-wallet
+attributes:
+  category: Applications
+  tags:
+    - Africa
+    - Stablecoins
+    - On-Off Ramp
+    - Mobile
+    - Marketplace
+    - Yield
+    - Peer-to-Peer
+    - Unbanked
+    - Payments
+  operating_region:
+    - Sub-Saharan Africa
+    - Europe & Central Asia
+  based_in: Nigeria
+scf:
+  awarded_total: 75500
+  awarded_round:
+    - 34
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

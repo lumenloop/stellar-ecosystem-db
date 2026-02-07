@@ -1,0 +1,46 @@
+title: Mobula Labs
+other_names: null
+parent: null
+description: |
+  Mobula offers an extensive range of Data APIs tailored for decentralized applications (dApps), enabling seamless integration and real-time data access. For foundations, Mobula provides robust blockchain analytics tools to monitor and analyze user engagement and growth trends. Additionally, Mobula supports builders by offering comprehensive data warehousing solutions, ensuring efficient data storage and retrieval for enhanced application performance.
+links:
+  website:
+    - mobula.io
+  blog: []
+  x:
+    - mobulaio
+  linkedin:
+    - linkedin.com/company/mobulalabs
+  discord:
+    - discord.gg/JVT7xKm3AD
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/MobulaFi
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - API
+    - Analytics
+    - AI
+    - DeFi
+    - DEX
+    - Infrastructure
+    - Liquidity
+    - SDK
+  operating_region:
+    - France
+  based_in: France
+scf:
+  awarded_total: 122000
+  awarded_round:
+    - 34
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

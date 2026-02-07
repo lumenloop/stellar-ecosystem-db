@@ -1,0 +1,48 @@
+title: ClickPesa Debt Fund
+other_names: null
+parent: ClickPesa
+description: |
+  We provide Web3 end-to-end transparency and accountability promoting access to funding for SMEs and women-owned businesses
+links:
+  website:
+    - clickpesadebtfund.com
+  blog:
+    - clickpesadebtfund.com/blog
+  x:
+    - cpdebtfund
+  linkedin:
+    - linkedin.com/company/clickpesadebtfund
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/ClickPesa
+    - github.com/ClickPesa-Debt-Fund/cdf-pool-ui
+attributes:
+  category: Financial Protocols
+  tags:
+    - DeFi
+    - Debt
+    - Payments
+    - SME
+    - Lending & Borrowing
+    - Payment Gateway
+  operating_region:
+    - Angola
+  based_in: Tanzania
+scf:
+  awarded_total: 125000
+  awarded_round:
+    - 26
+    - 28
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recLlGrfUZ3BXOFcw
+    - https://communityfund.stellar.org/dashboard/submissions/recEgzZZ8W6tacMCS
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

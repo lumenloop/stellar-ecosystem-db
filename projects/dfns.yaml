@@ -1,0 +1,44 @@
+title: DFNS
+other_names:
+  - Dfns Stellar Support
+parent: null
+description: |
+  Dfns is a leading wallet infrastructure as a service platform, supporting banks, fintechs, tokenization platforms and more.
+links:
+  website:
+    - dfns.co
+  blog:
+    - dfns.co/blog
+  x:
+    - dfnshq
+  linkedin:
+    - linkedin.com/company/dfnshq
+  discord: []
+  telegram:
+    - t.me/+qFK1dPXUyts0OTE0
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/dfns
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Wallet Infra
+    - MPC
+    - B2B
+  operating_region:
+    - Switzerland
+  based_in: United States
+scf:
+  awarded_total: 25000
+  awarded_round:
+    - 25
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/reciEIStd1IvAErh8
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

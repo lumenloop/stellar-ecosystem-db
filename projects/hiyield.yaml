@@ -1,0 +1,43 @@
+title: HiYield
+other_names: null
+parent: Lydia Labs
+description: |
+  HiYield is building key components of onchain capital markets infrastructure to bolster liquidity. Our initial products include a tokenization protocol and a custom-built lending market ideal for onchain repurchase agreements and fixed-income collateral types.
+links:
+  website:
+    - hiyield.xyz
+  blog: []
+  x:
+    - hiyield_xyz
+  linkedin:
+    - linkedin.com/company/hiyield-xyz
+  discord:
+    - discord.gg/VqVsdubDB6
+    - discord.gg/5kgC3WYxKR
+  telegram: []
+  youtube:
+    - youtube.com/@hiyield_xyz
+  instagram:
+    - hiyield.xyz
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Financial Protocols
+  tags:
+    - Yield
+    - DeFi
+  operating_region:
+    - United States
+  based_in: United States
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 18
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recjwQ8Ebg6OIV4BT
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

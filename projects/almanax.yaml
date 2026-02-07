@@ -1,0 +1,45 @@
+title: Almanax
+other_names: null
+parent: null
+description: |
+  Almanax is an automated security auditor that leverages AI to find and fix vulnerabilities in smart contracts.
+links:
+  website:
+    - almanax.ai
+  blog:
+    - almanax.ai/blog
+  x:
+    - almanaxai
+  linkedin:
+    - linkedin.com/company/almanax-ai
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/almanax-ai
+    - github.com/almanax-ai/w3sa
+attributes:
+  category: Developer Tooling
+  tags:
+    - Security
+    - AI
+    - Multi-Chain
+  operating_region:
+    - United States
+  based_in: United States
+scf:
+  awarded_total: 145000
+  awarded_round:
+    - 26
+    - 32
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recuBabEIY10zr9A5
+    - https://communityfund.stellar.org/dashboard/submissions/recP07tayhkLu9ezv
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

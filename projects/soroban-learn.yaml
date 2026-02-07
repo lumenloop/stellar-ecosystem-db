@@ -1,0 +1,39 @@
+title: Soroban Learn
+other_names: null
+parent: null
+description: |
+  Bringing developers from zero to hero in their Soroban smart contract development journey.
+links:
+  website:
+    - sorobanlearn.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Soroban-Learn/soroban-learn
+attributes:
+  category: Education & Community
+  tags: []
+  operating_region: []
+  based_in: null
+scf:
+  awarded_total: 152000
+  awarded_round:
+    - 14
+    - 16
+    - 21
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recQJLUR6hmcS5vqh
+    - https://communityfund.stellar.org/dashboard/submissions/recovwoOp8xxFpkfq
+    - https://communityfund.stellar.org/dashboard/submissions/recYWCrhSDvEopByV
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

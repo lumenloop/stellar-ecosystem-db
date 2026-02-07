@@ -1,0 +1,50 @@
+title: TokenOps
+other_names: null
+parent: null
+description: |
+  Token distribution management platform (Vesting, airdrops, staking, onchain salaries)
+links:
+  website:
+    - TokenOps.xyz
+    - tokenops.xyz
+  blog: []
+  x:
+    - tokenops_xyz
+  linkedin:
+    - linkedin.com/company/tokenops
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/VestingLabs
+    - github.com/VestingLabs/stellar_vesting
+attributes:
+  category: Applications
+  tags:
+    - Tokenization
+    - Airdrop
+    - Payroll
+    - Grants
+    - DAO Tool
+    - Governance
+    - Accounting
+    - Art
+    - Ecosystem Discovery
+  operating_region:
+    - Europe & Central Asia
+    - North America (without Mexico)
+  based_in: Portugal
+scf:
+  awarded_total: 60000
+  awarded_round:
+    - 30
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recq4UtMlUBoNw4TP
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

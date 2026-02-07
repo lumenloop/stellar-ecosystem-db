@@ -1,0 +1,41 @@
+title: Hypernative
+other_names: null
+parent: null
+description: |
+  Market leader in hack prevention and real time monitoring detecting and preventing attacks on smart contracts before they happen.
+links:
+  website:
+    - hypernative.io
+  blog:
+    - hypernative.io/blog
+  x:
+    - hypernativelabs
+  linkedin:
+    - linkedin.com/company/hypernative
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Developer Tooling
+  tags:
+    - Security
+    - Risk Management
+    - Multi-Chain
+  operating_region:
+    - United Kingdom
+  based_in: Israel
+scf:
+  awarded_total: 50000
+  awarded_round:
+    - 26
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recwaqts19fQ3ZIU3
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

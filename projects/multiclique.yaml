@@ -1,0 +1,37 @@
+title: MultiClique
+other_names: null
+parent: null
+description: |
+  A policy and workflow framwork for multisignature accounts
+links:
+  website:
+    - multiclique.org
+  blog: []
+  x:
+    - multiclique_org
+  linkedin: []
+  discord:
+    - discord.com/channels/897514728459468821/1159218967890624584
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/deep-ink-ventures/multiclique-protocol
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region: []
+  based_in: null
+scf:
+  awarded_total: 97500
+  awarded_round:
+    - 19
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recRZEosG6FWORKcP
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

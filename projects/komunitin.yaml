@@ -1,0 +1,49 @@
+title: Komunitin
+other_names: null
+parent: null
+description: |
+  Komunitin provides a payments system and marketplace for local currency exchange communities.
+links:
+  website:
+    - komunitin.org
+  blog: []
+  x:
+    - komunitin
+  linkedin:
+    - linkedin.com/in/esteve-badia-orive
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/estevebadia
+    - github.com/community-exchange-network/komunitin
+attributes:
+  category: Applications
+  tags:
+    - Payments
+    - Marketplace
+    - Community
+    - Cross-Border Payments
+    - API
+    - Security
+    - Database
+    - Infrastructure
+    - Ecosystem Discovery
+    - Identity
+  operating_region:
+    - Europe & Central Asia
+  based_in: Spain
+scf:
+  awarded_total: 44850
+  awarded_round:
+    - 26
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recNOhqg2m5UV2Eb8
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

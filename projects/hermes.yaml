@@ -1,0 +1,39 @@
+title: Hermes
+other_names: null
+parent: null
+description: |
+  Hermes is a decentralized perpetual exchange on the Stellar blockchain, enabling traders to engage in leveraged trading. It uses a liquidity pool model and oracles to offer deep liquidity with minimal slippage, allowing users to open and close positions efficiently without additional accounts.
+links:
+  website:
+    - github.com/orbit-cdp/hermes
+  blog: []
+  x:
+    - notishansingh
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/orbit-cdp/hermes
+attributes:
+  category: Financial Protocols
+  tags:
+    - Derivatives
+    - DeFi
+  operating_region:
+    - North America (without Mexico)
+  based_in: United States
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 32
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recLWYP6Y352hsjEb
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

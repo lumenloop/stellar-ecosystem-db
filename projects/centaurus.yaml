@@ -1,0 +1,35 @@
+title: Centaurus
+other_names: null
+parent: null
+description: |
+  second layer payment network, exchange, and scaling solution
+links:
+  website:
+    - github.com/centaurus-project
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/centaurus-project
+attributes:
+  category: Infrastructure & Services
+  tags: []
+  operating_region: []
+  based_in: null
+scf:
+  awarded_total: 0
+  awarded_round:
+    - 2
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recg4KmfUXrrNOHbG
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

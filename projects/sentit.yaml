@@ -1,0 +1,44 @@
+title: Sentit
+other_names: null
+parent: null
+description: |
+  Move money across Africa in seconds.
+links:
+  website:
+    - sentit.io
+  blog:
+    - sentit.medium.com
+  x:
+    - sentit_official
+  linkedin:
+    - linkedin.com/company/sentit-official
+  discord:
+    - discord.gg/pjWygBM2
+  telegram:
+    - t.me/sentit_wallet
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags:
+    - Africa
+    - Software Wallet
+    - Mobile
+    - P2P
+  operating_region:
+    - United States
+  based_in: Nigeria
+scf:
+  awarded_total: 55000
+  awarded_round:
+    - 10
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec54XD3QmAUoMA1r
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

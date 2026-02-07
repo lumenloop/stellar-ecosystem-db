@@ -1,0 +1,45 @@
+title: Range
+other_names:
+  - 'Range: Cross-chain intelligence platform'
+parent: null
+description: |
+  This proposal seeks to build a Steller Bridge Explorer, and integrate Stellar with Range’s Cross-Chain Explorer and Range Trail, our cross-chain, cross-ecosystem, real-time forensic intelligence platform.
+links:
+  website:
+    - range.org
+  blog: []
+  x:
+    - rangesecurity
+  linkedin:
+    - linkedin.com/company/rangesecurity
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/rangesecurity
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Cross-Chain
+    - Bridge
+    - Analytics
+    - API
+    - Security
+    - Risk Management
+    - Infrastructure
+    - Ecosystem Discovery
+  operating_region: []
+  based_in: United Kingdom
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 34
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,41 @@
+title: Metafyed
+other_names: null
+parent: null
+description: |
+  Revolutionizing access to Real World Assets in Asia through tokenization
+links:
+  website:
+    - metafyed.com
+  blog: []
+  x:
+    - metafyed
+  linkedin:
+    - linkedin.com/company/metafyed
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/nasdex-marketplace/MD-stellar_wallet_service
+attributes:
+  category: Applications
+  tags:
+    - RWA
+    - Asia
+    - Marketplace
+  operating_region:
+    - Malaysia
+  based_in: Canada
+scf:
+  awarded_total: 50000
+  awarded_round:
+    - 27
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec0OaOoRwjfSdS58
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,44 @@
+title: Warmancer
+other_names:
+  - 'Warmancer: Black Friday'
+parent: null
+description: |
+  Warmancer: Black Friday is a free-to-play, public-good strategy game that combines the depth of traditional board games with the intrigue of hidden information, utilizing zero-knowledge proofs (ZKPs) on the Stellar blockchain (pending technology availability) to conceal board positions for enhanced secrecy and fairness. Players will collect unique on-chain items and abilities tied to their wallet addresses, fostering dynamic gameplay, cross-project compatibility, and rewarding community engagement.
+links:
+  website:
+    - warmancer.io
+  blog: []
+  x:
+    - scrying_stone
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/towa-hi/solid-parakeet
+attributes:
+  category: Applications
+  tags:
+    - Gaming
+    - ZK Proofs
+    - Community
+    - NFT
+    - AI
+    - Ecosystem Discovery
+  operating_region:
+    - United States
+  based_in: United States
+scf:
+  awarded_total: 136500
+  awarded_round:
+    - 33
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recsJtI0JZOmnayxP
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

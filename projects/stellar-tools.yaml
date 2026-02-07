@@ -1,0 +1,38 @@
+title: Stellar Tools
+other_names: null
+parent: null
+description: |
+  Enhancing Stellar's ecosystem with a comprehensive suite for asset management, NFT creation, and community engagement.
+links:
+  website:
+    - stellartools.xyz
+  blog: []
+  x: []
+  linkedin:
+    - linkedin.com/in/joaquinsoza
+  discord:
+    - discord.gg/Bq8qSteFSz
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/joaquinsoza/stellar-tools
+attributes:
+  category: Developer Tooling
+  tags:
+    - NFT
+  operating_region: []
+  based_in: Chile
+scf:
+  awarded_total: 18700
+  awarded_round:
+    - 26
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recL4qatBTjJgJh85
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

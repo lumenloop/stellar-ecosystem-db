@@ -1,0 +1,46 @@
+title: Governance Modules Library
+other_names: null
+parent: Block Science
+description: |
+  The Governance Modules Library is a curation of new and classic modules for governance in dApps and DAOs, ready for Soroban.
+links:
+  website:
+    - block.science
+    - stellarcommunityfund.gitbook.io/module-library
+  blog:
+    - blockscience.ghost.io
+  x:
+    - block_science
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube:
+    - youtube.com/channel/UCPePNv3dJN--aKhFGOa0Rjg
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/BlockScience/gov-modules-demos
+    - github.com/BlockScience/SCF-GML-Contributions
+attributes:
+  category: Developer Tooling
+  tags:
+    - Governance
+    - Library
+    - Ecosystem Discovery
+  operating_region:
+    - United States
+  based_in: United States
+scf:
+  awarded_total: 101000
+  awarded_round:
+    - 22
+    - 26
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recX7oB3F68rVpdY1
+    - https://communityfund.stellar.org/dashboard/submissions/reczJIM2hVxOvI44M
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

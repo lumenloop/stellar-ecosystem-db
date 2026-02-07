@@ -1,0 +1,36 @@
+title: TrustedPlastic
+other_names: null
+parent: null
+description: |
+  Enabling plastic waste collection through introducing transparency.
+links:
+  website:
+    - recyclable.credit
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags:
+    - Eco-Friendly
+    - Supply-Chain
+  operating_region: []
+  based_in: Spain
+scf:
+  awarded_total: 49800
+  awarded_round:
+    - 22
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recdFUWjyYR7VoqYC
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

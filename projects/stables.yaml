@@ -1,0 +1,42 @@
+title: Stables
+other_names: null
+parent: null
+description: |
+  Stables has built a global stablecoin payment company bringing stablecoin powered financial services to developers, businesses and individual in 150+ countries.
+links:
+  website:
+    - stables.money
+  blog: []
+  x:
+    - stables_money
+  linkedin:
+    - linkedin.com/company/stables-money
+  discord:
+    - discord.gg/gm6w5TgXWD
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - Latin America & Caribbean
+    - South Asia
+    - East Asia & Pacific
+    - Middle East & North Africa
+    - Europe & Central Asia
+    - North America (without Mexico)
+  based_in: Australia
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 36
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

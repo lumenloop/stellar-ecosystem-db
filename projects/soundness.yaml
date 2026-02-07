@@ -1,0 +1,38 @@
+title: Soundness
+other_names:
+  - Post-Quantum Secure Wallets for Stellar
+parent: null
+description: |
+  Enable post-quantum wallets and transactions on Stellar, protecting retail and institutional users against upcoming quantum threats.
+links:
+  website:
+    - soundness.xyz
+  blog: []
+  x:
+    - soundnesslabs
+  linkedin: []
+  discord:
+    - discord.gg/SoundnessLabs
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/SoundnessLabs
+attributes:
+  category: Infrastructure & Services
+  tags: []
+  operating_region:
+    - Europe & Central Asia
+  based_in: United Kingdom
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 40
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

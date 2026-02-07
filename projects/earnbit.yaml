@@ -1,0 +1,41 @@
+title: EarnBIT
+other_names: null
+parent: null
+description: |
+  EU licensed CEX with dedicated Launchpad on Stellar, followed by video streaming service.
+links:
+  website:
+    - earnbit.com
+  blog:
+    - medium.com/@earnbit1
+  x:
+    - earnbit2
+  linkedin:
+    - linkedin.com/company/earnbit
+  discord: []
+  telegram:
+    - t.me/earnbit_official_eng
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Developer Tooling
+  tags:
+    - CEX
+    - Launchpad
+  operating_region:
+    - Finland
+  based_in: United Arab Emirates
+scf:
+  awarded_total: 47293
+  awarded_round:
+    - 26
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec0xYw97aaoZa9lA
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

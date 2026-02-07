@@ -1,0 +1,46 @@
+title: Satellite
+other_names:
+  - Satellite + We Work Out
+parent: null
+description: |
+  A platform for deploying smart contracts linked to third party app data (first up, Strava). Like Zapier, but for Soroban.
+links:
+  website:
+    - getsatellite.io
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/SpaceboatDVLP/hello-soroban
+attributes:
+  category: Developer Tooling
+  tags:
+    - API
+    - SDK
+    - Art
+    - Oracle
+    - Payments
+    - Automation
+    - Web
+    - Mobile
+  operating_region: []
+  based_in: United States
+scf:
+  awarded_total: 100210
+  awarded_round:
+    - 20
+    - 24
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec19jhYls3BBJx9H
+    - https://communityfund.stellar.org/dashboard/submissions/recmo7OFBROky1vev
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

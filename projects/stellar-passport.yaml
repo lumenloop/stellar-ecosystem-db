@@ -1,0 +1,36 @@
+title: Stellar Passport
+other_names: null
+parent: null
+description: |
+  Stellar Passport transforms event attendance and community activity into meaningful, long-term engagement with the Stellar ecosystem. With a single QR scan at a booth, workshop, meetup, or online event, users create a passkey-secured wallet and identity in seconds. From there, they can move through curated challenges, workshops, or learning tracks that verify their participation and track their progress.
+links:
+  website:
+    - stellarpassport.xyz
+  blog: []
+  x:
+    - stellarpassport
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - United States
+  based_in: United States
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 40
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recNtjEdsDndBoRBD
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

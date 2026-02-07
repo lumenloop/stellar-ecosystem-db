@@ -1,0 +1,46 @@
+title: Spatium
+other_names:
+  - Spatium Wallet
+parent: null
+description: |
+  Spatium offers an open-source Web3 Wallet Builder for businesses which allows to break barriers for mass adoption
+links:
+  website:
+    - spatium.net
+  blog:
+    - spatium.net/blog
+  x:
+    - spatium_news
+  linkedin:
+    - linkedin.com/company/spatium-capital
+  discord:
+    - discord.gg/24Tucz5rFc
+  telegram:
+    - t.me/SpatiumWallet_Bot
+  youtube:
+    - youtube.com/channel/UCiw3jQd5-V3IB12zAJV-heA
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags:
+    - Software Wallet
+    - Multi-Chain
+  operating_region:
+    - United States
+  based_in: Kazakhstan
+scf:
+  awarded_total: 183200
+  awarded_round:
+    - 13
+    - 22
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recKUYCRQLT6Vq3Pj
+    - https://communityfund.stellar.org/dashboard/submissions/recZ46kabInkWZT9Q
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

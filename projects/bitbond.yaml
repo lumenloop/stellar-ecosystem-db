@@ -1,0 +1,34 @@
+title: Bitbond
+other_names: null
+parent: null
+description: Bitbond is a fintech platform that facilitates the issuance of tokenized securities and offers a Stellar-based token creation tool on Soroban. It incorporates regulatory and compliance features to streamline global digital asset issuance.
+links:
+  website:
+    - bitbond.com
+  blog:
+    - bitbond.com/resources
+  x:
+    - bitbond
+  linkedin:
+    - linkedin.com/company/bitbond
+  discord: []
+  telegram:
+    - t.me/TokenToolBitbond
+  youtube:
+    - youtube.com/c/BitbondNet
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/bitbond
+attributes:
+  category: null
+  tags: []
+  operating_region: []
+  based_in: null
+scf: null
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

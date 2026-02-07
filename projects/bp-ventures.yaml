@@ -1,0 +1,47 @@
+title: BP Ventures
+other_names:
+  - BPV StellarMesh Anchor
+parent: null
+description: |
+  BP Ventures, a trusted, longtime Stellar integration partner, Stellar validator, and Circle Alliance member, proposes connecting Mesh—a leading aggregator of 300+ crypto exchanges—via our Anchor solution to the Stellar network.  This integration enables seamless funding of Stellar wallets using the Mesh API, allowing users to transact directly from their exchange accounts without leaving their wallets, leveraging SEP-24 and other Stellar protocols.  Leading Stellar wallets such as MoneyGram, Lobstr, Decaf, and Freedom Pay Wallet will benefit by enabling instant onboarding and transaction execution without additional development.  Using Mesh as an anchor, Stellar wallets can enable users to buy RWA, fund MoneyGram payments, or donate to charities effortlessly.  Our project taps into a combined user base of over 170 million active users across major crypto exchanges integrated via Mesh.  This connectivity provides Stellar wallets with unprecedented access to liquidity and on/off ramp services globally, unlocking significant growth and ecosystem expansion opportunities.  As Stellar targets $3 billion in RWA tokenizations by end-2025—up from $290 million earlier this year—this integration will accelerate ecosystem growth through scalable cross-exchange onboarding powered by Mesh’s proven API infrastructure, simplifying digital asset participation and driving Stellar’s expanding impact, benefiting the entire Stellar community.
+links:
+  website:
+    - bpventures.us
+  blog:
+    - bpventures.us/blog
+  x:
+    - bpv_us
+  linkedin:
+    - linkedin.com/company/bpventures
+  discord: []
+  telegram: []
+  youtube:
+    - youtube.com/@bpventures
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/bp-ventures
+    - github.com/bp-ventures/django-polaris-bpv  https://github.com/bp-ventures/retail-wallet  https://github.com/bp-ventures/stcli
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Wallet Infra
+  operating_region:
+    - Latin America & Caribbean
+    - Sub-Saharan Africa
+    - Europe & Central Asia
+    - North America (without Mexico)
+  based_in: France
+scf:
+  awarded_total: 150000
+  awarded_round:
+    - 10
+    - 40
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/rec1UP0te2eVEQ6o0
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

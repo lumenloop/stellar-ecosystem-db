@@ -1,0 +1,42 @@
+title: Interstellar
+other_names:
+  - The Interstellar Platform
+parent: null
+description: Interstellar is a non-custodial wallet and decentralized exchange.Interstellar is a non-custodial wallet and decentralized exchange.
+links:
+  website:
+    - interstellar.exchange
+    - galactictalk.org/d/2412-the-interstellar-platform
+  blog:
+    - medium.com/@fintechcm
+  x:
+    - interstellardex
+  linkedin: []
+  discord: []
+  telegram:
+    - t.me/interStellardex
+  youtube:
+    - youtube.com/channel/UCVqDnG5PpP8WcCqY2-hoC7w/videos
+  instagram: []
+  reddit:
+    - u/interstellar_support
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/interstellartech
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - Nigeria
+  based_in: null
+scf:
+  awarded_total: 44868.2
+  awarded_round:
+    - 5
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recxPA89AEpKyJpcP
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

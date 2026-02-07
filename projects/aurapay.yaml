@@ -1,0 +1,40 @@
+title: AuraPay
+other_names: null
+parent: null
+description: |
+  A licensed Fintech company in Europe allowing Latin Americans to send money back home.
+links:
+  website:
+    - somosaurapay.com
+  blog: []
+  x:
+    - somosaurapay
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram:
+    - somosaurapay
+  reddit: []
+  tiktok:
+    - aurapay
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - Madrid
+  based_in: Spain
+scf:
+  awarded_total: 120300
+  awarded_round:
+    - 20
+    - 23
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recjKlTlDgoV5dgAr
+    - https://communityfund.stellar.org/dashboard/submissions/recziPrVKcJ52HPDT
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,52 @@
+title: SocketFi
+other_names: null
+parent: null
+description: |
+  SocketFi is a smart wallet and one-stop dApp built on the Stellar Lumen ecosystem and Soroban Blockchain. Designed to seamlessly connect millions of social media users to Web3, it provides access to hundreds of dApps and Web3 tools—all in one place.
+links:
+  website:
+    - socket.fi
+    - app.socket.fi
+  blog: []
+  x:
+    - socket_fi
+  linkedin: []
+  discord: []
+  telegram:
+    - t.me/SocketFi
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Socket-Fi
+attributes:
+  category: Applications
+  tags:
+    - Mobile
+    - Web
+    - SDK
+    - Social
+    - Wallet Infra
+    - Ecosystem Discovery
+    - Payments
+    - Security
+    - ZK Proofs
+    - DeFi
+  operating_region:
+    - North America (without Mexico)
+    - Middle East & North Africa
+    - Sub-Saharan Africa
+    - Europe & Central Asia
+  based_in: United States
+scf:
+  awarded_total: 88200
+  awarded_round:
+    - 32
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recs9qGnchF6Ealxu
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

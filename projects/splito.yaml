@@ -1,0 +1,38 @@
+title: Splito
+other_names: null
+parent: null
+description: |
+  Making Crypto feel like Money
+links:
+  website:
+    - splito.io
+  blog: []
+  x:
+    - splitodotio
+  linkedin:
+    - linkedin.com/company/splitoio
+  discord:
+    - discord.gg/GGGB6kyQbE
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Splitoio
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - India
+  based_in: India
+scf:
+  awarded_total: 50000
+  awarded_round:
+    - 40
+  submission_urls: []
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

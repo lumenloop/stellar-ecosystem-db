@@ -1,0 +1,34 @@
+title: Stellar Update
+other_names: null
+parent: null
+description: |
+  Dedicated Blog about everything Stellar
+links:
+  website:
+    - StellarUpdate.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Education & Community
+  tags: []
+  operating_region: []
+  based_in: null
+scf:
+  awarded_total: 56319.82
+  awarded_round:
+    - 5
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recZNvq8ujTrxpxgJ
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

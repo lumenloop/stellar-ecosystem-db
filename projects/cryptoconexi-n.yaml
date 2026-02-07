@@ -1,0 +1,40 @@
+title: Cryptoconexión
+other_names: null
+parent: null
+description: |
+  A structured educational program in Spanish and Portuguese to engage developers interested in Stellar and Soroban.
+links:
+  website:
+    - cryptoconexion.com/stellar-edu
+  blog: []
+  x:
+    - cryptoconexion
+  linkedin:
+    - linkedin.com/company/cryptoconexion/posts/?feedView=all
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/cryptoconexion
+attributes:
+  category: Education & Community
+  tags:
+    - Workshops
+    - Community
+  operating_region:
+    - Latin America & Caribbean
+  based_in: United States
+scf:
+  awarded_total: 15000
+  awarded_round:
+    - 25
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recXsnxgpZH5CqxAF
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

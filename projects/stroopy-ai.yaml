@@ -1,0 +1,43 @@
+title: Stroopy.AI
+other_names: null
+parent: null
+description: |
+  Smart AI assistant for the Stellar community. Designed to help users navigate across the Stellar ecosystem with ease, 24/7.&nbsp;
+links:
+  website:
+    - stroopy.ai
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Developer Tooling
+  tags:
+    - AI
+    - Social
+    - Ecosystem Discovery
+    - Community
+    - Analytics
+    - API
+    - SDK
+    - Automation
+    - Identity
+  operating_region: []
+  based_in: Canada
+scf:
+  awarded_total: 21370
+  awarded_round:
+    - 20
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recrI2qG6eVcHi3MA
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

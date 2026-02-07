@@ -1,0 +1,46 @@
+title: Every Finance
+other_names:
+  - Every.finance
+parent: null
+description: |
+  Offers decentralized ETFs to help crypto investors on Stellar to optimize yields and manage risk with automated portfolio rebalancing and yield strategies.
+links:
+  website:
+    - every.finance
+  blog:
+    - medium.com/@everyfinance
+  x:
+    - every_finance
+  linkedin:
+    - linkedin.com/company/everyfinance
+    - linkedin.com/company/everyfinance/posts/?feedView=all
+  discord:
+    - discord.gg/wWse3bkNVZ
+  telegram:
+    - t.me/everyfinance
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/EveryFinance
+    - github.com/Frihat-dev/every_finance
+attributes:
+  category: Financial Protocols
+  tags:
+    - Derivatives
+    - DeFi
+  operating_region:
+    - Europe & Central Asia
+  based_in: France
+scf:
+  awarded_total: 140000
+  awarded_round:
+    - 30
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/reck82uQhTmQhx8Yr
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

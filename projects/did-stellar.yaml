@@ -1,0 +1,39 @@
+title: DID:STELLAR
+other_names: null
+parent: null
+description: |
+  Decentralized Identity using W3C DIDs.
+links:
+  website:
+    - mavennet.com
+  blog:
+    - medium.com/mavennet
+  x:
+    - mavennet_
+  linkedin:
+    - linkedin.com/company/mavennet
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Mavennet/stellar-did
+attributes:
+  category: Infrastructure & Services
+  tags: []
+  operating_region:
+    - United States
+  based_in: null
+scf:
+  awarded_total: 117100
+  awarded_round:
+    - 16
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recxXHFIFQhxfnIVp
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

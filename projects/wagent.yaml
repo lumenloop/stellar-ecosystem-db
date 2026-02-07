@@ -1,0 +1,42 @@
+title: Wagent
+other_names: null
+parent: luanlabs
+description: |
+  Offers merchants effortless reception and management of crypto payments and easy checkout for the buyers.
+links:
+  website:
+    - wagent.app
+  blog: []
+  x:
+    - wagentofficial
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/luanlabs/wagent-payment
+    - github.com/luanlabs
+attributes:
+  category: Applications
+  tags:
+    - Payment Gateway
+    - Merchant
+    - Plugin
+    - Cross-Border Payments
+  operating_region:
+    - Sweden
+  based_in: Turkey
+scf:
+  awarded_total: 43400
+  awarded_round:
+    - 26
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recyhHu5bchmieL0C
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

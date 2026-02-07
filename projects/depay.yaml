@@ -1,0 +1,43 @@
+title: Depay
+other_names: null
+parent: null
+description: |
+  Enabling crypto payments in inflation-hit economies, connecting consumers and merchants via Stellar, hassle-free.
+links:
+  website:
+    - depayapp.com
+  blog: []
+  x:
+    - depay
+  linkedin:
+    - linkedin.com/company/depay-us
+  discord: []
+  telegram: []
+  youtube:
+    - youtube.com/channel/UCE0pVQzKSWymTTBvwVylzwQ
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags:
+    - Payments
+    - Merchant
+    - API
+    - Infrastructure
+    - Cross-Border Payments
+  operating_region:
+    - Switzerland
+  based_in: Argentina
+scf:
+  awarded_total: 42500
+  awarded_round:
+    - 24
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recQhWya5YInPvM1U
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

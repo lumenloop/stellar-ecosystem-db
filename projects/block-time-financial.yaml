@@ -1,0 +1,53 @@
+title: Block Time Financial
+other_names:
+  - Soroban Smart Option Contract
+parent: null
+description: |
+  The BTF Soroban Smart Option contract is a limited-risk option contract to facilitate an OTC bi-lateral trade with collateral.
+links:
+  website:
+    - blocktimefinancial.com
+    - github.com/blocktimefinancial/option
+  blog: []
+  x:
+    - blocktimefin
+    - 'https:'
+  linkedin: []
+  discord:
+    - discord.com/channels/1039603107396603965/1039603108034129922
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/blocktimefinancial/option
+attributes:
+  category: Developer Tooling
+  tags:
+    - Trading
+    - Collateral
+    - Art
+    - Infrastructure
+    - KYC
+    - Identity
+    - Liquidity
+    - Payments
+    - Ecosystem Discovery
+    - Governance
+  operating_region:
+    - United States
+  based_in: United States
+scf:
+  awarded_total: 61500
+  awarded_round:
+    - 14
+    - 15
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recZCNsXQQM03va9Q
+    - https://communityfund.stellar.org/dashboard/submissions/recm80YHqumL7qKsJ
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

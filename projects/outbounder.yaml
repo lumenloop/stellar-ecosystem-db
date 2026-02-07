@@ -1,0 +1,45 @@
+title: Outbounder
+other_names: null
+parent: null
+description: |
+  Outbounder is a platform for business and humanitarian organizations to access the Stellar anchor network. Outbounder also allows organizations to create automated payment schedules, including on-ramping, cross border payments, currency exchanging, and off-ramping. 
+links:
+  website:
+    - outbounder.xyz
+  blog: []
+  x: []
+  linkedin:
+    - linkedin.com/in/amrith-srinivas-8a4b06262
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/tryoutbounder/anchor-go
+attributes:
+  category: Applications
+  tags:
+    - Anchor
+    - Cross-Border Payments
+    - On-Off Ramp
+    - Payments
+    - Payroll
+    - Aid
+    - USD
+    - EUR
+  operating_region:
+    - North America (without Mexico)
+  based_in: United States
+scf:
+  awarded_total: 38000
+  awarded_round:
+    - 33
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recCdH1be0EVloiFQ
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

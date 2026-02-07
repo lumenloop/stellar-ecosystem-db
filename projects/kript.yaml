@@ -1,0 +1,49 @@
+title: Kript
+other_names: null
+parent: null
+description: |
+  Kript is crypto payments API infrastructure for merchants and businesses
+links:
+  website:
+    - kriptup.io
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags:
+    - Payment Gateway
+    - Cross-Border Payments
+    - Merchant
+    - Mobile
+    - Analytics
+    - Security
+    - KYC
+    - API
+    - Infrastructure
+    - Africa
+    - USD
+  operating_region:
+    - Sub-Saharan Africa
+    - Latin America & Caribbean
+  based_in: Nigeria
+scf:
+  awarded_total: 112000
+  awarded_round:
+    - 27
+    - 32
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recBZAaKA8fjdstQa
+    - https://communityfund.stellar.org/dashboard/submissions/recaBi8lclJ5h3YgH
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

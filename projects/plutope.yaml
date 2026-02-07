@@ -1,0 +1,56 @@
+title: Plutope
+other_names:
+  - Plutope Merchant App
+parent: null
+description: |
+  Get paid for everything in crypto as easy as fiat
+links:
+  website:
+    - plutope.io
+    - plutopemerchant.com
+  blog:
+    - plutope.io/blogs
+  x:
+    - plutopeio
+  linkedin:
+    - linkedin.com/company/plutope
+  discord:
+    - discord.gg/yXgfQ8Kpwn
+  telegram:
+    - t.me/plutopeglobal
+  youtube: []
+  instagram:
+    - plutope
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/PlutopeIn/Plutope-Merchant-Stellar
+attributes:
+  category: Applications
+  tags:
+    - Merchant
+    - Payment Gateway
+    - Cross-Border Payments
+    - Multi-Chain
+    - Wallet Infra
+    - DeFi
+    - Europe
+    - USD
+    - EUR
+    - India
+  operating_region:
+    - East Asia & Pacific
+    - Europe & Central Asia
+    - Middle East & North Africa
+  based_in: India
+scf:
+  awarded_total: 33400
+  awarded_round:
+    - 27
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recBM684vOLrr3TnL
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

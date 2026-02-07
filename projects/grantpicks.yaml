@@ -1,0 +1,46 @@
+title: GrantPicks
+other_names:
+  - GrantPicks by PotLock
+parent: null
+description: |
+  GrantPicks by Potlock is a Soroban-enabled funding platform using pairwise voting to easily allocate grants to Stellar projects.
+links:
+  website:
+    - stellar.grantpicks.com
+    - potlock.org -> soon https://stellar.grantpicks.com
+  blog:
+    - blog.potlock.org
+  x:
+    - potlock_
+  linkedin:
+    - linkedin.com/company/potlock
+  discord: []
+  telegram:
+    - t.me/+27V0rWUiq5liZmIx
+  youtube:
+    - yotube.com/@potlock
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/PotLock/grantpicks-stellar
+    - github.com/potlock/grantpicks
+attributes:
+  category: Applications
+  tags:
+    - Funding Allocation
+    - Ecosystem Discovery
+  operating_region:
+    - Africa
+  based_in: United States
+scf:
+  awarded_total: 50000
+  awarded_round:
+    - 27
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recd8I7PUKkkPIO6d
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,34 @@
+title: Rigel
+other_names: null
+parent: null
+description: |
+  Monetize Links for Payments and Donations in Seconds Stellar
+links:
+  website:
+    - rigel.link
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+scf:
+  awarded_total: 14101.43
+  awarded_round:
+    - 5
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recHn7buQXsekeDpI
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

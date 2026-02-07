@@ -1,0 +1,43 @@
+title: Goldsky
+other_names: null
+parent: null
+description: |
+  Offering builders access to real-time, high-performance Stellar data indexing and to a CC0-licensed public good dataset
+links:
+  website:
+    - goldsky.com
+  blog:
+    - goldsky.com/blog
+  x:
+    - goldskyio
+  linkedin:
+    - linkedin.com/company/goldsky-io
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/indexed-xyz/docs
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - API
+    - Database
+    - Analytics
+    - Multi-Chain
+  operating_region:
+    - United States
+  based_in: Canada
+scf:
+  awarded_total: 128000
+  awarded_round:
+    - 19
+  submission_urls:
+    - https://communityfund.stellar.org/dashboard/submissions/recnHUE6Wv5qJbloO
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []
