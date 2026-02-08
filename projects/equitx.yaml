@@ -40,4 +40,8 @@ scf:
 mainnet:
   tokens: []
   contracts: []
-  audits: []
+  audits:
+    - name: EquitX - Security Audit Report
+      url: sorobansecurity.com/report/55
+      date: '2025-11-16T23:00:00Z'
+      auditor: Runtime Verification

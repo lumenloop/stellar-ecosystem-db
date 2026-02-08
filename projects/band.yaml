@@ -46,4 +46,8 @@ scf:
 mainnet:
   tokens: []
   contracts: []
-  audits: []
+  audits:
+    - name: 'Band Protocol: Soroban - Band Standard Reference Contract'
+      url: sorobansecurity.com/report/8
+      date: '2024-02-18T15:00:00Z'
+      auditor: Runtime Verification

@@ -47,4 +47,8 @@ scf:
 mainnet:
   tokens: []
   contracts: []
-  audits: []
+  audits:
+    - name: Security Audit Report TokenOps
+      url: sorobansecurity.com/report/30
+      date: '2025-03-24T15:00:00Z'
+      auditor: Runtime Verification

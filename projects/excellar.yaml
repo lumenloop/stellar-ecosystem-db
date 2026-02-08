@@ -45,4 +45,8 @@ scf:
 mainnet:
   tokens: []
   contracts: []
-  audits: []
+  audits:
+    - name: Excellar Audit
+      url: sorobansecurity.com/report/17
+      date: '2024-04-29T15:00:00Z'
+      auditor: CoinFabrik

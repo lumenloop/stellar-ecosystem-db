@@ -44,4 +44,8 @@ scf:
 mainnet:
   tokens: []
   contracts: []
-  audits: []
+  audits:
+    - name: Veridise Auditing Report for Untangled Finance
+      url: sorobansecurity.com/report/47
+      date: '2025-05-21T15:00:00Z'
+      auditor: Veridise

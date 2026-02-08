@@ -34,4 +34,8 @@ scf:
 mainnet:
   tokens: []
   contracts: []
-  audits: []
+  audits:
+    - name: Security Audit Report for StellarBroker
+      url: sorobansecurity.com/report/46
+      date: '2025-04-27T15:00:00Z'
+      auditor: Runtime Verification

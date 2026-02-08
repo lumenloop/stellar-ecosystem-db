@@ -40,4 +40,8 @@ scf:
 mainnet:
   tokens: []
   contracts: []
-  audits: []
+  audits:
+    - name: 'Lydia Labs: HiYield '
+      url: sorobansecurity.com/report/67
+      date: '2024-05-29T04:25:14.084Z'
+      auditor: Veridise

@@ -39,4 +39,8 @@ scf:
 mainnet:
   tokens: []
   contracts: []
-  audits: []
+  audits:
+    - name: Soroban Governor Security Assessment
+      url: sorobansecurity.com/report/25
+      date: '2024-07-03T15:00:00Z'
+      auditor: OtterSec

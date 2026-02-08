@@ -43,4 +43,8 @@ scf:
 mainnet:
   tokens: []
   contracts: []
-  audits: []
+  audits:
+    - name: 'Veridise Audit Report: OrbitCDP '
+      url: sorobansecurity.com/report/20
+      date: '2024-12-25T15:00:00Z'
+      auditor: Veridise

@@ -42,4 +42,8 @@ scf:
 mainnet:
   tokens: []
   contracts: []
-  audits: []
+  audits:
+    - name: BondHive Audit
+      url: sorobansecurity.com/report/12
+      date: '2024-09-29T15:00:00Z'
+      auditor: CoinFabrik

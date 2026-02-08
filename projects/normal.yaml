@@ -43,4 +43,8 @@ scf:
 mainnet:
   tokens: []
   contracts: []
-  audits: []
+  audits:
+    - name: Stellar AMM - Normal Finance
+      url: sorobansecurity.com/report/48
+      date: '2025-08-14T15:00:00Z'
+      auditor: Halborn

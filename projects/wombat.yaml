@@ -41,4 +41,8 @@ scf:
 mainnet:
   tokens: []
   contracts: []
-  audits: []
+  audits:
+    - name: Auditing Report for Wombat-Exchange
+      url: sorobansecurity.com/report/32
+      date: '2024-12-23T15:00:00Z'
+      auditor: Veridise

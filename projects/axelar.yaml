@@ -30,4 +30,8 @@ scf: null
 mainnet:
   tokens: []
   contracts: []
-  audits: []
+  audits:
+    - name: Axelar Stellar Security Assessment
+      url: sorobansecurity.com/report/45
+      date: '2025-04-08T15:00:00Z'
+      auditor: OtterSec

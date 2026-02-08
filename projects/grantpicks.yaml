@@ -43,4 +43,8 @@ scf:
 mainnet:
   tokens: []
   contracts: []
-  audits: []
+  audits:
+    - name: Veridise Auditing Report for GrantPicks
+      url: sorobansecurity.com/report/44
+      date: '2025-04-29T15:00:00Z'
+      auditor: Veridise

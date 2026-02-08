@@ -30,4 +30,8 @@ scf: null
 mainnet:
   tokens: []
   contracts: []
-  audits: []
+  audits:
+    - name: Security Assessment Report Cables Finance
+      url: sorobansecurity.com/report/50
+      date: '2024-04-09T15:00:00Z'
+      auditor: certora

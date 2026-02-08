@@ -37,4 +37,8 @@ scf:
 mainnet:
   tokens: []
   contracts: []
-  audits: []
+  audits:
+    - name: Soroban Source Code Audit - Tricorn Bridge
+      url: sorobansecurity.com/report/31
+      date: '2024-07-24T15:00:00Z'
+      auditor: Сoinspect
