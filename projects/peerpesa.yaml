@@ -42,7 +42,7 @@ scf:
   awarded_round:
     - 33
   submission_urls:
-    - https://communityfund.stellar.org/dashboard/submissions/recj3q75Rnnn3ahfb
+    - communityfund.stellar.org/submissions/recj3q75Rnnn3ahfb
 mainnet:
   tokens: []
   contracts: []

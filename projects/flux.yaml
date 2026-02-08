@@ -35,7 +35,7 @@ scf:
   awarded_round:
     - 22
   submission_urls:
-    - https://communityfund.stellar.org/dashboard/submissions/recKRR940Gb200ZlO
+    - communityfund.stellar.org/submissions/recKRR940Gb200ZlO
 mainnet:
   tokens: []
   contracts: []

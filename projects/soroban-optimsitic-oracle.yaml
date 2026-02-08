@@ -20,6 +20,7 @@ links:
   github:
     - github.com/stackman27/soroban-opt-oracle
     - github.com/stackman27/SOO
+    - github.com/stackman27/SOO (private repo, can share if needed)
 attributes:
   category: Applications
   tags:
@@ -34,10 +35,8 @@ attributes:
   based_in: United States
 scf:
   awarded_total: 30000
-  awarded_round:
-    - 33
-  submission_urls:
-    - https://communityfund.stellar.org/dashboard/submissions/recP2KIZz7r2yBrkG
+  awarded_round: []
+  submission_urls: []
 mainnet:
   tokens: []
   contracts: []

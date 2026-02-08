@@ -39,12 +39,8 @@ attributes:
   based_in: Kenya
 scf:
   awarded_total: 145000
-  awarded_round:
-    - 22
-    - 26
-  submission_urls:
-    - https://communityfund.stellar.org/dashboard/submissions/recUT585587cLfVlX
-    - https://communityfund.stellar.org/dashboard/submissions/recQmFbAAi5u83EE5
+  awarded_round: []
+  submission_urls: []
 mainnet:
   tokens: []
   contracts: []

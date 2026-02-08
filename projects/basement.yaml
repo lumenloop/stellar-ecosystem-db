@@ -31,7 +31,8 @@ scf:
   awarded_total: 12130
   awarded_round:
     - 17
-  submission_urls: []
+  submission_urls:
+    - communityfund.stellar.org/submissions/reckUpTGpkrfpxLT0
 mainnet:
   tokens: []
   contracts: []

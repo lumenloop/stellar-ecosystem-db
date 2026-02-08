@@ -35,11 +35,13 @@ attributes:
 scf:
   awarded_total: 200000
   awarded_round:
-    - 25
     - 31
     - 35
+    - Liquidity Award - '25 Q4
   submission_urls:
-    - https://communityfund.stellar.org/dashboard/submissions/rec1aqc0VAiLYnxnM
+    - communityfund.stellar.org/submissions/rec1aqc0VAiLYnxnM
+    - communityfund.stellar.org/submissions/rec0UnKSTGMPPkCYJ
+    - communityfund.stellar.org/submissions/recmkinSEoCU712Jo
 mainnet:
   tokens: []
   contracts: []

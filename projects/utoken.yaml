@@ -44,11 +44,8 @@ attributes:
   based_in: Nigeria
 scf:
   awarded_total: 59979
-  awarded_round:
-    - 28
-    - 35
-  submission_urls:
-    - https://communityfund.stellar.org/dashboard/submissions/rechwhwWyyUgGgDlC
+  awarded_round: []
+  submission_urls: []
 mainnet:
   tokens: []
   contracts: []

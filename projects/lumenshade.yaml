@@ -30,7 +30,8 @@ scf:
   awarded_total: 135000
   awarded_round:
     - 37
-  submission_urls: []
+  submission_urls:
+    - communityfund.stellar.org/submissions/recK30XDY8nKSGFL7
 mainnet:
   tokens: []
   contracts: []

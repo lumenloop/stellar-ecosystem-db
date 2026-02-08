@@ -33,13 +33,14 @@ scf:
     - 21
     - 21
     - 25
-    - 25
     - 29
+    - Liquidity Award - '25 Q2
   submission_urls:
-    - https://communityfund.stellar.org/dashboard/submissions/recb8O4gXWaS4RsaM
-    - https://communityfund.stellar.org/dashboard/submissions/rec5F9VZMtI9VazK9
-    - https://communityfund.stellar.org/dashboard/submissions/recAH1SPekMp9LIYX
-    - https://communityfund.stellar.org/dashboard/submissions/recgGLPg9l5ZoIcL5
+    - communityfund.stellar.org/submissions/recb8O4gXWaS4RsaM
+    - communityfund.stellar.org/submissions/rec5F9VZMtI9VazK9
+    - communityfund.stellar.org/submissions/recAH1SPekMp9LIYX
+    - communityfund.stellar.org/submissions/recgGLPg9l5ZoIcL5
+    - communityfund.stellar.org/submissions/recdC0QovtR9jgTIS
 mainnet:
   tokens: []
   contracts: []

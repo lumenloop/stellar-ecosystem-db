@@ -29,8 +29,7 @@ attributes:
   based_in: Netherlands Antilles
 scf:
   awarded_total: 0
-  awarded_round:
-    - 10
+  awarded_round: []
   submission_urls: []
 mainnet:
   tokens: []

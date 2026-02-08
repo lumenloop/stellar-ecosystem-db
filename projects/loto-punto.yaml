@@ -39,8 +39,7 @@ attributes:
   based_in: Colombia
 scf:
   awarded_total: 75975
-  awarded_round:
-    - 34
+  awarded_round: []
   submission_urls: []
 mainnet:
   tokens: []

@@ -30,10 +30,8 @@ attributes:
   based_in: Turkey
 scf:
   awarded_total: 35000
-  awarded_round:
-    - 29
-  submission_urls:
-    - https://communityfund.stellar.org/dashboard/submissions/recR4ULg6RudZEquX
+  awarded_round: []
+  submission_urls: []
 mainnet:
   tokens: []
   contracts: []

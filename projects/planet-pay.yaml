@@ -33,8 +33,8 @@ scf:
     - 14
     - 21
   submission_urls:
-    - https://communityfund.stellar.org/dashboard/submissions/rec6OemBgG8xOkFk1
-    - https://communityfund.stellar.org/dashboard/submissions/reckrr0bqgDyL0AX8
+    - communityfund.stellar.org/submissions/rec6OemBgG8xOkFk1
+    - communityfund.stellar.org/submissions/reckrr0bqgDyL0AX8
 mainnet:
   tokens: []
   contracts: []

@@ -26,8 +26,7 @@ attributes:
   based_in: France
 scf:
   awarded_total: 74000
-  awarded_round:
-    - 36
+  awarded_round: []
   submission_urls: []
 mainnet:
   tokens: []

@@ -37,10 +37,8 @@ attributes:
   based_in: Philippines
 scf:
   awarded_total: 72500
-  awarded_round:
-    - 32
-  submission_urls:
-    - https://communityfund.stellar.org/dashboard/submissions/rec350A9UiLypplJB
+  awarded_round: []
+  submission_urls: []
 mainnet:
   tokens: []
   contracts: []

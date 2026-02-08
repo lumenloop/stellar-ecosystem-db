@@ -31,12 +31,13 @@ attributes:
 scf:
   awarded_total: 240635
   awarded_round:
-    - 1
     - 19
     - 23
+    - SCF Public Goods - Q1 '26
   submission_urls:
-    - https://communityfund.stellar.org/dashboard/submissions/receYuwM1ucRK5MB2
-    - https://communityfund.stellar.org/dashboard/submissions/recKACcbgfiocc06L
+    - communityfund.stellar.org/submissions/receYuwM1ucRK5MB2
+    - communityfund.stellar.org/submissions/recKACcbgfiocc06L
+    - communityfund.stellar.org/submissions/rec0i3Zs35RSzaUz4
 mainnet:
   tokens: []
   contracts: []

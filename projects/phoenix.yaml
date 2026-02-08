@@ -34,13 +34,13 @@ scf:
   awarded_round:
     - 16
     - 20
-    - 24
     - 25
+    - Liquidity Award - '24 Q1
   submission_urls:
-    - https://communityfund.stellar.org/dashboard/submissions/recLOzDpEMgJWDbTe
-    - https://communityfund.stellar.org/dashboard/submissions/recyJLOWkdnsGtimI
-    - https://communityfund.stellar.org/dashboard/submissions/recI6IVWB26SsKBbx
-    - https://communityfund.stellar.org/dashboard/submissions/recW43Bu8M9c0Mb0p
+    - communityfund.stellar.org/submissions/recLOzDpEMgJWDbTe
+    - communityfund.stellar.org/submissions/recyJLOWkdnsGtimI
+    - communityfund.stellar.org/submissions/recI6IVWB26SsKBbx
+    - communityfund.stellar.org/submissions/recW43Bu8M9c0Mb0p
 mainnet:
   tokens: []
   contracts: []

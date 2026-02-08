@@ -28,8 +28,7 @@ attributes:
   based_in: United Kingdom
 scf:
   awarded_total: 139600
-  awarded_round:
-    - 40
+  awarded_round: []
   submission_urls: []
 mainnet:
   tokens: []

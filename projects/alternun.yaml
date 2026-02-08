@@ -2,7 +2,7 @@ title: ALTERNUN
 other_names: null
 parent: null
 description: |
-  we regenerate the environment Using unmined Gold reserves as collateral Increasing value production through digital exploitation.
+  Redefine gold as a force for good preserving wealth while regenerating the planet. ALTERNUN envisions a future where certified, unmined gold resources secure value for investors and fuel community led restoration projects.  Objectives:  Inflation Protection: Deliver a liquid, gold-backed digital asset (GBT) that retains purchasing power against rising prices.  Environmental Stewardship: Keep gold underground to eliminate mining’s carbon footprint and ecological damage.  Ecosystem Engagement: Enable GBT holders to propose, vote on, and support regenerative initiatives, sharing in both social impact and financial upside.  Decentralized Governance: Empower ATN token stakeholders to steer protocol evolution, treasury allocation, and project selection through a transparent DAO.  Technical Implementation  Tokenization of Resources: Leverage NI 43-101–certified gold resources as collateral to mint GBT on the Stellar blockchain.  Smart Contracts & MRV: Deploy Soroban smart contracts for minting, burning, staking, and on-chain Monitoring, Reporting, and Verification (MRV) of funded projects.  Treasury & Rewards: Channel minting fees and transaction revenues into a decentralized treasury; distribute ATN rewards to participants and allocate funds to vetted regenerative programs.  DAO Framework: Use ATN governance tokens for proposal submission, quorum-based voting, and dynamic parameter adjustments—ensuring community ownership and protocol resilience.
 links:
   website:
     - alternun.io
@@ -25,17 +25,15 @@ links:
   github:
     - github.com/alternun-development
 attributes:
-  category: Financial Protocols
+  category: Applications
   tags: []
   operating_region:
-    - United States
+    - Latin America & Caribbean
   based_in: Colombia
 scf:
   awarded_total: 32000
-  awarded_round:
-    - 27
-  submission_urls:
-    - https://communityfund.stellar.org/dashboard/submissions/recrYzhVM2zgQ76oy
+  awarded_round: []
+  submission_urls: []
 mainnet:
   tokens: []
   contracts: []

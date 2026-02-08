@@ -42,16 +42,19 @@ attributes:
 scf:
   awarded_total: 240000
   awarded_round:
-    - 1
-    - 3
-    - 4
     - 20
     - 23
     - 27
+    - SCF Public Goods - Q3 '25
+    - SCF Public Goods - Q4 '25
+    - SCF Public Goods - Q1 '26
   submission_urls:
-    - https://communityfund.stellar.org/dashboard/submissions/rec9qEUMQyHnfk1ln
-    - https://communityfund.stellar.org/dashboard/submissions/recPOG1QJ1ggXcygp
-    - https://communityfund.stellar.org/dashboard/submissions/reckierHxbkwUbx3s
+    - communityfund.stellar.org/submissions/rec9qEUMQyHnfk1ln
+    - communityfund.stellar.org/submissions/recPOG1QJ1ggXcygp
+    - communityfund.stellar.org/submissions/reckierHxbkwUbx3s
+    - communityfund.stellar.org/submissions/reckI3IOJ3WuGCDQR
+    - communityfund.stellar.org/submissions/reccVlz8v2H1wi423
+    - communityfund.stellar.org/submissions/recxCmbSSQoXqVZIO
 mainnet:
   tokens: []
   contracts: []
