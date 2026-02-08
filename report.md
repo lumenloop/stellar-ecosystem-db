@@ -33,6 +33,30 @@
 | operating_region | 361/646 | 55.9% |
 | based_in | 562/646 | 87% |
 
+## Enrichment vs SCF Airtable
+
+Comparing our **646** projects against **580** in SCF Airtable:
+
+| Field | SCF Airtable | Ours | Added |
+|-------|------:|------:|------:|
+| description | 555 | 644 | +89 |
+| website | 538 | 637 | +99 |
+| github | 387 | 475 | +88 |
+| x | 286 | 434 | +148 |
+| linkedin | 206 | 331 | +125 |
+| discord | 109 | 162 | +53 |
+| category | 580 | 571 | -9 |
+| tags | 337 | 332 | -5 |
+| operating_region | 262 | 361 | +99 |
+| based_in | 482 | 562 | +80 |
+| blog | 0 | 212 | +212 |
+| telegram | 0 | 86 | +86 |
+| youtube | 0 | 104 | +104 |
+| instagram | 0 | 109 | +109 |
+| reddit | 0 | 16 | +16 |
+| tiktok | 0 | 19 | +19 |
+| linktree | 0 | 4 | +4 |
+
 ## SCF Project Coverage
 
 Of **577** SCF-funded projects:
