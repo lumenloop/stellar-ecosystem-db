@@ -39,10 +39,10 @@ attributes:
 scf:
   awarded_total: 250000
   awarded_round:
-    - 25
-    - 30
     - 24
     - 25
+    - 25
+    - 30
   submission_urls:
     - https://communityfund.stellar.org/dashboard/submissions/recUhJNK7YD4XZNwm
     - https://communityfund.stellar.org/dashboard/submissions/recYuJFv6edLrh6Bk
