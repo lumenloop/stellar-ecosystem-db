@@ -29,7 +29,6 @@ attributes:
   tags: []
   operating_region: []
   based_in: null
-scf: null
 mainnet:
   tokens: []
   contracts: []
