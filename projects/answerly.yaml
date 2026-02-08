@@ -30,7 +30,7 @@ attributes:
     - Pakistan
   based_in: Pakistan
 scf:
-  awarded_total: 0
+  awarded_total: null
   awarded_round:
     - 9
   submission_urls:

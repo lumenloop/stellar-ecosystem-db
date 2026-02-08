@@ -38,7 +38,7 @@ attributes:
     - Kenya
   based_in: Kenya
 scf:
-  awarded_total: 145000
+  awarded_total: null
   awarded_round: []
   submission_urls: []
 mainnet:

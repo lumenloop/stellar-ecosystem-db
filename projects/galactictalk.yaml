@@ -23,7 +23,7 @@ attributes:
   operating_region: []
   based_in: United States
 scf:
-  awarded_total: 21509.98
+  awarded_total: null
   awarded_round:
     - 1
   submission_urls:

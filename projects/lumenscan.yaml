@@ -27,7 +27,7 @@ attributes:
     - Stellar Galaxy
   based_in: Stellar Galaxy
 scf:
-  awarded_total: 0
+  awarded_total: null
   awarded_round:
     - 4
   submission_urls:

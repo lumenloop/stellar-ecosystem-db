@@ -25,7 +25,7 @@ attributes:
     - earth
   based_in: earth
 scf:
-  awarded_total: 35717.93
+  awarded_total: null
   awarded_round:
     - 1
   submission_urls:

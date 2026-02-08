@@ -27,7 +27,7 @@ attributes:
     - Utting am Ammersee, Germany
   based_in: Utting am Ammersee, Germany
 scf:
-  awarded_total: 0
+  awarded_total: null
   awarded_round:
     - 3
   submission_urls:

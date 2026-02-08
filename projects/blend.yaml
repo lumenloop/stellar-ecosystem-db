@@ -25,7 +25,13 @@ attributes:
   category: null
   tags: []
   operating_region: []
-  based_in: null
+  based_in: United States
+scf:
+  awarded_total: 50000
+  awarded_round:
+    - Liquidity Award - '24 Q1
+  submission_urls:
+    - communityfund.stellar.org/submissions/recRSgNDEycVg2xG8
 mainnet:
   tokens: []
   contracts: []

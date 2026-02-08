@@ -26,7 +26,7 @@ attributes:
     - Korea
   based_in: Korea
 scf:
-  awarded_total: 0
+  awarded_total: null
   awarded_round:
     - 2
   submission_urls:

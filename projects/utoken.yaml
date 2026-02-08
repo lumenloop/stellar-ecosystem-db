@@ -43,7 +43,7 @@ attributes:
     - North America (without Mexico)
   based_in: Nigeria
 scf:
-  awarded_total: 59979
+  awarded_total: null
   awarded_round: []
   submission_urls: []
 mainnet:

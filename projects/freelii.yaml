@@ -36,7 +36,7 @@ attributes:
     - North America (without Mexico)
   based_in: Philippines
 scf:
-  awarded_total: 72500
+  awarded_total: null
   awarded_round: []
   submission_urls: []
 mainnet:

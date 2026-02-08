@@ -28,7 +28,7 @@ attributes:
     - Latin America & Caribbean
   based_in: Netherlands Antilles
 scf:
-  awarded_total: 0
+  awarded_total: null
   awarded_round: []
   submission_urls: []
 mainnet:

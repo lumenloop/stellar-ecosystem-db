@@ -35,7 +35,7 @@ attributes:
   operating_region: []
   based_in: Canada
 scf:
-  awarded_total: 150000
+  awarded_total: null
   awarded_round: []
   submission_urls: []
 mainnet:

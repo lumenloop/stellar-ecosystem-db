@@ -29,7 +29,7 @@ attributes:
     - United States
   based_in: United States
 scf:
-  awarded_total: 50000
+  awarded_total: null
   awarded_round: []
   submission_urls: []
 mainnet:
