@@ -35,24 +35,26 @@
 
 ## Enrichment vs SCF Airtable
 
-Comparing our **646** projects against **580** in SCF Airtable:
+Per-project comparison of our **646** projects (incl. **69** community projects not in SCF) against **580** in SCF Airtable:
 
-| Field | SCF Airtable | Ours | Added |
-|-------|------:|------:|------:|
-| description | 555 | 644 | +89 |
-| website | 538 | 637 | +99 |
-| github | 387 | 475 | +88 |
-| x | 286 | 434 | +148 |
-| linkedin | 206 | 331 | +125 |
-| discord | 109 | 162 | +53 |
-| based_in | 482 | 562 | +80 |
-| blog | 0 | 212 | +212 |
-| telegram | 0 | 86 | +86 |
-| youtube | 0 | 104 | +104 |
-| instagram | 0 | 109 | +109 |
-| reddit | 0 | 16 | +16 |
-| tiktok | 0 | 19 | +19 |
-| linktree | 0 | 4 | +4 |
+| Field | We Added | We Modified |
+|-------|------:|------:|
+| description | +97 | 547 |
+| website | +108 | 529 |
+| github | +98 | 377 |
+| x | +151 | 283 |
+| linkedin | +126 | 205 |
+| discord | +54 | 108 |
+| based_in | +88 | 474 |
+| blog | +212 | 0 |
+| telegram | +86 | 0 |
+| youtube | +104 | 0 |
+| instagram | +109 | 0 |
+| reddit | +16 | 0 |
+| tiktok | +19 | 0 |
+| linktree | +4 | 0 |
+
+*"Added" = we filled a field SCF didn't have. "Modified" = SCF had a value, we store a different one.*
 
 ## SCF Project Coverage
 
