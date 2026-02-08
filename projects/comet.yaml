@@ -36,4 +36,8 @@ scf:
 mainnet:
   tokens: []
   contracts: []
-  audits: []
+  audits:
+    - name: Comet Audit
+      url: sorobansecurity.com/report/14
+      date: '2024-01-14T15:00:00Z'
+      auditor: OtterSec

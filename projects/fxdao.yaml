@@ -41,4 +41,8 @@ scf:
 mainnet:
   tokens: []
   contracts: []
-  audits: []
+  audits:
+    - name: Security Audit Report FxDAO
+      url: sorobansecurity.com/report/18
+      date: '2024-05-16T15:00:00Z'
+      auditor: Runtime Verification

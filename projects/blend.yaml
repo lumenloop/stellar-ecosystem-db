@@ -29,4 +29,24 @@ scf: null
 mainnet:
   tokens: []
   contracts: []
-  audits: []
+  audits:
+    - name: Blend v2 - Formal Verification Draft v2 Report
+      url: sorobansecurity.com/report/51
+      date: '2025-05-31T15:00:00Z'
+      auditor: certora
+    - name: Security Assessment DRAFT v3 Report Blend v2
+      url: sorobansecurity.com/report/40
+      date: '2025-08-13T15:00:00Z'
+      auditor: certora
+    - name: Blend Smart Contract Security Assessment
+      url: sorobansecurity.com/report/38
+      date: '2025-08-12T15:00:00Z'
+      auditor: Code4rena
+    - name: Blend Security Assessment Report
+      url: sorobansecurity.com/report/9
+      date: '2023-12-31T15:00:00Z'
+      auditor: certora
+    - name: Blend Capital Security Assessment
+      url: sorobansecurity.com/report/1
+      date: '2024-02-28T15:00:00Z'
+      auditor: OtterSec

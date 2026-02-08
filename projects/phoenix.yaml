@@ -44,4 +44,8 @@ scf:
 mainnet:
   tokens: []
   contracts: []
-  audits: []
+  audits:
+    - name: Auditing Report Hardening Blockchain Security with Formal Methods for Phoenix DeFi Hub
+      url: sorobansecurity.com/report/21
+      date: '2024-05-02T15:00:00Z'
+      auditor: Veridise

@@ -40,4 +40,8 @@ scf:
 mainnet:
   tokens: []
   contracts: []
-  audits: []
+  audits:
+    - name: xycLoans Audit
+      url: sorobansecurity.com/report/33
+      date: '2024-01-18T15:00:00Z'
+      auditor: OtterSec

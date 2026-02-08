@@ -43,4 +43,8 @@ scf:
 mainnet:
   tokens: []
   contracts: []
-  audits: []
+  audits:
+    - name: Trustless Work Smart Escrow Platform
+      url: sorobansecurity.com/report/64
+      date: '2025-09-12T09:30:35.476Z'
+      auditor: Runtime Verification
