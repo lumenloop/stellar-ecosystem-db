@@ -1,181 +1,116 @@
 # Stellar Ecosystem Database
 
-_Ecosystem DB Proposed by Lumen Loop_
+An open, structured dataset of **646 projects** building on the [Stellar](https://stellar.org) network — aggregated from multiple sources into a single, organized repository.
 
-The Stellar Ecosystem Database is a community-driven, open data initiative designed to provide the most up-to-date information on projects being built on the Stellar network and beyond. By merging data from multiple sources—including Lumen Loop DB, Stellar Light DB, the SCF website, and SCF Airtables—this project aims to create a single, organized repository of project details that is both transparent and accessible.
+## What's Inside
 
-## Advantages of the Ecosystem DB
-
-- **Up-to-date Information:**  
-  Real-time visibility into what has been and is currently being built on Stellar.
-
-- **Open Data:**  
-  All project data is publicly available for anyone to use, analyze, or build upon.
-
-- **Community-Driven:**  
-  Contributions and suggestions from the community guide ongoing improvements and updates.
-
-- **Inclusive of All Data:**  
-  Not limited to data from the Stellar Community Fund (SCF); projects outside of SCF are represented as well.
-
-- **Structured Metadata:**  
-  Development of standardized attributes and categories to organize projects efficiently.
-
-- **On-Chain Metrics:**  
-  Integration of blockchain data points, such as tokens and contracts linked to projects.
-
-## Project Updates and Workflow
-
-Recent improvements and updates to the database include:
-
-- **Data Integration:**  
-  Combined datasets from Lumen Loop DB, Stellar Light DB, the SCF website, and various SCF Airtables (Soroban, SCF, OSO).
-
-- **Working Group Formation:**  
-  An Ecosystem DB working group was launched to steer and oversee database enhancements.
-
-- **Standardizing Categories & Tags:**  
-  Initiative to coordinate and standardize project categories, tags, and attributes [have been started](https://docs.google.com/spreadsheets/d/e/2PACX-1vQuoApWUNNknaQKK5_ppZ2Vc4VKsgU4YeshR2QHBQ6P63ncwiWjPIjAUtn9Uc65OdL2iyDG_7xatwix/pubhtml#).
-
-- **Data Verification:**  
-  Outreach was conducted to project teams to resolve conflicting data and verify details.
-
-- **Content Enhancements:**  
-  Project descriptions were updated for completeness, relevancy, and objectivity. External links (websites, repos, social media) were verified and enhanced; several new social fields were introduced.
-
-- **SCF Data Refinement:**  
-  Projects within the SCF dataset were re-evaluated, with some split or combined based on renames or duplicates, and submissions were reassigned accordingly.
-
-- **Feedback Integration:**  
-  A [document](https://docs.google.com/spreadsheets/d/1JDBQVIIbiP86IgH1RX9VHDpsUVCj8Xha5NEYBr9mH5c/edit?usp=sharing) listing suggestions and errors from the SCF data was shared with the SCF team to support ongoing improvements.
-
-## Data Metrics Comparison (as of April 11th 2025)
-
-The following tables summarize key data points comparing the legacy SCF data with the updated Ecosystem DB values:
-
-### Project Metadata
-
-| **Field**       | **SCF Data** | **Ecosystem DB** |
-|-----------------|:------------:|:----------------:|
-| **Projects**    | 459          | 530              |
-| **Other Names** |  —          | 179              |
-| **Websites**    | 416          | 518              |
-| **Descriptions**| 433            | 527              |
-
-### Social & Communication Metrics
-
-#### Primary Social Channels
-
-| **Field**   | **SCF Data** | **Ecosystem DB** |
-|-------------|:------------:|:----------------:|
-| **Github**  | 286          | 377              |
-| **X** (formerly Twitter) | 193  | 344         |
-| **LinkedIn**| 134          | 244              |
-| **Discord** | 80           | 122              |
-
-#### Additional Social Platforms (Ecosystem DB Only)
-
-| **Field**   | **Count** |
-|-------------|----------:|
-| **Youtube** | 106       |
-| **Instagram** | 110     |
-| **Reddit**  | 21        |
-| **Tiktok**  | 18        |
-
-#### Other Categories (Ecosystem DB Only)
-
-| **Field**          | **Count** |
-|--------------------|----------:|
-| **Telegram**       | 88        |
-| **Parent Projects**| 60        |
-| **Blogs**          | 214       |
-
-*Note: These figures serve as snapshots comparing the legacy data from SCF with the refined metrics in the Ecosystem DB and may evolve over time.*
-
-## File Format Specification
-
-Each project in the database follows a YAML-based file format. Below is an example entry:
-
-```yaml
-title: Giveth
-other_names: null
-parent: null
-description: Giveth is a community-driven platform that leverages blockchain
-  technology to facilitate zero-fee cryptocurrency donations to vetted projects,
-  nonprofits, and charities.
-links:
-  website: https://giveth.io
-  blog: https://blog.giveth.io/
-  x: https://x.com/Giveth
-  linkedin: null
-  discord_server: https://discord.giveth.io/
-  telegram: null
-  youtube: https://youtube.com/givethio
-  instagram: https://instagram.com/giveth.io/
-  reddit: https://reddit.com/r/giveth
-  tiktok: null
-  github: https://github.com/Giveth
-linktree: null
-attributes:
-  category: Sustainability & Public Goods
-  tags: []
-  smart_contracts: false
-  regions_services: null
-  country: " Spain"
-images:
-  icon: null
-  thumbnail: https://v5.airtableusercontent.com/v3/u/39/39/1744048800000/dBTCDVWuTjTMCW_C8QvVHw/UJ170-zby1XS_SKZoIkx1-c-JvPbWVat9cpROxevgf2VCUEmqN1iVEhW5mgFX8fClfB5JrLpLqjdvbmyU4AU3ch593UMzH8-oBWeAhnnYmcIhgwc2s-2QxU0E3Hi_mzCjc-2_xZbV3Sk2ePgJWXORcpK7bolw7nHBWrn1iVHwd5YekyeQUwXLxprgZh3fti1/pgIFcsZSUol9tE3r_xrIq93TsFUcptZgXBJ3_GeNzsE
-  banner: null
-scf:
-  awarded_submissions:
-    - Giveth
-  awarded_submissions_url:
-    - https://communityfund.stellar.org/dashboard/submissions/rechcT1UmtJlod9ec
-  awarded_round:
-    - "SCF #28"
-  awarded_total: 50000
-mainnet:
-  live: true
-  tokens: []
-  contracts: []
-  audits: []
+```
+projects/              # One YAML file per project (646 files)
+report.md              # Auto-generated data completeness report
 ```
 
-## Getting Started
+Each project file contains:
 
-To set up and run the Stellar Ecosystem Database locally, follow these steps:
+- **Identity** — name, slug, description, aliases
+- **Links** — website, GitHub, X/Twitter, Discord, Telegram, LinkedIn, YouTube, and more
+- **Attributes** — category, tags, operating regions, base location
+- **SCF Data** — awarded rounds, total funding, submission URLs (for SCF-funded projects)
+- **Mainnet** — token codes, contract addresses, audit reports
 
-1. **Clone the Repository:**
+### Example
 
-   ```bash
-   git clone https://github.com/lumenloop/stellar-ecosystem-db.git
-   cd stellar-ecosystem-db
-   ```
-## Review Documentation
-Familiarize yourself with the file format, the data model, and the contribution guidelines.
+```yaml
+title: Blend
+slug: blend
+description: Decentralized lending and borrowing protocol built on Stellar/Soroban
+links:
+  website:
+    - blend.capital
+  github:
+    - github.com/blend-capital
+  x:
+    - blend_capital
+attributes:
+  category: Financial Protocols
+  based_in: United States
+scf:
+  awarded_total: 575000
+  awarded_round:
+    - 27
+    - 29
+  submission_urls:
+    - communityfund.stellar.org/submissions/recDqJi36pzlCON33
+    - communityfund.stellar.org/submissions/recywmTn9l6tmxqLx
+mainnet:
+  audits:
+    - name: Blend Protocol Audit
+      url: https://github.com/AuditOne/...
+      date: '2024-06-01'
+      auditor: OtterSec
+```
 
-## Contribute
-Contributions are welcome! Whether you’re suggesting improvements or submitting new projects, please review our [Contribution Guidelines](CONTRIBUTING.md) and open an issue or pull request on GitHub.
+## Data Coverage
 
-## Future Enhancements
+See [report.md](report.md) for the full auto-generated report. Key highlights:
 
-- **Data Standardization:**  
-  Continued work on harmonizing project categories, tags, and additional attributes.
+| Field | Coverage |
+|-------|----------|
+| Description | 99.7% |
+| Website | 98.6% |
+| GitHub | 73.5% |
+| X/Twitter | 67.2% |
+| Category | 88.4% |
+| Based in | 87.0% |
 
-- **Increased On-Chain Data Points:**  
-  Incorporate new on chain data points like issuers, tomls, tokens, contracts.
+**577** projects are SCF-funded, **69** are community-contributed.
 
-- **Expanded Data Sources:**  
-  Integration of additional project repositories and community sources to ensure comprehensive coverage.
-  
-- **Automated Data Integration:**  
-  Implement automated processes to update the database from external datasets, ensuring the information remains current and reducing the need for manual data entry.
+## Data Sources
 
-- **Working Group Collaboration:**  
-  Collaborate with the working group to identify, verify, and update missing projects and database fields for enhanced completeness and quality.
+| Source | Description |
+|--------|-------------|
+| [SCF](https://communityfund.stellar.org) | Stellar Community Fund — project metadata, submission records, funding data |
+| [GitHub](https://github.com) | Repository stats, commit activity, contributors |
+| [X/Twitter](https://x.com) | Account metadata, posting activity, location inference |
+| [Soroban Security](https://sorobansecurity.com) | Smart contract audit reports for Soroban projects |
+| Community | Manual contributions and corrections |
 
-- **Community Engagement:**  
-  Maintaining an open dialogue with project teams and contributors to keep data accurate and up-to-date.
+## Ecosystem Activity
 
-## Acknowledgments
-A special thank you to everyone who has contributed to the creation and refinement of the Stellar Ecosystem Database, including the teams at Stellar Light and the Stellar Community Fund, as well as all community members who provided feedback and updates.
+Based on the latest tracked data:
+
+| Period | GitHub (active) | Twitter (active) |
+|--------|------:|--------:|
+| Last week | 30 | 137 |
+| Last month | 48 | 202 |
+| Last 3 months | 72 | 254 |
+| Last year | 114 | 317 |
+
+## Usage
+
+Each project is a standalone YAML file — easy to parse in any language:
+
+```python
+import yaml, glob
+
+projects = []
+for path in glob.glob("projects/*.yaml"):
+    with open(path) as f:
+        projects.append(yaml.safe_load(f))
+
+# Find active SCF projects with GitHub
+scf_with_github = [p for p in projects if p.get("scf") and p.get("links", {}).get("github")]
+print(f"{len(scf_with_github)} SCF projects with GitHub repos")
+```
+
+## Contributing
+
+This repository is automatically synced from the directory-sync pipeline. To suggest corrections or additions:
+
+1. Open an issue describing the change
+2. Or submit a PR modifying the relevant YAML file in `projects/`
+
+External changes are auto-imported via webhook and merged with the intermediary database.
+
+## License
+
+This dataset is provided as a public good for the Stellar ecosystem. Data is aggregated from public sources.
