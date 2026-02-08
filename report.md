@@ -68,6 +68,8 @@ Of **577** SCF-funded projects:
 | website | 568/577 | 98.4% |
 | github | 437/577 | 75.7% |
 
+*Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
+
 ## Ecosystem Activity
 
 *Based on last GitHub push and last tweet from tracked accounts.*
