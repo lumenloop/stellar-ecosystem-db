@@ -45,9 +45,6 @@ Comparing our **646** projects against **580** in SCF Airtable:
 | x | 286 | 434 | +148 |
 | linkedin | 206 | 331 | +125 |
 | discord | 109 | 162 | +53 |
-| category | 580 | 571 | -9 |
-| tags | 337 | 332 | -5 |
-| operating_region | 262 | 361 | +99 |
 | based_in | 482 | 562 | +80 |
 | blog | 0 | 212 | +212 |
 | telegram | 0 | 86 | +86 |
