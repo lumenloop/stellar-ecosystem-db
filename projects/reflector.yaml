@@ -48,11 +48,11 @@ mainnet:
   tokens: []
   contracts: []
   audits:
-    - name: Reflector Security Assessment v1
-      url: sorobansecurity.com/report/23
-      date: '2024-10-09T15:00:00Z'
-      auditor: certora
     - name: Reflector Audit
       url: sorobansecurity.com/report/22
       date: '2024-01-24T15:00:00Z'
       auditor: OtterSec
+    - name: Reflector Security Assessment v1
+      url: sorobansecurity.com/report/23
+      date: '2024-10-09T15:00:00Z'
+      auditor: certora

@@ -47,11 +47,11 @@ mainnet:
   tokens: []
   contracts: []
   audits:
-    - name: Cantina Aquarius Competition Security Report
-      url: sorobansecurity.com/report/41
-      date: '2025-08-31T15:00:00Z'
-      auditor: Cantina
     - name: Aquarius AMM Security Report by Certora
       url: sorobansecurity.com/report/5
       date: '2024-12-12T15:00:00Z'
       auditor: certora
+    - name: Cantina Aquarius Competition Security Report
+      url: sorobansecurity.com/report/41
+      date: '2025-08-31T15:00:00Z'
+      auditor: Cantina

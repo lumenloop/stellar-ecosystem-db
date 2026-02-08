@@ -49,15 +49,15 @@ mainnet:
   tokens: []
   contracts: []
   audits:
-    - name: Defindex
-      url: sorobansecurity.com/report/43
-      date: '2025-03-17T15:00:00Z'
+    - name: Soroswap Audit
+      url: sorobansecurity.com/report/27
+      date: '2023-12-26T15:00:00Z'
       auditor: OtterSec
     - name: Security Audit Report Soroswap Aggregator
       url: sorobansecurity.com/report/29
       date: '2024-08-30T15:00:00Z'
       auditor: Runtime Verification
-    - name: Soroswap Audit
-      url: sorobansecurity.com/report/27
-      date: '2023-12-26T15:00:00Z'
+    - name: Defindex
+      url: sorobansecurity.com/report/43
+      date: '2025-03-17T15:00:00Z'
       auditor: OtterSec

@@ -41,15 +41,15 @@ mainnet:
   tokens: []
   contracts: []
   audits:
-    - name: Allbridge Estrela | 2025
-      url: sorobansecurity.com/report/16
-      date: '2025-02-04T15:00:00Z'
+    - name: Allbridge Soroban Bridge
+      url: sorobansecurity.com/report/4
+      date: '2024-02-21T15:00:00Z'
       auditor: Quarkslab
     - name: Allbridge Estrela | 2024
       url: sorobansecurity.com/report/15
       date: '2024-04-22T15:00:00Z'
       auditor: Quarkslab
-    - name: Allbridge Soroban Bridge
-      url: sorobansecurity.com/report/4
-      date: '2024-02-21T15:00:00Z'
+    - name: Allbridge Estrela | 2025
+      url: sorobansecurity.com/report/16
+      date: '2025-02-04T15:00:00Z'
       auditor: Quarkslab
