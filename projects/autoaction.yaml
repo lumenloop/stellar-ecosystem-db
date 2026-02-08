@@ -34,4 +34,8 @@ scf:
 mainnet:
   tokens: []
   contracts: []
-  audits: []
+  audits:
+    - name: Auditing Report Hardening Blockchain Security with Formal Methods for 57Blocks Stellar Timelock Contract
+      url: sorobansecurity.com/report/26
+      date: '2024-08-05T15:00:00Z'
+      auditor: Veridise

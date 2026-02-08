@@ -48,3 +48,7 @@ mainnet:
       url: sorobansecurity.com/report/15
       date: '2024-04-22T15:00:00Z'
       auditor: Quarkslab
+    - name: Allbridge Soroban Bridge
+      url: sorobansecurity.com/report/4
+      date: '2024-02-21T15:00:00Z'
+      auditor: Quarkslab

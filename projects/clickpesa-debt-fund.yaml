@@ -45,4 +45,8 @@ scf:
 mainnet:
   tokens: []
   contracts: []
-  audits: []
+  audits:
+    - name: ClickPesa Oracle Aggregator
+      url: sorobansecurity.com/report/13
+      date: '2025-02-19T15:00:00Z'
+      auditor: Runtime Verification

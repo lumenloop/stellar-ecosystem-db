@@ -42,6 +42,10 @@ mainnet:
       url: sorobansecurity.com/report/38
       date: '2025-08-12T15:00:00Z'
       auditor: Code4rena
+    - name: Blend-Contract Formal Verification Report
+      url: sorobansecurity.com/report/10
+      date: '2025-01-14T15:00:00Z'
+      auditor: certora
     - name: Blend Security Assessment Report
       url: sorobansecurity.com/report/9
       date: '2023-12-31T15:00:00Z'
