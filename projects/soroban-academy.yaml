@@ -21,7 +21,7 @@ attributes:
   category: null
   tags: []
   operating_region: []
-  based_in: null
+  based_in: Chile
 mainnet:
   tokens: []
   contracts: []

@@ -28,7 +28,7 @@ attributes:
   tags: []
   operating_region:
     - Argentina
-  based_in: null
+  based_in: Argentina
 scf:
   awarded_total: 141180
   awarded_round:

@@ -27,7 +27,7 @@ attributes:
   tags: []
   operating_region:
     - Germany
-  based_in: null
+  based_in: Germany
 scf:
   awarded_total: 0
   awarded_round:

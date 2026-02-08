@@ -30,7 +30,7 @@ attributes:
   tags: []
   operating_region:
     - Philippines
-  based_in: null
+  based_in: Philippines
 scf:
   awarded_total: 50000
   awarded_round:

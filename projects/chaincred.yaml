@@ -24,7 +24,7 @@ attributes:
   tags: []
   operating_region:
     - Mexico
-  based_in: null
+  based_in: Mexico
 scf:
   awarded_total: 32000
   awarded_round:

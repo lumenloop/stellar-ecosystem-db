@@ -23,7 +23,7 @@ attributes:
   tags: []
   operating_region:
     - earth
-  based_in: null
+  based_in: earth
 scf:
   awarded_total: 35717.93
   awarded_round:

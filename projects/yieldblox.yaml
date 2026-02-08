@@ -28,7 +28,7 @@ attributes:
   tags: []
   operating_region:
     - United States
-  based_in: null
+  based_in: United States
 scf:
   awarded_total: 320972
   awarded_round:

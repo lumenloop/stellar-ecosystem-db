@@ -27,7 +27,7 @@ attributes:
   tags: []
   operating_region:
     - United Kingdom
-  based_in: null
+  based_in: United Kingdom
 scf:
   awarded_total: 47000
   awarded_round:

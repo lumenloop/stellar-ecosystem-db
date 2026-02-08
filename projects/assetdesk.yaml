@@ -26,7 +26,7 @@ attributes:
   tags: []
   operating_region:
     - Moon
-  based_in: null
+  based_in: Moon
 scf:
   awarded_total: 77000
   awarded_round:

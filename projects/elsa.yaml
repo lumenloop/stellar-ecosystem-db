@@ -27,7 +27,7 @@ attributes:
   tags: []
   operating_region:
     - Spain
-  based_in: null
+  based_in: Spain
 scf:
   awarded_total: 95000
   awarded_round:
