@@ -82,6 +82,26 @@ Of **577** SCF-funded projects:
 | Active last 3 months | 72 | 254 |
 | Active last year | 114 | 317 |
 
+## Audit Data
+
+**41** projects audited with **59** reports.
+
+*Audit data provided by [Soroban Security](https://sorobansecurity.com).*
+
+| Auditor | Reports |
+|---------|---------:|
+| Veridise | 17 |
+| OtterSec | 10 |
+| certora | 9 |
+| Runtime Verification | 8 |
+| Quarkslab | 6 |
+| CoinFabrik | 2 |
+| Halborn | 2 |
+| OpenZeppelin | 2 |
+| Cantina | 1 |
+| Code4rena | 1 |
+| Сoinspect | 1 |
+
 ## Data Sources
 
 - **projects**: Stellar Community Fund (SCF) Airtable + community contributions
@@ -100,6 +120,7 @@ Field-level provenance tracking:
 | airtable | 3396 |
 | airtable+submissions | 579 |
 | twitter_inferred | 195 |
+| soroban_security | 59 |
 
 ## Needs Review
 
