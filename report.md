@@ -116,11 +116,10 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| manual | 3295 |
+| community | 3358 |
 | airtable | 3397 |
 | airtable+submissions | 579 |
 | twitter_inferred | 195 |
-| api | 63 |
 | soroban_security | 66 |
 
 ## Needs Review
