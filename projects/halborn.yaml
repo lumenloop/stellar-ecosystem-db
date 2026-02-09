@@ -1,0 +1,29 @@
+title: Halborn
+other_names: null
+parent: null
+description: ''
+links:
+  website:
+    - halborn.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Security
+    - Auditing
+  operating_region: []
+  based_in: null
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

@@ -1,0 +1,34 @@
+title: Veridise
+other_names: null
+parent: null
+description: ''
+links:
+  website:
+    - veridise.com
+  blog: []
+  x:
+    - veridiseinc
+  linkedin:
+    - linkedin.com/company/Veridise
+  discord: []
+  telegram: []
+  youtube:
+    - youtube.com/@veridise
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/Veridise
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Security
+    - Auditing
+    - Formal Verification
+  operating_region: []
+  based_in: Hong Kong
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

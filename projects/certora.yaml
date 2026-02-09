@@ -1,0 +1,33 @@
+title: Certora
+other_names: null
+parent: null
+description: ''
+links:
+  website:
+    - certora.com
+  blog: []
+  x:
+    - certora
+  linkedin: []
+  discord:
+    - discord.gg/certora
+  telegram: []
+  youtube:
+    - youtube.com/@certora
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Security
+    - Auditing
+    - Formal Verification
+  operating_region: []
+  based_in: United States
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []

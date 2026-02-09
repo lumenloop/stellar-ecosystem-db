@@ -1,0 +1,37 @@
+title: HOT Protocol
+other_names:
+  - HOT Labs
+  - HOT DAO
+parent: null
+description: ''
+links:
+  website:
+    - hot-labs.org
+  blog: []
+  x:
+    - hotdao_
+  linkedin: []
+  discord: []
+  telegram:
+    - t.me/hotonnear
+  youtube:
+    - youtube.com/@hot-labs
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/hot-dao
+attributes:
+  category: null
+  tags: []
+  operating_region: []
+  based_in: Ukraine
+mainnet:
+  tokens: []
+  contracts: []
+  audits:
+    - name: Veridise Auditing Report for Hot Bridge
+      url: sorobansecurity.com/report/49
+      date: '2025-08-31T15:00:00Z'
+      auditor: Veridise

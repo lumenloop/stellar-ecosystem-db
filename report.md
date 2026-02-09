@@ -1,54 +1,54 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-02-08
+> Auto-generated on 2026-02-09
 
 ## Summary
 
 | Metric | Count |
 |--------|------:|
-| Total projects | **646** |
+| Total projects | **660** |
 | SCF-funded projects | 577 |
-| Community projects | 69 |
-| Audited projects | 41 |
+| Community projects | 83 |
+| Audited projects | 47 |
 
 ## Data Coverage
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 644/646 | 99.7% |
-| website | 637/646 | 98.6% |
-| blog | 212/646 | 32.8% |
-| x | 434/646 | 67.2% |
-| linkedin | 331/646 | 51.2% |
-| discord | 162/646 | 25.1% |
-| telegram | 86/646 | 13.3% |
-| youtube | 104/646 | 16.1% |
-| instagram | 109/646 | 16.9% |
-| reddit | 16/646 | 2.5% |
-| tiktok | 19/646 | 2.9% |
-| linktree | 4/646 | 0.6% |
-| github | 475/646 | 73.5% |
-| category | 571/646 | 88.4% |
-| tags | 332/646 | 51.4% |
-| operating_region | 361/646 | 55.9% |
-| based_in | 562/646 | 87% |
+| description | 645/660 | 97.7% |
+| website | 651/660 | 98.6% |
+| blog | 212/660 | 32.1% |
+| x | 445/660 | 67.4% |
+| linkedin | 340/660 | 51.5% |
+| discord | 168/660 | 25.5% |
+| telegram | 90/660 | 13.6% |
+| youtube | 113/660 | 17.1% |
+| instagram | 109/660 | 16.5% |
+| reddit | 16/660 | 2.4% |
+| tiktok | 19/660 | 2.9% |
+| linktree | 4/660 | 0.6% |
+| github | 485/660 | 73.5% |
+| category | 577/660 | 87.4% |
+| tags | 337/660 | 51.1% |
+| operating_region | 361/660 | 54.7% |
+| based_in | 571/660 | 86.5% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **646** projects (incl. **69** community projects not in SCF) against **580** in SCF Airtable:
+Per-project comparison of our **660** projects (incl. **83** community projects not in SCF) against **580** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +97 | 547 |
-| website | +108 | 529 |
-| github | +98 | 377 |
-| x | +151 | 283 |
-| linkedin | +126 | 205 |
-| discord | +54 | 108 |
-| based_in | +88 | 474 |
+| description | +98 | 547 |
+| website | +122 | 529 |
+| github | +108 | 377 |
+| x | +162 | 283 |
+| linkedin | +135 | 205 |
+| discord | +60 | 108 |
+| based_in | +97 | 474 |
 | blog | +212 | 0 |
-| telegram | +86 | 0 |
-| youtube | +104 | 0 |
+| telegram | +90 | 0 |
+| youtube | +113 | 0 |
 | instagram | +109 | 0 |
 | reddit | +16 | 0 |
 | tiktok | +19 | 0 |
@@ -76,27 +76,27 @@ Of **577** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 176 | 384 |
+| Tracked projects | 176 | 385 |
 | Active last week | 30 | 137 |
-| Active last month | 48 | 202 |
-| Active last 3 months | 72 | 254 |
-| Active last year | 114 | 317 |
+| Active last month | 48 | 203 |
+| Active last 3 months | 72 | 255 |
+| Active last year | 114 | 318 |
 
 ## Audit Data
 
-**41** projects audited with **59** reports.
+**47** projects audited with **66** reports.
 
 *Audit data provided by [Soroban Security](https://sorobansecurity.com).*
 
 | Auditor | Reports |
 |---------|---------:|
-| Veridise | 17 |
+| Veridise | 21 |
+| certora | 10 |
 | OtterSec | 10 |
-| certora | 9 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
+| Halborn | 4 |
 | CoinFabrik | 2 |
-| Halborn | 2 |
 | OpenZeppelin | 2 |
 | Cantina | 1 |
 | Code4rena | 1 |
@@ -116,13 +116,14 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| manual | 3296 |
-| airtable | 3396 |
+| manual | 3295 |
+| airtable | 3397 |
 | airtable+submissions | 579 |
 | twitter_inferred | 195 |
-| soroban_security | 59 |
+| api | 63 |
+| soroban_security | 66 |
 
 ## Needs Review
 
-11 items need attention.
+24 items need attention.
 

@@ -1,0 +1,41 @@
+title: Stellar Development Foundation
+other_names:
+  - SDF
+parent: null
+description: The Stellar Development Foundation (SDF) is a non-profit organization that supports the development and growth of the Stellar network.
+links:
+  website:
+    - stellar.org
+  blog: []
+  x:
+    - stellarorg
+  linkedin:
+    - linkedin.com/company/stellar-development-foundation
+  discord:
+    - discord.gg/zVYdY3ktTn
+  telegram: []
+  youtube:
+    - youtube.com/@StellarDevelopmentFoundation
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/stellar
+attributes:
+  category: Infrastructure
+  tags: []
+  operating_region: []
+  based_in: United States
+mainnet:
+  tokens: []
+  contracts: []
+  audits:
+    - name: Auditing Report for Soroban Stellar Soroban Core V2
+      url: sorobansecurity.com/report/28
+      date: '2024-01-02T15:00:00Z'
+      auditor: Veridise
+    - name: Soroban Stellar Soroban Core V2.1 (Intended Behavior and Invalid Issues moved to the Appendix)
+      url: sorobansecurity.com/report/42
+      date: '2025-09-26T15:00:00Z'
+      auditor: Veridise

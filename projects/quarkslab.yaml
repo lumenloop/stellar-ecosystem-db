@@ -1,0 +1,33 @@
+title: Quarkslab
+other_names: null
+parent: null
+description: ''
+links:
+  website:
+    - quarkslab.com
+  blog: []
+  x:
+    - quarkslab
+  linkedin:
+    - linkedin.com/company/quarkslab
+  discord: []
+  telegram: []
+  youtube:
+    - youtube.com/channel/UC9pmXUZLuOr1d90rsf8zesw
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/quarkslab
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Security
+    - Auditing
+  operating_region: []
+  based_in: Argentina
+mainnet:
+  tokens: []
+  contracts: []
+  audits: []
