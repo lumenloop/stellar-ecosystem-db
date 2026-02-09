@@ -15,7 +15,7 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 645/660 | 97.7% |
+| description | 658/660 | 99.7% |
 | website | 651/660 | 98.6% |
 | blog | 212/660 | 32.1% |
 | x | 445/660 | 67.4% |
@@ -39,7 +39,7 @@ Per-project comparison of our **660** projects (incl. **83** community projects 
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +98 | 547 |
+| description | +111 | 547 |
 | website | +122 | 529 |
 | github | +108 | 377 |
 | x | +162 | 283 |
@@ -125,5 +125,20 @@ Field-level provenance tracking:
 
 ## Needs Review
 
-24 items need attention.
+11 items need attention.
+
+**SCF project missing website** (9):
+- crypto-link
+- frost-implementation
+- paysapp
+- relax
+- the-starship-soroban
+- wally
+- free-voting-platform
+- sendit
+- timed-transactions-api
+
+**description empty** (2):
+- free-voting-platform
+- sendit
 

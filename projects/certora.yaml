@@ -1,7 +1,7 @@
 title: Certora
 other_names: null
 parent: null
-description: ''
+description: Formal verification tools and smart contract audits that identify vulnerabilities with mathematical certainty.
 links:
   website:
     - certora.com

@@ -3,7 +3,7 @@ other_names:
   - Redstone
   - RedStone
 parent: null
-description: ''
+description: Modular oracle infrastructure providing secure, real-time data feeds for on-chain finance protocols and institutions.
 links:
   website:
     - redstone.finance
