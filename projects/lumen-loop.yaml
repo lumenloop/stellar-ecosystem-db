@@ -1,8 +1,7 @@
 title: Lumen Loop
 other_names: null
 parent: null
-description: |
-  Lumen Loop aggregates the latest news, projects and events from the Stellar ecosystem into one central hub.
+description: Lumen Loop aggregates the latest news, projects and events from the Stellar ecosystem into one central hub.
 links:
   website:
     - lumenloop.com
@@ -36,14 +35,14 @@ attributes:
     - North America (without Mexico)
   based_in: United States
 scf:
-  awarded_total: 142720
   awarded_round:
     - 26
     - 35
+  awarded_total: 142720
   submission_urls:
     - communityfund.stellar.org/submissions/recIejuRkvbm4kZSv
     - communityfund.stellar.org/submissions/recvuncPCLe4CJJZE
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

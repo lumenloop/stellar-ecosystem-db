@@ -2,8 +2,7 @@ title: Spatium
 other_names:
   - Spatium Wallet
 parent: null
-description: |
-  Spatium offers an open-source Web3 Wallet Builder for businesses which allows to break barriers for mass adoption
+description: Spatium offers an open-source Web3 Wallet Builder for businesses which allows to break barriers for mass adoption.
 links:
   website:
     - spatium.net
@@ -14,11 +13,11 @@ links:
   linkedin:
     - linkedin.com/company/spatium-capital
   discord:
-    - discord.gg/24Tucz5rFc
+    - discord.gg/24tucz5rfc
   telegram:
-    - t.me/SpatiumWallet_Bot
+    - t.me/spatiumwallet_bot
   youtube:
-    - youtube.com/channel/UCiw3jQd5-V3IB12zAJV-heA
+    - youtube.com/channel/uciw3jqd5-v3ib12zajv-hea
   instagram: []
   reddit: []
   tiktok: []
@@ -33,14 +32,14 @@ attributes:
     - United States
   based_in: Kazakhstan
 scf:
-  awarded_total: 183200
   awarded_round:
     - 13
     - 22
+  awarded_total: 183200
   submission_urls:
     - communityfund.stellar.org/submissions/recKUYCRQLT6Vq3Pj
     - communityfund.stellar.org/submissions/recZ46kabInkWZT9Q
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

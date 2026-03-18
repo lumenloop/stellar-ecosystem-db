@@ -1,8 +1,7 @@
 title: ROSEN
 other_names: null
 parent: null
-description: |
-  Rosen is a borderless social earning platform for Gen Z to monetize easily & globally via AI & stablecoins. Live on App Store/Google Play with 30K+ users. Awards winning project and backed by PayPal PYUSD, Circle (USDC), Google Cloud, Draper University.
+description: Rosen is a borderless social earning platform for Gen Z to monetize easily & globally via AI & stablecoins. Live on App Store/Google Play with 30K+ users. Awards winning project and backed by PayPal PYUSD, Circle (USDC), Google Cloud, Draper University.
 links:
   website:
     - gorosen.xyz
@@ -19,7 +18,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/GoROSEN/rosen-stellar
+    - github.com/gorosen/rosen-stellar
 attributes:
   category: Applications
   tags: []
@@ -29,12 +28,12 @@ attributes:
     - East Asia & Pacific
   based_in: United States
 scf:
-  awarded_total: 75000
   awarded_round:
     - 37
+  awarded_total: 75000
   submission_urls:
     - communityfund.stellar.org/submissions/recguZ1xyGTZEZhNX
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

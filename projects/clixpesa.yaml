@@ -1,8 +1,7 @@
 title: Clixpesa
 other_names: null
 parent: null
-description: |
-  Making money and crypto simple for everyone
+description: Clixpesa is a financial technology platform designed to simplify money management and cryptocurrency for users, particularly in Sub-Saharan Africa. It offers services such as low-fee money and crypto transfers, interest-bearing deposits, rewards and discounts, and peer-to-peer loans.
 links:
   website:
     - clixpesa.com
@@ -13,13 +12,14 @@ links:
     - linkedin.com/company/clixpesa
   discord: []
   telegram: []
-  youtube: []
-  instagram: []
+  youtube:
+    - youtube.com/channel/uc98umv115pyupss1adl2uqg
+  instagram:
+    - clixpesa
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/rizamoyi
     - github.com/clixpesa
 attributes:
   category: Applications
@@ -35,12 +35,12 @@ attributes:
     - Kenya
   based_in: Kenya
 scf:
-  awarded_total: 35050
   awarded_round:
     - 26
+  awarded_total: 35050
   submission_urls:
     - communityfund.stellar.org/submissions/recVDX0W60gkrJKWP
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

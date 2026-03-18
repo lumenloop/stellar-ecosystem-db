@@ -1,8 +1,7 @@
 title: Grip
 other_names: null
 parent: null
-description: |
-  The financial control center that supercharges all your financial accounts and cards.
+description: Grip is a financial platform that consolidates users' bank accounts, fintech wallets, and payment methods into a single application, accessible via a global card and a comprehensive app.
 links:
   website:
     - trygrip.co
@@ -35,12 +34,12 @@ attributes:
     - Nigeria
   based_in: Nigeria
 scf:
-  awarded_total: 45285
   awarded_round:
     - 28
+  awarded_total: 45285
   submission_urls:
     - communityfund.stellar.org/submissions/rec2D9kaGTaA48vU9
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

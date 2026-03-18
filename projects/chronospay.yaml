@@ -1,12 +1,10 @@
 title: Chronospay
 other_names: null
 parent: null
-description: |
-  A low cost processing system to help businesses in South America.
+description: A low cost processing system to help businesses in South America.
 links:
   website:
     - chronospay.io
-    - chronospay.io/es/home
   blog: []
   x:
     - chronospay
@@ -15,8 +13,7 @@ links:
   discord: []
   telegram: []
   youtube: []
-  instagram:
-    - ChronosPay
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -28,12 +25,12 @@ attributes:
     - United States
   based_in: United States
 scf:
-  awarded_total: 65000
   awarded_round:
     - 11
+  awarded_total: 65000
   submission_urls:
     - communityfund.stellar.org/submissions/recqUH2wcPLJ4Yy7j
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

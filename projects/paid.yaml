@@ -2,8 +2,7 @@ title: P'aid
 other_names:
   - P'aid Payrolling
 parent: null
-description: |
-  Easy and affordable payroll with Blockchain abstracted away!
+description: P'aid provides easy and affordable payroll solutions with blockchain technology seamlessly abstracted, simplifying global payments and payroll management.
 links:
   website:
     - p-aid.world
@@ -17,7 +16,8 @@ links:
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/baseflow
 attributes:
   category: Applications
   tags:
@@ -36,12 +36,12 @@ attributes:
   operating_region: []
   based_in: Netherlands
 scf:
-  awarded_total: 50000
   awarded_round:
     - 26
+  awarded_total: 50000
   submission_urls:
     - communityfund.stellar.org/submissions/rec85TDjqVvWzY6oR
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,15 +1,13 @@
 title: uils
 other_names: null
 parent: null
-description: |
-  Embedded finances for the mobility gig economy 
+description: Wallet that offers you loans based on your driving record.
 links:
   website:
     - uils.la
   blog: []
   x:
     - somosuils
-    - www.twitter.com
   linkedin: []
   discord: []
   telegram: []
@@ -31,12 +29,12 @@ attributes:
     - Buenos Aires, Argentina
   based_in: Argentina
 scf:
-  awarded_total: 141027.5
   awarded_round:
     - 17
+  awarded_total: 141027.5
   submission_urls:
     - communityfund.stellar.org/submissions/recb7lLAeoG5poknB
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

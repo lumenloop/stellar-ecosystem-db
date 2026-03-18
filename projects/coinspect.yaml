@@ -26,6 +26,6 @@ attributes:
   operating_region: []
   based_in: Argentina
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -2,8 +2,7 @@ title: LINK
 other_names:
   - LINK IO
 parent: null
-description: |
-  Web3 cross border payments infrastructure for Africa
+description: LINK is a financial technology company that provides a comprehensive web3 infrastructure for global cross-border payments, focusing on real-time foreign exchange and stablecoin payment solutions.
 links:
   website:
     - linkio.world
@@ -15,8 +14,7 @@ links:
   discord: []
   telegram: []
   youtube: []
-  instagram:
-    - link.io_
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -32,16 +30,16 @@ attributes:
     - Turkey
   based_in: United Kingdom
 scf:
-  awarded_total: 277000
   awarded_round:
     - 10
     - 15
     - 28
+  awarded_total: 277000
   submission_urls:
     - communityfund.stellar.org/submissions/recWONcXU1LVBGZfQ
     - communityfund.stellar.org/submissions/recIf1jFrLDhF2wvL
     - communityfund.stellar.org/submissions/recM5WNSe47TmTcfA
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

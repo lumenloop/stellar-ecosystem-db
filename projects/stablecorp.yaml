@@ -6,7 +6,8 @@ links:
   website:
     - stablecorp.ca
   blog:
-    - medium.com/@Stablecorp
+    - medium.com/@stablecorp
+    - stablecorp.medium.com
   x:
     - stablecorp
   linkedin:
@@ -25,6 +26,6 @@ attributes:
   operating_region: []
   based_in: Canada
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

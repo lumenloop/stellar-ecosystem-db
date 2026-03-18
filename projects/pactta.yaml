@@ -2,15 +2,14 @@ title: Pactta
 other_names:
   - Pactta API
 parent: null
-description: |
-  We enhance the anchor interoperability to provide a single API that enables any fintech in LatAm to offer seamless money transfers
+description: Pactta enhances anchor interoperability by providing a single API that enables any fintech in LatAm to offer seamless money transfers.
 links:
   website:
     - pactta.com
   blog: []
   x: []
   linkedin:
-    - linkedin.com/company/paychant/?viewAsMember=true
+    - linkedin.com/company/paychant
   discord: []
   telegram: []
   youtube: []
@@ -25,12 +24,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 120700
   awarded_round:
     - 16
+  awarded_total: 120700
   submission_urls:
     - communityfund.stellar.org/submissions/recwe0UWBi0QuT5SH
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

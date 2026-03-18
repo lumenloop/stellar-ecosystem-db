@@ -2,8 +2,7 @@ title: Calimero
 other_names:
   - Calimero Network
 parent: null
-description: |
-  Calimero Network is an innovative framework for building Self-Sovereign Application protocols and private data sharing.
+description: Calimero Network is an innovative framework for building Self-Sovereign Application protocols and private data sharing.
 links:
   website:
     - calimero.network
@@ -13,9 +12,9 @@ links:
   linkedin:
     - linkedin.com/company/calimero-network
   discord:
-    - discord.gg/kjP4GrafXj
+    - discord.gg/wzrc73dvpu
   telegram:
-    - t.me/CalimeroOfficial
+    - t.me/calimeroofficial
   youtube: []
   instagram: []
   reddit: []
@@ -23,7 +22,6 @@ links:
   linktree: []
   github:
     - github.com/calimero-network
-    - github.com/calimero-network/core
 attributes:
   category: Developer Tooling
   tags:
@@ -36,12 +34,12 @@ attributes:
     - Croatia
   based_in: Croatia
 scf:
-  awarded_total: 25000
   awarded_round:
     - 29
+  awarded_total: 25000
   submission_urls:
     - communityfund.stellar.org/submissions/recoBk1kfi1SixVph
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

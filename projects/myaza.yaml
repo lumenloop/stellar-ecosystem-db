@@ -2,8 +2,7 @@ title: Myaza
 other_names:
   - Myaza | Transact Across Africa
 parent: null
-description: |
-  Myaza is transforming how individuals and businesses across Africa manage money and make payments. By providing a seamless platform for cross-border transactions, we empower users to send, receive, and exchange money affordably and efficiently. Our innovative use of financial infrastructure ensures fast, reliable transactions while addressing the unique challenges of intra-African payments. With a focus on financial inclusion, we aim to connect the continent, enabling economic growth and mobility.
+description: Myaza enables Africans to seamlessly send, receive, save, spend, and swap foreign currencies without borders.
 links:
   website:
     - myaza.co
@@ -35,14 +34,14 @@ attributes:
     - Middle East & North Africa
   based_in: Nigeria
 scf:
-  awarded_total: 146371
   awarded_round:
     - 26
     - 32
+  awarded_total: 146371
   submission_urls:
     - communityfund.stellar.org/submissions/rec7so7Dp8MsWFhTS
     - communityfund.stellar.org/submissions/rec3sQBgctMIdAhJ7
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

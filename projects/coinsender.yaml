@@ -1,8 +1,7 @@
 title: CoinSender
 other_names: null
 parent: null
-description: |
-  CoinSender is an ultimate accounting, token distribution and management solution expanding the limits of blockchain.
+description: CoinSender is a platform designed to streamline cryptocurrency payouts and token distribution for businesses and projects. It offers features such as wallet integration, smart contract-based token distribution, decentralized database for transaction tracking, security compliance, billing tools, multi-network support, time-saving automated processes, and an intuitive interface.
 links:
   website:
     - coinsender.io
@@ -13,19 +12,17 @@ links:
   linkedin:
     - linkedin.com/company/coinsender
   discord:
-    - discord.gg/kTPP9EBXxr
+    - discord.gg/ktpp9ebxxr
   telegram:
     - t.me/community_coinsender
   youtube:
-    - youtube.com/@CoinSender
-  instagram:
-    - coin_sender
-  reddit:
-    - r/CoinSender
+    - youtube.com/@coinsender
+  instagram: []
+  reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/Megadev-OU/cs-payments
+    - github.com/megadev-ou/cs-payments
 attributes:
   category: Applications
   tags:
@@ -37,12 +34,12 @@ attributes:
     - North America (without Mexico)
   based_in: Spain
 scf:
-  awarded_total: 23440
   awarded_round:
     - 24
+  awarded_total: 23440
   submission_urls:
     - communityfund.stellar.org/submissions/recSZFx6ph1UtAS2N
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

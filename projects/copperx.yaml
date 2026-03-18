@@ -2,8 +2,7 @@ title: Copperx
 other_names:
   - Copperx - Gateway and Payout
 parent: null
-description: |
-  We’re building next-gen financial tools for businesses and consumers to help accept and manage payments using stablecoins.
+description: Copperx offers a unified API and toolkit that enables businesses to accept crypto and fiat payments while facilitating global payouts across 50+ countries. Their solutions include payment links and recurring billing to streamline financial operations and e-commerce integrations for Web3 companies.
 links:
   website:
     - copperx.io
@@ -15,13 +14,11 @@ links:
     - linkedin.com/company/copperx
   discord: []
   telegram:
-    - t.me/+bVxXaalfhF8wMDFl
+    - t.me/+bvxxaalfhf8wmdfl
   youtube:
     - youtube.com/@copperxhq
-  instagram:
-    - copperxhq
-  reddit:
-    - r/Copperx
+  instagram: []
+  reddit: []
   tiktok: []
   linktree: []
   github:
@@ -32,12 +29,12 @@ attributes:
   operating_region: []
   based_in: United Arab Emirates
 scf:
-  awarded_total: 50000
   awarded_round:
     - 29
+  awarded_total: 50000
   submission_urls:
     - communityfund.stellar.org/submissions/rec02RUwR3wO7gsH3
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

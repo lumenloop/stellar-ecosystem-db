@@ -1,11 +1,10 @@
 title: Stellar-Nest
 other_names: null
 parent: null
-description: |
-  Easy way to kickstart a project in Stellar with Nest.
+description: Easy way to kickstart a project in Stellar with Nest.
 links:
   website:
-    - github.com/Alkeops/It-s-not-another-package
+    - github.com/alkeops/it-s-not-another-package
   blog: []
   x: []
   linkedin: []
@@ -17,7 +16,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/Alkeops/It-s-not-another-package
+    - github.com/alkeops/it-s-not-another-package
 attributes:
   category: Developer Tooling
   tags:
@@ -31,12 +30,12 @@ attributes:
   operating_region: []
   based_in: Mexico
 scf:
-  awarded_total: 14800
   awarded_round:
     - 25
+  awarded_total: 14800
   submission_urls:
     - communityfund.stellar.org/submissions/recPokqT9ma4wpqQE
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

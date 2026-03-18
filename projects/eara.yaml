@@ -2,8 +2,7 @@ title: Eara
 other_names:
   - 'Eara: European regulated RWA ecosystem'
 parent: null
-description: |
-  Eara is a pioneering platform for regulated investment asset digitalization in Europe. We bring together blockchain innovation with deep expertise in traditional finance, backed by the founders of a licensed securities agency.
+description: Eara is a pioneering platform for regulated investment asset digitalization in Europe. We bring together blockchain innovation with deep expertise in traditional finance, backed by the founders of a licensed securities agency.
 links:
   website:
     - earaglobal.com
@@ -27,12 +26,12 @@ attributes:
     - Europe & Central Asia
   based_in: Spain
 scf:
-  awarded_total: 90000
   awarded_round:
     - 40
+  awarded_total: 90000
   submission_urls:
     - communityfund.stellar.org/submissions/recwAK74KKbrRmjzn
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

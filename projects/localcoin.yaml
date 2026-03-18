@@ -1,12 +1,10 @@
 title: LocalCoin
 other_names: null
 parent: null
-description: |
-  LocalCoin enables on-chain control of financially incentivized action to help social good orgs with effectiveness and trust.
+description: LocalCoin enables on-chain control of financially incentivized action to help social good orgs with effectiveness and trust.
 links:
   website:
     - localcoin.us
-    - venture23.xyz/localcoin
   blog:
     - medium.com/venture23
   x:
@@ -27,12 +25,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 40875
   awarded_round:
     - 21
+  awarded_total: 40875
   submission_urls:
     - communityfund.stellar.org/submissions/recBuWuli95RQarWV
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

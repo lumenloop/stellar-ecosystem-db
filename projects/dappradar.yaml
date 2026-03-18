@@ -2,8 +2,7 @@ title: DappRadar
 other_names:
   - Soroban DappRadar Integration
 parent: null
-description: |
-  Integrating Soroban on DappRadar, tracking its dapps data and bringing crypto degens to the ecosystem.
+description: DappRadar is a platform that provides comprehensive data and metrics for decentralized applications across multiple blockchains. The integration of Stellar into DappRadar enables the platform to track data from Stellar-based dapps.
 links:
   website:
     - dappradar.com
@@ -13,16 +12,14 @@ links:
     - dappradar
   linkedin: []
   discord:
-    - discord.gg/4ybbssrHkm
+    - discord.gg/4ybbssrhkm
   telegram:
-    - t.me/joinchat/GdhNjQ8PMhCZ_a0CZutmXg
+    - t.me/joinchat/gdhnjq8pmhcz_a0czutmxg
   youtube:
-    - youtube.com/c/DappRadar
-  instagram:
-    - dappradar
+    - youtube.com/c/dappradar
+  instagram: []
   reddit: []
-  tiktok:
-    - dappradar
+  tiktok: []
   linktree: []
   github:
     - github.com/dappradar
@@ -34,14 +31,14 @@ attributes:
     - Malaysia
   based_in: Lithuania
 scf:
-  awarded_total: 145000
   awarded_round:
     - 27
     - 34
+  awarded_total: 145000
   submission_urls:
     - communityfund.stellar.org/submissions/recWPirIc6IP4v27v
     - communityfund.stellar.org/submissions/reche5E6aPlHPdP5G
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

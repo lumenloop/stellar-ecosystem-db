@@ -1,13 +1,12 @@
 title: StellarTerm
 other_names: null
 parent: null
-description: |
-  advanced trading client for the Stellar network
+description: StellarTerm is an open-source trading client for interacting with the Stellar DEX, enabling users to trade, send, and manage assets. It supports self-hosting for enhanced control and privacy while offering tools for trustlines, multisignatures, and wallet integration like Ledger.
 links:
   website:
     - stellarterm.com
-    - galactictalk.org/d/2212-stellarterm-advanced-trading-client-for-the-stellar-network
-  blog: []
+  blog:
+    - medium.com/@stellarterm
   x:
     - stellarterm
   linkedin: []
@@ -29,12 +28,12 @@ attributes:
     - Indonesia
   based_in: Estonia
 scf:
-  awarded_total: 17640.89
   awarded_round:
     - 3
+  awarded_total: 17640.89
   submission_urls:
     - communityfund.stellar.org/submissions/recGp2bg7OQlVFllx
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

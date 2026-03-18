@@ -1,8 +1,7 @@
 title: Chaincerts
 other_names: null
 parent: null
-description: |
-  Chaincerts: smart contracts-backed credentials
+description: 'Chaincerts: smart contracts-backed credentials.'
 links:
   website:
     - chaincerts.co
@@ -10,7 +9,7 @@ links:
   x:
     - kommitco
   linkedin:
-    - linkedin.com/co.linkedin.com/company/kommit-co
+    - linkedin.com/company/kommit-co
   discord: []
   telegram: []
   youtube: []
@@ -30,14 +29,14 @@ attributes:
     - LATAM, USA
   based_in: Colombia
 scf:
-  awarded_total: 178125
   awarded_round:
     - 13
     - 18
+  awarded_total: 178125
   submission_urls:
     - communityfund.stellar.org/submissions/recSJaZLVz2YEGn0b
     - communityfund.stellar.org/submissions/rec49lAtSKVy2QIJp
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

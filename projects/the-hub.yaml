@@ -2,13 +2,12 @@ title: THE HUB
 other_names:
   - THE HUB Citizens Portal
 parent: null
-description: |
-  Deploy THE HUB Citizens Portal (interoperable avatar generation platform) on Stellar.
+description: The Hub DAO is a Web3 platform that empowers creators to produce interoperable 3D content for the metaverse, offering tools and resources to streamline the creation and management of digital assets across virtual worlds.
 links:
   website:
     - thehubdao.xyz
   blog:
-    - medium.com/@THEHUB_DAO
+    - medium.com/@thehub_dao
   x:
     - thehub_dao
   linkedin:
@@ -30,12 +29,12 @@ attributes:
     - Germany
   based_in: Germany
 scf:
-  awarded_total: 46500
   awarded_round:
     - 29
+  awarded_total: 46500
   submission_urls:
     - communityfund.stellar.org/submissions/recQFye9LGFqAXQWh
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

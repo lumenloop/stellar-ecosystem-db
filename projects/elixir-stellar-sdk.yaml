@@ -1,8 +1,7 @@
 title: Elixir Stellar SDK
 other_names: null
 parent: null
-description: |
-  Stellar support for Elixir developers.
+description: An Elixir library for interacting with the Stellar blockchain, enabling transaction construction, signing, and integration with Horizon server endpoints.
 links:
   website:
     - github.com/kommitters/stellar_sdk
@@ -18,7 +17,6 @@ links:
   linktree: []
   github:
     - github.com/kommitters/stellar_sdk
-    - github.com/kommitters/elixir_xdr
 attributes:
   category: Developer Tooling
   tags:
@@ -26,12 +24,12 @@ attributes:
   operating_region: []
   based_in: Colombia
 scf:
-  awarded_total: 12000
   awarded_round:
     - 10
+  awarded_total: 12000
   submission_urls:
     - communityfund.stellar.org/submissions/recipARqM4ji5SJK4
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

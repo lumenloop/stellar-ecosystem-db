@@ -1,13 +1,12 @@
 title: Rahat
 other_names: null
 parent: null
-description: |
-  Integrate Rahat, a financial access platform on Stellar to help humanitarian agencies empower vulnerable communities with efficient, transparent, and low-cost aid delivery with automated weather triggers event before the onset of a climate disaster. 
+description: Financial access platform on Stellar for humanitarian agencies, enabling efficient and transparent aid delivery with automated climate disaster early-warning triggers.
 links:
   website:
     - rahat.io
   blog:
-    - rahat.io/blogs?page=1&limit=100
+    - rahat.io/blogs
   x:
     - rahataid
   linkedin:
@@ -36,12 +35,12 @@ attributes:
     - East Asia & Pacific
   based_in: Nepal
 scf:
-  awarded_total: 149962
   awarded_round:
     - 30
+  awarded_total: 149962
   submission_urls:
     - communityfund.stellar.org/submissions/rec1ZJuYde6wkjlWJ
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

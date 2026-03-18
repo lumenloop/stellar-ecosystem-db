@@ -1,8 +1,7 @@
 title: HiYield
 other_names: null
-parent: Lydia Labs
-description: |
-  HiYield is building key components of onchain capital markets infrastructure to bolster liquidity. Our initial products include a tokenization protocol and a custom-built lending market ideal for onchain repurchase agreements and fixed-income collateral types.
+parent: null
+description: HiYield is building key components of onchain capital markets infrastructure to bolster liquidity. Our initial products include a tokenization protocol and a custom-built lending market ideal for onchain repurchase agreements and fixed-income collateral types.
 links:
   website:
     - hiyield.xyz
@@ -12,13 +11,11 @@ links:
   linkedin:
     - linkedin.com/company/hiyield-xyz
   discord:
-    - discord.gg/VqVsdubDB6
-    - discord.gg/5kgC3WYxKR
+    - discord.gg/vqvsdubdb6
   telegram: []
   youtube:
     - youtube.com/@hiyield_xyz
-  instagram:
-    - hiyield.xyz
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -32,16 +29,16 @@ attributes:
     - United States
   based_in: United States
 scf:
-  awarded_total: 150000
   awarded_round:
     - 18
+  awarded_total: 150000
   submission_urls:
     - communityfund.stellar.org/submissions/recjwQ8Ebg6OIV4BT
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: 'Lydia Labs: HiYield '
       url: sorobansecurity.com/report/67
       date: '2024-05-29T04:25:14.084Z'
       auditor: Veridise
+  tokens: []
+  contracts: []

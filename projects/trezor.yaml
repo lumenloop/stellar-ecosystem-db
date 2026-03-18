@@ -13,12 +13,14 @@ links:
     - linkedin.com/company/trezor
   discord: []
   telegram: []
-  youtube: []
+  youtube:
+    - youtube.com/@trezorwallet
   instagram:
     - trezor.io
   reddit:
-    - r/TREZOR
-  tiktok: []
+    - r/trezor
+  tiktok:
+    - trezor.io_official
   linktree: []
   github:
     - github.com/trezor
@@ -28,6 +30,6 @@ attributes:
   operating_region: []
   based_in: United States
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

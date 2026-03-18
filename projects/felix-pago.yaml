@@ -10,6 +10,7 @@ links:
   x:
     - felixpago
   linkedin:
+    - linkedin.com/company/f%c3%a9lix-technologies
     - linkedin.com/company/felix-pago
   discord: []
   telegram: []
@@ -27,6 +28,6 @@ attributes:
   operating_region: []
   based_in: United States
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

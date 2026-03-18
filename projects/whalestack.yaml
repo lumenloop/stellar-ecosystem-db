@@ -2,8 +2,7 @@ title: Whalestack
 other_names:
   - COINQVEST
 parent: null
-description: |
-  Enterprise Cryptocurrency Payment Processing
+description: A cryptocurrency payment gateway and API solution that enables businesses to accept and settle payments in digital currencies like Bitcoin, Ethereum, and Stellar Lumens, converting them into fiat currencies such as USD or EUR.
 links:
   website:
     - coinqvest.com
@@ -28,14 +27,14 @@ attributes:
     - Finland
   based_in: Finland
 scf:
-  awarded_total: 354506
   awarded_round:
     - 4
     - 7
+  awarded_total: 354506
   submission_urls:
     - communityfund.stellar.org/submissions/recTcTox813mQJThm
     - communityfund.stellar.org/submissions/recclYO5p5WMKnecg
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

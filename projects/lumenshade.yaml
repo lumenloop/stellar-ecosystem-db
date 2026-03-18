@@ -2,11 +2,10 @@ title: LumenShade
 other_names:
   - 'LumenShade: privacy pools'
 parent: null
-description: |
-  This project proposes building a privacy pools protocol on the Stellar network, enabling privacy-preserving asset transfers while maintaining the potential for regulatory compliance.  Inspired by initiatives like 0xbow’s Privacy Pools, the goal is to offer users the ability to break transaction linkability using zero-knowledge proofs.  Integrating privacy pools into Stellar will enhance the network’s appeal to privacy-conscious users and institutions, unlock shielded payments, and lay the foundation for compliant, private DeFi on Stellar.  The project will proceed in two phases:  1. Phase 1: Deliver a fully functional privacy pool with private deposits and withdrawals. 2. Phase 2: Introduce optional compliance mechanisms such as user-defined association sets and selective disclosure, aligning with regulatory expectations.
+description: Privacy pools protocol on Stellar enabling compliant confidential transactions while maintaining regulatory transparency.
 links:
   website:
-    - docs.google.com/presentation/d/1GoI9ggjNHdXH49QkSbx8nwE7KhXECMnn14j0uV92bjY
+    - docs.google.com/presentation/d/1goi9ggjnhdxh49qksbx8nwe7khxecmnn14j0uv92bjy
   blog: []
   x:
     - 0xteddav
@@ -27,12 +26,12 @@ attributes:
     - Europe & Central Asia
   based_in: France
 scf:
-  awarded_total: 135000
   awarded_round:
     - 37
+  awarded_total: 135000
   submission_urls:
     - communityfund.stellar.org/submissions/recK30XDY8nKSGFL7
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

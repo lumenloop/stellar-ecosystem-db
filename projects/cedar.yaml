@@ -14,8 +14,7 @@ links:
   discord: []
   telegram: []
   youtube: []
-  instagram:
-    - cedar.money
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -26,6 +25,6 @@ attributes:
   operating_region: []
   based_in: Nigeria
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

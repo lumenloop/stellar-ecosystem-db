@@ -1,8 +1,7 @@
 title: Rango
 other_names: null
 parent: null
-description: |
-  Rango proposes activating Stellar multi-chain interoperability by integrating the Stellar chain, along with its prominent, secure DEXs and bridges, into the Rango ecosystem. Crypto users, from novice to professional, will be able to swap any token from any chain to Stellar and vice versa with the best rates and lowest fees, all without changing interfaces. Rango's smart routing engine suggests optimized routes, allowing users to select their desired route based on outcome amount, network fees, and speed.
+description: Multi-chain interoperability platform integrating Stellar's DEXs and bridges, enabling seamless token swaps across chains with smart routing for optimal rates and fees.
 links:
   website:
     - rango.exchange
@@ -13,7 +12,7 @@ links:
     - rangoexchange
   linkedin: []
   discord:
-    - discord.gg/q3EngGyTrZ
+    - discord.gg/q3enggytrz
   telegram:
     - t.me/rangoexchange
   youtube:
@@ -33,12 +32,12 @@ attributes:
     - Europe
   based_in: Turkey
 scf:
-  awarded_total: 60000
   awarded_round:
     - 31
+  awarded_total: 60000
   submission_urls:
     - communityfund.stellar.org/submissions/recg8QhGImWoK3n1g
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

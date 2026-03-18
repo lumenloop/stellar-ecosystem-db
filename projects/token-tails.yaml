@@ -1,8 +1,7 @@
 title: Token Tails
 other_names: null
 parent: null
-description: |
-  Play to save - Play with your virtual cat to save a cat in the shelter
+description: Token Tails is a Web3 play-to-save game where players adopt virtual NFT cats linked to real shelter cats, combining gaming with philanthropy. By caring for their virtual pets and participating in various in-game activities, players earn tokens and contribute to the welfare of real cats in shelters.
 links:
   website:
     - tokentails.com
@@ -12,17 +11,14 @@ links:
     - tokentails
   linkedin:
     - linkedin.com/company/token-tails
-    - linkedin.com/in/zygimantas-bagdzevicius
   discord:
-    - discord.gg/4FVYmnd7Hg
+    - discord.gg/4fvymnd7hg
   telegram:
-    - t.me/+ofyPNIfNX5w4ZjM8
+    - t.me/+ofypnifnx5w4zjm8
   youtube: []
-  instagram:
-    - tokentails
+  instagram: []
   reddit: []
-  tiktok:
-    - tokentails
+  tiktok: []
   linktree: []
   github:
     - github.com/zbagdzevicius/tokentails
@@ -37,14 +33,14 @@ attributes:
     - Europe & Central Asia
   based_in: Lithuania
 scf:
-  awarded_total: 144000
   awarded_round:
     - 26
     - 30
+  awarded_total: 144000
   submission_urls:
     - communityfund.stellar.org/submissions/reco9b4GbncGKoSNb
     - communityfund.stellar.org/submissions/recEC30UHrhQ3h2Ue
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

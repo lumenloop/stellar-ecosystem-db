@@ -1,8 +1,7 @@
 title: Phoenix
 other_names: null
 parent: null
-description: |
-  Phoenix's AMM enables decentralized swaps of crypto assets and is the first of a full suite of synergistic DeFi protocols 
+description: Phoenix's AMM enables decentralized swaps of crypto assets and is the first of a full suite of synergistic DeFi protocols.
 links:
   website:
     - phoenix-hub.io
@@ -11,7 +10,7 @@ links:
     - phoenixdefihub
   linkedin: []
   discord:
-    - discord.gg/yWqJwJ4yza
+    - discord.gg/ywqjwj4yza
   telegram: []
   youtube: []
   instagram: []
@@ -19,8 +18,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/Phoenix-Protocol-Group
-    - github.com/phoenix-Protocol-Group
+    - github.com/phoenix-protocol-group
 attributes:
   category: Financial Protocols
   tags:
@@ -30,22 +28,22 @@ attributes:
     - United States
   based_in: Germany
 scf:
-  awarded_total: 394500
   awarded_round:
     - 16
     - 20
     - 25
     - Liquidity Award - '24 Q1
+  awarded_total: 394500
   submission_urls:
     - communityfund.stellar.org/submissions/recLOzDpEMgJWDbTe
     - communityfund.stellar.org/submissions/recyJLOWkdnsGtimI
     - communityfund.stellar.org/submissions/recI6IVWB26SsKBbx
     - communityfund.stellar.org/submissions/recW43Bu8M9c0Mb0p
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: Auditing Report Hardening Blockchain Security with Formal Methods for Phoenix DeFi Hub
       url: sorobansecurity.com/report/21
       date: '2024-05-02T15:00:00Z'
       auditor: Veridise
+  tokens: []
+  contracts: []

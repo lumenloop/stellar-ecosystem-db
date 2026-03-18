@@ -2,8 +2,7 @@ title: Rehoboth
 other_names:
   - Rehoboth Finance
 parent: null
-description: |
-  Crypto Savings and Payments
+description: Crypto savings and payments wallet for the African market, built on Stellar.
 links:
   website:
     - rehobothfinance.com
@@ -22,7 +21,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/Rehoboth-Finance
+    - github.com/rehoboth-finance
 attributes:
   category: Applications
   tags:
@@ -33,12 +32,12 @@ attributes:
     - Sub-Saharan Africa
   based_in: Nigeria
 scf:
-  awarded_total: 23300
   awarded_round:
     - 27
+  awarded_total: 23300
   submission_urls:
     - communityfund.stellar.org/submissions/recHJGfP4QX8paLWp
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

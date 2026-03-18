@@ -2,7 +2,7 @@ title: Blade
 other_names:
   - 'Blade: TradFi to DeFi Bridge'
 parent: null
-description: "Blade Labs utilizes Stellar & Soroban to offer a suite for enterprises to tokenize RWA's, facilitating a transition to DeFi.\_\n"
+description: Blade Labs utilizes Stellar & Soroban to offer a suite for enterprises to tokenize RWA's, facilitating a transition to DeFi.
 links:
   website:
     - bladelabs.io
@@ -14,13 +14,14 @@ links:
     - linkedin.com/company/blade-group
   discord: []
   telegram: []
-  youtube: []
+  youtube:
+    - youtube.com/@bladelabsofficial
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/Blade-Labs
+    - github.com/blade-labs
 attributes:
   category: Financial Protocols
   tags: []
@@ -28,12 +29,12 @@ attributes:
     - United Arab Emirates
   based_in: Argentina
 scf:
-  awarded_total: 50000
   awarded_round:
     - 25
+  awarded_total: 50000
   submission_urls:
     - communityfund.stellar.org/submissions/recggPol2z3X8Ndoi
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

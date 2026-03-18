@@ -1,8 +1,7 @@
 title: MultiClique
 other_names: null
 parent: null
-description: |
-  A policy and workflow framwork for multisignature accounts
+description: A policy and workflow framwork for multisignature accounts.
 links:
   website:
     - multiclique.org
@@ -26,12 +25,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 97500
   awarded_round:
     - 19
+  awarded_total: 97500
   submission_urls:
     - communityfund.stellar.org/submissions/recRZEosG6FWORKcP
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

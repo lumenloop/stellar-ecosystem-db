@@ -2,8 +2,7 @@ title: Orally
 other_names:
   - Orally Network
 parent: null
-description: |
-  Fully decentralized oracles for any type of data from real world and side chains. 
+description: On-chain oracles with cross-chain capabilities. Push and pull models with unlimited price feeds and custom data feeds.
 links:
   website:
     - orally.network
@@ -35,12 +34,12 @@ attributes:
     - Europe & Central Asia
   based_in: Portugal
 scf:
-  awarded_total: 48000
   awarded_round:
     - 27
+  awarded_total: 48000
   submission_urls:
     - communityfund.stellar.org/submissions/recCLcdUOLt2AvNHe
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

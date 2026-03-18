@@ -2,8 +2,7 @@ title: Encode Club
 other_names:
   - Encode Soroban/Stellar Educate
 parent: null
-description: |
-  A four week education series to bring Encode's developers and beyond into the Stellar and Soroban ecosystem.
+description: A four week education series to bring Encode's developers and beyond into the Stellar and Soroban ecosystem.
 links:
   website:
     - encode.club
@@ -12,11 +11,12 @@ links:
   x:
     - encodeclub
   linkedin:
-    - linkedin.com/school/encode-club
-  discord: []
+    - linkedin.com/company/encode-club
+  discord:
+    - discord.gg/bspbashcxv
   telegram: []
   youtube:
-    - youtube.com/channel/UC8MwfizU_2GYh_LugWJom6A
+    - youtube.com/channel/uc8mwfizu_2gyh_lugwjom6a
   instagram: []
   reddit: []
   tiktok: []
@@ -32,12 +32,12 @@ attributes:
     - United Kingdom
   based_in: United Kingdom
 scf:
-  awarded_total: 14999
   awarded_round:
     - 22
+  awarded_total: 14999
   submission_urls:
     - communityfund.stellar.org/submissions/reckoIk9ZoZ7UbElb
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,8 +1,7 @@
 title: NebulaVRF
 other_names: null
 parent: null
-description: |
-  Abstract NebulaVRF is the first fully on-chain Verifiable Random Function (VRF) for Soroban, providing secure, unpredictable, and verifiable randomness without relying on external oracles like Chainlink or Band Protocol. By ensuring trustless and decentralized randomness, NebulaVRF unlocks new possibilities for gaming, DeFi, NFT minting, governance, and fair lotteries on the Stellar blockchain. Objectives Eliminate reliance on external oracles by building a native Soroban-based VRF. Ensure verifiable, tamper-proof randomness for smart contracts. Optimize gas efficiency to minimize computation costs within Soroban. Enable wide adoption by making randomness accessible and easy to integrate into dApps. Technical Implementation Commit-Reveal Scheme: Users submit a hashed seed, revealing it later for randomness generation. Threshold Cryptography: Utilizes BLS or Schnorr signatures to create unpredictability. On-Chain Verification: Smart contracts verify randomness cryptographically, ensuring transparency. Efficient State Management: Designed for low-cost execution within Soroban’s resource model. NebulaVRF will be open-source, offering a trustless alternative to existing VRF solutions and empowering Stellar developers with provably fair randomness.
+description: First fully on-chain Verifiable Random Function for Soroban, providing provably fair randomness for games, lotteries, and NFT minting on Stellar.
 links:
   website:
     - notliveyet.com
@@ -16,7 +15,8 @@ links:
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/nebulavrf
 attributes:
   category: Developer Tooling
   tags:
@@ -30,12 +30,12 @@ attributes:
   operating_region: []
   based_in: India
 scf:
-  awarded_total: 34000
   awarded_round:
     - 34
+  awarded_total: 34000
   submission_urls:
     - communityfund.stellar.org/submissions/recIVYl2W3XMucMsJ
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

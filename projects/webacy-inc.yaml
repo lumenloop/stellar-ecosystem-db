@@ -1,19 +1,22 @@
 title: Webacy Inc.
 other_names: null
 parent: null
-description: |
-  Decisioning and risk data scoring for digital assets and wallets
+description: Decisioning and risk data scoring for digital assets and wallets.
 links:
   website:
     - dd.xyz
-  blog: []
+  blog:
+    - world.webacy.com
   x:
     - mywebacy
   linkedin:
     - linkedin.com/company/webacy
-  discord: []
-  telegram: []
-  youtube: []
+  discord:
+    - discord.gg/pwwpfpu9zp
+  telegram:
+    - t.me/webacysafetyhub
+  youtube:
+    - youtube.com/@webacy
   instagram: []
   reddit: []
   tiktok: []
@@ -26,12 +29,12 @@ attributes:
     - United States
   based_in: United States
 scf:
-  awarded_total: 150000
   awarded_round:
     - 38
+  awarded_total: 150000
   submission_urls:
     - communityfund.stellar.org/submissions/recpuas3WNh58u0RB
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

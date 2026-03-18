@@ -1,17 +1,18 @@
 title: EquitX
 other_names: null
 parent: null
-description: |
-  Diversify your portfolio by investing in small-cap stocks as crypto assets on the Stellar blockchain.
+description: A decentralized finance platform that enables users to mint, trade, and stake "xAssets," which are synthetic assets mirroring the value of real-world stocks
 links:
   website:
     - equitx.com
-  blog: []
+  blog:
+    - equitx.substack.com
   x:
     - equit_x
   linkedin:
     - linkedin.com/company/equitx
-  discord: []
+  discord:
+    - discord.gg/8dspdbwk
   telegram: []
   youtube: []
   instagram: []
@@ -19,8 +20,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/EquitXCompany
-    - github.com/EquitXCompany/equitx-project/commits/main
+    - github.com/equitxcompany
 attributes:
   category: Financial Protocols
   tags:
@@ -30,18 +30,18 @@ attributes:
     - Europe & Central Asia
   based_in: France
 scf:
-  awarded_total: 150300
   awarded_round:
     - 26
     - 31
+  awarded_total: 150300
   submission_urls:
     - communityfund.stellar.org/submissions/recgGcVWMy7qp8CAd
     - communityfund.stellar.org/submissions/recVpLJSgXgMroJVF
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: EquitX - Security Audit Report
       url: sorobansecurity.com/report/55
       date: '2025-11-16T23:00:00Z'
       auditor: Runtime Verification
+  tokens: []
+  contracts: []

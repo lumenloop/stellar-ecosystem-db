@@ -2,30 +2,26 @@ title: Qolaq
 other_names:
   - Qolaq Mutual Aid Platform
 parent: null
-description: |
-  applying smart contract to mutual aid to change the dynamics of the traditional insurance industry
+description: QolaQ is a community-driven mutual aid platform that leverages blockchain technology to provide transparent and decentralized support for members during times of need.
 links:
   website:
     - qolaq.org
-    - qolaq.org/en
   blog:
-    - medium.com/@readQolaQ
+    - medium.com/@readqolaq
   x:
     - qolaq_org
   linkedin:
     - linkedin.com/company/qolaq-foundation
-    - linkedin.com/linkfly.to/qolaqfoundation
   discord: []
   telegram:
-    - t.me/qolaqID
+    - t.me/qolaqid
   youtube: []
-  instagram:
-    - qolaqfoundation
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/QOLAQ
+    - github.com/qolaq
 attributes:
   category: Applications
   tags:
@@ -34,12 +30,12 @@ attributes:
   operating_region: []
   based_in: Indonesia
 scf:
-  awarded_total: 150000
   awarded_round:
     - 13
+  awarded_total: 150000
   submission_urls:
     - communityfund.stellar.org/submissions/rec5E23kDxA8mUFZP
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

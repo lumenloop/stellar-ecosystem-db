@@ -1,8 +1,7 @@
 title: BTQ
 other_names: null
 parent: null
-description: |
-  Offers a scaling solution to improve transaction verification speed and cost savings by leveraging zero-knowledge proofs.
+description: Offers a scaling solution to improve transaction verification speed and cost savings by leveraging zero-knowledge proofs.
 links:
   website:
     - btq.com
@@ -15,7 +14,7 @@ links:
   discord: []
   telegram: []
   youtube:
-    - youtube.com/@TheQuantumState
+    - youtube.com/@thequantumstate
   instagram:
     - btqglobal
   reddit: []
@@ -31,12 +30,12 @@ attributes:
     - Thailand
   based_in: Thailand
 scf:
-  awarded_total: 10000
   awarded_round:
     - 14
+  awarded_total: 10000
   submission_urls:
     - communityfund.stellar.org/submissions/rec8aXet5GgcZpRYc
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -2,26 +2,23 @@ title: Globachain
 other_names:
   - Globachain Payment Ecosystem
 parent: null
-description: |
-  On and off ramps for individuals and businesses; Merchant services and cross border payments for businesses; All on Stellar.
+description: On and off ramps for individuals and businesses; Merchant services and cross border payments for businesses; All on Stellar.
 links:
   website:
     - globachain.com
   blog: []
   x:
-    - globachain
+    - zyntafinance
   linkedin:
-    - linkedin.com/company/globachain
+    - linkedin.com/company/zyntafinance
   discord: []
   telegram: []
   youtube: []
-  instagram:
-    - globachain
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/Blocverse01/Globachain-DApp
     - github.com/globachain
 attributes:
   category: Applications
@@ -40,14 +37,14 @@ attributes:
     - Europe & Central Asia
   based_in: United Kingdom
 scf:
-  awarded_total: 138500
   awarded_round:
     - 29
     - 36
+  awarded_total: 138500
   submission_urls:
     - communityfund.stellar.org/submissions/recuYdA4IXkFUtuLI
     - communityfund.stellar.org/submissions/recFXRB2XM6kLXBFU
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

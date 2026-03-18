@@ -1,17 +1,16 @@
 title: Coala Pay
 other_names:
   - Coala Pay Billy Wallet
-  - Anticipatory Aid on Soroban
 parent: null
-description: |
-  Stellar is utilizing a unique payments platform to conduct group cash transfers and offramps using stable coins. This use case functions well where internet phone connectivity exists, and offramp providers are utilizing the Stellar ecosystem. In locations where offramp providers are scarce, and online connectivity challenged, Coala Pay will adapt the use of its Billy Wallet to facilitate last mile payments. In this instance, Billy will be brought onto mainnet to be compatible with Aid Assist, as an Aid Assist host. Coala Pay will utilize a QR code reconciliation system and vendor network to facilitate the last mile payments to Stellar Aid Assist transactions.
+description: Coala Pay is a platform designed to streamline the last-mile distribution of international aid funds. By leveraging blockchain technology and stablecoins, it aims to make the transfer of aid money simple, borderless, and programmable, insulating donor funds from foreign currency risks, excessive banking fees, and delays.
 links:
   website:
     - coalapay.org
   blog: []
   x:
     - coalapay
-  linkedin: []
+  linkedin:
+    - linkedin.com/company/coalapay
   discord: []
   telegram: []
   youtube: []
@@ -35,12 +34,12 @@ attributes:
     - Sub-Saharan Africa
   based_in: United States
 scf:
-  awarded_total: 60000
   awarded_round:
     - 35
+  awarded_total: 60000
   submission_urls:
     - communityfund.stellar.org/submissions/recGwDCJwC2pPUGKh
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

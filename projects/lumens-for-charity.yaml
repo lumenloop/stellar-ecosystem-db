@@ -1,8 +1,7 @@
 title: Lumens for Charity
 other_names: null
 parent: null
-description: |
-  Donate XLM directly to Global Charities
+description: Platform for donating to global charities and non-profit organizations using Stellar Lumens.
 links:
   website:
     - lumensforcharity.tech
@@ -23,12 +22,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: null
   awarded_round:
     - 3
+  awarded_total: null
   submission_urls:
     - communityfund.stellar.org/submissions/rec3aAt6DPzGOh5bO
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

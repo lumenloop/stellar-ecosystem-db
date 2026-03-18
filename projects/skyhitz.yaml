@@ -1,8 +1,7 @@
 title: Skyhitz
 other_names: null
 parent: null
-description: |
-  Skyhitz is at the forefront of the evolving music industry, leveraging blockchain technology to revolutionize how music is created, shared, and monetized.
+description: Skyhitz is at the forefront of the evolving music industry, leveraging blockchain technology to revolutionize how music is created, shared, and monetized.
 links:
   website:
     - skyhitz.io
@@ -13,17 +12,15 @@ links:
   linkedin:
     - linkedin.com/company/skyhitz
   discord:
-    - discord.gg/2C3HzsPEuZ
+    - discord.gg/2c3hzspeuz
   telegram: []
   youtube: []
-  instagram:
-    - skyhitz
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
     - github.com/skyhitz
-    - github.com/skyhitz/skyhitz
 attributes:
   category: Applications
   tags:
@@ -34,16 +31,16 @@ attributes:
     - Colombia
   based_in: Colombia
 scf:
-  awarded_total: 255000
   awarded_round:
     - 9
     - 10
     - 30
+  awarded_total: 255000
   submission_urls:
     - communityfund.stellar.org/submissions/reclNj9OycGGm4lKW
     - communityfund.stellar.org/submissions/recgnjAu0uHmoQNGJ
     - communityfund.stellar.org/submissions/rec0jaspuekXupv9N
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,8 +1,7 @@
 title: Hito Wallet
 other_names: null
 parent: null
-description: |
-  Enable the Hito hardware wallet to support Stellar. Hito, currently supports Bitcoin, Ethereum, Solana and NEAR and has sold more than 5,000 customized wallets.
+description: Enable the Hito hardware wallet to support Stellar. Hito, currently supports Bitcoin, Ethereum, Solana and NEAR and has sold more than 5,000 customized wallets.
 links:
   website:
     - hito.xyz
@@ -12,7 +11,8 @@ links:
   linkedin:
     - linkedin.com/company/hitoxyz
   discord: []
-  telegram: []
+  telegram:
+    - t.me/hito_wallet_news
   youtube: []
   instagram: []
   reddit: []
@@ -28,12 +28,12 @@ attributes:
     - North America (without Mexico)
   based_in: Germany
 scf:
-  awarded_total: 50000
   awarded_round:
     - 38
+  awarded_total: 50000
   submission_urls:
     - communityfund.stellar.org/submissions/rec2esWtRSdJCJBCO
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

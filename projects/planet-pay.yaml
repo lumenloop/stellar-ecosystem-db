@@ -2,8 +2,7 @@ title: Planet Pay
 other_names:
   - Stellar Flow
 parent: null
-description: |
-  No code/Low code workflow builder for Stellar Classic & Soroban
+description: PlanetPay provides advanced workflow tooling, Stellar and Soroban support, and a fully-fledged API for creating non-custodial wallets, KYC/KYB, and global payments, alongside white-label solutions for apps with on/off-ramps and card integrations.
 links:
   website:
     - planetpay.io
@@ -18,8 +17,8 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/ScaleMote/flow
-    - github.com/ScaleMote
+    - github.com/scalemote
+    - github.com/scalemote/flow
 attributes:
   category: Developer Tooling
   tags:
@@ -28,14 +27,14 @@ attributes:
   operating_region: []
   based_in: Argentina
 scf:
-  awarded_total: 145500
   awarded_round:
     - 14
     - 21
+  awarded_total: 145500
   submission_urls:
     - communityfund.stellar.org/submissions/rec6OemBgG8xOkFk1
     - communityfund.stellar.org/submissions/reckrr0bqgDyL0AX8
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

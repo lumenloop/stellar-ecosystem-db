@@ -1,8 +1,7 @@
 title: ClickPesa Debt Fund
 other_names: null
-parent: ClickPesa
-description: |
-  We provide Web3 end-to-end transparency and accountability promoting access to funding for SMEs and women-owned businesses
+parent: null
+description: Provides Web3 end-to-end transparency and accountability promoting access to funding for SMEs and women-owned businesses.
 links:
   website:
     - clickpesadebtfund.com
@@ -20,8 +19,8 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/ClickPesa
-    - github.com/ClickPesa-Debt-Fund/cdf-pool-ui
+    - github.com/clickpesa
+    - github.com/clickpesa-debt-fund
 attributes:
   category: Financial Protocols
   tags:
@@ -35,18 +34,18 @@ attributes:
     - Angola
   based_in: Tanzania
 scf:
-  awarded_total: 125000
   awarded_round:
     - 26
     - 28
+  awarded_total: 125000
   submission_urls:
     - communityfund.stellar.org/submissions/recLlGrfUZ3BXOFcw
     - communityfund.stellar.org/submissions/recEgzZZ8W6tacMCS
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: ClickPesa Oracle Aggregator
       url: sorobansecurity.com/report/13
       date: '2025-02-19T15:00:00Z'
       auditor: Runtime Verification
+  tokens: []
+  contracts: []

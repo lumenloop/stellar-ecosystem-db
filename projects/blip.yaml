@@ -2,8 +2,7 @@ title: Blip
 other_names:
   - 'Blip: Soroban Real-Time Monitoring'
 parent: null
-description: |
-  Blip0 is a platform offering real-time monitoring, alerts, dashboards, and APIs for Soroban smart contracts on the Stellar network. It helps developers detect issues instantly, optimize performance, and gain valuable insights into their contracts.
+description: Blip is a platform offering real-time monitoring, alerts, dashboards, and APIs for Soroban smart contracts on the Stellar network. It helps developers detect issues instantly, optimize performance, and gain valuable insights into their contracts.
 links:
   website:
     - blip.watch
@@ -19,8 +18,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/BlipMonitor
-    - github.com/0xbhvn/blip0
+    - github.com/blipmonitor
 attributes:
   category: Developer Tooling
   tags:
@@ -29,12 +27,12 @@ attributes:
   operating_region: []
   based_in: India
 scf:
-  awarded_total: 47000
   awarded_round:
     - 28
+  awarded_total: 47000
   submission_urls:
     - communityfund.stellar.org/submissions/recwBum9zIyqY6TC3
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

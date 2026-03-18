@@ -2,8 +2,7 @@ title: SecuRx
 other_names:
   - SecuRx - Medical Prescriptions
 parent: null
-description: |
-  SecuRx makes medical prescriptions safer, easier and more reliable than any previous solution for all healthcare systems worldwide
+description: SecuRx makes medical prescriptions safer, easier and more reliable than any previous solution for all healthcare systems worldwide.
 links:
   website:
     - securxtech.wixsite.com/securx
@@ -24,12 +23,12 @@ attributes:
   operating_region: []
   based_in: France
 scf:
-  awarded_total: 42400
   awarded_round:
     - 27
+  awarded_total: 42400
   submission_urls:
     - communityfund.stellar.org/submissions/recwS9b2xRCHdnssZ
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

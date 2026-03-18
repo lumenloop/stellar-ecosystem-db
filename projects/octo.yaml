@@ -2,8 +2,7 @@ title: OCTO
 other_names:
   - OCTO ultimate SocioFi NFT hub
 parent: null
-description: |
-  OCTO is a super dApp that revolves around NFT and digital assets with a strong emphasis on creators and their communities.
+description: OCTO is a super dApp that revolves around NFT and digital assets with a strong emphasis on creators and their communities.
 links:
   website:
     - octoplace.io
@@ -13,7 +12,7 @@ links:
     - octoplace
   linkedin: []
   discord:
-    - discord.gg/73Ru5XUP2X
+    - discord.gg/73ru5xup2x
   telegram: []
   youtube: []
   instagram: []
@@ -21,7 +20,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/OCTOplace
+    - github.com/octoplace
 attributes:
   category: Applications
   tags:
@@ -37,12 +36,12 @@ attributes:
   operating_region: []
   based_in: Vietnam
 scf:
-  awarded_total: 40500
   awarded_round:
     - 28
+  awarded_total: 40500
   submission_urls:
     - communityfund.stellar.org/submissions/rec59dhu7lEcLfHwR
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

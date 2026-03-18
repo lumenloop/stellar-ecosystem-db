@@ -1,11 +1,10 @@
 title: Comet
 other_names: null
 parent: null
-description: |
-  Comet is a weighted AMM protocol that offers soroban projects a flexible solution set when picking liquidity venues
+description: Comet is a weighted AMM protocol that offers soroban projects a flexible solution set when picking liquidity venues.
 links:
   website:
-    - github.com/CometDEX
+    - github.com/cometdex
   blog: []
   x: []
   linkedin: []
@@ -17,7 +16,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/CometDEX
+    - github.com/cometdex
 attributes:
   category: Financial Protocols
   tags:
@@ -26,18 +25,18 @@ attributes:
   operating_region: []
   based_in: United States
 scf:
-  awarded_total: 291000
   awarded_round:
     - 13
     - 18
+  awarded_total: 291000
   submission_urls:
     - communityfund.stellar.org/submissions/recG7Kj7ouwAFP2XY
     - communityfund.stellar.org/submissions/recIRbsKDA1ayFXCF
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: Comet Audit
       url: sorobansecurity.com/report/14
       date: '2024-01-14T15:00:00Z'
       auditor: OtterSec
+  tokens: []
+  contracts: []

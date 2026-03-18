@@ -1,8 +1,7 @@
 title: Plutus
 other_names: null
 parent: null
-description: |
-  Build infrastructure and sample application for conditional NFT ownership to enable use cases like rental, mortgage, and lending.
+description: Build infrastructure and sample application for conditional NFT ownership to enable use cases like rental, mortgage, and lending.
 links:
   website:
     - plutus.rentals
@@ -25,12 +24,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 98600
   awarded_round:
     - 17
+  awarded_total: 98600
   submission_urls:
     - communityfund.stellar.org/submissions/recUIdWohR9eqJIg8
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

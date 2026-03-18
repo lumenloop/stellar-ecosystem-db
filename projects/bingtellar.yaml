@@ -1,8 +1,7 @@
 title: Bingtellar
 other_names: null
 parent: null
-description: |
-  Bingtellar offers cross-border payments for individuals and business in Africa using Stellar-native stablecoins for low fees.
+description: Bingtellar offers cross-border payments for individuals and business in Africa using Stellar-native stablecoins for low fees.
 links:
   website:
     - bingtellar.com
@@ -14,16 +13,14 @@ links:
     - linkedin.com/company/bingtellar
   discord: []
   telegram:
-    - t.me/BingtellarCommunity
+    - t.me/bingtellarcommunity
   youtube: []
-  instagram:
-    - bingtellarhq
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/jcdirect
-    - github.com/bingtellar/Bingtellar-Serverside
+    - github.com/bingtellar/bingtellar-serverside
 attributes:
   category: Applications
   tags:
@@ -36,12 +33,12 @@ attributes:
     - Latin America & Caribbean
   based_in: Nigeria
 scf:
-  awarded_total: 30000
   awarded_round:
     - 26
+  awarded_total: 30000
   submission_urls:
     - communityfund.stellar.org/submissions/recG1A804BXcOc2ej
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

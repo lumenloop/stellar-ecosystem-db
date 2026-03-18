@@ -2,9 +2,8 @@ title: Polaris Lend
 other_names:
   - Fixed Rate Fixie
   - Fixed Rate "Fixie"
-parent: Jet Protocol
-description: |
-  CLOB-based fixed rate fixed term lending
+parent: null
+description: CLOB-based fixed rate fixed term lending.
 links:
   website:
     - jetprotocol.io
@@ -14,7 +13,7 @@ links:
     - jetprotocol
   linkedin: []
   discord:
-    - discord.gg/RW2hsqwfej
+    - discord.gg/rw2hsqwfej
   telegram: []
   youtube: []
   instagram: []
@@ -23,7 +22,6 @@ links:
   linktree: []
   github:
     - github.com/jet-lab/polaris
-    - github.com/jet-lab
 attributes:
   category: Financial Protocols
   tags: []
@@ -31,12 +29,12 @@ attributes:
     - United States
   based_in: United States
 scf:
-  awarded_total: 50000
   awarded_round:
     - 21
+  awarded_total: 50000
   submission_urls:
     - communityfund.stellar.org/submissions/rec1JSgNcanaFgHJ5
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -98,8 +98,8 @@ Of **573** SCF-funded projects:
 | Halborn | 4 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Сoinspect | 1 |
 | Code4rena | 1 |
+| Сoinspect | 1 |
 | Cantina | 1 |
 
 ## Data Sources

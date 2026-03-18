@@ -1,8 +1,7 @@
 title: OpenSolar
 other_names: null
 parent: null
-description: |
-  Securitized project financing powered by Stellar
+description: Open-source platform leveraging Stellar to facilitate securitized crowd-investment in community-owned solar energy projects using IoT-driven smart contracts.
 links:
   website:
     - openx.solar
@@ -17,19 +16,19 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/YaleOpenLab/opensolar
+    - github.com/yaleopenlab/opensolar
 attributes:
   category: Applications
   tags: []
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 24357.0234
   awarded_round:
     - 5
+  awarded_total: 24357.0234
   submission_urls:
     - communityfund.stellar.org/submissions/recei4RC1NYovsqZi
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

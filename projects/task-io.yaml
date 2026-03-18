@@ -1,8 +1,7 @@
 title: Task.io
 other_names: null
 parent: null
-description: |
-  Connect teams with your social missions  Mobile-first technology powered by blockchain. Gather data, provide user incentives, and report on the impact created.
+description: Connect teams with your social missions  Mobile-first technology powered by blockchain. Gather data, provide user incentives, and report on the impact created.
 links:
   website:
     - task.io
@@ -14,10 +13,9 @@ links:
     - linkedin.com/company/taskdotio
   discord: []
   telegram:
-    - t.me/joinchat/HV8nuREPTKOXtC-DcCofIw
+    - t.me/joinchat/hv8nureptkoxtc-dccofiw
   youtube: []
-  instagram:
-    - taskdotio
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -29,12 +27,12 @@ attributes:
   operating_region: []
   based_in: Thailand
 scf:
-  awarded_total: 283499
   awarded_round:
     - 7
+  awarded_total: 283499
   submission_urls:
     - communityfund.stellar.org/submissions/rechmD8fdwrII1xaQ
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

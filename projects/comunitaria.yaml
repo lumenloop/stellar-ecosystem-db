@@ -1,8 +1,7 @@
 title: Comunitaria
 other_names: null
 parent: null
-description: |
-  Comunitaria empowers governments and large NGOs, including Caritas, with a scalable tool to rapidly deploy community currencies as "multipurpose electronic vouchers" without the need for complex compliance. This fast-track approach immediately delivers funds to underserved communities and boosts local commerce. Once established, the platform integrates the Stellar Disbursement Platform to enable stablecoin transactions, combining hyperlocal resilience with global liquidity for cross-border disbursements and rapid crisis response. Leveraging Soroban smart contracts to manage multi-party operations efficiently, Comunitaria offers an adaptable financial system that attracts international stakeholders seeking inclusive solutions, while remaining extremely simple for end-users.
+description: Comunitaria leverages Soroban smart contracts to deploy community currencies, enabling governments and NGOs to distribute funds and boost local commerce with efficiency and simplicity.
 links:
   website:
     - comunitaria.com
@@ -15,13 +14,11 @@ links:
   discord: []
   telegram: []
   youtube: []
-  instagram:
-    - comunitaria_com
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/bitbucket.org/vestigiadesarrollo/servidorcomunitaria/src/main
     - github.com/comunitaria
 attributes:
   category: Applications
@@ -37,12 +34,12 @@ attributes:
     - Europe & Central Asia
   based_in: Argentina
 scf:
-  awarded_total: 49000
   awarded_round:
     - 34
+  awarded_total: 49000
   submission_urls:
     - communityfund.stellar.org/submissions/recO9eIoSvayjH7mb
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

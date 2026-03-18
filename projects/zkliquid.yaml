@@ -3,26 +3,24 @@ other_names:
   - 'LiquidsFi: EVM - Soroban Bridge'
   - 'LiquidsFi: Bridge and Cross-chain Oracle'
 parent: null
-description: |
-  LiquidsFi is a decentralized liquidity protocol and interoperability oracle network connecting liquidity and onchain data across siloed blockchains.
+description: LiquidsFi is a decentralized liquidity protocol and interoperability oracle network connecting liquidity and onchain data across siloed blockchains.
 links:
   website:
-    - zkliquid.io
     - liquids.fi
   blog: []
   x:
     - liquidsfi
   linkedin: []
   discord: []
-  telegram: []
+  telegram:
+    - t.me/liquidsfi
   youtube: []
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/ZKLiquid
-    - github.com/orgs/LiquidsFi
+    - github.com/liquidsfi
 attributes:
   category: Financial Protocols
   tags:
@@ -32,14 +30,14 @@ attributes:
     - North America (without Mexico)
   based_in: United States
 scf:
-  awarded_total: 149525
   awarded_round:
     - 28
     - 36
+  awarded_total: 149525
   submission_urls:
     - communityfund.stellar.org/submissions/rec97jRXGlg930CDY
     - communityfund.stellar.org/submissions/rech0Pycwpd2EeWg4
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

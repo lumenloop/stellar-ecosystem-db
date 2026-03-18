@@ -1,8 +1,7 @@
 title: DevAsign
 other_names: null
 parent: null
-description: |
-  DevAsign streamlines open-source project management by automating bounty payouts and intelligently handling pull requests with advanced AI review.
+description: DevAsign streamlines open-source project management by automating bounty payouts and intelligently handling pull requests with advanced AI review.
 links:
   website:
     - devasign.com
@@ -11,14 +10,16 @@ links:
     - devasign
   linkedin:
     - linkedin.com/company/devasign
-  discord: []
+  discord:
+    - discord.gg/dprkcsty
   telegram: []
   youtube: []
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/devasignhq
 attributes:
   category: Developer Tooling
   tags: []
@@ -29,12 +30,12 @@ attributes:
     - South Asia
   based_in: Nigeria
 scf:
-  awarded_total: 80000
   awarded_round:
     - 39
+  awarded_total: 80000
   submission_urls:
     - communityfund.stellar.org/submissions/recPtIJ6s4UFHTEWs
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

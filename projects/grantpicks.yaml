@@ -2,13 +2,10 @@ title: GrantPicks
 other_names:
   - GrantPicks by PotLock
 parent: null
-description: |
-  GrantPicks by Potlock is a Soroban-enabled funding platform using pairwise voting to easily allocate grants to Stellar projects.
+description: GrantPicks by Potlock is a Soroban-enabled funding platform using pairwise voting to easily allocate grants to Stellar projects.
 links:
   website:
-    - stellar.grantpicks.com
     - potlock.org
-    - potlock.org -> soon https://stellar.grantpicks.com
   blog:
     - blog.potlock.org
   x:
@@ -17,7 +14,7 @@ links:
     - linkedin.com/company/potlock
   discord: []
   telegram:
-    - t.me/+27V0rWUiq5liZmIx
+    - t.me/+27v0rwuiq5lizmix
   youtube:
     - yotube.com/@potlock
   instagram: []
@@ -25,8 +22,8 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/PotLock/grantpicks-stellar
-    - github.com/potlock/grantpicks
+    - github.com/potlock
+    - github.com/potlock/grantpicks-stellar
 attributes:
   category: Applications
   tags:
@@ -36,16 +33,16 @@ attributes:
     - Africa
   based_in: United States
 scf:
-  awarded_total: 50000
   awarded_round:
     - 27
+  awarded_total: 50000
   submission_urls:
     - communityfund.stellar.org/submissions/recd8I7PUKkkPIO6d
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: Veridise Auditing Report for GrantPicks
       url: sorobansecurity.com/report/44
       date: '2025-04-29T15:00:00Z'
       auditor: Veridise
+  tokens: []
+  contracts: []

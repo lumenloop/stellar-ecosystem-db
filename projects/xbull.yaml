@@ -1,8 +1,7 @@
 title: xBull
 other_names: null
-parent: Creit Tech
-description: |
-  The most versatile Stellar Wallet in the whole network… Created by demanding developers, for demanding users.
+parent: null
+description: xBull Wallet is an open-source, non-custodial wallet designed for managing Stellar assets, offering a user-friendly interface and robust features. It supports multiple platforms, including web browsers, Android, and iOS devices, enabling users to send, receive, and swap assets seamlessly.
 links:
   website:
     - xbull.app
@@ -18,7 +17,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/Creit-Tech/xBull-Wallet
+    - github.com/creit-tech/xbull-wallet
 attributes:
   category: Applications
   tags:
@@ -29,12 +28,12 @@ attributes:
   operating_region: []
   based_in: Canada
 scf:
-  awarded_total: 56200
   awarded_round:
     - 9
+  awarded_total: 56200
   submission_urls:
     - communityfund.stellar.org/submissions/recFqkCcGL7ABiF7G
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

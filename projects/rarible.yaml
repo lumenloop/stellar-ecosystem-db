@@ -2,11 +2,10 @@ title: Rarible
 other_names:
   - Rarible.com & Stellar
 parent: null
-description: |
-  Rarible is excited to deliver a world class NFT experience to Stellar.  Rarible will integrate Stellar NFT's into Rarible.com, and in turn expand the ecosystem, user adoption and multiply transactions to a whole new level. 
+description: Rarible is an NFT marketplace that enables users to create, buy, and sell digital assets across multiple blockchains, including Ethereum and Polygon. Founded in 2019, it supports brands, communities, and individual creators in the NFT ecosystem.
 links:
   website:
-    - Rarible.com
+    - rarible.com
   blog:
     - rarible.com/blog
   x:
@@ -17,8 +16,7 @@ links:
     - discord.gg/rarible
   telegram: []
   youtube: []
-  instagram:
-    - rarible
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -35,12 +33,12 @@ attributes:
     - United States
   based_in: United States
 scf:
-  awarded_total: 150000
   awarded_round:
     - 30
+  awarded_total: 150000
   submission_urls:
     - communityfund.stellar.org/submissions/recRfE25wZkOThcrq
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

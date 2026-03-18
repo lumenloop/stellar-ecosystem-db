@@ -1,18 +1,18 @@
 title: attest
 other_names:
   - Stellar Attestation Service
-parent: accred
-description: |
-  Soroban framework for attesting to digital interactions on the Stellar network.
+parent: null
+description: Soroban framework for attesting to digital interactions on the Stellar network.
 links:
   website:
-    - attest.so
-    - sasdev.xyz
+    - attestprotocol.org
   blog: []
   x:
     - attestprotocol
-  linkedin: []
-  discord: []
+  linkedin:
+    - linkedin.com/company/attestprotocol
+  discord:
+    - discord.gg/7kvur5ja5m
   telegram: []
   youtube: []
   instagram: []
@@ -37,14 +37,14 @@ attributes:
     - Ghana
   based_in: United Kingdom
 scf:
-  awarded_total: 120550
   awarded_round:
     - 29
     - 32
+  awarded_total: 120550
   submission_urls:
     - communityfund.stellar.org/submissions/recF8AbyncoxdFYvk
     - communityfund.stellar.org/submissions/recIHN98Ja7MMb4DX
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,8 +1,7 @@
 title: K3 Labs
 other_names: null
 parent: null
-description: |
-  K3 is brand new tool that transforms how businesses and developers interoperate with Web 3 technologies - allowing for the orchestration of both simple and complex workflows through the use of a simple drag, drop, and configure interface.
+description: K3 is brand new tool that transforms how businesses and developers interoperate with Web 3 technologies - allowing for the orchestration of both simple and complex workflows through the use of a simple drag, drop, and configure interface.
 links:
   website:
     - k3-labs.com
@@ -12,7 +11,8 @@ links:
   linkedin:
     - linkedin.com/company/k3-labs
   discord: []
-  telegram: []
+  telegram:
+    - t.me/k3labscoms
   youtube: []
   instagram: []
   reddit: []
@@ -28,12 +28,12 @@ attributes:
     - Switzerland
   based_in: United States
 scf:
-  awarded_total: 75000
   awarded_round:
     - 31
+  awarded_total: 75000
   submission_urls:
     - communityfund.stellar.org/submissions/recSO1s068FUtkTaJ
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

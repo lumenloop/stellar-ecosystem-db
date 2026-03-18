@@ -1,8 +1,7 @@
 title: Accelar
 other_names: null
 parent: null
-description: |
-  A unified product infrastructure; develop, launch and manage integratedweb2 and web3 features with multichain capabilities.
+description: Accelar is a unified product development infrastructure that streamlines the creation, collaboration, launch, and management of both Web2 and Web3 applications.
 links:
   website:
     - accelar.io
@@ -18,7 +17,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/Accelar-labs
+    - github.com/accelar-labs
 attributes:
   category: Applications
   tags:
@@ -29,12 +28,12 @@ attributes:
     - São Paulo
   based_in: Brazil
 scf:
-  awarded_total: 33000
   awarded_round:
     - 26
+  awarded_total: 33000
   submission_urls:
     - communityfund.stellar.org/submissions/recCMqF6lhiTo4ZeO
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -2,11 +2,10 @@ title: FX Swap
 other_names:
   - FX Swap by Hedgehog
 parent: null
-description: "An efficient and alternative way of foreign currency borrowing or investing.\_\n"
+description: An efficient and alternative way of foreign currency borrowing or investing.
 links:
   website:
     - hedgeeffective.com
-    - hedgeeffective.com/hedgehog
   blog: []
   x: []
   linkedin:
@@ -25,12 +24,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 42450
   awarded_round:
     - 21
+  awarded_total: 42450
   submission_urls:
     - communityfund.stellar.org/submissions/rec5LpAd2YYGkMTnZ
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

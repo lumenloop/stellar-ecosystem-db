@@ -1,8 +1,7 @@
 title: Volta Circuit
 other_names: null
 parent: null
-description: |
-  Volta Circuit is a non-custodial, smart contract-based security platform designed to enable secure asset management, DeFi participation, and cross-chain mobility. Modeled after Gnosis Safe, our architecture ensures users maintain full control over their assets through programmable, on-chain access controls without relying on centralized custodians.  We seek support to integrate Stellar into Volta Circuit, extending our secure, multi-signature smart contract capabilities to the Stellar network. This will allow users to safely store and manage Stellar-based assets, interact with Stellar-native DeFi protocols, and facilitate trustless cross-chain transactions.  Implementation Highlights Non-custodial, multi-signature smart contract wallets for Stellar assets On-chain policy enforcement for secure, automated transaction approvals Cross-chain interoperability, enabling seamless asset transfers between Stellar and other blockchains DeFi-ready architecture, allowing institutional and individual users to engage with Stellar-based financial applications securely By adding Stellar support, Volta Circuit will enhance secure, non-custodial asset management and bridge DeFi ecosystems across chains, unlocking new liquidity opportunities for users and developers alike. 🚀
+description: Non-custodial, smart contract-based security protocol on Stellar providing automated asset protection, recovery mechanisms, and transaction safeguards.
 links:
   website:
     - voltacircuit.com
@@ -19,7 +18,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/VoltaHQ
+    - github.com/voltahq
 attributes:
   category: Infrastructure & Services
   tags:
@@ -34,12 +33,12 @@ attributes:
     - North America (without Mexico)
   based_in: United States
 scf:
-  awarded_total: 150000
   awarded_round:
     - 35
+  awarded_total: 150000
   submission_urls:
     - communityfund.stellar.org/submissions/recXYqqyG4JF1Rrp3
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

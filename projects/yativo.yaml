@@ -12,8 +12,10 @@ links:
   linkedin:
     - linkedin.com/company/yativo
   discord: []
-  telegram: []
-  youtube: []
+  telegram:
+    - t.me/yativocommunity
+  youtube:
+    - youtube.com/@yativo
   instagram: []
   reddit: []
   tiktok: []
@@ -26,6 +28,6 @@ attributes:
   operating_region: []
   based_in: Chile
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,8 +1,7 @@
 title: Stellarmint
 other_names: null
 parent: null
-description: |
-  Stellar Tokens Made Easier 
+description: Stellarmint is a platform that simplifies the creation of tokens on the Stellar network, allowing users to define token attributes and issue them directly to their Stellar wallets without technical complexities.
 links:
   website:
     - stellarmint.io
@@ -25,12 +24,12 @@ attributes:
   operating_region: []
   based_in: United States
 scf:
-  awarded_total: 51277.94
   awarded_round:
     - 5
+  awarded_total: 51277.94
   submission_urls:
     - communityfund.stellar.org/submissions/recqwxZuu8Ox6MgqP
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

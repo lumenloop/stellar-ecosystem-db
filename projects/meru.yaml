@@ -1,26 +1,22 @@
 title: Meru
 other_names: null
 parent: null
-description: |
-  Financial services app for Freelancers and remote workers in Latin America
+description: Financial services app for Freelancers and remote workers in Latin America.
 links:
   website:
     - getmeru.com
   blog:
     - getmeru.com/blog
   x:
-    - getmeru
+    - somosmeru
   linkedin:
     - linkedin.com/company/meru-r3mit-solutions-inc
-    - linkedin.com/company/88967421/admin/feed/posts
   discord:
-    - discord.gg/dgAdX37rHN
-    - discord.gg/AJwxuhGY
+    - discord.gg/dgadx37rhn
   telegram: []
   youtube:
-    - youtube.com/channel/UCAsKXCWWM7OoT5bWimGttrg
-  instagram:
-    - meru.app
+    - youtube.com/channel/ucaskxcwwm7oot5bwimgttrg
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -40,16 +36,16 @@ attributes:
   operating_region: []
   based_in: Colombia
 scf:
-  awarded_total: 225360
   awarded_round:
     - 14
     - 22
     - 25
+  awarded_total: 225360
   submission_urls:
     - communityfund.stellar.org/submissions/reck9KKpu9MWkU3Bf
     - communityfund.stellar.org/submissions/recdQqHy4AR9ZBWyO
     - communityfund.stellar.org/submissions/recNGVuHLxCxlKmzw
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

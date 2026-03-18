@@ -1,8 +1,7 @@
 title: Haciendo Stellar
 other_names: null
 parent: null
-description: |
-  We are a communication and content platform designed to empower the Stellar community in the Latam and Spanish-speaking region.
+description: We are a communication and content platform designed to empower the Stellar community in the Latam and Spanish-speaking region.
 links:
   website:
     - haciendostellar.com
@@ -11,7 +10,7 @@ links:
     - haciendostellar
   linkedin: []
   discord:
-    - discord.gg/3StMXdjGt3
+    - discord.gg/3stmxdjgt3
   telegram: []
   youtube:
     - youtube.com/@haciendostellar
@@ -28,14 +27,14 @@ attributes:
   operating_region: []
   based_in: Spain
 scf:
-  awarded_total: 56460
   awarded_round:
     - 13
     - 19
+  awarded_total: 56460
   submission_urls:
     - communityfund.stellar.org/submissions/rec9lcpC8qKgb7Tyc
     - communityfund.stellar.org/submissions/recp9KDwOeRFfD6Fx
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

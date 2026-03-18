@@ -2,8 +2,7 @@ title: Adamik
 other_names:
   - Stellar Integration in Adamik API
 parent: null
-description: |
-  Adamik is a blockchain-agnostic, non-custodial API that radically simplifies integration for wallets, custodians, and exchanges. Instead of building custom infrastructure for each chain, developers use Adamik to access 60+ blockchains through a single, unified interface.  Our API exposes standardized endpoints for retrieving balances, preparing transactions, and managing staking — all abstracted from the complexity of protocol-specific logic. We are signer-agnostic by design and fully compatible with industry-grade solutions like Ledger, Fireblocks, Turnkey, Sodot, and DFNS.  With this project, we aim to make Stellar (XLM) natively accessible via the Adamik API — enabling developers to add Stellar support in days, not weeks, while maintaining full compatibility with their existing signing and security infrastructure.
+description: Blockchain-agnostic, non-custodial API that simplifies wallet, custodian, and exchange integration across 60+ blockchains including Stellar, through a single unified interface.
 links:
   website:
     - adamik.io
@@ -12,7 +11,8 @@ links:
     - adamik_io
   linkedin:
     - linkedin.com/company/adamik
-  discord: []
+  discord:
+    - discord.gg/qe4heqsq7b
   telegram: []
   youtube: []
   instagram: []
@@ -20,7 +20,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/AdamikHQ
+    - github.com/adamikhq
 attributes:
   category: Infrastructure & Services
   tags: []
@@ -28,12 +28,12 @@ attributes:
     - Europe & Central Asia
   based_in: France
 scf:
-  awarded_total: 74800
   awarded_round:
     - 37
+  awarded_total: 74800
   submission_urls:
     - communityfund.stellar.org/submissions/recnpw3dhbKkKj4ZM
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,19 +1,18 @@
 title: NOWNodes
 other_names: null
 parent: null
-description: |
-  Soroban Project Soroban x NOWNodes project is an extensive set of tools developed for builders and crypto enterprises to work with smart contracts on Soroban
+description: Soroban Project Soroban x NOWNodes project is an extensive set of tools developed for builders and crypto enterprises to work with smart contracts on Soroban.
 links:
   website:
     - nownodes.io
   blog:
-    - medium.com/@NOWNodes
+    - medium.com/@nownodes
   x:
     - nownodes
   linkedin:
     - linkedin.com/company/nownodesio
   discord:
-    - discord.gg/2bdaPmG2R3
+    - discord.gg/2bdapmg2r3
   telegram:
     - t.me/nownodes
   youtube: []
@@ -22,7 +21,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/NOWNodes
+    - github.com/nownodes
 attributes:
   category: Infrastructure & Services
   tags:
@@ -33,12 +32,12 @@ attributes:
     - United Kingdom
   based_in: Poland
 scf:
-  awarded_total: 28090
   awarded_round:
     - 19
+  awarded_total: 28090
   submission_urls:
     - communityfund.stellar.org/submissions/recd8vP3BvCKs2zqY
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

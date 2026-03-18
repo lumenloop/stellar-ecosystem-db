@@ -10,11 +10,12 @@ links:
   x:
     - talamobile
   linkedin:
+    - linkedin.com/company/tala-mobile
     - linkedin.com/company/talamobile
   discord: []
   telegram: []
   youtube:
-    - youtube.com/channel/UCwOxJtVFsb1dYATcuGMpBNQ
+    - youtube.com/channel/ucwoxjtvfsb1dyatcugmpbnq
   instagram:
     - talamobile
   reddit: []
@@ -28,6 +29,6 @@ attributes:
   operating_region: []
   based_in: New Zealand
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

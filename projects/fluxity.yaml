@@ -1,8 +1,7 @@
 title: Fluxity
 other_names: null
 parent: null
-description: |
-  Offers businesses and individuals unprecedented payment customizability through a precision-crafted token streaming platform.
+description: Offers businesses and individuals unprecedented payment customizability through a precision-crafted token streaming platform.
 links:
   website:
     - fluxity.finance
@@ -12,7 +11,7 @@ links:
   linkedin: []
   discord: []
   telegram:
-    - discord.gg/JnT7KPEuQs
+    - discord.gg/jnt7kpeuqs
   youtube: []
   instagram: []
   reddit: []
@@ -31,12 +30,12 @@ attributes:
   operating_region: []
   based_in: Turkey
 scf:
-  awarded_total: 68000
   awarded_round:
     - 21
+  awarded_total: 68000
   submission_urls:
     - communityfund.stellar.org/submissions/recDXtqYuR8g9FMXt
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

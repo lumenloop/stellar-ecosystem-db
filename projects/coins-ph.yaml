@@ -2,8 +2,7 @@ title: Coins.ph
 other_names:
   - 'Coins.ph: Stellar Remittances'
 parent: null
-description: |
-  Coins.ph is a regulated e-wallet & crypto exchange offering cross-border payments using Stellar-native stablecoins for low fees.
+description: Coins.ph is a regulated e-wallet & crypto exchange offering cross-border payments using Stellar-native stablecoins for low fees.
 links:
   website:
     - coins.ph
@@ -14,15 +13,16 @@ links:
   linkedin:
     - linkedin.com/company/coins-ph
   discord:
-    - discord.io/coinscommunity
     - discord.gg/coinsph
-  telegram: []
+  telegram:
+    - t.me/coinsphfilipino
   youtube:
-    - youtube.com/c/CoinsPh
+    - youtube.com/c/coinsph
   instagram:
     - coinsph
   reddit: []
-  tiktok: []
+  tiktok:
+    - coinsph_official
   linktree: []
   github: []
 attributes:
@@ -32,12 +32,12 @@ attributes:
     - Philippines
   based_in: Philippines
 scf:
-  awarded_total: 50000
   awarded_round:
     - 22
+  awarded_total: 50000
   submission_urls:
     - communityfund.stellar.org/submissions/recnpsdfOyqPQpkUK
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

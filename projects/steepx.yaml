@@ -2,8 +2,7 @@ title: Steepx
 other_names:
   - Steepx Stellar Explorer
 parent: null
-description: |
-  Soroban / latest protocol support and stack upgrade
+description: Steexp is a ledger explorer for the Stellar network that provides detailed insights into operations, transactions, assets, and exchanges. It supports multiple networks and offers comprehensive features like transaction history and real-time asset data to help users navigate the ecosystem.
 links:
   website:
     - steexp.com
@@ -28,14 +27,14 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 31100
   awarded_round:
     - 16
     - 20
+  awarded_total: 31100
   submission_urls:
     - communityfund.stellar.org/submissions/recZKQqHZYKuHG5Ib
     - communityfund.stellar.org/submissions/reccUoeNl7hFKThtM
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

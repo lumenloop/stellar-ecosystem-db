@@ -1,8 +1,7 @@
 title: Lumenscan
 other_names: null
 parent: null
-description: |
-  Stellar Ledger Explorer
+description: Lumenscan is a ledger explorer for the Stellar network that allows users to explore and search for ledgers, transactions, operations, accounts, and assets.
 links:
   website:
     - lumenscan.io
@@ -14,7 +13,7 @@ links:
   discord: []
   telegram: []
   youtube:
-    - youtube.com/channel/UCBMDxDT34ei9o7RhhFeeb8A
+    - youtube.com/channel/ucbmdxdt34ei9o7rhhfeeb8a
   instagram: []
   reddit: []
   tiktok: []
@@ -27,12 +26,12 @@ attributes:
     - Stellar Galaxy
   based_in: Stellar Galaxy
 scf:
-  awarded_total: null
   awarded_round:
     - 4
+  awarded_total: null
   submission_urls:
     - communityfund.stellar.org/submissions/recP2TjM2jW0hPBrk
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

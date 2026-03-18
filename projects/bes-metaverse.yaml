@@ -2,11 +2,9 @@ title: BES Metaverse
 other_names:
   - Azores Metaverse
 parent: null
-description: |
-  Decentralized virtual worlds on Stellar - enabling users to play, create and interact with others in a blockchain-based metaverse.
+description: Decentralized virtual worlds on Stellar - enabling users to play, create and interact with others in a blockchain-based metaverse.
 links:
   website:
-    - besmetaverse.com
     - azores.group
   blog: []
   x:
@@ -20,7 +18,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/BESMetaverse
+    - github.com/besmetaverse
 attributes:
   category: Applications
   tags:
@@ -33,12 +31,12 @@ attributes:
     - Europe & Central Asia
   based_in: Portugal
 scf:
-  awarded_total: 75000
   awarded_round:
     - 13
+  awarded_total: 75000
   submission_urls:
     - communityfund.stellar.org/submissions/recfi8EB1253ZsHjO
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

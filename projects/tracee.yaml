@@ -1,8 +1,7 @@
 title: Tracee
 other_names: null
 parent: null
-description: |
-  A seamless cross-border payment channel from European SMBs and NGOs to MENA individuals, ensuring quick, secure, and cheap single and bulk transfers.
+description: A seamless cross-border payment channel from European SMBs and NGOs to MENA individuals, ensuring quick, secure, and cheap single and bulk transfers.
 links:
   website:
     - traceeapp.com
@@ -18,7 +17,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/Tracee1910/tracee-app
+    - github.com/tracee1910/tracee-app
 attributes:
   category: Applications
   tags:
@@ -27,12 +26,12 @@ attributes:
   operating_region: []
   based_in: France
 scf:
-  awarded_total: 128925
   awarded_round:
     - 16
+  awarded_total: 128925
   submission_urls:
     - communityfund.stellar.org/submissions/recMi36KGHYwtBcZl
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

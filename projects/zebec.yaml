@@ -12,23 +12,24 @@ links:
   linkedin:
     - linkedin.com/company/zebec-network
   discord:
-    - discord.gg/fJM9cHuvvB
+    - discord.gg/fjm9chuvvb
   telegram:
     - t.me/zebecprotocol
-  youtube: []
+  youtube:
+    - youtube.com/@zebec_hq
   instagram:
     - zebec_hq
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/Zebec-protocol
+    - github.com/zebec-protocol
 attributes:
   category: null
   tags: []
   operating_region: []
   based_in: United States
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,7 +1,7 @@
 title: Seevcash
 other_names: null
 parent: null
-description: "SeevCash is a mobile financial platform designed to serve the unbanked and underserved communities by reducing transaction fees and providing digital tools to manage finances more effectively.  Launched in March 2023, the app has already gained over 14,200 users and offers features like an expense tracker, budgeting, price comparisons, Peer to Peer sending and request money. It also recently introduced gamification elements where users can watch ads to earn SeevCoins, which offset their transaction costs.  The integration of Stellar’s blockchain elevates the platform by enabling fast, low-cost cross-border payments and offering stablecoins like USDC, making it easier for users to convert digital assets into local currencies. With Stellar, SeevCash aims to broaden its reach across Africa and people living in abroad, facilitating seamless on-ramping and off-ramping through local payment channels. This blockchain integration will allow SeevCash to provide users with more stable financial options and lower fees, enhancing the platform's usability and impact.\_  By combining blockchain technology and ad-revenue gamification, SeevCash is creating an ecosystem that not only addresses users' financial needs but also provides them with opportunities to earn while managing their money more efficiently.\n"
+description: Mobile financial platform on Stellar for underserved communities, providing stablecoin wallets, remittances, and merchant payments.
 links:
   website:
     - seevcash.com
@@ -25,12 +25,12 @@ attributes:
     - Sub-Saharan Africa
   based_in: Ghana
 scf:
-  awarded_total: 142299
   awarded_round:
     - 36
+  awarded_total: 142299
   submission_urls:
     - communityfund.stellar.org/submissions/recdkrQ2CVdze8GWp
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

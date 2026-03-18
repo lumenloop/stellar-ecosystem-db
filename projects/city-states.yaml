@@ -1,7 +1,7 @@
 title: City States
 other_names:
   - 'City States: Medieval'
-parent: addirktive
+parent: null
 description: A cross-platform, empire-building MMO.
 links:
   website:
@@ -12,11 +12,11 @@ links:
     - citystatesm
   linkedin: []
   discord:
-    - discord.gg/vMW52wF
+    - discord.gg/vmw52wf
   telegram:
     - t.me/citystatesdao
   youtube:
-    - youtube.com/channel/UCzr3-YQiWH0vFf-ae2gP9lw
+    - youtube.com/channel/uczr3-yqiwh0vff-ae2gp9lw
   instagram: []
   reddit: []
   tiktok: []
@@ -29,12 +29,12 @@ attributes:
     - Germany
   based_in: Germany
 scf:
-  awarded_total: null
   awarded_round:
     - 2
+  awarded_total: null
   submission_urls:
     - communityfund.stellar.org/submissions/rec91ZpPLUGNsfPSw
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

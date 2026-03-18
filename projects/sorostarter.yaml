@@ -2,8 +2,7 @@ title: SoroStarter
 other_names:
   - 'SoroStarter: Soroban LaunchPad'
 parent: null
-description: |
-  A secure and decentralized token launch platform with robust asset management for Soroban and the Stellar ecosystem.
+description: All-in-one platform to launch, manage, and fund Web3 projects on Stellar and Soroban, with built-in tools for token deployment, safes, timelocks, and IDOs.
 links:
   website:
     - sorostarter.com
@@ -19,7 +18,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/SoroStarter
+    - github.com/sorostarter
 attributes:
   category: Applications
   tags:
@@ -35,12 +34,12 @@ attributes:
     - Middle East & North Africa
   based_in: Kuwait
 scf:
-  awarded_total: 47175
   awarded_round:
     - 29
+  awarded_total: 47175
   submission_urls:
     - communityfund.stellar.org/submissions/recHIlOHhT0rMNGUN
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

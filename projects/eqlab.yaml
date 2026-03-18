@@ -26,10 +26,10 @@ attributes:
   operating_region: []
   based_in: Lisbon, Portugal
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: Slender Security Assessment Report
       url: sorobansecurity.com/report/24
       date: '2024-05-21T15:00:00Z'
       auditor: certora
+  tokens: []
+  contracts: []

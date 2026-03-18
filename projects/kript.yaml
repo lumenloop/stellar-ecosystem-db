@@ -1,8 +1,7 @@
 title: Kript
 other_names: null
 parent: null
-description: |
-  Kript is crypto payments API infrastructure for merchants and businesses
+description: Kript is a financial technology platform that provides API infrastructure for businesses to integrate cryptocurrency and fiat payment solutions into their operations.
 links:
   website:
     - kriptup.io
@@ -36,14 +35,14 @@ attributes:
     - Latin America & Caribbean
   based_in: Nigeria
 scf:
-  awarded_total: 112000
   awarded_round:
     - 27
     - 32
+  awarded_total: 112000
   submission_urls:
     - communityfund.stellar.org/submissions/recBZAaKA8fjdstQa
     - communityfund.stellar.org/submissions/recaBi8lclJ5h3YgH
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

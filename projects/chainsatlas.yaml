@@ -1,8 +1,7 @@
 title: ChainsAtlas
 other_names: null
 parent: null
-description: |
-  Integrates ChainsAtlas' Virtualization Unit with Soroban, enabling devs to run Solidity on Soroban natively with no adjustments.
+description: Integrates ChainsAtlas' Virtualization Unit with Soroban, enabling devs to run Solidity on Soroban natively with no adjustments.
 links:
   website:
     - chainsatlas.com
@@ -13,17 +12,16 @@ links:
   linkedin:
     - linkedin.com/company/chainsatlas
   discord:
-    - discord.gg/Deqmcp4SB8
+    - discord.gg/deqmcp4sb8
   telegram:
-    - t.me/ChainsAtlasAnnouncement
+    - t.me/chainsatlasannouncement
   youtube: []
   instagram: []
-  reddit:
-    - r/ChainsAtlas
+  reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/ChainsAtlas
+    - github.com/chainsatlas
 attributes:
   category: Developer Tooling
   tags: []
@@ -31,12 +29,12 @@ attributes:
     - Japan
   based_in: Japan
 scf:
-  awarded_total: 49240
   awarded_round:
     - 20
+  awarded_total: 49240
   submission_urls:
     - communityfund.stellar.org/submissions/rec6i1x0pe4BSySPD
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

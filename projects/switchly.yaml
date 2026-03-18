@@ -2,8 +2,7 @@ title: Switchly
 other_names:
   - Switchly.com - Bridge and DEX
 parent: null
-description: |
-  A decentralized, cross-chain protocol for stablecoin bridging and exchange.
+description: A decentralized, cross-chain protocol for stablecoin bridging and exchange.
 links:
   website:
     - switchly.com
@@ -18,7 +17,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/SwitchlyProtocol
+    - github.com/switchlyprotocol
 attributes:
   category: Financial Protocols
   tags:
@@ -27,12 +26,12 @@ attributes:
   operating_region: []
   based_in: United Kingdom
 scf:
-  awarded_total: 46000
   awarded_round:
     - 29
+  awarded_total: 46000
   submission_urls:
     - communityfund.stellar.org/submissions/reclxBFY2nWk88GX0
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

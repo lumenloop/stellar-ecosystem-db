@@ -2,8 +2,7 @@ title: DevTrak
 other_names:
   - DevTrak - Developer Onboarding
 parent: null
-description: |
-  We are launching Africas first gamified platform for developers to Learn, Build, and Earn real rewards on the Stellar network.
+description: We are launching Africas first gamified platform for developers to Learn, Build, and Earn real rewards on the Stellar network.
 links:
   website:
     - mowblox.com
@@ -13,13 +12,11 @@ links:
     - mowblox
   linkedin:
     - linkedin.com/company/mowblox
-    - linkedin.com/ng.linkedin.com/company/mowblox
   discord: []
   telegram:
     - t.me/mowblox
   youtube: []
-  instagram:
-    - mowblox
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -35,12 +32,12 @@ attributes:
     - Sub-Saharan Africa
   based_in: Ghana
 scf:
-  awarded_total: 14000
   awarded_round:
     - 25
+  awarded_total: 14000
   submission_urls:
     - communityfund.stellar.org/submissions/reczkFN5xjflJPlb8
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

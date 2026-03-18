@@ -2,7 +2,7 @@ title: MugglePay
 other_names:
   - 'MugglePay: Stripe for Stellar'
 parent: null
-description: "Help merchants accept crypto on Stellar\_through autoswap smarts contract built on Soroban. (e.g. pay-in XLM, pay-out USDC)\n"
+description: "Help merchants accept crypto on Stellar\_through autoswap smarts contract built on Soroban. (e.g. pay-in XLM, pay-out USDC)."
 links:
   website:
     - mugglepay.com
@@ -14,16 +14,16 @@ links:
     - linkedin.com/company/mugglepay
   discord: []
   telegram:
-    - t.me/+t_CPv22Ur95kMDVh
+    - t.me/yutonl
   youtube:
-    - youtube.com/channel/UC0KIW8hSxcgVfClkbB-XG0g
+    - youtube.com/@mugglepay9366
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
     - github.com/mugglepay
-    - github.com/MugglePay/stellar-pay
+    - github.com/mugglepay/stellar-pay
 attributes:
   category: Applications
   tags:
@@ -36,12 +36,12 @@ attributes:
     - East Asia & Pacific
   based_in: Singapore
 scf:
-  awarded_total: 28000
   awarded_round:
     - 30
+  awarded_total: 28000
   submission_urls:
     - communityfund.stellar.org/submissions/recdpGqD8HIslsaOT
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

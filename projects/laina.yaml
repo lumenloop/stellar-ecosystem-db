@@ -1,8 +1,7 @@
 title: Laina
 other_names: null
 parent: null
-description: |
-  Laina is a low fee, trustless, and easy-to-use decentralized loan platform. We are focusing on making a simple and efficient DeFi product, where there is minimal need for token swapping or liquidity other than what is used for lending. Our vision is to change DeFi by making it accessible and understandable for everyone, regardless of their technical knowledge or financial status. By providing efficient single-token lending pools, we eliminate the complexities and liquidity fragmentation often associated with multi-token systems.
+description: Low-fee, trustless lending protocol on Soroban with looping functionality, enabling leveraged yield strategies on Stellar.
 links:
   website:
     - laina-de.fi
@@ -11,7 +10,7 @@ links:
     - lainadefi
   linkedin: []
   discord:
-    - discord.gg/2tdzZmXSSF
+    - discord.gg/gnuafr3fuv
   telegram: []
   youtube: []
   instagram: []
@@ -19,7 +18,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/laina-defi/laina
+    - github.com/laina-defi
 attributes:
   category: Financial Protocols
   tags: []
@@ -27,12 +26,12 @@ attributes:
     - Finland
   based_in: Finland
 scf:
-  awarded_total: 115000
   awarded_round:
     - 34
+  awarded_total: 115000
   submission_urls:
     - communityfund.stellar.org/submissions/rec82ws2Gf1GxiiRZ
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

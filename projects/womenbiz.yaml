@@ -2,12 +2,10 @@ title: Womenbiz
 other_names:
   - Stellar Women Bootcamp
 parent: null
-description: |
-  A 4-week, gamified educational program designed to onboard Latin women into the DeFi basics, with a focus on Stellar ecosystem.
+description: WomenBiz is a community that empowers Latin American women through Web3 education and the adoption of blockchain technology. They have hosted the Stellar Women Bootcamp, which used a gamified program to teach blockchain and Web3 product development.
 links:
   website:
     - hiwomenbiz.com
-    - hiwomenbiz.com/women-in-web-3-bootcamp
   blog:
     - hiwomenbiz.com/blog
   x:
@@ -17,8 +15,7 @@ links:
   discord: []
   telegram: []
   youtube: []
-  instagram:
-    - hiwomenbiz
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -31,12 +28,12 @@ attributes:
     - Peru
   based_in: Peru
 scf:
-  awarded_total: 14400
   awarded_round:
     - 29
+  awarded_total: 14400
   submission_urls:
     - communityfund.stellar.org/submissions/reccvCDAiuwbDwy4n
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

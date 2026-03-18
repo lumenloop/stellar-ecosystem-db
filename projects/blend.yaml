@@ -1,6 +1,6 @@
 title: Blend
 other_names: null
-parent: Script3
+parent: null
 description: Blend is a decentralized finance (DeFi) protocol built on Stellar's Soroban smart contract platform, enabling users, DAOs, and institutions to create and manage lending pools with customizable assets and specifications. It offers permissionless deployment of isolated lending pools, ensuring security and capital efficiency without the need for centralized governance.
 links:
   website:
@@ -8,11 +8,11 @@ links:
   blog:
     - script3.medium.com
   x:
-    - blend_capital
     - script3official
   linkedin:
     - linkedin.com/company/script3
-  discord: []
+  discord:
+    - discord.gg/a6cdbqqcjw
   telegram: []
   youtube: []
   instagram: []
@@ -27,14 +27,12 @@ attributes:
   operating_region: []
   based_in: United States
 scf:
-  awarded_total: 50000
   awarded_round:
     - Liquidity Award - '24 Q1
+  awarded_total: 50000
   submission_urls:
     - communityfund.stellar.org/submissions/recRSgNDEycVg2xG8
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: Blend Security Assessment Report
       url: sorobansecurity.com/report/9
@@ -60,3 +58,5 @@ mainnet:
       url: sorobansecurity.com/report/40
       date: '2025-08-13T15:00:00Z'
       auditor: certora
+  tokens: []
+  contracts: []

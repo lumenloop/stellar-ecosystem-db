@@ -14,9 +14,8 @@ links:
   discord: []
   telegram: []
   youtube:
-    - youtube.com/channel/UCCbKQqwl2t08Qk6jK0uIk1Q
-  instagram:
-    - afriexapp
+    - youtube.com/channel/uccbkqqwl2t08qk6jk0uik1q
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -27,6 +26,6 @@ attributes:
   operating_region: []
   based_in: Spain
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

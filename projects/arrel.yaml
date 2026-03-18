@@ -2,8 +2,7 @@ title: Arrel
 other_names:
   - Institutional Treasury - XLM
 parent: null
-description: |
-  Integration of Stellar blockchain into existing Digital Asset PLatform (DAPL)to reduce adoption barrier for institutional clients
+description: Arrel Technology is a B2B cloud platform provider that enables clients and partners to launch innovative multi-asset solutions in the financial industry.  They offer a Digital Asset Platform (DAPL) designed to integrate various digital assets, including cryptocurrencies, into existing financial systems.
 links:
   website:
     - arreltech.com/platform
@@ -30,14 +29,14 @@ attributes:
     - North America (without Mexico)
   based_in: South Africa
 scf:
-  awarded_total: 150000
   awarded_round:
     - 27
     - 38
+  awarded_total: 150000
   submission_urls:
     - communityfund.stellar.org/submissions/recb03CISF3JCSdeW
     - communityfund.stellar.org/submissions/recL7TgbOTRyALF2W
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

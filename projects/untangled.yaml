@@ -2,20 +2,19 @@ title: Untangled
 other_names:
   - Untangled Vault
 parent: null
-description: |
-  Untangled Vault is an automated, non-custodial, data-driven asset management protocol enabling anyone to set and execute strategies to fit investor risk/return appetite. Untangled Vault is powered by Untangled pool, an asset tokenization protocol focusing on RWA private credits and Credio, a risk oracle providing machine learning model inferences and onchain monitoring to RWA.
+description: Untangled Vault is an automated, non-custodial, data-driven asset management protocol enabling anyone to set and execute strategies to fit investor risk/return appetite. Untangled Vault is powered by Untangled pool, an asset tokenization protocol focusing on RWA private credits and Credio, a risk oracle providing machine learning model inferences and onchain monitoring to RWA.
 links:
   website:
     - untangled.finance
   blog:
+    - paragraph.com/@untangledcredio
     - medium.com/untangledfin
   x:
     - untangledfi
-    - untangledfin
   linkedin:
     - linkedin.com/company/untangled-finance
   discord:
-    - discord.gg/neucRJEWHe
+    - discord.gg/neucrjewhe
   telegram: []
   youtube:
     - youtube.com/@web3_antivirus
@@ -35,18 +34,18 @@ attributes:
     - United Kingdom
   based_in: United Kingdom
 scf:
-  awarded_total: 200000
   awarded_round:
     - 31
     - Liquidity Award - '25 Q3
+  awarded_total: 200000
   submission_urls:
     - communityfund.stellar.org/submissions/rec5hF8af5tfhSlT2
     - communityfund.stellar.org/submissions/recd6Nbe9evnD4bAY
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: Veridise Auditing Report for Untangled Finance
       url: sorobansecurity.com/report/47
       date: '2025-05-21T15:00:00Z'
       auditor: Veridise
+  tokens: []
+  contracts: []

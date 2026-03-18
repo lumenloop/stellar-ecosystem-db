@@ -1,12 +1,11 @@
 title: GetBlockCard
 other_names:
   - GetBlockCard.com
-parent: Ternio
-description: |
-  Use XLM where VISA is accepted (50 million merchants)
+parent: null
+description: Ternio's Payment Card Platform [BlockCard] supports multiple coins and is the only company enabling users to hold crypto until the point of sale.
 links:
   website:
-    - GetBlockCard.com
+    - getblockcard.com
   blog: []
   x: []
   linkedin: []
@@ -24,12 +23,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: null
   awarded_round:
     - 2
+  awarded_total: null
   submission_urls:
     - communityfund.stellar.org/submissions/recTEBVyna1Qu0sly
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

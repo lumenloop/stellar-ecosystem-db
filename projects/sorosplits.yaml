@@ -1,8 +1,7 @@
 title: SoroSplits
 other_names: null
 parent: null
-description: |
-  SoroSplits is a set of smart contracts & interfaces to enable split transactions and revenue sharing across multiple parties in the Stellar ecosystem.  The core functionality of the smart contract will allow any assets (tokens) that exist on Stellar to be split in a trustless, automated, & transparent way across addresses and the user interface would enable all Stellar community members & projects to leverage the technology as a public good.  This functionality is a fundamental component to move the ecosystem away from off-chain counterparties and “trusted” middlemen to a truly decentralized contracting & payment structure.
+description: SoroSplits is a set of smart contracts and interfaces that enable trustless, automated, and transparent revenue sharing of Stellar-based assets among multiple parties, eliminating the need for intermediaries.
 links:
   website:
     - sorosplits.xyz
@@ -29,14 +28,14 @@ attributes:
   operating_region: []
   based_in: Turkey
 scf:
-  awarded_total: 153700
   awarded_round:
     - 19
     - 23
+  awarded_total: 153700
   submission_urls:
     - communityfund.stellar.org/submissions/rec7WPgnHqLHBaH3E
     - communityfund.stellar.org/submissions/receJWYlwJJb00Wrh
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

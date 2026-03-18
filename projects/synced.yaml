@@ -2,14 +2,14 @@ title: Synced
 other_names:
   - Synced Geo-Bounties
 parent: null
-description: |
-  Crowdfunding geospatial dashboards through Stellar-powered bounties.
+description: Crowdfunding geospatial dashboards through Stellar-powered bounties.
 links:
   website:
     - synced.to
   blog:
     - blog.synced.to
-  x: []
+  x:
+    - syncedto
   linkedin: []
   discord: []
   telegram: []
@@ -28,14 +28,14 @@ attributes:
   operating_region: []
   based_in: United Kingdom
 scf:
-  awarded_total: 128375
   awarded_round:
     - 10
     - 39
+  awarded_total: 128375
   submission_urls:
     - communityfund.stellar.org/submissions/reckgIzUF9nRueLhU
     - communityfund.stellar.org/submissions/recL1sSvlyjuSVJxK
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -2,11 +2,9 @@ title: Soroban React
 other_names:
   - '@soroban-react and Boilerplate'
 parent: null
-description: |
-  Full-Stack DApp Boilerplate for Soroban Contracts: @soroban-react support, standards, tutorials, and open-source contributions
+description: 'Full-Stack DApp Boilerplate for Soroban Contracts: @soroban-react support, standards, tutorials, and open-source contributions.'
 links:
   website:
-    - paltalabs.io
     - github.com/paltalabs/soroban-react
   blog: []
   x: []
@@ -28,12 +26,12 @@ attributes:
   operating_region: []
   based_in: Chile
 scf:
-  awarded_total: 25000
   awarded_round:
     - 20
+  awarded_total: 25000
   submission_urls:
     - communityfund.stellar.org/submissions/recBHrtJV6ztGGICQ
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

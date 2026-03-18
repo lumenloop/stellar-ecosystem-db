@@ -1,8 +1,7 @@
-title: 'Freelii '
+title: Freelii
 other_names: null
 parent: null
-description: |
-  Freelii is a rebranding of our project Strooper Wallet. This project is a noncustodial Stellar wallet leveraging passkeys for enhanced security and ease of use. Freelii was originally built on Telegram as a chatbot for remittances. We have been gathering constant customer feedback and now created a B2B2C business model integrating core features our prospective merchants are looking for. 
+description: Non-custodial Stellar wallet with built-in fiat on/off ramps, peer-to-peer payments, and savings features for everyday users.
 links:
   website:
     - freelii.app
@@ -12,15 +11,14 @@ links:
     - linkedin.com/company/freelii
   discord: []
   telegram:
-    - t.me/FreeliBot
+    - t.me/freelibot
   youtube: []
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/JoseCToscano/freelii
-    - github.com/freelii/freelii-core
+    - github.com/freelii
 attributes:
   category: Applications
   tags:
@@ -36,10 +34,10 @@ attributes:
     - North America (without Mexico)
   based_in: Philippines
 scf:
-  awarded_total: null
   awarded_round: []
+  awarded_total: null
   submission_urls: []
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

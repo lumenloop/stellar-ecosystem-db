@@ -1,8 +1,7 @@
 title: Centaurus
 other_names: null
 parent: null
-description: |
-  second layer payment network, exchange, and scaling solution
+description: Centaurus is a second-layer solution for the Stellar network that enables instant, fee-free token transfers and trades within a decentralized, high-throughput cluster secured by a multisignature vault account.
 links:
   website:
     - github.com/centaurus-project
@@ -24,12 +23,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: null
   awarded_round:
     - 2
+  awarded_total: null
   submission_urls:
     - communityfund.stellar.org/submissions/recg4KmfUXrrNOHbG
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

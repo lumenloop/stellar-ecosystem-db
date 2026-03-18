@@ -1,8 +1,7 @@
 title: Infinity Wallet
 other_names: null
 parent: null
-description: |
-  A one-stop self-custodial crypto wallet 
+description: Desktop wallet providing a one-stop solution for payments & seamless use of DeFi with Web3 browser for easy access to Web3.
 links:
   website:
     - infinitywallet.io
@@ -12,18 +11,16 @@ links:
     - infinitywallet
   linkedin: []
   discord:
-    - discord.gg/nQMnwXjdvy
+    - discord.gg/nqmnwxjdvy
   telegram: []
   youtube:
-    - youtube.com/channel/UCPnnMXAFcZEtpNnF1BRNgHg
-  instagram:
-    - infinity_wallet
-  reddit:
-    - r/InfinityEcosystem
+    - youtube.com/channel/ucpnnmxafczetpnnf1brnghg
+  instagram: []
+  reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/InfinityWallet
+    - github.com/infinitywallet
 attributes:
   category: Applications
   tags:
@@ -38,12 +35,12 @@ attributes:
     - Europe & Central Asia
   based_in: Spain
 scf:
-  awarded_total: 130000
   awarded_round:
     - 16
+  awarded_total: 130000
   submission_urls:
     - communityfund.stellar.org/submissions/rec19YyUKPo2XVINi
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -2,8 +2,7 @@ title: Legacy Suite
 other_names:
   - Legacy Suite on Stellar
 parent: null
-description: |
-  Revolutionizing estate planning with blockchain, making it inclusive of digital assets and secure for all.
+description: Revolutionizing estate planning with blockchain, making it inclusive of digital assets and secure for all.
 links:
   website:
     - legacysuite.com
@@ -14,17 +13,17 @@ links:
   linkedin:
     - linkedin.com/company/legacysuite
   discord:
-    - discord.gg/Ne6DefZNt6
+    - discord.gg/ne6defznt6
   telegram:
-    - t.me/LegacySuiteOfficial
+    - t.me/legacysuiteofficial
   youtube:
-    - youtube.com/channel/UC1mgBZhlD9BnH57wmORtAOA/videos
+    - youtube.com/channel/uc1mgbzhld9bnh57wmortaoa/videos
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/Avento-Labs/legacy-suite-contracts
+    - github.com/avento-labs/legacy-suite-contracts
 attributes:
   category: Applications
   tags: []
@@ -32,12 +31,12 @@ attributes:
     - United States
   based_in: United States
 scf:
-  awarded_total: 49998
   awarded_round:
     - 24
+  awarded_total: 49998
   submission_urls:
     - communityfund.stellar.org/submissions/recfvb645h7vv8HYG
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

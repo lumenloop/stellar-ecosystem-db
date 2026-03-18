@@ -1,8 +1,7 @@
 title: Mobula Labs
 other_names: null
 parent: null
-description: |
-  Mobula offers an extensive range of Data APIs tailored for decentralized applications (dApps), enabling seamless integration and real-time data access. For foundations, Mobula provides robust blockchain analytics tools to monitor and analyze user engagement and growth trends. Additionally, Mobula supports builders by offering comprehensive data warehousing solutions, ensuring efficient data storage and retrieval for enhanced application performance.
+description: Mobula offers an extensive range of Data APIs tailored for decentralized applications (dApps), enabling seamless integration and real-time data access. For foundations, Mobula provides robust blockchain analytics tools to monitor and analyze user engagement and growth trends. Additionally, Mobula supports builders by offering comprehensive data warehousing solutions, ensuring efficient data storage and retrieval for enhanced application performance.
 links:
   website:
     - mobula.io
@@ -12,7 +11,7 @@ links:
   linkedin:
     - linkedin.com/company/mobulalabs
   discord:
-    - discord.gg/JVT7xKm3AD
+    - discord.gg/jvt7xkm3ad
   telegram: []
   youtube: []
   instagram: []
@@ -20,7 +19,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/MobulaFi
+    - github.com/mobulafi
 attributes:
   category: Infrastructure & Services
   tags:
@@ -36,12 +35,12 @@ attributes:
     - France
   based_in: France
 scf:
-  awarded_total: 122000
   awarded_round:
     - 34
+  awarded_total: 122000
   submission_urls:
     - communityfund.stellar.org/submissions/recKIDLDn06q3NtDt
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

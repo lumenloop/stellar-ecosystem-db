@@ -23,6 +23,6 @@ attributes:
   operating_region: []
   based_in: Chile
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

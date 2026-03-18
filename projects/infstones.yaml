@@ -1,8 +1,7 @@
 title: InfStones
 other_names: null
 parent: null
-description: |
-  Provide Horizon and Soroban API developer access via an auto-scaling cluster with a freemium endpoint and support structure.
+description: Provide Horizon and Soroban API developer access via an auto-scaling cluster with a freemium endpoint and support structure.
 links:
   website:
     - infstones.com
@@ -13,7 +12,7 @@ links:
   linkedin:
     - linkedin.com/company/infstones
   discord:
-    - discord.gg/5Sgu93crrA
+    - discord.gg/infstones
   telegram:
     - t.me/infstones
   youtube: []
@@ -22,8 +21,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/InfStones-com
-    - github.com/gitlab.com/infstones-com
+    - github.com/infstones-com
 attributes:
   category: Infrastructure & Services
   tags:
@@ -35,14 +33,14 @@ attributes:
     - United States
   based_in: United States
 scf:
-  awarded_total: 150000
   awarded_round:
     - 26
     - 29
+  awarded_total: 150000
   submission_urls:
     - communityfund.stellar.org/submissions/rectOzAPw9WZwU8ec
     - communityfund.stellar.org/submissions/rec14mcRMcEixJXEg
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

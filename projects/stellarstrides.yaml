@@ -1,8 +1,7 @@
 title: StellarStrides
 other_names: null
 parent: null
-description: |
-  Simplifying the complexities of branding and marketing in the blockchain realm to empower projects within the Stellar ecosystem
+description: Simplifying the complexities of branding and marketing in the blockchain realm to empower projects within the Stellar ecosystem.
 links:
   website:
     - stellarstrides.xyz
@@ -25,12 +24,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 14500
   awarded_round:
     - 22
+  awarded_total: 14500
   submission_urls:
     - communityfund.stellar.org/submissions/recSjtVmMF6aLUoTp
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

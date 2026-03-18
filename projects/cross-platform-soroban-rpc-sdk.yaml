@@ -2,11 +2,10 @@ title: Cross platform Soroban RPC SDK
 other_names:
   - Soroban RPC SDK
 parent: null
-description: |
-  A Soroban RPC SDK for native cross platform development.
+description: A Soroban RPC SDK for native cross platform development.
 links:
   website:
-    - github.com/FrankSzendzielarz/SorobanRPCSDK
+    - github.com/frankszendzielarz/sorobanrpcsdk
   blog: []
   x: []
   linkedin: []
@@ -18,7 +17,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/FrankSzendzielarz/SorobanRPCSDK
+    - github.com/frankszendzielarz/sorobanrpcsdk
 attributes:
   category: Developer Tooling
   tags:
@@ -26,12 +25,12 @@ attributes:
   operating_region: []
   based_in: Czech Republic
 scf:
-  awarded_total: 19000
   awarded_round:
     - 32
+  awarded_total: 19000
   submission_urls:
     - communityfund.stellar.org/submissions/recl8E9u3mHSyWh5z
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

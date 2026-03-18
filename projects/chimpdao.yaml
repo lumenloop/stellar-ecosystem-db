@@ -3,11 +3,10 @@ other_names:
   - Stellar Merch Shop
   - Chimp
 parent: null
-description: |
-  We propose building the official Stellar merch platform: a global, community-driven hub combining high-quality physical products with blockchain-native features. Currently, Stellar invests heavily in high-quality merch for events, but there is no online access, no global availability, and no unified system—merch can only be collected on-site, excluding much of the community. The platform will offer: A Shopify-based front-end for seamless e-commerce, integrated with a custom backend connected to Soroban. Responsible, localized sourcing through verified suppliers on each continent to ensure ethical production, reduced shipping impact, and top-tier quality. A network of verified suppliers per continent to ensure high-quality, local production and faster delivery. NFT tokenization of merch, offering proof of authenticity, limited-edition ownership, and potential utility (e.g., event access, community status). A creator royalty system, empowering independent designers and ecosystem contributors to earn from every sale and resale. A DAO or voting layer, to co-select new drops, styles, and collaborations.   Beyond Stellar-branded drops, the platform will support ecosystem projects in launching their own merch lines boosting visibility, rewarding users, and building project identity through physical and digital goods. This initiative is not just about clothing, it’s about activating the Stellar ecosystem through accessible, collectible, and meaningful experiences. By blending fashion, blockchain, and community participation, we aim to deliver a scalable and premium Web3-native solution. Our goal is to become Stellar’s official and exclusive merchandising partner, helping the network engage its global audience while showcasing real-world utility for the Stellar blockchain.
+description: Community-driven merchandise platform for the Stellar ecosystem, enabling global distribution of branded apparel and products with on-chain governance.
 links:
   website:
-    - canva.com/design/DAGodFHF-Fc/xN2yzphsJJUG6na_8ziLQA/view?utm_content=DAGodFHF-Fc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hce49f3ad3b
+    - canva.com/design/dagodfhf-fc/xn2yzphsjjug6na_8zilqa/view?utm_content=dagodfhf-fc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlid=hce49f3ad3b
   blog: []
   x: []
   linkedin: []
@@ -25,12 +24,12 @@ attributes:
   operating_region: []
   based_in: France
 scf:
-  awarded_total: 105000
   awarded_round:
     - 38
+  awarded_total: 105000
   submission_urls:
     - communityfund.stellar.org/submissions/rece7XluClIM1t7EL
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

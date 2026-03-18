@@ -1,12 +1,10 @@
 title: Trilobyte
 other_names: null
 parent: null
-description: |
-  Trilobyte is a Cash Flow Financing Protocol
+description: Trilobyte is a Cash Flow Financing Protocol.
 links:
   website:
     - trilobyte.finance
-    - docs.trilobyte.finance
   blog: []
   x: []
   linkedin: []
@@ -26,12 +24,12 @@ attributes:
   operating_region: []
   based_in: Netherlands
 scf:
-  awarded_total: 119000
   awarded_round:
     - 15
+  awarded_total: 119000
   submission_urls:
     - communityfund.stellar.org/submissions/recq35w2zW5FQu4tY
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

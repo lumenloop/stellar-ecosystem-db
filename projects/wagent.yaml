@@ -1,8 +1,7 @@
 title: Wagent
 other_names: null
-parent: luanlabs
-description: |
-  Offers merchants effortless reception and management of crypto payments and easy checkout for the buyers.
+parent: null
+description: Offers merchants effortless reception and management of crypto payments and easy checkout for the buyers.
 links:
   website:
     - wagent.app
@@ -11,15 +10,16 @@ links:
     - wagentofficial
   linkedin: []
   discord: []
-  telegram: []
+  telegram:
+    - t.me/wagentofficial
   youtube: []
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/luanlabs/wagent-payment
     - github.com/luanlabs
+    - github.com/luanlabs/wagent-payment
 attributes:
   category: Applications
   tags:
@@ -31,12 +31,12 @@ attributes:
     - Sweden
   based_in: Turkey
 scf:
-  awarded_total: 43400
   awarded_round:
     - 26
+  awarded_total: 43400
   submission_urls:
     - communityfund.stellar.org/submissions/recyhHu5bchmieL0C
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

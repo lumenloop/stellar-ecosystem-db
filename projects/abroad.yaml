@@ -1,27 +1,25 @@
 title: Abroad
 other_names: null
 parent: null
-description: |
-  Open source protocol for Crypto-Fiat instant payment orchestration 
+description: Payment Layer for Interoperability between Stellar Wallets and QR Fiat Payments.
 links:
   website:
-    - getabroad.app
     - abroad.finance
   blog: []
   x:
     - payabroad
   linkedin:
-    - linkedin.com/company/getabroad
+    - linkedin.com/company/abroad-finance
   discord:
-    - discord.gg/aSw3QN95
-  telegram: []
+    - discord.gg/nfhf37c2ka
+  telegram:
+    - t.me/abroad_latam
   youtube: []
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/abroad.tech
     - github.com/abroad-finance/abroad
 attributes:
   category: Financial Protocols
@@ -34,14 +32,14 @@ attributes:
     - South Asia
   based_in: United Kingdom
 scf:
-  awarded_total: 149820
   awarded_round:
     - 32
     - 35
+  awarded_total: 149820
   submission_urls:
     - communityfund.stellar.org/submissions/recy3we2U8HQUaOR6
     - communityfund.stellar.org/submissions/recG7gC1dwtWoJelE
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,8 +1,7 @@
 title: Diameter Pay
 other_names: null
 parent: null
-description: |
-  Diameter Pay is a regulated payments platform providing an API-first infrastructure for USD payments and virtual accounts. Our mission is to create a programmable access layer to the U.S. financial system—connecting foreign banks, PSPs, and stablecoin platforms to Fedwire, ACH, SWIFT, and, soon, Stellar, through a unified, compliance-first interface.  Today, Diameter’s infrastructure enables regulated institutions to access U.S. payment rails safely and transparently, with multi-tier virtual accounts, continuous AML/CFT and sanctions screening, and real-time treasury visibility across multiple U.S. partner banks.  Diameter operates as a licensed Money Services Business (MSB) and New Jersey Money Transmitter, under supervision by the New Jersey Department of Banking and Insurance (NJDOBI). The company has been a third-party participant in FDIC and Federal Reserve Bank of San Francisco regulatory exams, has been examined directly by NJDOBI, and has successfully passed independent AML audits, demonstrating robust compliance and operational integrity.  Our customers include leading stablecoin orchestrators and crypto-focused banks in Switzerland and Singapore, who currently manage the on-chain settlement leg via their own infrastructure. With support from the Stellar Community Fund, Diameter will extend this capability in-house, integrating Stellar as a programmable settlement layer for issuing, redeeming, and settling USD-backed assets on-chain under full regulatory oversight.  Diameter is cash-flow positive, processes over $1 billion in monthly transaction volume, and is positioned to bring compliant, programmable money to institutions globally.
+description: Regulated payments platform providing API-driven cross-border payment processing on Stellar, enabling businesses to send and receive funds across currencies with compliance built in.
 links:
   website:
     - diameterpay.com
@@ -29,12 +28,12 @@ attributes:
     - North America (without Mexico)
   based_in: Poland
 scf:
-  awarded_total: 147000
   awarded_round:
     - 40
+  awarded_total: 147000
   submission_urls:
     - communityfund.stellar.org/submissions/recy8e1hftkK8FIcE
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

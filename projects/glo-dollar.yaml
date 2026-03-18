@@ -1,9 +1,8 @@
 title: Glo Dollar
 other_names:
-  - Glo Dollar on Stellar
+  - Glo Dollar (USDGLO) on Stellar
 parent: null
-description: |
-  We'll launch Glo, the stablecoin that generates basic income for people in extreme poverty, and deploy liquidity on StellarX.
+description: 'Glo can be used like any other stablecoin, but it also enables a new crypto use case: donationless philanthropy. Like other stables, Glo Dollar makes money from the interest on the fiat reserves. The difference: the Glo Foundation does not make profits. Instead, they donate 100% of the interest received to GiveDirectly, the world’s fastest-growing charity. They provide basic incomes for people living in extreme poverty, in countries such as Kenya.'
 links:
   website:
     - glodollar.org
@@ -14,7 +13,7 @@ links:
   linkedin:
     - linkedin.com/company/glodollar
   discord:
-    - discord.gg/PUrBVdzzN5
+    - discord.gg/purbvdzzn5
   telegram: []
   youtube:
     - youtube.com/@glodollar
@@ -23,8 +22,8 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/Glo-Foundation
-    - github.com/Glo-Foundation/glo-wallet
+    - github.com/glo-foundation
+    - github.com/glo-foundation/glo-wallet
 attributes:
   category: Financial Protocols
   tags:
@@ -35,12 +34,12 @@ attributes:
     - Netherlands
   based_in: Netherlands
 scf:
-  awarded_total: 13000
   awarded_round:
     - 21
+  awarded_total: 13000
   submission_urls:
     - communityfund.stellar.org/submissions/recYngYa4zx3MwZa9
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

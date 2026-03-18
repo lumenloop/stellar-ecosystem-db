@@ -1,12 +1,12 @@
 title: Agnostic
 other_names: null
 parent: null
-description: |
-  Agnostic is a real-time blockchain analytics platform designed to provide seamless access to on-chain data across EVM-compatible chains, with a mission to eliminate complexity and latency in querying and analyzing blockchain activity by abstracting away data model intricacies and offering a unified, low-latency interface complete with SQL support, visual dashboards, and AI-assisted exploration. Agnostic empowers developers, analysts, and enterprises to unlock meaningful insights from blockchain data effortlessly.  We are now expanding to support non-EVM chains like Stellar. By integrating Stellar into our unified analytics layer, Agnostic will make Stellar’s unique transaction model accessible through the same user-friendly, powerful experience that already supports Ethereum, Base, Arbitrum, and others.  Our platform is used by projects in DeFi, infra, and research sectors, and we’re launching a new AI-native interface for no-code exploration of blockchain datasets. We are open source at the query layer and provide native support for tools like Superset and Grafana.  With support from Stellar, we aim to develop open analytics schemas, data access APIs, and AI-native experiences tailored to the Stellar ecosystem, helping increase developer adoption and visibility for Stellar-based projects.
+description: Real-time blockchain analytics platform providing seamless access to on-chain data across EVM and non-EVM chains including Stellar, with SQL support, visual dashboards, and AI-assisted exploration.
 links:
   website:
     - agnostic.dev
-  blog: []
+  blog:
+    - linkedin.com/pulse/agnostic-advantage-why-vendor-neutrality-future-tech-consulting-wbkzf
   x:
     - agnosticeng
   linkedin:
@@ -27,12 +27,12 @@ attributes:
     - France
   based_in: France
 scf:
-  awarded_total: 121000
   awarded_round:
     - 38
+  awarded_total: 121000
   submission_urls:
     - communityfund.stellar.org/submissions/recHUylPzwSa61BV8
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -2,12 +2,14 @@ title: GalacticTalk
 other_names:
   - Stellar Community Forum
 parent: null
-description: GalacticTalk is a community forum dedicated to discussions about the Stellar ecosystem, where developers, users, and enthusiasts share ideas, projects, and updates to foster collaboration and innovation on the Stellar network.GalacticTalk is a community forum dedicated to discussions about the Stellar ecosystem, where developers, users, and enthusiasts share ideas, projects, and updates to foster collaboration and innovation on the Stellar network.
+description: GalacticTalk is a community forum dedicated to discussions about the Stellar ecosystem, where developers, users, and enthusiasts share ideas, projects, and updates to foster collaboration and innovation on the Stellar network.
 links:
   website:
     - galactictalk.org
-  blog: []
-  x: []
+  blog:
+    - medium.com/@stellarterm
+  x:
+    - stellarterm
   linkedin: []
   discord: []
   telegram: []
@@ -16,19 +18,20 @@ links:
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/stellarterm
 attributes:
   category: Education & Community
   tags: []
   operating_region: []
   based_in: United States
 scf:
-  awarded_total: null
   awarded_round:
     - 1
+  awarded_total: null
   submission_urls:
     - communityfund.stellar.org/submissions/receQ7xIMdPbzPK31
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

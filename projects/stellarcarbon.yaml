@@ -1,8 +1,7 @@
 title: Stellarcarbon
 other_names: null
 parent: null
-description: |
-  Stellarcarbon provides transparent nature-based carbon offsetting with proof of retirement on Stellar and in the Verra Registry. With Stellarcarbon, anyone with a Stellar account can do a voluntary carbon offset that is registered both on-chain and off-chain. We have been building the infrastructure needed to connect legacy carbon markets with the new digital economy taking place on public ledgers. Other companies building on Stellar are able to integrate our backend service into their products and services, to give users easy access to carbon offsets. On top of this infrastructure, Stellarcarbon itself wants to develop and launch a retail shop for carbon offsetting aimed at individuals and small businesses.
+description: Stellarcarbon offers transparent, nature-based carbon offsetting by registering offsets on both the Stellar blockchain and the Verra Registry, enabling users to voluntarily offset their carbon footprint through on-chain and off-chain records.
 links:
   website:
     - stellarcarbon.io
@@ -30,16 +29,16 @@ attributes:
     - Netherlands
   based_in: Netherlands
 scf:
-  awarded_total: 150000
   awarded_round:
     - 11
     - 25
     - 33
+  awarded_total: 150000
   submission_urls:
     - communityfund.stellar.org/submissions/recLcwrhYkZd6qH2o
     - communityfund.stellar.org/submissions/recenP9txM5nrDzjs
     - communityfund.stellar.org/submissions/recv1OdCUKlERWHLi
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

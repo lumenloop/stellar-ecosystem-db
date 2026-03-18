@@ -1,29 +1,28 @@
 title: Aquarius
 other_names: null
 parent: null
-description: |
-  Aquarius yield assets: bridging Stellar and Ethereum with Soroban, to offer secure, and decentralized yield opportunities.
+description: Aquarius is a liquidity layer designed to incentivize market-making and liquidity provision on the Stellar network's native decentralized exchange (DEX) and automated market makers (AMMs). It utilizes AQUA tokens to reward liquidity providers, with the community voting on which markets to incentivize.
 links:
   website:
     - aqua.network
   blog:
     - medium.com/aquarius-aqua
   x:
-    - aqua_token
+    - aquariusdefi
   linkedin: []
   discord:
-    - discord.gg/sgzFscHp4C
+    - discord.gg/sgzfschp4c
   telegram:
     - t.me/aquarius_official_community
   youtube:
     - youtube.com/@aqua.network
   instagram: []
   reddit:
-    - r/AquariusAqua
+    - r/aquariusaqua
   tiktok: []
   linktree: []
   github:
-    - github.com/AquaToken
+    - github.com/aquatoken
 attributes:
   category: Financial Protocols
   tags:
@@ -32,20 +31,18 @@ attributes:
   operating_region: []
   based_in: Poland
 scf:
-  awarded_total: 391000
   awarded_round:
     - 17
     - 23
     - 27
     - Liquidity Award - '24 Q1
+  awarded_total: 391000
   submission_urls:
     - communityfund.stellar.org/submissions/recRUJxeF1PdlM6aV
     - communityfund.stellar.org/submissions/recmDHN0X0EQoxVWw
     - communityfund.stellar.org/submissions/recn8gHxphN9KtVXj
     - communityfund.stellar.org/submissions/recm4zmZ0RJah7TLa
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: Aquarius AMM Security Report by Certora
       url: sorobansecurity.com/report/5
@@ -55,3 +52,5 @@ mainnet:
       url: sorobansecurity.com/report/41
       date: '2025-08-31T15:00:00Z'
       auditor: Cantina
+  tokens: []
+  contracts: []

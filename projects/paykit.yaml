@@ -1,15 +1,17 @@
 title: Paykit
 other_names: null
 parent: null
-description: |
-  We’re building the first complete payment adapter ecosystem for modern web developers—making USDC on Stellar usable in real SaaS, AI, and infra applications without requiring any blockchain knowledge.  Instead of asking developers to learn Stellar, we integrate Stellar directly into the tools they already use: BetterAuth, Clerk, Convex, Medusa, Trigger.dev, UploadThing, and the Vercel AI SDK.  Each adapter removes friction, automatically creates Stellar accounts, and makes USDC the default payment rail for:  Usage-based billing  Metered AI workflows  File uploads & storage  B2B SaaS monetization  With this adapter-first approach, we aim to turn Stellar into the invisible financial backbone of the modern web.
+description: Payment adapter ecosystem for modern web developers, providing drop-in Stellar payment integration for applications and platforms.
 links:
   website:
     - usepaykit.dev
   blog: []
-  x: []
-  linkedin: []
-  discord: []
+  x:
+    - usepaykit
+  linkedin:
+    - linkedin.com/in/emmanuelodii
+  discord:
+    - discord.gg/sxkv64tq9w
   telegram: []
   youtube: []
   instagram: []
@@ -17,6 +19,7 @@ links:
   tiktok: []
   linktree: []
   github:
+    - github.com/usepaykit
     - github.com/usepaykit/stellar-tools
 attributes:
   category: Developer Tooling
@@ -27,12 +30,12 @@ attributes:
     - East Asia & Pacific
   based_in: Nigeria
 scf:
-  awarded_total: 53450
   awarded_round:
     - 40
+  awarded_total: 53450
   submission_urls:
     - communityfund.stellar.org/submissions/rec7XNe2Q6MQDXkmd
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

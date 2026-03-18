@@ -2,16 +2,15 @@ title: Range
 other_names:
   - 'Range: Cross-chain intelligence platform'
 parent: null
-description: |
-  This proposal seeks to build a Steller Bridge Explorer, and integrate Stellar with Range’s Cross-Chain Explorer and Range Trail, our cross-chain, cross-ecosystem, real-time forensic intelligence platform.
+description: This proposal seeks to build a Steller Bridge Explorer, and integrate Stellar with Range’s Cross-Chain Explorer and Range Trail, our cross-chain, cross-ecosystem, real-time forensic intelligence platform.
 links:
   website:
     - range.org
   blog: []
   x:
-    - rangesecurity
+    - range_org
   linkedin:
-    - linkedin.com/company/rangesecurity
+    - linkedin.com/company/range-org
   discord: []
   telegram: []
   youtube: []
@@ -35,12 +34,12 @@ attributes:
   operating_region: []
   based_in: United Kingdom
 scf:
-  awarded_total: 150000
   awarded_round:
     - 34
+  awarded_total: 150000
   submission_urls:
     - communityfund.stellar.org/submissions/rec4UKnF7XHEOHxGc
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

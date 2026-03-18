@@ -1,8 +1,7 @@
 title: Paysapp
 other_names: null
 parent: null
-description: |
-  Stellar payments in Whatsapp
+description: Paysapp is a platform that enables users to send Stellar assets via popular messaging apps like WhatsApp, Telegram, and others, using simple text commands for seamless transactions.
 links:
   website: []
   blog: []
@@ -23,12 +22,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: null
   awarded_round:
     - 3
+  awarded_total: null
   submission_urls:
     - communityfund.stellar.org/submissions/rec4C0qVstIHsPgm0
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

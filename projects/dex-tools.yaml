@@ -14,11 +14,10 @@ links:
     - linkedin.com/company/dextoolsapp
   discord: []
   telegram:
-    - t.me/DEXToolsCommunity
+    - t.me/dextoolscommunity
   youtube:
-    - youtube.com/c/DEXToolsAcademy
-  instagram:
-    - dextools.official
+    - youtube.com/c/dextoolsacademy
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -30,6 +29,6 @@ attributes:
   operating_region: []
   based_in: Spain
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

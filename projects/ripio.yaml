@@ -10,14 +10,13 @@ links:
   x:
     - ripioapp
   linkedin:
-    - linkedin.com/ar.linkedin.com/company/ripio
+    - linkedin.com/company/ripio
   discord: []
   telegram:
-    - t.me/+J7H4QmPlNIc2NDAx
+    - t.me/+j7h4qmplnic2ndax
   youtube:
-    - youtube.com/Ripiotv
-  instagram:
-    - ripioapp
+    - youtube.com/ripiotv
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -29,6 +28,6 @@ attributes:
   operating_region: []
   based_in: Argentina
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,12 +1,10 @@
 title: Sorobix
 other_names: null
 parent: null
-description: |
-  An online IDE to compile, deploy, invoke and debug Soroban Smart Contracts on-the-fly using a browser without any local setup!
+description: An online IDE to compile, deploy, invoke and debug Soroban Smart Contracts on-the-fly using a browser without any local setup!.
 links:
   website:
     - sorobix.xyz
-    - github.com/sorobix
   blog: []
   x:
     - sorobix_ide
@@ -26,12 +24,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 40000
   awarded_round:
     - 13
+  awarded_total: 40000
   submission_urls:
     - communityfund.stellar.org/submissions/recgHtdnSOVB0qjp0
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

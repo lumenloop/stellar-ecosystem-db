@@ -2,12 +2,10 @@ title: Ortege
 other_names:
   - Ortege AI
 parent: null
-description: |
-  AI-powered blockchain analytics & insights for Soroban, making complex data simple and accessible.
+description: AI-powered blockchain analytics & insights for Soroban, making complex data simple and accessible.
 links:
   website:
     - ortege.ai
-    - ortege.io
   blog:
     - ortege.ai/blog
   x:
@@ -19,12 +17,11 @@ links:
   telegram: []
   youtube: []
   instagram: []
-  reddit:
-    - r/ortege_xyz
+  reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/Ortege-xyz
+    - github.com/ortege-xyz
 attributes:
   category: Infrastructure & Services
   tags:
@@ -34,16 +31,16 @@ attributes:
     - Australia
   based_in: Australia
 scf:
-  awarded_total: 151200
   awarded_round:
     - 18
     - 22
     - 26
+  awarded_total: 151200
   submission_urls:
     - communityfund.stellar.org/submissions/rec9DwGpGqqgxK4I4
     - communityfund.stellar.org/submissions/recJwxwdJWnSRqsDR
     - communityfund.stellar.org/submissions/recc4FsstdaSNXXvm
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

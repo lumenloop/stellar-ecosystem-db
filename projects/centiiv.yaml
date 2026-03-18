@@ -1,8 +1,7 @@
 title: Centiiv
 other_names: null
 parent: null
-description: |
-  Centiiv empowers African businesses with tools to enable them scale operations by cutting losses, closing sales faster, and boosting customer retention whilst accepting payments locally and globally. It is a payment gateway that combines web2 and web3 technologies with inbuilt escrow, credit clawback and loyalty reward systems.
+description: Centiiv empowers African businesses with tools to enable them scale operations by cutting losses, closing sales faster, and boosting customer retention whilst accepting payments locally and globally. It is a payment gateway that combines web2 and web3 technologies with inbuilt escrow, credit clawback and loyalty reward systems.
 links:
   website:
     - centiiv.com
@@ -12,15 +11,16 @@ links:
   linkedin:
     - linkedin.com/company/centiiv
   discord:
-    - discord.gg/kKNPz7cB
+    - discord.gg/kknpz7cb
   telegram: []
   youtube: []
-  instagram: []
+  instagram:
+    - centiiv_
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/Centiiv/protocol-node
+    - github.com/centiiv/protocol-node
 attributes:
   category: Applications
   tags: []
@@ -28,12 +28,12 @@ attributes:
     - Sub-Saharan Africa
   based_in: Nigeria
 scf:
-  awarded_total: 51300
   awarded_round:
     - 36
+  awarded_total: 51300
   submission_urls:
     - communityfund.stellar.org/submissions/reckPm1IWpP2CJMgq
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -15,11 +15,9 @@ links:
   telegram: []
   youtube:
     - youtube.com/@teachmedefi
-  instagram:
-    - teachmedefi
+  instagram: []
   reddit: []
-  tiktok:
-    - teachmedefi_official
+  tiktok: []
   linktree: []
   github: []
 attributes:
@@ -28,6 +26,6 @@ attributes:
   operating_region: []
   based_in: United States
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

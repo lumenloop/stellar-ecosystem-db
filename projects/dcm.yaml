@@ -26,6 +26,6 @@ attributes:
   operating_region: []
   based_in: Poland
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

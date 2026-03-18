@@ -1,8 +1,7 @@
 title: Canfy
 other_names: null
 parent: null
-description: |
-  A developer copilot trained on extensive knowledge of Stellar and Soroban to navigate the complexities and assist on apps creation.
+description: A developer copilot trained on extensive knowledge of Stellar and Soroban to navigate the complexities and assist on apps creation.
 links:
   website:
     - canfy.net
@@ -24,12 +23,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 50100
   awarded_round:
     - 19
+  awarded_total: 50100
   submission_urls:
     - communityfund.stellar.org/submissions/recfjZWvOsCHoeqOV
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

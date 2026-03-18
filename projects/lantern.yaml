@@ -3,8 +3,7 @@ other_names:
   - Lantern Finance XLM Expansion
   - Lantern Finance
 parent: null
-description: |
-  To expand Lantern’s infrastructure to enable clients to borrow USD &amp; stablecoins against their XLM.
+description: Lantern Finance is a platform offering crypto-backed loans and staking services.
 links:
   website:
     - lantern.finance
@@ -17,8 +16,7 @@ links:
   discord: []
   telegram: []
   youtube: []
-  instagram:
-    - lantern.finance
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -33,12 +31,12 @@ attributes:
     - United States
   based_in: United States
 scf:
-  awarded_total: 48483
   awarded_round:
     - 29
+  awarded_total: 48483
   submission_urls:
     - communityfund.stellar.org/submissions/rec1emvKo0DFpWx0c
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

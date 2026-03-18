@@ -1,26 +1,23 @@
 title: Silicore
 other_names: null
 parent: null
-description: |
-  Democratizing knowledge of distinct Anchor benefits
+description: A platform designed to efficiently select and rank Stellar Anchors, secure the best rates, and trade with ease.
 links:
   website:
     - silicore.io
-    - figma.com/design/vAoC9nyTs5Cg6A2pllTUWt/Silicore?node-id=0-1&t=h212M0CT1vGbXqeY-1
   blog: []
   x: []
   linkedin: []
   discord: []
   telegram: []
   youtube:
-    - youtube.com/@Silicore-w3n
+    - youtube.com/@silicore-w3n
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/Ilanklim
-    - github.com/Ilanklim/EasyA_Hackathon
+    - github.com/ilanklim
 attributes:
   category: Infrastructure & Services
   tags:
@@ -32,12 +29,12 @@ attributes:
   operating_region: []
   based_in: United States
 scf:
-  awarded_total: 31000
   awarded_round:
     - 29
+  awarded_total: 31000
   submission_urls:
     - communityfund.stellar.org/submissions/recyN1rWGOVPFszvZ
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

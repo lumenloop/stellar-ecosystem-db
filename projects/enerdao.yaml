@@ -1,18 +1,16 @@
 title: EnerDAO
 other_names: null
 parent: null
-description: |
-  EnerDAO: Fuelling the Global Green Transition through Decentralized Finance and tokenization of renewable power projects debt.
+description: 'EnerDAO: Fuelling the Global Green Transition through Decentralized Finance and tokenization of renewable power projects debt.'
 links:
   website:
     - enerdao.org
   blog: []
   x:
-    - enerdao
     - ener_dao
   linkedin: []
   discord:
-    - discord.gg/jbParnq4W5
+    - discord.gg/jbparnq4w5
   telegram: []
   youtube: []
   instagram: []
@@ -20,8 +18,8 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/EnerDAO
-    - github.com/EnerDAO/MVP_SMART_CONTRACT
+    - github.com/enerdao
+    - github.com/enerdao/mvp_smart_contract
 attributes:
   category: Infrastructure & Services
   tags:
@@ -37,12 +35,12 @@ attributes:
   operating_region: []
   based_in: Ukraine
 scf:
-  awarded_total: 47700
   awarded_round:
     - 24
+  awarded_total: 47700
   submission_urls:
     - communityfund.stellar.org/submissions/recxI1WH8tFYnAwag
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,11 +1,10 @@
 title: Flutter Wallet SDK
 other_names: null
 parent: null
-description: |
-  With the Flutter Wallet SDK, building a Stellar-enabled wallet or application is faster and easier than ever.
+description: With the Flutter Wallet SDK, building a Stellar-enabled wallet or application is faster and easier than ever.
 links:
   website:
-    - github.com/Soneso/stellar_wallet_flutter_sdk
+    - github.com/soneso/stellar_wallet_flutter_sdk
   blog: []
   x: []
   linkedin: []
@@ -17,7 +16,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/Soneso/stellar_wallet_flutter_sdk
+    - github.com/soneso/stellar_wallet_flutter_sdk
 attributes:
   category: Developer Tooling
   tags:
@@ -25,14 +24,14 @@ attributes:
   operating_region: []
   based_in: Spain
 scf:
-  awarded_total: 50000
   awarded_round:
     - 22
     - 24
+  awarded_total: 50000
   submission_urls:
     - communityfund.stellar.org/submissions/rec6KM9NQ4ajoMHTW
     - communityfund.stellar.org/submissions/recxj2LCnWfaNjDRt
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -11,14 +11,13 @@ links:
     - etherfuse
   linkedin:
     - linkedin.com/company/etherfuse
+    - linkedin.com/in/lifehug
   discord: []
   telegram: []
   youtube: []
-  instagram:
-    - etherfusetech
+  instagram: []
   reddit: []
-  tiktok:
-    - tokenized.revo
+  tiktok: []
   linktree: []
   github:
     - github.com/etherfuse
@@ -28,6 +27,6 @@ attributes:
   operating_region: []
   based_in: United States
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,8 +1,7 @@
 title: Autowhale
 other_names: null
 parent: null
-description: |
-  Institutional adoption of Stellar's DeFi and RWA ecosystem is hindered by the lack of robust trading and portfolio management infrastructure. Autowhale bridges this gap by providing a comprehensive PMS (portfolio management system) and OEMS (order execution management system) tailored for institutional investors. With Autowhale PMS and EMS we are looking to build the infrastructure for those institutions to access Stellar’s DeFi and RWA ecosystem.
+description: Portfolio management and order execution system for institutional investors accessing Stellar’s DeFi and RWA ecosystem.
 links:
   website:
     - autowhale.io
@@ -34,12 +33,12 @@ attributes:
     - Europe & Central Asia
   based_in: Austria
 scf:
-  awarded_total: 150000
   awarded_round:
     - 34
+  awarded_total: 150000
   submission_urls:
     - communityfund.stellar.org/submissions/reckUfLS3PLCeRDvU
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

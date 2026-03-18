@@ -1,8 +1,7 @@
 title: AssetDesk
 other_names: null
 parent: null
-description: |
-  AssetDesk on Soroban is a decentralized non-custodial liquidity protocol where users can participate as depositors or borrowers and utilise margin and limit position inside the protocol. Depositors provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralized (perpetually) or undercollateralized (one-block liquidity) fashion.
+description: AssetDesk on Soroban is a decentralized non-custodial liquidity protocol where users can participate as depositors or borrowers and utilise margin and limit position inside the protocol. Depositors provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralized (perpetually) or undercollateralized (one-block liquidity) fashion.
 links:
   website:
     - assetdesk.xyz
@@ -19,8 +18,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/AssetDesk
-    - github.com/orgs/AssetDesk
+    - github.com/assetdesk
 attributes:
   category: Financial Protocols
   tags: []
@@ -28,12 +26,12 @@ attributes:
     - Moon
   based_in: Moon
 scf:
-  awarded_total: 70000
   awarded_round:
     - 19
+  awarded_total: 70000
   submission_urls:
     - communityfund.stellar.org/submissions/rec6pAYRxRQmNDwFm
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

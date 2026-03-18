@@ -1,18 +1,15 @@
 title: USDC Swap
 other_names:
   - 'USDC Swap: Stellar CCTP Bridge'
-parent: Ultra Stellar
-description: |
-  USDC Swap: Seamlessly bridges USDC across networks with CCTP, prioritizing Stellar integration for efficient, low-fee transactions
+parent: null
+description: USDC Swap is a platform that facilitates seamless conversions between USDC on the Ethereum blockchain and USDC on the Stellar network, enabling users to leverage Stellar's fast and low-cost transactions.
 links:
   website:
     - usdcswap.com
-    - usdc-swap-staging.ultrastellar.com/cctp/landing
   blog:
     - medium.com/ultra-stellar
   x:
     - usdcswap
-    - 'https:'
   linkedin:
     - linkedin.com/company/ultra-stellar
   discord:
@@ -20,7 +17,7 @@ links:
   telegram:
     - t.me/usdc_swap_official
   youtube:
-    - youtube.com/channel/UCzOwdRJm-z1vEkM_SsyaiKg
+    - youtube.com/channel/uczowdrjm-z1vekm_ssyaikg
   instagram: []
   reddit: []
   tiktok: []
@@ -39,12 +36,12 @@ attributes:
   operating_region: []
   based_in: Cayman Islands
 scf:
-  awarded_total: 50000
   awarded_round:
     - 26
+  awarded_total: 50000
   submission_urls:
     - communityfund.stellar.org/submissions/recqE4Pq1SlYXqzuC
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

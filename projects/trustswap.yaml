@@ -2,8 +2,7 @@ title: Trustswap
 other_names:
   - 'TrustSwap: Team Finance'
 parent: null
-description: |
-  Entering Web3 is complex, expensive, and time-consuming, with significant security risks. That is why we developed Team Finance, a comprehensive and secure token management platform offering a full suite of defi services, including token minting, token and liquidity locks, NFT locks, multisender, staking, vesting-as-a-service, and more.
+description: Entering Web3 is complex, expensive, and time-consuming, with significant security risks. That is why we developed Team Finance, a comprehensive and secure token management platform offering a full suite of defi services, including token minting, token and liquidity locks, NFT locks, multisender, staking, vesting-as-a-service, and more.
 links:
   website:
     - team.finance
@@ -25,12 +24,12 @@ attributes:
     - Middle East & North Africa
   based_in: Germany
 scf:
-  awarded_total: 120000
   awarded_round:
     - 36
+  awarded_total: 120000
   submission_urls:
     - communityfund.stellar.org/submissions/rec6N0wmFu2O5KHFs
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

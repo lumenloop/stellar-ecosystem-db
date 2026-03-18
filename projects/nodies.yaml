@@ -1,8 +1,7 @@
 title: Nodies
 other_names: null
 parent: null
-description: |
-  With 3+ years of experience, Nodies offers the Stellar community high-performance RPC & Horizon services in Mainnet and Testnet. 
+description: Nodies is a Web3 infrastructure platform offering high-performance RPC and Horizon services for the Stellar network on both mainnet and testnet.
 links:
   website:
     - nodies.app
@@ -21,7 +20,6 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/baaspoolsllc
     - github.com/nodiesorg
 attributes:
   category: Infrastructure & Services
@@ -33,12 +31,12 @@ attributes:
     - United States
   based_in: United States
 scf:
-  awarded_total: 62000
   awarded_round:
     - 30
+  awarded_total: 62000
   submission_urls:
     - communityfund.stellar.org/submissions/recwxiAUvdOz3nlNh
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

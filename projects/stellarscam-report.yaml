@@ -1,8 +1,7 @@
 title: Stellarscam.report
 other_names: null
 parent: null
-description: |
-  Collect scam reports and assist with taking site down and spreading info
+description: Collect scam reports and assist with taking site down and spreading info.
 links:
   website:
     - stellarscam.report
@@ -24,12 +23,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 5445
   awarded_round:
     - 6
+  awarded_total: 5445
   submission_urls:
     - communityfund.stellar.org/submissions/recGmQ4CAX2gjf7qz
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

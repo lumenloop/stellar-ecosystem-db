@@ -2,8 +2,7 @@ title: Noticias Trading
 other_names:
   - Soroban and Stellar Content
 parent: null
-description: |
-  Educational video content about Soroban and Stellar for over 160.000 followers. Cross border payments, CBDCs and smart contracts.
+description: Educational video content about Soroban and Stellar for over 160.000 followers. Cross border payments, CBDCs and smart contracts.
 links:
   website:
     - beacons.ai/noticiastrading
@@ -17,8 +16,7 @@ links:
     - youtube.com/@noticiastrading
   instagram: []
   reddit: []
-  tiktok:
-    - noticiastrading
+  tiktok: []
   linktree: []
   github: []
 attributes:
@@ -28,12 +26,12 @@ attributes:
     - Spain
   based_in: Spain
 scf:
-  awarded_total: 10000
   awarded_round:
     - 25
+  awarded_total: 10000
   submission_urls:
     - communityfund.stellar.org/submissions/recGYi64cLQpzppJU
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

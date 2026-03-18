@@ -1,13 +1,13 @@
 title: StellarExpert
 other_names: null
 parent: null
-description: |
-  Ledger explorer and analytics platform for Stellar Network
+description: Ledger explorer and analytics platform for Stellar Network.
 links:
   website:
     - stellar.expert
   blog: []
-  x: []
+  x:
+    - orbitlens
   linkedin: []
   discord: []
   telegram: []
@@ -17,7 +17,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/stellar-expert/stellar-expert-explorer
+    - github.com/stellar-expert
 attributes:
   category: Infrastructure & Services
   tags:
@@ -27,10 +27,10 @@ attributes:
   operating_region: []
   based_in: Portugal
 scf:
-  awarded_total: null
   awarded_round: []
+  awarded_total: null
   submission_urls: []
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

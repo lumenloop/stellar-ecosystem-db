@@ -23,8 +23,6 @@ attributes:
   operating_region: []
   based_in: null
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: Auditing Report for Soroban Stellar Soroban Core V2
       url: sorobansecurity.com/report/28
@@ -34,3 +32,5 @@ mainnet:
       url: sorobansecurity.com/report/42
       date: '2025-09-26T15:00:00Z'
       auditor: Veridise
+  tokens: []
+  contracts: []

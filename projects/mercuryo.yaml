@@ -1,8 +1,7 @@
-title: 'Mercuryo '
+title: Mercuryo
 other_names: null
 parent: null
-description: |
-  Mercuryo is a leading web3 payment company empowering clients across 150 countries. 
+description: Mercuryo is a global payment platform bridging crypto and fiat, offering services like on-ramps, virtual cards, and multi-currency transactions in over 135 countries.
 links:
   website:
     - mercuryo.io
@@ -10,7 +9,7 @@ links:
   x:
     - mercuryo_io
   linkedin:
-    - linkedin.com/company/mercuryo-io/mycompany
+    - linkedin.com/company/mercuryo-io
   discord: []
   telegram: []
   youtube: []
@@ -20,7 +19,6 @@ links:
   linktree: []
   github:
     - github.com/mercuryoio
-    - github.com/oor-api.redoc.ly
 attributes:
   category: Infrastructure & Services
   tags:
@@ -37,10 +35,10 @@ attributes:
     - South Asia
   based_in: United Kingdom
 scf:
-  awarded_total: null
   awarded_round: []
+  awarded_total: null
   submission_urls: []
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

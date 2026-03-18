@@ -1,8 +1,7 @@
 title: Nobak
 other_names: null
 parent: null
-description: |
-  Dive into Soroban's universe on Stellar, where the digital realm becomes your playground
+description: Non-custodial wallet signer for the Stellar network with DeFi lending capabilities powered by Soroban.
 links:
   website:
     - nobak.net
@@ -10,7 +9,7 @@ links:
   x: []
   linkedin: []
   discord:
-    - discord.gg/GR5cB3y2
+    - discord.gg/gr5cb3y2
   telegram: []
   youtube: []
   instagram: []
@@ -33,12 +32,12 @@ attributes:
     - North America (without Mexico)
   based_in: Argentina
 scf:
-  awarded_total: 34500
   awarded_round:
     - 23
+  awarded_total: 34500
   submission_urls:
     - communityfund.stellar.org/submissions/recsBO1vLdYFZMucB
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

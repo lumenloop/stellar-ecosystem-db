@@ -1,8 +1,7 @@
 title: AutoAction
 other_names: null
-parent: 57blocks
-description: |
-  AutoAction is a smart contract automation tool for implementing custom logic, time-based, and event-based automated transactions
+parent: null
+description: AutoAction is a smart contract automation tool for implementing custom logic, time-based, and event-based automated transactions.
 links:
   website:
     - 57blocks.io
@@ -17,7 +16,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/57blocks/Stellar-AutoAction
+    - github.com/57blocks/stellar-autoaction
 attributes:
   category: Developer Tooling
   tags:
@@ -27,16 +26,16 @@ attributes:
   operating_region: []
   based_in: China
 scf:
-  awarded_total: 50000
   awarded_round:
     - 29
+  awarded_total: 50000
   submission_urls:
     - communityfund.stellar.org/submissions/recYCCDvRv9w5fGoe
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: Auditing Report Hardening Blockchain Security with Formal Methods for 57Blocks Stellar Timelock Contract
       url: sorobansecurity.com/report/26
       date: '2024-08-05T15:00:00Z'
       auditor: Veridise
+  tokens: []
+  contracts: []

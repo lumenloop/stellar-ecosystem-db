@@ -1,29 +1,25 @@
 title: Soracle
 other_names:
-  - Soracle.org
+  - Soracle.org (Posted)
 parent: null
-description: |
-  General purpose http oracles with verifiable encryption threshold key derivation on Stellar
+description: Social media oracles on Soroban for dApp developers and content creators.
 links:
   website:
-    - soracle.org
     - posted.app
   blog: []
   x:
     - tryposted
   linkedin: []
   discord:
-    - discord.gg/Ane3ppsEGU
+    - discord.gg/ane3ppsegu
   telegram: []
   youtube: []
   instagram: []
-  reddit:
-    - r/Posted
+  reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/PostedApp
-    - github.com/stellarmask/stellarmask
+    - github.com/postedapp
 attributes:
   category: Infrastructure & Services
   tags:
@@ -32,10 +28,12 @@ attributes:
     - United States
   based_in: United States
 scf:
-  awarded_total: null
-  awarded_round: []
-  submission_urls: []
+  awarded_round:
+    - 22
+  awarded_total: 24000
+  submission_urls:
+    - ''
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

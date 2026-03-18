@@ -1,11 +1,10 @@
 title: Cosmic.link
 other_names: null
 parent: null
-description: |
-  Transactions over URL
+description: Transactions over URL.
 links:
   website:
-    - Cosmic.link
+    - cosmic.link
   blog: []
   x: []
   linkedin: []
@@ -24,12 +23,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: null
   awarded_round:
     - 3
+  awarded_total: null
   submission_urls:
     - communityfund.stellar.org/submissions/recIehhTK99OHm3UH
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

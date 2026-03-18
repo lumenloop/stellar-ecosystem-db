@@ -1,8 +1,7 @@
 title: TrustedPlastic
 other_names: null
 parent: null
-description: |
-  Enabling plastic waste collection through introducing transparency.
+description: Enabling plastic waste collection through introducing transparency.
 links:
   website:
     - recyclable.credit
@@ -25,12 +24,12 @@ attributes:
   operating_region: []
   based_in: Spain
 scf:
-  awarded_total: 49800
   awarded_round:
     - 22
+  awarded_total: 49800
   submission_urls:
     - communityfund.stellar.org/submissions/recdFUWjyYR7VoqYC
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,12 +1,12 @@
 title: PAYRIT
 other_names: null
 parent: null
-description: |
-  Payrit is a fintech service that is aimed at bridging the gap between the banked and the unbanked, allowing payments from, within and to both user groups, redefining in-person payments in Nigeria and Africa at large.   We are using modern technologies like QR payments and TAP technology for local and international transactions creating a cashless society that's dependable and safer for individuals and business owners.
+description: Payrit is a fintech service that is aimed at bridging the gap between the banked and the unbanked, allowing payments from, within and to both user groups, redefining in-person payments in Nigeria and Africa at large.   We are using modern technologies like QR payments and TAP technology for local and international transactions creating a cashless society that's dependable and safer for individuals and business owners.
 links:
   website:
     - payrit.com
-  blog: []
+  blog:
+    - blog.payrit.com
   x:
     - payrithq
   linkedin:
@@ -19,7 +19,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/docs.google.com/document/d/1Rs5mjJZkl2kZMqpVuZRRnJnhdx0gajOSAff6wIBgtZ0/edit?usp=sharing
+    - github.com/docs.google.com/document/d/1rs5mjjzkl2kzmqpvuzrrnjnhdx0gajosaff6wibgtz0/edit?usp=sharing
 attributes:
   category: Applications
   tags:
@@ -37,12 +37,12 @@ attributes:
     - Sub-Saharan Africa
   based_in: Nigeria
 scf:
-  awarded_total: 47792
   awarded_round:
     - 34
+  awarded_total: 47792
   submission_urls:
     - communityfund.stellar.org/submissions/recEJRd6JhFc2yJDj
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

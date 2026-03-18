@@ -13,7 +13,7 @@ links:
   discord: []
   telegram: []
   youtube:
-    - youtube.com/channel/UCVTP_Pdjx1hJujWtY_zdPBQ
+    - youtube.com/channel/ucvtp_pdjx1hjujwty_zdpbq
   instagram: []
   reddit: []
   tiktok: []
@@ -26,10 +26,10 @@ attributes:
   operating_region: []
   based_in: United States
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: Non-Custodial Signer Solution - Crossmint
       url: sorobansecurity.com/report/62
       date: '2025-10-21T04:53:17.258Z'
       auditor: Halborn
+  tokens: []
+  contracts: []

@@ -2,8 +2,7 @@ title: STOCKen CAPITAL
 other_names:
   - STOCKen CAPITAL Legaltech
 parent: null
-description: |
-  Legal platform for the digitization of governance and financing of disruptive companies.
+description: Legal platform for the digitization of governance and financing of disruptive companies.
 links:
   website:
     - stockencapital.com
@@ -15,9 +14,8 @@ links:
   discord: []
   telegram: []
   youtube:
-    - youtube.com/channel/UCFYKvd09rpncHFZb0kGnTGg
-  instagram:
-    - stockencapital
+    - youtube.com/channel/ucfykvd09rpnchfzb0kgntgg
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -28,12 +26,12 @@ attributes:
   operating_region: []
   based_in: Spain
 scf:
-  awarded_total: 32579
   awarded_round:
     - 24
+  awarded_total: 32579
   submission_urls:
     - communityfund.stellar.org/submissions/recMbwLXxfYgBJXQy
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

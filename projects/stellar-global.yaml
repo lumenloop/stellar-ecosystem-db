@@ -1,21 +1,19 @@
 title: Stellar Global
 other_names: null
 parent: null
-description: |
-  Stellar Global: Connecting the Human Network
+description: Stellar Global is a worldwide discord community dedicated to driving the growth of the Stellar ecosystem and fostering global connections among its members.
 links:
   website:
     - stellarglobal.community
-    - stellar-global.org
   blog: []
   x:
     - stellarglobal_
   linkedin: []
   discord:
-    - discord.gg/fKktv6GMxK
+    - discord.gg/fkktv6gmxk
   telegram: []
   youtube:
-    - youtube.com/@StellarGlobalCommunity
+    - youtube.com/@stellarglobalcommunity
   instagram: []
   reddit: []
   tiktok: []
@@ -29,12 +27,12 @@ attributes:
     - United States
   based_in: United States
 scf:
-  awarded_total: 100000
   awarded_round:
     - 9
+  awarded_total: 100000
   submission_urls:
     - communityfund.stellar.org/submissions/reckCItu7Q79QoTBF
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

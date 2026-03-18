@@ -15,8 +15,7 @@ links:
   telegram: []
   youtube:
     - youtube.com/@tribalcredit
-  instagram:
-    - tribalcredit
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -27,6 +26,6 @@ attributes:
   operating_region: []
   based_in: United States
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

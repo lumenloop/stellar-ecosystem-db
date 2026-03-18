@@ -1,8 +1,7 @@
 title: Tauvlo
 other_names: null
 parent: null
-description: |
-  Tauvlo is a tokenized real estate investment marketplace that makes investing in real estate accessible for everyone.
+description: Tauvlo is a tokenized real estate investment marketplace that makes investing in real estate accessible for everyone.
 links:
   website:
     - tauvlo.com
@@ -31,14 +30,14 @@ attributes:
   operating_region: []
   based_in: Czech Republic
 scf:
-  awarded_total: 145000
   awarded_round:
     - 23
     - 26
+  awarded_total: 145000
   submission_urls:
     - communityfund.stellar.org/submissions/recfgOVFwu6cukrrT
     - communityfund.stellar.org/submissions/rece6tiLTFxaIp9T8
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

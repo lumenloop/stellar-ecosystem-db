@@ -1,8 +1,7 @@
 title: Timed Transactions API
 other_names: null
 parent: null
-description: |
-  Schedule payments on the Stellar network!
+description: Schedule payments on the Stellar network!
 links:
   website: []
   blog: []
@@ -22,12 +21,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: null
   awarded_round:
     - 1
+  awarded_total: null
   submission_urls:
     - communityfund.stellar.org/submissions/recOamGIP0chX9mhu
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

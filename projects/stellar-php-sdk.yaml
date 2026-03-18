@@ -1,11 +1,10 @@
 title: Stellar PHP SDK
 other_names: null
 parent: null
-description: |
-  Easy access to Stellar for PHP developers
+description: Easy access to Stellar for PHP developers.
 links:
   website:
-    - github.com/Soneso/stellar-php-sdk
+    - github.com/soneso/stellar-php-sdk
   blog: []
   x: []
   linkedin: []
@@ -17,7 +16,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/Soneso/stellar-php-sdk
+    - github.com/soneso/stellar-php-sdk
 attributes:
   category: Developer Tooling
   tags:
@@ -25,18 +24,18 @@ attributes:
   operating_region: []
   based_in: Spain
 scf:
-  awarded_total: 225000
   awarded_round:
     - 8
     - SCF Public Goods - Q3 '25
     - SCF Public Goods - Q4 '25
     - SCF Public Goods - Q1 '26
+  awarded_total: 225000
   submission_urls:
     - communityfund.stellar.org/submissions/recEdENntL5PSd0GS
     - communityfund.stellar.org/submissions/recgPp44Kz3ph2yo4
     - communityfund.stellar.org/submissions/reczE46jhLyeSl5K5
     - communityfund.stellar.org/submissions/recUBptGbX1e1C5ek
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

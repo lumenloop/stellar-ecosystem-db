@@ -1,8 +1,7 @@
 title: Soroban  Polygon - Interop
 other_names: null
 parent: null
-description: |
-  Crosschain asset transfers between Soroban and Polygon, leveraging the Enterprise Ethereum Alliance DLT Interoperability spec.
+description: Crosschain asset transfers between Soroban and Polygon, leveraging the Enterprise Ethereum Alliance DLT Interoperability spec.
 links:
   website:
     - entethalliance.github.io/crosschain-interoperability/draft_dlt-interop_techspec.html
@@ -18,7 +17,6 @@ links:
   linktree: []
   github:
     - github.com/wanchain/message-bridge-contracts
-    - github.com/QualitaX/Stellar-EEA-Compliant-Interoperability
 attributes:
   category: Financial Protocols
   tags:
@@ -27,12 +25,12 @@ attributes:
   operating_region: []
   based_in: United Kingdom
 scf:
-  awarded_total: 42755
   awarded_round:
     - 27
+  awarded_total: 42755
   submission_urls:
     - communityfund.stellar.org/submissions/recgndGyFwfROKd6B
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

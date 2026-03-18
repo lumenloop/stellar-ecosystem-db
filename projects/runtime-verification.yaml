@@ -1,12 +1,10 @@
 title: Runtime Verification
 other_names:
   - 'Komet: Formal Verification'
-parent: Runtime Verification
-description: |
-  Open-source tool for Soroban smart contract developers, enabling them to perform robust formal verification.
+parent: null
+description: Open-source tool for Soroban smart contract developers, enabling them to perform robust formal verification.
 links:
   website:
-    - runtimeverification.com
     - kasmer.runtimeverification.com
   blog:
     - runtimeverification.medium.com
@@ -15,11 +13,11 @@ links:
   linkedin:
     - linkedin.com/company/3142238
   discord:
-    - discord.gg/CurfmXNtbN
+    - discord.gg/curfmxntbn
   telegram:
     - t.me/rv_inc
   youtube:
-    - youtube.com/channel/UCZeDdn8F5ARtK5LmRngiLnA
+    - youtube.com/channel/uczeddn8f5artk5lmrngilna
   instagram: []
   reddit: []
   tiktok: []
@@ -36,14 +34,14 @@ attributes:
     - United States
   based_in: United States
 scf:
-  awarded_total: 150000
   awarded_round:
     - 28
     - 30
+  awarded_total: 150000
   submission_urls:
     - communityfund.stellar.org/submissions/reciIW33y5UCN7CLd
     - communityfund.stellar.org/submissions/recX2wXDG0aIJ4z4I
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

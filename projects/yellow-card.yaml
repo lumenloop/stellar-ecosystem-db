@@ -14,8 +14,7 @@ links:
   discord: []
   telegram: []
   youtube: []
-  instagram:
-    - yellowcard_app
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -27,6 +26,6 @@ attributes:
   operating_region: []
   based_in: United States
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

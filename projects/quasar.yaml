@@ -1,8 +1,7 @@
 title: Quasar
 other_names: null
-parent: Eiger
-description: |
-  Decentralized price feed oracle grid for Stellar DeFi smart contracts to support derivatives, lending, and asset management
+parent: null
+description: Decentralized price feed oracle grid for Stellar DeFi smart contracts to support derivatives, lending, and asset management.
 links:
   website:
     - eiger.co
@@ -29,10 +28,10 @@ attributes:
     - Finland
   based_in: Finland
 scf:
-  awarded_total: null
   awarded_round: []
+  awarded_total: null
   submission_urls: []
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

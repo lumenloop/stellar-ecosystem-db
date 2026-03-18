@@ -1,8 +1,8 @@
 title: Web3 Antivirus
-other_names: null
+other_names:
+  - Web3 Antivirus (W3A)
 parent: null
-description: |
-  Web3 Antivirus is an open-source security browser extension that detects crypto scams and warns users before they sign anything.
+description: Web3 Antivirus is an open-source security browser extension that detects crypto scams and warns users before they sign anything.
 links:
   website: []
   blog:
@@ -12,7 +12,7 @@ links:
   linkedin:
     - linkedin.com/company/web3-antivirus
   discord:
-    - discord.gg/4hJAJUQCR2
+    - discord.gg/4hjajuqcr2
   telegram: []
   youtube: []
   instagram: []
@@ -29,10 +29,10 @@ attributes:
     - United States
   based_in: United States
 scf:
-  awarded_total: null
   awarded_round: []
+  awarded_total: null
   submission_urls: []
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

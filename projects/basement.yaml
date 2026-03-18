@@ -1,8 +1,7 @@
 title: Basement
 other_names: null
 parent: null
-description: |
-  Basement is the easiest way to access onchain data from Soroban. Our SQL and GraphQL API give you access to data such as events and transfers.
+description: Basement is the easiest way to access onchain data from Soroban. Our SQL and GraphQL API give you access to data such as events and transfers.
 links:
   website:
     - basement.dev
@@ -12,7 +11,7 @@ links:
   linkedin:
     - linkedin.com/company/82955478
   discord:
-    - discord.gg/rr5R7UYvGC
+    - discord.gg/rr5r7uyvgc
   telegram: []
   youtube: []
   instagram: []
@@ -28,12 +27,12 @@ attributes:
     - Netherlands
   based_in: Netherlands
 scf:
-  awarded_total: 12130
   awarded_round:
     - 17
+  awarded_total: 12130
   submission_urls:
     - communityfund.stellar.org/submissions/reckUpTGpkrfpxLT0
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,18 +1,15 @@
 title: Airswift
 other_names:
-  - Pelago
+  - Pelago (Airswift)
 parent: null
-description: |
-  Airswift’s Supply Chain Financing Platform unlocks new lending channels in supply chains via Stellar's new smart contract platform --- Soroban. The solution helps buyers optimize their working capital and provide SMEs with the funds they need prior to payment from the buyer, regardless of whether they have a direct relationship with the buyer.    The platform leverages credit from large buyers through tokenizing their account receivables on Stellar and fractionalizing them into smaller ones representing amounts owed to individual suppliers. Consequently, associated suppliers can obtain factoring services for a given account receivable, based on which they can secure advanced stablecoin loans equal to what will be owed them by the buyer. This process enables up to 10 suppliers associated with an account receivable to obtain credit lines so they can secure working capital. 
+description: Airswift's Supply Chain Financing Platform uses Stellar's Soroban to tokenize and fractionalize account receivables, enabling suppliers to access advanced stablecoin loans and optimize working capital.
 links:
   website:
-    - airswift.io
     - pelagotech.com
   blog: []
   x:
     - airswifttech
   linkedin:
-    - linkedin.com/company/airswifttech
     - linkedin.com/company/airswiftfintech
   discord: []
   telegram: []
@@ -23,8 +20,8 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/Airswiftio
-    - github.com/Airswiftio/SCF
+    - github.com/airswiftio
+    - github.com/airswiftio/scf
 attributes:
   category: Financial Protocols
   tags:
@@ -35,10 +32,10 @@ attributes:
   operating_region: []
   based_in: Canada
 scf:
-  awarded_total: null
   awarded_round: []
+  awarded_total: null
   submission_urls: []
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

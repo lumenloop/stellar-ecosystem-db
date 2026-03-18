@@ -1,16 +1,17 @@
 title: Interlinked
 other_names: null
 parent: null
-description: |
-  Decentralized link-shortening service built on Soroban.
+description: Decentralized link-shortening service built on Soroban.
 links:
   website:
     - inl.one
   blog: []
   x:
     - interlinked_url
-  linkedin: []
-  discord: []
+  linkedin:
+    - linkedin.com/company/intelinked27
+  discord:
+    - discord.gg/ergp7udc
   telegram: []
   youtube: []
   instagram: []
@@ -18,7 +19,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/AntonTat27/interlinked-backend
+    - github.com/antontat27/interlinked-backend
 attributes:
   category: Developer Tooling
   tags: []
@@ -26,12 +27,12 @@ attributes:
     - Cyprus
   based_in: Cyprus
 scf:
-  awarded_total: 30000
   awarded_round:
     - 36
+  awarded_total: 30000
   submission_urls:
     - communityfund.stellar.org/submissions/recVdZUIgFeG6Sl8f
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,11 +1,10 @@
 title: PAYGO Crypto
 other_names: null
 parent: null
-description: "Empowering PAYGO distributors, the platform removes barriers for the unbanked. Aids both small and large-scale businesses\_\n"
+description: Empowering PAYGO distributors, the platform removes barriers for the unbanked. Aids both small and large-scale businesses.
 links:
   website:
     - paygocrypto.io
-    - app.paygocrypto.io
   blog: []
   x:
     - paygocrypto
@@ -25,12 +24,12 @@ attributes:
     - Global
   based_in: Nigeria
 scf:
-  awarded_total: 16700
   awarded_round:
     - 23
+  awarded_total: 16700
   submission_urls:
     - communityfund.stellar.org/submissions/reckZmrJK4MDVG3lE
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

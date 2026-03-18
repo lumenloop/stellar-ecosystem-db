@@ -1,21 +1,24 @@
 title: AirGap
 other_names: null
 parent: null
-description: |
-  AirGap offers a robust, cost-effective solution by turning any smartphone into a secure cold wallet. AirGap consists of Wallet (hot wallet for transactions) and Vault (cold wallet for offline signing). Vault can also be used as a standalone solution with MetaMask for enhanced security.
+description: AirGap offers a robust, cost-effective solution by turning any smartphone into a secure cold wallet. AirGap consists of Wallet (hot wallet for transactions) and Vault (cold wallet for offline signing). Vault can also be used as a standalone solution with MetaMask for enhanced security.
 links:
   website:
     - airgap.it
-  blog: []
+  blog:
+    - medium.com/airgap-it
   x:
     - airgap_it
   linkedin:
     - linkedin.com/company/airgap
   discord:
-    - discord.gg/4Senj3xZ5s
-  telegram: []
-  youtube: []
-  instagram: []
+    - discord.gg/mg4jueajmr
+  telegram:
+    - t.me/airgap
+  youtube:
+    - youtube.com/channel/ucv2_m3scxtxlerwrqo8uvxg
+  instagram:
+    - airgap_wallet
   reddit: []
   tiktok: []
   linktree: []
@@ -39,12 +42,12 @@ attributes:
     - Sub-Saharan Africa
   based_in: Switzerland
 scf:
-  awarded_total: 60000
   awarded_round:
     - 35
+  awarded_total: 60000
   submission_urls:
     - communityfund.stellar.org/submissions/rec5o6NIP7y7AosOQ
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

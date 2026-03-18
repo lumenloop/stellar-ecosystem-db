@@ -1,8 +1,7 @@
 title: Mercury
 other_names: null
-parent: Xycloo Labs
-description: |
-  Mercury is a cost-effective and efficient indexing service that specialized both on Soroban and Stellar "Classic/Vanilla" indexing. Mercury also offers a cloud service for deploying advanced network-synced programs that need to work with the Network's data.
+parent: null
+description: Mercury is a cost-effective and efficient indexing service that specialized both on Soroban and Stellar "Classic/Vanilla" indexing. Mercury also offers a cloud service for deploying advanced network-synced programs that need to work with the Network's data.
 links:
   website:
     - mercurydata.app
@@ -12,8 +11,7 @@ links:
     - xycloolabs
   linkedin: []
   discord:
-    - discord.gg/sFwJxM88uK
-    - discord.gg/caqz3MeXCv
+    - discord.gg/caqz3mexcv
   telegram: []
   youtube: []
   instagram: []
@@ -30,18 +28,18 @@ attributes:
     - Argentina
   based_in: Italy
 scf:
-  awarded_total: 172000
   awarded_round:
     - 19
     - 25
+  awarded_total: 172000
   submission_urls:
     - communityfund.stellar.org/submissions/recwq69g0TVuylMjO
     - communityfund.stellar.org/submissions/reckeu03BF6X1OFq7
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: xycLoans Audit
       url: sorobansecurity.com/report/33
       date: '2024-01-18T15:00:00Z'
       auditor: OtterSec
+  tokens: []
+  contracts: []

@@ -1,7 +1,7 @@
 title: NiceTrade
 other_names: null
 parent: null
-description: NiceTrade is a powerful trading terminal with multi-account, social trading, competitions, and more.NiceTrade is a powerful trading terminal with multi-account, social trading, competitions, and more.
+description: NiceTrade is a powerful trading terminal with multi-account, social trading, competitions, and more.
 links:
   website:
     - nicetrade.co
@@ -22,12 +22,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: null
   awarded_round:
     - 4
+  awarded_total: null
   submission_urls:
     - communityfund.stellar.org/submissions/recyhzzgGCQVXFo7r
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

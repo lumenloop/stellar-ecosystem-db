@@ -1,8 +1,7 @@
 title: Blocknify
 other_names: null
 parent: null
-description: |
-  Enterprise Payment Processing
+description: Blocknify allows users to add a legally binding e-signature to any Stellar transaction with privacy and trust built-in.
 links:
   website:
     - blocknify.com
@@ -17,21 +16,21 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/Blocknify
+    - github.com/blocknify
 attributes:
   category: Applications
   tags: []
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 136517.12
   awarded_round:
     - 6
     - 7
+  awarded_total: 136517.12
   submission_urls:
     - communityfund.stellar.org/submissions/recmPFaKMX2it9tRt
     - communityfund.stellar.org/submissions/reca8IhnJRD2KYwxp
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

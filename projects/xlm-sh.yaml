@@ -1,8 +1,7 @@
 title: xlm.sh
 other_names: null
 parent: null
-description: |
-  Gateway for .xlm websites
+description: xlm.sh is a gateway that enables access to decentralized websites hosted on Stellar and IPFS by appending ".sh" to their ".xlm" domain names.
 links:
   website:
     - xlm.sh
@@ -17,7 +16,6 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/xlm.sh
     - github.com/lightsail-network
 attributes:
   category: Infrastructure & Services
@@ -27,12 +25,12 @@ attributes:
   operating_region: []
   based_in: China
 scf:
-  awarded_total: 36000
   awarded_round:
     - 31
+  awarded_total: 36000
   submission_urls:
     - communityfund.stellar.org/submissions/recu6fJQwuDeFeXlv
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

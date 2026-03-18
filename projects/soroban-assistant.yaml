@@ -1,8 +1,7 @@
 title: Soroban Assistant
 other_names: null
 parent: null
-description: |
-  AI assistant for Soroban Q&A, smart-contract code writing & rigorous testing to elevate your smart-contract projects.
+description: AI assistant for Soroban Q&A, smart-contract code writing & rigorous testing to elevate your smart-contract projects.
 links:
   website:
     - soroban-assistant.herokuapp.com
@@ -29,12 +28,12 @@ attributes:
   operating_region: []
   based_in: France
 scf:
-  awarded_total: 15000
   awarded_round:
     - 14
+  awarded_total: 15000
   submission_urls:
     - communityfund.stellar.org/submissions/rec0jGQZos0pFphvx
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

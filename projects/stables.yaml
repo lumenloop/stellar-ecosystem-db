@@ -1,8 +1,7 @@
 title: Stables
 other_names: null
 parent: null
-description: |
-  Stables has built a global stablecoin payment company bringing stablecoin powered financial services to developers, businesses and individual in 150+ countries.
+description: Stables has built a global stablecoin payment company bringing stablecoin powered financial services to developers, businesses and individual in 150+ countries.
 links:
   website:
     - stables.money
@@ -12,8 +11,9 @@ links:
   linkedin:
     - linkedin.com/company/stables-money
   discord:
-    - discord.gg/gm6w5TgXWD
-  telegram: []
+    - discord.gg/gm6w5tgxwd
+  telegram:
+    - t.me/stables_money
   youtube: []
   instagram: []
   reddit: []
@@ -32,12 +32,12 @@ attributes:
     - North America (without Mexico)
   based_in: Australia
 scf:
-  awarded_total: 150000
   awarded_round:
     - 36
+  awarded_total: 150000
   submission_urls:
     - communityfund.stellar.org/submissions/recC6Qp9jPM7AIcxy
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,14 +1,12 @@
 title: BorderDollar
 other_names: null
 parent: null
-description: |
-  BorderDollar provides investors with opportunities to invest in real-world assets through SME cross-border trade invoice financing
+description: BorderDollar provides investors with opportunities to invest in real-world assets through SME cross-border trade invoice financing.
 links:
   website:
     - borderdollar.co
   blog: []
-  x:
-    - 'https:'
+  x: []
   linkedin:
     - linkedin.com/in/jackietanyen
   discord: []
@@ -34,14 +32,14 @@ attributes:
   operating_region: []
   based_in: Singapore
 scf:
-  awarded_total: 133000
   awarded_round:
     - 26
     - 29
+  awarded_total: 133000
   submission_urls:
     - communityfund.stellar.org/submissions/recTfc2QWaiOjUbg9
     - communityfund.stellar.org/submissions/recDTKZEE2PaegFTc
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

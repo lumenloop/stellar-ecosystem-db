@@ -12,8 +12,7 @@ links:
   discord: []
   telegram: []
   youtube: []
-  instagram:
-    - freedompaywallet
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -24,6 +23,6 @@ attributes:
   operating_region: []
   based_in: United Kingdom
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

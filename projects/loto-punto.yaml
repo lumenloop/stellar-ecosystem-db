@@ -2,8 +2,7 @@ title: Loto Punto
 other_names:
   - 'Loto Punto: Automated Remmitance Kiosks'
 parent: null
-description: |
-  Loto Punto kiosks enable easy and affordable self-service transactions in cash within seconds, providing a fast, easy, and inexpensive way to pay, send and receive money. By integrating Stellar Blockchain with Loto Punto’s micro- service-oriented architecture system, we'll offer a more convenient an inexpensive channel for cross border remittances. This is achieved by converting physical FIAT currency into cryptocurrency and vice versa, partnering with relevant Stellar Wallets that provide on-ramp and off-ramp services in each LATAM country. 
+description: Self-service kiosk network enabling affordable cross-border transactions and stablecoin purchases in Latin America via Stellar.
 links:
   website:
     - lotopunto.co
@@ -38,10 +37,10 @@ attributes:
     - Latin America & Caribbean
   based_in: Colombia
 scf:
-  awarded_total: null
   awarded_round: []
+  awarded_total: null
   submission_urls: []
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,8 +1,7 @@
 title: EA Kazi
 other_names: null
 parent: null
-description: |
-  EaKazi combines and decentralizes Udemy+Freelancer allowing easy access to freelancers with verifiable credentials.
+description: EaKazi combines and decentralizes Udemy+Freelancer allowing easy access to freelancers with verifiable credentials.
 links:
   website:
     - biotlabs.africa/projects/ea-kazi
@@ -17,19 +16,19 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/Grants-Projects/EA_KAZI_backend_ic
+    - github.com/grants-projects/ea_kazi_backend_ic
 attributes:
   category: Applications
   tags: []
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 36000
   awarded_round:
     - 29
+  awarded_total: 36000
   submission_urls:
     - communityfund.stellar.org/submissions/recFjl5hx6W6MpaKT
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

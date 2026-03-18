@@ -16,19 +16,19 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/BlockShangerous/SNNAC
+    - github.com/blockshangerous/snnac
 attributes:
   category: Applications
   tags: []
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 7500
   awarded_round:
     - 11
+  awarded_total: 7500
   submission_urls:
     - communityfund.stellar.org/submissions/rec7rqjVZKmExp44A
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

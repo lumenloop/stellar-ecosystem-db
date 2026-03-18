@@ -1,8 +1,7 @@
 title: Ebioro
 other_names: null
 parent: null
-description: |
-  Financial Freedom for all Cubans
+description: Financial Freedom for all Cubans.
 links:
   website:
     - ebioro.com
@@ -28,12 +27,12 @@ attributes:
   operating_region: []
   based_in: Netherlands
 scf:
-  awarded_total: 236763
   awarded_round:
     - 8
+  awarded_total: 236763
   submission_urls:
     - communityfund.stellar.org/submissions/recsWgGMe0r36Gza0
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

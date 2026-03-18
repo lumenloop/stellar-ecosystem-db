@@ -2,8 +2,7 @@ title: Kulipa
 other_names:
   - Kulipa Debit Card
 parent: null
-description: |
-  A card that enables payments in stablecoin where Visa and Mastercard are accepted, with settlement on Stellar.
+description: A card that enables payments in stablecoin where Visa and Mastercard are accepted, with settlement on Stellar.
 links:
   website:
     - kulipa.xyz
@@ -34,12 +33,12 @@ attributes:
     - Latin America & Caribbean
   based_in: United Kingdom
 scf:
-  awarded_total: 150000
   awarded_round:
     - 31
+  awarded_total: 150000
   submission_urls:
     - communityfund.stellar.org/submissions/recon7Vnw25iu3Faw
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

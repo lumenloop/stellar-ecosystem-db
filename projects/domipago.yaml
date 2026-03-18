@@ -1,8 +1,7 @@
 title: DomiPago
 other_names: null
 parent: null
-description: |
-  DomiPago is a cross-border remittance platform committed to transforming how Dominican families send and receive money. Our vision is to eliminate the high fees, long delays, and complex processes often found in traditional transfers, ensuring vital support arrives swiftly and securely. By leveraging RTPs and Stablecoin rails, we provide near-instant settlement and transparent, low-cost transactions.  Through an intuitive web interface and WhatsApp integration, users can initiate and confirm transfers in under 60 seconds, drastically enhancing convenience. On the receiving end, DomiPago partners with local banks, mobile wallets, and cash pickup locations throughout the Dominican Republic to streamline off-ramps and accommodate varying user preferences. Ultimately, DomiPago’s mission is to empower the Dominican diaspora by bridging economic gaps and offering a faster, more affordable remittance option.
+description: Cross-border remittance platform on Stellar for the Dominican Republic diaspora, enabling low-cost money transfers with local cash-out options.
 links:
   website:
     - domipago.com
@@ -12,7 +11,8 @@ links:
   discord: []
   telegram: []
   youtube: []
-  instagram: []
+  instagram:
+    - domipago
   reddit: []
   tiktok: []
   linktree: []
@@ -26,12 +26,12 @@ attributes:
     - North America (without Mexico)
   based_in: Argentina
 scf:
-  awarded_total: 110000
   awarded_round:
     - 37
+  awarded_total: 110000
   submission_urls:
     - communityfund.stellar.org/submissions/recyUbEuRy1963T4e
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

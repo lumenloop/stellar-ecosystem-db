@@ -3,8 +3,7 @@ other_names:
   - Vanna Protocol
   - Vanna
 parent: null
-description: |
-  Vanna is building DeFAI's 1st Proprietary Trading Protocol using Composable Leverage & Chain Abstraction to let users Borrow upto 10x capital, trade borrowed capital on aggregated leveraged Derivatives & spot markets, earn leveraged yields across DeFi protocols & optimise risk exposure of delta-neutral strategies with sophisticated risk-management tools like Greeks.
+description: Vanna is building DeFAI's 1st Proprietary Trading Protocol using Composable Leverage & Chain Abstraction to let users Borrow upto 10x capital, trade borrowed capital on aggregated leveraged Derivatives & spot markets, earn leveraged yields across DeFi protocols & optimise risk exposure of delta-neutral strategies with sophisticated risk-management tools like Greeks.
 links:
   website:
     - vanna.finance
@@ -14,15 +13,16 @@ links:
   linkedin:
     - linkedin.com/company/vannaprotocol
   discord:
-    - discord.gg/2GCy9YaECT
-  telegram: []
+    - discord.gg/mmk9rswdzs
+  telegram:
+    - t.me/vannaprotocolann
   youtube: []
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/vannafinance/Protocol_V1_Soroban
+    - github.com/vannafinance/protocol_v1_soroban
 attributes:
   category: Financial Protocols
   tags: []
@@ -30,12 +30,12 @@ attributes:
     - India
   based_in: India
 scf:
-  awarded_total: 145000
   awarded_round:
     - 38
+  awarded_total: 145000
   submission_urls:
     - communityfund.stellar.org/submissions/recZvgmTQXLR9c52P
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -2,8 +2,7 @@ title: Skeeper
 other_names:
   - Skeeper - a keeper platform
 parent: null
-description: |
-  Skeeper provides smart-contract execution and automation tools and infrastructure for the Soroban ecosystem
+description: Skeeper provides smart-contract execution and automation tools and infrastructure for the Soroban ecosystem.
 links:
   website:
     - skeeper.xyz
@@ -24,12 +23,12 @@ attributes:
   operating_region: []
   based_in: Georgia
 scf:
-  awarded_total: 37500
   awarded_round:
     - 23
+  awarded_total: 37500
   submission_urls:
     - communityfund.stellar.org/submissions/recx1FddyJA3dibUN
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

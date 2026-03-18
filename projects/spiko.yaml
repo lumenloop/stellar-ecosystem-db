@@ -23,10 +23,10 @@ attributes:
   operating_region: []
   based_in: null
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: Stellar Contracts - Spiko
       url: sorobansecurity.com/report/66
       date: '2025-10-03T04:19:30.382Z'
       auditor: Halborn
+  tokens: []
+  contracts: []

@@ -11,14 +11,16 @@ links:
     - airtminc
   linkedin:
     - linkedin.com/company/airtm
-  discord: []
+  discord:
+    - discord.gg/airners
   telegram: []
   youtube:
-    - youtube.com/AirtmInc
+    - youtube.com/airtminc
   instagram:
     - airtminc
   reddit: []
-  tiktok: []
+  tiktok:
+    - airtminc
   linktree: []
   github: []
 attributes:
@@ -27,6 +29,6 @@ attributes:
   operating_region: []
   based_in: Argentina
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

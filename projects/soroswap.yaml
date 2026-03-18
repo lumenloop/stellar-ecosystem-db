@@ -1,25 +1,22 @@
 title: Soroswap
 other_names:
   - Soroswap.Finance
-parent: PaltaLabs
-description: |
-  Open-source AMM protocol and AMM Aggregator with Ecosystem Interoperability for providing liquidity and trading Stellar Assets in Soroban.
+parent: null
+description: Open-source AMM protocol and AMM Aggregator with Ecosystem Interoperability for providing liquidity and trading Stellar Assets in Soroban.
 links:
   website:
     - soroswap.finance
   blog:
     - medium.com/soroswap
   x:
-    - soroswap
+    - soroswapfinance
   linkedin:
-    - linkedin.com/company/paltalabs
     - linkedin.com/company/soroswap
   discord:
-    - discord.gg/yXFaku4w9u
-    - discord.gg/JdTz2Tbd
+    - discord.gg/8qhbaymz8g
   telegram: []
   youtube:
-    - youtube.com/@Soroswap.Finance
+    - youtube.com/@soroswap.finance
   instagram: []
   reddit: []
   tiktok: []
@@ -34,20 +31,18 @@ attributes:
   operating_region: []
   based_in: Chile
 scf:
-  awarded_total: 346750
   awarded_round:
     - 15
     - 17
     - 21
     - Liquidity Award - '24 Q1
+  awarded_total: 346750
   submission_urls:
     - communityfund.stellar.org/submissions/recQcIB562ZHDFqdJ
     - communityfund.stellar.org/submissions/recDy2knwdmwAPWBd
     - communityfund.stellar.org/submissions/recfVynUAvAjZO4Nj
     - communityfund.stellar.org/submissions/recWFIADW1gqmyvl7
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: Soroswap Audit
       url: sorobansecurity.com/report/27
@@ -61,3 +56,5 @@ mainnet:
       url: sorobansecurity.com/report/43
       date: '2025-03-17T15:00:00Z'
       auditor: OtterSec
+  tokens: []
+  contracts: []

@@ -1,8 +1,7 @@
 title: Kotani Pay
 other_names: null
 parent: null
-description: |
-  Stablecoin payments without the need for an Internet connection or a bank account.
+description: Stablecoin payments without the need for an Internet connection or a bank account.
 links:
   website:
     - kotanipay.com
@@ -13,7 +12,7 @@ links:
     - linkedin.com/company/kotanipay
   discord: []
   telegram:
-    - t.me/+Gmn5yjd5U9U0MmE0
+    - t.me/+gmn5yjd5u9u0mme0
   youtube: []
   instagram: []
   reddit: []
@@ -31,12 +30,12 @@ attributes:
     - Kenya
   based_in: Ghana
 scf:
-  awarded_total: 100000
   awarded_round:
     - 11
+  awarded_total: 100000
   submission_urls:
     - communityfund.stellar.org/submissions/rec9ylKAGxTVT4Lex
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

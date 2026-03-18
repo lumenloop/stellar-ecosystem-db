@@ -3,29 +3,28 @@ other_names:
   - RaumFi DEX by Raum Network
   - Chrysalis
 parent: null
-description: |
-  Chrysalis - turn Stellar assets into fluid opportunities, offering seamless liquidity and staking rewards on one dynamic platform.
+description: RaumFi DEX empowers seamless token swap through an AMM while offering insights and metrics via uniquely designed dashboard.
 links:
   website:
     - raum.network
   blog:
     - raumnetwork.medium.com
   x:
-    - raumnetwork
     - chrysalisfi
-  linkedin: []
+    - raumnetwork
+  linkedin:
+    - linkedin.com/company/raum-network
   discord:
-    - discord.gg/3TRy4pzzHn
+    - discord.gg/3try4pzzhn
   telegram:
-    - t.me/RaumNetworkOfficial
+    - t.me/raumnetworkofficial
   youtube: []
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/Raum-Network
-    - github.com/Raum-Network/raum-chrysalis-stellarcontract, https://github.com/Raum-Network/raum-chrysalis-cctpintegration, https://github.com/Raum-Network/raum-chrysalis-ccipintegration
+    - github.com/raum-network
 attributes:
   category: Financial Protocols
   tags:
@@ -35,12 +34,12 @@ attributes:
     - India
   based_in: India
 scf:
-  awarded_total: 49040
   awarded_round:
     - 29
+  awarded_total: 49040
   submission_urls:
     - communityfund.stellar.org/submissions/reclPkvuD4iqLs6E5
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

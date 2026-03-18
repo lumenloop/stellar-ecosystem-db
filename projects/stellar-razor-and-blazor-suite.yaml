@@ -1,11 +1,10 @@
 title: Stellar Razor and Blazor Suite
 other_names: null
-parent: Pakana
-description: |
-  DotNet Razor and Blazor UI Components and Schema for Microsoft Identity, OAuth 2.0, OIDS 1.0, QR-Code MFA, Keypair Abstraction
+parent: null
+description: DotNet Razor and Blazor UI Components and Schema for Microsoft Identity, OAuth 2.0, OIDS 1.0, QR-Code MFA, Keypair Abstraction.
 links:
   website:
-    - github.com/lockb0x-llc/Pakana-Stellar-Razor-Components
+    - github.com/lockb0x-llc/pakana-stellar-razor-components
   blog: []
   x: []
   linkedin: []
@@ -17,7 +16,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/lockb0x-llc/Pakana-Stellar-Razor-Components
+    - github.com/lockb0x-llc/pakana-stellar-razor-components
 attributes:
   category: Developer Tooling
   tags:
@@ -25,16 +24,16 @@ attributes:
   operating_region: []
   based_in: United States
 scf:
-  awarded_total: 150000
   awarded_round:
     - 25
     - 27
     - 31
+  awarded_total: 150000
   submission_urls:
     - communityfund.stellar.org/submissions/recZAb3KITV9paodq
     - communityfund.stellar.org/submissions/rec72NpAO8hHB3zap
     - communityfund.stellar.org/submissions/reczkZYQwOf7sZnJG
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

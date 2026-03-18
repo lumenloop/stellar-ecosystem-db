@@ -13,9 +13,8 @@ links:
   discord: []
   telegram: []
   youtube:
-    - youtube.com/channel/UCmQwfiEXQ8HN_OhsNMu2R6w
-  instagram:
-    - bittglobal
+    - youtube.com/channel/ucmqwfiexq8hn_ohsnmu2r6w
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -26,6 +25,6 @@ attributes:
   operating_region: []
   based_in: null
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

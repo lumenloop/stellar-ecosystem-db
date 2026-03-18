@@ -1,30 +1,29 @@
 title: Techfiesta
 other_names:
   - Stellar Talent Platform
-parent: techFiesta
-description: |
-  Educate, validate, onboard and pay talent on Stellar via techfiesta.dev
+parent: null
+description: Educate, validate, onboard and pay talent on Stellar via techfiesta.dev.
 links:
   website:
     - techfiesta.dev
   blog:
-    - medium.com/@techFiesta
+    - medium.com/@techfiesta
   x:
     - techfiesta_hack
   linkedin:
     - linkedin.com/company/techfiesta
   discord:
-    - discord.gg/xn8XbxXem9
+    - discord.gg/xn8xbxxem9
   telegram:
-    - t.me/+R2dFGg-iB5NlYzg0
+    - t.me/+r2dfgg-ib5nlyzg0
   youtube:
-    - youtube.com/@techFiesta_hack
+    - youtube.com/@techfiesta_hack
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/Ekolance-Official
+    - github.com/ekolance-official
 attributes:
   category: Education & Community
   tags:
@@ -34,12 +33,12 @@ attributes:
     - Nigeria
   based_in: Germany
 scf:
-  awarded_total: 41000
   awarded_round:
     - 27
+  awarded_total: 41000
   submission_urls:
     - communityfund.stellar.org/submissions/recLvmSw4cVbIKjHx
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

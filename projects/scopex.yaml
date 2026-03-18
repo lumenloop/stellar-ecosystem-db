@@ -1,21 +1,19 @@
 title: ScopeX
 other_names: null
 parent: null
-description: |
-  Simplified fiat remittance app for web2 users without exposing complexity of crypto world
+description: Simplified fiat remittance app for web2 users without exposing complexity of crypto world.
 links:
   website:
     - scopex.money
   blog: []
   x:
-    - 0xscopex
+    - scopex_money
   linkedin:
     - linkedin.com/company/0xscopex
   discord: []
   telegram: []
   youtube: []
-  instagram:
-    - scopex_fintech
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -29,14 +27,14 @@ attributes:
   operating_region: []
   based_in: India
 scf:
-  awarded_total: 78000
   awarded_round:
     - 26
     - 30
+  awarded_total: 78000
   submission_urls:
     - communityfund.stellar.org/submissions/recVBPIbN6ojsDcHK
     - communityfund.stellar.org/submissions/recQqSzJ9ggbbyirH
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

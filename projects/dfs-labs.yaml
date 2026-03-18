@@ -2,8 +2,7 @@ title: DFS Labs
 other_names:
   - Stellar Surge
 parent: null
-description: |
-  Stellar Surge seeks to build a community of engaged African engineers and startups innovating on Stellar and Soroban. 
+description: Stellar Surge seeks to build a community of engaged African engineers and startups innovating on Stellar and Soroban.
 links:
   website:
     - dfslab.net
@@ -31,12 +30,12 @@ attributes:
     - France
   based_in: Nigeria
 scf:
-  awarded_total: 50000
   awarded_round:
     - 24
+  awarded_total: 50000
   submission_urls:
     - communityfund.stellar.org/submissions/recc3FaUY1QXUGaEx
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

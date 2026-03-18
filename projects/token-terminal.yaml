@@ -1,8 +1,7 @@
 title: Token Terminal
 other_names: null
 parent: null
-description: |
-  Token Terminal is the leading full-stack onchain data platform, trusted by institutions such as Bloomberg, Franklin Templeton, Bitwise, Coinbase, and Ark Invest. Our mission is to build the most comprehensive, accurate, and standardized dataset in crypto—bridging traditional financial analysis with decentralized ecosystems. This project focuses on integrating Stellar’s onchain data into the Token Terminal platform. By indexing and standardizing Stellar blockchain data, we will bring enterprise-grade visibility and analytics tools to the Stellar ecosystem. Our work includes the development of robust data pipelines, long-term data maintenance, and the creation of intuitive dashboards that present Stellar’s network and application-level metrics in a clear, comparable, and actionable format. Beyond data infrastructure, we will produce high-quality educational and analytical content—including dashboards, reports, and API access—tailored for analysts, builders, and investors. This ensures ongoing visibility and accurate benchmarking of Stellar’s performance alongside other leading blockchains and dApps. The impact of this partnership is twofold: First, it strengthens Stellar’s credibility among institutional and retail stakeholders by embedding its data within a globally used analytics standard. Second, it empowers the Stellar builder community with tools to better communicate progress, measure success, and attract funding or users. Together, we’re making Stellar’s ecosystem more transparent, discoverable, and data-driven—laying the groundwork for broader adoption and sustained growth.
+description: Full-stack on-chain data platform providing financial and usage metrics for blockchain protocols including Stellar, with institutional-grade analytics.
 links:
   website:
     - tokenterminal.com
@@ -25,12 +24,12 @@ attributes:
     - Europe & Central Asia
   based_in: Finland
 scf:
-  awarded_total: 150000
   awarded_round:
     - 38
+  awarded_total: 150000
   submission_urls:
     - communityfund.stellar.org/submissions/recE6ApmBpVd2e1H8
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,9 +1,8 @@
 title: Lightecho
 other_names:
   - Lightecho Stellar Oracle
-parent: BP Ventures
-description: |
-  Reliable and Trustworthy Emerging markets and XLM Volatility price feed for Soroban.
+parent: null
+description: Reliable and Trustworthy Emerging markets and XLM Volatility price feed for Soroban.
 links:
   website:
     - lightecho.io
@@ -16,7 +15,7 @@ links:
   discord: []
   telegram: []
   youtube:
-    - youtube.com/channel/UCugQSzh7RMnCa2poIUTyRUA
+    - youtube.com/channel/ucugqszh7rmnca2poiutyrua
   instagram: []
   reddit: []
   tiktok: []
@@ -30,12 +29,12 @@ attributes:
   operating_region: []
   based_in: Brazil
 scf:
-  awarded_total: 93110
   awarded_round:
     - 16
+  awarded_total: 93110
   submission_urls:
     - communityfund.stellar.org/submissions/recLl0Y8hNXWZttmc
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

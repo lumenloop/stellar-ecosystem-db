@@ -2,8 +2,7 @@ title: Greeppay
 other_names:
   - Greep POS/ Greep pay
 parent: null
-description: |
-  A stablecoin-powered POS that enables merchants to accept African currencies seamlessly, settle instantly, and grow globally.
+description: A stablecoin-powered POS that enables merchants to accept African currencies seamlessly, settle instantly, and grow globally.
 links:
   website:
     - pay.greep.io
@@ -11,7 +10,7 @@ links:
   x:
     - greeppay
   linkedin:
-    - linkedin.com/in/greep-pay
+    - linkedin.com/showcase/greep-pay
   discord: []
   telegram: []
   youtube: []
@@ -20,7 +19,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/GreepPay
+    - github.com/greeppay
 attributes:
   category: Applications
   tags: []
@@ -28,12 +27,12 @@ attributes:
     - North America (without Mexico)
   based_in: Cyprus
 scf:
-  awarded_total: 70000
   awarded_round:
     - 34
+  awarded_total: 70000
   submission_urls:
     - communityfund.stellar.org/submissions/recHSIA8l5XvAiTxw
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

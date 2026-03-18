@@ -2,22 +2,22 @@ title: Wombat
 other_names:
   - Wombat Exchange
 parent: null
-description: |
-  Wombat Exchange is a multichain stableswap, focused on re-engineering the stableswap experience with its innovative algorithm.
+description: Wombat Exchange is a decentralized exchange enabling low-slippage swaps and single-sided liquidity pools for efficient capital use. It supports multichain operations and incentivizes user engagement through gamified features.
 links:
   website:
     - wombat.exchange
   blog:
-    - medium.com/wombat-exchange
+    - medium.com/@wombatexchange
   x:
     - wombatexchange
   linkedin:
     - linkedin.com/company/wombat-exchange
   discord:
-    - discord.gg/Wombat
+    - discord.gg/wombat
   telegram:
-    - t.me/WombatExchange
-  youtube: []
+    - t.me/wombatexchange
+  youtube:
+    - youtube.com/@wombatexchange
   instagram: []
   reddit: []
   tiktok: []
@@ -33,16 +33,16 @@ attributes:
     - East Asia & Pacific
   based_in: Hong Kong
 scf:
-  awarded_total: 150000
   awarded_round:
     - 18
+  awarded_total: 150000
   submission_urls:
     - communityfund.stellar.org/submissions/rec5a6qOoWCjaHweW
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: Auditing Report for Wombat-Exchange
       url: sorobansecurity.com/report/32
       date: '2024-12-23T15:00:00Z'
       auditor: Veridise
+  tokens: []
+  contracts: []

@@ -1,12 +1,10 @@
 title: Arcturus
 other_names: null
 parent: null
-description: |
-  Arcturus is a ChatGPT plugin that can access and combine real-time data from the Stellar Blockchain and Soroban.
+description: Arcturus is a ChatGPT plugin that can access and combine real-time data from the Stellar Blockchain and Soroban.
 links:
   website:
     - arcturus-gpt.com
-    - github.com/Soneso/Arcturus
   blog: []
   x: []
   linkedin: []
@@ -18,19 +16,19 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/Soneso/Arcturus
+    - github.com/soneso/arcturus
 attributes:
   category: Infrastructure & Services
   tags: []
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 105120
   awarded_round:
     - 17
+  awarded_total: 105120
   submission_urls:
     - communityfund.stellar.org/submissions/rec01tLmsvSK8wwj4
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

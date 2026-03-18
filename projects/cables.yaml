@@ -12,9 +12,9 @@ links:
   linkedin:
     - linkedin.com/company/cables-finance
   discord:
-    - discord.gg/3yUDHjku5Y
+    - discord.gg/3yudhjku5y
   telegram:
-    - t.me/CablesFinance
+    - t.me/cablesfinance
   youtube: []
   instagram: []
   reddit: []
@@ -27,10 +27,10 @@ attributes:
   operating_region: []
   based_in: Canada
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: Security Assessment Report Cables Finance
       url: sorobansecurity.com/report/50
       date: '2024-04-09T15:00:00Z'
       auditor: certora
+  tokens: []
+  contracts: []

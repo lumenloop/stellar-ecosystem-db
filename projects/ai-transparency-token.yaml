@@ -1,8 +1,7 @@
 title: AI Transparency Token
 other_names: null
 parent: null
-description: |
-  AITT is an open-source solution that certifies the compliance of artificial intelligence systems using the Stellar Soroban blockchain. With the rise of regulations such as the AI Act and GDPR, businesses must demonstrate their commitment to ethics, transparency, and data protection. AITT automates this process by providing an immutable blockchain-based certification registry.    Through its REST API, companies can submit their compliance audits, which are then stored as tamper-proof certificates on the blockchain. Certifications are generated via Soroban smart contracts, issuing non-transferable NFTs to ensure authenticity and prevent falsification. These contracts also enable automatic updates and revocations of certifications if non-compliance is detected in a new audit.    An interactive dashboard allows regulators, investors, and businesses to query the blockchain in real-time to verify certification status. The use of Stellar Soroban ensures optimal scalability and low transaction costs, making adoption accessible to companies of all sizes. This approach eliminates complex manual audits and guarantees a transparent and automated monitoring system for AI compliance.
+description: Open-source platform on Soroban that certifies AI system compliance (AI Act, GDPR) using blockchain-based immutable audit records and non-transferable NFT certificates.
 links:
   website:
     - ethixia.com
@@ -17,7 +16,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/Falparis/AITT
+    - github.com/falparis/aitt
 attributes:
   category: Infrastructure & Services
   tags: []
@@ -25,10 +24,10 @@ attributes:
     - Europe & Central Asia
   based_in: France
 scf:
-  awarded_total: null
   awarded_round: []
+  awarded_total: null
   submission_urls: []
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

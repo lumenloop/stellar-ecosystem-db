@@ -9,7 +9,7 @@ links:
   x:
     - veridiseinc
   linkedin:
-    - linkedin.com/company/Veridise
+    - linkedin.com/company/veridise
   discord: []
   telegram: []
   youtube:
@@ -19,7 +19,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/Veridise
+    - github.com/veridise
 attributes:
   category: Infrastructure & Services
   tags:
@@ -29,6 +29,6 @@ attributes:
   operating_region: []
   based_in: Hong Kong
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

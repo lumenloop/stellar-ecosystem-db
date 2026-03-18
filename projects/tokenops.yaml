@@ -1,11 +1,9 @@
 title: TokenOps
 other_names: null
 parent: null
-description: |
-  Token distribution management platform (Vesting, airdrops, staking, onchain salaries)
+description: TokenOps is a platform for managing token cap tables and lifecycles, offering tools for vesting schedules, automated distributions, and detailed analytics. It integrates with popular protocols and accounting tools to simplify token management for companies, investors, and community members.
 links:
   website:
-    - TokenOps.xyz
     - tokenops.xyz
   blog: []
   x:
@@ -13,15 +11,16 @@ links:
   linkedin:
     - linkedin.com/company/tokenops
   discord: []
-  telegram: []
+  telegram:
+    - t.me/+k2etwfui_s4xmtnk
   youtube: []
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/VestingLabs
-    - github.com/VestingLabs/stellar_vesting
+    - github.com/vestinglabs
+    - github.com/vestinglabs/stellar_vesting
 attributes:
   category: Applications
   tags:
@@ -39,16 +38,16 @@ attributes:
     - North America (without Mexico)
   based_in: Portugal
 scf:
-  awarded_total: 60000
   awarded_round:
     - 30
+  awarded_total: 60000
   submission_urls:
     - communityfund.stellar.org/submissions/recq4UtMlUBoNw4TP
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: Security Audit Report TokenOps
       url: sorobansecurity.com/report/30
       date: '2025-03-24T15:00:00Z'
       auditor: Runtime Verification
+  tokens: []
+  contracts: []

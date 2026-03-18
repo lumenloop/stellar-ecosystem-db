@@ -1,8 +1,7 @@
 title: Stellarport
 other_names: null
 parent: null
-description: |
-  Stellar Wallet, DEX & Anchor
+description: Stellarport is a non-custodial wallet, decentralized exchange (DEX), and anchor for the Stellar network, enabling secure storage, trading, and fiat-to-crypto integration for digital assets.
 links:
   website:
     - stellarport.io
@@ -26,12 +25,12 @@ attributes:
     - Korea
   based_in: Korea
 scf:
-  awarded_total: null
   awarded_round:
     - 2
+  awarded_total: null
   submission_urls:
     - communityfund.stellar.org/submissions/recpMYd0rjGNLniyz
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,8 +1,7 @@
 title: Wirex Pay
 other_names: null
 parent: null
-description: |
-  Wirex Pay is a self-custodial card and bank account payment solution powered by smart accounts. It already has a solution designed for EVM and TRON solution is being developed. The team would like to support Stellar too. Supported by Visa, Wirex Pay aligns closely with Visa's vision for the future of payments, emphasizing collaboration in driving fintech innovation.
+description: Wirex Pay is a self-custodial card and bank account payment solution powered by smart accounts. It already has a solution designed for EVM and TRON solution is being developed. The team would like to support Stellar too. Supported by Visa, Wirex Pay aligns closely with Visa's vision for the future of payments, emphasizing collaboration in driving fintech innovation.
 links:
   website:
     - wirexpaychain.com
@@ -10,7 +9,8 @@ links:
   x:
     - wirexpaychain
   linkedin: []
-  discord: []
+  discord:
+    - discord.gg/f8ugp4dh6g
   telegram: []
   youtube: []
   instagram: []
@@ -37,10 +37,10 @@ attributes:
     - Latin America & Caribbean
   based_in: United Kingdom
 scf:
-  awarded_total: null
   awarded_round: []
+  awarded_total: null
   submission_urls: []
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

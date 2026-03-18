@@ -2,8 +2,7 @@ title: Bondhive
 other_names:
   - BondHive:OnChain Fixed Deposit
 parent: null
-description: |
-  Bond Hive simplifies on-chain savings, offering fixed returns by tokenizing funding fees, making complex futures easy for everyone
+description: Bond Hive simplifies on-chain savings, offering fixed returns by tokenizing funding fees, making complex futures easy for everyone.
 links:
   website:
     - bondhive.xyz
@@ -13,15 +12,15 @@ links:
   linkedin: []
   discord: []
   telegram:
-    - t.me/+AjBlPFAjjLYyNWNl
+    - t.me/bondhive
   youtube: []
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/Bond-Hive
-    - github.com/Bond-Hive/soroban_contracts
+    - github.com/bond-hive
+    - github.com/bond-hive/soroban_contracts
 attributes:
   category: Financial Protocols
   tags:
@@ -31,20 +30,20 @@ attributes:
     - France
   based_in: United Kingdom
 scf:
-  awarded_total: 190000
   awarded_round:
     - 27
     - 29
     - Liquidity Award - '24 Q1
+  awarded_total: 190000
   submission_urls:
     - communityfund.stellar.org/submissions/rec1ukEnQRTCfaoHw
     - communityfund.stellar.org/submissions/recFFYDdyYhSVQ9np
     - communityfund.stellar.org/submissions/recz6XRVsNiGe4uS3
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: BondHive Audit
       url: sorobansecurity.com/report/12
       date: '2024-09-29T15:00:00Z'
       auditor: CoinFabrik
+  tokens: []
+  contracts: []

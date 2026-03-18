@@ -1,8 +1,7 @@
 title: CashAbroad
 other_names: null
 parent: null
-description: |
-  Do Abroad business as easily as with locals for exporting and importing businesses in LATAM. CashAbroad facilitates cross-border payments with USDC and Fiat.
+description: Do Abroad business as easily as with locals for exporting and importing businesses in LATAM. CashAbroad facilitates cross-border payments with USDC and Fiat.
 links:
   website:
     - cashabroad.one
@@ -29,16 +28,16 @@ attributes:
     - Mexico
   based_in: Mexico
 scf:
-  awarded_total: 180025
   awarded_round:
     - 11
     - 14
     - 21
+  awarded_total: 180025
   submission_urls:
     - communityfund.stellar.org/submissions/recRhRDNW8zDJZBPA
     - communityfund.stellar.org/submissions/recrIwocQMrQbXS41
     - communityfund.stellar.org/submissions/recr6JGgzX8IHBgA5
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,18 +1,17 @@
 title: FindTruman
 other_names: null
 parent: null
-description: |
-  FindTruman — Create a story-gameplay co-creation platform based on Web3 and AIGC
+description: FindTruman — Create a story-gameplay co-creation platform based on Web3 and AIGC.
 links:
   website:
     - findtruman.io
   blog:
-    - medium.com/@FindTruman
+    - medium.com/@findtruman
   x:
     - findtruman
   linkedin: []
   discord:
-    - discord.gg/vrUjMWsjAj
+    - discord.gg/vrujmwsjaj
   telegram: []
   youtube: []
   instagram: []
@@ -20,8 +19,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/findtruman-official
-    - github.com/TrumanStellar/Story-Creation
+    - github.com/trumanstellar
 attributes:
   category: Applications
   tags:
@@ -31,12 +29,12 @@ attributes:
     - Singapore
   based_in: Hong Kong
 scf:
-  awarded_total: 21998
   awarded_round:
     - 26
+  awarded_total: 21998
   submission_urls:
     - communityfund.stellar.org/submissions/recSLvwi5PteSRWO9
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

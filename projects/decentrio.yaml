@@ -1,8 +1,7 @@
 title: Decentrio
 other_names: null
 parent: null
-description: |
-  We propose to provide a reliable RPC service and make a highly functional transactions/events indexer for Soroban Dapp.
+description: Decentrio provides infrastructure services including RPC and high-performance transaction/event indexing for Soroban decentralized applications.
 links:
   website:
     - decentrio.ventures
@@ -34,14 +33,14 @@ attributes:
     - Viet Nam
   based_in: Vietnam
 scf:
-  awarded_total: 150000
   awarded_round:
     - 24
     - 29
+  awarded_total: 150000
   submission_urls:
     - communityfund.stellar.org/submissions/rec38EACiEgZHpXzk
     - communityfund.stellar.org/submissions/rec9Hr5X3cViYi8Te
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

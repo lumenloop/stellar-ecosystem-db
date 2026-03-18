@@ -1,8 +1,7 @@
 title: Spacewalk
 other_names: null
-parent: Pendulum
-description: |
-  The first bridge to Polkadot: giving Stellar users more access to the DeFi world.
+parent: null
+description: 'The first bridge to Polkadot: giving Stellar users more access to the DeFi world.'
 links:
   website:
     - pendulumchain.org/spacewalk
@@ -13,13 +12,12 @@ links:
   linkedin:
     - linkedin.com/company/pendulum-chain
   discord:
-    - discord.gg/wJ2fQh776B
+    - discord.gg/wj2fqh776b
   telegram:
     - t.me/pendulum_community
   youtube: []
   instagram: []
-  reddit:
-    - r/Pendulum_Chain
+  reddit: []
   tiktok: []
   linktree: []
   github:
@@ -34,12 +32,12 @@ attributes:
     - Germany
   based_in: Germany
 scf:
-  awarded_total: 100000
   awarded_round:
     - 11
+  awarded_total: 100000
   submission_urls:
     - communityfund.stellar.org/submissions/recY3x0bUhYwPUUSY
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

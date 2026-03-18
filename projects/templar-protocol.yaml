@@ -11,7 +11,7 @@ links:
     - templarprotocol
   linkedin: []
   discord:
-    - discord.gg/KAvMtYpbep
+    - discord.gg/kavmtypbep
   telegram:
     - t.me/templarprotocol
   youtube: []
@@ -20,13 +20,13 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/Templar-Protocol
+    - github.com/templar-protocol
 attributes:
   category: null
   tags: []
   operating_region: []
   based_in: United States
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

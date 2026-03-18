@@ -1,11 +1,9 @@
 title: Chainlink Oracles Relayer
 other_names: null
 parent: null
-description: |
-  Get Provable, Manipulation Resistant Random Numbers From Chainlink Oracles on Soroban
+description: Provable, Manipulation Resistant Random Numbers From Chainlink Oracles on Soroban.
 links:
   website:
-    - relink.services
     - docs.relink.services
   blog: []
   x:
@@ -21,7 +19,6 @@ links:
   linktree: []
   github:
     - github.com/relinkservices
-    - github.com/RelinkServices
 attributes:
   category: Infrastructure & Services
   tags:
@@ -33,12 +30,12 @@ attributes:
   operating_region: []
   based_in: Germany
 scf:
-  awarded_total: 38400
   awarded_round:
     - 15
+  awarded_total: 38400
   submission_urls:
     - communityfund.stellar.org/submissions/recHahmCLtNhZaCUg
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

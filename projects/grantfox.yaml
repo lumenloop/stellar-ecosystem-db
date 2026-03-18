@@ -1,8 +1,7 @@
 title: GrantFox
 other_names: null
 parent: null
-description: |
-  GrantFox is the new "OnlyDust" collaboration platform built exclusively for the Stellar ecosystem. It connects projects with technical contributors to accelerate ecosystem growth through transparent, high-quality contributions. As OnlyDust shifts away from Web3, many Stellar projects lost their contribution hub. GrantFox fills that gap, becoming the default space where Stellar projects gain visibility, attract contributors, and track progress, all seamlessly synced with GitHub. Projects can publish open issues, and manage requests from a same place. Builders can explore projects, apply to issues, and build verified on-chain reputation.
+description: Collaboration platform for open-source development on Stellar, connecting projects with contributors through bounties and milestone-based funding.
 links:
   website:
     - grantfox.xyz
@@ -12,14 +11,15 @@ links:
   linkedin:
     - linkedin.com/company/grantfox
   discord:
-    - discord.gg/grdRWV4777
+    - discord.gg/grdrwv4777
   telegram: []
   youtube: []
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/grantchain
 attributes:
   category: Applications
   tags: []
@@ -27,12 +27,12 @@ attributes:
     - Latin America & Caribbean
   based_in: Costa Rica
 scf:
-  awarded_total: 60000
   awarded_round:
     - 40
+  awarded_total: 60000
   submission_urls:
     - communityfund.stellar.org/submissions/rechsG6zSfsxxGqxw
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

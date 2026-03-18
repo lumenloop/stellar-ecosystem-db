@@ -1,8 +1,7 @@
 title: Walletban
 other_names: null
 parent: null
-description: |
-  Walletban is an effortless, walletless onboarding solution for devs, allows you to deploy SACs, and interact with chain via REST!
+description: Walletless onboarding SDK for Stellar developers, with SAC deployment and REST-based chain interaction.
 links:
   website:
     - walletban.xyz
@@ -25,12 +24,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 20000
   awarded_round:
     - 20
+  awarded_total: 20000
   submission_urls:
     - communityfund.stellar.org/submissions/recdrPETj4S6sFkPc
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

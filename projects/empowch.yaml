@@ -1,8 +1,7 @@
 title: Empowch
 other_names: null
 parent: null
-description: |
-  Offering a mobile wallet to the unbanked the MENA region by connecting them with family members abroad.
+description: Offering a mobile wallet to the unbanked the MENA region by connecting them with family members abroad.
 links:
   website:
     - empowch.com
@@ -15,14 +14,11 @@ links:
   discord: []
   telegram: []
   youtube:
-    - youtube.com/channel/UCyY-MIBdA8Oh5qXxA6nYHHg
-  instagram:
-    - empowch
+    - youtube.com/channel/ucyy-mibda8oh5qxxa6nyhhg
+  instagram: []
   reddit: []
-  tiktok:
-    - empowchapp
-  linktree:
-    - empowch
+  tiktok: []
+  linktree: []
   github: []
 attributes:
   category: Applications
@@ -31,12 +27,12 @@ attributes:
     - Mexico
   based_in: Mexico
 scf:
-  awarded_total: 25000
   awarded_round:
     - 11
+  awarded_total: 25000
   submission_urls:
     - communityfund.stellar.org/submissions/recLsBtTbsX1MST6w
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

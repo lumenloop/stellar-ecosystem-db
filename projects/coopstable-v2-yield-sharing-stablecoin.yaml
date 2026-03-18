@@ -1,8 +1,7 @@
 title: CoopStable v2 - Yield sharing stablecoin
 other_names: null
 parent: null
-description: |
-  CoopStable (Solidarity Funding for Stellar) is a yield-sharing stablecoin protocol designed to support builders creating real-world impact on Stellar. Built on the Stellar network, CoopStable enables pooled funds to generate sustainable on-chain yield—giving projects and initiatives a decentralized way to fund themselves and others.  Following the successful launch of a working V1 prototype, CoopStable V2 marks a major step forward. Powered by Soroban smart contracts, V2 focuses on scalability, ease of use, and deeper capital efficiency—bringing cooperative-style finance to the builders shaping Stellar’s future.  Key upgrades in V2 include:  Multiple Yield Sources: In addition to Blend Capital’s USDC pool, V2 integrates protocols like UltraCapital’s yUSD, optimizing returns for builders and community funders.  Automated Cohort Creation: Soroban-based logic enables seamless group formation, reducing manual overhead and improving onboarding for aligned projects and contributors.  Liquidity Provider (LP) Incentives & Gamification: Users minting cUSD earn points redeemable for builder-aligned rewards. A lottery feature adds engagement while increasing funding opportunities.  Improved Frontend UX: A redesigned mobile-first interface makes it easier to discover, compare, and join funding cohorts based on project goals, timelines, and yield expectations.  CoopStable V2 gives Stellar-based builders the tools to bootstrap and sustain meaningful work. From neighborhood development to digital inclusion projects, CoopStable makes funding collaborative, regenerative, and mission-aligned.  This is not just a stablecoin—it’s funding infrastructure for the builders of Stellar’s real-world economy.
+description: Yield-sharing stablecoin protocol on Stellar that distributes DeFi returns to holders through a cooperative model, funding solidarity-based community initiatives.
 links:
   website:
     - coopstable.app/#mint
@@ -11,7 +10,7 @@ links:
     - coopstable
   linkedin: []
   discord:
-    - discord.gg/cuQTfZ5v
+    - discord.gg/cuqtfz5v
   telegram: []
   youtube: []
   instagram: []
@@ -19,7 +18,8 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/BreadchainCoop/coopstable-contracts
+    - github.com/breadchaincoop/coopstable-client
+    - github.com/breadchaincoop/coopstable-contracts
 attributes:
   category: Applications
   tags: []
@@ -28,10 +28,10 @@ attributes:
     - Latin America & Caribbean
   based_in: Netherlands Antilles
 scf:
-  awarded_total: null
   awarded_round: []
+  awarded_total: null
   submission_urls: []
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,8 +1,7 @@
 title: SorobanHooks
 other_names: null
 parent: null
-description: |
-  Real-Time On-Chain Data Made Simple,  Get App-ready data instantly for developers & communities!! 
+description: A real-time webhook-driven platform for developers to automate contract deployment, event monitoring, and cross-chain transactions on Stellar and Soroban.
 links:
   website:
     - sorobanhooks.xyz
@@ -11,7 +10,7 @@ links:
     - sorobanhooks
   linkedin: []
   discord:
-    - discord.gg/AbMxBhxQ
+    - discord.gg/abmxbhxq
   telegram: []
   youtube: []
   instagram: []
@@ -36,14 +35,14 @@ attributes:
     - East Asia & Pacific
   based_in: India
 scf:
-  awarded_total: 55000
   awarded_round:
     - 33
     - 37
+  awarded_total: 55000
   submission_urls:
     - communityfund.stellar.org/submissions/recwkBsoW10eSCw85
     - communityfund.stellar.org/submissions/rec70WSP8AzQdHhXZ
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

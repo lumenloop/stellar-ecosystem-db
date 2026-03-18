@@ -16,22 +16,23 @@ links:
     - t.me/hotonnear
   youtube:
     - youtube.com/@hot-labs
-  instagram: []
+  instagram:
+    - hot_labs
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/hot-dao
+    - github.com/hot-dao/hot-connector
 attributes:
   category: null
   tags: []
   operating_region: []
   based_in: Ukraine
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: Veridise Auditing Report for Hot Bridge
       url: sorobansecurity.com/report/49
       date: '2025-08-31T15:00:00Z'
       auditor: Veridise
+  tokens: []
+  contracts: []

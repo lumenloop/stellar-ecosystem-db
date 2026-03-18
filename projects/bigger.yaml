@@ -2,8 +2,7 @@ title: Bigger
 other_names:
   - BiGGER - Startup Camp 2.0
 parent: null
-description: |
-  Relaunching the Stellar Startup Camp to make it self-serve and replicable globally.
+description: Bigger is a software development company and official Stellar partner specializing in building blockchain solutions like smart contracts and decentralized applications. They help businesses leverage Stellar’s capabilities for projects such as cross-border payment systems and custom fintech applications. Bigger has also been helping organizing the Stellar Kickstart program.
 links:
   website:
     - biggertech.co
@@ -32,14 +31,14 @@ attributes:
     - Sidney, Australia
   based_in: Australia
 scf:
-  awarded_total: 150000
   awarded_round:
     - 23
     - 28
+  awarded_total: 150000
   submission_urls:
     - communityfund.stellar.org/submissions/recLcRUIYogQT6DHs
     - communityfund.stellar.org/submissions/recGWdH8UVAhNcaxx
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

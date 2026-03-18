@@ -1,26 +1,24 @@
 title: Ziriz
 other_names: null
 parent: null
-description: |
-  Sustainable Rewards for Talent and Taste Makers.
+description: Sustainable Rewards for Talent and Taste Makers.
 links:
   website:
     - ziriz.app
-    - linksta.cc/@Ziriz
   blog: []
   x:
     - ziriz_app
   linkedin: []
   discord: []
   telegram:
-    - t.me/ZirizApp
+    - t.me/zirizapp
   youtube: []
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/ZirizApp
+    - github.com/zirizapp
 attributes:
   category: Applications
   tags:
@@ -30,12 +28,12 @@ attributes:
     - Stealth 🤫
   based_in: United States
 scf:
-  awarded_total: 48000
   awarded_round:
     - 22
+  awarded_total: 48000
   submission_urls:
     - communityfund.stellar.org/submissions/recjUkhIRe4D2YrhY
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

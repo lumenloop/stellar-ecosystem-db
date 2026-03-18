@@ -1,8 +1,7 @@
 title: OtterSec
 other_names: null
 parent: null
-description: |
-  We are a blockchain cybersecurity company
+description: OtterSec is a blockchain security firm specializing in comprehensive audits to protect blockchain projects across multiple networks.
 links:
   website:
     - osec.io
@@ -12,9 +11,8 @@ links:
     - osec_io
   linkedin:
     - linkedin.com/company/91739484
-    - linkedin.com/company/91739484/admin/feed/posts
   discord:
-    - discord.gg/QNE5b7Pgrs
+    - discord.gg/qne5b7pgrs
   telegram: []
   youtube: []
   instagram: []
@@ -34,12 +32,12 @@ attributes:
     - United States
   based_in: United States
 scf:
-  awarded_total: 137500
   awarded_round:
     - 18
+  awarded_total: 137500
   submission_urls:
     - communityfund.stellar.org/submissions/recUtPJPaKlIhvc6E
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

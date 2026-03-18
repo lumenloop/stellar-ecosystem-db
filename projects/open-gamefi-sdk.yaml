@@ -1,11 +1,10 @@
-title: 'Open GameFi SDK '
+title: Open GameFi SDK
 other_names: null
 parent: null
-description: |
-  Strengthening Stellar's ecosystem with open-source tools for GameFi integration.
+description: Open-source SDK integrating Stellar blockchain with Colyseus.js, enabling developers to build and deploy blockchain-based games on Stellar.
 links:
   website:
-    - github.com/yanis7774/Stellar-GameFi-integration/tree/main
+    - github.com/yanis7774/stellar-gamefi-integration/tree/main
   blog: []
   x: []
   linkedin: []
@@ -17,17 +16,17 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/yanis7774/Stellar-GameFi-integration
+    - github.com/yanis7774/stellar-gamefi-integration
 attributes:
   category: Developer Tooling
   tags: []
   operating_region: []
   based_in: null
 scf:
-  awarded_total: null
   awarded_round: []
+  awarded_total: null
   submission_urls: []
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

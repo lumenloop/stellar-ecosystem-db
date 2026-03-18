@@ -2,8 +2,7 @@ title: Reyts
 other_names:
   - Reyts - Stablecoin-Powered P2P Fiat DEX
 parent: null
-description: |
-  ​Reyts operates a peer-to-peer currency exchange platform rooted in a community-first philosophy, emphasizing loyalty and trust to foster strong relationships with our users. We are committed to passing on maximum savings to our community; the more efficient our systems become, the more we can reduce costs for our users. To enhance our platform capabilities at Reyts, we plan to integrate with the Stellar Network, leveraging its decentralized infrastructure to improve liquidity, speed, and efficiency. By implementing The Stellar Path Payment Strict Send operation, we aim to facilitate seamless fiat transactions without requiring users to directly handle stablecoins. This integration will make underserved currencies more globally accessible, reducing the high costs traditionally associated with servicing them. Through these enhancements, Reyts seeks to provide a borderless, low-cost, and instant currency exchange experience, further empowering our users in the global financial landscape.
+description: Peer-to-peer currency exchange platform on Stellar, enabling community-driven forex trading with transparent on-chain settlement.
 links:
   website:
     - reyts.com
@@ -11,9 +10,10 @@ links:
   x:
     - reytsapp
   linkedin:
-    - linkedin.com/ca.linkedin.com/company/reytas-fintech-inc
+    - linkedin.com/company/reytas-fintech-inc
   discord: []
-  telegram: []
+  telegram:
+    - t.me/+ht1ba-mctmfjntqx
   youtube: []
   instagram: []
   reddit: []
@@ -34,12 +34,12 @@ attributes:
     - North America (without Mexico)
   based_in: Canada
 scf:
-  awarded_total: 75000
   awarded_round:
     - 35
+  awarded_total: 75000
   submission_urls:
     - communityfund.stellar.org/submissions/rect6wxO8IMP2fPLa
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

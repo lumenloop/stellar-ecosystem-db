@@ -1,11 +1,10 @@
 title: SendIN
 other_names: null
 parent: null
-description: |
-  US to India money transfers made easy, cheap &amp; lightning fast.
+description: US to India money transfers made easy, cheap and lightning fast.
 links:
   website:
-    - github.com/SendIN-Org/sendIN
+    - github.com/sendin-org/sendin
   blog: []
   x: []
   linkedin: []
@@ -17,7 +16,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/SendIN-Org/sendIN
+    - github.com/sendin-org/sendin
 attributes:
   category: Applications
   tags:
@@ -33,14 +32,14 @@ attributes:
     - East Asia & Pacific
   based_in: India
 scf:
-  awarded_total: 104500
   awarded_round:
     - 29
     - 36
+  awarded_total: 104500
   submission_urls:
     - communityfund.stellar.org/submissions/reclOpHi3CxBBYPaO
     - communityfund.stellar.org/submissions/recq1zC8lgr536sS6
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

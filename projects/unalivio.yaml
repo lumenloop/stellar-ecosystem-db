@@ -1,8 +1,7 @@
 title: Unalivio
 other_names: null
 parent: null
-description: |
-  Unalivio is a payments method that allows migrants to pay families’ bills from abroad with stablecoins, increasing sales for SMEs 
+description: Unalivio is a payments method that allows migrants to pay families’ bills from abroad with stablecoins, increasing sales for SMEs.
 links:
   website:
     - unalivio.com
@@ -29,16 +28,16 @@ attributes:
     - Mexico
   based_in: Venezuela
 scf:
-  awarded_total: 150165
   awarded_round:
     - 16
     - 29
     - 32
+  awarded_total: 150165
   submission_urls:
     - communityfund.stellar.org/submissions/recf9SxVKM35hZWQj
     - communityfund.stellar.org/submissions/rec4s8vcXcD1RHTSl
     - communityfund.stellar.org/submissions/recr8lMAr4tFTrfDt
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

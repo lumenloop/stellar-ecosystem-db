@@ -1,8 +1,7 @@
 title: Spinach
 other_names: null
 parent: null
-description: |
-  Spinach helps projects and chains grow DEX liquidity by running liquidity competitions for builders within their ecosystem.  Spinach started in response to witnessing flaws in two leading ecosystem growth methods: 1. Grant funding for builders - works great at first, but many builders struggle to secure follow-up funding 2. Liquidity incentives (e.g. merkl.xyz) - work too well. Whales bridge over to farm incentives, but vanish within 48 hours once incentives stop  To sustainably bind users and liquidity providers to your ecosystem you need to go beyond these growth methods. Enter Spinach’s retrofunding liquidity competitions for builders.  Using Spinach you can launch competitions as follows: 1. Choose token whose liquidity you want to grow 2. Allocate a daily incentive budget 3. Announce to projects they can get part of this incentive budget by orchestrating liquidity against their token and the incentivized token 4. Projects then rally their community to grow this liquidity 5. On a daily basis at midnight, Spinach calculates the liquidity orchestrated per participating project; and 6. Then retroactively distributes rewards to the projects proportional to the liquidity they orchestrated per day  In early testing, we found Spinach has 3 benefits over direct liquidity incentives: 1. Noise machine - projects and their communities actively promote the competition 2. Core community - participants are true fans of your ecosystem and are here for the longterm 3. 2nd-order effects - projects often launch direct liquidity incentive programs of their own  This creates a positive-sum flywheel where everyone wins—the chain, its builders, the community, and the broader ecosystem.  In Q2 ‘25 we’ll launch Spinach MVP to allow anyone to launch liquidity competitions for builders.
+description: DEX liquidity growth platform that runs incentive programs for Stellar protocols, driving trading volume through targeted market-making campaigns.
 links:
   website:
     - spinach.fi
@@ -18,7 +17,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/SpinachFi/spinach
+    - github.com/spinachfi/spinach
 attributes:
   category: Applications
   tags:
@@ -28,12 +27,12 @@ attributes:
     - Europe & Central Asia
   based_in: Canada
 scf:
-  awarded_total: 70000
   awarded_round:
     - 35
+  awarded_total: 70000
   submission_urls:
     - communityfund.stellar.org/submissions/recPy3uJCrVt0JcoB
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

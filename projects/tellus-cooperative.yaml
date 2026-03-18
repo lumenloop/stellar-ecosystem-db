@@ -1,29 +1,27 @@
 title: Tellus Cooperative
 other_names: null
 parent: null
-description: |
-  We are designing the future of sustainable finance in LATAM with open source software, educational materials, and solutions for everyday people.
+description: Advocates for sustainable finance in LATAM with open source software, educational materials, and solutions for everyday people.
 links:
   website:
     - telluscoop.com
   blog:
-    - telluscoop.org/blog
+    - blog.telluscoop.com
   x:
     - telluscoop
   linkedin:
-    - linkedin.com/Tellus Cooperative
+    - linkedin.com/company/tellus-cooperative
   discord:
-    - discord.gg/ysuxyKJ34c
+    - discord.gg/v4esgwa3pk
   telegram: []
   youtube:
     - youtube.com/@telluscoop
-  instagram:
-    - nearxschool
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/Tellus-Cooperative
+    - github.com/tellus-cooperative
 attributes:
   category: Education & Community
   tags:
@@ -33,14 +31,14 @@ attributes:
     - Chile
   based_in: Chile
 scf:
-  awarded_total: 114732.95
   awarded_round:
     - 8
     - 13
+  awarded_total: 114732.95
   submission_urls:
     - communityfund.stellar.org/submissions/recNO4RNaF9ack4Kq
     - communityfund.stellar.org/submissions/recxS5yNLj2xXzQiO
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

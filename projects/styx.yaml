@@ -2,11 +2,10 @@ title: Styx
 other_names:
   - 'Styx: A Soroban-Cosmos Bridge'
 parent: null
-description: |
-  A mint/burn bridge connecting Soroban to Cosmos and the larger Blockchain ecosystem.
+description: A mint/burn bridge connecting Soroban to Cosmos and the larger Blockchain ecosystem.
 links:
   website:
-    - figma.com/file/MCNoYBwA8wSAx0Qu4lIB1W/Styx-Design?type=design&node-id=0%3A1&mode=design&t=eQKAcKpzSPhTbLLR-1
+    - figma.com/file/mcnoybwa8wsax0qu4lib1w/styx-design?type=design&node-id=0%3a1&mode=design&t=eqkackpzsphtbllr-1
   blog: []
   x: []
   linkedin: []
@@ -29,12 +28,12 @@ attributes:
   operating_region: []
   based_in: United States
 scf:
-  awarded_total: 43000
   awarded_round:
     - 23
+  awarded_total: 43000
   submission_urls:
     - communityfund.stellar.org/submissions/reci8OPZVGDgt0ojE
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

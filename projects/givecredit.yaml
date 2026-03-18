@@ -1,8 +1,7 @@
 title: GiveCredit
 other_names: null
 parent: null
-description: |
-  Offset carbon emissions with tax-deductible XLM donations- automated by Soroban.
+description: Offset carbon emissions with tax-deductible XLM donations- automated by Soroban.
 links:
   website:
     - givecredits.cfce.io
@@ -18,7 +17,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/CollaborativeEconomics/give-credit
+    - github.com/collaborativeeconomics/give-credit
     - github.com/aolieman/cfce-monorepo
 attributes:
   category: Applications
@@ -32,14 +31,14 @@ attributes:
     - North America (without Mexico)
   based_in: United States
 scf:
-  awarded_total: 97000
   awarded_round:
     - 22
     - 28
+  awarded_total: 97000
   submission_urls:
     - communityfund.stellar.org/submissions/recal7H9VYGzL17M0
     - communityfund.stellar.org/submissions/recjpO5HRcHKL3QhH
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

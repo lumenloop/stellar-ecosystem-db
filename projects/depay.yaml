@@ -1,8 +1,7 @@
 title: Depay
 other_names: null
 parent: null
-description: |
-  Enabling crypto payments in inflation-hit economies, connecting consumers and merchants via Stellar, hassle-free.
+description: Enabling crypto payments in inflation-hit economies, connecting consumers and merchants via Stellar, hassle-free.
 links:
   website:
     - depayapp.com
@@ -14,7 +13,7 @@ links:
   discord: []
   telegram: []
   youtube:
-    - youtube.com/channel/UCE0pVQzKSWymTTBvwVylzwQ
+    - youtube.com/channel/uce0pvqzkswymttbvwvylzwq
   instagram: []
   reddit: []
   tiktok: []
@@ -32,12 +31,12 @@ attributes:
     - Switzerland
   based_in: Argentina
 scf:
-  awarded_total: 42500
   awarded_round:
     - 24
+  awarded_total: 42500
   submission_urls:
     - communityfund.stellar.org/submissions/recQhWya5YInPvM1U
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -2,8 +2,7 @@ title: DIA
 other_names:
   - DIA Oracles
 parent: null
-description: |
-  Elevate functionality and innovation across Soroban’s smart contract ecosystem with DIA’s robust, open-source cross-chain oracles
+description: Elevate functionality and innovation across Soroban’s smart contract ecosystem with DIA’s robust, open-source cross-chain oracles.
 links:
   website:
     - diadata.org
@@ -11,19 +10,20 @@ links:
     - diadata.org/blog
   x:
     - diadata_org
-  linkedin: []
+  linkedin:
+    - linkedin.com/company/diadata-org
   discord:
-    - discord.gg/RjHBcZ9mEH
+    - discord.gg/rjhbcz9meh
   telegram:
     - t.me/diadata_org
-  youtube: []
+  youtube:
+    - youtube.com/@diadata_org
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
     - github.com/diadata-org
-    - github.com/diadata-org/soroban-oracle-feeders ; https://github.com/diadata-org/soroban-oracles
 attributes:
   category: Infrastructure & Services
   tags:
@@ -35,12 +35,12 @@ attributes:
     - Germany
   based_in: Germany
 scf:
-  awarded_total: 38000
   awarded_round:
     - 20
+  awarded_total: 38000
   submission_urls:
     - communityfund.stellar.org/submissions/recQH7t1KOVb8jBOH
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

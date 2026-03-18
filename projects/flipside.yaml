@@ -14,19 +14,20 @@ links:
   discord:
     - discord.gg/flipside
   telegram: []
-  youtube: []
+  youtube:
+    - youtube.com/flipsidecrypto
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/FlipsideCrypto
+    - github.com/flipsidecrypto
 attributes:
   category: null
   tags: []
   operating_region: []
   based_in: United States
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

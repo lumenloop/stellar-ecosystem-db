@@ -1,15 +1,16 @@
 title: Soroban Resource Usage Reporter
 other_names: null
-parent: 57blocks
-description: |
-  Soroban Resource Usage Reporter is designed to meet the specific needs of developers working within the Soroban ecosystem. In the coding and testing phases, this tool enables developers to efficiently track resource usage through key metrics, much like Hardhat Gas Reporter helps Ethereum developers streamline contract efficiency. By offering insights into these metrics, developers are empowered to write more efficient and cost-effective smart contracts from the very start.  For Stellar, this tool can help drive adoption and best practices within the ecosystem. By providing developers with early-stage resource usage tracking and optimization suggestions, Stellar can foster a community that is conscious of resource efficiency, which is crucial for maintaining scalability and cost-effectiveness across the network.
+parent: null
+description: Developer tool for tracking resource usage and key metrics during Soroban smart contract development and testing, enabling efficient and cost-effective builds.
 links:
   website:
     - 57blocks.io
   blog:
     - 57blocks.io/blog
-  x: []
-  linkedin: []
+  x:
+    - 57blocks
+  linkedin:
+    - linkedin.com/company/57blocks
   discord: []
   telegram: []
   youtube: []
@@ -18,6 +19,7 @@ links:
   tiktok: []
   linktree: []
   github:
+    - github.com/57blocks
     - github.com/57blocks/stellar-resource-usage-report
 attributes:
   category: Developer Tooling
@@ -27,16 +29,16 @@ attributes:
   operating_region: []
   based_in: China
 scf:
-  awarded_total: 18240
   awarded_round:
     - 31
+  awarded_total: 18240
   submission_urls:
     - communityfund.stellar.org/submissions/recqvm203drzGVJ0t
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: Auditing Report Hardening Blockchain Security with Formal Methods for 57Blocks Stellar Timelock Contract
       url: sorobansecurity.com/report/26
       date: '2024-08-05T15:00:00Z'
       auditor: Veridise
+  tokens: []
+  contracts: []

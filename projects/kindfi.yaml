@@ -1,8 +1,7 @@
 title: KindFi
 other_names: null
 parent: null
-description: |
-  A crowdfunding platform born in Central America that connects donors with real-world causes, leveraging the best of blockchain technology to ensure transparency, security, promote the adoption of the Stellar ecosystem, and improve the lives of people across Latin America who are in great need of support
+description: A crowdfunding platform born in Central America that connects donors with real-world causes, leveraging the best of blockchain technology to ensure transparency, security, promote the adoption of the Stellar ecosystem, and improve the lives of people across Latin America who are in great need of support.
 links:
   website:
     - kindfi.org
@@ -19,7 +18,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/kindfi-org/kindfi
+    - github.com/kindfi-org
 attributes:
   category: Applications
   tags:
@@ -35,12 +34,12 @@ attributes:
     - Latin America & Caribbean
   based_in: Costa Rica
 scf:
-  awarded_total: 79998
   awarded_round:
     - 35
+  awarded_total: 79998
   submission_urls:
     - communityfund.stellar.org/submissions/rec1SX1s3uhc2bLah
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

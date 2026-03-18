@@ -1,11 +1,10 @@
 title: Gladius
 other_names:
   - 'Gladius: play'
-  - learn
-  - earn
+  - ' learn'
+  - ' earn'
 parent: null
-description: |
-  Gladius gamifies education, connecting parents, sports clubs, and students with NFT prizes and rewards
+description: Gladius gamifies education, connecting parents, sports clubs, and students with NFT prizes and rewards.
 links:
   website:
     - gladiusclub.com
@@ -32,12 +31,12 @@ attributes:
     - Europe & Central Asia
   based_in: Estonia
 scf:
-  awarded_total: 45000
   awarded_round:
     - 23
+  awarded_total: 45000
   submission_urls:
     - communityfund.stellar.org/submissions/recfsyLeAtOamI3vm
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

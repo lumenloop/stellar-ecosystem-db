@@ -13,9 +13,9 @@ links:
     - linkedin.com/company/bitbond
   discord: []
   telegram:
-    - t.me/TokenToolBitbond
+    - t.me/tokentoolbitbond
   youtube:
-    - youtube.com/c/BitbondNet
+    - youtube.com/c/bitbondnet
   instagram: []
   reddit: []
   tiktok: []
@@ -28,6 +28,6 @@ attributes:
   operating_region: []
   based_in: United Kingdom
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

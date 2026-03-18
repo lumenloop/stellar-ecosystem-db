@@ -1,7 +1,6 @@
 title: Sora
 other_names:
-  - Soracle.org
-  - Soroban CLI Cross Platform GUI
+  - Soracle.org (Posted)
 parent: null
 description: SORA is a Stellar development toolkit that simplifies building and managing Stellar-based projects with features like smart contract development and network configuration. It includes tools for streamlined project workflows and a Visual Studio Code extension for enhanced productivity.
 links:
@@ -18,13 +17,15 @@ links:
   tiktok: []
   linktree: []
   github:
+    - github.com/stellarmask/stellarmask
     - github.com/yk-labs-dev/soroban-cli-gui
 attributes:
-  category: null
-  tags: []
+  category: Infrastructure & Services
+  tags:
+    - Oracle
   operating_region: []
-  based_in: null
+  based_in: United States
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

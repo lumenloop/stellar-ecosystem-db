@@ -1,8 +1,7 @@
 title: Forge
 other_names: null
 parent: null
-description: |
-  Streamlining Horizon API and Soroban RPC node deployment and management.
+description: Streamlining Horizon API and Soroban RPC node deployment and management.
 links:
   website:
     - forgerpc.com
@@ -23,12 +22,12 @@ attributes:
   operating_region: []
   based_in: Georgia
 scf:
-  awarded_total: 39630
   awarded_round:
     - 25
+  awarded_total: 39630
   submission_urls:
     - communityfund.stellar.org/submissions/recHPx4sYDpySiM0H
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

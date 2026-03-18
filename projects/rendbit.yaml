@@ -1,18 +1,18 @@
 title: RendBit
 other_names: null
 parent: null
-description: |
-  Millions of people across Africa face serious challenges when it comes to moving and managing money. Sending funds across borders is expensive and restricted. Receiving money from abroad is slow, costly, and comes with exchange rates that only benefit the banks. Even saving money through local banks offers little to no return and often loses value over time.  Converting crypto to cash is just as difficult, limited by banking policies, unreliable peer-to-peer trades, and no secure structure.  RendBit is being built to solve these problems. It’s a financial platform powered by the Stellar blockchain that makes sending, receiving, converting, and saving money fast, secure, and affordable. Users will be able to send money directly to any bank across countries, convert crypto to fiat without middlemen, and save in stablecoins that hold real value, not rates manipulated by banks.  We’re also building a Token Launch Pad, a simple way for creators, communities, and developers to create and trade their own tokens. It’s about unlocking financial access, giving people the tools to grow wealth, and bringing real utility to the Stellar network.  RendBit is not just another app. It’s the financial system Africa has been waiting for. Open, borderless, and built for everyday people.
+description: Mobile-first financial platform on Stellar for African users, offering stablecoin savings, cross-border transfers, and bill payments.
 links:
   website:
     - rendbit.com
   blog: []
   x:
-    - rend_bit
+    - rendbit_
   linkedin:
     - linkedin.com/company/rendbit
   discord: []
-  telegram: []
+  telegram:
+    - t.me/rendbit
   youtube: []
   instagram: []
   reddit: []
@@ -26,12 +26,12 @@ attributes:
   operating_region: []
   based_in: Nigeria
 scf:
-  awarded_total: 120000
   awarded_round:
     - 39
+  awarded_total: 120000
   submission_urls:
     - communityfund.stellar.org/submissions/recucmZUeUFb5R9X0
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

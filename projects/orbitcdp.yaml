@@ -1,16 +1,17 @@
 title: OrbitCDP
 other_names: null
 parent: null
-description: |
-  Harness Stellar's potential; collateralize with ease at OrbitCDP.
+description: Harness Stellar's potential; collateralize with ease at OrbitCDP.
 links:
   website:
     - orbitcdp.finance
   blog: []
-  x: []
+  x:
+    - zenithprotocols
   linkedin:
     - linkedin.com/company/orbitcdp
-  discord: []
+  discord:
+    - discord.gg/5tpwhtfjst
   telegram: []
   youtube: []
   instagram: []
@@ -18,8 +19,8 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/OrbitCDP
-    - github.com/zenith-protocols/orbit-contracts
+    - github.com/orbitcdp
+    - github.com/zenith-protocols
 attributes:
   category: Financial Protocols
   tags:
@@ -28,24 +29,24 @@ attributes:
   operating_region: []
   based_in: United States
 scf:
-  awarded_total: 280000
   awarded_round:
     - 21
     - 21
     - 25
     - 29
     - Liquidity Award - '25 Q2
+  awarded_total: 280000
   submission_urls:
-    - communityfund.stellar.org/submissions/recb8O4gXWaS4RsaM
     - communityfund.stellar.org/submissions/rec5F9VZMtI9VazK9
+    - communityfund.stellar.org/submissions/recb8O4gXWaS4RsaM
     - communityfund.stellar.org/submissions/recAH1SPekMp9LIYX
     - communityfund.stellar.org/submissions/recgGLPg9l5ZoIcL5
     - communityfund.stellar.org/submissions/recdC0QovtR9jgTIS
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: 'Veridise Audit Report: OrbitCDP '
       url: sorobansecurity.com/report/20
       date: '2024-12-25T15:00:00Z'
       auditor: Veridise
+  tokens: []
+  contracts: []

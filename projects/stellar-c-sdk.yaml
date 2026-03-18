@@ -1,12 +1,10 @@
 title: Stellar C SDK
 other_names: null
 parent: null
-description: |
-  The lowest-level Stellar helper library implemented in the C language.
+description: The lowest-level Stellar helper library implemented in the C language.
 links:
   website:
     - github.com/lightsail-network/libstellar
-    - github.com/overcat/libstellar
   blog: []
   x: []
   linkedin: []
@@ -19,7 +17,6 @@ links:
   linktree: []
   github:
     - github.com/lightsail-network/libstellar
-    - github.com/overcat/libstellar
 attributes:
   category: Developer Tooling
   tags:
@@ -27,12 +24,12 @@ attributes:
   operating_region: []
   based_in: China
 scf:
-  awarded_total: 48000
   awarded_round:
     - 9
+  awarded_total: 48000
   submission_urls:
     - communityfund.stellar.org/submissions/reccyvj0bBSK9Ty7O
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

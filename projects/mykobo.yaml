@@ -1,8 +1,7 @@
 title: MYKOBO
 other_names: null
 parent: null
-description: |
-  EURC Soroban offers a collateral-backed EUR Stablecoin with ramps, pools & swaps to projects building on Soroban & new to Stellar
+description: MYKOBO is a financial platform that facilitates seamless Euro transactions through EURC, a Euro-backed stablecoin issued by Circle, enabling individuals and businesses to deposit, withdraw, and swap EURC for other supported currencies like XLM and USDC.
 links:
   website:
     - mykobo.co
@@ -13,7 +12,7 @@ links:
   linkedin:
     - linkedin.com/company/myk0b0
   discord:
-    - discord.gg/6ByPsKGFWR
+    - discord.gg/6bypskgfwr
   telegram: []
   youtube: []
   instagram: []
@@ -29,18 +28,18 @@ attributes:
   operating_region: []
   based_in: Poland
 scf:
-  awarded_total: 269896
   awarded_round:
     - 16
     - 23
     - 24
     - 26
+  awarded_total: 269896
   submission_urls:
     - communityfund.stellar.org/submissions/recwvs3ECinXmR2dF
     - communityfund.stellar.org/submissions/recC3UjMDACs8QAc5
     - communityfund.stellar.org/submissions/recOzgAzEdNvCHOXN
     - communityfund.stellar.org/submissions/rec3sQ468s3T2l5yD
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

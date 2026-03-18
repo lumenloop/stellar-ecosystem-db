@@ -1,8 +1,7 @@
 title: TAP4Change
 other_names: null
 parent: null
-description: |
-  The social micro-funding platform that makes the Donation Experience (DX) attractive to the younger generations.
+description: The social micro-funding platform that makes the Donation Experience (DX) attractive to the younger generations.
 links:
   website:
     - tap4change.org
@@ -15,8 +14,7 @@ links:
   discord: []
   telegram: []
   youtube: []
-  instagram:
-    - tap4change
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -35,12 +33,12 @@ attributes:
     - Australia
   based_in: Australia
 scf:
-  awarded_total: 73280
   awarded_round:
     - 21
+  awarded_total: 73280
   submission_urls:
     - communityfund.stellar.org/submissions/recX2xrCk7WLPVew0
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,8 +1,7 @@
 title: QSTN
 other_names: null
 parent: null
-description: |
-  QSTN is a Web3 survey marketplace where businesses fund surveys and reward participants through our data wallet-driven profiles.
+description: QSTN is a Web3 survey marketplace where businesses fund surveys and reward participants through our data wallet-driven profiles.
 links:
   website:
     - qstn.us
@@ -12,16 +11,16 @@ links:
     - qstnus
   linkedin: []
   discord:
-    - discord.gg/Er59ZXWrQw
+    - discord.gg/er59zxwrqw
   telegram:
     - t.me/qstnus
   youtube: []
-  instagram:
-    - qstn.us
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/qstn-us
 attributes:
   category: Applications
   tags: []
@@ -29,12 +28,12 @@ attributes:
     - United States
   based_in: United States
 scf:
-  awarded_total: 2500
   awarded_round:
     - 20
+  awarded_total: 2500
   submission_urls:
     - communityfund.stellar.org/submissions/recZdJNenl5amnxbv
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,8 +1,7 @@
 title: Horizon-as-a-Service
 other_names: null
 parent: null
-description: |
-  Whether you're looking for Soroban RPC nodes, or Horizon API Access, Obsrvr offers production ready, infrastructure to help you build on the Stellar network with a few clicks.
+description: Whether you're looking for Soroban RPC nodes, or Horizon API Access, Obsrvr offers production ready, infrastructure to help you build on the Stellar network with a few clicks.
 links:
   website:
     - withobsrvr.com
@@ -18,7 +17,8 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/withObsrvr/nomad-pack-web3-registry
+    - github.com/withobsrvr
+    - github.com/withobsrvr/nomad-pack-web3-registry
 attributes:
   category: Infrastructure & Services
   tags:
@@ -29,14 +29,14 @@ attributes:
     - North America (without Mexico)
   based_in: United States
 scf:
-  awarded_total: 32500
   awarded_round:
     - 11
     - 13
+  awarded_total: 32500
   submission_urls:
     - communityfund.stellar.org/submissions/recekYNQEoPjP1Did
     - communityfund.stellar.org/submissions/recYP22jRMBNgKhaU
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

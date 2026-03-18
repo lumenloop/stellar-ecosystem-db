@@ -1,11 +1,9 @@
 title: Normal
 other_names: null
 parent: null
-description: |
-  A wrapped asset protocol helping institutions turn any token held in qualified custody into a yield-generating wrapped asset (“Normal Token”), which can be deployed as liquidity across DEXs. This makes it possible for investors to trade any crypto asset from a single interface and create on-chain crypto index fund tokens — each representing a diversified basket of assets, transparently rebalanced and fully tradable on-chain.
+description: Normal Finance is a multi-chain synthetic asset protocol that enables investors to gain exposure to various assets, asset indexes, and yield protocols across Stellar and Solana.
 links:
   website:
-    - normalfinance.io/protocol
     - normalfinance.io
   blog:
     - normalfi.substack.com
@@ -14,7 +12,7 @@ links:
   linkedin:
     - linkedin.com/company/normalfi
   discord:
-    - discord.gg/xQMvceZjeS
+    - discord.gg/xqmvcezjes
   telegram: []
   youtube: []
   instagram: []
@@ -22,8 +20,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/normalfinance/normal-v1
-    - github.com/normalfinance/normal-stellar-amm
+    - github.com/normalfinance
 attributes:
   category: Financial Protocols
   tags:
@@ -33,20 +30,20 @@ attributes:
     - North America (without Mexico)
   based_in: United States
 scf:
-  awarded_total: 200000
   awarded_round:
     - 31
     - 35
     - Liquidity Award - '25 Q4
+  awarded_total: 200000
   submission_urls:
     - communityfund.stellar.org/submissions/rec1aqc0VAiLYnxnM
     - communityfund.stellar.org/submissions/rec0UnKSTGMPPkCYJ
     - communityfund.stellar.org/submissions/recmkinSEoCU712Jo
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: Stellar AMM - Normal Finance
       url: sorobansecurity.com/report/48
       date: '2025-08-14T15:00:00Z'
       auditor: Halborn
+  tokens: []
+  contracts: []

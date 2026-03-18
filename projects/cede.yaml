@@ -2,19 +2,17 @@ title: Cede
 other_names:
   - Cede Labs
 parent: null
-description: |
-  Cede Labs streamlines liquidity flow between Centralized Exchanges (CEX) and Decentralized Finance, offering seamless connectivity with over 15 CEX APIs for asset management since 2021
+description: Cede Labs streamlines liquidity flow between Centralized Exchanges (CEX) and Decentralized Finance, offering seamless connectivity with over 15 CEX APIs for asset management since 2021.
 links:
   website:
     - cede.store
-    - sdk.cede.store
   blog: []
   x:
     - cedelabs
   linkedin:
     - linkedin.com/company/cede-labs
   discord:
-    - discord.gg/V7hgKf6NWf
+    - discord.gg/v7hgkf6nwf
   telegram: []
   youtube: []
   instagram: []
@@ -22,8 +20,8 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/cedelabs
     - github.com/cedelabs/sdk-examples
+    - github.com/cedelabs
 attributes:
   category: Developer Tooling
   tags:
@@ -32,12 +30,12 @@ attributes:
     - Europe & Central Asia
   based_in: France
 scf:
-  awarded_total: 119800
   awarded_round:
     - 31
+  awarded_total: 119800
   submission_urls:
     - communityfund.stellar.org/submissions/recP8ThGTCNqAQIj6
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

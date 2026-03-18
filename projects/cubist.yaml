@@ -12,7 +12,7 @@ links:
   linkedin:
     - linkedin.com/company/cubist-inc
   discord:
-    - discord.gg/FpjBKkzhKb
+    - discord.gg/fpjbkkzhkb
   telegram: []
   youtube: []
   instagram: []
@@ -27,6 +27,6 @@ attributes:
   operating_region: []
   based_in: United States
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

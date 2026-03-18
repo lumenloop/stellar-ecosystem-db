@@ -1,8 +1,7 @@
 title: Legasi
 other_names: null
 parent: null
-description: |
-  Legasi is building the first on-chain Lombard lending infrastructure, replicating the private banking model of asset-backed credit, designed for institutional use. It enables investors and enterprises to borrow stablecoins or fiat against crypto and tokenized RWAs, bringing long-term, capital-efficient financing to the blockchain in a transparent, programmable, and fully compliant way.  Through a dedicated lending SPV refinanced by institutional liquidity providers, Legasi connects compliant capital with blockchain-based collateral pools. Collateral remains non-custodial and auditable on-chain, while conversion to fiat is facilitated off-chain by regulated PSPs and EMEs such as Circle, ensuring full AML/KYC compliance and seamless TradFi ↔ DeFi interoperability.  Unlike short-term, leverage-driven crypto-backed loans, Legasi provides multi-year financing with stable and competitive rates, focused on capital preservation rather than speculation. Its progressive liquidation mechanism enhances safety by avoiding abrupt liquidations and preserving collateral value, which is key to institutional risk standards.  Aligned with Stellar’s mission to bridge TradFi and DeFi, Legasi delivers the credit layer for tokenized assets. By leveraging USDC and EURC on Stellar, the protocol enables cross-border, real-time settlement of Lombard loans and establishes a scalable, compliant RWA credit market within the Stellar ecosystem.  Legasi’s long-term vision is to make every tokenized asset bankable on-chain, bringing the trust and precision of traditional finance into the open, interoperable world of Stellar.  The project is incubated at 42’s startup incubator within Station F, the world’s largest startup campus in Paris.
+description: On-chain Lombard lending infrastructure on Stellar, enabling collateralized borrowing against tokenized real-world assets.
 links:
   website:
     - legasi.io
@@ -12,7 +11,8 @@ links:
   linkedin:
     - linkedin.com/company/legasi-io
   discord: []
-  telegram: []
+  telegram:
+    - t.me/legasi_community
   youtube: []
   instagram: []
   reddit: []
@@ -27,12 +27,12 @@ attributes:
     - France
   based_in: France
 scf:
-  awarded_total: 93660
   awarded_round:
     - 40
+  awarded_total: 93660
   submission_urls:
     - communityfund.stellar.org/submissions/recJjxMzPmFzSS6v3
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

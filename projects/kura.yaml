@@ -2,8 +2,7 @@ title: Kura
 other_names:
   - 'Kura: X-border solutions for Caribbean'
 parent: null
-description: |
-  We create transparency and impact by reducing cash use and enabling merchants in LAC to get paid directly at their points of sale
+description: Creates transparency and impact by reducing cash use and enabling merchants in LAC to get paid directly at their points of sale.
 links:
   website:
     - kuratek.com
@@ -12,17 +11,15 @@ links:
     - kurapayments
   linkedin:
     - linkedin.com/company/kura-fintech
-    - linkedin.com/company/kura-fintech/?viewAsMember=true
   discord: []
   telegram: []
   youtube: []
-  instagram:
-    - kurapayments
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/KuraApp
+    - github.com/kuraapp
 attributes:
   category: Applications
   tags:
@@ -34,14 +31,14 @@ attributes:
     - North America (without Mexico)
   based_in: United States
 scf:
-  awarded_total: 147300
   awarded_round:
     - 27
     - 31
+  awarded_total: 147300
   submission_urls:
     - communityfund.stellar.org/submissions/recZgZOpwThqNmkmm
     - communityfund.stellar.org/submissions/recDvnkHMNhQh0F0t
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

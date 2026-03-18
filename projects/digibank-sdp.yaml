@@ -1,20 +1,24 @@
 title: Digibank | SDP
 other_names: null
 parent: null
-description: |
-  DigiBank aims to integrate SDP (Stellar Disbursement Platform) as a business line, enabling efficient mass payments for NGOs in unbanked regions. Partnering with the Stellar Foundation, we piloted SDP with GIZ Germany—Europe’s largest state development agency—and UOSSM to distribute $1M in salaries to 1K medical staff across 6 hospitals serving thousands of people daily. This reduced payment timelines from 3 months to 1 day, saved 500 hours monthly for finance/HR teams, and cut costs money transfer costs by 50%. Using Stellar’s blockchain, we enhance transparency and eliminate intermediaries. Our goal is to scale this solution across MENA, leveraging GIZ’s precedent to attract more NGOs, while improving DigiBank’s crypto-to-cash network.
+description: Digital banking platform integrating Stellar Disbursement Platform (SDP) for efficient bulk payment distribution in emerging markets.
 links:
   website:
     - digibankar.com
   blog: []
-  x: []
+  x:
+    - digibankar
   linkedin: []
   discord: []
-  telegram: []
-  youtube: []
-  instagram: []
+  telegram:
+    - t.me/digibankar
+  youtube:
+    - youtube.com/channel/ucbeuia-aztq11mpf5xn2mca
+  instagram:
+    - digibank.ar
   reddit: []
-  tiktok: []
+  tiktok:
+    - digibank.arabic
   linktree: []
   github: []
 attributes:
@@ -31,12 +35,12 @@ attributes:
     - Sub-Saharan Africa
   based_in: Turkey
 scf:
-  awarded_total: 99000
   awarded_round:
     - 35
+  awarded_total: 99000
   submission_urls:
     - communityfund.stellar.org/submissions/recPpB5tzu70TzVED
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

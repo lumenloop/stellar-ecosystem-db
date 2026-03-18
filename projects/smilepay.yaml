@@ -2,23 +2,21 @@ title: Smilepay
 other_names:
   - Smilepay Global
 parent: null
-description: |
-  Smilepay is an app and API that makes it easy for diasporas, travelers, expats and anyone that uses stablecoins to pay bills and send money to local bank accounts and mobile money networks across Africa, starting with USA - Ethiopia.
+description: Peer-to-Peer mobile app and USSD that helps African diasporas send money, buy airtime and pay utility bills for friends and family in Africa, in real-time and free of charge.
 links:
   website:
     - smilepay.app
   blog:
-    - medium.com/@Smilepay
+    - medium.com/@smilepay
   x:
     - smilepay_global
   linkedin:
     - linkedin.com/company/smilepay-global
-    - linkedin.com/in/mulukenmengesha
   discord: []
-  telegram: []
+  telegram:
+    - t.me/smilepayglobal
   youtube: []
-  instagram:
-    - smilepay_global
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -40,14 +38,14 @@ attributes:
     - Sub-Saharan Africa
   based_in: Ethiopia
 scf:
-  awarded_total: 100000
   awarded_round:
     - 10
     - 37
+  awarded_total: 100000
   submission_urls:
     - communityfund.stellar.org/submissions/reccZhjIQWWzQ12PS
     - communityfund.stellar.org/submissions/recmAFrE3xZ8w3I46
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

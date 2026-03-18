@@ -1,8 +1,7 @@
 title: SwiftEx
 other_names: null
 parent: null
-description: |
-  SwiftEx is a multi-chain DEX powered by Stellar, offering low fees, fast settlement, and a seamless CEX-like experience with full user control.
+description: SwiftEx is a multi-chain DEX powered by Stellar, offering low fees, fast settlement, and a seamless CEX-like experience with full user control.
 links:
   website:
     - swiftexchange.io
@@ -11,7 +10,8 @@ links:
     - swiftexwallet
   linkedin:
     - linkedin.com/company/swiftex-wallet
-  discord: []
+  discord:
+    - discord.gg/gcevdzbc
   telegram: []
   youtube: []
   instagram: []
@@ -19,7 +19,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/hunnykumar/SwiftEx
+    - github.com/hunnykumar/swiftex
 attributes:
   category: Applications
   tags:
@@ -36,12 +36,12 @@ attributes:
     - North America (without Mexico)
   based_in: India
 scf:
-  awarded_total: 65000
   awarded_round:
     - 35
+  awarded_total: 65000
   submission_urls:
     - communityfund.stellar.org/submissions/recS2MHb4MAcMjZNj
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

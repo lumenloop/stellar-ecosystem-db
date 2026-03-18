@@ -2,8 +2,7 @@ title: Genie AI
 other_names:
   - Stellar Time Machine
 parent: null
-description: |
-  Elevate institutional treasury management with a time-machine explorer that delivers multi-wallet analytics and risk assessments.
+description: Elevate institutional treasury management with a time-machine explorer that delivers multi-wallet analytics and risk assessments.
 links:
   website:
     - genieai.tech
@@ -16,8 +15,7 @@ links:
   telegram: []
   youtube:
     - youtube.com/@genieai
-  instagram:
-    - genieai.co
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -29,12 +27,12 @@ attributes:
     - United Kingdom
   based_in: United Kingdom
 scf:
-  awarded_total: 47000
   awarded_round:
     - 27
+  awarded_total: 47000
   submission_urls:
     - communityfund.stellar.org/submissions/rec76fMEhXJsMmUWD
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

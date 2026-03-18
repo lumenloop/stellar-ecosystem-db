@@ -1,22 +1,21 @@
 title: Gateway.fm
 other_names: null
 parent: null
-description: |
-  Public Soroban RPC infra from gateway.fm. Mainnet/Testnet: 30RPS free of charge. Or 60RPS after the signup at https://admin.gateway.fm/
+description: Gateway.fm offers a free public RPC endpoint for Stellar's Soroban smart contract platform.
 links:
   website:
     - gateway.fm
-    - gateway.fm/public-rpc
   blog:
+    - gateway-fm.medium.com
     - gateway.fm/blog
   x:
     - gateway_eth
   linkedin:
     - linkedin.com/company/gateway-fm
   discord:
-    - discord.gg/77vtmKNbkf
+    - discord.gg/77vtmknbkf
   telegram:
-    - t.me/gateway_fm
+    - t.me/gatewayfm
   youtube: []
   instagram: []
   reddit: []
@@ -35,12 +34,12 @@ attributes:
     - United States
   based_in: Netherlands
 scf:
-  awarded_total: 150000
   awarded_round:
     - 16
+  awarded_total: 150000
   submission_urls:
     - communityfund.stellar.org/submissions/recw85qJRueeg4l6d
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

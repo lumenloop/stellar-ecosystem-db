@@ -1,8 +1,7 @@
 title: Dropzey
 other_names: null
 parent: null
-description: |
-  Decentralized Airdrop Hub on Stellar Network. Create, manage, and participate in airdrops, with transparency and efficiency.
+description: Decentralized Airdrop Hub on Stellar Network. Create, manage, and participate in airdrops, with transparency and efficiency.
 links:
   website:
     - dropzey.com
@@ -10,12 +9,11 @@ links:
     - medium.com/@dropzeyofficial
   x:
     - dropzeyofficial
-    - i
   linkedin: []
   discord: []
   telegram: []
   youtube:
-    - youtube.com/@Dropzeyofficial
+    - youtube.com/@dropzeyofficial
   instagram: []
   reddit: []
   tiktok: []
@@ -30,12 +28,12 @@ attributes:
     - Pakistan
   based_in: Pakistan
 scf:
-  awarded_total: 38500
   awarded_round:
     - 23
+  awarded_total: 38500
   submission_urls:
     - communityfund.stellar.org/submissions/recERxnKE8etaSrMs
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

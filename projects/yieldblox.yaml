@@ -1,12 +1,11 @@
 title: Yieldblox
 other_names:
   - OptionBlox & YieldBlox
-parent: Script3
+parent: null
 description: YieldBlox is a decentralized, DAO-managed money market protocol on the Stellar Network, utilizing the Blend Protocol and Soroban Governor to facilitate lending and borrowing of digital assets.
 links:
   website:
     - yieldblox.finance
-    - script3.io
   blog:
     - script3.medium.com
   x:
@@ -14,7 +13,7 @@ links:
   linkedin:
     - linkedin.com/company/script3
   discord:
-    - discord.gg/XQ6YS5usCe
+    - discord.gg/xq6ys5usce
   telegram: []
   youtube: []
   instagram: []
@@ -30,12 +29,12 @@ attributes:
     - United States
   based_in: United States
 scf:
-  awarded_total: 320972
   awarded_round:
     - 7
+  awarded_total: 320972
   submission_urls:
     - communityfund.stellar.org/submissions/rec5uH1bD72BKoRPI
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

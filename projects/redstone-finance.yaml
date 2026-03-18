@@ -29,10 +29,10 @@ attributes:
   operating_region: []
   based_in: United Kingdom
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: 'RedStone: Stellar Connector'
       url: sorobansecurity.com/report/68
       date: '2025-10-26T04:34:25.104Z'
       auditor: Veridise
+  tokens: []
+  contracts: []

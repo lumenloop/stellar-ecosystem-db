@@ -2,8 +2,7 @@ title: Equilibre
 other_names:
   - Equilibre.io
 parent: null
-description: |
-  A Portfolio Balancer for Stellar
+description: A Portfolio Balancer for Stellar.
 links:
   website:
     - equilibre.io
@@ -25,12 +24,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: null
   awarded_round:
     - 1
+  awarded_total: null
   submission_urls:
     - communityfund.stellar.org/submissions/recOfX9DBePHbRry1
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

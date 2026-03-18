@@ -1,8 +1,7 @@
 title: Prophe
 other_names: null
 parent: null
-description: |
-  Prophe is a blockchain-focused toolset that makes project management a breeze.
+description: Prophe is a blockchain-focused toolset that makes project management a breeze.
 links:
   website:
     - prophe.xyz
@@ -19,7 +18,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/seunsanyaa/PROPHE
+    - github.com/seunsanyaa/prophe
 attributes:
   category: Developer Tooling
   tags: []
@@ -27,12 +26,12 @@ attributes:
     - Sub-Saharan Africa
   based_in: Nigeria
 scf:
-  awarded_total: 42000
   awarded_round:
     - 28
+  awarded_total: 42000
   submission_urls:
     - communityfund.stellar.org/submissions/reczynrU3JHEYcAEw
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,19 +1,20 @@
 title: Kasi Money
 other_names: null
 parent: null
-description: |
-  Kasi Money is a digital banking platform for gig workers, freelancers, and the 2 out of 3 South African workers who earn irregular income. We are the official banking partner for Bolt, South Africa’s largest ride hailing platform. Our customers receive fiat based bank accounts and debit cards to receive income and spend. Uniquely, Kasi Money also extends short term lending and lets users auto invest a percentage of each income deposit into a money market fund to earn yield.  Today, over 40% of our 50k+ customers are migrant workers from other African countries. The most requested feature by this segment is the ability to send money home faster and more affordably, because we are already their financial home. Instead of withdrawing funds, going to another provider and paying 5-10% in fees.  This project enables those remittances using USDC on Stellar. Kasi Money acts as the onramp, converting fiat balances into USDC via Valr and loading it into Crossmint wallets. From there, recipients receive instant cash out access via MoneyGram’s global payout network. All blockchain complexity is abstracted. The user simply selects a recipient, confirms an amount, and their family receives an SMS with pickup instructions at a local MoneyGram counter.  We are building this on Stellar for its speed, low transaction costs, and seamless MoneyGram integration. This grant will support rollout of our first two corridors: Malawi and the Democratic Republic of Congo (DRC), key sender regions where our customer base is already concentrated and where remittance costs are especially high.
+description: Digital banking platform for gig workers, freelancers, and small businesses in Africa, offering payments, savings, and lending on Stellar.
 links:
   website:
     - kasi.money
   blog: []
-  x: []
+  x:
+    - kasimoneyapp
   linkedin:
     - linkedin.com/company/kasimoneyapp
   discord: []
   telegram: []
   youtube: []
-  instagram: []
+  instagram:
+    - kasimoney_
   reddit: []
   tiktok: []
   linktree: []
@@ -25,12 +26,12 @@ attributes:
     - Sub-Saharan Africa
   based_in: South Africa
 scf:
-  awarded_total: 150000
   awarded_round:
     - 38
+  awarded_total: 150000
   submission_urls:
     - communityfund.stellar.org/submissions/reckmHC3jhm3U074S
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,22 +1,26 @@
 title: Estrela
 other_names: null
 parent: null
-description: "Estrela is a decentralized platform for efficient low-slippage stablecoin swaps\_\n"
+description: Estrela is a decentralized platform for efficient low-slippage stablecoin swaps.
 links:
   website:
     - allbridge.io
-  blog: []
-  x: []
+  blog:
+    - allbridge.medium.com
+  x:
+    - allbridge_io
   linkedin: []
   discord:
-    - discord.gg/ASuPY8d3E6
-  telegram: []
+    - discord.gg/asupy8d3e6
+  telegram:
+    - t.me/allbridge_official
   youtube: []
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
+    - github.com/allbridge-io/allbridge-core-js-sdk
     - github.com/allbridge-io/dex-soroban-contracts
 attributes:
   category: Financial Protocols
@@ -30,16 +34,14 @@ attributes:
   operating_region: []
   based_in: Ukraine
 scf:
-  awarded_total: 150000
   awarded_round:
     - 22
     - 35
+  awarded_total: 150000
   submission_urls:
     - communityfund.stellar.org/submissions/rec4bVlu0r3K0SEzo
     - communityfund.stellar.org/submissions/recK3ZLkeSHztasTM
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: Allbridge Soroban Bridge
       url: sorobansecurity.com/report/4
@@ -53,3 +55,5 @@ mainnet:
       url: sorobansecurity.com/report/16
       date: '2025-02-04T15:00:00Z'
       auditor: Quarkslab
+  tokens: []
+  contracts: []

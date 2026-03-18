@@ -2,8 +2,7 @@ title: Kwickbit
 other_names:
   - 'Kwickbit: Corp DeFi Accounting'
 parent: null
-description: |
-  Enhance DeFi accounting with full transaction history, reconciliation, financial reports via UI/API, expand protocol integration
+description: Enhance DeFi accounting with full transaction history, reconciliation, financial reports via UI/API, expand protocol integration.
 links:
   website:
     - kwickbit.com
@@ -31,14 +30,14 @@ attributes:
     - French Guiana
   based_in: Estonia
 scf:
-  awarded_total: 119000
   awarded_round:
     - 20
     - 24
+  awarded_total: 119000
   submission_urls:
     - communityfund.stellar.org/submissions/rec4NbrgB4FWGVIm4
     - communityfund.stellar.org/submissions/recrcyLc9CBiDZ8Ev
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -2,8 +2,7 @@ title: CTX
 other_names:
   - CTX.com
 parent: null
-description: |
-  Spend your XLM and USDC at thousands of physical and online stores.
+description: CTX is a platform that enables businesses to accept cryptocurrency payments both online and in-store, offering seamless integration and dedicated support. It provides daily settlements in local currencies, eliminating volatility risks, and offers hardware devices and POS integrations for in-store transactions.
 links:
   website:
     - ctx.com
@@ -28,12 +27,12 @@ attributes:
   operating_region: []
   based_in: United Kingdom
 scf:
-  awarded_total: 88200
   awarded_round:
     - 19
+  awarded_total: 88200
   submission_urls:
     - communityfund.stellar.org/submissions/recs3a3kKPgwjWT1Y
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,26 +1,22 @@
 title: Rise In
 other_names: null
 parent: null
-description: |
-  Rise In specialize in curating &amp; delivering high impact developer education courses, blending online learning with IRL workshops.
+description: Rise In specialize in curating and delivering high impact developer education courses, blending online learning with IRL workshops.
 links:
   website:
     - risein.com
   blog:
     - risein.com/blog
   x:
-    - risein_com
     - riseinweb3
   linkedin:
     - linkedin.com/company/risein
-    - linkedin.com/school/risein
   discord:
-    - discord.gg/RQcmHrTJGc
+    - discord.gg/rqcmhrtjgc
   telegram: []
   youtube:
     - youtube.com/@riseinweb3
-  instagram:
-    - riseinweb3
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -35,16 +31,16 @@ attributes:
   operating_region: []
   based_in: India
 scf:
-  awarded_total: 200000
   awarded_round:
     - 23
     - 27
     - 28
+  awarded_total: 200000
   submission_urls:
     - communityfund.stellar.org/submissions/rec5xQJ2j8188Qcj9
     - communityfund.stellar.org/submissions/recUFeDBhzepKJ0JI
     - communityfund.stellar.org/submissions/rec9KR280sa7GUduW
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

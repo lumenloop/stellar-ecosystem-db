@@ -1,10 +1,10 @@
 title: Scam Flagging System
 other_names: null
 parent: null
-description: Project aiming to report scam assets and domains to explorers to flag and help prevent malicious interactions.Project aiming to report scam assets and domains to explorers to flag and help prevent malicious interactions.
+description: Project aiming to report scam assets and domains to explorers to flag and help prevent malicious interactions.
 links:
   website:
-    - docs.google.com/spreadsheets/d/1JCkWZ3X1h6kJKM6ZCZThDshK_whhNiTyGTV8R24Anho/edit?usp=sharing
+    - docs.google.com/spreadsheets/d/1jckwz3x1h6kjkm6zczthdshk_whhnitygtv8r24anho/edit?usp=sharing
   blog: []
   x: []
   linkedin: []
@@ -23,12 +23,12 @@ attributes:
   operating_region: []
   based_in: United States
 scf:
-  awarded_total: 10000
   awarded_round:
     - 11
+  awarded_total: 10000
   submission_urls:
     - communityfund.stellar.org/submissions/recJj84gbiQVNojVa
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

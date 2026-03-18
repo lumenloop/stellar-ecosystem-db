@@ -1,8 +1,7 @@
 title: Artizen
 other_names: null
 parent: null
-description: |
-  Artizen is a match funding platform. We help brads 10x growth for their ecosystems by funding breakthroughs in art, science, and technology.
+description: Artizen is a match funding platform that helps brands 10x growth for their ecosystems by funding breakthroughs in art, science, and technology.
 links:
   website:
     - artizen.fund
@@ -39,12 +38,12 @@ attributes:
     - Sub-Saharan Africa
   based_in: United States
 scf:
-  awarded_total: 130000
   awarded_round:
     - 33
+  awarded_total: 130000
   submission_urls:
     - communityfund.stellar.org/submissions/recbMhw9t64VaUFUP
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

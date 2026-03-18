@@ -1,8 +1,7 @@
 title: dolphinze
 other_names: null
 parent: null
-description: |
-  dolphinze is building the next generation of global payroll infrastructure—designed specifically for contractors and powered by crypto-native rails.  Today’s payroll systems are slow, expensive, and built for a world of full-time employees and legacy banking. They struggle to keep up with how modern companies hire and pay talent—especially across borders. Most providers serve both employees and contractors, juggling complex compliance burdens. And when companies want to pay in crypto, they’re forced to use clunky add-ons or push contractors to external exchanges.  We’re changing that.  dolphinze is a crypto-native, contractor-only platform that helps businesses onboard and pay global contractors in minutes—not weeks. We’ve built a compliant onboarding and payment stack that allows companies to fund payroll in fiat while contractors receive payouts in their preferred currency.  This decoupling of employer funding from contractor payout gives both sides maximum flexibility. Employers can keep their treasury in fiat and maintain clean accounting. Contractors can skip the delays and fees of traditional banking systems and receive funds instantly—wherever they are in the world.  Our mission is simple: make it effortless to pay contractors, anywhere in the world. Fast, flexible, and future-ready.
+description: Next-generation global payroll infrastructure for contractors, powered by Stellar for instant, low-cost cross-border payments.
 links:
   website:
     - dolphinze.com
@@ -12,10 +11,12 @@ links:
   linkedin:
     - linkedin.com/company/dolphinze
   discord:
-    - discord.gg/MZFhr2EN
+    - discord.gg/mzfhr2en
   telegram: []
-  youtube: []
-  instagram: []
+  youtube:
+    - youtube.com/@dolphin_ze/videos
+  instagram:
+    - dolphin_ze
   reddit: []
   tiktok: []
   linktree: []
@@ -28,12 +29,12 @@ attributes:
     - Nigeria
   based_in: Canada
 scf:
-  awarded_total: 129800
   awarded_round:
     - 39
+  awarded_total: 129800
   submission_urls:
     - communityfund.stellar.org/submissions/recTBRykzsWiZGwi0
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

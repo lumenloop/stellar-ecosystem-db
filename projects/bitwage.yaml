@@ -14,9 +14,8 @@ links:
   discord: []
   telegram: []
   youtube:
-    - youtube.com/channel/UCazOSizBQuq-6pgMxuNf1pw
-  instagram:
-    - bitwagelatam
+    - youtube.com/channel/ucazosizbquq-6pgmxunf1pw
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -28,6 +27,6 @@ attributes:
   operating_region: []
   based_in: United States
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

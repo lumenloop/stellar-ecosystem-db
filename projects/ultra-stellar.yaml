@@ -2,7 +2,7 @@ title: Ultra Stellar
 other_names:
   - Ultra Stellar + Lobstr
 parent: null
-description: Ultra Stellar, established in 2014, is a software engineering company specializing in financial solutions for the Stellar network. The company’s main products include LOBSTR, StellarX, and StellarTerm — three leading Stellar wallets and interfaces. These secure and user-friendly products empower individuals and businesses alike, enabling anyone in the world to achieve financial freedom. Ultra Stellar also offers professional services, assisting businesses in their transition into blockchain technology, integrating with the Stellar network, and developing ready-to-launch solutions.
+description: Blockchain company building core Stellar ecosystem products including LOBSTR wallet, StellarX trading platform, StellarTerm, and LOBSTR Vault multi-sig security.
 links:
   website:
     - ultrastellar.com
@@ -14,19 +14,19 @@ links:
   discord: []
   telegram: []
   youtube:
-    - youtube.com/channel/UCzOwdRJm-z1vEkM_SsyaiKg
+    - youtube.com/channel/uczowdrjm-z1vekm_ssyaikg
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/Lobstrco
+    - github.com/lobstrco
 attributes:
   category: null
   tags: []
   operating_region: []
   based_in: Indonesia
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

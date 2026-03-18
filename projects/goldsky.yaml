@@ -1,8 +1,7 @@
 title: Goldsky
 other_names: null
 parent: null
-description: |
-  Offering builders access to real-time, high-performance Stellar data indexing and to a CC0-licensed public good dataset
+description: Offering builders access to real-time, high-performance Soroban data indexing and to a CC0-licensed public good dataset.
 links:
   website:
     - goldsky.com
@@ -32,12 +31,12 @@ attributes:
     - United States
   based_in: Canada
 scf:
-  awarded_total: 128000
   awarded_round:
     - 19
+  awarded_total: 128000
   submission_urls:
     - communityfund.stellar.org/submissions/recnHUE6Wv5qJbloO
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

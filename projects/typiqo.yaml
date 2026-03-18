@@ -1,22 +1,19 @@
 title: TYPIQO
 other_names: null
 parent: null
-description: |
-  TYPIQO connects high-quality local food producers with local high-end Chefs and Restaurants.
+description: TYPIQO connects high-quality local food producers with local high-end Chefs and Restaurants.
 links:
   website:
     - typiqo.it
-    - hub.typiqo.it
   blog: []
   x: []
   linkedin:
-    - linkedin.com/au.linkedin.com/company/typiqo
+    - linkedin.com/company/typiqo
   discord: []
   telegram: []
   youtube:
-    - youtube.com/watch?v=JIrjuxxo_M8
-  instagram:
-    - typiqo
+    - youtube.com/watch?v=jirjuxxo_m8
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -27,14 +24,14 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 168800
   awarded_round:
     - 21
     - 22
+  awarded_total: 168800
   submission_urls:
     - communityfund.stellar.org/submissions/recTIvCjTMsBlJOkP
     - communityfund.stellar.org/submissions/rech7PySqXaETT3Rl
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

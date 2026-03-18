@@ -1,8 +1,7 @@
 title: Kata.Games
 other_names: null
 parent: null
-description: |
-  Empowering indie developers with tools to create innovative online games, that use Web3 technologies
+description: Empowering indie developers with tools to create and share innovative online games using Web3 and Stellar technologies.
 links:
   website:
     - kata.games
@@ -12,7 +11,7 @@ links:
   linkedin:
     - linkedin.com/company/kata-games
   discord:
-    - discord.gg/SHdJhcWvQD
+    - discord.gg/shdjhcwvqd
   telegram: []
   youtube:
     - youtube.com/@wkta11
@@ -22,6 +21,7 @@ links:
   linktree: []
   github:
     - github.com/gaudiatech/pyved-engine
+    - github.com/pyved-solution
 attributes:
   category: Applications
   tags: []
@@ -29,12 +29,12 @@ attributes:
     - Europe & Central Asia
   based_in: France
 scf:
-  awarded_total: 25000
   awarded_round:
     - 11
+  awarded_total: 25000
   submission_urls:
     - communityfund.stellar.org/submissions/recHtbbed2g2fGLlZ
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

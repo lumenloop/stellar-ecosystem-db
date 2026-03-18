@@ -1,8 +1,7 @@
 title: EarnBIT
 other_names: null
 parent: null
-description: |
-  EU licensed CEX with dedicated Launchpad on Stellar, followed by video streaming service.
+description: EU licensed CEX with dedicated Launchpad on Stellar, followed by video streaming service.
 links:
   website:
     - earnbit.com
@@ -30,12 +29,12 @@ attributes:
     - Finland
   based_in: United Arab Emirates
 scf:
-  awarded_total: 47293
   awarded_round:
     - 26
+  awarded_total: 47293
   submission_urls:
     - communityfund.stellar.org/submissions/rec0xYw97aaoZa9lA
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

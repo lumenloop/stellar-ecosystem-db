@@ -1,24 +1,28 @@
 title: human.tech
 other_names: null
 parent: null
-description: |
-  keys, wallets, and identity for personhood, self-custody, and privacy
+description: Human.tech provides keys, wallets, and identity infrastructure for personhood, self-custody, and privacy on Stellar.
 links:
   website:
     - human.tech
   blog: []
   x:
-    - 0xholonym
-  linkedin: []
-  discord: []
-  telegram: []
-  youtube: []
+    - humntech
+  linkedin:
+    - linkedin.com/company/holonym
+  discord:
+    - discord.gg/zfgqja5pxu
+  telegram:
+    - t.me/humantechofficial
+  youtube:
+    - youtube.com/channel/uchxafijbgcwzyuepyvbduzq
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/holosoe/Human-Wallet-On-Stellar
+    - github.com/passportxyz
+    - github.com/holosoe/human-wallet-on-stellar
 attributes:
   category: Infrastructure & Services
   tags:
@@ -29,12 +33,12 @@ attributes:
     - South Asia
   based_in: United States
 scf:
-  awarded_total: 150000
   awarded_round:
     - 34
+  awarded_total: 150000
   submission_urls:
     - communityfund.stellar.org/submissions/recwlRoLYHglvvfbU
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

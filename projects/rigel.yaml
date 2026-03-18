@@ -1,8 +1,7 @@
 title: Rigel
 other_names: null
 parent: null
-description: |
-  Monetize Links for Payments and Donations in Seconds Stellar
+description: Rigel enables users to monetize links with a content locker for payments and donations.
 links:
   website:
     - rigel.link
@@ -23,12 +22,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 14101.43
   awarded_round:
     - 5
+  awarded_total: 14101.43
   submission_urls:
     - communityfund.stellar.org/submissions/recHn7buQXsekeDpI
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

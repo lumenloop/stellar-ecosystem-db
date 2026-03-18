@@ -2,16 +2,18 @@ title: RAMM
 other_names:
   - 'RAMM: Global Retail Commerce'
 parent: null
-description: |
-  A novel DEX/AMM where brands sell direct to consumers w/out the high selling fees of Amazon/eBay, while keeping all customer data
+description: A novel DEX/AMM where brands sell direct to consumers w/out the high selling fees of Amazon/eBay, while keeping all customer data.
 links:
   website:
-    - RAMM.ai
+    - ramm.ai
   blog: []
-  x: []
-  linkedin: []
+  x:
+    - rammagentic
+  linkedin:
+    - linkedin.com/company/ramm.ai
   discord: []
-  telegram: []
+  telegram:
+    - t.me/rammaichat
   youtube: []
   instagram: []
   reddit: []
@@ -26,12 +28,12 @@ attributes:
   operating_region: []
   based_in: United States
 scf:
-  awarded_total: 38500
   awarded_round:
     - 22
+  awarded_total: 38500
   submission_urls:
     - communityfund.stellar.org/submissions/rec3MBR9xIV3XOJw1
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

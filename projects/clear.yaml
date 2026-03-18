@@ -1,8 +1,7 @@
 title: Clear
 other_names: null
 parent: null
-description: |
-  Asmart contract solution connecting payment companies to instant liquidity from individual guarantors for their daily operations.
+description: Asmart contract solution connecting payment companies to instant liquidity from individual guarantors for their daily operations.
 links:
   website:
     - borderlesspayments.xyz/clear
@@ -23,12 +22,12 @@ attributes:
   operating_region: []
   based_in: Spain
 scf:
-  awarded_total: 45000
   awarded_round:
     - 26
+  awarded_total: 45000
   submission_urls:
     - communityfund.stellar.org/submissions/recZI6G0tdDrevSQz
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

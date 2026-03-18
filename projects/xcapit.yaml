@@ -2,8 +2,7 @@ title: xcapit
 other_names:
   - XCAPIT Smart Pay
 parent: null
-description: |
-  A UNICEF-backed wallet enabling secure, SMS-based digital asset distribution and management for NGOs and users with no internet access. *Open Source & Certifiable as a Digital Public Good (DPG)
+description: A UNICEF-backed wallet enabling secure, SMS-based digital asset distribution and management for NGOs and users with no internet access. *Open Source u0026 Certified as a Digital Public Good.
 links:
   website:
     - xcapit.com
@@ -13,11 +12,10 @@ links:
   linkedin:
     - linkedin.com/company/xcapit
   discord:
-    - discord.gg/R6KVz5RFjy
+    - discord.gg/r6kvz5rfjy
   telegram: []
   youtube: []
-  instagram:
-    - sytemaphq
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -36,12 +34,12 @@ attributes:
     - Latin America & Caribbean
   based_in: Argentina
 scf:
-  awarded_total: 147000
   awarded_round:
     - 32
+  awarded_total: 147000
   submission_urls:
     - communityfund.stellar.org/submissions/recPqwg9CKoHwlg3L
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

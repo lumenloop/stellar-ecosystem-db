@@ -1,8 +1,7 @@
 title: PeerPesa
 other_names: null
 parent: null
-description: |
-  Connecting Africa Through P2P Payments
+description: PeerPesa is a P2P blockchain-based remittance platform that enables fast, affordable cross-border payments using Stellar's XLM, with direct integration to mobile money and bank accounts across East Africa.
 links:
   website:
     - peerpesa.co
@@ -12,18 +11,17 @@ links:
   linkedin:
     - linkedin.com/company/peerpesa
   discord:
-    - discord.gg/hxzdqsEx
-  telegram: []
+    - discord.gg/hxzdqsex
+  telegram:
+    - t.me/peerpesa
   youtube:
-    - youtube.com/@PeerPesa
-  instagram:
-    - peer_pesa
+    - youtube.com/@peerpesa
+  instagram: []
   reddit: []
-  tiktok:
-    - peerpesa
+  tiktok: []
   linktree: []
   github:
-    - github.com/PeerPESA-dAPP/peerPesa-Web3
+    - github.com/peerpesa-dapp/peerpesa-web3
 attributes:
   category: Applications
   tags:
@@ -38,12 +36,12 @@ attributes:
     - Sub-Saharan Africa
   based_in: Uganda
 scf:
-  awarded_total: 45000
   awarded_round:
     - 33
+  awarded_total: 45000
   submission_urls:
     - communityfund.stellar.org/submissions/recj3q75Rnnn3ahfb
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

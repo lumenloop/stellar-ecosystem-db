@@ -11,13 +11,17 @@ links:
     - ledger
   linkedin:
     - linkedin.com/company/ledgerhq
-  discord: []
+  discord:
+    - discord.gg/ledger
   telegram: []
-  youtube: []
-  instagram: []
+  youtube:
+    - youtube.com/ledger
+  instagram:
+    - ledger
   reddit:
     - r/ledgerwallet
-  tiktok: []
+  tiktok:
+    - ledger
   linktree: []
   github:
     - github.com/ledgerhq
@@ -27,6 +31,6 @@ attributes:
   operating_region: []
   based_in: France
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

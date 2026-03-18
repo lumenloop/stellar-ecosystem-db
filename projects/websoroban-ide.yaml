@@ -1,8 +1,7 @@
 title: WebSoroban IDE
 other_names: null
 parent: null
-description: |
-  Shipping Soroban straight to your browser!  No clutter. No delays. No dev drama.  Just open your browser and you are building on soroban in seconds.  WebSoroban: The launchpad for real builders. Write your first smart contract or ship that 3 am DeFi idea—fast, mobile-ready, and with an AI copilot by your side. Built for web3's real pace: async flows, global sprints, weekend hackathons.   Yes, an actual smart assistant in your editor, not just for syntax but for direction, logic, and clean code you can ship.  Learn, Build, Break, Repeat ; All in one tab.  From first-time devs to protocol founders, websoroban is where the stellar smart contract journey begins.  Clean. Simple. Unstoppable.
+description: Browser-based IDE for Soroban smart contract development, enabling writing, compiling, and deploying contracts without local toolchain setup.
 links:
   website:
     - websoroban.vercel.app
@@ -18,7 +17,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/WebSoroban
+    - github.com/websoroban
 attributes:
   category: Developer Tooling
   tags: []
@@ -26,12 +25,12 @@ attributes:
     - South Asia
   based_in: India
 scf:
-  awarded_total: 60000
   awarded_round:
     - 38
+  awarded_total: 60000
   submission_urls:
     - communityfund.stellar.org/submissions/rec7FPAs1C5nLt8K7
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

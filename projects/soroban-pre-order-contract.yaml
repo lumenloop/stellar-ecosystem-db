@@ -1,8 +1,7 @@
 title: Soroban Pre-Order Contract
 other_names: null
 parent: null
-description: |
-  Develops a novel Soroban contract that helps to fairly manage "first come, first served" sales processes. SPOC aims to provide a fair solution for both buyers and sellers. It asks the buyer to commit to their order of a product or service by providing an up-front payment for it. This gives the seller a specified amount of time to produce or procure the pre-ordered product. The Soroban contract itself serves as an escrow for payments and ensures that all specified terms are followed by both the buyer and the seller. The payment is either unlocked for the seller upon successful delivery, or is refundable to (and by) the buyer when the order expires, and also if the seller needs to cancel orders because their fulfillment isn't possible anymore.
+description: SPOC is a Soroban smart contract that manages "first come, first served" sales by acting as an escrow, ensuring fair transactions between buyers and sellers.
 links:
   website:
     - github.com/aolieman/soroban-pre-order
@@ -24,12 +23,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 1000
   awarded_round:
     - 12
+  awarded_total: 1000
   submission_urls:
     - communityfund.stellar.org/submissions/recROR4Y8QHKD5rDF
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

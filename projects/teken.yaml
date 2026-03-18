@@ -2,11 +2,10 @@ title: Teken
 other_names:
   - Teken - Easy Multi-Signatures
 parent: null
-description: |
-  Teken’s mission: an easy-to-use multi-signature app for Stellar, enhancing security and collaboration via Soroban smart contracts.
+description: 'Teken’s mission: an easy-to-use multi-signature app for Stellar, enhancing security and collaboration via Soroban smart contracts.'
 links:
   website:
-    - github.com/MoonBite-GmbH/multisig-ui
+    - github.com/moonbite-gmbh/multisig-ui
   blog: []
   x: []
   linkedin:
@@ -19,19 +18,19 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/MoonBite-GmbH
+    - github.com/moonbite-gmbh
 attributes:
   category: Developer Tooling
   tags: []
   operating_region: []
   based_in: Germany
 scf:
-  awarded_total: 29500
   awarded_round:
     - 28
+  awarded_total: 29500
   submission_urls:
     - communityfund.stellar.org/submissions/recL7dgmOKB1HHEOo
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

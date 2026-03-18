@@ -14,12 +14,10 @@ links:
   discord: []
   telegram: []
   youtube:
-    - youtube.com/channel/UCV8JsFe389TSrTuuXMZS6Ww
-  instagram:
-    - chippercashapp
+    - youtube.com/channel/ucv8jsfe389tsrtuuxmzs6ww
+  instagram: []
   reddit: []
-  tiktok:
-    - chippercashapp
+  tiktok: []
   linktree: []
   github:
     - github.com/chippercash
@@ -29,6 +27,6 @@ attributes:
   operating_region: []
   based_in: Ghana
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

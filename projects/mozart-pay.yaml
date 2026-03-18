@@ -26,6 +26,6 @@ attributes:
   operating_region: []
   based_in: Austria
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

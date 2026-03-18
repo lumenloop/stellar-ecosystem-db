@@ -1,8 +1,7 @@
 title: Subs
 other_names: null
 parent: null
-description: |
-  Subs offers an SDK to help businesses manage blockchain subscriptions using Stellar's Soroban smart contracts.
+description: Subs offers an SDK to help businesses manage blockchain subscriptions using Stellar's Soroban smart contracts.
 links:
   website:
     - stellar.subsprotocol.com
@@ -13,7 +12,7 @@ links:
   linkedin:
     - linkedin.com/company/subsprotocol
   discord:
-    - t.me/+5VRisLxgM3NiNjk0
+    - t.me/+5vrislxgm3ninjk0
   telegram: []
   youtube: []
   instagram: []
@@ -21,7 +20,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/Subs-Protocol
+    - github.com/subs-protocol
 attributes:
   category: Developer Tooling
   tags:
@@ -33,12 +32,12 @@ attributes:
     - East Asia & Pacific
   based_in: France
 scf:
-  awarded_total: 139480
   awarded_round:
     - 30
+  awarded_total: 139480
   submission_urls:
     - communityfund.stellar.org/submissions/recFudOvNezhmYZig
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

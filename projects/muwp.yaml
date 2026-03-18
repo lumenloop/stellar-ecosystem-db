@@ -2,8 +2,7 @@ title: MUWP
 other_names:
   - MUWPAY
 parent: null
-description: |
-  MUWPAY simplifies cross-chain token swaps with all-to-one and one-to-all functionality, enhancing liquidity and interoperability
+description: MUWPAY simplifies cross-chain token swaps with all-to-one and one-to-all functionality, enhancing liquidity and interoperability.
 links:
   website:
     - muwpay.com
@@ -13,16 +12,16 @@ links:
   linkedin:
     - linkedin.com/company/muwpay
   discord:
-    - discord.gg/wmZUxJtuad
+    - discord.gg/wmzuxjtuad
   telegram:
-    - t.me/Muwpay
+    - t.me/muwpay
   youtube: []
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/Muwpay-uniswapper/Muwp-Stellar
+    - github.com/muwpay-uniswapper/muwp-stellar
 attributes:
   category: Applications
   tags:
@@ -31,14 +30,14 @@ attributes:
     - Europe & Central Asia
   based_in: France
 scf:
-  awarded_total: 133950
   awarded_round:
     - 26
     - 35
+  awarded_total: 133950
   submission_urls:
     - communityfund.stellar.org/submissions/rec0qoMTxCX2xgOAZ
     - communityfund.stellar.org/submissions/recmvpMI0UZ6fy1ab
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

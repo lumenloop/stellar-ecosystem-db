@@ -1,26 +1,27 @@
 title: Lobster
 other_names: null
 parent: null
-description: |
-  Lobster is a liquidity pool optimization platform designed for decentralized exchanges (DEXs). It enables DEXs to increase their liquidity efficiency, improve their rankings on aggregators, and boost trading volumes, ultimately driving more revenue.  Lobster addresses the “liquidity pool trilemma” that many DEXs struggle with. It provides a comprehensive dashboard that evaluates three key metrics for each liquidity pool:  Efficiency: How attractive is the pool to traders? Profitability: Is the pool competitive for liquidity providers? Stability: Does the pool maintain stable prices without being overtaken by arbitrageurs?  With Lobster, DEXs can run LP-specific algorithms based on real-time data to optimize pool performance. This results in better liquidity management, enhanced pool attractiveness, and higher overall volume. The platform’s data-driven approach empowers DEXs to make informed decisions and adapt quickly to market conditions, improving liquidity provision in a less risky and more profitable manner. Lobster is a vital tool for DEXs looking to stay competitive in the rapidly evolving DeFi landscape and drive sustained growth.
+description: Liquidity pool optimization platform on Stellar, providing automated strategies for maximizing AMM returns and managing impermanent loss.
 links:
   website:
     - lobster-protocol.com
-  blog: []
+  blog:
+    - medium.com/@lobster-protocol
   x:
     - lobsterprotocol
   linkedin:
     - linkedin.com/company/lobster-protocol
   discord:
-    - discord.gg/4zE6nyBCYA
-  telegram: []
+    - discord.gg/4ze6nybcya
+  telegram:
+    - t.me/+pt28v3dygimwn2zk
   youtube: []
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/Lobster-Protocol
+    - github.com/lobster-protocol
 attributes:
   category: Financial Protocols
   tags: []
@@ -28,12 +29,12 @@ attributes:
     - France
   based_in: France
 scf:
-  awarded_total: 109000
   awarded_round:
     - 36
+  awarded_total: 109000
   submission_urls:
     - communityfund.stellar.org/submissions/recJ8JRD0fUAuiZn6
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

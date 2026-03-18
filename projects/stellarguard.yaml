@@ -1,12 +1,12 @@
 title: StellarGuard
 other_names: null
 parent: null
-description: |
-  Security for your Stellar account
+description: StellarAuth simplifies Stellar integration for apps by offering secure, user-friendly authentication and transaction management, enabling seamless blockchain interactions.
 links:
   website:
     - stellarguard.me
-  blog: []
+  blog:
+    - medium.com/@stellarguard
   x: []
   linkedin: []
   discord: []
@@ -24,12 +24,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: null
   awarded_round:
     - 1
+  awarded_total: null
   submission_urls:
     - communityfund.stellar.org/submissions/recCm1a3tDKd0Whro
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

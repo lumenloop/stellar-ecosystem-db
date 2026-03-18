@@ -10,12 +10,11 @@ links:
   x:
     - changeraapp
   linkedin:
-    - linkedin.com/company/changerainc/mycompany
+    - linkedin.com/company/changerainc
   discord: []
   telegram: []
   youtube: []
-  instagram:
-    - changeraapp
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -26,6 +25,6 @@ attributes:
   operating_region: []
   based_in: United States
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

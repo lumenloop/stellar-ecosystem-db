@@ -2,10 +2,10 @@ title: Kunst21
 other_names:
   - Kunst21.com
 parent: null
-description: Kunst21.com is a crowdinvesting platform to allow everyone to invest in art and collectibles, by connecting aspiring and consolidated artists with retail and professional investors from the whole world.Kunst21.com is a crowdinvesting platform to allow everyone to invest in art and collectibles, by connecting aspiring and consolidated artists with retail and professional investors from the whole world.
+description: Kunst21.com is a crowdinvesting platform to allow everyone to invest in art and collectibles, by connecting aspiring and consolidated artists with retail and professional investors from the whole world.
 links:
   website:
-    - Kunst21.com
+    - kunst21.com
   blog: []
   x: []
   linkedin: []
@@ -23,12 +23,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: null
   awarded_round:
     - 9
+  awarded_total: null
   submission_urls:
     - communityfund.stellar.org/submissions/recuF7Hw0AKUPuzrU
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

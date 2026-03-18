@@ -19,13 +19,13 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/Blockdaemon
+    - github.com/blockdaemon
 attributes:
   category: null
   tags: []
   operating_region: []
   based_in: United States
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

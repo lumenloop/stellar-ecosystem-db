@@ -1,7 +1,6 @@
 title: Bousol
 other_names:
   - Bousol Wallet
-  - Bousol Wallet Enterprise
 parent: null
 description: Bousol is a blockchain-based digital wallet enabling secure, low-cost cross-border payments and financial services for underserved communities.
 links:
@@ -13,21 +12,18 @@ links:
     - linkedin.com/company/paon-bleu
   discord: []
   telegram: []
-  youtube:
-    - youtube.com/@paonbleu
-  instagram:
-    - bousolht
+  youtube: []
+  instagram: []
   reddit: []
-  tiktok:
-    - bousolht
+  tiktok: []
   linktree: []
   github: []
 attributes:
-  category: null
+  category: Wallet
   tags: []
   operating_region: []
   based_in: null
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

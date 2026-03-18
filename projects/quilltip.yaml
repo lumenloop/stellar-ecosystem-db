@@ -2,8 +2,7 @@ title: QuillTip
 other_names:
   - 'QuillTip: Publishing and Microtipping'
 parent: null
-description: |
-  QuillTip is a decentralized publishing platform that empowers writers to truly own their content while enabling sustainable monetization through Stellar’s low fees. Unlike existing Web3 publishing platforms hampered by high gas costs, QuillTip leverages Stellar to enable micro-monetization features like micro-tips—creating the first viable tip-per-highlight economy. Writers will mint articles as NFTs on Soroban, store content permanently on Arweave, and retain full ownership without platform lock-in. Readers can support creators directly through micro-tips, collect articles as NFTs, or subscribe in future, with 97.5% of revenue going to writers (vs. 30–50% on traditional platforms). Through seamless wallet integration, our mission is to democratize publishing by making content ownership accessible and monetization sustainable. Potential Impact: QuillTip aims to generate thousands of micro-transactions on Stellar each month—projected 10k+ tips and $5k+ in creator payouts within the first 6–9 months—driving real XLM and USDC flow, active addresses, and sustainable creator revenue.
+description: Decentralized publishing platform on Stellar empowering content creators with direct reader tipping, NFT-backed ownership, and censorship-resistant distribution.
 links:
   website:
     - quilltip.me
@@ -18,19 +17,19 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/pragya-shar/QuillTip
+    - github.com/pragya-shar/quilltip
 attributes:
   category: Applications
   tags: []
   operating_region: []
   based_in: India
 scf:
-  awarded_total: 37200
   awarded_round:
     - 39
+  awarded_total: 37200
   submission_urls:
     - communityfund.stellar.org/submissions/reckPFhE8GyZuqJHo
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,15 +1,13 @@
 title: Sorscan
 other_names: null
 parent: null
-description: |
-  Empowering Soroban Network Exploration and Analytics
+description: Empowering Soroban Network Exploration and Analytics.
 links:
   website:
     - sorscan.org
   blog: []
   x: []
-  linkedin:
-    - linkedin.com/in/ioseb-khutsishvili/, https://www.linkedin.com/in/david-khosroshvili
+  linkedin: []
   discord: []
   telegram: []
   youtube: []
@@ -24,12 +22,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 33500
   awarded_round:
     - 20
+  awarded_total: 33500
   submission_urls:
     - communityfund.stellar.org/submissions/rec7zAshryot9zFyx
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,12 +1,10 @@
 title: XycLoans
 other_names: null
-parent: Xycloo
-description: |
-  XycLoans is a decentralized flash loans protocol that runs on Soroban. It manages its own liquidity being structured in liquidity pools for each supported token. Borrowers can borrow from these pools any available amount through flash loans and lenders can provide liquidity to earn healthy and risk-free yields (as flash loans never lose liquidity by design). XycLoans is a flash loans-only protocol, making it extremely safe in terms of security and investment opportunities. 
+parent: null
+description: XycLoans is a decentralized flash loans protocol that runs on Soroban. It manages its own liquidity being structured in liquidity pools for each supported token. Borrowers can borrow from these pools any available amount through flash loans and lenders can provide liquidity to earn healthy and risk-free yields (as flash loans never lose liquidity by design). XycLoans is a flash loans-only protocol, making it extremely safe in terms of security and investment opportunities.
 links:
   website:
     - xycloans.app
-    - xycloo.com
   blog:
     - blog.xycloo.com
   x:
@@ -14,7 +12,7 @@ links:
   linkedin:
     - linkedin.com/company/xycloolabs
   discord:
-    - discord.gg/gGvB2Bj2S5
+    - discord.gg/ggvb2bj2s5
   telegram: []
   youtube: []
   instagram: []
@@ -32,18 +30,18 @@ attributes:
     - Argentina
   based_in: Argentina
 scf:
-  awarded_total: 81800
   awarded_round:
     - 13
     - Liquidity Award - '24 Q1
+  awarded_total: 81800
   submission_urls:
     - communityfund.stellar.org/submissions/recbjvBMO5YVW5op0
     - communityfund.stellar.org/submissions/recenixBSty0Z0kdb
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: xycLoans Audit
       url: sorobansecurity.com/report/33
       date: '2024-01-18T15:00:00Z'
       auditor: OtterSec
+  tokens: []
+  contracts: []

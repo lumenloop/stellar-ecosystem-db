@@ -1,8 +1,7 @@
 title: Slender
 other_names: null
-parent: EQ Lab
-description: |
-  A money market for the Soroban ecosystem
+parent: null
+description: Slender is a decentralized lending protocol built on the Stellar blockchain, enabling users to lend and borrow assets without collateral. It offers dynamic and fair interest rates based on a smooth hyperbolic function, ensuring competitive passive yields for lenders.
 links:
   website:
     - slender.fi
@@ -12,7 +11,8 @@ links:
     - slender_fi
   linkedin:
     - linkedin.com/company/eq-lab
-  discord: []
+  discord:
+    - discord.com/channels/897514728459468821/1131496908418973716
   telegram: []
   youtube: []
   instagram: []
@@ -30,20 +30,20 @@ attributes:
     - Stellar
   based_in: Portugal
 scf:
-  awarded_total: 296750
   awarded_round:
     - 17
     - 21
     - Liquidity Award - '24 Q1
+  awarded_total: 296750
   submission_urls:
     - communityfund.stellar.org/submissions/recPZV9KigYc4et2I
     - communityfund.stellar.org/submissions/recg1FCAdn5g38z6k
     - communityfund.stellar.org/submissions/recRurHO7V9QZxJjW
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: Slender Security Assessment Report
       url: sorobansecurity.com/report/24
       date: '2024-05-21T15:00:00Z'
       auditor: certora
+  tokens: []
+  contracts: []

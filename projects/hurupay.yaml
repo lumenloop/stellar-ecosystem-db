@@ -2,8 +2,7 @@ title: Hurupay
 other_names:
   - Hurupay Virtual Accounts Program
 parent: null
-description: |
-  Hurupay proposes to launch a virtual accounts program for freelancers, remote workers and businesses that will leverage the USDC stablecoin on Stellar as the underlying infrastructure. The goal is to provide these users with a dedicated US account and routing number in their name to accept payroll from platforms like Deel and Remote, or payouts from services like YouTube, Spotify, and TikTok.This functionality will operate as follows: Each remote worker will have their virtual account linked to their Stellar wallet address. An employer in the US will make USD payment to the virtual account and the payment is settled into the user's wallet as USDC stablecoin. Users can then decide to hold their funds in stablecoins on their wallets or quickly and easily offramp local currency.  
+description: Virtual accounts platform for freelancers and remote workers in Africa, enabling USD receipt and local currency withdrawal via Stellar.
 links:
   website:
     - hurupay.com
@@ -13,10 +12,11 @@ links:
   linkedin:
     - linkedin.com/company/hurupay
   discord:
-    - discord.gg/HVMtuTWP
+    - discord.gg/hvmtutwp
   telegram: []
   youtube: []
-  instagram: []
+  instagram:
+    - hurupayapp
   reddit: []
   tiktok: []
   linktree: []
@@ -30,12 +30,12 @@ attributes:
     - Latin America & Caribbean
   based_in: Kenya
 scf:
-  awarded_total: 82000
   awarded_round:
     - 39
+  awarded_total: 82000
   submission_urls:
     - communityfund.stellar.org/submissions/recrbIrawXGYQv5GT
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,8 +1,7 @@
 title: Paychant
 other_names: null
 parent: null
-description: |
-  Paychant is a payment gateway that helps Africans on-ramp and off-ramp right inside any self-custodial wallets, DEX, or dApps using Africa's localized payment methods.
+description: Paychant is a payment gateway that helps Africans on-ramp and off-ramp right inside any self-custodial wallets, DEX, or dApps using Africa's localized payment methods.
 links:
   website:
     - paychant.com
@@ -12,9 +11,8 @@ links:
     - paychant
   linkedin:
     - linkedin.com/company/paychant
-    - linkedin.com/company/paychant/?viewAsMember=true
   discord:
-    - discord.gg/YUXPAJfZaN
+    - discord.gg/yuxpajfzan
   telegram:
     - t.me/paychant
   youtube: []
@@ -36,14 +34,14 @@ attributes:
     - Sub-Saharan Africa
   based_in: Nigeria
 scf:
-  awarded_total: 150000
   awarded_round:
     - 16
     - 21
+  awarded_total: 150000
   submission_urls:
     - communityfund.stellar.org/submissions/recu3dRuCQUZY1U4Y
     - communityfund.stellar.org/submissions/rec0PwqUKV2KdEvpm
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

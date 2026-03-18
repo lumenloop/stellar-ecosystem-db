@@ -13,7 +13,7 @@ links:
     - discord.gg/certora
   telegram: []
   youtube:
-    - youtube.com/@certora
+    - youtube.com/@certora/videos
   instagram: []
   reddit: []
   tiktok: []
@@ -28,6 +28,6 @@ attributes:
   operating_region: []
   based_in: United States
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

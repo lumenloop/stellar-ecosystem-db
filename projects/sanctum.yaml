@@ -2,8 +2,7 @@ title: Sanctum
 other_names:
   - Soroban contracts with secrets
 parent: null
-description: |
-  We are building ZK+MPC tech to enable smart contracts to compute on secret state, thus bringing privacy to the Stellar apps.
+description: Lib Sanctum ZK+MPC tech enables smart contracts to compute on secret state, thus bringing privacy to the Stellar apps.
 links:
   website:
     - github.com/zkbricks/mpc-zexe
@@ -27,14 +26,14 @@ attributes:
   operating_region: []
   based_in: United States
 scf:
-  awarded_total: 135000
   awarded_round:
     - 23
     - 25
+  awarded_total: 135000
   submission_urls:
     - communityfund.stellar.org/submissions/recdGy1JdPi0qtRpj
     - communityfund.stellar.org/submissions/recEXQ7VUoxGVHeZx
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,15 +1,16 @@
 title: Soroban Timelock Contract
 other_names: null
-parent: 57blocks
-description: |
-  Develop a standard timelock contract that can be leveraged by Soroban protocol developers to increase user trust
+parent: null
+description: A standard timelock contract that can be leveraged by Soroban protocol developers to increase user trust.
 links:
   website:
     - 57blocks.io
-    - github.com/57blocks/stellar-timelock-contract/tree/dev
+    - github.com/57blocks/stellar-timelock-contract
   blog: []
-  x: []
-  linkedin: []
+  x:
+    - 57blocks
+  linkedin:
+    - linkedin.com/company/57blocks
   discord: []
   telegram: []
   youtube: []
@@ -18,6 +19,7 @@ links:
   tiktok: []
   linktree: []
   github:
+    - github.com/57blocks
     - github.com/57blocks/stellar-timelock-contract
 attributes:
   category: Developer Tooling
@@ -27,16 +29,16 @@ attributes:
   operating_region: []
   based_in: China
 scf:
-  awarded_total: 24000
   awarded_round:
     - 27
+  awarded_total: 24000
   submission_urls:
     - communityfund.stellar.org/submissions/reclhILl81OAe3spU
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: Auditing Report Hardening Blockchain Security with Formal Methods for 57Blocks Stellar Timelock Contract
       url: sorobansecurity.com/report/26
       date: '2024-08-05T15:00:00Z'
       auditor: Veridise
+  tokens: []
+  contracts: []

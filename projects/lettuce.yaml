@@ -1,20 +1,18 @@
 title: Lettuce
 other_names: null
 parent: null
-description: |
-  Stellar-based point of sale (POS) Application 
+description: Stellar-based point of sale (POS) Application.
 links:
   website:
     - lettucepay.io
   blog:
-    - medium.com/@LettucePay
+    - medium.com/@lettucepay
   x: []
   linkedin: []
   discord: []
   telegram: []
   youtube: []
-  instagram:
-    - lettuce_pay
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -26,12 +24,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 48714.05
   awarded_round:
     - 5
+  awarded_total: 48714.05
   submission_urls:
     - communityfund.stellar.org/submissions/recVosDQk5KM5Vj7Y
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

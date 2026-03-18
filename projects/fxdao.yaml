@@ -1,8 +1,7 @@
 title: FxDAO
 other_names: null
-parent: Creit Tech
-description: |
-  Debt issuance protocol for the issuance of decentralized stablecoins backed by XLMs
+parent: null
+description: Debt issuance protocol for the issuance of decentralized stablecoins backed by XLMs.
 links:
   website:
     - fxdao.io
@@ -12,7 +11,7 @@ links:
     - fxdao_io
   linkedin: []
   discord:
-    - discord.gg/Ftrx9X6YRk
+    - discord.gg/ftrx9x6yrk
   telegram: []
   youtube: []
   instagram: []
@@ -20,7 +19,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/FxDAO
+    - github.com/fxdao
 attributes:
   category: Financial Protocols
   tags:
@@ -30,20 +29,20 @@ attributes:
     - Chile
   based_in: Marshall Islands
 scf:
-  awarded_total: 224800
   awarded_round:
     - 13
     - Liquidity Award - '24 Q1
     - Liquidity Award - '25 Q3
+  awarded_total: 224800
   submission_urls:
     - communityfund.stellar.org/submissions/recAC4HtF0qVZ5yww
     - communityfund.stellar.org/submissions/recCl9v9hyKV0qs8F
     - communityfund.stellar.org/submissions/rec95qhUPvuRiCCFQ
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: Security Audit Report FxDAO
       url: sorobansecurity.com/report/18
       date: '2024-05-16T15:00:00Z'
       auditor: Runtime Verification
+  tokens: []
+  contracts: []

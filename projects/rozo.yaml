@@ -2,8 +2,7 @@ title: Rozo
 other_names:
   - ROZO - One Tap to Pay
 parent: null
-description: |
-  ROZO simplifies crypto-native payments to just 1 tap by providing an intent-based API. Crypto is a more efficient form of money, but using it in everyday life is still too complicated — you have to choose a wallet, a token, and a chain. We simplify this through intent abstraction and integration with hardware and agents, making payments possible with just one tap or click.
+description: ROZO simplifies crypto-native payments to just 1 tap by providing an intent-based API. Crypto is a more efficient form of money, but using it in everyday life is still too complicated — you have to choose a wallet, a token, and a chain. We simplify this through intent abstraction and integration with hardware and agents, making payments possible with just one tap or click.
 links:
   website:
     - rozo.ai
@@ -13,7 +12,7 @@ links:
   linkedin:
     - linkedin.com/company/rozoai
   discord:
-    - discord.gg/9NXS7VPE
+    - discord.gg/efwejgtbuu
   telegram: []
   youtube: []
   instagram: []
@@ -30,12 +29,12 @@ attributes:
     - North America (without Mexico)
   based_in: United States
 scf:
-  awarded_total: 150000
   awarded_round:
     - 38
+  awarded_total: 150000
   submission_urls:
     - communityfund.stellar.org/submissions/rec5Y2MKyAzTJ6flK
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

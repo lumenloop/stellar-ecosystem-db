@@ -1,7 +1,7 @@
 title: SWPLUG
 other_names: null
 parent: null
-description: A WooCommerce plugin designed to integrate the Stellar blockchain into WordPress websites, enabling seamless cryptocurrency payments and transactions.A WooCommerce plugin designed to integrate the Stellar blockchain into WordPress websites, enabling seamless cryptocurrency payments and transactions.
+description: A WooCommerce plugin designed to integrate the Stellar blockchain into WordPress websites, enabling seamless cryptocurrency payments and transactions.
 links:
   website:
     - swplug.com
@@ -25,12 +25,12 @@ attributes:
     - earth
   based_in: earth
 scf:
-  awarded_total: null
   awarded_round:
     - 1
+  awarded_total: null
   submission_urls:
     - communityfund.stellar.org/submissions/rec8qIbuHeFZl2XVL
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

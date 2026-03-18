@@ -2,8 +2,7 @@ title: Stellars Finance
 other_names:
   - 'Stellars Finance: Cross-Chain Perpetuals'
 parent: null
-description: |
-  Stellars Finance is a decentralized perpetual trading protocol built on Soroban, leveraging synthetic assets to enable users to trade any asset even if it doesn’t exist natively on the Stellar network. By minting and settling trades in synthetic representations of real or digital assets, Stellars Finance removes cross-chain friction and brings global market access to Stellar users.  Using Soroban smart contracts, Stellars Finance ensures transparent margining, liquidation, and oracle-based price feeds, all within Stellar’s fast, low-cost environment.  Beyond trading, our architecture supports cross-chain interoperability, allowing users to open leveraged positions on assets from Ethereum, Bitcoin, or other ecosystems without leaving Stellar. This is achieved through synthetic derivatives that mirror real-world prices and maintain on-chain collateral stability.  By combining Soroban’s secure contract layer with synthetic asset mechanisms, Stellars Finance aims to make advanced derivatives trading accessible to everyone, not just sophisticated traders. Our mission is to expand Stellar’s DeFi landscape, positioning it as a hub for global, borderless, and permissionless financial products.
+description: Decentralized perpetual trading protocol on Stellar, offering leveraged futures trading with on-chain settlement and liquidity pools.
 links:
   website:
     - stellars.finance
@@ -29,12 +28,12 @@ attributes:
     - Latin America & Caribbean
   based_in: Germany
 scf:
-  awarded_total: 119300
   awarded_round:
     - 40
+  awarded_total: 119300
   submission_urls:
     - communityfund.stellar.org/submissions/reczPDg8Pju5sFGLB
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

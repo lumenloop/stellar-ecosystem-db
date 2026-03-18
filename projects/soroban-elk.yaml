@@ -3,8 +3,7 @@ other_names:
   - Stellar Command Insights
   - Soroban Command Insights
 parent: null
-description: |
-  A real-time monitoring and visualization system for Soroban CLI commands on the Stellar network, powered by the ELK stack.
+description: A real-time monitoring and visualization system for Soroban CLI commands on the Stellar network, powered by the ELK stack.
 links:
   website:
     - voluble-fairy-844611.netlify.app
@@ -13,14 +12,14 @@ links:
   linkedin: []
   discord: []
   telegram: []
-  youtube: []
+  youtube:
+    - youtube.com/watch?v=evth0tbngls
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/SalihToruner/Soroban-ELK
-    - github.com/bytemaster333/Soroban-ELK
+    - github.com/bytemaster333/soroban-elk
 attributes:
   category: Developer Tooling
   tags:
@@ -29,10 +28,10 @@ attributes:
   operating_region: []
   based_in: Turkey
 scf:
-  awarded_total: null
   awarded_round: []
+  awarded_total: null
   submission_urls: []
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

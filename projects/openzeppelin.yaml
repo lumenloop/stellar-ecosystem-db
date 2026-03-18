@@ -27,8 +27,6 @@ attributes:
   operating_region: []
   based_in: United States
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: Stellar Contracts Library 0.1.0 Audit
       url: sorobansecurity.com/report/2
@@ -38,3 +36,5 @@ mainnet:
       url: sorobansecurity.com/report/35
       date: '2025-07-09T15:00:00Z'
       auditor: OpenZeppelin
+  tokens: []
+  contracts: []

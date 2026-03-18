@@ -1,9 +1,8 @@
 title: SAW
 other_names:
   - Formal VerSo
-parent: Galois
-description: |
-  A semi-automated tool for Formal Verification of Soroban contracts using the Software Analysis Workbench (SAW)
+parent: null
+description: A semi-automated tool for Formal Verification of Soroban contracts using the Software Analysis Workbench (SAW).
 links:
   website:
     - saw.galois.com
@@ -18,7 +17,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/GaloisInc/formal-verso
+    - github.com/galoisinc/formal-verso
 attributes:
   category: Developer Tooling
   tags:
@@ -30,16 +29,16 @@ attributes:
   operating_region: []
   based_in: United States
 scf:
-  awarded_total: 249700
   awarded_round:
     - 20
     - 23
     - 27
+  awarded_total: 249700
   submission_urls:
     - communityfund.stellar.org/submissions/recSrr56oFNwtem56
     - communityfund.stellar.org/submissions/recY8VYgnjVw1jIBz
     - communityfund.stellar.org/submissions/recWlKfh0BaVkHuXD
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

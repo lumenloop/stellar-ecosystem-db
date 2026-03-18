@@ -1,26 +1,26 @@
 title: Honeycoin
 other_names:
   - 'Peer: Flights on Stellar'
-  - Peer
+  - Peer (by Honeycoin)
 parent: null
-description: |
-  Peer by HoneyCoin is a global, non-custodial financial super app made for the general public and primarily built on Stellar.
+description: Peer by HoneyCoin is a global, non-custodial financial super app made for the general public and primarily built on Stellar.
 links:
   website:
-    - usepeer.co
-    - honeycoin.app/peer
+    - honeycoin.app
   blog: []
   x:
     - honeycoinapp
-  linkedin: []
+  linkedin:
+    - linkedin.com/company/67899570
   discord: []
   telegram: []
   youtube:
     - youtube.com/@honeycoinapp
   instagram:
-    - honeycoinapp
+    - peerwallet.hc
   reddit: []
-  tiktok: []
+  tiktok:
+    - peerwallet_
   linktree: []
   github: []
 attributes:
@@ -38,10 +38,10 @@ attributes:
     - Kenya
   based_in: Kenya
 scf:
-  awarded_total: null
   awarded_round: []
+  awarded_total: null
   submission_urls: []
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

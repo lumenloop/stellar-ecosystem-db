@@ -1,8 +1,7 @@
 title: Stellar Tip
 other_names: null
 parent: null
-description: |
-  Tipping for content creators and developers
+description: Tipping for content creators and developers.
 links:
   website:
     - chromewebstore.google.com/detail/stellar-tip/nofpjgocmncmlacjfnniilnckjbhmgdh
@@ -17,19 +16,19 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/MichaelxhJiang/stellar-tip
+    - github.com/michaelxhjiang/stellar-tip
 attributes:
   category: Applications
   tags: []
   operating_region: []
   based_in: null
 scf:
-  awarded_total: null
   awarded_round:
     - 4
+  awarded_total: null
   submission_urls:
     - communityfund.stellar.org/submissions/recLG9qWeD5OX4xTP
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

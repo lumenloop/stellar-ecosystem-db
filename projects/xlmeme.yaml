@@ -6,9 +6,9 @@ description: XL is a multichain memepad platform that enables users to launch me
 links:
   website:
     - xlmeme.com
-    - xl.fun
   blog: []
   x:
+    - xldotfun
     - xlmemecom
   linkedin: []
   discord: []
@@ -25,6 +25,6 @@ attributes:
   operating_region: []
   based_in: null
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

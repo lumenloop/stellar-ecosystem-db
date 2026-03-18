@@ -6,7 +6,8 @@ links:
   website:
     - benjiinvestments.com
   blog: []
-  x: []
+  x:
+    - fti_da
   linkedin: []
   discord: []
   telegram: []
@@ -22,6 +23,6 @@ attributes:
   operating_region: []
   based_in: null
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

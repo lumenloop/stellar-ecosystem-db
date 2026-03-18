@@ -1,7 +1,7 @@
 title: CodeLnPay
 other_names: null
-parent: CodeLn
-description: "CodeLnPay offers cross-border salary payments to help African-based remote workers seamlessly collect their income.\_\n"
+parent: null
+description: CodeLnPay offers cross-border salary payments to help African-based remote workers seamlessly collect their income.
 links:
   website:
     - pay.codeln.com
@@ -14,14 +14,13 @@ links:
   discord: []
   telegram: []
   youtube:
-    - youtube.com/channel/UCJc8rd10wkhX2c1Htg4aF0Q
-  instagram:
-    - codeln_spaces
+    - youtube.com/channel/ucjc8rd10wkhx2c1htg4af0q
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/CodelnGhana/codelnpay-project
+    - github.com/codelnghana/codelnpay-project
 attributes:
   category: Applications
   tags:
@@ -32,14 +31,14 @@ attributes:
     - Nigeria
   based_in: Nigeria
 scf:
-  awarded_total: 128023
   awarded_round:
     - 25
     - 33
+  awarded_total: 128023
   submission_urls:
     - communityfund.stellar.org/submissions/reco3cXFlyDt53B0u
     - communityfund.stellar.org/submissions/rec5hY727ovjmxujE
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

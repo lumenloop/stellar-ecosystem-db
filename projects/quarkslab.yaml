@@ -13,7 +13,7 @@ links:
   discord: []
   telegram: []
   youtube:
-    - youtube.com/channel/UC9pmXUZLuOr1d90rsf8zesw
+    - youtube.com/channel/uc9pmxuzluor1d90rsf8zesw
   instagram: []
   reddit: []
   tiktok: []
@@ -28,6 +28,6 @@ attributes:
   operating_region: []
   based_in: Argentina
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

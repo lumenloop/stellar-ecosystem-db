@@ -1,12 +1,10 @@
 title: Stellar Battle
 other_names: null
 parent: null
-description: |
-  Win community funded prizes
+description: Stellar Battle is a community-driven platform where participants can win prizes by engaging in competitions focused on content creation, technical development, and brainstorming, all aimed at enhancing the Stellar ecosystem.
 links:
   website:
     - stellarbattle.com
-    - galactictalk.org/d/2237-stellar-battle-win-community-funded-prizes
   blog: []
   x:
     - stellarbattle
@@ -25,12 +23,12 @@ attributes:
   operating_region: []
   based_in: Netherlands
 scf:
-  awarded_total: null
   awarded_round:
     - 3
+  awarded_total: null
   submission_urls:
     - communityfund.stellar.org/submissions/rec8ayEkTa0W6PBNr
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

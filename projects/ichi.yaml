@@ -1,9 +1,8 @@
 title: Ichi
 other_names:
   - Solo Labs
-parent: Solo Labs
-description: |
-  Solo Labs will bring sustainable liquidity strategies to the Stellar Ecosystem through the ICHI Automated Liquidity Manager.
+parent: null
+description: ICHI offers automated liquidity strategies for DeFi, enabling users to grow any token with low-slippage, on-chain liquidity.
 links:
   website:
     - ichi.org
@@ -13,7 +12,7 @@ links:
     - ichifoundation
   linkedin: []
   discord:
-    - discord.gg/cxPGjGTy8V
+    - discord.gg/cxpgjgty8v
   telegram:
     - t.me/ichifarm
   youtube: []
@@ -30,12 +29,12 @@ attributes:
     - United States
   based_in: United States
 scf:
-  awarded_total: 50000
   awarded_round:
     - 26
+  awarded_total: 50000
   submission_urls:
     - communityfund.stellar.org/submissions/rec9s1IHbpcWxvlX6
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

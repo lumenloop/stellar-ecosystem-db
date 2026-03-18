@@ -2,20 +2,18 @@ title: Pretium
 other_names:
   - Pretium Finance
 parent: null
-description: |
-  Revolutionizing African cross-border payments and integrating cryptocurrencies into the economic value chain.
+description: Revolutionizing African cross-border payments and integrating cryptocurrencies into the economic value chain.
 links:
   website:
     - pretium.africa
   blog: []
   x:
-    - pretium_app
+    - pretiumapp
   linkedin:
     - linkedin.com/company/pretium-finance
-    - linkedin.com/in/derrick-bundi
   discord: []
   telegram:
-    - t.me/+l8T7_l56oy0xYzA0
+    - t.me/+-8nyvglheghkzja0
   youtube: []
   instagram: []
   reddit: []
@@ -29,12 +27,12 @@ attributes:
   operating_region: []
   based_in: Kenya
 scf:
-  awarded_total: 10000
   awarded_round:
     - 26
+  awarded_total: 10000
   submission_urls:
     - communityfund.stellar.org/submissions/rec5qqmSTk1OR3njh
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

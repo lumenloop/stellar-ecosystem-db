@@ -1,8 +1,7 @@
 title: Cartwey
 other_names: null
 parent: null
-description: |
-  Cartwey is a Stellar-powered self-checkout solution for retailers and shoppers, enabling fast, secure, and contactless payments with credit cards, mobile wallets, and stablecoins
+description: Cartwey is a Stellar-powered self-checkout solution for retailers and shoppers, enabling fast, secure, and contactless payments with credit cards, mobile wallets, and stablecoins.
 links:
   website:
     - cartwey.com
@@ -18,7 +17,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/Cartwey001/cartwey-app
+    - github.com/cartwey001/cartwey-app
 attributes:
   category: Applications
   tags: []
@@ -32,12 +31,12 @@ attributes:
     - Sub-Saharan Africa
   based_in: Nigeria
 scf:
-  awarded_total: 60000
   awarded_round:
     - 38
+  awarded_total: 60000
   submission_urls:
     - communityfund.stellar.org/submissions/recn3EljVL01RnFJ9
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

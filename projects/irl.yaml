@@ -1,19 +1,20 @@
 title: IRL
 other_names: null
 parent: null
-description: |
-  IRL: A Global Loyalty Layer for Culture - IRL is building a decentralized loyalty platform that rewards people for showing up in real life — at clubs, galleries, festivals, and cultural venues. By blending check-ins, perks, and onchain identity, IRL enables users to earn rewards and tokens simply by participating in culture. Our vision is to create a global cultural graph that connects attendance with long-term value, using blockchain to turn presence into proof — and proof into perks.  With Stellar, IRL will launch the next phase of its ecosystem by integrating Stellar-based payment rails and token rewards into the IRL dApp. This will allow users around the world to claim perks, earn loyalty points, and eventually receive token-based incentives using fast, affordable, and globally accessible infrastructure.  Our technical implementation involves issuing IRL Points via check-in events, quests, and community campaigns — and enabling those points to be redeemed for perks backed by Stellar-native assets (USDC or $IRL token). A lightweight backend layer will support wallet creation, identity-linked check-ins, and a reward engine for automated redemption. Partners such as venues, festivals, and brands will access a dashboard that allows them to issue and track rewards, creating a scalable, community-led flywheel.  This initiative will drive Stellar adoption through tens of thousands of culturally engaged users, while proving out real-world loyalty applications for onchain incentives. With support from the Stellar Community Fund, IRL will activate new cities, onboard creators and venues, and demonstrate the power of culture as an onramp to Web3.
+description: Global loyalty layer for culture, enabling brands and venues to issue blockchain-backed rewards and collectibles on Stellar.
 links:
   website:
     - irl.energy
   blog: []
   x:
-    - refractiondao
+    - refraction_irl
   linkedin: []
   discord: []
-  telegram: []
+  telegram:
+    - t.me/irlnetwork
   youtube: []
-  instagram: []
+  instagram:
+    - refraction_irl
   reddit: []
   tiktok: []
   linktree: []
@@ -25,12 +26,12 @@ attributes:
   operating_region: []
   based_in: Canada
 scf:
-  awarded_total: 137000
   awarded_round:
     - 38
+  awarded_total: 137000
   submission_urls:
     - communityfund.stellar.org/submissions/recL4aQ2cvJ6cIOW5
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

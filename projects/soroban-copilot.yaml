@@ -1,7 +1,7 @@
 title: Soroban Copilot
 other_names: null
-parent: Script3
-description: Collection of no_std Rust packages focused on making Soroban development easier.Collection of no_std Rust packages focused on making Soroban development easier.
+parent: null
+description: Collection of no_std Rust packages focused on making Soroban development easier.
 links:
   website:
     - github.com/mootz12/soroban-copilot
@@ -23,6 +23,6 @@ attributes:
   operating_region: []
   based_in: null
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

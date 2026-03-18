@@ -2,7 +2,7 @@ title: Blox
 other_names:
   - Bank2Bit
 parent: null
-description: "Developing a user-friendly fiat-to-crypto platform for seamless converting between LATAM fiat and stellar listed assets.\_\_\n"
+description: Developing a user-friendly fiat-to-crypto platform for seamless converting between LATAM fiat and stellar listed assets.
 links:
   website:
     - blox.global
@@ -27,12 +27,12 @@ attributes:
     - United States
   based_in: United States
 scf:
-  awarded_total: 48000
   awarded_round:
     - 20
+  awarded_total: 48000
   submission_urls:
     - communityfund.stellar.org/submissions/recZRSwovS4aApiHA
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,8 +1,7 @@
 title: Borderless
 other_names: null
 parent: null
-description: |
-  An API solution enabling financial institutions in remittance-receiving countries to onboard overseas customers and their funds.
+description: Borderless empowers migrant workers and financial institutions by using Stellar's blockchain and stablecoins to enable instant, low-cost, real-time remittances through an API that seamlessly connects local payment rails globally.
 links:
   website:
     - borderlesspayments.xyz
@@ -17,21 +16,21 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/Borderless-Payments
+    - github.com/borderless-payments
 attributes:
   category: Applications
   tags: []
   operating_region: []
   based_in: Spain
 scf:
-  awarded_total: 125500
   awarded_round:
     - 20
     - 22
+  awarded_total: 125500
   submission_urls:
     - communityfund.stellar.org/submissions/rec32utFP3jR18fr7
     - communityfund.stellar.org/submissions/recWsJsebcTT9zF3Q
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

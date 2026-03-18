@@ -1,8 +1,7 @@
 title: Soroban Explorer
 other_names: null
 parent: null
-description: |
-  Soroban Explorer will allow all users on Stellar to validate the underlying code behind smart contracts on the protocol, increasing transparency, trust, and ultimately adoption of the Stellar network.  To enable this reality, our team will build the underlying functionality to compile source code and the interface that allows users to interact with the explorer.  Our proposal would address a critical need, verifying the underlying code behind smart contracts in the Stellar ecosystem, for users across Stellar.  The envisioned solution would be user-centric, with a clear output to users with a streamlined user interface that is designed to enhance existing user journeys across the Stellar ecosystem.
+description: Block explorer enabling Stellar users to verify smart contract code, helping avoid malicious contracts and increasing transparency and adoption.
 links:
   website:
     - sorobanexp.com
@@ -26,14 +25,14 @@ attributes:
   operating_region: []
   based_in: United States
 scf:
-  awarded_total: 161000
   awarded_round:
     - 19
     - 23
+  awarded_total: 161000
   submission_urls:
     - communityfund.stellar.org/submissions/recB7Lz9t4Zl69bac
     - communityfund.stellar.org/submissions/rec85RVkmAjDXl8T5
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

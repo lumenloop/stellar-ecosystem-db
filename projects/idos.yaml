@@ -1,9 +1,8 @@
 title: idOS
 other_names:
-  - Identity Operating System
+  - Identity Operating System (idOS)
 parent: null
-description: |
-  The idOS is a decentralized identity and storage layer for user data. The idOS enables KYC re-usability in a compliant way. 
+description: The idOS is a decentralized identity and storage layer for user data. The idOS enables KYC re-usability in a compliant way.
 links:
   website:
     - idos.network
@@ -13,8 +12,10 @@ links:
   linkedin:
     - linkedin.com/company/idos-network
   discord: []
-  telegram: []
-  youtube: []
+  telegram:
+    - t.me/idos_community
+  youtube:
+    - youtube.com/@idos_network
   instagram: []
   reddit: []
   tiktok: []
@@ -41,10 +42,10 @@ attributes:
     - Latin America & Caribbean
   based_in: Portugal
 scf:
-  awarded_total: null
   awarded_round: []
+  awarded_total: null
   submission_urls: []
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

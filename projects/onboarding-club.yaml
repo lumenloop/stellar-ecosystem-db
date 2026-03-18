@@ -1,8 +1,7 @@
 title: OnBoarding Club
 other_names: null
 parent: null
-description: |
-  Onboarding builders across emerging ecosystems with a unified platform for resources, bounties, hackathons, jobs, grants and more.
+description: Onboarding builders across emerging ecosystems with a unified platform for resources, bounties, hackathons, jobs, grants and more.
 links:
   website:
     - onboarding.club
@@ -12,7 +11,7 @@ links:
   linkedin:
     - linkedin.com/company/onboarding-club
   discord:
-    - discord.gg/8JR6pBUYqw
+    - discord.gg/8jr6pbuyqw
   telegram: []
   youtube: []
   instagram: []
@@ -21,7 +20,6 @@ links:
   linktree: []
   github:
     - github.com/onboardingclub
-    - github.com/rishabhkeshan
 attributes:
   category: Education & Community
   tags:
@@ -32,14 +30,14 @@ attributes:
     - India
   based_in: India
 scf:
-  awarded_total: 121000
   awarded_round:
     - 21
     - 26
+  awarded_total: 121000
   submission_urls:
     - communityfund.stellar.org/submissions/reclZen7CJQgQeWDH
     - communityfund.stellar.org/submissions/recxmriAgwEaO7GwF
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

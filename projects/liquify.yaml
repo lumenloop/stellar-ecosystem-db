@@ -2,8 +2,7 @@ title: Liquify
 other_names:
   - Infrastructure Support Liquify
 parent: null
-description: |
-  Liquify wants to provide Stellar &amp; Soroban with long-term public RPC endpoints and archival support.
+description: Provide Stellar & Soroban with long-term public RPC endpoints and archival support.
 links:
   website:
     - liquify.com
@@ -15,7 +14,7 @@ links:
   discord: []
   telegram: []
   youtube:
-    - youtube.com/@LiquifyLTD
+    - youtube.com/@liquifyltd
   instagram: []
   reddit: []
   tiktok: []
@@ -29,12 +28,12 @@ attributes:
     - United Kingdom
   based_in: United Kingdom
 scf:
-  awarded_total: 12500
   awarded_round:
     - 27
+  awarded_total: 12500
   submission_urls:
     - communityfund.stellar.org/submissions/recwmnjnzr62St3sf
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

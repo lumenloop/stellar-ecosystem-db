@@ -1,8 +1,7 @@
 title: Triiyo
 other_names: null
 parent: null
-description: |
-  triiyo makes it easy for foreign employees to pay for well-being services back home
+description: Triiyo makes it easy for foreign employees to pay for well-being services back home.
 links:
   website:
     - triiyo.com
@@ -11,12 +10,10 @@ links:
     - hellotriiyo
   linkedin:
     - linkedin.com/company/triiyo
-    - linkedin.com/au.linkedin.com/company/triiyo
   discord: []
   telegram: []
   youtube: []
-  instagram:
-    - hellotriiyo
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -28,12 +25,12 @@ attributes:
     - Sydney, New South Wales
   based_in: Australia
 scf:
-  awarded_total: 50303
   awarded_round:
     - 22
+  awarded_total: 50303
   submission_urls:
     - communityfund.stellar.org/submissions/reciecXOCIKXi5Urb
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -2,8 +2,7 @@ title: Stellarchain
 other_names:
   - Stellarchain.io
 parent: null
-description: |
-  The StellarChain.Dev Community will be a platform for engaging stellar community members and creating new connection, introducing new features and functionalities while collecting data from the blockchain. This extension will provide additional tools and resources to further empower users, ensuring a more interactive, transparent, and efficient experience for all participants in the Stellar ecosystem.
+description: Stellar block explorer with Soroban smart contract analytics, auditing tools, and community engagement features.
 links:
   website:
     - stellarchain.io
@@ -19,7 +18,6 @@ links:
   linktree: []
   github:
     - github.com/stellarchain
-    - github.com/stellarchain/stellarchain-v3
 attributes:
   category: Infrastructure & Services
   tags:
@@ -29,16 +27,16 @@ attributes:
   operating_region: []
   based_in: Romania
 scf:
-  awarded_total: 240635
   awarded_round:
     - 19
     - 23
     - SCF Public Goods - Q1 '26
+  awarded_total: 240635
   submission_urls:
     - communityfund.stellar.org/submissions/receYuwM1ucRK5MB2
     - communityfund.stellar.org/submissions/recKACcbgfiocc06L
     - communityfund.stellar.org/submissions/rec0i3Zs35RSzaUz4
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

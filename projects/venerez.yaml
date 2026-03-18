@@ -1,8 +1,7 @@
 title: Venerez
 other_names: null
 parent: null
-description: |
-  Venerez is building the first programmable spend platform on Stellar to solve a fundamental gap in global finance: the lack of secure, compliant, and user-friendly tools for shared fund management in underserved and decentralized environments. By merging programmable smart wallets, role-based multi-signature approvals, policy-driven spending rules, and real-time analytics into a seamless, globally accessible platform. Venerez empowers teams, families, DAOs, and small businesses to control and track funds transparently without sacrificing usability or security.
+description: Programmable spend platform on Stellar enabling businesses to issue branded payment cards with built-in spending rules, rewards, and compliance controls.
 links:
   website:
     - venerez.com
@@ -18,19 +17,19 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/VenerezHugo
+    - github.com/venerezhugo
 attributes:
   category: Financial Protocols
   tags: []
   operating_region: []
   based_in: Bahamas
 scf:
-  awarded_total: 99675
   awarded_round:
     - 36
+  awarded_total: 99675
   submission_urls:
     - communityfund.stellar.org/submissions/recGS03TJ8IugLHDq
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

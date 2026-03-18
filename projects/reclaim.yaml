@@ -3,9 +3,7 @@ other_names:
   - Reclaim Protocol
   - 'zkFetch: zkTLS-Powered Oracle Solution'
 parent: null
-description: |+
-  zkFetch leverages zkTLS infrastructure to democratize and scale Stellar oracles by enabling fetching of any off-chain data from HTTPS endpoints while not exposing API keys. This enables a truly decentralized oracle infrastructure removing any dependency on centralized oracles such as Chainlink, Pyth etc. 
-
+description: Reclaim protocol uses https session keys to generate zk proofs of user's profiles, enabling verifiable credentials without APIs.
 links:
   website:
     - reclaimprotocol.org
@@ -18,7 +16,8 @@ links:
   discord: []
   telegram:
     - t.me/sriharshakaramchati
-  youtube: []
+  youtube:
+    - youtube.com/@reclaimprotocol
   instagram: []
   reddit: []
   tiktok: []
@@ -33,14 +32,14 @@ attributes:
     - India
   based_in: India
 scf:
-  awarded_total: 166000
   awarded_round:
     - 21
     - 36
+  awarded_total: 166000
   submission_urls:
     - communityfund.stellar.org/submissions/recIJqhn2HhQ0tIFu
     - communityfund.stellar.org/submissions/recI47989fX12SZ6m
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

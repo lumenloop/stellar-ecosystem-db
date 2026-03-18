@@ -1,8 +1,7 @@
 title: Hypernative
 other_names: null
 parent: null
-description: |
-  Market leader in hack prevention and real time monitoring detecting and preventing attacks on smart contracts before they happen.
+description: Market leader in hack prevention and real time monitoring detecting and preventing attacks on smart contracts before they happen.
 links:
   website:
     - hypernative.io
@@ -30,12 +29,12 @@ attributes:
     - United Kingdom
   based_in: Israel
 scf:
-  awarded_total: 50000
   awarded_round:
     - 26
+  awarded_total: 50000
   submission_urls:
     - communityfund.stellar.org/submissions/recwaqts19fQ3ZIU3
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,8 +1,7 @@
 title: ApiCharge
 other_names: null
 parent: null
-description: |
-  ApiCharge (ApiCharge.com) enables direct monetization and complex pricing control of APIs or other digital services, currently in Circle USD, Circle EUR and Stellar XLM. It has been under development for about a year and takes a different approach to x402 and its analogues, though with overlaps such as service discoverability and a marketplace. Unlike x402 which is a protocol and community toolset, ApiCharge requires (at minimum) zero code on the server side because it is a drop-in network component. As well as handling micropayments for per-call service access,  like x402 and others, ApiCharge allows stream access - directly rate limiting streamrate quality against price. It handles complex pricing scenarios by tying the purchased access and quality of service to a digitally signed purchase agreement, allowing flexible re-pricing without retroactively affecting prior subscriptions (like the recent Cursor debacle). It comes with a native desktop management app for B2B publication, on Linux, Windows and Mac, including a marketplace for desktop publication and consumption of services. This includes a native wallet based on Stellar. It uses Stellar Soroban for settling payment against readable JSON messages promising service access quality and micropayment batches.
+description: API monetization platform on Stellar enabling direct pay-per-call and streaming access for digital services, with Soroban-based payment settlement and a native desktop marketplace.
 links:
   website:
     - apicharge.com
@@ -18,7 +17,8 @@ links:
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/streamcharge/apicharge
 attributes:
   category: Infrastructure & Services
   tags: []
@@ -26,12 +26,12 @@ attributes:
     - Czech Republic
   based_in: Czech Republic
 scf:
-  awarded_total: 79000
   awarded_round:
     - 40
+  awarded_total: 79000
   submission_urls:
     - communityfund.stellar.org/submissions/recaRJgrsYwJUGSxZ
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

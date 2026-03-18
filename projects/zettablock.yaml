@@ -11,22 +11,23 @@ links:
     - zettablockhq
   linkedin:
     - linkedin.com/company/zettablockhq
-  discord: []
+  discord:
+    - discord.gg/zettablock
   telegram: []
   youtube:
-    - youtube.com/channel/UCZ7OYTGcXA93faGcmnyjTzw
+    - youtube.com/channel/ucz7oytgcxa93fagcmnyjtzw
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/Zettablock
+    - github.com/zettablock
 attributes:
   category: null
   tags: []
   operating_region: []
   based_in: United States
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

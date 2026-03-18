@@ -1,8 +1,7 @@
 title: Okashi
 other_names: null
 parent: null
-description: |
-  Okashi is an online smart contract developer playground.
+description: Okashi is an online smart contract developer playground.
 links:
   website:
     - okashi.dev
@@ -13,7 +12,7 @@ links:
   discord: []
   telegram: []
   youtube:
-    - youtube.com/channel/UC_7SPeL63_cqUHIMXRsNrmg
+    - youtube.com/channel/uc_7spel63_cquhimxrsnrmg
   instagram: []
   reddit: []
   tiktok: []
@@ -29,18 +28,18 @@ attributes:
     - Lithuania
   based_in: Lithuania
 scf:
-  awarded_total: 406800
   awarded_round:
     - 13
     - 15
     - 20
     - 24
+  awarded_total: 406800
   submission_urls:
     - communityfund.stellar.org/submissions/recrMvxb9uFph97RM
     - communityfund.stellar.org/submissions/recdmXC3u5HWsR7tq
     - communityfund.stellar.org/submissions/rec3E6adszfXUHoyR
     - communityfund.stellar.org/submissions/recqsmOiASUgtmDrI
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,8 +1,7 @@
 title: Skopa
 other_names: null
 parent: null
-description: |
-  Your money around the world in 3 clicks!
+description: Skopa is a financial platform that enables instant cross-border money transfers, digital wallet services, and prepaid Mastercard issuance, facilitating seamless global transactions for both individuals and businesses.
 links:
   website:
     - skopa.io
@@ -11,12 +10,10 @@ links:
     - skopaapp
   linkedin:
     - linkedin.com/company/skopa-app
-    - linkedin.com/in/silvina-saranz-216ba7143
   discord: []
   telegram: []
   youtube: []
-  instagram:
-    - skopaapp
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -30,12 +27,12 @@ attributes:
   operating_region: []
   based_in: Bolivia
 scf:
-  awarded_total: 37840
   awarded_round:
     - 20
+  awarded_total: 37840
   submission_urls:
     - communityfund.stellar.org/submissions/recagcYqPo0lfLMtO
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

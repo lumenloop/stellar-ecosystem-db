@@ -1,11 +1,10 @@
 title: SStream
 other_names: null
 parent: null
-description: |
-  Composable streaming payments on Soroban.
+description: Composable streaming payments on Soroban.
 links:
   website:
-    - github.com/rahimklaber/SStream
+    - github.com/rahimklaber/sstream
   blog: []
   x: []
   linkedin: []
@@ -17,19 +16,19 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/rahimklaber/SStream
+    - github.com/rahimklaber/sstream
 attributes:
   category: Developer Tooling
   tags: []
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 36000
   awarded_round:
     - 16
+  awarded_total: 36000
   submission_urls:
     - communityfund.stellar.org/submissions/recnfJhEt3t2QogUI
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

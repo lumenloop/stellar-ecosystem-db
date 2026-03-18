@@ -16,19 +16,19 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/mukmalone/AdaptiveGoalManagement
+    - github.com/mukmalone/adaptivegoalmanagement
 attributes:
   category: Developer Tooling
   tags: []
   operating_region: []
   based_in: Canada
 scf:
-  awarded_total: 5000
   awarded_round:
     - 9
+  awarded_total: 5000
   submission_urls:
     - communityfund.stellar.org/submissions/recyGPuk4TiBasCLl
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

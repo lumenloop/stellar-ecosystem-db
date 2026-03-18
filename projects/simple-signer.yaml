@@ -1,11 +1,9 @@
 title: Simple Signer
 other_names: null
-parent: Bigger
-description: |
-  A secure in-browser transaction signer
+parent: null
+description: A secure in-browser transaction signer that supports different stellar wallets.
 links:
   website:
-    - github.com/bigger-tech/simple-stellar-signer
     - github.com/fsodano/simple-stellar-signer
   blog: []
   x: []
@@ -26,12 +24,12 @@ attributes:
   operating_region: []
   based_in: Argentina
 scf:
-  awarded_total: 10000
   awarded_round:
     - 9
+  awarded_total: 10000
   submission_urls:
     - communityfund.stellar.org/submissions/recjPfbs3ntu7RyaZ
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

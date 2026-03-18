@@ -1,8 +1,7 @@
 title: Kryptos
 other_names: null
 parent: null
-description: |
-  Integrating Stellar Network and Ecosystem into Kryptos to help users and businesses to aggregate all their financial data and unlock access to an ecosystem of fintech applications and services built using the first-ever financial data standardization protocol in Web3.
+description: Comprehensive platform for cryptocurrency tax reporting, portfolio tracking, and DeFi analytics with Stellar network support.
 links:
   website:
     - kryptos.io
@@ -12,16 +11,18 @@ links:
     - kryptosconnect
   linkedin:
     - linkedin.com/company/hellokryptos
-  discord: []
+  discord:
+    - discord.gg/vzpvfbksrx
   telegram:
     - t.me/hellokryptos
-  youtube: []
+  youtube:
+    - youtube.com/@hellokryptos
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/Kryptoskatt
+    - github.com/kryptoskatt
 attributes:
   category: Developer Tooling
   tags:
@@ -35,12 +36,12 @@ attributes:
     - South Asia
   based_in: Sweden
 scf:
-  awarded_total: 35000
   awarded_round:
     - 30
+  awarded_total: 35000
   submission_urls:
     - communityfund.stellar.org/submissions/rec8oYbd5tHsa1sGc
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -14,7 +14,7 @@ links:
   discord: []
   telegram: []
   youtube:
-    - youtube.com/channel/UCr2zjP7do4gLGOR-WEi6psw
+    - youtube.com/channel/ucr2zjp7do4glgor-wei6psw
   instagram: []
   reddit: []
   tiktok: []
@@ -27,6 +27,6 @@ attributes:
   operating_region: []
   based_in: Switzerland
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

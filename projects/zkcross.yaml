@@ -3,8 +3,7 @@ other_names:
   - Stellar zkCrossDEX
   - zkCrossDEX
 parent: null
-description: |
-  zkCrossDEX enables seamless cross-chain liquidity transfers from leading EVM chains to Stellar with a single click.
+description: zkCrossDEX enables seamless cross-chain liquidity transfers from leading EVM chains to Stellar with a single click.
 links:
   website:
     - zkcross.network
@@ -17,16 +16,16 @@ links:
   discord:
     - discord.zkcross.network
   telegram:
-    - t.me/zkCrossNetwork
+    - t.me/zkcrossnetwork
   youtube:
-    - youtube.com/@zkCrossNetwork
+    - youtube.com/@zkcrossnetwork
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/zkCross-Network
-    - github.com/Dev-zkCross/SorobanContract_Stellar_zkCrossDex
+    - github.com/zkcross-network
+    - github.com/dev-zkcross/sorobancontract_stellar_zkcrossdex
 attributes:
   category: Financial Protocols
   tags:
@@ -37,22 +36,22 @@ attributes:
     - United Arab Emirates
   based_in: United Arab Emirates
 scf:
-  awarded_total: 250000
   awarded_round:
     - 25
     - 30
     - Liquidity Award - '24 Q1
     - Liquidity Award - '25 Q4
+  awarded_total: 250000
   submission_urls:
     - communityfund.stellar.org/submissions/recUhJNK7YD4XZNwm
     - communityfund.stellar.org/submissions/recYuJFv6edLrh6Bk
     - communityfund.stellar.org/submissions/recsPsmxE2ttQIDzh
     - communityfund.stellar.org/submissions/recxuRkvnvXjiF5Zw
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: Soroban zkCrossDex - ZKCross
       url: sorobansecurity.com/report/65
       date: '2025-09-15T04:11:35.789Z'
       auditor: Halborn
+  tokens: []
+  contracts: []

@@ -1,8 +1,7 @@
 title: StarLoom
 other_names: null
 parent: null
-description: |
-  First decentralized Launchpad on Stellar with SocioFi features, community quests and engagement tools with Soroban integration
+description: First decentralized Launchpad on Stellar with SocioFi features, community quests and engagement tools with Soroban integration.
 links:
   website:
     - starloom.io
@@ -24,12 +23,12 @@ attributes:
   operating_region: []
   based_in: Spain
 scf:
-  awarded_total: 45900
   awarded_round:
     - 26
+  awarded_total: 45900
   submission_urls:
     - communityfund.stellar.org/submissions/recFkcjDsQUBAKlma
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

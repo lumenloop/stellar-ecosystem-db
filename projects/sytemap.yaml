@@ -1,8 +1,7 @@
 title: Sytemap
 other_names: null
 parent: null
-description: |
-  Sytemap is building tokenized savings for property access in Africa, enabling underserved people—especially women—to own real estate with as little as $40 upfront and flexible 24-month payment plans.
+description: Sytemap uses map and NFT technology to make land buying in Africa simple, fast and scam-free. With Sytemap, land buyers can virtually inspect lands from any where, resever a plot and get their land documents in 20 minutes or less.
 links:
   website:
     - sytemap.com
@@ -34,12 +33,12 @@ attributes:
     - Sub-Saharan Africa
   based_in: Nigeria
 scf:
-  awarded_total: 35000
   awarded_round:
     - 29
+  awarded_total: 35000
   submission_urls:
     - communityfund.stellar.org/submissions/recW5iwiFOUUejYvP
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

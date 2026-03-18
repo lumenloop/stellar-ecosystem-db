@@ -1,14 +1,13 @@
 title: Tipper
 other_names: null
 parent: null
-description: |
-  TIPPER is the best way for creators to get tipped in USDC on Stellar. Tipper allows for Latin American influencers, artists and communities that want monetize their audience, get support from fans anywhere around the world, and convert their tips and earnings into Digital Dollars in an automatic revenue stream that content creators can withdraw whenever they want, receiving Dollars even when they do not have a Dollar account.
+description: TIPPER is the best way for creators to get tipped in USDC on Stellar. Tipper allows for Latin American influencers, artists and communities that want monetize their audience, get support from fans anywhere around the world, and convert their tips and earnings into Digital Dollars in an automatic revenue stream that content creators can withdraw whenever they want, receiving Dollars even when they do not have a Dollar account.
 links:
   website:
     - tipper.lat
   blog: []
   x:
-    - tippercreator
+    - tipper_lat
   linkedin:
     - linkedin.com/company/tippercreator
   discord: []
@@ -26,12 +25,12 @@ attributes:
     - Latin America & Caribbean
   based_in: Venezuela
 scf:
-  awarded_total: 70875
   awarded_round:
     - 37
+  awarded_total: 70875
   submission_urls:
     - communityfund.stellar.org/submissions/recKtzfBU1FqgeE2D
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,29 +1,25 @@
 title: Utoken
 other_names:
-  - Upesa
+  - Upesa (formerly utoken)
 parent: null
-description: |
-  Upesa is a digital wallet leveraging local stablecoin for everyday and cross-border payment.
+description: Utoken is a mobile app that enables users to pay for services like airtime, utilities, and subscriptions using stablecoins across multiple blockchain networks with instant settlement and no off-ramping fees.
 links:
   website:
-    - utoken.network
     - upesa.app
   blog: []
   x:
-    - utokenapp
     - upesahq
   linkedin:
-    - linkedin.com/company/utoken-app
+    - linkedin.com/company/upesa
   discord: []
   telegram:
-    - t.me/utokenApp
+    - t.me/upesaapp
   youtube: []
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/Utokens
     - github.com/utokens
 attributes:
   category: Applications
@@ -43,10 +39,10 @@ attributes:
     - North America (without Mexico)
   based_in: Nigeria
 scf:
-  awarded_total: null
   awarded_round: []
+  awarded_total: null
   submission_urls: []
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

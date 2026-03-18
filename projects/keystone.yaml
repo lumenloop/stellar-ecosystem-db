@@ -14,22 +14,21 @@ links:
   discord:
     - keyst.one/discord
   telegram:
-    - t.me/KeystoneWallet
+    - t.me/keystonewallet
   youtube:
-    - youtube.com/channel/UCaReIdawwYPPcyWGoNunF7g
+    - youtube.com/channel/ucareidawwyppcywgonunf7g
   instagram: []
-  reddit:
-    - r/KeystoneWallet
+  reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/KeystoneHQ
+    - github.com/keystonehq
 attributes:
   category: null
   tags: []
   operating_region: []
   based_in: United States
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

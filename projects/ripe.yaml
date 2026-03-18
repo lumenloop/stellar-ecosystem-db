@@ -1,15 +1,14 @@
 title: Ripe
 other_names: null
 parent: null
-description: |
-  Stellar anchor to GCash in the Philippines
+description: Ripe is a crypto payment platform that converts digital assets into local currencies, enabling seamless payments through existing e-wallet systems like GCash and PayNow across Southeast Asia.
 links:
   website:
     - ripe.money
   blog:
     - ripe.money/blog
   x:
-    - ripepayments
+    - paywithripe
   linkedin:
     - linkedin.com/company/ripemoney
   discord: []
@@ -31,12 +30,12 @@ attributes:
   operating_region: []
   based_in: Philippines
 scf:
-  awarded_total: 100000
   awarded_round:
     - 17
+  awarded_total: 100000
   submission_urls:
     - communityfund.stellar.org/submissions/reczm3NWCRztmpQAK
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

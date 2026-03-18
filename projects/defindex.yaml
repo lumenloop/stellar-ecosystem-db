@@ -1,20 +1,18 @@
 title: DeFindex
 other_names:
   - 'DeFindex: DeFi Made Easy'
-parent: Paltalabs
-description: |
-  ​DeFindex helps wallet providers to offer savings accounts to their users easily, through a diversified DeFi portfolio. Also, It allows advanced users to manage complex and diverse DeFi Strategies.
+parent: null
+description: ​DeFindex helps wallet providers to offer savings accounts to their users easily, through a diversified DeFi portfolio. Also, It allows advanced users to manage complex and diverse DeFi Strategies.
 links:
   website:
     - defindex.io
   blog: []
   x:
-    - paltalabs
     - defindex_
   linkedin:
-    - linkedin.com/company/paltalabs
+    - linkedin.com/company/defindex
   discord:
-    - discord.gg/CUC26qUTw7
+    - discord.gg/cuc26qutw7
   telegram: []
   youtube: []
   instagram: []
@@ -32,14 +30,14 @@ attributes:
     - Brazil
   based_in: Chile
 scf:
-  awarded_total: 150000
   awarded_round:
     - 28
     - 32
+  awarded_total: 150000
   submission_urls:
     - communityfund.stellar.org/submissions/recCmEL04rTflMaSX
     - communityfund.stellar.org/submissions/reci3pJoBT0YYPpSF
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

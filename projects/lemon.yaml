@@ -10,11 +10,12 @@ links:
     - lemonapp_ar
   linkedin:
     - linkedin.com/company/lemonlat
-  discord: []
+  discord:
+    - discord.gg/qeds4kjtmm
   telegram:
     - t.me/lemoncrypto
   youtube:
-    - youtube.com/c/LemonCashApp
+    - youtube.com/c/lemoncashapp
   instagram:
     - lemoncash.app
   reddit: []
@@ -28,6 +29,6 @@ attributes:
   operating_region: []
   based_in: Argentina
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,11 +1,9 @@
 title: Nebula
 other_names: null
-parent: Eiger
-description: |
-  Nebula a Soroban contract library, governance, modules and ready to use contracts. Quasar a Soroban indexer.
+parent: null
+description: Decentralized price feed oracle grid for Stellar DeFi smart contracts, supporting derivatives, lending, and asset management.
 links:
   website:
-    - nebula.eiger.co
     - eiger.co
   blog:
     - eiger.co/blog
@@ -29,12 +27,12 @@ attributes:
     - Finland
   based_in: Finland
 scf:
-  awarded_total: 149458
   awarded_round:
     - 18
+  awarded_total: 149458
   submission_urls:
     - communityfund.stellar.org/submissions/recYkjDsD5FKqcfy0
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

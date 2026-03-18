@@ -12,7 +12,8 @@ links:
   discord: []
   telegram: []
   youtube: []
-  instagram: []
+  instagram:
+    - dollarize_me
   reddit: []
   tiktok: []
   linktree: []
@@ -23,6 +24,6 @@ attributes:
   operating_region: []
   based_in: Mexico
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

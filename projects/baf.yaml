@@ -2,8 +2,7 @@ title: BAF
 other_names:
   - 'BAF: Summer of Stellar'
 parent: null
-description: |
-  Workshops, content, and tutorials, culminating in a Builders Retreat and demo day in the heart of the Bay Area.
+description: The Blockchain Acceleration Foundation (BAF) is a nonprofit organization promoting blockchain education by partnering with universities to establish courses, host hackathons, and facilitate career opportunities. BAF aims to accelerate blockchain adoption through community collaboration and academic research support.
 links:
   website:
     - blockchainacceleration.org
@@ -15,25 +14,25 @@ links:
   discord: []
   telegram: []
   youtube:
-    - youtube.com/channel/UClN34KJfDsCVRs8rJHXH_-A
+    - youtube.com/@blockchainaccelerationfoun1011
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github: []
 attributes:
-  category: Education & Community
+  category: Education
   tags: []
   operating_region:
     - Argentina
   based_in: United States
 scf:
-  awarded_total: 37500
   awarded_round:
     - 28
+  awarded_total: 37500
   submission_urls:
     - communityfund.stellar.org/submissions/recMMWmxb6Qfg3Lbx
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

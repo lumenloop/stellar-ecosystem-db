@@ -2,17 +2,16 @@ title: Apay
 other_names:
   - Apay.io
 parent: null
-description: Apay.io, also known as Papaya, was a cryptocurrency anchor on the Stellar network that enabled users to deposit and withdraw various cryptocurrencies—including Bitcoin (BTC), Ethereum (ETH), and ERC20 tokens—by issuing corresponding tokens on the Stellar networkApay.io, also known as Papaya, was a cryptocurrency anchor on the Stellar network that enabled users to deposit and withdraw various cryptocurrencies—including Bitcoin (BTC), Ethereum (ETH), and ERC20 tokens—by issuing corresponding tokens on the Stellar network.
+description: Apay.io, also known as Papaya, was a cryptocurrency anchor on the Stellar network that enabled users to deposit and withdraw various cryptocurrencies—including Bitcoin (BTC), Ethereum (ETH), and ERC20 tokens—by issuing corresponding tokens on the Stellar network.
 links:
   website:
     - apay.io
-    - galactictalk.org/d/2297-papaya-anchor-apay-io
   blog: []
   x: []
   linkedin: []
   discord: []
   telegram:
-    - t.me/PapayaFeedback
+    - t.me/papayafeedback
   youtube: []
   instagram: []
   reddit: []
@@ -26,12 +25,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: null
   awarded_round:
     - 4
+  awarded_total: null
   submission_urls:
     - communityfund.stellar.org/submissions/recEs9206olVJrm5i
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,8 +1,7 @@
 title: Stellar AI Agent Kit
 other_names: null
 parent: null
-description: |
-  [DEVELOPER TOOLING] What if every Stellar smart contract was instantly AI-accessible? We are creating the Stellar AI Agent Kit — a full-stack developer toolkit that enables AI Agents to securely interact with Stellar accounts, Soroban smart contracts, and Stellar assets. Through a combination of a CLI generator for MCP server bindings, a Policy Signer Generator CLI, a Policy Signer Sandbox, and a lightweight npm SDK, we aim to make Stellar the first blockchain ecosystem with native, secure, agent-based integrations following the new Model Context Protocol (MCP) standard adopted by Anthropic, OpenAI, and Google.
+description: Developer toolkit enabling AI agents to interact with Stellar smart contracts, providing MCP integration and CLI tools for automated on-chain operations.
 links:
   website:
     - stellarsandbox.dev
@@ -11,25 +10,27 @@ links:
   linkedin: []
   discord: []
   telegram: []
-  youtube: []
+  youtube:
+    - youtube.com/watch?v=8u84duwxc-4
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/JoseCToscano/stellar-mcp
+    - github.com/josectoscano/stellar-cli
+    - github.com/josectoscano/stellar-mcp
 attributes:
   category: Developer Tooling
   tags: []
   operating_region: []
   based_in: United States
 scf:
-  awarded_total: 108000
   awarded_round:
     - 37
+  awarded_total: 108000
   submission_urls:
     - communityfund.stellar.org/submissions/recmbfFnpx6eVThqw
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

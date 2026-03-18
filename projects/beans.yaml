@@ -2,8 +2,7 @@ title: Beans
 other_names:
   - Beans app
 parent: null
-description: |
-  Beans is a non-custodial payments and savings app built on Stellar. Most blockchain based apps have targeted the crypto community. We have taken a different approach and will target the general public. Inside the app all blockchain-related things have been abstracted away, offering a bank experience using blockchain technology! We are aiming to be the first app to get significant traction on blockchain payments! 
+description: Beans is a non-custodial payments and savings app built on the Stellar blockchain, designed to provide the general public with a seamless banking experience that leverages blockchain technology. By abstracting complex blockchain elements, Beans offers instant, free, and secure international money transfers, currency conversions at competitive rates and savings accounts.
 links:
   website:
     - beansapp.com
@@ -14,19 +13,18 @@ links:
   linkedin:
     - linkedin.com/company/beans-bv
   discord:
-    - discord.gg/GPaNsZrcdP
-    - beansapp.medium.com
+    - discord.gg/gpanszrcdp
   telegram:
-    - t.me/Wearebeansapp
+    - t.me/wearebeansapp
   youtube:
-    - youtube.com/channel/UC8Mx-J82Wms0EDBYTDfuIBw
+    - youtube.com/@beansapp
   instagram:
     - beansapp_
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/Beans-BV
+    - github.com/beans-bv
 attributes:
   category: Applications
   tags:
@@ -39,18 +37,18 @@ attributes:
     - Netherlands
   based_in: Netherlands
 scf:
-  awarded_total: 490160
   awarded_round:
     - 10
     - 15
     - 21
     - 29
+  awarded_total: 490160
   submission_urls:
     - communityfund.stellar.org/submissions/reclezdtsxQM16L25
     - communityfund.stellar.org/submissions/recoZCxDJu6l9Sy9S
     - communityfund.stellar.org/submissions/recCm6EsKKmPbx6ow
     - communityfund.stellar.org/submissions/recl9kp1khhJSoxKF
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

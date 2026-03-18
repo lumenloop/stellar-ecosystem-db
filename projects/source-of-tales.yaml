@@ -1,13 +1,13 @@
 title: Source of Tales
 other_names: null
 parent: null
-description: |
-  Own your virtual self in a friendly retro world.
+description: Own your virtual self in a friendly retro world.
 links:
   website:
     - sourceoftales.org/stellar
   blog: []
-  x: []
+  x:
+    - thorbjorn81
   linkedin: []
   discord: []
   telegram: []
@@ -30,12 +30,12 @@ attributes:
   operating_region: []
   based_in: Germany
 scf:
-  awarded_total: 7500
   awarded_round:
     - 10
+  awarded_total: 7500
   submission_urls:
     - communityfund.stellar.org/submissions/recMAwrPuhoeSNk05
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

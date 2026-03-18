@@ -12,23 +12,23 @@ links:
   linkedin:
     - linkedin.com/company/space-and-time-db
   discord:
-    - discord.gg/spaceandtimeDB
+    - discord.gg/spaceandtimedb
   telegram:
     - t.me/spaceandtimedb
   youtube:
-    - youtube.com/channel/UCXJyE7ahmqCH11aO7L76PBA
+    - youtube.com/channel/ucxjye7ahmqch11ao7l76pba
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/SxT-Community
+    - github.com/sxt-community
 attributes:
   category: null
   tags: []
   operating_region: []
   based_in: null
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

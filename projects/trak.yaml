@@ -1,16 +1,15 @@
 title: TRAK
 other_names:
   - Ayadee TRAK
-parent: Ayadee
-description: |
-  Record product's path through the supply chain on every step from factory to retail purchase
+parent: null
+description: Record product's path through the supply chain on every step from factory to retail purchase.
 links:
   website:
     - trak.id
-    - ayadee.io
   blog: []
   x: []
-  linkedin: []
+  linkedin:
+    - linkedin.com/in/peterjohnson/,https://www.linkedin.com/in/matthew-walker-16384a20/,https://www.linkedin.com/in/salvador-deleon/,https://www.linkedin.com/in/marie-lend%c4%9blov%c3%a1-634561143
   discord: []
   telegram: []
   youtube: []
@@ -25,12 +24,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 16737.09
   awarded_round:
     - 6
+  awarded_total: 16737.09
   submission_urls:
     - communityfund.stellar.org/submissions/recJBwJZzLVSH5ppK
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

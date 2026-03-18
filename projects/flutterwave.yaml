@@ -13,8 +13,10 @@ links:
     - linkedin.com/company/flutterwave
   discord: []
   telegram: []
-  youtube: []
-  instagram: []
+  youtube:
+    - youtube.com/channel/ucbiabiysvyppfiiqp9cv-zq
+  instagram:
+    - theflutterwave
   reddit: []
   tiktok: []
   linktree: []
@@ -26,6 +28,6 @@ attributes:
   operating_region: []
   based_in: Nigeria
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,9 +1,8 @@
 title: Verseprop
 other_names:
   - A real estate tokenization platform
-parent: The Brookes Project
-description: |
-  Verseprop is a commercial real estate tokenization platform, headquartered in London.  It is operational, regulated and revenue producing, having launched in September 2024. It makes real estate debt and equity accessible; faster, more efficiently, and more transparently than traditional Companies.
+parent: null
+description: Verseprop is a commercial real estate tokenization platform, headquartered in London.  It is operational, regulated and revenue producing, having launched in September 2024. It makes real estate debt and equity accessible; faster, more efficiently, and more transparently than traditional Companies.
 links:
   website:
     - verseprop.com
@@ -20,8 +19,8 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/The-Brookes-Project
-    - github.com/The-Brookes-Project/soroban-sc
+    - github.com/the-brookes-project
+    - github.com/the-brookes-project/soroban-sc
 attributes:
   category: Applications
   tags:
@@ -36,12 +35,12 @@ attributes:
     - Middle East & North Africa
   based_in: United Kingdom
 scf:
-  awarded_total: 112020
   awarded_round:
     - 33
+  awarded_total: 112020
   submission_urls:
     - communityfund.stellar.org/submissions/recXjdDQL2sk7HNKx
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

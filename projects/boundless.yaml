@@ -1,8 +1,7 @@
 title: Boundless
 other_names: null
 parent: null
-description: |
-  Boundless is a Web3 platform built on the Stellar blockchain that manages and oversees funding activities such as crowdfunding, grants, and hackathons.  Our mission is simple: make funding, building, and collaboration in Web3 more open, accountable, and rewarding.  What makes Boundless unique is its milestone-based fund disbursement powered by the TrustlessWork API. 
+description: 'Boundless is a Web3 platform built on the Stellar blockchain that manages and oversees funding activities such as crowdfunding, grants, and hackathons.  Our mission is simple: make funding, building, and collaboration in Web3 more open, accountable, and rewarding.  What makes Boundless unique is its milestone-based fund disbursement powered by the TrustlessWork API.'
 links:
   website:
     - boundlessfi.xyz
@@ -12,8 +11,9 @@ links:
   linkedin:
     - linkedin.com/company/boundlesshq
   discord:
-    - discord.gg/f9WTkRcp
-  telegram: []
+    - discord.gg/boundlessfi
+  telegram:
+    - t.me/boundlessfi
   youtube: []
   instagram: []
   reddit: []
@@ -28,12 +28,12 @@ attributes:
     - Nigeria
   based_in: Nigeria
 scf:
-  awarded_total: 110000
   awarded_round:
     - 40
+  awarded_total: 110000
   submission_urls:
     - communityfund.stellar.org/submissions/recfC78Xt0enJyMa3
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

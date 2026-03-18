@@ -1,8 +1,7 @@
 title: PipeOps
 other_names: null
 parent: null
-description: |
-  PipeOps is a cloud Infrastructure product that allows for devs to deploy, automate, manage and scale their cloud Operations easily.
+description: PipeOps is a cloud Infrastructure product that allows for devs to deploy, automate, manage and scale their cloud Operations easily.
 links:
   website:
     - pipeops.io
@@ -13,7 +12,7 @@ links:
   linkedin:
     - linkedin.com/company/pipeops
   discord:
-    - discord.gg/PQscGtfFD2
+    - discord.gg/pqscgtffd2
   telegram: []
   youtube: []
   instagram: []
@@ -22,7 +21,7 @@ links:
   linktree: []
   github:
     - github.com/pipeops-dev
-    - github.com/PipeOpsHQ
+    - github.com/pipeopshq
 attributes:
   category: Infrastructure & Services
   tags:
@@ -35,12 +34,12 @@ attributes:
     - Nigeria
   based_in: Nigeria
 scf:
-  awarded_total: 48000
   awarded_round:
     - 25
+  awarded_total: 48000
   submission_urls:
     - communityfund.stellar.org/submissions/recpCRmHBSmkdBEr9
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,8 +1,7 @@
 title: DEB
 other_names: null
 parent: null
-description: |
-  Ride-share app
+description: Ride-share app.
 links:
   website:
     - demo.drivedeb.com
@@ -23,12 +22,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 653.09
   awarded_round:
     - 6
+  awarded_total: 653.09
   submission_urls:
     - communityfund.stellar.org/submissions/recZLr4loEBkuuARn
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

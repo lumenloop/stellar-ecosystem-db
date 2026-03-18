@@ -1,11 +1,10 @@
 title: Stellar Update
 other_names: null
 parent: null
-description: |
-  Dedicated Blog about everything Stellar
+description: Dedicated Blog about everything Stellar.
 links:
   website:
-    - StellarUpdate.com
+    - stellarupdate.com
   blog: []
   x: []
   linkedin: []
@@ -23,12 +22,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 56319.82
   awarded_round:
     - 5
+  awarded_total: 56319.82
   submission_urls:
     - communityfund.stellar.org/submissions/recZNvq8ujTrxpxgJ
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

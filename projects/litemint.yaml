@@ -1,8 +1,7 @@
 title: Litemint
 other_names: null
 parent: null
-description: |
-  Gives creators the power to distribute their work directly to their fans, no middleman allowed!
+description: Litemint is an NFT marketplace on the Stellar network that integrates Soroban smart contracts for royalties and auctions.
 links:
   website:
     - litemint.com
@@ -16,13 +15,13 @@ links:
     - litemint.gg
   telegram: []
   youtube:
-    - youtube.com/litemint
-  instagram: []
+    - youtube.com/@litemint
+  instagram:
+    - litemint.store
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/litemint/litemint
     - github.com/litemint
 attributes:
   category: Applications
@@ -33,16 +32,16 @@ attributes:
     - Korea
   based_in: South Korea
 scf:
-  awarded_total: 376834.63
   awarded_round:
     - 3
     - 7
     - 19
+  awarded_total: 376834.63
   submission_urls:
     - communityfund.stellar.org/submissions/recTdRTrjdI0eg1BW
     - communityfund.stellar.org/submissions/recNYpfzGg7h2uLau
     - communityfund.stellar.org/submissions/recpYqqIa55PTnKF3
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

@@ -1,8 +1,7 @@
 title: GetPaid
 other_names: null
 parent: null
-description: |
-  Provides creators, traders and freelancers in Africa with opportunities to create income through connecting and learning. Live, Work and GetPaid.
+description: Provides creators, traders and freelancers in Africa with opportunities to create income through connecting and learning. Live, Work and GetPaid.
 links:
   website:
     - getpaid.africa
@@ -23,12 +22,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 192500
   awarded_round:
     - 9
+  awarded_total: 192500
   submission_urls:
     - communityfund.stellar.org/submissions/recNDS0b5hl2VKuFI
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

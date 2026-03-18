@@ -1,8 +1,7 @@
 title: The Blue Marble
 other_names: null
 parent: null
-description: |
-  Fostering Fandom - Simplified Web3 tools for building a vibrant brand community. Customer loyalty through exclusive content, discounts and unique fan experiences.
+description: Fostering Fandom - Simplified Web3 tools for building a vibrant brand community. Customer loyalty through exclusive content, discounts and unique fan experiences.
 links:
   website:
     - thebluemarble.io
@@ -12,7 +11,6 @@ links:
     - thebluemarbleio
   linkedin:
     - linkedin.com/company/taskdotio
-    - linkedin.com/company/5288550
   discord: []
   telegram: []
   youtube: []
@@ -22,7 +20,6 @@ links:
   linktree: []
   github:
     - github.com/taskdotio
-    - github.com/orgs/taskdotio
 attributes:
   category: Applications
   tags: []
@@ -30,14 +27,14 @@ attributes:
     - United States
   based_in: Thailand
 scf:
-  awarded_total: 328000
   awarded_round:
     - 10
     - 13
+  awarded_total: 328000
   submission_urls:
     - communityfund.stellar.org/submissions/recWL9vRV4LDN339Q
     - communityfund.stellar.org/submissions/recwogHqVCwITwGrG
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

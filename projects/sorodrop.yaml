@@ -2,8 +2,7 @@ title: Sorodrop
 other_names:
   - Merkle Tree Airdrop Tooling
 parent: null
-description: |
-  Open-source tool for efficient Stellar airdrops enabling scalable and cost-effective token & NFT distribution via smart contracts
+description: Open-source tool for efficient Stellar airdrops enabling scalable and cost-effective token and NFT distribution via smart contracts.
 links:
   website:
     - sorodrop.xyz
@@ -26,12 +25,12 @@ attributes:
   operating_region: []
   based_in: Turkey
 scf:
-  awarded_total: 48000
   awarded_round:
     - 28
+  awarded_total: 48000
   submission_urls:
     - communityfund.stellar.org/submissions/recf8bn219NPAb7rX
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

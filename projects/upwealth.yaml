@@ -1,8 +1,7 @@
 title: Upwealth
 other_names: null
 parent: null
-description: |
-  Upwealth is an AI-powered, Web3-native investment and management platform registered SEC (US) and AMF (EU) designed for financial professionals (RIAs, wealth managers) to seamlessly offer digital asset investments to their customers.  Vision & Objectives: Upwealth aims to bridge traditional finance and Web3, allowing professionals to offer, manage, and automate digital asset portfolios through Smart Contract SMAs and AI-driven investment tools—all within a regulated, secure, and scalable environment.  We have implemented an off-chain proof-of-concept showcasing Upwealth’s crypto asset management and trading capabilities, including:  • A trading engine connected via API to CEXs and DEXs for automated order execution.  • A portfolio rebalancing and backtesting module optimizing investment strategies.  • An asset aggregator enabling customers to connect 350+ protocols, wallets, and exchange accounts for a unified portfolio view.   We plan to integrate on-chain operations by:  • Connecting Soroban to Upwealth for decentralized portfolio management via smart contracts. • Enhancing DeFi and on-chain liquidity through Stellar’s AMMs, and leveraging platforms such as Allbridge (cross-chain bridge) and Blend Protocol for seamless asset transfers and liquidity access.
+description: AI-powered investment and asset management platform on Stellar, offering tokenized portfolio strategies with automated compliance and reporting.
 links:
   website:
     - upwealth.io
@@ -13,7 +12,8 @@ links:
     - linkedin.com/company/up-wealth
   discord: []
   telegram: []
-  youtube: []
+  youtube:
+    - youtube.com/channel/uc5c_bf02vdoxix1u3x6cw6g
   instagram: []
   reddit: []
   tiktok: []
@@ -44,12 +44,12 @@ attributes:
     - East Asia & Pacific
   based_in: France
 scf:
-  awarded_total: 88000
   awarded_round:
     - 34
+  awarded_total: 88000
   submission_urls:
     - communityfund.stellar.org/submissions/recDz5i2AzFOneh4t
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

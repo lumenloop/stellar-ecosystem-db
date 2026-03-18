@@ -1,6 +1,6 @@
 title: Elroy
 other_names: null
-parent: Boss Revolution
+parent: null
 description: Banking services without credit checks, offering free debit cards, no hidden fees, and compatibility with Apple Pay and Google Pay.
 links:
   website:
@@ -26,6 +26,6 @@ attributes:
   operating_region: []
   based_in: Newark, NJ
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

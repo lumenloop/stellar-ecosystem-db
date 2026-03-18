@@ -1,15 +1,16 @@
 title: Outbounder
 other_names: null
 parent: null
-description: |
-  Outbounder is a platform for business and humanitarian organizations to access the Stellar anchor network. Outbounder also allows organizations to create automated payment schedules, including on-ramping, cross border payments, currency exchanging, and off-ramping. 
+description: Outbounder is a platform for business and humanitarian organizations to access the Stellar anchor network. Outbounder also allows organizations to create automated payment schedules, including on-ramping, cross border payments, currency exchanging, and off-ramping.
 links:
   website:
     - outbounder.xyz
-  blog: []
-  x: []
+  blog:
+    - medium.com/stellar-community/scf-33-round-recap-c2f9d2e57543
+  x:
+    - tryoutbounder
   linkedin:
-    - linkedin.com/in/amrith-srinivas-8a4b06262
+    - linkedin.com/company/tryoutbounder
   discord: []
   telegram: []
   youtube: []
@@ -34,12 +35,12 @@ attributes:
     - North America (without Mexico)
   based_in: United States
 scf:
-  awarded_total: 38000
   awarded_round:
     - 33
+  awarded_total: 38000
   submission_urls:
     - communityfund.stellar.org/submissions/recCdH1be0EVloiFQ
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

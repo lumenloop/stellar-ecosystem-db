@@ -1,19 +1,19 @@
 title: TheXBank
 other_names: null
 parent: null
-description: |
-  TheXBank is a fully licensed digital finance platform offering same-day crypto-to-fiat payouts, multi-currency IBAN services, and cross-border payments in 25+ currencies. We serve individuals and businesses globally with seamless off-ramping — and now, with our crypto cards already live, users can spend digital assets anywhere in the world, instantly and effortlessly.
+description: TheXBank is a fully licensed digital finance platform offering same-day crypto-to-fiat payouts, multi-currency IBAN services, and cross-border payments in 25+ currencies. We serve individuals and businesses globally with seamless off-ramping — and now, with our crypto cards already live, users can spend digital assets anywhere in the world, instantly and effortlessly.
 links:
   website:
     - thexbank.io
   blog: []
   x:
-    - the_xbank
+    - txbfi
   linkedin:
     - linkedin.com/company/thexbanky-s-r-o
   discord:
-    - discord.gg/ccFjgZZk
-  telegram: []
+    - discord.gg/abp9adkftb
+  telegram:
+    - t.me/thexbankio
   youtube: []
   instagram: []
   reddit: []
@@ -30,10 +30,10 @@ attributes:
     - Middle East & North Africa
   based_in: Turkey
 scf:
-  awarded_total: null
   awarded_round: []
+  awarded_total: null
   submission_urls: []
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

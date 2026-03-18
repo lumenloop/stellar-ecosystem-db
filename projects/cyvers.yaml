@@ -1,26 +1,27 @@
 title: CyVers
 other_names: null
 parent: null
-description: |
-  Cyvers is a ML & AI based security solution that proactively mitigates and prevents asset-loss related exploits in real-time.
+description: Cyvers is a ML & AI based security solution that proactively mitigates and prevents asset-loss related exploits in real-time.
 links:
   website:
     - cyvers.ai
   blog:
     - cyvers.ai/blog
   x:
+    - cyversalerts
     - cyvers_
   linkedin:
     - linkedin.com/company/cyvers
   discord: []
-  telegram: []
+  telegram:
+    - t.me/cyversalertsofficial
   youtube: []
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/CyVers-AI
+    - github.com/cyvers-ai
 attributes:
   category: Infrastructure & Services
   tags:
@@ -40,12 +41,12 @@ attributes:
     - Romania
   based_in: Israel
 scf:
-  awarded_total: 49996
   awarded_round:
     - 26
+  awarded_total: 49996
   submission_urls:
     - communityfund.stellar.org/submissions/rec06I0eNKQ4gWeOq
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

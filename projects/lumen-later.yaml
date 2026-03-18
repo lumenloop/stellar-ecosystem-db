@@ -1,8 +1,7 @@
 title: Lumen Later
 other_names: null
 parent: null
-description: |
-  Lumen Later is a Soroban-based BNPL protocol on Stellar. It offers over-collateralized, instant credit with a 14-day interest-free period, automated fee distribution, liquidation, and real-time solvency checks, built for scalable DeFi lending.
+description: Lumen Later is a Soroban-based BNPL protocol on Stellar. It offers over-collateralized, instant credit with a 14-day interest-free period, automated fee distribution, liquidation, and real-time solvency checks, built for scalable DeFi lending.
 links:
   website:
     - lumenlater.org
@@ -29,12 +28,12 @@ attributes:
     - North America (without Mexico)
   based_in: Canada
 scf:
-  awarded_total: 131550
   awarded_round:
     - 39
+  awarded_total: 131550
   submission_urls:
     - communityfund.stellar.org/submissions/recBgGBddXapJNL0S
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

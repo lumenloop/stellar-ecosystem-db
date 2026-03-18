@@ -1,8 +1,7 @@
 title: Splito
 other_names: null
 parent: null
-description: |
-  Making Crypto feel like Money
+description: Making Crypto feel like Money.
 links:
   website:
     - splito.io
@@ -12,7 +11,7 @@ links:
   linkedin:
     - linkedin.com/company/splitoio
   discord:
-    - discord.gg/GGGB6kyQbE
+    - discord.gg/gggb6kyqbe
   telegram: []
   youtube: []
   instagram: []
@@ -20,7 +19,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/Splitoio
+    - github.com/splitoio
 attributes:
   category: Applications
   tags: []
@@ -28,12 +27,12 @@ attributes:
     - India
   based_in: India
 scf:
-  awarded_total: 50000
   awarded_round:
     - 40
+  awarded_total: 50000
   submission_urls:
     - communityfund.stellar.org/submissions/recFc615rakzpRySu
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

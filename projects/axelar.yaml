@@ -4,6 +4,7 @@ parent: null
 description: Axelar is a decentralized interoperability network that connects multiple blockchains, enabling seamless cross-chain communication and asset transfers. It employs a hub-and-spoke architecture, allowing developers to build cross-chain applications with ease, and utilizes a proof-of-stake consensus mechanism to ensure network security.
 links:
   website:
+    - axelar.foundation
     - axelar.network
   blog:
     - axelar.network/blog
@@ -11,10 +12,12 @@ links:
     - axelar
   linkedin:
     - linkedin.com/company/axelarnetwork
-  discord: []
-  telegram: []
+  discord:
+    - discord.gg/arz3ra6f7d
+  telegram:
+    - t.me/axelarcommunity
   youtube:
-    - youtube.com/@axelar-network/videos
+    - youtube.com/@axelar-network
   instagram: []
   reddit: []
   tiktok: []
@@ -27,10 +30,10 @@ attributes:
   operating_region: []
   based_in: United States
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: Axelar Stellar Security Assessment
       url: sorobansecurity.com/report/45
       date: '2025-04-08T15:00:00Z'
       auditor: OtterSec
+  tokens: []
+  contracts: []

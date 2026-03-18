@@ -1,7 +1,7 @@
 title: Nirvana Labs
 other_names: null
 parent: null
-description: "Nirvana will build a public RPC endpoint supporting Stellar's Soroban upgrade on a proprietary web3 cloud off AWS & GCP.\_\n"
+description: Nirvana will build a public RPC endpoint supporting Stellar's Soroban upgrade on a proprietary web3 cloud off AWS & GCP.
 links:
   website:
     - nirvanalabs.io
@@ -12,7 +12,7 @@ links:
   linkedin:
     - linkedin.com/company/nirvana-labs-ai
   discord:
-    - discord.gg/EjQspBWqdD
+    - discord.gg/ejqspbwqdd
   telegram: []
   youtube: []
   instagram: []
@@ -20,8 +20,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/Nirvana-Labs
-    - github.com/search?q=nirvana+labs
+    - github.com/nirvana-labs
 attributes:
   category: Infrastructure & Services
   tags:
@@ -33,12 +32,12 @@ attributes:
     - Hong Kong
   based_in: United States
 scf:
-  awarded_total: 36000
   awarded_round:
     - 26
+  awarded_total: 36000
   submission_urls:
     - communityfund.stellar.org/submissions/recqThJyLtDUGD1x2
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

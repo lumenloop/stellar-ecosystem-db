@@ -1,8 +1,7 @@
 title: Quidroo
 other_names: null
 parent: null
-description: |
-  Helping Nigerian SMEs with unlocking their trapped cash flow.
+description: Helping Nigerian SMEs with unlocking their trapped cash flow.
 links:
   website:
     - quidroo.com
@@ -23,12 +22,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 35000
   awarded_round:
     - 9
+  awarded_total: 35000
   submission_urls:
     - communityfund.stellar.org/submissions/reclXx6KR4ToWTPsG
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

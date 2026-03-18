@@ -1,8 +1,7 @@
 title: Flashback
 other_names: null
 parent: null
-description: |
-  Flashback is the world's first multi-cloud storage platform that enables companies to diversify and orchestrate their data storage with Agentic AI recommendations and smart contracts across both centralized (AWS, Google Cloud, etc.) and DePIN cloud (Filecoin, Siacoin, etc.) providers.
+description: Flashback is the world's first multi-cloud storage platform that enables companies to diversify and orchestrate their data storage with Agentic AI recommendations and smart contracts across both centralized (AWS, Google Cloud, etc.) and DePIN cloud (Filecoin, Siacoin, etc.) providers.
 links:
   website:
     - flashback.tech
@@ -12,15 +11,16 @@ links:
   linkedin:
     - linkedin.com/company/flashback-network
   discord:
-    - discord.gg/yy8kyM5qFB
-  telegram: []
+    - discord.gg/yy8kym5qfb
+  telegram:
+    - t.me/+aemugd1hlgrjmge8
   youtube: []
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/flashbacknetwork/FlashOnStellar
+    - github.com/flashbacknetwork/flashonstellar
 attributes:
   category: Infrastructure & Services
   tags:
@@ -36,12 +36,12 @@ attributes:
     - North America (without Mexico)
   based_in: Spain
 scf:
-  awarded_total: 120000
   awarded_round:
     - 34
+  awarded_total: 120000
   submission_urls:
     - communityfund.stellar.org/submissions/recLymXBt11HiJMI5
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

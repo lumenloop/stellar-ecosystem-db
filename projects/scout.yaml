@@ -1,8 +1,7 @@
 title: Scout
 other_names: null
 parent: null
-description: |
-  To enhance the usability of Scout and raise awareness about the product and the security issues it tackles, aiding Soroban devs.
+description: CoinFabrik is a blockchain security and development company that has developed Scout, an open-source tool designed to assist Soroban smart contract developers and auditors in detecting common security issues and deviations from best practices.
 links:
   website:
     - coinfabrik.com
@@ -11,21 +10,19 @@ links:
   x:
     - coinfabrik
   linkedin:
-    - linkedin.com/ar.linkedin.com/company/coinfabrik
+    - linkedin.com/company/coinfabrik
   discord: []
   telegram:
-    - t.me/+Ifsn9HszqRlkM2E5
+    - t.me/+ifsn9hszqrlkm2e5
   youtube:
-    - youtube.com/channel/UC2GmjCr7aEz-il31kqOy9aw
-  instagram:
-    - coinfabrik
-  reddit:
-    - r/CoinFabrik
+    - youtube.com/channel/uc2gmjcr7aez-il31kqoy9aw
+  instagram: []
+  reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/CoinFabrik/scout
-    - github.com/CoinFabrik/scout-audit
+    - github.com/coinfabrik
+    - github.com/coinfabrik/scout-audit
 attributes:
   category: Developer Tooling
   tags:
@@ -40,7 +37,6 @@ attributes:
     - Argentina
   based_in: Argentina
 scf:
-  awarded_total: 240000
   awarded_round:
     - 20
     - 23
@@ -48,6 +44,7 @@ scf:
     - SCF Public Goods - Q3 '25
     - SCF Public Goods - Q4 '25
     - SCF Public Goods - Q1 '26
+  awarded_total: 240000
   submission_urls:
     - communityfund.stellar.org/submissions/rec9qEUMQyHnfk1ln
     - communityfund.stellar.org/submissions/recPOG1QJ1ggXcygp
@@ -56,6 +53,6 @@ scf:
     - communityfund.stellar.org/submissions/reccVlz8v2H1wi423
     - communityfund.stellar.org/submissions/recxCmbSSQoXqVZIO
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

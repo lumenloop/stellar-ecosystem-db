@@ -2,8 +2,7 @@ title: Decaf
 other_names:
   - Decaf Pay
 parent: null
-description: |
-  The cheapest and fastest way to send money internationally
+description: Decaf is a non-custodial wallet operating on the Solana and Stellar blockchains, designed to facilitate seamless transitions between fiat and cryptocurrency across nearly 200 countries. It offers features such as global onramps and offramps, multi-currency support, currency conversion, and investment opportunities in tokenized government bonds.
 links:
   website:
     - decaf.so
@@ -13,9 +12,10 @@ links:
   linkedin:
     - linkedin.com/company/decafpay
   discord:
-    - discord.gg/fVn2THZAkV
+    - discord.gg/nfxbb3tquf
   telegram: []
-  youtube: []
+  youtube:
+    - youtu.be/aacltluc3au
   instagram:
     - decaf.so
   reddit: []
@@ -36,12 +36,12 @@ attributes:
     - Mexico
   based_in: Mexico
 scf:
-  awarded_total: 150000
   awarded_round:
     - 17
+  awarded_total: 150000
   submission_urls:
     - communityfund.stellar.org/submissions/recp4q5jA9dXq7to6
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

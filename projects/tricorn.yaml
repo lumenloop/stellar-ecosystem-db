@@ -2,7 +2,7 @@ title: Tricorn
 other_names:
   - Cross-Chain Stellar Bridging
 parent: null
-description: "Tricorn:\_cross-chain bridge solution supports both EVM and Non-EVM chains, ready to integrate to Stellar chain\_\n"
+description: Tricorn is a cross-chain bridge solution that supports both EVM and Non-EVM chains, ready to integrate with the Stellar blockchain.
 links:
   website:
     - tricorn.network
@@ -12,7 +12,7 @@ links:
   linkedin:
     - linkedin.com/company/tricorn-network
   discord:
-    - discord.gg/YD89eDhcx9
+    - discord.gg/hmvjnejh2p
   telegram: []
   youtube: []
   instagram: []
@@ -20,7 +20,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/BoostyLabs
+    - github.com/boostylabs
 attributes:
   category: Financial Protocols
   tags:
@@ -29,16 +29,16 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 44700
   awarded_round:
     - 21
+  awarded_total: 44700
   submission_urls:
     - communityfund.stellar.org/submissions/rec7xEbpvjIbAMnxo
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: Soroban Source Code Audit - Tricorn Bridge
       url: sorobansecurity.com/report/31
       date: '2024-07-24T15:00:00Z'
       auditor: Сoinspect
+  tokens: []
+  contracts: []

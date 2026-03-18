@@ -1,8 +1,7 @@
 title: MXlet
 other_names: null
 parent: null
-description: |
-  Open Stellar Hardware Wallet 
+description: Open Stellar hardware wallet.
 links:
   website:
     - xlet.io
@@ -17,19 +16,19 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/MattPearce/xlet
+    - github.com/mattpearce/xlet
 attributes:
   category: Applications
   tags: []
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 19229.23
   awarded_round:
     - 5
+  awarded_total: 19229.23
   submission_urls:
     - communityfund.stellar.org/submissions/rec5yVPK5GlSQgpOG
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

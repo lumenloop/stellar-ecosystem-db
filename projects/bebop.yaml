@@ -1,8 +1,7 @@
 title: Bebop
 other_names: null
 parent: null
-description: |
-  Bebop is the future of finance for Africa's 500 million unbanked and underbanked youth, by building a bank on chain and leveraging the power of stable coin technology.
+description: Bebop is an app focused on expanding Africa's access to the global economy by providing free, instant money transfers built on blockchain technology.
 links:
   website:
     - bebop.cash
@@ -11,13 +10,11 @@ links:
     - bebopcash
   linkedin:
     - linkedin.com/company/bebopcash
-    - linkedin.com/company/bebopcash/posts/?feedView=all
   discord:
-    - discord.gg/v7QstCk5
+    - discord.gg/v7qstck5
   telegram: []
   youtube: []
-  instagram:
-    - bebopcash
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -35,14 +32,14 @@ attributes:
     - Sub-Saharan Africa
   based_in: United Kingdom
 scf:
-  awarded_total: 148970
   awarded_round:
     - 28
     - 31
+  awarded_total: 148970
   submission_urls:
     - communityfund.stellar.org/submissions/recisU9Kvy1ORE0BX
     - communityfund.stellar.org/submissions/rec4Ae95oRI0kTbVL
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

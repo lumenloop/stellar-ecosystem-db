@@ -1,8 +1,7 @@
 title: Blue Orion
 other_names: null
 parent: null
-description: |
-  Stellar Workshops & Seminars
+description: Providing workshops on token creation and smart contracts based on Stellar.
 links:
   website:
     - blueorion.cc
@@ -27,12 +26,12 @@ attributes:
     - Utting am Ammersee, Germany
   based_in: Utting am Ammersee, Germany
 scf:
-  awarded_total: null
   awarded_round:
     - 3
+  awarded_total: null
   submission_urls:
     - communityfund.stellar.org/submissions/receayD2QsCLZdyXP
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

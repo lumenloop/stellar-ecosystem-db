@@ -1,8 +1,7 @@
 title: Giveth
 other_names: null
 parent: null
-description: |
-  Bring Quadratic Funding and 1000s of projects to Stellar by integrating Giveth.
+description: Giveth is a community-driven platform that leverages blockchain technology to facilitate zero-fee cryptocurrency donations to vetted projects, nonprofits, and charities.
 links:
   website:
     - giveth.io
@@ -16,15 +15,12 @@ links:
   telegram: []
   youtube:
     - youtube.com/givethio
-  instagram:
-    - giveth.io
-  reddit:
-    - r/giveth
+  instagram: []
+  reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/Giveth
-    - github.com/Giveth/giveth-dapps-v2
+    - github.com/giveth
 attributes:
   category: Applications
   tags:
@@ -34,12 +30,12 @@ attributes:
     - Croatia
   based_in: Spain
 scf:
-  awarded_total: 50000
   awarded_round:
     - 28
+  awarded_total: 50000
   submission_urls:
     - communityfund.stellar.org/submissions/rechcT1UmtJlod9ec
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

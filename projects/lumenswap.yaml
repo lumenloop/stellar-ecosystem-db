@@ -1,23 +1,22 @@
 title: Lumenswap
 other_names: null
 parent: null
-description: |
-  Web service to swap assets on Stellar network
+description: Lumenswap is a decentralized exchange built on the Stellar network, enabling users to swap and trade assets through a user-friendly interface. It leverages Stellar's scalability and low fees to provide fast, cost-effective transactions, and supports popular wallets like Rabet, Freighter, and Albedo for seamless accessibility.
 links:
   website:
     - lumenswap.io
   blog:
     - medium.com/lumenswap
-  x: []
+  x:
+    - lumenswap
   linkedin: []
   discord:
-    - discord.gg/98pkKef9wa
+    - discord.gg/98pkkef9wa
   telegram:
-    - t.me/LumenswapCommunity
+    - t.me/lumemefans
   youtube:
-    - youtube.com/channel/UCxyo1M9bSvsjXVu8nOakwTg
-  instagram:
-    - lumenswapofficial
+    - youtube.com/channel/ucxyo1m9bsvsjxvu8noakwtg
+  instagram: []
   reddit: []
   tiktok: []
   linktree: []
@@ -31,12 +30,12 @@ attributes:
   operating_region: []
   based_in: null
 scf:
-  awarded_total: 6786.63
   awarded_round:
     - 6
+  awarded_total: 6786.63
   submission_urls:
     - communityfund.stellar.org/submissions/recu69dUtviRW6oC7
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

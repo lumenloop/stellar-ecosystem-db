@@ -1,11 +1,9 @@
 title: Reflector
 other_names: null
-parent: Stellar Expert
-description: |
-  Decentralized price feed oracle for Stellar DeFi smart contracts to support derivatives, lending, and asset management
+parent: null
+description: Decentralized price feed oracle for Stellar DeFi smart contracts to support derivatives, lending, and asset management.
 links:
   website:
-    - reflector.world
     - reflector.network
   blog:
     - medium.com/@reflector-network
@@ -13,8 +11,7 @@ links:
     - in_reflector
   linkedin: []
   discord:
-    - discord.gg/uy5UXg3t6F
-    - discord.gg/v2ggfDty2d
+    - discord.gg/v2ggfdty2d
   telegram: []
   youtube: []
   instagram: []
@@ -22,7 +19,6 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/orgs/reflector-network
     - github.com/reflector-network
 attributes:
   category: Infrastructure & Services
@@ -33,20 +29,18 @@ attributes:
     - Portugal
   based_in: Portugal
 scf:
-  awarded_total: 444840
   awarded_round:
     - 15
     - 20
     - 26
     - 29
+  awarded_total: 444840
   submission_urls:
     - communityfund.stellar.org/submissions/recWtqpdZ2UzVkfhe
     - communityfund.stellar.org/submissions/recfrasfvgSGAXEZD
     - communityfund.stellar.org/submissions/rec6KwJXq7HNQpjAb
     - communityfund.stellar.org/submissions/receZeLlUlVSruadg
 mainnet:
-  tokens: []
-  contracts: []
   audits:
     - name: Reflector Audit
       url: sorobansecurity.com/report/22
@@ -56,3 +50,5 @@ mainnet:
       url: sorobansecurity.com/report/23
       date: '2024-10-09T15:00:00Z'
       auditor: certora
+  tokens: []
+  contracts: []

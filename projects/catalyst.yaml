@@ -1,9 +1,8 @@
 title: Catalyst
 other_names:
   - Catalyst Blockchain Manager
-parent: Intellecteu
-description: |
-  EcoXChange is a multifunction white-labeled platform marketplace to support manufacturing companies reduce their carbon footprint.
+parent: null
+description: EcoXChange is a multifunction white-labeled platform marketplace to support manufacturing companies reduce their carbon footprint.
 links:
   website:
     - catalyst.intellecteu.com
@@ -11,10 +10,11 @@ links:
   x:
     - catalyst_bm
   linkedin:
-    - linkedin.com/uas/login?session_redirect=%2Fshowcase%2F73072309
+    - linkedin.com/showcase/73072309
   discord: []
   telegram: []
-  youtube: []
+  youtube:
+    - youtube.com/watch?v=radzz7osiha
   instagram: []
   reddit: []
   tiktok: []
@@ -37,12 +37,12 @@ attributes:
     - Portugal
   based_in: Ukraine
 scf:
-  awarded_total: 91800
   awarded_round:
     - 22
+  awarded_total: 91800
   submission_urls:
     - communityfund.stellar.org/submissions/recNpbO0bjz8Gs5DO
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

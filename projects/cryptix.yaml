@@ -1,9 +1,8 @@
 title: Cryptix
 other_names:
   - Stellar Token Launchpad
-parent: Cryptix
-description: |
-  Enable everyone to deploy tokens (generic, securities) to Stellar in less than a minute with this extensible web app.
+parent: null
+description: Enable everyone to deploy tokens (generic, securities) to Stellar in less than a minute with this extensible web app.
 links:
   website:
     - tokenlaunchpad.eu
@@ -20,7 +19,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/CryptixAG/Tokenlaunchpad
+    - github.com/cryptixag/tokenlaunchpad
 attributes:
   category: Applications
   tags:
@@ -29,12 +28,12 @@ attributes:
   operating_region: []
   based_in: Switzerland
 scf:
-  awarded_total: 40000
   awarded_round:
     - 24
+  awarded_total: 40000
   submission_urls:
     - communityfund.stellar.org/submissions/recyhIl215OlC9aTI
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []
