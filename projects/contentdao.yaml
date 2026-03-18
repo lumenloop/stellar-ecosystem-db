@@ -1,36 +1,31 @@
-title: B4B
+title: Content DAO
 other_names:
-  - B4B.app
+  - 'B4B.app '
   - Content DAO
+  - B4B
 parent: null
-description: |
-  A decentralized system rewarding content creators for translating Web3 concepts to everyday users
+description: Web3 influencer KOLs protocol brings transparency, escrow USDC payments, and on-chain history for all socials.
 links:
   website:
-    - b4b.app
     - contentdao.app
   blog:
     - medium.com/@b4b.world
   x:
-    - b4b_world
     - contentdaoapp
   linkedin:
-    - linkedin.com/company/b4b-world
     - linkedin.com/company/contentdao
   discord:
-    - discord.gg/cx6xndBz
-  telegram:
-    - t.me/CalimeroOfficial
+    - discord.gg/cx6xndbz
+  telegram: []
   youtube: []
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/gitlab.com/b4b-world
-    - github.com/ContentDAO
+    - github.com/contentdao
 attributes:
-  category: Applications
+  category: Community
   tags:
     - Social
     - Payments
@@ -44,14 +39,14 @@ attributes:
     - Argentina
   based_in: Singapore
 scf:
-  awarded_total: 130000
   awarded_round:
     - 27
     - 31
+  awarded_total: 130000
   submission_urls:
     - communityfund.stellar.org/submissions/recUJPxEC1NhY3hU8
     - communityfund.stellar.org/submissions/recCKZxVBYc2jgue4
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

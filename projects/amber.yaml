@@ -1,23 +1,23 @@
-title: ZET
+title: Amber
 other_names:
   - RWA Tokenization on Stellar
   - Amber - RWA Tokenization on Stellar
-parent: Amber
-description: "Amber aims to launch a protocol to tokenize real world assets on Stellar network.\_\n"
+  - ZET
+parent: null
+description: Amber aims to launch a protocol to tokenize real world assets on Stellar network.
 links:
   website:
     - ambergroup.io
-    - docs.google.com/document/d/1lehK5xGOLp_SpnYvv0JQgHbU0ans36_Uek6IxaAtQRo/edit
   blog:
     - ambergroup.io/news
   x:
     - ambergroup_io
   linkedin:
     - linkedin.com/company/amberbtc
-    - linkedin.com/in/kenneth-yeo-61238b9
   discord:
-    - discord.gg/V7tYzqjV
-  telegram: []
+    - discord.gg/v7tyzqjv
+  telegram:
+    - '@ambergroupen'
   youtube: []
   instagram: []
   reddit: []
@@ -33,12 +33,12 @@ attributes:
     - Hong Kong
   based_in: Singapore
 scf:
-  awarded_total: 50000
   awarded_round:
     - 20
+  awarded_total: 50000
   submission_urls:
     - communityfund.stellar.org/submissions/recXjFURUH3LkyzQA
 mainnet:
+  audits: []
   tokens: []
   contracts: []
-  audits: []

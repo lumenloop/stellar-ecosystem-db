@@ -1,72 +1,72 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-02-09
+> Auto-generated on 2026-03-18
 
 ## Summary
 
 | Metric | Count |
 |--------|------:|
-| Total projects | **660** |
-| SCF-funded projects | 577 |
-| Community projects | 83 |
+| Total projects | **658** |
+| SCF-funded projects | 573 |
+| Community projects | 85 |
 | Audited projects | 47 |
 
 ## Data Coverage
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 658/660 | 99.7% |
-| website | 651/660 | 98.6% |
-| blog | 212/660 | 32.1% |
-| x | 445/660 | 67.4% |
-| linkedin | 340/660 | 51.5% |
-| discord | 168/660 | 25.5% |
-| telegram | 90/660 | 13.6% |
-| youtube | 113/660 | 17.1% |
-| instagram | 109/660 | 16.5% |
-| reddit | 16/660 | 2.4% |
-| tiktok | 19/660 | 2.9% |
-| linktree | 4/660 | 0.6% |
-| github | 485/660 | 73.5% |
-| category | 577/660 | 87.4% |
-| tags | 337/660 | 51.1% |
-| operating_region | 361/660 | 54.7% |
-| based_in | 571/660 | 86.5% |
+| description | 657/658 | 99.8% |
+| website | 650/658 | 98.8% |
+| blog | 234/658 | 35.6% |
+| x | 468/658 | 71.1% |
+| linkedin | 365/658 | 55.5% |
+| discord | 199/658 | 30.2% |
+| telegram | 137/658 | 20.8% |
+| youtube | 154/658 | 23.4% |
+| instagram | 55/658 | 8.4% |
+| reddit | 5/658 | 0.8% |
+| tiktok | 13/658 | 2% |
+| linktree | 0/658 | 0% |
+| github | 490/658 | 74.5% |
+| category | 577/658 | 87.7% |
+| tags | 337/658 | 51.2% |
+| operating_region | 361/658 | 54.9% |
+| based_in | 571/658 | 86.8% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **660** projects (incl. **83** community projects not in SCF) against **580** in SCF Airtable:
+Per-project comparison of our **658** projects (incl. **85** community projects not in SCF) against **580** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +111 | 547 |
-| website | +122 | 529 |
-| github | +108 | 377 |
-| x | +162 | 283 |
-| linkedin | +135 | 205 |
-| discord | +60 | 108 |
-| based_in | +97 | 474 |
-| blog | +212 | 0 |
-| telegram | +90 | 0 |
-| youtube | +113 | 0 |
-| instagram | +109 | 0 |
-| reddit | +16 | 0 |
-| tiktok | +19 | 0 |
-| linktree | +4 | 0 |
+| description | +112 | 545 |
+| website | +123 | 527 |
+| github | +110 | 380 |
+| x | +186 | 282 |
+| linkedin | +162 | 203 |
+| discord | +91 | 108 |
+| based_in | +98 | 473 |
+| blog | +234 | 0 |
+| telegram | +137 | 0 |
+| youtube | +154 | 0 |
+| instagram | +55 | 0 |
+| reddit | +5 | 0 |
+| tiktok | +13 | 0 |
+| linktree | +0 | 0 |
 
 *"Added" = we filled a field SCF didn't have. "Modified" = SCF had a value, we store a different one.*
 
 ## SCF Project Coverage
 
-Of **577** SCF-funded projects:
+Of **573** SCF-funded projects:
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| awarded_total | 513/577 | 88.9% |
-| awarded_round | 543/577 | 94.1% |
-| submission_urls | 543/577 | 94.1% |
-| website | 568/577 | 98.4% |
-| github | 437/577 | 75.7% |
+| awarded_total | 511/573 | 89.2% |
+| awarded_round | 541/573 | 94.4% |
+| submission_urls | 541/573 | 94.4% |
+| website | 565/573 | 98.6% |
+| github | 442/573 | 77.1% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -76,11 +76,11 @@ Of **577** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 176 | 385 |
-| Active last week | 30 | 137 |
-| Active last month | 48 | 203 |
-| Active last 3 months | 72 | 255 |
-| Active last year | 114 | 318 |
+| Tracked projects | 154 | 436 |
+| Active last week | 0 | 187 |
+| Active last month | 5 | 240 |
+| Active last 3 months | 49 | 285 |
+| Active last year | 94 | 356 |
 
 ## Audit Data
 
@@ -91,16 +91,16 @@ Of **577** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 21 |
-| certora | 10 |
 | OtterSec | 10 |
+| certora | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Cantina | 1 |
-| Code4rena | 1 |
 | Сoinspect | 1 |
+| Code4rena | 1 |
+| Cantina | 1 |
 
 ## Data Sources
 
@@ -116,28 +116,26 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| community | 3358 |
-| airtable | 3397 |
-| airtable+submissions | 579 |
-| twitter_inferred | 195 |
+| submissions | 551 |
+| website | 1621 |
+| airtable | 3704 |
+| crawler | 585 |
 | soroban_security | 66 |
 
 ## Needs Review
 
-11 items need attention.
+9 items need attention.
 
-**SCF project missing website** (9):
-- crypto-link
-- frost-implementation
-- paysapp
-- relax
-- the-starship-soroban
+**SCF project missing website** (8):
 - wally
-- free-voting-platform
-- sendit
 - timed-transactions-api
+- crypto-link
+- sendit
+- relax
+- frost-implementation
+- the-starship-soroban
+- paysapp
 
-**description empty** (2):
-- free-voting-platform
+**description empty** (1):
 - sendit
 
