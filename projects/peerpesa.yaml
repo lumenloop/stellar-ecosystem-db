@@ -16,9 +16,11 @@ links:
     - t.me/peerpesa
   youtube:
     - youtube.com/@peerpesa
-  instagram: []
+  instagram:
+    - peer_pesa
   reddit: []
-  tiktok: []
+  tiktok:
+    - peerpesa
   linktree: []
   github:
     - github.com/peerpesa-dapp/peerpesa-web3

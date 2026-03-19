@@ -18,8 +18,8 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/lockb0x-llc
     - github.com/lockb0x-llc/pakana-stellar-razor-components
+    - github.com/lockb0x-llc
 attributes:
   category: Applications
   tags:

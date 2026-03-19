@@ -2,27 +2,38 @@ title: Boundless
 other_names:
   - Risc0
 parent: null
-description: Boundless is a universal verifiable compute layer designed to offload heavy blockchain computations to an off-chain network of provers. It uses the RISC Zero zkVM to generate zero-knowledge proofs that are verified on-chain, allowing developers to scale applications across networks like Stellar and Ethereum.
+description: 'Boundless is a Web3 platform built on the Stellar blockchain that manages and oversees funding activities such as crowdfunding, grants, and hackathons.  Our mission is simple: make funding, building, and collaboration in Web3 more open, accountable, and rewarding.  What makes Boundless unique is its milestone-based fund disbursement powered by the TrustlessWork API.'
 links:
   website:
     - boundless.network
+    - boundlessfi.xyz
   blog:
     - boundless.network/blog
-  x: []
-  linkedin: []
-  discord: []
+  x:
+    - boundless_fi
+  linkedin:
+    - linkedin.com/company/boundlesshq
+  discord:
+    - discord.gg/f9wtkrcp
   telegram: []
   youtube: []
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/boundlessfi
 attributes:
-  category: Infrastructure
+  category: Applications
   tags: []
   operating_region: []
-  based_in: null
+  based_in: Nigeria
+scf:
+  awarded_round:
+    - 40
+  awarded_total: 110000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recfC78Xt0enJyMa3
 mainnet:
   audits: []
   tokens: []

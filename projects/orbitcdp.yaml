@@ -19,8 +19,8 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/orbitcdp
     - github.com/zenith-protocols
+    - github.com/orbitcdp
 attributes:
   category: Financial Protocols
   tags:

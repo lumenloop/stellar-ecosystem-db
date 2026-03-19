@@ -13,9 +13,11 @@ links:
   discord: []
   telegram: []
   youtube: []
-  instagram: []
+  instagram:
+    - bousolht
   reddit: []
-  tiktok: []
+  tiktok:
+    - bousolht
   linktree: []
   github: []
 attributes:

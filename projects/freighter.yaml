@@ -17,8 +17,8 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/stellar/freighter
     - github.com/stellar/freighter-mobile
+    - github.com/stellar/freighter
 attributes:
   category: null
   tags: []

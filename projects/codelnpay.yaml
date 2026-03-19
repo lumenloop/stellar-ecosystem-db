@@ -1,6 +1,6 @@
 title: CodeLnPay
 other_names: null
-parent: null
+parent: CodeLn
 description: CodeLnPay offers cross-border salary payments to help African-based remote workers seamlessly collect their income.
 links:
   website:
@@ -15,7 +15,8 @@ links:
   telegram: []
   youtube:
     - youtube.com/channel/ucjc8rd10wkhx2c1htg4af0q
-  instagram: []
+  instagram:
+    - codeln_spaces
   reddit: []
   tiktok: []
   linktree: []

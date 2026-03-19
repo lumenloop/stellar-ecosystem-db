@@ -29,9 +29,11 @@ attributes:
     - United States
   based_in: United States
 scf:
-  awarded_round: []
-  awarded_total: null
-  submission_urls: []
+  awarded_round:
+    - 28
+  awarded_total: 50000
+  submission_urls:
+    - communityfund.stellar.org/submissions/rec0b6xVABHxF2jRy
 mainnet:
   audits: []
   tokens: []

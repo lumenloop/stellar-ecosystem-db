@@ -28,9 +28,11 @@ attributes:
   operating_region: []
   based_in: Chile
 scf:
-  awarded_round: []
-  awarded_total: null
-  submission_urls: []
+  awarded_round:
+    - 20
+  awarded_total: 7500
+  submission_urls:
+    - communityfund.stellar.org/submissions/recY4eR4uXNvkXnAG
 mainnet:
   audits: []
   tokens: []

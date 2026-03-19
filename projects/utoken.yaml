@@ -39,9 +39,13 @@ attributes:
     - North America (without Mexico)
   based_in: Nigeria
 scf:
-  awarded_round: []
-  awarded_total: null
-  submission_urls: []
+  awarded_round:
+    - 28
+    - 35
+  awarded_total: 59979
+  submission_urls:
+    - communityfund.stellar.org/submissions/rechwhwWyyUgGgDlC
+    - communityfund.stellar.org/submissions/rec4AtmuZ3tC2S6WP
 mainnet:
   audits: []
   tokens: []

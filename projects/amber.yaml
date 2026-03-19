@@ -3,7 +3,7 @@ other_names:
   - RWA Tokenization on Stellar
   - Amber - RWA Tokenization on Stellar
   - ZET
-parent: null
+parent: Amber
 description: Amber aims to launch a protocol to tokenize real world assets on Stellar network.
 links:
   website:

@@ -6,7 +6,8 @@ links:
   website:
     - stellar.expert
   blog: []
-  x: []
+  x:
+    - orbitlens
   linkedin: []
   discord: []
   telegram: []
@@ -17,6 +18,7 @@ links:
   linktree: []
   github:
     - github.com/stellar-expert
+    - github.com/orbitlens/stellar-expert-explorer/issues
 attributes:
   category: null
   tags: []

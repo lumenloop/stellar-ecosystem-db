@@ -21,7 +21,8 @@ links:
   instagram: []
   reddit: []
   tiktok: []
-  linktree: []
+  linktree:
+    - subquerynetwork
   github:
     - github.com/subquery
     - github.com/subquery/subql-stellar

@@ -1,6 +1,6 @@
 title: Reflector
 other_names: null
-parent: null
+parent: Stellar Expert
 description: Decentralized price feed oracle for Stellar DeFi smart contracts to support derivatives, lending, and asset management.
 links:
   website:

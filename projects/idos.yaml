@@ -42,9 +42,11 @@ attributes:
     - Latin America & Caribbean
   based_in: Portugal
 scf:
-  awarded_round: []
-  awarded_total: null
-  submission_urls: []
+  awarded_round:
+    - 31
+  awarded_total: 125000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recFctBzb2Zo3VO4z
 mainnet:
   audits: []
   tokens: []

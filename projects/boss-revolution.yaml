@@ -2,7 +2,7 @@ title: Boss Revolution
 other_names:
   - Leaf Global Fintech
   - Boss Money (former Leaf Global)
-parent: null
+parent: IDT
 description: A digital wallet that enables users to store, send and receive, and exchange in multiple stablecoins on their phones— no smartphone required.
 links:
   website:
@@ -29,9 +29,11 @@ attributes:
     - United States
   based_in: United States
 scf:
-  awarded_round: []
-  awarded_total: null
-  submission_urls: []
+  awarded_round:
+    - 7
+  awarded_total: 249112
+  submission_urls:
+    - communityfund.stellar.org/submissions/recGnQ6l4nKzgQLpT
 mainnet:
   audits: []
   tokens: []

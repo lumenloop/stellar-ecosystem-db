@@ -1,7 +1,7 @@
 title: Soroswap
 other_names:
   - Soroswap.Finance
-parent: null
+parent: PaltaLabs
 description: Open-source AMM protocol and AMM Aggregator with Ecosystem Interoperability for providing liquidity and trading Stellar Assets in Soroban.
 links:
   website:

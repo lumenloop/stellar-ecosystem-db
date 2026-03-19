@@ -1,7 +1,7 @@
 title: Cryptix
 other_names:
   - Stellar Token Launchpad
-parent: null
+parent: Cryptix
 description: Enable everyone to deploy tokens (generic, securities) to Stellar in less than a minute with this extensible web app.
 links:
   website:

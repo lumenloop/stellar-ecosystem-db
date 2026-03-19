@@ -17,10 +17,10 @@ links:
   youtube:
     - youtube.com/@honeycoinapp
   instagram:
-    - peerwallet.hc
+    - honeycoinapp
   reddit: []
   tiktok:
-    - peerwallet_
+    - honeycoinapp
   linktree: []
   github: []
 attributes:
@@ -38,9 +38,13 @@ attributes:
     - Kenya
   based_in: Kenya
 scf:
-  awarded_round: []
-  awarded_total: null
-  submission_urls: []
+  awarded_round:
+    - 22
+    - 26
+  awarded_total: 145000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recUT585587cLfVlX
+    - communityfund.stellar.org/submissions/recQmFbAAi5u83EE5
 mainnet:
   audits: []
   tokens: []

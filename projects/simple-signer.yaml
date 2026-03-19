@@ -1,6 +1,6 @@
 title: Simple Signer
 other_names: null
-parent: null
+parent: Bigger
 description: A secure in-browser transaction signer that supports different stellar wallets.
 links:
   website:

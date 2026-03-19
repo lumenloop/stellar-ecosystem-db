@@ -36,9 +36,11 @@ attributes:
     - Sub-Saharan Africa
   based_in: Nigeria
 scf:
-  awarded_round: []
-  awarded_total: null
-  submission_urls: []
+  awarded_round:
+    - 30
+  awarded_total: 89500
+  submission_urls:
+    - communityfund.stellar.org/submissions/recsfR7WfhvD7zd8o
 mainnet:
   audits: []
   tokens: []

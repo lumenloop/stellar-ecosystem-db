@@ -17,8 +17,8 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/scalemote
     - github.com/scalemote/flow
+    - github.com/scalemote
 attributes:
   category: Developer Tooling
   tags:

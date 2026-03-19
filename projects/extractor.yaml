@@ -1,7 +1,7 @@
 title: Extractor
 other_names:
   - Extractor - Soroban Security
-parent: null
+parent: Hacken
 description: Extractor is a Post Deployment security solution that provides multi-level asset protection in smart contracts against exploitation.
 links:
   website:

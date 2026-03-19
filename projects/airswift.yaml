@@ -32,9 +32,11 @@ attributes:
   operating_region: []
   based_in: Canada
 scf:
-  awarded_round: []
-  awarded_total: null
-  submission_urls: []
+  awarded_round:
+    - 16
+  awarded_total: 150000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recX7oeV1IsHlgDy5
 mainnet:
   audits: []
   tokens: []

@@ -15,9 +15,11 @@ links:
   telegram: []
   youtube:
     - youtube.com/@easya_app
-  instagram: []
+  instagram:
+    - easya_app
   reddit: []
-  tiktok: []
+  tiktok:
+    - easya_app
   linktree: []
   github: []
 attributes:

@@ -38,9 +38,11 @@ attributes:
     - North America (without Mexico)
   based_in: Canada
 scf:
-  awarded_round: []
-  awarded_total: null
-  submission_urls: []
+  awarded_round:
+    - 31
+  awarded_total: 150000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recxtseGT8HXT3ZDC
 mainnet:
   audits: []
   tokens: []

@@ -1,6 +1,6 @@
 title: AutoAction
 other_names: null
-parent: null
+parent: 57blocks
 description: AutoAction is a smart contract automation tool for implementing custom logic, time-based, and event-based automated transactions.
 links:
   website:

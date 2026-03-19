@@ -14,9 +14,11 @@ links:
   discord: []
   telegram: []
   youtube: []
-  instagram: []
+  instagram:
+    - greeppay
   reddit: []
-  tiktok: []
+  tiktok:
+    - 'https:'
   linktree: []
   github:
     - github.com/greeppay

@@ -1,6 +1,6 @@
 title: Soroban Resource Usage Reporter
 other_names: null
-parent: null
+parent: 57blocks
 description: Developer tool for tracking resource usage and key metrics during Soroban smart contract development and testing, enabling efficient and cost-effective builds.
 links:
   website:
