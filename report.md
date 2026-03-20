@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-03-19
+> Auto-generated on 2026-03-20
 
 ## Summary
 
@@ -23,10 +23,10 @@
 | discord | 200/659 | 30.3% |
 | telegram | 137/659 | 20.8% |
 | youtube | 154/659 | 23.4% |
-| instagram | 102/659 | 15.5% |
-| reddit | 10/659 | 1.5% |
-| tiktok | 23/659 | 3.5% |
-| linktree | 3/659 | 0.5% |
+| instagram | 57/659 | 8.6% |
+| reddit | 5/659 | 0.8% |
+| tiktok | 15/659 | 2.3% |
+| linktree | 0/659 | 0% |
 | github | 492/659 | 74.7% |
 | category | 578/659 | 87.7% |
 | tags | 338/659 | 51.3% |
@@ -39,20 +39,20 @@ Per-project comparison of our **659** projects (incl. **83** community projects 
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +111 | 547 |
-| website | +122 | 529 |
+| description | +110 | 548 |
+| website | +121 | 530 |
 | github | +110 | 382 |
-| x | +187 | 283 |
+| x | +186 | 284 |
 | linkedin | +162 | 204 |
 | discord | +91 | 109 |
-| based_in | +98 | 475 |
+| based_in | +97 | 476 |
 | blog | +234 | 0 |
 | telegram | +137 | 0 |
 | youtube | +154 | 0 |
-| instagram | +102 | 0 |
-| reddit | +10 | 0 |
-| tiktok | +23 | 0 |
-| linktree | +3 | 0 |
+| instagram | +57 | 0 |
+| reddit | +5 | 0 |
+| tiktok | +15 | 0 |
+| linktree | +0 | 0 |
 
 *"Added" = we filled a field SCF didn't have. "Modified" = SCF had a value, we store a different one.*
 
@@ -77,8 +77,8 @@ Of **576** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 154 | 438 |
-| Active last week | 0 | 191 |
-| Active last month | 0 | 244 |
+| Active last week | 0 | 189 |
+| Active last month | 0 | 245 |
 | Active last 3 months | 48 | 288 |
 | Active last year | 94 | 358 |
 
@@ -91,8 +91,8 @@ Of **576** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 21 |
-| certora | 10 |
 | OtterSec | 10 |
+| certora | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
@@ -116,10 +116,10 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| submissions | 561 |
-| crawler | 700 |
-| airtable | 3614 |
-| website | 1611 |
+| submissions | 562 |
+| crawler | 595 |
+| airtable | 3725 |
+| website | 1606 |
 | soroban_security | 66 |
 
 ## Needs Review
@@ -127,13 +127,13 @@ Field-level provenance tracking:
 9 items need attention.
 
 **SCF project missing website** (8):
-- wally
 - crypto-link
-- sendit
+- timed-transactions-api
+- wally
 - relax
+- sendit
 - frost-implementation
 - the-starship-soroban
-- timed-transactions-api
 - paysapp
 
 **description empty** (1):

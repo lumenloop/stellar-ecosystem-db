@@ -14,12 +14,10 @@ links:
     - t.me/syklo_app
   youtube:
     - youtube.com/@syklo
-  instagram:
-    - syklo_app
+  instagram: []
   reddit: []
   tiktok: []
-  linktree:
-    - sykloapp
+  linktree: []
   github: []
 attributes:
   category: End-User Application
