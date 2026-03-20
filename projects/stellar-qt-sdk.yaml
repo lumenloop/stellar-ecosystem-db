@@ -6,8 +6,10 @@ description: Stellar SDK for Qt/C++. Interface to deal with Horizon API.
 links:
   website:
     - galactictalk.org/d/2300-sdk-for-stellar-qt
-  blog: []
-  x: []
+  blog:
+    - medium.com/@stellarterm
+  x:
+    - stellarterm
   linkedin: []
   discord: []
   telegram: []
@@ -18,6 +20,7 @@ links:
   linktree: []
   github:
     - github.com/bnogalm/stellarqtsdk
+    - github.com/stellarterm
 attributes:
   category: Developer Tooling
   tags:

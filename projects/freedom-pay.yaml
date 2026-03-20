@@ -12,9 +12,11 @@ links:
   discord: []
   telegram: []
   youtube: []
-  instagram: []
+  instagram:
+    - freedompaywallet
   reddit: []
-  tiktok: []
+  tiktok:
+    - freedompaywallet
   linktree: []
   github: []
 attributes:

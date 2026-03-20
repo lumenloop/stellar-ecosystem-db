@@ -1,8 +1,7 @@
 title: Wagelink
 other_names:
   - Wagelink - Soroban Integration
-  - Wagelink - SDP Integration
-parent: null
+parent: Zebec
 description: Introducing WageLink, the app that allows employees in the US to receive their wages up to 5 days early in fiat or crypto.
 links:
   website:

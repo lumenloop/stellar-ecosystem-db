@@ -16,9 +16,11 @@ links:
   telegram: []
   youtube:
     - youtube.com/channel/ucm21faotuddhg3fwruv3org
-  instagram: []
+  instagram:
+    - beamable
   reddit: []
-  tiktok: []
+  tiktok:
+    - buildonbeamable
   linktree: []
   github:
     - github.com/beamable

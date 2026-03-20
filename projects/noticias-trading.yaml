@@ -14,9 +14,11 @@ links:
   telegram: []
   youtube:
     - youtube.com/@noticiastrading
-  instagram: []
+  instagram:
+    - noticiastrading
   reddit: []
-  tiktok: []
+  tiktok:
+    - noticiastrading
   linktree: []
   github: []
 attributes:
