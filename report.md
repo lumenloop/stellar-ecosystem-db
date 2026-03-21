@@ -24,7 +24,7 @@
 | telegram | 138/659 | 20.9% |
 | youtube | 154/659 | 23.4% |
 | instagram | 104/659 | 15.8% |
-| reddit | 10/659 | 1.5% |
+| reddit | 11/659 | 1.7% |
 | tiktok | 24/659 | 3.6% |
 | linktree | 3/659 | 0.5% |
 | github | 492/659 | 74.7% |
@@ -50,7 +50,7 @@ Per-project comparison of our **659** projects (incl. **83** community projects 
 | telegram | +138 | 0 |
 | youtube | +154 | 0 |
 | instagram | +104 | 0 |
-| reddit | +10 | 0 |
+| reddit | +11 | 0 |
 | tiktok | +24 | 0 |
 | linktree | +3 | 0 |
 
@@ -80,7 +80,7 @@ Of **576** SCF-funded projects:
 | Active last week | 0 | 194 |
 | Active last month | 0 | 248 |
 | Active last 3 months | 48 | 288 |
-| Active last year | 94 | 358 |
+| Active last year | 93 | 358 |
 
 ## Audit Data
 
@@ -117,9 +117,9 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 563 |
-| airtable | 3725 |
-| website | 1598 |
-| crawler | 663 |
+| crawler | 976 |
+| airtable | 3416 |
+| website | 1594 |
 | soroban_security | 66 |
 
 ## Needs Review
@@ -127,11 +127,11 @@ Field-level provenance tracking:
 9 items need attention.
 
 **SCF project missing website** (8):
+- the-starship-soroban
 - crypto-link
 - frost-implementation
 - timed-transactions-api
 - relax
-- the-starship-soroban
 - wally
 - sendit
 - paysapp
