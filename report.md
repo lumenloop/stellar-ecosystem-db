@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-03-20
+> Auto-generated on 2026-03-21
 
 ## Summary
 
@@ -62,9 +62,9 @@ Of **576** SCF-funded projects:
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| awarded_total | 521/576 | 90.5% |
-| awarded_round | 551/576 | 95.7% |
-| submission_urls | 551/576 | 95.7% |
+| awarded_total | 522/576 | 90.6% |
+| awarded_round | 552/576 | 95.8% |
+| submission_urls | 552/576 | 95.8% |
 | website | 568/576 | 98.6% |
 | github | 444/576 | 77.1% |
 
@@ -77,8 +77,8 @@ Of **576** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 154 | 439 |
-| Active last week | 0 | 189 |
-| Active last month | 0 | 245 |
+| Active last week | 0 | 194 |
+| Active last month | 0 | 248 |
 | Active last 3 months | 48 | 288 |
 | Active last year | 94 | 358 |
 
@@ -116,10 +116,10 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| submissions | 562 |
+| submissions | 563 |
+| airtable | 3725 |
 | website | 1598 |
-| crawler | 973 |
-| airtable | 3415 |
+| crawler | 663 |
 | soroban_security | 66 |
 
 ## Needs Review
@@ -128,12 +128,12 @@ Field-level provenance tracking:
 
 **SCF project missing website** (8):
 - crypto-link
-- timed-transactions-api
 - frost-implementation
-- wally
+- timed-transactions-api
 - relax
-- sendit
 - the-starship-soroban
+- wally
+- sendit
 - paysapp
 
 **description empty** (1):

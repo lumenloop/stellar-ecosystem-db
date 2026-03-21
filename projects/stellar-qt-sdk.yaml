@@ -19,8 +19,8 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/bnogalm/stellarqtsdk
     - github.com/stellarterm
+    - github.com/bnogalm/stellarqtsdk
 attributes:
   category: Developer Tooling
   tags:

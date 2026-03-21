@@ -17,14 +17,20 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/stellarmask/stellarmask
     - github.com/yk-labs-dev/soroban-cli-gui
+    - github.com/stellarmask/stellarmask
 attributes:
   category: Infrastructure & Services
   tags:
     - Oracle
   operating_region: []
   based_in: United States
+scf:
+  awarded_round:
+    - 22
+  awarded_total: 24000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recAJUif7d6m2q3J3
 mainnet:
   audits: []
   tokens: []
