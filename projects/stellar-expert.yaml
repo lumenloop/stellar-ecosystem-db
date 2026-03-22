@@ -17,8 +17,8 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/stellar-expert
     - github.com/orbitlens/stellar-expert-explorer/issues
+    - github.com/stellar-expert
 attributes:
   category: null
   tags: []
