@@ -5,7 +5,8 @@ description: Human.tech provides keys, wallets, and identity infrastructure for 
 links:
   website:
     - human.tech
-  blog: []
+  blog:
+    - embeds.beehiiv.com/cdd6c907-d5d8-4392-872a-68b5805c6a45
   x:
     - humntech
   linkedin:
@@ -21,7 +22,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/passportxyz
+    - github.com/holonym-foundation
     - github.com/holosoe/human-wallet-on-stellar
 attributes:
   category: Infrastructure & Services

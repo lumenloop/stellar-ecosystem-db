@@ -17,7 +17,7 @@
 |-------|------:|---------:|
 | description | 658/659 | 99.8% |
 | website | 651/659 | 98.8% |
-| blog | 235/659 | 35.7% |
+| blog | 236/659 | 35.8% |
 | x | 471/659 | 71.5% |
 | linkedin | 366/659 | 55.5% |
 | discord | 200/659 | 30.3% |
@@ -46,7 +46,7 @@ Per-project comparison of our **659** projects (incl. **83** community projects 
 | linkedin | +162 | 204 |
 | discord | +91 | 109 |
 | based_in | +97 | 476 |
-| blog | +235 | 0 |
+| blog | +236 | 0 |
 | telegram | +138 | 0 |
 | youtube | +154 | 0 |
 | instagram | +104 | 0 |
@@ -91,8 +91,8 @@ Of **576** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 21 |
-| OtterSec | 10 |
 | certora | 10 |
+| OtterSec | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
@@ -117,9 +117,9 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 563 |
-| airtable | 3725 |
-| crawler | 667 |
+| crawler | 980 |
 | website | 1594 |
+| airtable | 3413 |
 | soroban_security | 66 |
 
 ## Needs Review
