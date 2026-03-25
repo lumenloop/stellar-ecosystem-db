@@ -6,8 +6,10 @@ links:
   website:
     - 57blocks.io
   blog: []
-  x: []
-  linkedin: []
+  x:
+    - 57blocks
+  linkedin:
+    - linkedin.com/company/57blocks
   discord: []
   telegram: []
   youtube: []
@@ -17,6 +19,7 @@ links:
   linktree: []
   github:
     - github.com/57blocks/stellar-autoaction
+    - github.com/57blocks
 attributes:
   category: Developer Tooling
   tags:

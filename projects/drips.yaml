@@ -6,16 +6,19 @@ links:
   website:
     - drips.network
   blog: []
-  x: []
+  x:
+    - dripsnetwork
   linkedin: []
-  discord: []
+  discord:
+    - discord.gg/bakdkkdphf
   telegram: []
   youtube: []
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/drips-network
 attributes:
   category: null
   tags: []

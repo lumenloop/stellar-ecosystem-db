@@ -7,9 +7,12 @@ links:
     - rails.xyz
   blog:
     - blog.rails.xyz
-  x: []
-  linkedin: []
-  discord: []
+  x:
+    - rails_xyz
+  linkedin:
+    - linkedin.com/company/railsxyz
+  discord:
+    - discord.gg/rails
   telegram: []
   youtube: []
   instagram: []

@@ -6,12 +6,15 @@ links:
   website:
     - rain.com
   blog: []
-  x: []
-  linkedin: []
+  x:
+    - rain
+  linkedin:
+    - linkedin.com/company/rain
   discord: []
   telegram: []
   youtube: []
-  instagram: []
+  instagram:
+    - rainfinancial
   reddit: []
   tiktok: []
   linktree: []
