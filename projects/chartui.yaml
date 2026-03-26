@@ -21,8 +21,12 @@ links:
   github: []
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - DEX
+    - Trading
+    - Analytics
+  operating_region:
+    - Global
   based_in: Finland
 mainnet:
   audits: []

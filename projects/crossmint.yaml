@@ -22,8 +22,12 @@ links:
     - github.com/crossmint
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Wallet Infra
+    - Payments
+    - Stablecoins
+  operating_region:
+    - Global
   based_in: United States
 mainnet:
   audits:

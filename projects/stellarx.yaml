@@ -20,8 +20,11 @@ links:
   github: []
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - DEX
+    - Trading
+  operating_region:
+    - Global
   based_in: Indonesia
 mainnet:
   audits: []

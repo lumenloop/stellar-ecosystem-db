@@ -24,8 +24,12 @@ links:
   github: []
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Software Wallet
+    - Payments
+    - Mobile
+  operating_region:
+    - Global
   based_in: United States
 mainnet:
   audits: []

@@ -23,8 +23,12 @@ links:
     - github.com/etherfuse
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Tokenization
+    - RWA
+    - Stablecoins
+  operating_region:
+    - Global
   based_in: United States
 mainnet:
   audits: []

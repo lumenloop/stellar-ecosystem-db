@@ -25,8 +25,14 @@ links:
     - github.com/inventure
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Payments
+    - Unbanked
+    - Mobile
+  operating_region:
+    - Latin America & Caribbean
+    - East Asia & Pacific
+    - Sub-Saharan Africa
   based_in: New Zealand
 mainnet:
   audits: []

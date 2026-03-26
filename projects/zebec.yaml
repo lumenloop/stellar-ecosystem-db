@@ -26,8 +26,12 @@ links:
     - github.com/zebec-protocol
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Payroll
+    - Payments
+    - Automation
+  operating_region:
+    - Global
   based_in: United States
 mainnet:
   audits: []

@@ -22,7 +22,11 @@ links:
   github: []
 attributes:
   category: Financial Protocols
-  tags: []
-  operating_region: []
+  tags:
+    - DeFi
+    - Institutional
+    - Liquidity
+  operating_region:
+    - Global
   based_in: null
 mainnet: {}

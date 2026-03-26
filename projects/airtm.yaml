@@ -25,8 +25,14 @@ links:
   github: []
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Payments
+    - Cross-Border Payments
+    - Latam
+    - P2P
+  operating_region:
+    - Latin America & Caribbean
+    - Emerging Markets
   based_in: Argentina
 mainnet:
   audits: []

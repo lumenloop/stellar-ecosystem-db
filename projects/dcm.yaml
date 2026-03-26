@@ -22,8 +22,12 @@ links:
   github: []
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Payments
+    - Infrastructure
+    - Europe
+  operating_region:
+    - Europe & Central Asia
   based_in: Poland
 mainnet:
   audits: []

@@ -23,8 +23,12 @@ links:
     - github.com/lobstrco
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Software Wallet
+    - DEX
+    - Infrastructure
+  operating_region:
+    - Global
   based_in: Indonesia
 mainnet:
   audits: []

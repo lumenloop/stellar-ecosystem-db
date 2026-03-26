@@ -23,8 +23,12 @@ links:
     - github.com/cubist-labs
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - DevX
+    - Multi-Chain
+    - SDK
+  operating_region:
+    - Global
   based_in: United States
 mainnet:
   audits: []

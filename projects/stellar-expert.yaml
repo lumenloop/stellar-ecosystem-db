@@ -21,8 +21,11 @@ links:
     - github.com/stellar-expert
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Block Explorer
+    - Analytics
+  operating_region:
+    - Global
   based_in: null
 mainnet:
   audits: []

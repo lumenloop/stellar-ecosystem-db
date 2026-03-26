@@ -10,22 +10,20 @@ links:
   blog:
     - boundless.network/blog
   x:
-    - boundless_xyz
     - boundless_fi
   linkedin:
     - linkedin.com/company/boundlesshq
   discord:
-    - discord.gg/boundlessxyz
+    - discord.gg/boundlessfi
     - discord.gg/f9wtkrcp
   telegram:
-    - t.me/+85-aipvvj9y0n2e0
+    - t.me/boundlessfi
   youtube: []
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
-    - github.com/boundless-xyz
     - github.com/boundlessfi
 attributes:
   category: Applications

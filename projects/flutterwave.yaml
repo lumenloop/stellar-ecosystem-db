@@ -24,8 +24,12 @@ links:
     - github.com/flutterwave
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Payment Gateway
+    - Africa
+    - B2B
+  operating_region:
+    - Global
   based_in: Nigeria
 mainnet:
   audits: []

@@ -23,8 +23,12 @@ links:
     - github.com/taurushq-io
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Tokenization
+    - Institutional
+    - Infrastructure
+  operating_region:
+    - Europe & Central Asia
   based_in: Switzerland
 mainnet:
   audits: []

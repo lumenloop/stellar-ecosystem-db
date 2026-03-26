@@ -22,8 +22,11 @@ links:
   github: []
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Stablecoins
+    - Infrastructure
+  operating_region:
+    - Global
   based_in: Canada
 mainnet:
   audits: []

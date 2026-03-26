@@ -23,8 +23,12 @@ links:
     - github.com/templar-protocol
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - DeFi
+    - Lending & Borrowing
+    - Cross-Chain
+  operating_region:
+    - Global
   based_in: United States
 mainnet:
   audits: []

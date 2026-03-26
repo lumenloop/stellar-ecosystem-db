@@ -25,8 +25,12 @@ links:
     - github.com/redstone-finance
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Oracle
+    - Infrastructure
+    - DeFi
+  operating_region:
+    - Global
   based_in: United Kingdom
 mainnet:
   audits:

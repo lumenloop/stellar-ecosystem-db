@@ -22,8 +22,11 @@ links:
     - github.com/coinspect
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Security
+    - Auditing
+  operating_region:
+    - Global
   based_in: Argentina
 mainnet:
   audits: []

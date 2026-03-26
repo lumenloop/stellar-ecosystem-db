@@ -19,8 +19,12 @@ links:
   github: []
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Tokenization
+    - RWA
+    - Institutional
+  operating_region:
+    - Global
   based_in: null
 mainnet:
   audits:

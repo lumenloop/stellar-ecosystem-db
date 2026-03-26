@@ -22,8 +22,11 @@ links:
     - github.com/eq-lab
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - DevX
+    - DeFi
+  operating_region:
+    - Global
   based_in: Lisbon, Portugal
 mainnet:
   audits:

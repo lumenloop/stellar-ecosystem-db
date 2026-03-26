@@ -24,8 +24,11 @@ links:
     - github.com/flipsidecrypto
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Analytics
+    - Community
+  operating_region:
+    - Global
   based_in: United States
 mainnet:
   audits: []

@@ -23,8 +23,13 @@ links:
   github: []
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Software Wallet
+    - Stablecoins
+    - Mobile
+    - On-Off Ramp
+  operating_region:
+    - Global
   based_in: null
 mainnet:
   audits: []

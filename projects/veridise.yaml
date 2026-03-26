@@ -26,7 +26,8 @@ attributes:
     - Security
     - Auditing
     - Formal Verification
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Hong Kong
 mainnet:
   audits: []

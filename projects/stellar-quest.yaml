@@ -22,8 +22,12 @@ links:
     - github.com/stellar/soroban-quest
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - e-learning
+    - Community
+    - Gaming
+  operating_region:
+    - Global
   based_in: null
 mainnet:
   audits:

@@ -21,7 +21,9 @@ links:
     - github.com/drips-network
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - DeFi
+  operating_region:
+    - Global
   based_in: null
 mainnet: {}

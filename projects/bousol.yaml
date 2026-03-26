@@ -22,8 +22,13 @@ links:
   github: []
 attributes:
   category: Wallet
-  tags: []
-  operating_region: []
+  tags:
+    - Software Wallet
+    - Cross-Border Payments
+    - Unbanked
+  operating_region:
+    - Latin America & Caribbean
+    - North America (without Mexico)
   based_in: null
 mainnet:
   audits: []

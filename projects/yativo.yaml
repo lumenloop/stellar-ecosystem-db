@@ -24,8 +24,13 @@ links:
     - github.com/yativo
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - API
+    - Payments
+    - Latam
+  operating_region:
+    - Latin America & Caribbean
+    - East Asia & Pacific
   based_in: Chile
 mainnet:
   audits: []

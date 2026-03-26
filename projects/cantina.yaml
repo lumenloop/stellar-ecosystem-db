@@ -25,7 +25,8 @@ attributes:
   tags:
     - Security
     - Auditing
-  operating_region: []
+  operating_region:
+    - Global
   based_in: null
 mainnet:
   audits: []

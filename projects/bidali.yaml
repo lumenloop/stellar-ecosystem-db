@@ -22,8 +22,11 @@ links:
     - github.com/bidalihq
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Payments
+    - Merchant
+  operating_region:
+    - Global
   based_in: Canada
 mainnet:
   audits: []

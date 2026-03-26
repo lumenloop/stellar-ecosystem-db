@@ -20,8 +20,12 @@ links:
   github: []
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Payments
+    - Stablecoins
+    - USD
+  operating_region:
+    - Global
   based_in: Mexico
 mainnet:
   audits: []

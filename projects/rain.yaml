@@ -21,7 +21,11 @@ links:
   github: []
 attributes:
   category: Payments
-  tags: []
-  operating_region: []
+  tags:
+    - Payments
+    - Stablecoins
+    - Mobile
+  operating_region:
+    - Global
   based_in: null
 mainnet: {}

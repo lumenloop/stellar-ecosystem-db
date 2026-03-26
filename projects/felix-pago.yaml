@@ -24,8 +24,13 @@ links:
   github: []
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Remittances
+    - Latam
+    - Mobile
+  operating_region:
+    - Latin America & Caribbean
+    - North America (without Mexico)
   based_in: United States
 mainnet:
   audits: []

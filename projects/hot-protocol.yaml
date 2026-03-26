@@ -25,8 +25,12 @@ links:
     - github.com/hot-dao/hot-connector
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Security
+    - Multi-Chain
+    - MPC
+  operating_region:
+    - Global
   based_in: Ukraine
 mainnet:
   audits:

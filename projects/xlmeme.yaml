@@ -21,8 +21,11 @@ links:
   github: []
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Launchpad
+    - Multi-Chain
+  operating_region:
+    - Global
   based_in: null
 mainnet:
   audits: []

@@ -26,8 +26,11 @@ links:
     - github.com/trezor
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Security
+    - Infrastructure
+  operating_region:
+    - Global
   based_in: United States
 mainnet:
   audits: []
