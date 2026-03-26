@@ -22,8 +22,12 @@ links:
     - github.com/astroband/astrograph
 attributes:
   category: Infrastructure & Services
-  tags: []
-  operating_region: []
+  tags:
+    - API
+    - Infrastructure
+    - Database
+  operating_region:
+    - Global
   based_in: null
 scf:
   awarded_round:

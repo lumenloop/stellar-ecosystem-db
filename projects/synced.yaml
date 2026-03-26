@@ -25,7 +25,8 @@ attributes:
     - Geolocation
     - Payments
     - Implementation
-  operating_region: []
+  operating_region:
+    - Global
   based_in: United Kingdom
 scf:
   awarded_round:

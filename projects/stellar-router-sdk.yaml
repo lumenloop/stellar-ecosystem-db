@@ -21,7 +21,9 @@ links:
     - github.com/creit-tech
 attributes:
   category: Infrastructure & Services
-  tags: []
+  tags:
+    - SDK
+    - DevX
   operating_region:
     - Chile
   based_in: Canada

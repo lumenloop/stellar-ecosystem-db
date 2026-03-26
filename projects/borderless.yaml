@@ -19,8 +19,12 @@ links:
     - github.com/borderless-payments
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - Payments
+    - Remittances
+    - API
+  operating_region:
+    - Global
   based_in: Spain
 scf:
   awarded_round:

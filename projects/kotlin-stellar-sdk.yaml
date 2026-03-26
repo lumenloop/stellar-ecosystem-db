@@ -19,8 +19,11 @@ links:
     - github.com/rahimklaber/stellar_kt
 attributes:
   category: Developer Tooling
-  tags: []
-  operating_region: []
+  tags:
+    - SDK
+    - Library
+  operating_region:
+    - Global
   based_in: null
 scf:
   awarded_round:

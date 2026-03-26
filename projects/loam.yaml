@@ -23,7 +23,8 @@ attributes:
     - SDK
     - Automation
     - DevX
-  operating_region: []
+  operating_region:
+    - Global
   based_in: United States
 scf:
   awarded_round:

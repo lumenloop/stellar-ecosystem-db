@@ -21,7 +21,10 @@ links:
     - github.com/bluxcc
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - DevX
+    - SDK
+    - Identity
   operating_region:
     - Europe
   based_in: Turkey

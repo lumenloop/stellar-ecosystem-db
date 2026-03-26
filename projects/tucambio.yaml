@@ -22,7 +22,10 @@ links:
     - github.com/tucambioapp
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - On-Off Ramp
+    - API
+    - Latam
   operating_region:
     - Latin America & Caribbean
     - Europe & Central Asia

@@ -22,7 +22,10 @@ links:
   github: []
 attributes:
   category: Education
-  tags: []
+  tags:
+    - Community
+    - e-learning
+    - Hackathons
   operating_region:
     - Argentina
   based_in: United States

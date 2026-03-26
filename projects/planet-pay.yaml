@@ -24,7 +24,8 @@ attributes:
   tags:
     - B2B
     - Wallet Infra
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Argentina
 scf:
   awarded_round:

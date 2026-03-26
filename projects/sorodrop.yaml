@@ -21,8 +21,11 @@ links:
     - github.com/findolor/sorodrop
 attributes:
   category: Developer Tooling
-  tags: []
-  operating_region: []
+  tags:
+    - Airdrop
+    - DevX
+  operating_region:
+    - Global
   based_in: Turkey
 scf:
   awarded_round:

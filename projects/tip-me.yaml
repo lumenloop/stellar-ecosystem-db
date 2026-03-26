@@ -19,8 +19,11 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - Payments
+    - Social
+  operating_region:
+    - Global
   based_in: Germany
 scf:
   awarded_round:

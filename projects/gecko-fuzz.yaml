@@ -20,8 +20,12 @@ links:
     - github.com/jjjutla/geckofuzz
 attributes:
   category: Developer Tooling
-  tags: []
-  operating_region: []
+  tags:
+    - Security
+    - Formal Verification
+    - AI
+  operating_region:
+    - Global
   based_in: null
 scf:
   awarded_round:

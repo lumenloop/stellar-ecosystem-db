@@ -20,7 +20,10 @@ links:
     - github.com/stellarport
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Software Wallet
+    - DEX
+    - Anchor
   operating_region:
     - Korea
   based_in: Korea

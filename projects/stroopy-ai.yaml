@@ -28,7 +28,8 @@ attributes:
     - SDK
     - Automation
     - Identity
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Canada
 scf:
   awarded_round:

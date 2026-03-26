@@ -19,8 +19,11 @@ links:
     - github.com/astroband/astrocore
 attributes:
   category: Infrastructure & Services
-  tags: []
-  operating_region: []
+  tags:
+    - Infrastructure
+    - Nodes
+  operating_region:
+    - Global
   based_in: null
 scf:
   awarded_round:

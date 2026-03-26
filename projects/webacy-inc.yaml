@@ -25,7 +25,10 @@ links:
   github: []
 attributes:
   category: Infrastructure & Services
-  tags: []
+  tags:
+    - Security
+    - Risk Management
+    - Analytics
   operating_region:
     - United States
   based_in: United States

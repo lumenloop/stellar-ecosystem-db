@@ -20,7 +20,10 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - DeFi
+    - Merchant
+    - Yield
   operating_region:
     - Europe & Central Asia
     - North America (without Mexico)

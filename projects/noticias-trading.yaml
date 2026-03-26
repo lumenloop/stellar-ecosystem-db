@@ -23,7 +23,10 @@ links:
   github: []
 attributes:
   category: Education & Community
-  tags: []
+  tags:
+    - e-learning
+    - Community
+    - Latam
   operating_region:
     - Spain
   based_in: Spain

@@ -19,8 +19,11 @@ links:
     - github.com/soroban-learn/soroban-learn
 attributes:
   category: Education & Community
-  tags: []
-  operating_region: []
+  tags:
+    - e-learning
+    - DevX
+  operating_region:
+    - Global
   based_in: null
 scf:
   awarded_round:

@@ -21,8 +21,11 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - Aid
+    - Funding Allocation
+  operating_region:
+    - Global
   based_in: Nigeria
 scf:
   awarded_round:

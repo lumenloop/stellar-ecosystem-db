@@ -21,7 +21,10 @@ links:
     - github.com/hedgepayapp
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - DeFi
+    - Yield
+    - Lending & Borrowing
   operating_region:
     - Latin America & Caribbean
   based_in: Estonia

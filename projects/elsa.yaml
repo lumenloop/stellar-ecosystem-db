@@ -22,7 +22,11 @@ links:
     - github.com/elsa-care
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Software Wallet
+    - Remittances
+    - Asia
+    - Mobile
   operating_region:
     - Spain
   based_in: Spain

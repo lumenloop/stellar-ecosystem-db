@@ -24,7 +24,9 @@ links:
     - github.com/jet-lab/polaris
 attributes:
   category: Financial Protocols
-  tags: []
+  tags:
+    - DeFi
+    - Lending & Borrowing
   operating_region:
     - United States
   based_in: United States

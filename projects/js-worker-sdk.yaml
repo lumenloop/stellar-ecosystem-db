@@ -19,8 +19,12 @@ links:
     - github.com/cloudouble/stellar-js-worker-sdk
 attributes:
   category: Developer Tooling
-  tags: []
-  operating_region: []
+  tags:
+    - SDK
+    - API
+    - Library
+  operating_region:
+    - Global
   based_in: Colombia
 scf:
   awarded_round:

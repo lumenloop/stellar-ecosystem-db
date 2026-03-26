@@ -21,8 +21,12 @@ links:
     - github.com/josectoscano/stellar-mcp
 attributes:
   category: Developer Tooling
-  tags: []
-  operating_region: []
+  tags:
+    - AI
+    - SDK
+    - DevX
+  operating_region:
+    - Global
   based_in: United States
 scf:
   awarded_round:

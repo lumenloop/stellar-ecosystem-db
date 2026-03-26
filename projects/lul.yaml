@@ -22,7 +22,11 @@ links:
     - github.com/zerie5
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Payments
+    - Remittances
+    - Africa
+    - Unbanked
   operating_region:
     - Sub-Saharan Africa
   based_in: Uganda

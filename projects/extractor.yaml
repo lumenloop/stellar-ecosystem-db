@@ -21,7 +21,8 @@ links:
     - github.com/haas-labs/extractor
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - Security
   operating_region:
     - Ukraine
   based_in: Portugal

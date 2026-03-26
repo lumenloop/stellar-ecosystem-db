@@ -19,7 +19,10 @@ links:
     - github.com/falparis/aitt
 attributes:
   category: Infrastructure & Services
-  tags: []
+  tags:
+    - AI
+    - Identity
+    - NFT
   operating_region:
     - Europe & Central Asia
   based_in: France

@@ -25,7 +25,9 @@ links:
     - github.com/btq-ag
 attributes:
   category: Education & Community
-  tags: []
+  tags:
+    - ZK
+    - Infrastructure
   operating_region:
     - Thailand
   based_in: Thailand

@@ -23,7 +23,10 @@ links:
   github: []
 attributes:
   category: End-User Application
-  tags: []
+  tags:
+    - Payments
+    - Latam
+    - Plugin
   operating_region:
     - Mexico
   based_in: Mexico

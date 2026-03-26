@@ -20,8 +20,10 @@ links:
   github: []
 attributes:
   category: Financial Protocols
-  tags: []
-  operating_region: []
+  tags:
+    - DeFi
+  operating_region:
+    - Global
   based_in: null
 scf:
   awarded_round:

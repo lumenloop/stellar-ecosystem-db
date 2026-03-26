@@ -19,8 +19,11 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - DAO Tool
+    - Governance
+  operating_region:
+    - Global
   based_in: null
 scf:
   awarded_round:

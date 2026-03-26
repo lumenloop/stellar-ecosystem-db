@@ -21,8 +21,11 @@ links:
     - github.com/venture-23/localcoin
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - Aid
+    - Community
+  operating_region:
+    - Global
   based_in: null
 scf:
   awarded_round:

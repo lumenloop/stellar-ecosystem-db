@@ -21,7 +21,10 @@ links:
     - github.com/streamcharge/apicharge
 attributes:
   category: Infrastructure & Services
-  tags: []
+  tags:
+    - API
+    - Payments
+    - Automation
   operating_region:
     - Czech Republic
   based_in: Czech Republic

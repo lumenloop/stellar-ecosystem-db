@@ -22,7 +22,10 @@ links:
     - github.com/soundnesslabs
 attributes:
   category: Infrastructure & Services
-  tags: []
+  tags:
+    - Security
+    - ZK
+    - Infrastructure
   operating_region:
     - Europe & Central Asia
   based_in: United Kingdom

@@ -23,7 +23,10 @@ links:
     - github.com/web3wizardz/remi-p
 attributes:
   category: Financial Protocols
-  tags: []
+  tags:
+    - Remittances
+    - Africa
+    - Cross-Border Payments
   operating_region:
     - Middle East & North Africa
     - Sub-Saharan Africa

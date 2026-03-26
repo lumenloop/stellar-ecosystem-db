@@ -26,7 +26,8 @@ attributes:
   category: Infrastructure & Services
   tags:
     - Oracle
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Brazil
 scf:
   awarded_round:

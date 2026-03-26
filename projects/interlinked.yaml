@@ -22,7 +22,9 @@ links:
     - github.com/antontat27/interlinked-backend
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - Infrastructure
+    - Web
   operating_region:
     - Cyprus
   based_in: Cyprus

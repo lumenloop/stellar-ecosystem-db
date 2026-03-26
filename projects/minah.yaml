@@ -21,7 +21,10 @@ links:
     - github.com/gakpe/minah_blockchain_v0.2
 attributes:
   category: Financial Protocols
-  tags: []
+  tags:
+    - Real Estate
+    - Tokenization
+    - Fractional Ownership
   operating_region:
     - Sub-Saharan Africa
   based_in: France

@@ -18,8 +18,12 @@ links:
     - github.com/crypto-link-payments/crypto-link
 attributes:
   category: Infrastructure & Services
-  tags: []
-  operating_region: []
+  tags:
+    - Payments
+    - P2P
+    - Social
+  operating_region:
+    - Global
   based_in: null
 scf:
   awarded_round:

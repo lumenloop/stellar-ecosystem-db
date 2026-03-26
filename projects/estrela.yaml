@@ -32,7 +32,8 @@ attributes:
     - SDK
     - Cross-Chain
     - Implementation
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Ukraine
 scf:
   awarded_round:

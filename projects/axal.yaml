@@ -24,7 +24,10 @@ links:
     - github.com/getaxal/verified-signer
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - AI
+    - Automation
+    - Multi-Chain
   operating_region:
     - North America (without Mexico)
   based_in: United States

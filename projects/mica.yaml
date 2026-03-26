@@ -21,8 +21,11 @@ links:
     - github.com/micatechnology/escrow_api
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - Real Estate
+    - Payments
+  operating_region:
+    - Global
   based_in: Mexico
 scf:
   awarded_round:

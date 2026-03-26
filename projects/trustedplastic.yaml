@@ -21,7 +21,8 @@ attributes:
   tags:
     - Eco-Friendly
     - Supply-Chain
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Spain
 scf:
   awarded_round:

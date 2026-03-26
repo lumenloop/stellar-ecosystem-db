@@ -23,7 +23,8 @@ attributes:
     - Security
     - Infrastructure
     - Implementation
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Portugal
 scf:
   awarded_round:

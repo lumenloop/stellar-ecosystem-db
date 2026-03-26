@@ -21,7 +21,9 @@ links:
     - github.com/blueorionblockchain
 attributes:
   category: Infrastructure & Services
-  tags: []
+  tags:
+    - e-learning
+    - Workshops
   operating_region:
     - Utting am Ammersee, Germany
   based_in: Utting am Ammersee, Germany

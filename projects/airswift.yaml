@@ -29,7 +29,8 @@ attributes:
     - Lending & Borrowing
     - B2B
     - Supply-Chain
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Canada
 scf:
   awarded_round:

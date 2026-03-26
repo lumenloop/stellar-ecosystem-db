@@ -22,7 +22,10 @@ links:
     - github.com/taskdotio
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Community
+    - NFT
+    - Social
   operating_region:
     - United States
   based_in: Thailand

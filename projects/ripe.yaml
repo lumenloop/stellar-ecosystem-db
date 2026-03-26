@@ -27,7 +27,8 @@ attributes:
     - Asia
     - Cross-Border Payments
     - Philippines
-  operating_region: []
+  operating_region:
+    - East Asia & Pacific
   based_in: Philippines
 scf:
   awarded_round:

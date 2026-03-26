@@ -22,7 +22,10 @@ links:
     - github.com/whalestackhq
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Payment Gateway
+    - API
+    - B2B
   operating_region:
     - Finland
   based_in: Finland

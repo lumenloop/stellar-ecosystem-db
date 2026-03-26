@@ -20,7 +20,10 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - AI
+    - DEX
+    - Launchpad
   operating_region:
     - South Asia
     - East Asia & Pacific

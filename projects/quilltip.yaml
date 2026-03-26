@@ -20,8 +20,12 @@ links:
     - github.com/pragya-shar/quilltip
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - Social
+    - NFT
+    - Community
+  operating_region:
+    - Global
   based_in: India
 scf:
   awarded_round:

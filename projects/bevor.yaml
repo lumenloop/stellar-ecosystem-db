@@ -20,7 +20,10 @@ links:
     - github.com/bevor-protocol
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - Security
+    - AI
+    - Auditing
   operating_region:
     - United States
   based_in: United States

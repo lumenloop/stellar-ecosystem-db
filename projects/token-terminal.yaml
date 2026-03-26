@@ -19,7 +19,10 @@ links:
   github: []
 attributes:
   category: Infrastructure & Services
-  tags: []
+  tags:
+    - Analytics
+    - Infrastructure
+    - API
   operating_region:
     - Europe & Central Asia
   based_in: Finland

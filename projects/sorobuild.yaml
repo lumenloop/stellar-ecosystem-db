@@ -23,7 +23,8 @@ attributes:
     - Plugin
     - SDK
     - DevX
-  operating_region: []
+  operating_region:
+    - Global
   based_in: France
 scf:
   awarded_round:

@@ -22,7 +22,10 @@ links:
     - github.com/devasignhq
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - Automation
+    - DevX
+    - AI
   operating_region:
     - Sub-Saharan Africa
     - Europe & Central Asia

@@ -35,7 +35,8 @@ attributes:
     - Savings
     - Freelancers
     - Moneygram
-  operating_region: []
+  operating_region:
+    - Latin America & Caribbean
   based_in: Colombia
 scf:
   awarded_round:

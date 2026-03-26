@@ -29,7 +29,8 @@ attributes:
     - Workshops
     - Hackathons
     - India
-  operating_region: []
+  operating_region:
+    - Global
   based_in: India
 scf:
   awarded_round:

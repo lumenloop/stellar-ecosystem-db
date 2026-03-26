@@ -23,7 +23,10 @@ links:
     - github.com/centiiv/protocol-node
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Payments
+    - Payment Gateway
+    - Africa
   operating_region:
     - Sub-Saharan Africa
   based_in: Nigeria

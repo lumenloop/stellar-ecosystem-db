@@ -19,8 +19,11 @@ links:
     - github.com/yieldback-cash
 attributes:
   category: Financial Protocols
-  tags: []
-  operating_region: []
+  tags:
+    - DeFi
+    - Yield
+  operating_region:
+    - Global
   based_in: Canada
 scf:
   awarded_round:

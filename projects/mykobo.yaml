@@ -25,7 +25,8 @@ attributes:
   tags:
     - Anchor
     - EUR
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Poland
 scf:
   awarded_round:

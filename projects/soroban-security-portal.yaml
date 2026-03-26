@@ -23,7 +23,9 @@ links:
     - github.com/inferara/soroban-security-portal
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - Security
+    - DevX
   operating_region:
     - East Asia & Pacific
   based_in: Japan

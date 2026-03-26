@@ -21,8 +21,13 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - Remittances
+    - Latam
+    - Mobile
+  operating_region:
+    - Latin America & Caribbean
+    - North America (without Mexico)
   based_in: null
 scf:
   awarded_round:

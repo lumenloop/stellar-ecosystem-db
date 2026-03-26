@@ -20,7 +20,9 @@ links:
     - github.com/websoroban
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - DevX
+    - Web
   operating_region:
     - South Asia
   based_in: India

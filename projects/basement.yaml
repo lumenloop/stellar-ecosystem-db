@@ -22,7 +22,10 @@ links:
     - github.com/basementdev
 attributes:
   category: Infrastructure & Services
-  tags: []
+  tags:
+    - API
+    - Indexer
+    - Database
   operating_region:
     - Netherlands
   based_in: Netherlands

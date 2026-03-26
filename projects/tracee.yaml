@@ -23,7 +23,9 @@ attributes:
   tags:
     - SDP
     - MENA
-  operating_region: []
+  operating_region:
+    - Europe & Central Asia
+    - Middle East & North Africa
   based_in: France
 scf:
   awarded_round:

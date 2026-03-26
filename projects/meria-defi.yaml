@@ -19,7 +19,9 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - DeFi
+    - Yield
   operating_region:
     - France
   based_in: France

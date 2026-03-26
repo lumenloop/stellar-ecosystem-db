@@ -25,7 +25,8 @@ attributes:
   tags:
     - Cross-Border Payments
     - Payments
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Bolivia
 scf:
   awarded_round:

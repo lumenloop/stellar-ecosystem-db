@@ -22,7 +22,10 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Software Wallet
+    - Unbanked
+    - Mobile
   operating_region:
     - Mexico
   based_in: Mexico

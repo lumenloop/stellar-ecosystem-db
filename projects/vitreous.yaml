@@ -25,7 +25,8 @@ attributes:
     - Aid
     - Unbanked
     - Ecosystem Discovery
-  operating_region: []
+  operating_region:
+    - Global
   based_in: France
 scf:
   awarded_round:

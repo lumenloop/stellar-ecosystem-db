@@ -22,7 +22,8 @@ links:
     - github.com/mavennet/stellar-did
 attributes:
   category: Infrastructure & Services
-  tags: []
+  tags:
+    - Identity
   operating_region:
     - United States
   based_in: United States

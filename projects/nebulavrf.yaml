@@ -27,7 +27,8 @@ attributes:
     - Rust
     - SDK
     - DAO Tool
-  operating_region: []
+  operating_region:
+    - Global
   based_in: India
 scf:
   awarded_round:

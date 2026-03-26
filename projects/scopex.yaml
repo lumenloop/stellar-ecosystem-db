@@ -25,7 +25,8 @@ attributes:
     - Cross-Border Payments
     - India
     - Asia
-  operating_region: []
+  operating_region:
+    - South Asia
   based_in: India
 scf:
   awarded_round:

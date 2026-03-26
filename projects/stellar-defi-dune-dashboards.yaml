@@ -20,7 +20,9 @@ links:
     - github.com/paltalabs
 attributes:
   category: Infrastructure & Services
-  tags: []
+  tags:
+    - Analytics
+    - DeFi
   operating_region:
     - Brazil
   based_in: Chile

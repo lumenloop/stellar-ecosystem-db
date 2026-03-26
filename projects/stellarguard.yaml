@@ -20,8 +20,11 @@ links:
     - github.com/stellarguard/stellarguard
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - Security
+    - Multi Signatures
+  operating_region:
+    - Global
   based_in: null
 scf:
   awarded_round:

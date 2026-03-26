@@ -18,8 +18,12 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - On-Off Ramp
+    - Latam
+    - USD
+  operating_region:
+    - Global
   based_in: Argentina
 scf:
   awarded_round:

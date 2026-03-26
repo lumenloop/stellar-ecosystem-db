@@ -21,7 +21,8 @@ attributes:
   category: Developer Tooling
   tags:
     - Launchpad
-  operating_region: []
+  operating_region:
+    - Global
   based_in: United States
 scf:
   awarded_round:

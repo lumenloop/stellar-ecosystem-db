@@ -24,7 +24,8 @@ attributes:
   tags:
     - Latam
     - Community
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Spain
 scf:
   awarded_round:

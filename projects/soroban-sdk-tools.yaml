@@ -19,7 +19,10 @@ links:
     - github.com/blaineheffron/soroban-sdk-tools
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - SDK
+    - Rust
+    - DevX
   operating_region:
     - North America (without Mexico)
   based_in: United States

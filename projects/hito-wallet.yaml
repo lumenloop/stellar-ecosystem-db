@@ -22,7 +22,9 @@ links:
     - github.com/mishabunte/hito-firmware-rust
 attributes:
   category: Infrastructure & Services
-  tags: []
+  tags:
+    - Infrastructure
+    - Security
   operating_region:
     - Europe & Central Asia
     - North America (without Mexico)

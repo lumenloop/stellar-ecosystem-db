@@ -25,7 +25,10 @@ links:
     - github.com/vannafinance/protocol_v1_soroban
 attributes:
   category: Financial Protocols
-  tags: []
+  tags:
+    - DeFi
+    - Trading
+    - Cross-Chain
   operating_region:
     - India
   based_in: India

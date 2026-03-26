@@ -22,8 +22,12 @@ links:
     - github.com/hurley87/refraction
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - NFT
+    - Marketplace
+    - Community
+  operating_region:
+    - Global
   based_in: Canada
 scf:
   awarded_round:

@@ -22,7 +22,10 @@ links:
     - github.com/peridotfinance/peridot-soroban
 attributes:
   category: Financial Protocols
-  tags: []
+  tags:
+    - DeFi
+    - Lending & Borrowing
+    - Cross-Chain
   operating_region:
     - North America (without Mexico)
   based_in: Germany

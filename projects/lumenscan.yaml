@@ -21,7 +21,9 @@ links:
   github: []
 attributes:
   category: Infrastructure & Services
-  tags: []
+  tags:
+    - Block Explorer
+    - Analytics
   operating_region:
     - Stellar Galaxy
   based_in: Stellar Galaxy

@@ -24,7 +24,8 @@ attributes:
     - Gift Cards
     - Merchant
     - Multi-Chain
-  operating_region: []
+  operating_region:
+    - Global
   based_in: United Kingdom
 scf:
   awarded_round:

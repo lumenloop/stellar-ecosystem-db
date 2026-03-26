@@ -25,7 +25,10 @@ links:
     - github.com/fastbuka
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Payments
+    - Africa
+    - Mobile
   operating_region:
     - Sub-Saharan Africa
   based_in: Nigeria

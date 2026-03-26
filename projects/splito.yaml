@@ -22,7 +22,9 @@ links:
     - github.com/splitoio
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Payments
+    - Mobile
   operating_region:
     - India
   based_in: India

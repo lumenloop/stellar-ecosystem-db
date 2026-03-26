@@ -27,7 +27,11 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Payments
+    - On-Off Ramp
+    - Asia
+    - Mobile
   operating_region:
     - Philippines
   based_in: Philippines

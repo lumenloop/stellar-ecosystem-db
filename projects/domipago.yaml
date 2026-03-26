@@ -20,7 +20,10 @@ links:
     - github.com/melomar10/domipago
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Remittances
+    - Caribbean
+    - On-Off Ramp
   operating_region:
     - Latin America & Caribbean
     - North America (without Mexico)

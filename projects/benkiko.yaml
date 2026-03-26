@@ -28,7 +28,10 @@ links:
     - github.com/benkikodao/benkiko-api
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - Payments
+    - API
+    - Africa
   operating_region:
     - Sub-Saharan Africa
   based_in: Kenya

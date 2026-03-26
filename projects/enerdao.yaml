@@ -32,7 +32,8 @@ attributes:
     - Liquidity
     - Lending & Borrowing
     - Art
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Ukraine
 scf:
   awarded_round:

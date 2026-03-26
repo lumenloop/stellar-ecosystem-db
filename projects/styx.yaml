@@ -25,7 +25,8 @@ attributes:
     - Cross-Chain
     - Multi-Chain
     - Ecosystem Discovery
-  operating_region: []
+  operating_region:
+    - Global
   based_in: United States
 scf:
   awarded_round:

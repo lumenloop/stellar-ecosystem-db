@@ -24,7 +24,9 @@ links:
     - github.com/thehubdao
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Art
+    - Community
   operating_region:
     - Germany
   based_in: Germany

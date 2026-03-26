@@ -26,7 +26,8 @@ attributes:
   tags:
     - Analytics
     - DevX
-  operating_region: []
+  operating_region:
+    - Global
   based_in: China
 scf:
   awarded_round:

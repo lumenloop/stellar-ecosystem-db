@@ -21,7 +21,9 @@ links:
     - github.com/amonprivacy
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Security
+    - ZK
   operating_region:
     - Europe & Central Asia
   based_in: France

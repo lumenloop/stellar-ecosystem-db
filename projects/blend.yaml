@@ -23,8 +23,12 @@ links:
     - github.com/blend-capital
 attributes:
   category: Financial Protocols
-  tags: []
-  operating_region: []
+  tags:
+    - DeFi
+    - Lending & Borrowing
+    - Liquidity
+  operating_region:
+    - Global
   based_in: United States
 scf:
   awarded_round:

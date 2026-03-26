@@ -21,7 +21,9 @@ links:
     - github.com/seunsanyaa/prophe
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - DevX
+    - Automation
   operating_region:
     - Sub-Saharan Africa
   based_in: Nigeria

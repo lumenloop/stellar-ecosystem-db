@@ -21,7 +21,10 @@ links:
   github: []
 attributes:
   category: Financial Protocols
-  tags: []
+  tags:
+    - Tokenization
+    - Institutional
+    - Europe
   operating_region:
     - Europe & Central Asia
   based_in: Spain

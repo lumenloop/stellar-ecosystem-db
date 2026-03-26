@@ -19,8 +19,12 @@ links:
     - github.com/soneso/arcturus
 attributes:
   category: Infrastructure & Services
-  tags: []
-  operating_region: []
+  tags:
+    - AI
+    - API
+    - DevX
+  operating_region:
+    - Global
   based_in: null
 scf:
   awarded_round:

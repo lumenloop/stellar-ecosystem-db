@@ -23,7 +23,10 @@ links:
     - github.com/adamikhq
 attributes:
   category: Infrastructure & Services
-  tags: []
+  tags:
+    - API
+    - Multi-Chain
+    - Wallet Infra
   operating_region:
     - Europe & Central Asia
   based_in: France

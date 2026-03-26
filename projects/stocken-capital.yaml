@@ -22,8 +22,11 @@ links:
   github: []
 attributes:
   category: Developer Tooling
-  tags: []
-  operating_region: []
+  tags:
+    - Tokenization
+    - Institutional
+  operating_region:
+    - Global
   based_in: Spain
 scf:
   awarded_round:

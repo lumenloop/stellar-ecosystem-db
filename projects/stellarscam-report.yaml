@@ -19,8 +19,11 @@ links:
   github: []
 attributes:
   category: Education & Community
-  tags: []
-  operating_region: []
+  tags:
+    - Security
+    - Community
+  operating_region:
+    - Global
   based_in: null
 scf:
   awarded_round:

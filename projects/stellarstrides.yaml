@@ -21,7 +21,8 @@ attributes:
   tags:
     - Marketing
     - Ecosystem Discovery
-  operating_region: []
+  operating_region:
+    - Global
   based_in: null
 scf:
   awarded_round:

@@ -20,7 +20,8 @@ attributes:
   category: Infrastructure & Services
   tags:
     - Accounting
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Portugal
 scf:
   awarded_round:

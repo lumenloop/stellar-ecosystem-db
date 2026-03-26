@@ -24,7 +24,9 @@ links:
     - github.com/web3-antivirus/chrome-extension
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - Security
+    - Browser
   operating_region:
     - United States
   based_in: United States

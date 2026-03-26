@@ -24,7 +24,9 @@ links:
     - github.com/pyved-solution
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Gaming
+    - SDK
   operating_region:
     - Europe & Central Asia
   based_in: France

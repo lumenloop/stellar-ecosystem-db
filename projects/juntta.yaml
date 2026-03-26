@@ -24,7 +24,9 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Funding Allocation
+    - Community
   operating_region:
     - Latin America & Caribbean
   based_in: Peru

@@ -25,7 +25,10 @@ links:
     - github.com/cryptorubic
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Cross-Chain
+    - DEX
+    - Multi-Chain
   operating_region:
     - Romania
   based_in: Russia

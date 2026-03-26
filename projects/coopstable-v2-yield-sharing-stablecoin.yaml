@@ -22,7 +22,10 @@ links:
     - github.com/breadchaincoop/coopstable-contracts
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - DeFi
+    - Stablecoins
+    - Yield
   operating_region:
     - Europe & Central Asia
     - Latin America & Caribbean

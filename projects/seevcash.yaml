@@ -20,7 +20,11 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Payments
+    - Africa
+    - Mobile
+    - Stablecoins
   operating_region:
     - Sub-Saharan Africa
   based_in: Ghana

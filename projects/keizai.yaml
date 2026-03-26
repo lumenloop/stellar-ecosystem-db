@@ -22,7 +22,8 @@ attributes:
   tags:
     - Security
     - Testing
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Australia
 scf:
   awarded_round:

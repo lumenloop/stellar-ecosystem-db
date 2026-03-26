@@ -31,7 +31,8 @@ attributes:
     - Freelancers
     - USD
     - API
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Switzerland
 scf:
   awarded_round:

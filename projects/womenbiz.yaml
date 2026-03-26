@@ -23,7 +23,10 @@ links:
     - github.com/womenbiz
 attributes:
   category: Education & Community
-  tags: []
+  tags:
+    - Community
+    - e-learning
+    - Latam
   operating_region:
     - Peru
   based_in: Peru

@@ -27,7 +27,9 @@ links:
     - github.com/reclaimprotocol/stellar-sdk-onchain-integration
 attributes:
   category: Infrastructure & Services
-  tags: []
+  tags:
+    - Identity
+    - ZK
   operating_region:
     - India
   based_in: India

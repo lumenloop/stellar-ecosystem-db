@@ -19,8 +19,11 @@ links:
     - github.com/cosmic-plus/https-cosmic-link
 attributes:
   category: Infrastructure & Services
-  tags: []
-  operating_region: []
+  tags:
+    - Infrastructure
+    - DevX
+  operating_region:
+    - Global
   based_in: null
 scf:
   awarded_round:

@@ -18,15 +18,16 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/57blocks/stellar-autoaction
     - github.com/57blocks
+    - github.com/57blocks/stellar-autoaction
 attributes:
   category: Developer Tooling
   tags:
     - Automation
     - Art
     - Implementation
-  operating_region: []
+  operating_region:
+    - Global
   based_in: China
 scf:
   awarded_round:

@@ -24,7 +24,8 @@ attributes:
     - Payments
     - Cuba
     - Caribbean
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Netherlands
 scf:
   awarded_round:

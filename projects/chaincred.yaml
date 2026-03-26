@@ -20,7 +20,9 @@ links:
     - github.com/kommitters/chaincerts-smart-contracts
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Analytics
+    - B2B
   operating_region:
     - Mexico
   based_in: Mexico

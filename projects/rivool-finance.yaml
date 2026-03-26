@@ -27,7 +27,10 @@ links:
     - github.com/gitlab.com/rivool-finance/stellar-contracts
 attributes:
   category: Financial Protocols
-  tags: []
+  tags:
+    - Tokenization
+    - RWA
+    - DeFi
   operating_region:
     - Latin America & Caribbean
   based_in: Brazil

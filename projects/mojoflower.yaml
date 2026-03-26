@@ -23,7 +23,9 @@ links:
     - github.com/mojoflower-garden
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Identity
+    - Infrastructure
   operating_region:
     - Iceland
   based_in: Iceland

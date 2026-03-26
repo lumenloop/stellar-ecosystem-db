@@ -27,7 +27,10 @@ links:
     - github.com/beamable/stellar-project
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - Gaming
+    - SDK
+    - Infrastructure
   operating_region:
     - Latin America & Caribbean
     - South Asia

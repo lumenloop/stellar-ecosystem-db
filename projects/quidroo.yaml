@@ -18,8 +18,12 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - DeFi
+    - Africa
+    - B2B
+  operating_region:
+    - Sub-Saharan Africa
   based_in: null
 scf:
   awarded_round:

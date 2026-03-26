@@ -19,8 +19,11 @@ links:
     - github.com/stellarpay
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - Payment Gateway
+    - Merchant
+  operating_region:
+    - Global
   based_in: United States
 scf:
   awarded_round:

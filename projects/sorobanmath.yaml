@@ -26,7 +26,8 @@ attributes:
     - DeFi
     - Rust
     - Infrastructure
-  operating_region: []
+  operating_region:
+    - Global
   based_in: India
 scf:
   awarded_round:

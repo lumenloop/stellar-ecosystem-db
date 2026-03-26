@@ -27,7 +27,8 @@ attributes:
     - Tokenization
     - Marketplace
     - Fractional Ownership
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Czech Republic
 scf:
   awarded_round:

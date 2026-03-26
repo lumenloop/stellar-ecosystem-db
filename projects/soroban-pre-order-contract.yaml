@@ -19,8 +19,11 @@ links:
     - github.com/aolieman/soroban-pre-order
 attributes:
   category: Developer Tooling
-  tags: []
-  operating_region: []
+  tags:
+    - Payments
+    - Automation
+  operating_region:
+    - Global
   based_in: null
 scf:
   awarded_round:

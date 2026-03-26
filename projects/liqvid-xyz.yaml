@@ -21,7 +21,10 @@ links:
     - github.com/asterizm-protocol/asterizm-contracts-stellar
 attributes:
   category: Financial Protocols
-  tags: []
+  tags:
+    - Tokenization
+    - Institutional
+    - Liquidity
   operating_region:
     - Cyprus
   based_in: Serbia

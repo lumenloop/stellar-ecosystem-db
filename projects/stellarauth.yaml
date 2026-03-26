@@ -19,8 +19,12 @@ links:
     - github.com/kalepail/stellarauth-serverless
 attributes:
   category: Developer Tooling
-  tags: []
-  operating_region: []
+  tags:
+    - SDK
+    - Security
+    - Identity
+  operating_region:
+    - Global
   based_in: null
 scf:
   awarded_round:

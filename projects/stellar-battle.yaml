@@ -19,8 +19,11 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - Community
+    - Gaming
+  operating_region:
+    - Global
   based_in: Netherlands
 scf:
   awarded_round:

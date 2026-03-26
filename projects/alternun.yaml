@@ -24,8 +24,11 @@ links:
   github:
     - github.com/alternun-development
 attributes:
-  category: Financial Protocols
-  tags: []
+  category: Applications
+  tags:
+    - Tokenization
+    - RWA
+    - Eco-Friendly
   operating_region:
     - Latin America & Caribbean
   based_in: Colombia

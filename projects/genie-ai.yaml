@@ -22,7 +22,10 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Analytics
+    - AI
+    - Institutional
   operating_region:
     - United Kingdom
   based_in: United Kingdom

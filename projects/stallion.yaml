@@ -21,7 +21,10 @@ links:
     - github.com/stallionsassemble/stallion-contract
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Payments
+    - Talent Platform
+    - Freelancers
   operating_region:
     - Sub-Saharan Africa
   based_in: Nigeria

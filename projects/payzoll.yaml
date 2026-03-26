@@ -24,7 +24,10 @@ links:
     - github.com/payzoll-orgs
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Payroll
+    - Stablecoins
+    - B2B
   operating_region:
     - South Asia
   based_in: India

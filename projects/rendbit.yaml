@@ -22,8 +22,14 @@ links:
     - github.com/rendbit
 attributes:
   category: Financial Protocols
-  tags: []
-  operating_region: []
+  tags:
+    - Payments
+    - Savings
+    - Africa
+    - Mobile
+    - Stablecoins
+  operating_region:
+    - Sub-Saharan Africa
   based_in: Nigeria
 scf:
   awarded_round:

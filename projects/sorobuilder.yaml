@@ -30,7 +30,8 @@ attributes:
     - API
     - Infrastructure
     - Art
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Spain
 scf:
   awarded_round:

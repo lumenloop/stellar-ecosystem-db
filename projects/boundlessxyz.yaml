@@ -29,8 +29,11 @@ links:
     - github.com/boundlessfi
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - Infrastructure
+    - ZK
+  operating_region:
+    - Global
   based_in: Nigeria
 scf:
   awarded_round:

@@ -21,7 +21,8 @@ attributes:
   category: Developer Tooling
   tags:
     - SDK
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Colombia
 scf:
   awarded_round:

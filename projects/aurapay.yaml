@@ -19,7 +19,10 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Payments
+    - Remittances
+    - Latam
   operating_region:
     - Madrid
   based_in: Spain

@@ -23,7 +23,8 @@ attributes:
   tags:
     - Analytics
     - Ecosystem Discovery
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Romania
 scf:
   awarded_round:

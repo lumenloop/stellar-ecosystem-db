@@ -25,7 +25,8 @@ attributes:
     - Implementation
     - Art
     - Community
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Chile
 scf:
   awarded_round:

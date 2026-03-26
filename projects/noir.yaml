@@ -1,0 +1,32 @@
+title: Noir
+other_names: null
+parent: null
+description: A domain-specific language for writing zero-knowledge circuits, developed by Aztec Labs. Used by Stellar/Soroban developers for privacy-preserving smart contract verification.
+links:
+  website:
+    - noir-lang.org
+  blog: []
+  x:
+    - noirlang
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/noir-lang/noir
+attributes:
+  category: Infrastructure
+  tags:
+    - ZK
+    - Developer Tools
+  operating_region:
+    - Global
+  based_in: null
+mainnet:
+  audits: []
+  tokens: []
+  contracts: []

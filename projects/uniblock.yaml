@@ -21,8 +21,12 @@ links:
   github: []
 attributes:
   category: Infrastructure & Services
-  tags: []
-  operating_region: []
+  tags:
+    - API
+    - Multi-Chain
+    - DevX
+  operating_region:
+    - Global
   based_in: Canada
 scf:
   awarded_round:

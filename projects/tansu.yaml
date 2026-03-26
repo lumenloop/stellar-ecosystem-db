@@ -25,7 +25,8 @@ attributes:
   category: Developer Tooling
   tags:
     - Governance
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Austria
 scf:
   awarded_round:

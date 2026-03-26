@@ -26,7 +26,8 @@ attributes:
     - Payments
     - P2P
     - Software Wallet
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Brazil
 scf:
   awarded_round:

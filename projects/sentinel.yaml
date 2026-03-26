@@ -21,7 +21,9 @@ links:
     - github.com/sentinelfi
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - DeFi
+    - Automation
   operating_region:
     - North America (without Mexico)
   based_in: United States

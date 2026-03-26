@@ -27,7 +27,8 @@ attributes:
     - Trading
     - Database
     - Security
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Germany
 scf:
   awarded_round:

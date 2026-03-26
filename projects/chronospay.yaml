@@ -20,7 +20,9 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Payments
+    - Latam
   operating_region:
     - United States
   based_in: United States

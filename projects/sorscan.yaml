@@ -18,8 +18,11 @@ links:
   github: []
 attributes:
   category: Developer Tooling
-  tags: []
-  operating_region: []
+  tags:
+    - Block Explorer
+    - Analytics
+  operating_region:
+    - Global
   based_in: null
 scf:
   awarded_round:

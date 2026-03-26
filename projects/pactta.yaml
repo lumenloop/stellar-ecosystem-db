@@ -20,8 +20,12 @@ links:
   github: []
 attributes:
   category: Developer Tooling
-  tags: []
-  operating_region: []
+  tags:
+    - API
+    - Anchor
+    - Latam
+  operating_region:
+    - Global
   based_in: null
 scf:
   awarded_round:

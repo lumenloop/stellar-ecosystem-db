@@ -26,7 +26,9 @@ attributes:
     - B2B
     - Wallet Infra
     - Caribbean
-  operating_region: []
+  operating_region:
+    - Latin America & Caribbean
+    - North America (without Mexico)
   based_in: Mexico
 scf:
   awarded_round:

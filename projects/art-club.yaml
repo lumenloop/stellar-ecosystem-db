@@ -28,7 +28,8 @@ attributes:
     - Payments
     - Funding Allocation
     - NFT
-  operating_region: []
+  operating_region:
+    - Europe & Central Asia
   based_in: Sweden
 scf:
   awarded_round:

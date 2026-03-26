@@ -24,7 +24,10 @@ links:
     - github.com/ichifarm
 attributes:
   category: Financial Protocols
-  tags: []
+  tags:
+    - DeFi
+    - Liquidity
+    - Automation
   operating_region:
     - United States
   based_in: United States

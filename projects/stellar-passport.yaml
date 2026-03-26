@@ -22,7 +22,10 @@ links:
     - github.com/tellus-cooperative
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Identity
+    - Community
+    - NFT
   operating_region:
     - United States
   based_in: United States

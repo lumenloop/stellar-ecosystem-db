@@ -23,7 +23,11 @@ links:
     - github.com/liquify-validation
 attributes:
   category: Infrastructure & Services
-  tags: []
+  tags:
+    - Infrastructure
+    - Nodes
+    - RPC
+    - Hosting
   operating_region:
     - United Kingdom
   based_in: United Kingdom

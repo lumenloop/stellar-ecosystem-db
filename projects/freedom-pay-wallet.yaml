@@ -21,7 +21,11 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Software Wallet
+    - Payments
+    - Africa
+    - Unbanked
   operating_region:
     - Sub-Saharan Africa
   based_in: United Kingdom

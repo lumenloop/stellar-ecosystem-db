@@ -19,8 +19,11 @@ links:
     - github.com/michaelxhjiang/stellar-tip
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - Payments
+    - Social
+  operating_region:
+    - Global
   based_in: null
 scf:
   awarded_round:

@@ -22,7 +22,10 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Payments
+    - Stablecoins
+    - API
   operating_region:
     - Latin America & Caribbean
     - South Asia

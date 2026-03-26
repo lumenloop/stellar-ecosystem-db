@@ -20,7 +20,9 @@ links:
     - github.com/towa-hi/stellarunitydevtoolkit
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - SDK
+    - Gaming
   operating_region:
     - United States
   based_in: United States

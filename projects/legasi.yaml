@@ -22,7 +22,10 @@ links:
     - github.com/legasicrypto/borrowing-protocol
 attributes:
   category: Financial Protocols
-  tags: []
+  tags:
+    - DeFi
+    - Lending & Borrowing
+    - RWA
   operating_region:
     - France
   based_in: France

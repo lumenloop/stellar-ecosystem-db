@@ -20,8 +20,12 @@ links:
     - github.com/venerezhugo
 attributes:
   category: Financial Protocols
-  tags: []
-  operating_region: []
+  tags:
+    - Payments
+    - Automation
+    - B2B
+  operating_region:
+    - Global
   based_in: Bahamas
 scf:
   awarded_round:

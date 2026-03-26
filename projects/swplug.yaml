@@ -20,7 +20,10 @@ links:
     - github.com/slideloft/swplug-plugin
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - Plugin
+    - Payment Gateway
+    - Web
   operating_region:
     - earth
   based_in: earth

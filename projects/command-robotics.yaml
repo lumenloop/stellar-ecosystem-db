@@ -19,8 +19,11 @@ links:
     - github.com/mukmalone/adaptivegoalmanagement
 attributes:
   category: Developer Tooling
-  tags: []
-  operating_region: []
+  tags:
+    - Automation
+    - AI
+  operating_region:
+    - Global
   based_in: Canada
 scf:
   awarded_round:

@@ -20,7 +20,10 @@ links:
     - github.com/argo-navis-dev/js-capacitor-passkey-kit
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - SDK
+    - Mobile
+    - Security
   operating_region:
     - Romania
   based_in: Romania

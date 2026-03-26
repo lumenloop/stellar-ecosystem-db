@@ -23,7 +23,10 @@ links:
     - github.com/plutodao
 attributes:
   category: Financial Protocols
-  tags: []
+  tags:
+    - DeFi
+    - Lending & Borrowing
+    - Yield
   operating_region:
     - Argentina
   based_in: Argentina

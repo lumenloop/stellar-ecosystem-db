@@ -20,7 +20,11 @@ links:
   github: []
 attributes:
   category: Infrastructure & Services
-  tags: []
+  tags:
+    - Payments
+    - API
+    - Cross-Border Payments
+    - B2B
   operating_region:
     - Latin America & Caribbean
     - East Asia & Pacific

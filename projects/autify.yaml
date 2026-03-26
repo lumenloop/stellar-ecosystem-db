@@ -22,7 +22,9 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Supply-Chain
+    - AI
   operating_region:
     - India
   based_in: India

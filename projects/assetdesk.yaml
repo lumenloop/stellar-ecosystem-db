@@ -21,7 +21,10 @@ links:
     - github.com/assetdesk
 attributes:
   category: Financial Protocols
-  tags: []
+  tags:
+    - DeFi
+    - Lending & Borrowing
+    - Liquidity
   operating_region:
     - Moon
   based_in: Moon

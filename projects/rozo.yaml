@@ -23,7 +23,10 @@ links:
     - github.com/rozoai
 attributes:
   category: Financial Protocols
-  tags: []
+  tags:
+    - Payments
+    - API
+    - Automation
   operating_region:
     - East Asia & Pacific
     - North America (without Mexico)

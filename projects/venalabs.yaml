@@ -20,7 +20,9 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - e-learning
+    - DevX
   operating_region:
     - France
   based_in: France

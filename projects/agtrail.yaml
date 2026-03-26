@@ -22,7 +22,10 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Supply-Chain
+    - Africa
+    - Mobile
   operating_region:
     - Sub-Saharan Africa
   based_in: Nigeria

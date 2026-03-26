@@ -25,7 +25,9 @@ links:
     - github.com/interstellartech
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Software Wallet
+    - DEX
   operating_region:
     - Nigeria
   based_in: Nigeria

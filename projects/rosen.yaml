@@ -22,7 +22,11 @@ links:
     - github.com/gorosen/rosen-stellar
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Social
+    - Payments
+    - Stablecoins
+    - Mobile
   operating_region:
     - Latin America & Caribbean
     - North America (without Mexico)

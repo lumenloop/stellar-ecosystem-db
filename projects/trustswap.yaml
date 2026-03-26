@@ -19,7 +19,10 @@ links:
   github: []
 attributes:
   category: Financial Protocols
-  tags: []
+  tags:
+    - Security
+    - Launchpad
+    - Multi-Chain
   operating_region:
     - Middle East & North Africa
   based_in: Germany

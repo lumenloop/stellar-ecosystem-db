@@ -19,7 +19,9 @@ links:
     - github.com/defarm-repo
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Supply-Chain
+    - Latam
   operating_region:
     - Latin America & Caribbean
     - Middle East & North Africa

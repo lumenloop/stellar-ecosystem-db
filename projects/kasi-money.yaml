@@ -21,7 +21,11 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Payments
+    - Africa
+    - Freelancers
+    - Savings
   operating_region:
     - Sub-Saharan Africa
   based_in: South Africa

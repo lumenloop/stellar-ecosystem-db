@@ -20,8 +20,12 @@ links:
     - github.com/stellar-merchants
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - Payments
+    - POS
+    - Merchant
+  operating_region:
+    - Global
   based_in: null
 scf:
   awarded_round:

@@ -23,7 +23,10 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Payments
+    - Cross-Border Payments
+    - Latam
   operating_region:
     - Mexico
   based_in: Mexico

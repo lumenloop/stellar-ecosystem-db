@@ -23,7 +23,11 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Payments
+    - Africa
+    - Freelancers
+    - USD
   operating_region:
     - South Asia
     - Sub-Saharan Africa

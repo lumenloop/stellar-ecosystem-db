@@ -19,8 +19,12 @@ links:
     - github.com/nkoorty/mimoto
 attributes:
   category: Developer Tooling
-  tags: []
-  operating_region: []
+  tags:
+    - Identity
+    - ZK
+    - Security
+  operating_region:
+    - Global
   based_in: United Kingdom
 scf:
   awarded_round:

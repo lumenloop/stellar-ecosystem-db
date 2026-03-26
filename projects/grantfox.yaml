@@ -22,7 +22,10 @@ links:
     - github.com/grantchain
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Funding Allocation
+    - Community
+    - DevX
   operating_region:
     - Latin America & Caribbean
   based_in: Costa Rica

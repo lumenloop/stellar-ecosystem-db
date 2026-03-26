@@ -25,7 +25,8 @@ attributes:
   tags:
     - CLI
     - Analytics
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Turkey
 scf:
   awarded_round: []

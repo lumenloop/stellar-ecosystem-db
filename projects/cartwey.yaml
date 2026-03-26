@@ -20,7 +20,10 @@ links:
     - github.com/cartwey001/cartwey-app
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Payments
+    - Merchant
+    - POS
   operating_region:
     - Latin America & Caribbean
     - South Asia

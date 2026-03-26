@@ -20,7 +20,8 @@ attributes:
   category: Education & Community
   tags:
     - Ecosystem Discovery
-  operating_region: []
+  operating_region:
+    - Global
   based_in: United States
 scf:
   awarded_round:

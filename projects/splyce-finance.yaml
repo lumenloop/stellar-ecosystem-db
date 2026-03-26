@@ -21,7 +21,10 @@ links:
     - github.com/splyce-finance
 attributes:
   category: Financial Protocols
-  tags: []
+  tags:
+    - DeFi
+    - RWA
+    - Tokenization
   operating_region:
     - Middle East & North Africa
     - North America (without Mexico)

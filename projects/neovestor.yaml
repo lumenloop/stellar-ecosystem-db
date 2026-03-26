@@ -22,7 +22,9 @@ links:
     - github.com/neovestor-tech
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - RWA
+    - Tokenization
   operating_region:
     - Indonesia
   based_in: Indonesia

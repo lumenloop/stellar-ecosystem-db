@@ -19,8 +19,11 @@ links:
     - github.com/stellar-chef/stellar-chef
 attributes:
   category: Developer Tooling
-  tags: []
-  operating_region: []
+  tags:
+    - DevX
+    - CLI
+  operating_region:
+    - Global
   based_in: null
 scf:
   awarded_round:

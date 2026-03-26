@@ -19,7 +19,10 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Payments
+    - Unbanked
+    - Africa
   operating_region:
     - Global
   based_in: Nigeria

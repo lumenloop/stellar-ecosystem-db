@@ -20,8 +20,12 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - Community
+    - Marketplace
+    - Governance
+  operating_region:
+    - Global
   based_in: France
 scf:
   awarded_round:

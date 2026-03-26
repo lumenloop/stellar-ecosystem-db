@@ -33,7 +33,8 @@ attributes:
     - Multi-Chain
     - Ecosystem Discovery
     - Infrastructure
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Netherlands
 scf:
   awarded_round:

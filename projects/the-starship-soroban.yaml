@@ -17,8 +17,11 @@ links:
   github: []
 attributes:
   category: Education & Community
-  tags: []
-  operating_region: []
+  tags:
+    - e-learning
+    - DevX
+  operating_region:
+    - Global
   based_in: Turkey
 scf:
   awarded_round:

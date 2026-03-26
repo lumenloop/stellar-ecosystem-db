@@ -18,8 +18,13 @@ links:
     - github.com/kuyawa/paysapp
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - Payments
+    - P2P
+    - Mobile
+    - Social
+  operating_region:
+    - Global
   based_in: null
 scf:
   awarded_round:

@@ -21,7 +21,9 @@ links:
     - github.com/rebluedev
 attributes:
   category: Infrastructure & Services
-  tags: []
+  tags:
+    - Supply-Chain
+    - Analytics
   operating_region:
     - Middle East & North Africa
     - Europe & Central Asia

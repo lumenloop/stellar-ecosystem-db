@@ -20,8 +20,12 @@ links:
     - github.com/tuvalusoftware
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - AI
+    - e-learning
+    - Identity
+  operating_region:
+    - Global
   based_in: Estonia
 scf:
   awarded_round:

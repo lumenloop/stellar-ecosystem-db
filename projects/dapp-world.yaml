@@ -23,7 +23,9 @@ links:
   github: []
 attributes:
   category: Education & Community
-  tags: []
+  tags:
+    - e-learning
+    - DevX
   operating_region:
     - India
   based_in: India

@@ -19,8 +19,11 @@ links:
     - github.com/yanis7774/stellar-gamefi-integration
 attributes:
   category: Developer Tooling
-  tags: []
-  operating_region: []
+  tags:
+    - Gaming
+    - SDK
+  operating_region:
+    - Global
   based_in: null
 scf:
   awarded_round: []

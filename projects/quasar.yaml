@@ -23,7 +23,10 @@ links:
     - github.com/eigerco/nebula
 attributes:
   category: Infrastructure & Services
-  tags: []
+  tags:
+    - Oracle
+    - DeFi
+    - Infrastructure
   operating_region:
     - Finland
   based_in: Finland

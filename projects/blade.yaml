@@ -24,7 +24,10 @@ links:
     - github.com/blade-labs
 attributes:
   category: Financial Protocols
-  tags: []
+  tags:
+    - Tokenization
+    - RWA
+    - DeFi
   operating_region:
     - United Arab Emirates
   based_in: Argentina

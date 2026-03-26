@@ -22,7 +22,10 @@ links:
     - github.com/agnosticeng/ch-stellar
 attributes:
   category: Infrastructure & Services
-  tags: []
+  tags:
+    - Analytics
+    - Multi-Chain
+    - AI
   operating_region:
     - France
   based_in: France

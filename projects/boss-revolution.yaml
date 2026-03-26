@@ -24,7 +24,10 @@ links:
     - github.com/idtdesign
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Software Wallet
+    - Mobile
+    - Stablecoins
   operating_region:
     - United States
   based_in: United States

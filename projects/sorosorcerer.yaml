@@ -22,7 +22,9 @@ links:
     - github.com/nossicasystems/soroban_extend
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - DevX
+    - No-Code
   operating_region:
     - Netherlands
   based_in: Netherlands

@@ -24,7 +24,10 @@ links:
     - github.com/chainsatlas
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - DevX
+    - Multi-Chain
+    - SDK
   operating_region:
     - Japan
   based_in: Japan

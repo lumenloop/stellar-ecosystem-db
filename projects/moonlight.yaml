@@ -21,8 +21,11 @@ links:
     - github.com/moonlight-protocol
 attributes:
   category: Infrastructure & Services
-  tags: []
-  operating_region: []
+  tags:
+    - Security
+    - ZK
+  operating_region:
+    - Global
   based_in: France
 scf:
   awarded_round:

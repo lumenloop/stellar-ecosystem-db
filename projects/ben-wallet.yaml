@@ -19,8 +19,11 @@ links:
     - github.com/ben-platform
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - Software Wallet
+    - Mobile
+  operating_region:
+    - Global
   based_in: Venezuela
 scf:
   awarded_round: []

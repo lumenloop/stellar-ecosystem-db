@@ -21,7 +21,10 @@ links:
     - github.com/dobprotocol/stellar-distribution-contracts
 attributes:
   category: Infrastructure & Services
-  tags: []
+  tags:
+    - Tokenization
+    - RWA
+    - Automation
   operating_region:
     - Latin America & Caribbean
     - North America (without Mexico)

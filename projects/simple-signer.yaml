@@ -21,7 +21,8 @@ attributes:
   category: Developer Tooling
   tags:
     - Wallet Infra
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Argentina
 scf:
   awarded_round:

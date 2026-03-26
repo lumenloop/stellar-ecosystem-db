@@ -19,8 +19,12 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - Marketplace
+    - Art
+    - Fractional Ownership
+  operating_region:
+    - Global
   based_in: null
 scf:
   awarded_round:

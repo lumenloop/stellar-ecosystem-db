@@ -24,7 +24,8 @@ attributes:
   tags:
     - DAO Tool
     - Governance
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Azerbaijan
 scf:
   awarded_round:

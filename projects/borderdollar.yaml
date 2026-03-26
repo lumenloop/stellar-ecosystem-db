@@ -29,7 +29,8 @@ attributes:
     - Supply-Chain
     - Lending & Borrowing
     - Unbanked
-  operating_region: []
+  operating_region:
+    - East Asia & Pacific
   based_in: Singapore
 scf:
   awarded_round:

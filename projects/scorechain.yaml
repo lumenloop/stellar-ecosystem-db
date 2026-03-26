@@ -21,7 +21,10 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Security
+    - KYC
+    - Analytics
   operating_region:
     - Luxembourg
   based_in: Luxembourg

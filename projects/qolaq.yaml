@@ -27,7 +27,8 @@ attributes:
   tags:
     - Insurance
     - Asia
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Indonesia
 scf:
   awarded_round:

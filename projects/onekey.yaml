@@ -21,7 +21,10 @@ links:
     - github.com/onekeyhq
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Security
+    - Software Wallet
+    - Multi-Chain
   operating_region:
     - East Asia & Pacific
   based_in: China

@@ -24,7 +24,11 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Payments
+    - Africa
+    - Mobile
+    - Stablecoins
   operating_region:
     - Middle East & North Africa
     - Sub-Saharan Africa

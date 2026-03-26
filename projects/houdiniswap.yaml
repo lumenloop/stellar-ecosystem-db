@@ -20,7 +20,9 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Cross-Chain
+    - DEX
   operating_region:
     - South Asia
     - East Asia & Pacific

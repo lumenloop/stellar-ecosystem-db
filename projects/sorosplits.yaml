@@ -25,7 +25,8 @@ attributes:
     - Art
     - Cross-Border Payments
     - Ecosystem Discovery
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Turkey
 scf:
   awarded_round:

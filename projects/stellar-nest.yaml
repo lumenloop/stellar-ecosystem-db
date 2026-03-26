@@ -27,7 +27,8 @@ attributes:
     - Nest
     - Horizon
     - DevX
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Mexico
 scf:
   awarded_round:

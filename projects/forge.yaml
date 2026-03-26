@@ -18,8 +18,12 @@ links:
   github: []
 attributes:
   category: Infrastructure & Services
-  tags: []
-  operating_region: []
+  tags:
+    - Infrastructure
+    - Nodes
+    - Hosting
+  operating_region:
+    - Global
   based_in: Georgia
 scf:
   awarded_round:

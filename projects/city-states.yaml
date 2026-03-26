@@ -24,7 +24,8 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Gaming
   operating_region:
     - Germany
   based_in: Germany

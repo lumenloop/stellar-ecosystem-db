@@ -21,7 +21,8 @@ attributes:
   tags:
     - DeFi
     - Lending & Borrowing
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Netherlands
 scf:
   awarded_round:

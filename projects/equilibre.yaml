@@ -20,8 +20,11 @@ links:
     - github.com/cosmic-plus/https-equilibre-io
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - DeFi
+    - Trading
+  operating_region:
+    - Global
   based_in: null
 scf:
   awarded_round:

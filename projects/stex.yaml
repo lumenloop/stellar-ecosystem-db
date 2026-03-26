@@ -23,7 +23,9 @@ links:
     - github.com/xycloo/documents-marketplace-devenv
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - Infrastructure
+    - Tokenization
   operating_region:
     - Argentina
   based_in: Italy

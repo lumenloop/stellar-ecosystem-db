@@ -23,8 +23,12 @@ links:
     - github.com/derrickbundi
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - Payments
+    - Cross-Border Payments
+    - Africa
+  operating_region:
+    - Sub-Saharan Africa
   based_in: Kenya
 scf:
   awarded_round:

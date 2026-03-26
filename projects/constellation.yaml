@@ -20,8 +20,11 @@ links:
     - github.com/constellation-protocol
 attributes:
   category: Infrastructure & Services
-  tags: []
-  operating_region: []
+  tags:
+    - DeFi
+    - Tokenization
+  operating_region:
+    - Global
   based_in: United States
 scf:
   awarded_round:

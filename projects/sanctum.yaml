@@ -22,8 +22,12 @@ links:
     - github.com/zkbricks/sanctum
 attributes:
   category: Developer Tooling
-  tags: []
-  operating_region: []
+  tags:
+    - ZK
+    - MPC
+    - Security
+  operating_region:
+    - Global
   based_in: United States
 scf:
   awarded_round:

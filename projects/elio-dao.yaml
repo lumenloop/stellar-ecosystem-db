@@ -20,8 +20,11 @@ links:
     - github.com/deep-ink-ventures
 attributes:
   category: Developer Tooling
-  tags: []
-  operating_region: []
+  tags:
+    - DAO Tool
+    - Governance
+  operating_region:
+    - Global
   based_in: null
 scf:
   awarded_round:

@@ -23,7 +23,8 @@ attributes:
   tags:
     - SDK
     - Library
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Chile
 scf:
   awarded_round:

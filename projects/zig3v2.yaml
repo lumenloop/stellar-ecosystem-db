@@ -21,7 +21,8 @@ attributes:
   category: Financial Protocols
   tags:
     - DEX
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Pakistan
 scf:
   awarded_round:

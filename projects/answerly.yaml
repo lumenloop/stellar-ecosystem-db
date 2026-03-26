@@ -23,7 +23,10 @@ links:
     - github.com/answerly-app
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Community
+    - NFT
+    - Social
   operating_region:
     - Pakistan
   based_in: Pakistan

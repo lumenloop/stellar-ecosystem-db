@@ -23,7 +23,10 @@ links:
     - github.com/inferara
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - Formal Verification
+    - Security
+    - DevX
   operating_region:
     - South Asia
   based_in: Japan

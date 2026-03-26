@@ -19,8 +19,11 @@ links:
     - github.com/nibrasd/stellar-transaction-visualizer
 attributes:
   category: Developer Tooling
-  tags: []
-  operating_region: []
+  tags:
+    - Analytics
+    - DevX
+  operating_region:
+    - Global
   based_in: Egypt
 scf:
   awarded_round:

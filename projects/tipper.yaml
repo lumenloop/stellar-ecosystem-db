@@ -21,7 +21,11 @@ links:
   github: []
 attributes:
   category: End-User Application
-  tags: []
+  tags:
+    - Payments
+    - Social
+    - Latam
+    - Stablecoins
   operating_region:
     - Latin America & Caribbean
   based_in: Venezuela

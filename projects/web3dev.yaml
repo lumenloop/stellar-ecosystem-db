@@ -23,7 +23,8 @@ attributes:
   category: Education & Community
   tags:
     - e-learning
-  operating_region: []
+  operating_region:
+    - Global
   based_in: null
 scf:
   awarded_round:

@@ -19,7 +19,10 @@ links:
     - github.com/dogstarapps/arka.fund
 attributes:
   category: Financial Protocols
-  tags: []
+  tags:
+    - DeFi
+    - Governance
+    - Yield
   operating_region:
     - Europe & Central Asia
   based_in: Spain

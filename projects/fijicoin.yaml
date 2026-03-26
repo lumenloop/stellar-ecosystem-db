@@ -18,8 +18,10 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - Remittances
+  operating_region:
+    - East Asia & Pacific
   based_in: Fiji
 scf:
   awarded_round:

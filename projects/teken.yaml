@@ -21,8 +21,12 @@ links:
     - github.com/moonbite-gmbh
 attributes:
   category: Developer Tooling
-  tags: []
-  operating_region: []
+  tags:
+    - Multi Signatures
+    - Security
+    - DevX
+  operating_region:
+    - Global
   based_in: Germany
 scf:
   awarded_round:

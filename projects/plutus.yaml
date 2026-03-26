@@ -21,7 +21,8 @@ attributes:
   category: Financial Protocols
   tags:
     - NFTs
-  operating_region: []
+  operating_region:
+    - Global
   based_in: null
 scf:
   awarded_round:

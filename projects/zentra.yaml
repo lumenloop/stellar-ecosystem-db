@@ -21,7 +21,8 @@ attributes:
   category: Financial Protocols
   tags:
     - DeFi
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Nigeria
 scf:
   awarded_round:

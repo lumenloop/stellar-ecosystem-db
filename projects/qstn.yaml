@@ -23,7 +23,10 @@ links:
     - github.com/qstn-us
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Community
+    - Social
+    - Marketplace
   operating_region:
     - United States
   based_in: United States

@@ -26,7 +26,10 @@ links:
     - github.com/expand-network
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - API
+    - DeFi
+    - Multi-Chain
   operating_region:
     - United States
   based_in: United States

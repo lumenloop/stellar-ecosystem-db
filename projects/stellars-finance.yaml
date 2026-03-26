@@ -20,7 +20,10 @@ links:
     - github.com/stellarsfinance
 attributes:
   category: Financial Protocols
-  tags: []
+  tags:
+    - DeFi
+    - Trading
+    - Liquidity
   operating_region:
     - East Asia & Pacific
     - Middle East & North Africa

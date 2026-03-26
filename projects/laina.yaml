@@ -21,7 +21,10 @@ links:
     - github.com/laina-defi
 attributes:
   category: Financial Protocols
-  tags: []
+  tags:
+    - DeFi
+    - Lending & Borrowing
+    - Yield
   operating_region:
     - Finland
   based_in: Finland

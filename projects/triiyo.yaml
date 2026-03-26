@@ -20,7 +20,9 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Payments
+    - Remittances
   operating_region:
     - Sydney, New South Wales
   based_in: Australia
