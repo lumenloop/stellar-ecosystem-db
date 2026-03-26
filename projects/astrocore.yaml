@@ -1,5 +1,7 @@
 title: Astrocore
-other_names: null
+other_names:
+  - Astrocore
+  - Astrocory
 parent: null
 description: Astrocore is an alternative implementation of stellar-core, the core component of the Stellar network.
 links:
