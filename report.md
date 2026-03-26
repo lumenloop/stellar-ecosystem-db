@@ -116,8 +116,8 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| crawler | 986 |
-| website | 1614 |
+| crawler | 985 |
+| website | 1615 |
 | submissions | 563 |
 | airtable | 3416 |
 | soroban_security | 66 |
@@ -127,14 +127,14 @@ Field-level provenance tracking:
 9 items need attention.
 
 **SCF project missing website** (8):
-- timed-transactions-api
 - relax
-- the-starship-soroban
+- timed-transactions-api
 - sendit
 - wally
 - paysapp
 - crypto-link
 - frost-implementation
+- the-starship-soroban
 
 **description empty** (1):
 - sendit
