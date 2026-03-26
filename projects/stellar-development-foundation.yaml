@@ -24,8 +24,11 @@ links:
     - github.com/stellar
 attributes:
   category: Infrastructure
-  tags: []
-  operating_region: []
+  tags:
+    - Infrastructure
+    - Community
+  operating_region:
+    - Global
   based_in: United States
 mainnet:
   audits:
