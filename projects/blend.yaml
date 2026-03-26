@@ -1,5 +1,6 @@
-title: Blend
-other_names: null
+title: Blend Capital
+other_names:
+  - Blend
 parent: Script3
 description: Blend is a decentralized finance (DeFi) protocol built on Stellar's Soroban smart contract platform, enabling users, DAOs, and institutions to create and manage lending pools with customizable assets and specifications. It offers permissionless deployment of isolated lending pools, ensuring security and capital efficiency without the need for centralized governance.
 links:
@@ -9,6 +10,7 @@ links:
     - script3.medium.com
   x:
     - script3official
+    - blend_capital
   linkedin:
     - linkedin.com/company/script3
   discord:
