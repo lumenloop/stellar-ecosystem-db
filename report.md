@@ -17,9 +17,9 @@
 |-------|------:|---------:|
 | description | 662/663 | 99.8% |
 | website | 655/663 | 98.8% |
-| blog | 237/663 | 35.7% |
+| blog | 236/663 | 35.6% |
 | x | 476/663 | 71.8% |
-| linkedin | 369/663 | 55.7% |
+| linkedin | 368/663 | 55.5% |
 | discord | 202/663 | 30.5% |
 | telegram | 138/663 | 20.8% |
 | youtube | 154/663 | 23.2% |
@@ -43,10 +43,10 @@ Per-project comparison of our **663** projects (incl. **87** community projects 
 | website | +125 | 530 |
 | github | +112 | 382 |
 | x | +192 | 284 |
-| linkedin | +165 | 204 |
+| linkedin | +164 | 204 |
 | discord | +93 | 109 |
 | based_in | +97 | 476 |
-| blog | +237 | 0 |
+| blog | +236 | 0 |
 | telegram | +138 | 0 |
 | youtube | +154 | 0 |
 | instagram | +105 | 0 |
@@ -76,11 +76,11 @@ Of **576** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 153 | 439 |
-| Active last week | 16 | 199 |
-| Active last month | 33 | 246 |
-| Active last 3 months | 54 | 286 |
-| Active last year | 93 | 356 |
+| Tracked projects | 442 | 439 |
+| Active last week | 117 | 199 |
+| Active last month | 177 | 246 |
+| Active last 3 months | 239 | 286 |
+| Active last year | 313 | 356 |
 
 ## Audit Data
 
@@ -98,8 +98,8 @@ Of **576** SCF-funded projects:
 | Halborn | 4 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Cantina | 1 |
 | Code4rena | 1 |
+| Cantina | 1 |
 | Сoinspect | 1 |
 
 ## Data Sources
@@ -118,8 +118,8 @@ Field-level provenance tracking:
 |--------|------:|
 | submissions | 563 |
 | website | 1621 |
-| airtable | 3414 |
 | crawler | 983 |
+| airtable | 3414 |
 | soroban_security | 66 |
 
 ## Needs Review
