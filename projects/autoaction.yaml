@@ -18,7 +18,6 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/57blocks
     - github.com/57blocks/stellar-autoaction
 attributes:
   category: Developer Tooling
