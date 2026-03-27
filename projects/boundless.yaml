@@ -1,4 +1,4 @@
-title: Boundless
+title: Boundless (Bounties)
 other_names: null
 parent: null
 description: 'Boundless is a Web3 platform built on the Stellar blockchain that manages and oversees funding activities such as crowdfunding, grants, and hackathons.  Our mission is simple: make funding, building, and collaboration in Web3 more open, accountable, and rewarding.  What makes Boundless unique is its milestone-based fund disbursement powered by the TrustlessWork API.'
@@ -23,7 +23,9 @@ links:
     - github.com/boundlessfi
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Funding Allocation
+    - Hackathons
   operating_region:
     - Nigeria
   based_in: Nigeria

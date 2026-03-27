@@ -91,15 +91,15 @@ Of **576** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 21 |
-| certora | 10 |
 | OtterSec | 10 |
+| certora | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Code4rena | 1 |
 | Cantina | 1 |
+| Code4rena | 1 |
 | Сoinspect | 1 |
 
 ## Data Sources
@@ -116,11 +116,11 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| schedule | 1 |
-| website | 1615 |
 | submissions | 563 |
-| crawler | 675 |
-| airtable | 3722 |
+| crawler | 983 |
+| website | 1615 |
+| airtable | 3414 |
+| schedule | 1 |
 | soroban_security | 66 |
 
 ## Needs Review
@@ -129,11 +129,11 @@ Field-level provenance tracking:
 
 **SCF project missing website** (8):
 - paysapp
+- wally
 - the-starship-soroban
 - crypto-link
-- timed-transactions-api
-- wally
 - frost-implementation
+- timed-transactions-api
 - relax
 - sendit
 
