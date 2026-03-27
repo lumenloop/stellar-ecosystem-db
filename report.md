@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-03-26
+> Auto-generated on 2026-03-27
 
 ## Summary
 
@@ -116,11 +116,11 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| crawler | 983 |
+| schedule | 1 |
 | website | 1615 |
 | submissions | 563 |
-| airtable | 3414 |
-| schedule | 1 |
+| crawler | 675 |
+| airtable | 3722 |
 | soroban_security | 66 |
 
 ## Needs Review
