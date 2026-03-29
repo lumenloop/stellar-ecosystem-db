@@ -1,4 +1,4 @@
-title: Aha Labs
+title: The Aha Company
 other_names:
   - Aha
 parent: null
@@ -7,7 +7,8 @@ links:
   website:
     - theaha.co
   blog: []
-  x: []
+  x:
+    - theahaco
   linkedin:
     - linkedin.com/company/aha-labs-dev
   discord: []
@@ -27,7 +28,7 @@ attributes:
     - Infrastructure
   operating_region:
     - Global
-  based_in: null
+  based_in: France
 mainnet:
   audits: []
   tokens: []

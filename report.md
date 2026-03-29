@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-03-28
+> Auto-generated on 2026-03-29
 
 ## Summary
 
@@ -18,7 +18,7 @@
 | description | 662/663 | 99.8% |
 | website | 655/663 | 98.8% |
 | blog | 236/663 | 35.6% |
-| x | 476/663 | 71.8% |
+| x | 477/663 | 71.9% |
 | linkedin | 368/663 | 55.5% |
 | discord | 202/663 | 30.5% |
 | telegram | 138/663 | 20.8% |
@@ -31,7 +31,7 @@
 | category | 581/663 | 87.6% |
 | tags | 663/663 | 100% |
 | operating_region | 663/663 | 100% |
-| based_in | 573/663 | 86.4% |
+| based_in | 574/663 | 86.6% |
 
 ## Enrichment vs SCF Airtable
 
@@ -42,10 +42,10 @@ Per-project comparison of our **663** projects (incl. **87** community projects 
 | description | +114 | 548 |
 | website | +125 | 530 |
 | github | +112 | 382 |
-| x | +192 | 284 |
+| x | +193 | 284 |
 | linkedin | +164 | 204 |
 | discord | +93 | 109 |
-| based_in | +97 | 476 |
+| based_in | +98 | 476 |
 | blog | +236 | 0 |
 | telegram | +138 | 0 |
 | youtube | +154 | 0 |
@@ -77,8 +77,8 @@ Of **576** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 442 | 439 |
-| Active last week | 111 | 190 |
-| Active last month | 174 | 244 |
+| Active last week | 113 | 189 |
+| Active last month | 173 | 244 |
 | Active last 3 months | 239 | 287 |
 | Active last year | 313 | 356 |
 
@@ -91,8 +91,8 @@ Of **576** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 21 |
-| OtterSec | 10 |
 | certora | 10 |
+| OtterSec | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
@@ -117,9 +117,9 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 563 |
-| crawler | 981 |
-| website | 1615 |
-| airtable | 3416 |
+| website | 1619 |
+| airtable | 3722 |
+| crawler | 675 |
 | schedule | 1 |
 | soroban_security | 66 |
 
@@ -127,16 +127,16 @@ Field-level provenance tracking:
 
 9 items need attention.
 
-**description empty** (1):
-- sendit
-
 **SCF project missing website** (8):
+- paysapp
+- wally
 - sendit
 - frost-implementation
-- paysapp
-- crypto-link
-- wally
-- relax
 - the-starship-soroban
+- crypto-link
+- relax
 - timed-transactions-api
+
+**description empty** (1):
+- sendit
 
