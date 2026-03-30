@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-03-29
+> Auto-generated on 2026-03-30
 
 ## Summary
 
@@ -77,9 +77,9 @@ Of **576** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 442 | 439 |
-| Active last week | 113 | 189 |
-| Active last month | 173 | 244 |
-| Active last 3 months | 239 | 287 |
+| Active last week | 112 | 188 |
+| Active last month | 174 | 244 |
+| Active last 3 months | 240 | 287 |
 | Active last year | 313 | 356 |
 
 ## Audit Data
@@ -91,15 +91,15 @@ Of **576** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 21 |
-| certora | 10 |
 | OtterSec | 10 |
+| certora | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Code4rena | 1 |
 | Cantina | 1 |
+| Code4rena | 1 |
 | Сoinspect | 1 |
 
 ## Data Sources
@@ -116,27 +116,27 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| submissions | 563 |
-| crawler | 981 |
-| website | 1619 |
-| airtable | 3416 |
 | schedule | 1 |
+| website | 1619 |
+| submissions | 563 |
+| airtable | 3722 |
+| crawler | 675 |
 | soroban_security | 66 |
 
 ## Needs Review
 
 9 items need attention.
 
-**SCF project missing website** (8):
-- paysapp
-- crypto-link
-- wally
+**description empty** (1):
 - sendit
+
+**SCF project missing website** (8):
+- sendit
+- crypto-link
+- paysapp
+- wally
 - frost-implementation
 - the-starship-soroban
 - relax
 - timed-transactions-api
-
-**description empty** (1):
-- sendit
 
