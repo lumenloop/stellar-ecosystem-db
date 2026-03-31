@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-03-30
+> Auto-generated on 2026-03-31
 
 ## Summary
 
@@ -77,8 +77,8 @@ Of **576** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 442 | 439 |
-| Active last week | 112 | 188 |
-| Active last month | 174 | 244 |
+| Active last week | 116 | 186 |
+| Active last month | 172 | 246 |
 | Active last 3 months | 240 | 287 |
 | Active last year | 313 | 356 |
 
@@ -96,10 +96,10 @@ Of **576** SCF-funded projects:
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
-| CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Сoinspect | 1 |
+| CoinFabrik | 2 |
 | Cantina | 1 |
+| Сoinspect | 1 |
 | Code4rena | 1 |
 
 ## Data Sources
@@ -117,8 +117,8 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 563 |
-| crawler | 982 |
-| airtable | 3415 |
+| airtable | 3722 |
+| crawler | 675 |
 | website | 1619 |
 | schedule | 1 |
 | soroban_security | 66 |
@@ -127,16 +127,16 @@ Field-level provenance tracking:
 
 9 items need attention.
 
-**description empty** (1):
-- sendit
-
 **SCF project missing website** (8):
-- sendit
 - crypto-link
+- frost-implementation
+- sendit
 - wally
 - paysapp
-- frost-implementation
 - the-starship-soroban
 - relax
 - timed-transactions-api
+
+**description empty** (1):
+- sendit
 
