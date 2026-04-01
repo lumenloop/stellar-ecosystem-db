@@ -91,8 +91,8 @@ Of **576** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 21 |
-| OtterSec | 10 |
 | certora | 10 |
+| OtterSec | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
@@ -116,10 +116,10 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| submissions | 563 |
-| airtable | 3414 |
 | website | 1619 |
 | crawler | 987 |
+| airtable | 3414 |
+| submissions | 563 |
 | schedule | 1 |
 | soroban_security | 66 |
 

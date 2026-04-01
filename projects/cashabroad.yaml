@@ -2,7 +2,8 @@ title: CashAbroad
 other_names: null
 parent: null
 description: Do Abroad business as easily as with locals for exporting and importing businesses in LATAM. CashAbroad facilitates cross-border payments with USDC and Fiat.
-images: null
+images:
+  logo: https://media.lumenloop.xyz/projects/cashabroad/logo.png
 links:
   website:
     - cashabroad.one

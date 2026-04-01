@@ -4,7 +4,9 @@ other_names:
 parent: null
 description: BP Ventures provides consulting and development services for blockchain solutions, focusing on financial inclusion and decentralized applications, specializing in leveraging the Stellar blockchain.
 images:
-  avatar: https://media.lumenloop.com/projects/bp-ventures/github_avatar.png
+  icon: https://media.lumenloop.xyz/projects/bp-ventures/favicon.png
+  avatar: https://media.lumenloop.xyz/projects/bp-ventures/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/bp-ventures/logo.svg
 links:
   website:
     - bpventures.us

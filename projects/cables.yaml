@@ -2,7 +2,10 @@ title: Cables
 other_names: null
 parent: null
 description: Cables Finance is a hybrid decentralized exchange on the Stellar network, combining centralized liquidity with on-chain settlement to bring FX markets to the blockchain.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/cables/apple_touch.png
+  logo: https://media.lumenloop.xyz/projects/cables/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/cables/og.png
 links:
   website:
     - cables.finance

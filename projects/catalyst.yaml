@@ -3,7 +3,9 @@ other_names:
   - Catalyst Blockchain Manager
 parent: Intellecteu
 description: EcoXChange is a multifunction white-labeled platform marketplace to support manufacturing companies reduce their carbon footprint.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/catalyst/apple_touch.ico
+  logo: https://media.lumenloop.xyz/projects/catalyst/logo.svg
 links:
   website:
     - catalyst.intellecteu.com

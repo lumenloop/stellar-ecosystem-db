@@ -3,7 +3,9 @@ other_names: null
 parent: null
 description: Connect kit for Stellar dApps supporting wallet, email, phone, and OAuth authentication, with customizable modals for seamless user onboarding.
 images:
-  avatar: https://media.lumenloop.com/projects/blux/github_avatar.png
+  icon: https://media.lumenloop.xyz/projects/blux/favicon.svg
+  avatar: https://media.lumenloop.xyz/projects/blux/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/blux/logo.svg
 links:
   website:
     - blux.cc

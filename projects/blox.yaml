@@ -3,7 +3,9 @@ other_names:
   - Bank2Bit
 parent: null
 description: Developing a user-friendly fiat-to-crypto platform for seamless converting between LATAM fiat and stellar listed assets.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/blox/apple_touch.png
+  logo: https://media.lumenloop.xyz/projects/blox/logo.svg
 links:
   website:
     - blox.global

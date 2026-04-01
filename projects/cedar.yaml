@@ -2,7 +2,10 @@ title: CEDAR
 other_names: null
 parent: null
 description: Cedar Money is a platform that simplifies cross-border transactions for businesses and individuals, enabling high-volume payments globally with competitive exchange rates and efficient processing.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/cedar/apple_touch.svg
+  logo: https://media.lumenloop.xyz/projects/cedar/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/cedar/og.webp
 links:
   website:
     - cedar.money

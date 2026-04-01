@@ -4,7 +4,10 @@ other_names:
 parent: null
 description: Cede Labs streamlines liquidity flow between Centralized Exchanges (CEX) and Decentralized Finance, offering seamless connectivity with over 15 CEX APIs for asset management since 2021.
 images:
-  avatar: https://media.lumenloop.com/projects/cede/github_avatar.png
+  icon: https://media.lumenloop.xyz/projects/cede/apple_touch.png
+  avatar: https://media.lumenloop.xyz/projects/cede/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/cede/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/cede/og.jpg
 links:
   website:
     - cede.store

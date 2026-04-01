@@ -3,7 +3,9 @@ other_names:
   - Calimero Network
 parent: null
 description: Calimero Network is an innovative framework for building Self-Sovereign Application protocols and private data sharing.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/calimero/apple_touch.png
+  avatar: https://media.lumenloop.xyz/projects/calimero/github_avatar.png
 links:
   website:
     - calimero.network
