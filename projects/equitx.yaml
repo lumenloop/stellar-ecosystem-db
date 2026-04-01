@@ -2,7 +2,9 @@ title: EquitX
 other_names: null
 parent: null
 description: A decentralized finance platform that enables users to mint, trade, and stake "xAssets," which are synthetic assets mirroring the value of real-world stocks
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/equitx/favicon.png
+  logo: https://media.lumenloop.xyz/projects/equitx/logo.png
 links:
   website:
     - equitx.com

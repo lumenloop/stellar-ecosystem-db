@@ -3,7 +3,10 @@ other_names:
   - Encode Soroban/Stellar Educate
 parent: null
 description: A four week education series to bring Encode's developers and beyond into the Stellar and Soroban ecosystem.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/encode-club/favicon.png
+  logo: https://media.lumenloop.xyz/projects/encode-club/logo.png
+  og_image: https://media.lumenloop.xyz/projects/encode-club/og.webp
 links:
   website:
     - encode.club

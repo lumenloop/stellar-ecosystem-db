@@ -2,7 +2,10 @@ title: Empowch
 other_names: null
 parent: null
 description: Offering a mobile wallet to the unbanked the MENA region by connecting them with family members abroad.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/empowch/apple_touch.png
+  logo: https://media.lumenloop.xyz/projects/empowch/logo.png
+  og_image: https://media.lumenloop.xyz/projects/empowch/og.png
 links:
   website:
     - empowch.com
