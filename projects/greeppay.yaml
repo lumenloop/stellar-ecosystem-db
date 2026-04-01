@@ -4,8 +4,10 @@ other_names:
 parent: null
 description: A stablecoin-powered POS that enables merchants to accept African currencies seamlessly, settle instantly, and grow globally.
 images:
-  avatar: https://media.lumenloop.com/projects/greeppay/github_avatar.png
-  og_image: https://media.lumenloop.com/projects/greeppay/og.webp
+  icon: https://media.lumenloop.xyz/projects/greeppay/favicon.ico
+  avatar: https://media.lumenloop.xyz/projects/greeppay/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/greeppay/logo.png
+  og_image: https://media.lumenloop.xyz/projects/greeppay/og.webp
 links:
   website:
     - pay.greep.io

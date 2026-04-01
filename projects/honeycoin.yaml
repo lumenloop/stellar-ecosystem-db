@@ -4,7 +4,9 @@ other_names:
   - Peer (by Honeycoin)
 parent: null
 description: Peer by HoneyCoin is a global, non-custodial financial super app made for the general public and primarily built on Stellar.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/honeycoin/apple_touch.png
+  logo: https://media.lumenloop.xyz/projects/honeycoin/logo.png
 links:
   website:
     - honeycoin.app

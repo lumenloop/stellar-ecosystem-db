@@ -3,7 +3,8 @@ other_names: null
 parent: null
 description: Offering builders access to real-time, high-performance Soroban data indexing and to a CC0-licensed public good dataset.
 images:
-  og_image: https://media.lumenloop.com/projects/goldsky/og.png
+  icon: https://media.lumenloop.xyz/projects/goldsky/apple_touch.png
+  og_image: https://media.lumenloop.xyz/projects/goldsky/og.png
 links:
   website:
     - goldsky.com

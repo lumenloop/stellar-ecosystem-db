@@ -3,7 +3,8 @@ other_names: null
 parent: Block Science
 description: The Governance Modules Library is a curation of new and classic modules for governance in dApps and DAOs, ready for Soroban.
 images:
-  avatar: https://media.lumenloop.com/projects/governance-modules-library/github_avatar.png
+  icon: https://media.lumenloop.xyz/projects/governance-modules-library/apple_touch.png
+  avatar: https://media.lumenloop.xyz/projects/governance-modules-library/github_avatar.png
 links:
   website:
     - block.science

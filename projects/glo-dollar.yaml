@@ -4,8 +4,10 @@ other_names:
 parent: null
 description: 'Glo can be used like any other stablecoin, but it also enables a new crypto use case: donationless philanthropy. Like other stables, Glo Dollar makes money from the interest on the fiat reserves. The difference: the Glo Foundation does not make profits. Instead, they donate 100% of the interest received to GiveDirectly, the world’s fastest-growing charity. They provide basic incomes for people living in extreme poverty, in countries such as Kenya.'
 images:
-  avatar: https://media.lumenloop.com/projects/glo-dollar/github_avatar.png
-  og_image: https://media.lumenloop.com/projects/glo-dollar/og.png
+  icon: https://media.lumenloop.xyz/projects/glo-dollar/apple_touch.png
+  avatar: https://media.lumenloop.xyz/projects/glo-dollar/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/glo-dollar/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/glo-dollar/og.png
 links:
   website:
     - glodollar.org

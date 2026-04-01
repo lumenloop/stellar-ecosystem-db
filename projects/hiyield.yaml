@@ -3,7 +3,8 @@ other_names: null
 parent: Lydia Labs
 description: HiYield is building key components of onchain capital markets infrastructure to bolster liquidity. Our initial products include a tokenization protocol and a custom-built lending market ideal for onchain repurchase agreements and fixed-income collateral types.
 images:
-  og_image: https://media.lumenloop.com/projects/hiyield/og.jpg
+  logo: https://media.lumenloop.xyz/projects/hiyield/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/hiyield/og.jpg
 links:
   website:
     - hiyield.xyz

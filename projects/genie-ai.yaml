@@ -3,7 +3,10 @@ other_names:
   - Stellar Time Machine
 parent: null
 description: Elevate institutional treasury management with a time-machine explorer that delivers multi-wallet analytics and risk assessments.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/genie-ai/apple_touch.png
+  logo: https://media.lumenloop.xyz/projects/genie-ai/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/genie-ai/og.svg
 links:
   website:
     - genieai.tech
