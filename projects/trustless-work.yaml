@@ -3,7 +3,7 @@ other_names: null
 parent: null
 description: Trustless Work is a blockchain-powered Escrow-as-a-Service platform leveraging Stellar's Soroban smart contracts to provide secure, transparent, and efficient escrow solutions with minimal fees.
 images:
-  avatar: https://media.lumenloop.xyz/projects/trustless-work/github_avatar.png
+  avatar: https://media.lumenloop.com/projects/trustless-work/github_avatar.png
 links:
   website:
     - trustlesswork.com

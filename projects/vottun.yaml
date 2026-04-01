@@ -3,6 +3,8 @@ other_names:
   - Vottun developer platform
 parent: null
 description: Developer platform simplifying Web3 application development on Soroban, enabling Web2 developers to build, deploy, and manage blockchain solutions on Stellar.
+images:
+  avatar: https://media.lumenloop.com/projects/vottun/github_avatar.png
 links:
   website:
     - vottun.com

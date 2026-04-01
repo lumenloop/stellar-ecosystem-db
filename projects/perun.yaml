@@ -3,6 +3,7 @@ other_names:
   - Perun State Channels
 parent: null
 description: We extend Perun State Channels in the Stellar ecosystem so they can utilize off-chain and cross-chain transactions.
+images: null
 links:
   website:
     - polycry.pt

@@ -2,6 +2,7 @@ title: TokenOps
 other_names: null
 parent: null
 description: TokenOps is a platform for managing token cap tables and lifecycles, offering tools for vesting schedules, automated distributions, and detailed analytics. It integrates with popular protocols and accounting tools to simplify token management for companies, investors, and community members.
+images: null
 links:
   website:
     - tokenops.xyz

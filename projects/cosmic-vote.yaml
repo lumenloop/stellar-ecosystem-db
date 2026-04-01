@@ -3,7 +3,7 @@ other_names: null
 parent: null
 description: CosmicVote is a platform aimed at enabling decentralized decision-making for organizations, leveraging Stellar to facilitate secure, transparent, and efficient voting processes.
 images:
-  avatar: https://media.lumenloop.xyz/projects/cosmic-vote/github_avatar.png
+  avatar: https://media.lumenloop.com/projects/cosmic-vote/github_avatar.png
 links:
   website:
     - cosmic.vote

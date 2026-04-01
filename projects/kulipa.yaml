@@ -3,6 +3,7 @@ other_names:
   - Kulipa Debit Card
 parent: null
 description: A card that enables payments in stablecoin where Visa and Mastercard are accepted, with settlement on Stellar.
+images: null
 links:
   website:
     - kulipa.xyz

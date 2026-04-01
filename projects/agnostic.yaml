@@ -2,6 +2,7 @@ title: Agnostic
 other_names: null
 parent: null
 description: Real-time blockchain analytics platform providing seamless access to on-chain data across EVM and non-EVM chains including Stellar, with SQL support, visual dashboards, and AI-assisted exploration.
+images: null
 links:
   website:
     - agnostic.dev

@@ -3,6 +3,7 @@ other_names:
   - Synced Geo-Bounties
 parent: null
 description: Crowdfunding geospatial dashboards through Stellar-powered bounties.
+images: null
 links:
   website:
     - synced.to

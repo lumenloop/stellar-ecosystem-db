@@ -3,7 +3,7 @@ other_names: null
 parent: null
 description: Soroban Domains is a protocol on the Soroban network that allows users to register human-readable usernames, simplifying interactions by replacing long public keys with memorable names like "satoshi.xlm.".
 images:
-  avatar: https://media.lumenloop.xyz/projects/soroban-domains/github_avatar.png
+  avatar: https://media.lumenloop.com/projects/soroban-domains/github_avatar.png
 links:
   website:
     - sorobandomains.org

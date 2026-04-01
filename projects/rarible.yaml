@@ -3,6 +3,8 @@ other_names:
   - Rarible.com & Stellar
 parent: null
 description: Rarible is an NFT marketplace that enables users to create, buy, and sell digital assets across multiple blockchains, including Ethereum and Polygon. Founded in 2019, it supports brands, communities, and individual creators in the NFT ecosystem.
+images:
+  og_image: https://media.lumenloop.com/projects/rarible/og.webp
 links:
   website:
     - rarible.com

@@ -3,7 +3,7 @@ other_names: null
 parent: null
 description: Privacy-focused crypto swap aggregator supporting Stellar, enabling cross-chain token exchanges without KYC or tracking.
 images:
-  og_image: https://media.lumenloop.xyz/projects/houdiniswap/og.jpg
+  og_image: https://media.lumenloop.com/projects/houdiniswap/og.jpg
 links:
   website:
     - houdiniswap.com

@@ -2,6 +2,7 @@ title: Soroban Explorer
 other_names: null
 parent: null
 description: Block explorer enabling Stellar users to verify smart contract code, helping avoid malicious contracts and increasing transparency and adoption.
+images: null
 links:
   website:
     - sorobanexp.com

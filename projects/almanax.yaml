@@ -3,7 +3,7 @@ other_names: null
 parent: null
 description: Almanax is an automated security auditor that leverages AI to find and fix vulnerabilities in smart contracts.
 images:
-  avatar: https://media.lumenloop.xyz/projects/almanax/github_avatar.png
+  avatar: https://media.lumenloop.com/projects/almanax/github_avatar.png
 links:
   website:
     - almanax.ai

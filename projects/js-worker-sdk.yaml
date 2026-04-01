@@ -2,6 +2,7 @@ title: JS Worker SDK
 other_names: null
 parent: null
 description: The JS Worker SDK is a modern simple JavaScript SDK with a light <10kB footprint that gives easy access to the Horizon API.
+images: null
 links:
   website:
     - github.com/cloudouble/stellar-js-worker-sdk

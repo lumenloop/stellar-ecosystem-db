@@ -2,6 +2,7 @@ title: StellarGuard
 other_names: null
 parent: null
 description: StellarAuth simplifies Stellar integration for apps by offering secure, user-friendly authentication and transaction management, enabling seamless blockchain interactions.
+images: null
 links:
   website:
     - stellarguard.me

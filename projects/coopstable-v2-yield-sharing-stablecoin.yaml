@@ -2,6 +2,7 @@ title: CoopStable v2 - Yield sharing stablecoin
 other_names: null
 parent: null
 description: Yield-sharing stablecoin protocol on Stellar that distributes DeFi returns to holders through a cooperative model, funding solidarity-based community initiatives.
+images: null
 links:
   website:
     - coopstable.app/#mint

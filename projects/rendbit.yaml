@@ -3,8 +3,8 @@ other_names: null
 parent: null
 description: Mobile-first financial platform on Stellar for African users, offering stablecoin savings, cross-border transfers, and bill payments.
 images:
-  avatar: https://media.lumenloop.xyz/projects/rendbit/github_avatar.jpg
-  og_image: https://media.lumenloop.xyz/projects/rendbit/og.jpg
+  avatar: https://media.lumenloop.com/projects/rendbit/github_avatar.jpg
+  og_image: https://media.lumenloop.com/projects/rendbit/og.jpg
 links:
   website:
     - rendbit.com

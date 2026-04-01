@@ -2,6 +2,7 @@ title: TEACHMEDEFI
 other_names: null
 parent: null
 description: Expert insights since 2017 cut through the noise, delivering only the most relevant news, tips, and breakthroughs in blockchain.
+images: null
 links:
   website:
     - teachmedefi.de
@@ -22,8 +23,11 @@ links:
   github: []
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - e-learning
+    - Community
+  operating_region:
+    - Global
   based_in: United States
 mainnet:
   audits: []

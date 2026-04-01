@@ -3,7 +3,7 @@ other_names: null
 parent: null
 description: Offers a scaling solution to improve transaction verification speed and cost savings by leveraging zero-knowledge proofs.
 images:
-  avatar: https://media.lumenloop.xyz/projects/btq/github_avatar.png
+  avatar: https://media.lumenloop.com/projects/btq/github_avatar.png
 links:
   website:
     - btq.com

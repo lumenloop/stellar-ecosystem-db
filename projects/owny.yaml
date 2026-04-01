@@ -2,6 +2,7 @@ title: OWNY
 other_names: null
 parent: null
 description: Owny is an AI-powered financial management platform that streamlines capital, investor, and banking operations for startups, private equity, and venture funds.
+images: null
 links:
   website:
     - owny.com
@@ -18,8 +19,12 @@ links:
   github: []
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - AI
+    - Institutional
+    - Tokenization
+  operating_region:
+    - Global
   based_in: null
 mainnet:
   audits: []

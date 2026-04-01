@@ -3,6 +3,7 @@ other_names:
   - Formal VerSo
 parent: Galois
 description: A semi-automated tool for Formal Verification of Soroban contracts using the Software Analysis Workbench (SAW).
+images: null
 links:
   website:
     - saw.galois.com

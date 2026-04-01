@@ -2,6 +2,7 @@ title: Halborn
 other_names: null
 parent: null
 description: Blockchain security firm offering smart contract audits, penetration testing, and advisory services for digital assets.
+images: null
 links:
   website:
     - halborn.com
@@ -21,7 +22,8 @@ attributes:
   tags:
     - Security
     - Auditing
-  operating_region: []
+  operating_region:
+    - Global
   based_in: null
 mainnet:
   audits: []

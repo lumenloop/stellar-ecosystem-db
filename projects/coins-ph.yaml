@@ -4,7 +4,7 @@ other_names:
 parent: null
 description: Coins.ph is a regulated e-wallet & crypto exchange offering cross-border payments using Stellar-native stablecoins for low fees.
 images:
-  og_image: https://media.lumenloop.xyz/projects/coins-ph/og.jpg
+  og_image: https://media.lumenloop.com/projects/coins-ph/og.jpg
 links:
   website:
     - coins.ph

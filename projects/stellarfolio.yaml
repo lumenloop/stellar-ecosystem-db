@@ -2,6 +2,7 @@ title: StellarFolio
 other_names: null
 parent: null
 description: StellarFolio is a web application designed to help users manage their Stellar accounts and assets. It provides features such as portfolio tracking, transaction history, and real-time balance updates, enabling users to efficiently monitor and manage their holdings on the Stellar network.
+images: null
 links:
   website:
     - stellarfolio.app
@@ -18,8 +19,11 @@ links:
   github: []
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Analytics
+    - Software Wallet
+  operating_region:
+    - Global
   based_in: null
 mainnet:
   audits: []

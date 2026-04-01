@@ -4,8 +4,8 @@ other_names:
 parent: Ultra Stellar
 description: Coindisco is a cryptocurrency platform that enables users to purchase a variety of digital assets using multiple payment methods, including credit/debit cards and bank transfers. Their Galaxy Ramp tool utilizes Soroban smart contracts on the Stellar network to facilitate direct fiat-to-crypto transactions for any Stellar token.
 images:
-  avatar: https://media.lumenloop.xyz/projects/coindisco/github_avatar.jpg
-  og_image: https://media.lumenloop.xyz/projects/coindisco/og.png
+  avatar: https://media.lumenloop.com/projects/coindisco/github_avatar.jpg
+  og_image: https://media.lumenloop.com/projects/coindisco/og.png
 links:
   website:
     - coindisco.com

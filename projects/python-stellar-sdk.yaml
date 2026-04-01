@@ -2,6 +2,7 @@ title: Python Stellar SDK
 other_names: null
 parent: null
 description: Python library for communicating with Stellar Horizon and Soroban RPC servers, used for building and signing transactions.
+images: null
 links:
   website:
     - github.com/stellarcn/py-stellar-base

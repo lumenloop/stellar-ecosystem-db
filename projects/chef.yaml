@@ -2,6 +2,7 @@ title: Chef
 other_names: null
 parent: null
 description: Chef is a tool that helps developers set up their test environments quickly.
+images: null
 links:
   website:
     - stellar-chef.github.io/stellar-chef

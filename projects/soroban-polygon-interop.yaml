@@ -2,6 +2,7 @@ title: Soroban  Polygon - Interop
 other_names: null
 parent: null
 description: Crosschain asset transfers between Soroban and Polygon, leveraging the Enterprise Ethereum Alliance DLT Interoperability spec.
+images: null
 links:
   website:
     - entethalliance.github.io/crosschain-interoperability/draft_dlt-interop_techspec.html

@@ -3,7 +3,7 @@ other_names: null
 parent: null
 description: Infrastructure that connects Web3 to financial systems, makes FIAT<>Crypto interoperable and converts any company into a fintech.
 images:
-  avatar: https://media.lumenloop.xyz/projects/anclap/github_avatar.png
+  avatar: https://media.lumenloop.com/projects/anclap/github_avatar.png
 links:
   website:
     - anclap.com

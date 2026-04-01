@@ -3,6 +3,7 @@ other_names:
   - Meta Contracts in Stellar
 parent: null
 description: A set of "meta contracts" developers can use to avoid uploading contracts just to do complex calls from their dApps.
+images: null
 links:
   website:
     - jsr.io/@creit-tech/stellar-router-sdk

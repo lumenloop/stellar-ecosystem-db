@@ -2,6 +2,7 @@ title: Stellarmint
 other_names: null
 parent: null
 description: Stellarmint is a platform that simplifies the creation of tokens on the Stellar network, allowing users to define token attributes and issue them directly to their Stellar wallets without technical complexities.
+images: null
 links:
   website:
     - stellarmint.io

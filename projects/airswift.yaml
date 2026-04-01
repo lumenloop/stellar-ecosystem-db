@@ -4,7 +4,7 @@ other_names:
 parent: null
 description: Airswift's Supply Chain Financing Platform uses Stellar's Soroban to tokenize and fractionalize account receivables, enabling suppliers to access advanced stablecoin loans and optimize working capital.
 images:
-  avatar: https://media.lumenloop.xyz/projects/airswift/github_avatar.png
+  avatar: https://media.lumenloop.com/projects/airswift/github_avatar.png
 links:
   website:
     - pelagotech.com

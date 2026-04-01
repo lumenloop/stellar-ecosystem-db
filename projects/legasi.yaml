@@ -3,7 +3,7 @@ other_names: null
 parent: null
 description: On-chain Lombard lending infrastructure on Stellar, enabling collateralized borrowing against tokenized real-world assets.
 images:
-  og_image: https://media.lumenloop.xyz/projects/legasi/og.jpg
+  og_image: https://media.lumenloop.com/projects/legasi/og.jpg
 links:
   website:
     - legasi.io

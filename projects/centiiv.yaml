@@ -3,8 +3,8 @@ other_names: null
 parent: null
 description: Centiiv empowers African businesses with tools to enable them scale operations by cutting losses, closing sales faster, and boosting customer retention whilst accepting payments locally and globally. It is a payment gateway that combines web2 and web3 technologies with inbuilt escrow, credit clawback and loyalty reward systems.
 images:
-  avatar: https://media.lumenloop.xyz/projects/centiiv/github_avatar.png
-  og_image: https://media.lumenloop.xyz/projects/centiiv/og.jpg
+  avatar: https://media.lumenloop.com/projects/centiiv/github_avatar.png
+  og_image: https://media.lumenloop.com/projects/centiiv/og.jpg
 links:
   website:
     - centiiv.com

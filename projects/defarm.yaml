@@ -3,7 +3,7 @@ other_names: null
 parent: null
 description: DeFarm is an agricultural traceability platform that enables organizations to participate in collaborative networks (circuits) while maintaining complete data sovereignty. Our system allows producers, certifiers, and government authorities to selectively share agricultural data through privacy-preserving disclosure mechanisms, ensuring compliance and transparency without compromising sensitive information.
 images:
-  avatar: https://media.lumenloop.xyz/projects/defarm/github_avatar.png
+  avatar: https://media.lumenloop.com/projects/defarm/github_avatar.png
 links:
   website:
     - defarm.net

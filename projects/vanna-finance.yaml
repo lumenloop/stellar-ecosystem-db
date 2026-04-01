@@ -4,6 +4,7 @@ other_names:
   - Vanna
 parent: null
 description: Vanna is building DeFAI's 1st Proprietary Trading Protocol using Composable Leverage & Chain Abstraction to let users Borrow upto 10x capital, trade borrowed capital on aggregated leveraged Derivatives & spot markets, earn leveraged yields across DeFi protocols & optimise risk exposure of delta-neutral strategies with sophisticated risk-management tools like Greeks.
+images: null
 links:
   website:
     - vanna.finance

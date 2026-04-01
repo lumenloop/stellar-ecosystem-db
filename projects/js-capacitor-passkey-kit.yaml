@@ -2,6 +2,7 @@ title: JS-Capacitor Passkey Kit
 other_names: null
 parent: null
 description: The JS-Capacitor Passkey Kit helps JavaScript developers to implement Soroban Smart Wallets by providing access to native passkey functionality on iOS, Android devices and hardware tokens, such as YubiKey, for example.
+images: null
 links:
   website:
     - argo-navis.dev

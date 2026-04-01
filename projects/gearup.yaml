@@ -4,7 +4,7 @@ other_names:
 parent: null
 description: GearUp is a Stellar-based P2P marketplace for African creators to rent, buy, sell gear, studio spaces, courses, and find gig opportunities.
 images:
-  avatar: https://media.lumenloop.xyz/projects/gearup/github_avatar.png
+  avatar: https://media.lumenloop.com/projects/gearup/github_avatar.png
 links:
   website:
     - gearup.market

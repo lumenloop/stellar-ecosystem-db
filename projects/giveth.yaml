@@ -3,8 +3,8 @@ other_names: null
 parent: null
 description: Giveth is a community-driven platform that leverages blockchain technology to facilitate zero-fee cryptocurrency donations to vetted projects, nonprofits, and charities.
 images:
-  avatar: https://media.lumenloop.xyz/projects/giveth/github_avatar.png
-  og_image: https://media.lumenloop.xyz/projects/giveth/og.png
+  avatar: https://media.lumenloop.com/projects/giveth/github_avatar.png
+  og_image: https://media.lumenloop.com/projects/giveth/og.png
 links:
   website:
     - giveth.io

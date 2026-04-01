@@ -2,6 +2,7 @@ title: Pakana.Net
 other_names: null
 parent: null
 description: Pakana is a decentralized platform that streamlines payment processing and project management by leveraging Stellar's blockchain technology. It offers features such as multi-signature wallets for secure peer-to-peer escrow, integration with financial services like Plaid, Stripe, PayPal, and Venmo, and tools for document automation and lien-release tracking, catering to professionals including attorneys, contractors, and freelancers.
+images: null
 links:
   website:
     - pakana.net

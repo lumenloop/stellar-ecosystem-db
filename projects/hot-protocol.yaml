@@ -5,8 +5,8 @@ other_names:
 parent: null
 description: Chain signature protocol enabling secure multi-chain cryptocurrency operations through decentralized MPC wallets.
 images:
-  avatar: https://media.lumenloop.xyz/projects/hot-protocol/github_avatar.jpg
-  og_image: https://media.lumenloop.xyz/projects/hot-protocol/og.jpg
+  avatar: https://media.lumenloop.com/projects/hot-protocol/github_avatar.jpg
+  og_image: https://media.lumenloop.com/projects/hot-protocol/og.jpg
 links:
   website:
     - hot-labs.org

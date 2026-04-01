@@ -3,6 +3,7 @@ other_names:
   - 'USDC Swap: Stellar CCTP Bridge'
 parent: Ultra Stellar
 description: USDC Swap is a platform that facilitates seamless conversions between USDC on the Ethereum blockchain and USDC on the Stellar network, enabling users to leverage Stellar's fast and low-cost transactions.
+images: null
 links:
   website:
     - usdcswap.com

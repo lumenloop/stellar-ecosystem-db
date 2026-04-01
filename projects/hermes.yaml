@@ -2,6 +2,7 @@ title: Hermes
 other_names: null
 parent: null
 description: Hermes is a decentralized perpetual exchange on the Stellar blockchain, enabling traders to engage in leveraged trading. It uses a liquidity pool model and oracles to offer deep liquidity with minimal slippage, allowing users to open and close positions efficiently without additional accounts.
+images: null
 links:
   website:
     - github.com/orbit-cdp/hermes

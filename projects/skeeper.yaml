@@ -3,6 +3,7 @@ other_names:
   - Skeeper - a keeper platform
 parent: null
 description: Skeeper provides smart-contract execution and automation tools and infrastructure for the Soroban ecosystem.
+images: null
 links:
   website:
     - skeeper.xyz

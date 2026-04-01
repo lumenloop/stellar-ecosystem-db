@@ -3,6 +3,7 @@ other_names:
   - KometPay
 parent: null
 description: Mobile payments app helping Latino migrants send money and vouchers to their families abroad, powered by Stellar for competitive international transfer rates.
+images: null
 links:
   website:
     - kometpay.com

@@ -3,7 +3,7 @@ other_names: null
 parent: null
 description: Lumenswap is a decentralized exchange built on the Stellar network, enabling users to swap and trade assets through a user-friendly interface. It leverages Stellar's scalability and low fees to provide fast, cost-effective transactions, and supports popular wallets like Rabet, Freighter, and Albedo for seamless accessibility.
 images:
-  avatar: https://media.lumenloop.xyz/projects/lumenswap/github_avatar.jpg
+  avatar: https://media.lumenloop.com/projects/lumenswap/github_avatar.jpg
 links:
   website:
     - lumenswap.io

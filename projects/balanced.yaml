@@ -4,8 +4,8 @@ other_names:
 parent: null
 description: "Balanced is a cross-chain DEX and stablecoin that enables\_native cross-chain DeFi primitives for any ecosystem."
 images:
-  avatar: https://media.lumenloop.xyz/projects/balanced/github_avatar.png
-  og_image: https://media.lumenloop.xyz/projects/balanced/og.png
+  avatar: https://media.lumenloop.com/projects/balanced/github_avatar.png
+  og_image: https://media.lumenloop.com/projects/balanced/og.png
 links:
   website:
     - balanced.network

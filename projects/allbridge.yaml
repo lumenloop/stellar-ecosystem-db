@@ -4,8 +4,8 @@ other_names:
 parent: null
 description: Allbridge enables users to seamlessly access the Stellar ecosystem through crossbridge swaps.
 images:
-  avatar: https://media.lumenloop.xyz/projects/allbridge/github_avatar.png
-  og_image: https://media.lumenloop.xyz/projects/allbridge/og.png
+  avatar: https://media.lumenloop.com/projects/allbridge/github_avatar.png
+  og_image: https://media.lumenloop.com/projects/allbridge/og.png
 links:
   website:
     - allbridge.io

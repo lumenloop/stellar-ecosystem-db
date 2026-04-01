@@ -2,6 +2,7 @@ title: Stellar Razor and Blazor Suite
 other_names: null
 parent: Pakana
 description: DotNet Razor and Blazor UI Components and Schema for Microsoft Identity, OAuth 2.0, OIDS 1.0, QR-Code MFA, Keypair Abstraction.
+images: null
 links:
   website:
     - github.com/lockb0x-llc/pakana-stellar-razor-components

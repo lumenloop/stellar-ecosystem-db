@@ -5,7 +5,7 @@ other_names:
 parent: null
 description: Amero Exchange is a regulated platform that enables users in Latin America to buy, sell, and manage digital assets, supporting over 45 different currencies. It facilitates cross-border transactions, including remittances via MoneyGram, and offers a crypto prepaid card for spending digital assets globally.
 images:
-  og_image: https://media.lumenloop.xyz/projects/amero/og.png
+  og_image: https://media.lumenloop.com/projects/amero/og.png
 links:
   website:
     - amero.exchange

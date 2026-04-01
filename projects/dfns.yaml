@@ -4,8 +4,8 @@ other_names:
 parent: null
 description: Dfns is a MPC wallet as a service platform, supporting banks, fintechs, tokenization platforms and more.
 images:
-  avatar: https://media.lumenloop.xyz/projects/dfns/github_avatar.png
-  og_image: https://media.lumenloop.xyz/projects/dfns/og.jpg
+  avatar: https://media.lumenloop.com/projects/dfns/github_avatar.png
+  og_image: https://media.lumenloop.com/projects/dfns/og.jpg
 links:
   website:
     - dfns.co

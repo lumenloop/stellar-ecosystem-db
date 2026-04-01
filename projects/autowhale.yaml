@@ -3,7 +3,7 @@ other_names: null
 parent: null
 description: Portfolio management and order execution system for institutional investors accessing Stellar’s DeFi and RWA ecosystem.
 images:
-  og_image: https://media.lumenloop.xyz/projects/autowhale/og.webp
+  og_image: https://media.lumenloop.com/projects/autowhale/og.webp
 links:
   website:
     - autowhale.io

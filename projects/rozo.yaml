@@ -4,7 +4,7 @@ other_names:
 parent: null
 description: ROZO simplifies crypto-native payments to just 1 tap by providing an intent-based API. Crypto is a more efficient form of money, but using it in everyday life is still too complicated — you have to choose a wallet, a token, and a chain. We simplify this through intent abstraction and integration with hardware and agents, making payments possible with just one tap or click.
 images:
-  avatar: https://media.lumenloop.xyz/projects/rozo/github_avatar.png
+  avatar: https://media.lumenloop.com/projects/rozo/github_avatar.png
 links:
   website:
     - rozo.ai

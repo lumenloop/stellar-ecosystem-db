@@ -3,6 +3,7 @@ other_names:
   - SFx Super Money app
 parent: null
 description: SFx money app is a super money app that uses USDC to enable money transfers from Africa and to make Onchain and Offchain payments easy for African’s in Turkey.
+images: null
 links:
   website:
     - sfxchange.co/en

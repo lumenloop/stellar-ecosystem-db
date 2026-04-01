@@ -2,6 +2,7 @@ title: InstantDAO
 other_names: null
 parent: null
 description: Enables Stellar asset issuers to quickly turn their asset into a governance token with built-in DAO voting and proposal management.
+images: null
 links:
   website:
     - instantdao.io

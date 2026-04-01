@@ -2,6 +2,7 @@ title: WebSoroban IDE
 other_names: null
 parent: null
 description: Browser-based IDE for Soroban smart contract development, enabling writing, compiling, and deploying contracts without local toolchain setup.
+images: null
 links:
   website:
     - websoroban.vercel.app

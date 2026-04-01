@@ -3,7 +3,7 @@ other_names: null
 parent: null
 description: Real-time Web3 security platform that detects, blocks, and takes down phishing sites and scam content targeting blockchain ecosystems including Stellar.
 images:
-  avatar: https://media.lumenloop.xyz/projects/chainpatrol/github_avatar.png
+  avatar: https://media.lumenloop.com/projects/chainpatrol/github_avatar.png
 links:
   website:
     - chainpatrol.com

@@ -2,6 +2,7 @@ title: Tribal
 other_names: null
 parent: null
 description: Tribal Credit is a fintech company offering integrated financial solutions, including corporate credit cards and financing, tailored for startups and SMEs in emerging markets. In collaboration with the Stellar Development Foundation and Bitso, Tribal facilitates faster and more affordable cross-border B2B payments between Mexico and the U.S. by leveraging blockchain technology and digital assets.
+images: null
 links:
   website:
     - tribal.credit
@@ -22,8 +23,14 @@ links:
   github: []
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Payments
+    - Latam
+    - B2B
+    - Stablecoins
+  operating_region:
+    - Latin America & Caribbean
+    - North America (without Mexico)
   based_in: United States
 mainnet:
   audits: []

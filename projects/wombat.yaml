@@ -4,7 +4,7 @@ other_names:
 parent: null
 description: Wombat Exchange is a decentralized exchange enabling low-slippage swaps and single-sided liquidity pools for efficient capital use. It supports multichain operations and incentivizes user engagement through gamified features.
 images:
-  avatar: https://media.lumenloop.xyz/projects/wombat/github_avatar.jpg
+  avatar: https://media.lumenloop.com/projects/wombat/github_avatar.jpg
 links:
   website:
     - wombat.exchange

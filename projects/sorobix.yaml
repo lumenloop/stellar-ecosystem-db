@@ -2,6 +2,7 @@ title: Sorobix
 other_names: null
 parent: null
 description: An online IDE to compile, deploy, invoke and debug Soroban Smart Contracts on-the-fly using a browser without any local setup!.
+images: null
 links:
   website:
     - sorobix.xyz

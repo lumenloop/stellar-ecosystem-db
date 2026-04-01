@@ -3,6 +3,7 @@ other_names:
   - StreamingFast (core dev team at The Graph)
 parent: null
 description: Firehose and Substreams integration bringing Stellar to The Graph's decentralized indexing network, enabling advanced data indexing via Substreams-powered Subgraphs.
+images: null
 links:
   website:
     - streamingfast.io

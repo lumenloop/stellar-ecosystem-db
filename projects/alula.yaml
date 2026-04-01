@@ -3,7 +3,7 @@ other_names: null
 parent: null
 description: Alula is a lending protocol with looping functionality on Stellar. It relies on the network's low-cost transactions and efficient Soroban platform to deliver best-in-class service to its users, diversifying the DeFi ecosystem.
 images:
-  og_image: https://media.lumenloop.xyz/projects/alula/og.png
+  og_image: https://media.lumenloop.com/projects/alula/og.png
 links:
   website:
     - alula.finance

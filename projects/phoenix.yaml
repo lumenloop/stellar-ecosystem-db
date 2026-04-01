@@ -3,8 +3,8 @@ other_names: null
 parent: null
 description: Phoenix's AMM enables decentralized swaps of crypto assets and is the first of a full suite of synergistic DeFi protocols.
 images:
-  avatar: https://media.lumenloop.xyz/projects/phoenix/github_avatar.png
-  og_image: https://media.lumenloop.xyz/projects/phoenix/og.png
+  avatar: https://media.lumenloop.com/projects/phoenix/github_avatar.png
+  og_image: https://media.lumenloop.com/projects/phoenix/og.png
 links:
   website:
     - phoenix-hub.io

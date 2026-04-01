@@ -2,6 +2,7 @@ title: Trustful
 other_names: null
 parent: null
 description: A reputation system using Stellar badges and on-chain data that prioritizes fair cross-community collaboration over wealth.
+images: null
 links:
   website:
     - trustful-stellar.vercel.app

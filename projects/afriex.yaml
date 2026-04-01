@@ -2,6 +2,7 @@ title: Afriex
 other_names: null
 parent: null
 description: Afriex is a money transfer app enabling fast, low-cost transactions between the USA, UK, Canada, Europe, and African countries like Nigeria and Ghana. It offers competitive exchange rates and seamless international remittances.
+images: null
 links:
   website:
     - afriexapp.com
@@ -22,8 +23,15 @@ links:
   github: []
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Payments
+    - Remittances
+    - Africa
+    - Mobile
+  operating_region:
+    - Sub-Saharan Africa
+    - North America (without Mexico)
+    - Europe & Central Asia
   based_in: Spain
 mainnet:
   audits: []

@@ -2,6 +2,8 @@ title: Veridise
 other_names: null
 parent: null
 description: Smart contract audits and blockchain security tools using formal methods and automated analysis.
+images:
+  avatar: https://media.lumenloop.com/projects/veridise/github_avatar.png
 links:
   website:
     - veridise.com

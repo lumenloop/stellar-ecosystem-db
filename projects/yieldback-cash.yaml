@@ -2,6 +2,7 @@ title: YieldBack.Cash
 other_names: null
 parent: null
 description: YieldBack.Cash is a system that creates coupon bonds backed by Blend pools. Users are guaranteed fixed income from a coupon deposited by a sponsor while the sponsor earns the pool interest rate. This is a capital efficient way to guarantee stickier TVL for the Blend protocol and guarantee users fixed income.
+images: null
 links:
   website:
     - yieldback.cash

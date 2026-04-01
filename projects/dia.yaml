@@ -4,8 +4,8 @@ other_names:
 parent: null
 description: Elevate functionality and innovation across Soroban’s smart contract ecosystem with DIA’s robust, open-source cross-chain oracles.
 images:
-  avatar: https://media.lumenloop.xyz/projects/dia/github_avatar.png
-  og_image: https://media.lumenloop.xyz/projects/dia/og.png
+  avatar: https://media.lumenloop.com/projects/dia/github_avatar.png
+  og_image: https://media.lumenloop.com/projects/dia/og.png
 links:
   website:
     - diadata.org

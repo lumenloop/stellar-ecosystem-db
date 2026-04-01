@@ -3,7 +3,7 @@ other_names: null
 parent: null
 description: Stellar Soroban Indexer and GraphQL.
 images:
-  og_image: https://media.lumenloop.xyz/projects/blockeden-xyz/og.png
+  og_image: https://media.lumenloop.com/projects/blockeden-xyz/og.png
 links:
   website:
     - blockeden.xyz

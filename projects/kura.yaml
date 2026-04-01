@@ -4,8 +4,8 @@ other_names:
 parent: null
 description: Creates transparency and impact by reducing cash use and enabling merchants in LAC to get paid directly at their points of sale.
 images:
-  avatar: https://media.lumenloop.xyz/projects/kura/github_avatar.png
-  og_image: https://media.lumenloop.xyz/projects/kura/og.png
+  avatar: https://media.lumenloop.com/projects/kura/github_avatar.png
+  og_image: https://media.lumenloop.com/projects/kura/og.png
 links:
   website:
     - kuratek.com

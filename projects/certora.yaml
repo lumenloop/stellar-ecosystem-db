@@ -3,7 +3,7 @@ other_names: null
 parent: null
 description: Formal verification tools and smart contract audits that identify vulnerabilities with mathematical certainty.
 images:
-  og_image: https://media.lumenloop.xyz/projects/certora/og.jpg
+  og_image: https://media.lumenloop.com/projects/certora/og.jpg
 links:
   website:
     - certora.com

@@ -3,6 +3,7 @@ other_names:
   - 'AgTrail: Stellar Food Traceability'
 parent: null
 description: Food traceability platform on Stellar for Nigerian farmers, providing end-to-end supply chain tracking via IoT and QR codes with blockchain-secured payments for cross-border market access.
+images: null
 links:
   website:
     - agtrail.agrolinking.com

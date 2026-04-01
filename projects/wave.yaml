@@ -2,6 +2,7 @@ title: Wave
 other_names: null
 parent: null
 description: Wave is a mobile money service operating in Africa, allowing users to deposit, withdraw, pay bills, and send money with minimal fees.
+images: null
 links:
   website:
     - wave.com
@@ -20,8 +21,12 @@ links:
   github: []
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Payments
+    - Africa
+    - Mobile
+  operating_region:
+    - Sub-Saharan Africa
   based_in: Uganda
 mainnet:
   audits: []

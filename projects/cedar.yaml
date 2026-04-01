@@ -2,6 +2,7 @@ title: CEDAR
 other_names: null
 parent: null
 description: Cedar Money is a platform that simplifies cross-border transactions for businesses and individuals, enabling high-volume payments globally with competitive exchange rates and efficient processing.
+images: null
 links:
   website:
     - cedar.money
@@ -21,8 +22,12 @@ links:
   github: []
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Payments
+    - Cross-Border Payments
+    - B2B
+  operating_region:
+    - Global
   based_in: Nigeria
 mainnet:
   audits: []

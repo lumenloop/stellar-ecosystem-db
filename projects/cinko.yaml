@@ -2,6 +2,7 @@ title: Cinko
 other_names: null
 parent: null
 description: Platform that facilitates secure cross-border transactions, efficient payout distributions, and seamless payment processing through traditional financial systems and stablecoins.
+images: null
 links:
   website:
     - cinko.io
@@ -21,8 +22,12 @@ links:
   github: []
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Payments
+    - Cross-Border Payments
+    - Stablecoins
+  operating_region:
+    - Global
   based_in: Colombia
 mainnet:
   audits: []

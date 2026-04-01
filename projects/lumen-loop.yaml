@@ -3,7 +3,7 @@ other_names: null
 parent: null
 description: Lumen Loop aggregates the latest news, projects and events from the Stellar ecosystem into one central hub.
 images:
-  avatar: https://media.lumenloop.xyz/projects/lumen-loop/github_avatar.jpg
+  avatar: https://media.lumenloop.com/projects/lumen-loop/github_avatar.jpg
 links:
   website:
     - lumenloop.com

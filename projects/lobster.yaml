@@ -2,6 +2,7 @@ title: Lobster
 other_names: null
 parent: null
 description: Liquidity pool optimization platform on Stellar, providing automated strategies for maximizing AMM returns and managing impermanent loss.
+images: null
 links:
   website:
     - lobster-protocol.com

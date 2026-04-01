@@ -3,7 +3,7 @@ other_names: null
 parent: null
 description: Enable the Hito hardware wallet to support Stellar. Hito, currently supports Bitcoin, Ethereum, Solana and NEAR and has sold more than 5,000 customized wallets.
 images:
-  og_image: https://media.lumenloop.xyz/projects/hito-wallet/og.png
+  og_image: https://media.lumenloop.com/projects/hito-wallet/og.png
 links:
   website:
     - hito.xyz

@@ -2,6 +2,7 @@ title: Changera
 other_names: null
 parent: null
 description: Changera is an international money transfer app that enables users to send and receive money in multiple currencies, including Naira, Euros, Dollars, Pounds, Cedis, and Kenyan Shillings, facilitating global payments and offering features like virtual bank accounts and social money sharing.
+images: null
 links:
   website:
     - changera.co
@@ -21,8 +22,13 @@ links:
   github: []
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Payments
+    - Remittances
+    - Africa
+    - Mobile
+  operating_region:
+    - Sub-Saharan Africa
   based_in: United States
 mainnet:
   audits: []

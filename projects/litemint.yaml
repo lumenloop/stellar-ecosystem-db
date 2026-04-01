@@ -3,7 +3,7 @@ other_names: null
 parent: null
 description: Litemint is an NFT marketplace on the Stellar network that integrates Soroban smart contracts for royalties and auctions.
 images:
-  avatar: https://media.lumenloop.xyz/projects/litemint/github_avatar.png
+  avatar: https://media.lumenloop.com/projects/litemint/github_avatar.png
 links:
   website:
     - litemint.com

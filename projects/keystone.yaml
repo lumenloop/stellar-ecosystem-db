@@ -2,6 +2,7 @@ title: Keystone
 other_names: null
 parent: null
 description: Keystone is a hardware wallet that supports a wide range of cryptocurrencies.
+images: null
 links:
   website:
     - keyst.one
@@ -25,8 +26,11 @@ links:
     - github.com/keystonehq
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Security
+    - Infrastructure
+  operating_region:
+    - Global
   based_in: United States
 mainnet:
   audits: []

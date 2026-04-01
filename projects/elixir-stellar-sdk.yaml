@@ -2,6 +2,7 @@ title: Elixir Stellar SDK
 other_names: null
 parent: null
 description: An Elixir library for interacting with the Stellar blockchain, enabling transaction construction, signing, and integration with Horizon server endpoints.
+images: null
 links:
   website:
     - github.com/kommitters/stellar_sdk

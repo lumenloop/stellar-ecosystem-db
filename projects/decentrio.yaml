@@ -2,6 +2,7 @@ title: Decentrio
 other_names: null
 parent: null
 description: Decentrio provides infrastructure services including RPC and high-performance transaction/event indexing for Soroban decentralized applications.
+images: null
 links:
   website:
     - decentrio.ventures

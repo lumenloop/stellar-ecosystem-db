@@ -2,6 +2,7 @@ title: Ripio
 other_names: null
 parent: null
 description: Ripio is a cryptocurrency platform in Latin America, offering services such as buying, selling, and managing digital assets through its app and web platform.
+images: null
 links:
   website:
     - ripio.com
@@ -24,8 +25,12 @@ links:
     - github.com/ripio
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - On-Off Ramp
+    - Latam
+    - Mobile
+  operating_region:
+    - Latin America & Caribbean
   based_in: Argentina
 mainnet:
   audits: []

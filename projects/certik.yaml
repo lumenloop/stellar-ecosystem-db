@@ -3,6 +3,7 @@ other_names:
   - Skynet
 parent: Certik
 description: Building Stellar chain support to CertiK’s Skynet for community security and SkyInsights for compliance/risk monitoring.
+images: null
 links:
   website:
     - certik.com

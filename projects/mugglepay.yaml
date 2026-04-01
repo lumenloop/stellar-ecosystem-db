@@ -4,7 +4,7 @@ other_names:
 parent: null
 description: "Help merchants accept crypto on Stellar\_through autoswap smarts contract built on Soroban. (e.g. pay-in XLM, pay-out USDC)."
 images:
-  avatar: https://media.lumenloop.xyz/projects/mugglepay/github_avatar.jpg
+  avatar: https://media.lumenloop.com/projects/mugglepay/github_avatar.jpg
 links:
   website:
     - mugglepay.com

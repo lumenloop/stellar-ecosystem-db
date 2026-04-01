@@ -2,6 +2,7 @@ title: MultiClique
 other_names: null
 parent: null
 description: A policy and workflow framwork for multisignature accounts.
+images: null
 links:
   website:
     - multiclique.org

@@ -3,6 +3,7 @@ other_names:
   - Trace Finance
 parent: null
 description: Trace Finance is a fintech company that provides cross-border payment infrastructure for high-volume businesses, enabling secure and efficient local and international transactions through APIs for PIX, boleto, and TED.
+images: null
 links:
   website:
     - tracefinance.com
@@ -22,8 +23,12 @@ links:
     - github.com/tracefinance
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Payments
+    - Cross-Border Payments
+    - B2B
+  operating_region:
+    - Global
   based_in: United States
 mainnet:
   audits: []

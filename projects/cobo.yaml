@@ -3,6 +3,7 @@ other_names:
   - Cobo Custody Integration for Institution
 parent: null
 description: Institutional-grade digital asset custody and wallet infrastructure with MPC security, supporting Stellar asset management for organizations.
+images: null
 links:
   website:
     - cobo.com

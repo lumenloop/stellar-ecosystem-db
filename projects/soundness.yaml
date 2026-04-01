@@ -3,6 +3,7 @@ other_names:
   - Post-Quantum Secure Wallets for Stellar
 parent: null
 description: Enable post-quantum wallets and transactions on Stellar, protecting retail and institutional users against upcoming quantum threats.
+images: null
 links:
   website:
     - soundness.xyz

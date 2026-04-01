@@ -4,7 +4,7 @@ other_names:
 parent: null
 description: Enhance DeFi accounting with full transaction history, reconciliation, financial reports via UI/API, expand protocol integration.
 images:
-  avatar: https://media.lumenloop.xyz/projects/kwickbit/github_avatar.png
+  avatar: https://media.lumenloop.com/projects/kwickbit/github_avatar.png
 links:
   website:
     - kwickbit.com

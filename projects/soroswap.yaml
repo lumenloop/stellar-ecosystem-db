@@ -4,7 +4,7 @@ other_names:
 parent: PaltaLabs
 description: Open-source AMM protocol and AMM Aggregator with Ecosystem Interoperability for providing liquidity and trading Stellar Assets in Soroban.
 images:
-  avatar: https://media.lumenloop.xyz/projects/soroswap/github_avatar.png
+  avatar: https://media.lumenloop.com/projects/soroswap/github_avatar.png
 links:
   website:
     - soroswap.finance

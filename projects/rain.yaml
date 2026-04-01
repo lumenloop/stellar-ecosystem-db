@@ -3,7 +3,7 @@ other_names: null
 parent: null
 description: Stablecoin-linked Visa card provider. Enables companies on Stellar, Solana, and Tron to launch branded cards for real-world stablecoin spending.
 images:
-  og_image: https://media.lumenloop.xyz/projects/rain/og.jpg
+  og_image: https://media.lumenloop.com/projects/rain/og.jpg
 links:
   website:
     - rain.com

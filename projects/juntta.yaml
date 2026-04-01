@@ -3,6 +3,7 @@ other_names:
   - 'Juntta: Web3 Crowdfunding for LATAM'
 parent: null
 description: Transparent crowdfunding platform on Stellar with milestone-based fund release, enabling community-backed project financing with on-chain accountability.
+images: null
 links:
   website:
     - juntta.org
