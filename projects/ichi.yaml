@@ -4,8 +4,9 @@ other_names:
 parent: Solo Labs
 description: ICHI offers automated liquidity strategies for DeFi, enabling users to grow any token with low-slippage, on-chain liquidity.
 images:
-  avatar: https://media.lumenloop.com/projects/ichi/github_avatar.png
-  og_image: https://media.lumenloop.com/projects/ichi/og.png
+  icon: https://media.lumenloop.xyz/projects/ichi/apple_touch.png
+  avatar: https://media.lumenloop.xyz/projects/ichi/github_avatar.png
+  og_image: https://media.lumenloop.xyz/projects/ichi/og.png
 links:
   website:
     - ichi.org

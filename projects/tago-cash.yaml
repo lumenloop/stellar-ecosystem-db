@@ -2,7 +2,9 @@ title: Tago Cash
 other_names: null
 parent: TagoBits
 description: TagoCash is a digital wallet platform developed by TagoBits, Inc., enabling users to store, spend, save, pay, or send money globally with ease.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/tago-cash/favicon.svg
+  logo: https://media.lumenloop.xyz/projects/tago-cash/logo.svg
 links:
   website:
     - tagocash.com

@@ -2,7 +2,10 @@ title: Rails
 other_names: null
 parent: null
 description: Institutional-grade liquidity infrastructure on Stellar. Provides regulated vaults for crypto derivatives with high-speed settlement and on-chain verification.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/rails/favicon.ico
+  logo: https://media.lumenloop.xyz/projects/rails/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/rails/og.png
 links:
   website:
     - rails.xyz

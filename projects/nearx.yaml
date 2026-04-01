@@ -4,7 +4,9 @@ other_names:
 parent: null
 description: Comprehensive educational program for web2 developers to master Stellar & Soroban coding.
 images:
-  avatar: https://media.lumenloop.com/projects/nearx/github_avatar.png
+  icon: https://media.lumenloop.xyz/projects/nearx/apple_touch.svg
+  avatar: https://media.lumenloop.xyz/projects/nearx/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/nearx/logo.webp
 links:
   website:
     - nearx.com.br

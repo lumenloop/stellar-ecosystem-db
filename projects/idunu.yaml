@@ -3,7 +3,8 @@ other_names:
   - 'IDUNU: Help Kids Thrive'
 parent: null
 description: A fundraising and fund distribution platform for high-impact, cost-effective charities working with underprivileged kids.
-images: null
+images:
+  logo: https://media.lumenloop.xyz/projects/idunu/logo.png
 links:
   website:
     - idunu.org

@@ -2,7 +2,9 @@ title: stallion
 other_names: null
 parent: null
 description: Platform connecting skilled individuals with micro-task opportunities, using Stellar for instant, low-cost payments to workers globally.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/stallion/favicon.png
+  logo: https://media.lumenloop.xyz/projects/stallion/logo.png
 links:
   website:
     - earnstallions.xyz

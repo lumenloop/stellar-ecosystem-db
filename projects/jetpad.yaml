@@ -2,7 +2,10 @@ title: JetPad
 other_names: null
 parent: null
 description: JetPad is redefining finance for Africa’s 500 million unbanked and underbanked youth by building an on-chain banking experience powered by stablecoins and seamless blockchain transactions.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/jetpad/favicon.ico
+  avatar: https://media.lumenloop.xyz/projects/jetpad/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/jetpad/logo.png
 links:
   website:
     - wallet.jetpad.finance

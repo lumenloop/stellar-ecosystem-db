@@ -2,7 +2,9 @@ title: Logistech
 other_names: null
 parent: null
 description: Payment processor integrating Stellar stablecoins for hospitality and travel businesses including cruises, hotels, and resorts.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/logistech/favicon.png
+  logo: https://media.lumenloop.xyz/projects/logistech/logo.jpg
 links:
   website:
     - logistechglobal.com

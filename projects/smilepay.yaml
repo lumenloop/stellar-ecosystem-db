@@ -3,7 +3,9 @@ other_names:
   - Smilepay Global
 parent: null
 description: Peer-to-Peer mobile app and USSD that helps African diasporas send money, buy airtime and pay utility bills for friends and family in Africa, in real-time and free of charge.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/smilepay/apple_touch.svg
+  logo: https://media.lumenloop.xyz/projects/smilepay/logo.svg
 links:
   website:
     - smilepay.app

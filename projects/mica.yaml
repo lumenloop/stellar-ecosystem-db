@@ -3,7 +3,9 @@ other_names: null
 parent: null
 description: Mica escrow creates security in real estate transactions.
 images:
-  avatar: https://media.lumenloop.com/projects/mica/github_avatar.png
+  icon: https://media.lumenloop.xyz/projects/mica/favicon.png
+  avatar: https://media.lumenloop.xyz/projects/mica/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/mica/logo.png
 links:
   website:
     - mica.rent

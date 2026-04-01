@@ -2,7 +2,10 @@ title: Splito
 other_names: null
 parent: null
 description: Making Crypto feel like Money.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/splito/favicon.ico
+  avatar: https://media.lumenloop.xyz/projects/splito/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/splito/logo.png
 links:
   website:
     - splito.io

@@ -3,7 +3,8 @@ other_names: null
 parent: null
 description: Lemon is an Argentine digital wallet that allows users to buy and sell cryptocurrencies like Bitcoin and Stellar, manage Argentine pesos, and access decentralized finance (DeFi) investments. It offers a free international VISA Lemon Card with up to 2% cashback in Bitcoin for each purchase, and provides features such as daily returns on pesos and payment of services through the app.
 images:
-  og_image: https://media.lumenloop.com/projects/lemon/og.jpg
+  icon: https://media.lumenloop.xyz/projects/lemon/apple_touch.png
+  og_image: https://media.lumenloop.xyz/projects/lemon/og.jpg
 links:
   website:
     - lemon.me

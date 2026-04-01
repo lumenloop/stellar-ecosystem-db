@@ -2,7 +2,9 @@ title: Stride
 other_names: null
 parent: null
 description: Stride is a multi-platform fitness ecosystem that combines health tracking with tokenized incentives, allowing users to earn rewards as they achieve their fitness goals. Available on mobile and messaging apps, Stride bridges traditional and Web3 fitness experiences for a sustainable, engaging, and accessible approach to health.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/stride/favicon.svg
+  logo: https://media.lumenloop.xyz/projects/stride/logo.svg
 links:
   website:
     - stride.social

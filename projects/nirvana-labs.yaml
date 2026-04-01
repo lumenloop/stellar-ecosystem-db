@@ -2,7 +2,11 @@ title: Nirvana Labs
 other_names: null
 parent: null
 description: Nirvana will build a public RPC endpoint supporting Stellar's Soroban upgrade on a proprietary web3 cloud off AWS & GCP.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/nirvana-labs/apple_touch.png
+  avatar: https://media.lumenloop.xyz/projects/nirvana-labs/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/nirvana-labs/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/nirvana-labs/og.png
 links:
   website:
     - nirvanalabs.io

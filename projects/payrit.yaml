@@ -2,7 +2,10 @@ title: PAYRIT
 other_names: null
 parent: null
 description: Payrit is a fintech service that is aimed at bridging the gap between the banked and the unbanked, allowing payments from, within and to both user groups, redefining in-person payments in Nigeria and Africa at large.   We are using modern technologies like QR payments and TAP technology for local and international transactions creating a cashless society that's dependable and safer for individuals and business owners.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/payrit/favicon.ico
+  logo: https://media.lumenloop.xyz/projects/payrit/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/payrit/og.jpg
 links:
   website:
     - payrit.com

@@ -3,7 +3,9 @@ other_names: null
 parent: null
 description: RampMeDaddy integrates Stellar Passkey Smart wallets into Telegram, enabling users to create and manage self-custodial wallets with Face ID for secure, low-cost global payments using USDC.xlm.
 images:
-  og_image: https://media.lumenloop.com/projects/rampmedaddy/og.png
+  icon: https://media.lumenloop.xyz/projects/rampmedaddy/apple_touch.png
+  logo: https://media.lumenloop.xyz/projects/rampmedaddy/logo.png
+  og_image: https://media.lumenloop.xyz/projects/rampmedaddy/og.png
 links:
   website:
     - rampmedaddy.com

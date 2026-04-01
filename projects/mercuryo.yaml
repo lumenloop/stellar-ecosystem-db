@@ -3,7 +3,9 @@ other_names: null
 parent: null
 description: Mercuryo is a global payment platform bridging crypto and fiat, offering services like on-ramps, virtual cards, and multi-currency transactions in over 135 countries.
 images:
-  avatar: https://media.lumenloop.com/projects/mercuryo/github_avatar.png
+  icon: https://media.lumenloop.xyz/projects/mercuryo/favicon.png
+  avatar: https://media.lumenloop.xyz/projects/mercuryo/github_avatar.png
+  og_image: https://media.lumenloop.xyz/projects/mercuryo/og.png
 links:
   website:
     - mercuryo.io

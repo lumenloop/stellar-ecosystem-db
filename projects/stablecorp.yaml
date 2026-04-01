@@ -2,7 +2,10 @@ title: Stablecorp
 other_names: null
 parent: null
 description: Stablecorp is a Canadian fintech firm specializing in digital asset infrastructure, known for developing QCAD, a fully fiat-reserved Canadian digital dollar used for on-chain foreign exchange, local and global payments, and other capital markets use cases. In collaboration with VersaBank, Stablecorp issued VCAD, a Canadian stablecoin launched on the Stellar network, marking the first bank-issued Canadian dollar stablecoin on Stellar.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/stablecorp/apple_touch.png
+  logo: https://media.lumenloop.xyz/projects/stablecorp/logo.png
+  og_image: https://media.lumenloop.xyz/projects/stablecorp/og.png
 links:
   website:
     - stablecorp.ca

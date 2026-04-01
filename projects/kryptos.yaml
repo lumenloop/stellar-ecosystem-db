@@ -3,7 +3,10 @@ other_names: null
 parent: null
 description: Comprehensive platform for cryptocurrency tax reporting, portfolio tracking, and DeFi analytics with Stellar network support.
 images:
-  avatar: https://media.lumenloop.com/projects/kryptos/github_avatar.png
+  icon: https://media.lumenloop.xyz/projects/kryptos/apple_touch.png
+  avatar: https://media.lumenloop.xyz/projects/kryptos/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/kryptos/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/kryptos/og.webp
 links:
   website:
     - kryptos.io

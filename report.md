@@ -77,9 +77,9 @@ Of **576** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 441 | 439 |
-| Active last week | 124 | 184 |
+| Active last week | 123 | 187 |
 | Active last month | 175 | 244 |
-| Active last 3 months | 240 | 285 |
+| Active last 3 months | 240 | 284 |
 | Active last year | 310 | 356 |
 
 ## Audit Data
@@ -91,16 +91,16 @@ Of **576** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 21 |
-| certora | 10 |
 | OtterSec | 10 |
+| certora | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
+| Cantina | 1 |
 | Code4rena | 1 |
 | Сoinspect | 1 |
-| Cantina | 1 |
 
 ## Data Sources
 
@@ -116,9 +116,9 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
+| submissions | 563 |
 | crawler | 987 |
 | website | 1619 |
-| submissions | 563 |
 | airtable | 3414 |
 | schedule | 1 |
 | soroban_security | 66 |
@@ -128,14 +128,14 @@ Field-level provenance tracking:
 9 items need attention.
 
 **SCF project missing website** (8):
-- frost-implementation
 - crypto-link
 - relax
-- wally
 - paysapp
 - the-starship-soroban
 - sendit
 - timed-transactions-api
+- frost-implementation
+- wally
 
 **description empty** (1):
 - sendit

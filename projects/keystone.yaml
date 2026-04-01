@@ -2,7 +2,9 @@ title: Keystone
 other_names: null
 parent: null
 description: Keystone is a hardware wallet that supports a wide range of cryptocurrencies.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/keystone/favicon.ico
+  avatar: https://media.lumenloop.xyz/projects/keystone/github_avatar.png
 links:
   website:
     - keyst.one

@@ -4,8 +4,10 @@ other_names:
 parent: null
 description: Verifiable data infrastructure securing onchain finance with zero-knowledge proofs for smart contracts and applications.
 images:
-  avatar: https://media.lumenloop.com/projects/space-and-time/github_avatar.png
-  og_image: https://media.lumenloop.com/projects/space-and-time/og.png
+  icon: https://media.lumenloop.xyz/projects/space-and-time/apple_touch.png
+  avatar: https://media.lumenloop.xyz/projects/space-and-time/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/space-and-time/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/space-and-time/og.png
 links:
   website:
     - spaceandtime.io

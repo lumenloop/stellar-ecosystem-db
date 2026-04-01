@@ -3,7 +3,9 @@ other_names: null
 parent: null
 description: A real-time webhook-driven platform for developers to automate contract deployment, event monitoring, and cross-chain transactions on Stellar and Soroban.
 images:
-  avatar: https://media.lumenloop.com/projects/sorobanhooks/github_avatar.png
+  icon: https://media.lumenloop.xyz/projects/sorobanhooks/favicon.ico
+  avatar: https://media.lumenloop.xyz/projects/sorobanhooks/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/sorobanhooks/logo.png
 links:
   website:
     - sorobanhooks.xyz

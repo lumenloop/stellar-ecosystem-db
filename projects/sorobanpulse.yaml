@@ -2,7 +2,9 @@ title: SorobanPulse
 other_names: null
 parent: null
 description: SorobanPulse showcases Soroban's true potential through data and metrics from real world problem-solving dApps.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/sorobanpulse/apple_touch.png
+  logo: https://media.lumenloop.xyz/projects/sorobanpulse/logo.svg
 links:
   website:
     - sorobanpulse.app

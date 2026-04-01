@@ -3,7 +3,9 @@ other_names:
   - Reyts - Stablecoin-Powered P2P Fiat DEX
 parent: null
 description: Peer-to-peer currency exchange platform on Stellar, enabling community-driven forex trading with transparent on-chain settlement.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/reyts/favicon.png
+  logo: https://media.lumenloop.xyz/projects/reyts/logo.png
 links:
   website:
     - reyts.com

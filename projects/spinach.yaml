@@ -2,7 +2,10 @@ title: Spinach
 other_names: null
 parent: null
 description: DEX liquidity growth platform that runs incentive programs for Stellar protocols, driving trading volume through targeted market-making campaigns.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/spinach/favicon.ico
+  avatar: https://media.lumenloop.xyz/projects/spinach/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/spinach/logo.png
 links:
   website:
     - spinach.fi

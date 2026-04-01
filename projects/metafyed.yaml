@@ -2,7 +2,9 @@ title: Metafyed
 other_names: null
 parent: null
 description: Revolutionizing access to Real World Assets in Asia through tokenization.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/metafyed/apple_touch.png
+  logo: https://media.lumenloop.xyz/projects/metafyed/logo.svg
 links:
   website:
     - metafyed.com

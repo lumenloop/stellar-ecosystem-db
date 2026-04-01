@@ -2,7 +2,10 @@ title: Oinc
 other_names: null
 parent: null
 description: Oinc is a seamless personal finance solution for LATAM young adults, conveniently enabling better financial decision making.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/oinc/apple_touch.png
+  logo: https://media.lumenloop.xyz/projects/oinc/logo.png
+  og_image: https://media.lumenloop.xyz/projects/oinc/og.png
 links:
   website:
     - useoinc.com.br

@@ -3,7 +3,9 @@ other_names: null
 parent: Stellar Expert
 description: Decentralized price feed oracle for Stellar DeFi smart contracts to support derivatives, lending, and asset management.
 images:
-  avatar: https://media.lumenloop.com/projects/reflector/github_avatar.png
+  icon: https://media.lumenloop.xyz/projects/reflector/apple_touch.png
+  avatar: https://media.lumenloop.xyz/projects/reflector/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/reflector/logo.svg
 links:
   website:
     - reflector.network

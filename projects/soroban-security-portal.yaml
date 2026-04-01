@@ -3,7 +3,9 @@ other_names: null
 parent: null
 description: 'Soroban Security Portal is a go-to hub for all things secure in the world of Soroban - Soroban''s smart contract platform. Think of it as your safety compass: audit history, tools, tips and top-tier experts who''ve put Soroban projects through their paces.'
 images:
-  avatar: https://media.lumenloop.com/projects/soroban-security-portal/github_avatar.jpg
+  icon: https://media.lumenloop.xyz/projects/soroban-security-portal/favicon.ico
+  avatar: https://media.lumenloop.xyz/projects/soroban-security-portal/github_avatar.jpg
+  logo: https://media.lumenloop.xyz/projects/soroban-security-portal/logo.png
 links:
   website:
     - sorobansecurity.com

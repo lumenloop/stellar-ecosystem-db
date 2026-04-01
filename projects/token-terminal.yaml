@@ -2,7 +2,9 @@ title: Token Terminal
 other_names: null
 parent: null
 description: Full-stack on-chain data platform providing financial and usage metrics for blockchain protocols including Stellar, with institutional-grade analytics.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/token-terminal/favicon.ico
+  og_image: https://media.lumenloop.xyz/projects/token-terminal/og.png
 links:
   website:
     - tokenterminal.com

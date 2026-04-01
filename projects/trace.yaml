@@ -3,7 +3,11 @@ other_names:
   - Trace Finance
 parent: null
 description: Trace Finance is a fintech company that provides cross-border payment infrastructure for high-volume businesses, enabling secure and efficient local and international transactions through APIs for PIX, boleto, and TED.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/trace/apple_touch.png
+  avatar: https://media.lumenloop.xyz/projects/trace/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/trace/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/trace/og.png
 links:
   website:
     - tracefinance.com

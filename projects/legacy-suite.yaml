@@ -3,7 +3,9 @@ other_names:
   - Legacy Suite on Stellar
 parent: null
 description: Revolutionizing estate planning with blockchain, making it inclusive of digital assets and secure for all.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/legacy-suite/favicon.ico
+  logo: https://media.lumenloop.xyz/projects/legacy-suite/logo.png
 links:
   website:
     - legacysuite.com

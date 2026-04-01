@@ -2,7 +2,11 @@ title: Rango
 other_names: null
 parent: null
 description: Multi-chain interoperability platform integrating Stellar's DEXs and bridges, enabling seamless token swaps across chains with smart routing for optimal rates and fees.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/rango/favicon.png
+  avatar: https://media.lumenloop.xyz/projects/rango/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/rango/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/rango/og.jpg
 links:
   website:
     - rango.exchange

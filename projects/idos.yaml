@@ -4,7 +4,9 @@ other_names:
 parent: null
 description: The idOS is a decentralized identity and storage layer for user data. The idOS enables KYC re-usability in a compliant way.
 images:
-  avatar: https://media.lumenloop.com/projects/idos/github_avatar.png
+  icon: https://media.lumenloop.xyz/projects/idos/apple_touch.jpg
+  avatar: https://media.lumenloop.xyz/projects/idos/github_avatar.png
+  og_image: https://media.lumenloop.xyz/projects/idos/og.jpg
 links:
   website:
     - idos.network

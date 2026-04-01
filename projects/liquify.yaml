@@ -4,7 +4,9 @@ other_names:
 parent: null
 description: Provide Stellar & Soroban with long-term public RPC endpoints and archival support.
 images:
-  avatar: https://media.lumenloop.com/projects/liquify/github_avatar.png
+  icon: https://media.lumenloop.xyz/projects/liquify/favicon.svg
+  avatar: https://media.lumenloop.xyz/projects/liquify/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/liquify/logo.svg
 links:
   website:
     - liquify.com

@@ -2,7 +2,10 @@ title: OneKey
 other_names: null
 parent: null
 description: Open-source hardware and software wallet with Stellar support, enabling secure self-custody across multiple blockchains.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/onekey/apple_touch.png
+  avatar: https://media.lumenloop.xyz/projects/onekey/github_avatar.png
+  og_image: https://media.lumenloop.xyz/projects/onekey/og.jpg
 links:
   website:
     - onekey.so

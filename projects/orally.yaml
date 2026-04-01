@@ -3,7 +3,10 @@ other_names:
   - Orally Network
 parent: null
 description: On-chain oracles with cross-chain capabilities. Push and pull models with unlimited price feeds and custom data feeds.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/orally/favicon.ico
+  avatar: https://media.lumenloop.xyz/projects/orally/github_avatar.jpg
+  logo: https://media.lumenloop.xyz/projects/orally/logo.svg
 links:
   website:
     - orally.network

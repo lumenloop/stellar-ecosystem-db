@@ -3,7 +3,9 @@ other_names:
   - Synced Geo-Bounties
 parent: null
 description: Crowdfunding geospatial dashboards through Stellar-powered bounties.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/synced/apple_touch.png
+  logo: https://media.lumenloop.xyz/projects/synced/logo.png
 links:
   website:
     - synced.to

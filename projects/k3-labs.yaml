@@ -3,7 +3,9 @@ other_names: null
 parent: null
 description: K3 is brand new tool that transforms how businesses and developers interoperate with Web 3 technologies - allowing for the orchestration of both simple and complex workflows through the use of a simple drag, drop, and configure interface.
 images:
-  avatar: https://media.lumenloop.com/projects/k3-labs/github_avatar.png
+  icon: https://media.lumenloop.xyz/projects/k3-labs/favicon.ico
+  avatar: https://media.lumenloop.xyz/projects/k3-labs/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/k3-labs/logo.svg
 links:
   website:
     - k3-labs.com

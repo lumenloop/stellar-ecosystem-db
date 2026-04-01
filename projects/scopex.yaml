@@ -2,7 +2,9 @@ title: ScopeX
 other_names: null
 parent: null
 description: Simplified fiat remittance app for web2 users without exposing complexity of crypto world.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/scopex/favicon.ico
+  logo: https://media.lumenloop.xyz/projects/scopex/logo.svg
 links:
   website:
     - scopex.money

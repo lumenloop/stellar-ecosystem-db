@@ -3,7 +3,10 @@ other_names: null
 parent: null
 description: Advocates for sustainable finance in LATAM with open source software, educational materials, and solutions for everyday people.
 images:
-  avatar: https://media.lumenloop.com/projects/tellus-cooperative/github_avatar.png
+  icon: https://media.lumenloop.xyz/projects/tellus-cooperative/apple_touch.jpg
+  avatar: https://media.lumenloop.xyz/projects/tellus-cooperative/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/tellus-cooperative/logo.png
+  og_image: https://media.lumenloop.xyz/projects/tellus-cooperative/og.png
 links:
   website:
     - telluscoop.com

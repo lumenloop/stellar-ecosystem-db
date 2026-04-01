@@ -2,7 +2,9 @@ title: Stellar Quest
 other_names: null
 parent: Stellar Development Foundation
 description: Stellar Quest is an interactive platform that gamifies learning about the Stellar network, covering both Stellar Classic and the Soroban smart contract platform. Users complete challenges to build applications, interact with the network, and earn unique NFT badges.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/stellar-quest/apple_touch.png
+  og_image: https://media.lumenloop.xyz/projects/stellar-quest/og.png
 links:
   website:
     - quest.stellar.org

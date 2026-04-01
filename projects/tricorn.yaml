@@ -3,7 +3,8 @@ other_names:
   - Cross-Chain Stellar Bridging
 parent: null
 description: Tricorn is a cross-chain bridge solution that supports both EVM and Non-EVM chains, ready to integrate with the Stellar blockchain.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/tricorn/favicon.svg
 links:
   website:
     - tricorn.network

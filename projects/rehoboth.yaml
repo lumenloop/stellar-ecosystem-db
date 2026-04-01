@@ -4,7 +4,9 @@ other_names:
 parent: null
 description: Crypto savings and payments wallet for the African market, built on Stellar.
 images:
-  avatar: https://media.lumenloop.com/projects/rehoboth/github_avatar.png
+  icon: https://media.lumenloop.xyz/projects/rehoboth/favicon.svg
+  avatar: https://media.lumenloop.xyz/projects/rehoboth/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/rehoboth/logo.svg
 links:
   website:
     - rehobothfinance.com

@@ -3,7 +3,9 @@ other_names: null
 parent: null
 description: Domain-specific formal specification language for Soroban smart contracts, enabling verifiable correctness proofs and automated security analysis.
 images:
-  avatar: https://media.lumenloop.com/projects/inference/github_avatar.jpg
+  icon: https://media.lumenloop.xyz/projects/inference/apple_touch.png
+  avatar: https://media.lumenloop.xyz/projects/inference/github_avatar.jpg
+  logo: https://media.lumenloop.xyz/projects/inference/logo.svg
 links:
   website:
     - inferara.com

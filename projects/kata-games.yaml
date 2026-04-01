@@ -3,7 +3,8 @@ other_names: null
 parent: null
 description: Empowering indie developers with tools to create and share innovative online games using Web3 and Stellar technologies.
 images:
-  avatar: https://media.lumenloop.com/projects/kata-games/github_avatar.png
+  avatar: https://media.lumenloop.xyz/projects/kata-games/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/kata-games/logo.png
 links:
   website:
     - kata.games

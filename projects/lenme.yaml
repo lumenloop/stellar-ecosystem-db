@@ -2,7 +2,10 @@ title: Lenme
 other_names: null
 parent: null
 description: Lenme is a peer-to-peer lending platform that connects borrowers seeking micro-loans ranging from $50 to $5,000 with investors looking to fund these loans. Through its mobile app, Lenme facilitates quick loan requests and competitive interest rates, aiming to provide transparent and immediate access to capital for borrowers, while offering investors a streamlined loan management experience.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/lenme/apple_touch.png
+  logo: https://media.lumenloop.xyz/projects/lenme/logo.png
+  og_image: https://media.lumenloop.xyz/projects/lenme/og.png
 links:
   website:
     - lenme.com

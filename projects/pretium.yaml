@@ -3,7 +3,9 @@ other_names:
   - Pretium Finance
 parent: null
 description: Revolutionizing African cross-border payments and integrating cryptocurrencies into the economic value chain.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/pretium/favicon.png
+  logo: https://media.lumenloop.xyz/projects/pretium/logo.png
 links:
   website:
     - pretium.africa

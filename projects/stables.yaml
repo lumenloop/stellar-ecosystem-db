@@ -2,7 +2,9 @@ title: Stables
 other_names: null
 parent: null
 description: Stables has built a global stablecoin payment company bringing stablecoin powered financial services to developers, businesses and individual in 150+ countries.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/stables/apple_touch.png
+  logo: https://media.lumenloop.xyz/projects/stables/logo.svg
 links:
   website:
     - stables.money

@@ -2,7 +2,11 @@ title: Splyce Finance
 other_names: null
 parent: null
 description: Splyce converts RWA and crypto-native yield strategies into composable, permissionless tokens. Through our sRWA standard and on-chain wrappers, asset managers can distribute institutional-grade products directly into DeFi.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/splyce-finance/apple_touch.jpg
+  avatar: https://media.lumenloop.xyz/projects/splyce-finance/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/splyce-finance/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/splyce-finance/og.svg
 links:
   website:
     - splyce.finance

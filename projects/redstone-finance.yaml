@@ -5,7 +5,10 @@ other_names:
 parent: null
 description: Modular oracle infrastructure providing secure, real-time data feeds for on-chain finance protocols and institutions.
 images:
-  avatar: https://media.lumenloop.com/projects/redstone-finance/github_avatar.png
+  icon: https://media.lumenloop.xyz/projects/redstone-finance/apple_touch.png
+  avatar: https://media.lumenloop.xyz/projects/redstone-finance/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/redstone-finance/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/redstone-finance/og.png
 links:
   website:
     - redstone.finance

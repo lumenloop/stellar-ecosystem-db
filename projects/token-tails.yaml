@@ -2,7 +2,9 @@ title: Token Tails
 other_names: null
 parent: null
 description: Token Tails is a Web3 play-to-save game where players adopt virtual NFT cats linked to real shelter cats, combining gaming with philanthropy. By caring for their virtual pets and participating in various in-game activities, players earn tokens and contribute to the welfare of real cats in shelters.
-images: null
+images:
+  logo: https://media.lumenloop.xyz/projects/token-tails/logo.webp
+  og_image: https://media.lumenloop.xyz/projects/token-tails/og.jpg
 links:
   website:
     - tokentails.com

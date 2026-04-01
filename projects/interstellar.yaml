@@ -3,7 +3,10 @@ other_names:
   - The Interstellar Platform
 parent: null
 description: Interstellar is a non-custodial wallet and decentralized exchange.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/interstellar/apple_touch.png
+  avatar: https://media.lumenloop.xyz/projects/interstellar/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/interstellar/logo.png
 links:
   website:
     - interstellar.exchange

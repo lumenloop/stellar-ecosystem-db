@@ -4,7 +4,10 @@ other_names:
   - Lantern Finance
 parent: null
 description: Lantern Finance is a platform offering crypto-backed loans and staking services.
-images: null
+images:
+  avatar: https://media.lumenloop.xyz/projects/lantern/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/lantern/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/lantern/og.png
 links:
   website:
     - lantern.finance

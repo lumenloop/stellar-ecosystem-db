@@ -3,7 +3,8 @@ other_names:
   - Pluto Loans B2B
 parent: null
 description: 'Self-repaying loans: Spend your future yield today.'
-images: null
+images:
+  avatar: https://media.lumenloop.xyz/projects/pluto-loans/github_avatar.png
 links:
   website:
     - plutoloans.com

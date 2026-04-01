@@ -2,7 +2,10 @@ title: Elroy
 other_names: null
 parent: Boss Revolution
 description: Banking services without credit checks, offering free debit cards, no hidden fees, and compatibility with Apple Pay and Google Pay.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/elroy/apple_touch.png
+  logo: https://media.lumenloop.xyz/projects/elroy/logo.png
+  og_image: https://media.lumenloop.xyz/projects/elroy/og.png
 links:
   website:
     - elroy.app

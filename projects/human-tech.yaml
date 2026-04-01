@@ -3,7 +3,8 @@ other_names: null
 parent: null
 description: Human.tech provides keys, wallets, and identity infrastructure for personhood, self-custody, and privacy on Stellar.
 images:
-  og_image: https://media.lumenloop.com/projects/human-tech/og.png
+  icon: https://media.lumenloop.xyz/projects/human-tech/apple_touch.png
+  og_image: https://media.lumenloop.xyz/projects/human-tech/og.png
 links:
   website:
     - human.tech

@@ -4,6 +4,7 @@ other_names:
 parent: null
 description: Neovestor connects emerging market investors with real-world assets and businesses.
 images:
+  icon: https://media.lumenloop.xyz/projects/neovestor/favicon.png
   avatar: https://media.lumenloop.xyz/projects/neovestor/github_avatar.png
   og_image: https://media.lumenloop.xyz/projects/neovestor/og.png
 links:

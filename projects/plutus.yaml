@@ -2,7 +2,9 @@ title: Plutus
 other_names: null
 parent: null
 description: Build infrastructure and sample application for conditional NFT ownership to enable use cases like rental, mortgage, and lending.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/plutus/apple_touch.png
+  logo: https://media.lumenloop.xyz/projects/plutus/logo.png
 links:
   website:
     - plutus.rentals

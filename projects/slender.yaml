@@ -2,7 +2,8 @@ title: Slender
 other_names: null
 parent: EQ Lab
 description: Slender is a decentralized lending protocol built on the Stellar blockchain, enabling users to lend and borrow assets without collateral. It offers dynamic and fair interest rates based on a smooth hyperbolic function, ensuring competitive passive yields for lenders.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/slender/apple_touch.png
 links:
   website:
     - slender.fi

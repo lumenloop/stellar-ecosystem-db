@@ -3,7 +3,8 @@ other_names:
   - Stellarchain.io
 parent: null
 description: Stellar block explorer with Soroban smart contract analytics, auditing tools, and community engagement features.
-images: null
+images:
+  logo: https://media.lumenloop.xyz/projects/stellarchain/logo.svg
 links:
   website:
     - stellarchain.io

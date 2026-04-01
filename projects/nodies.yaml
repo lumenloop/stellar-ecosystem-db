@@ -2,7 +2,10 @@ title: Nodies
 other_names: null
 parent: null
 description: Nodies is a Web3 infrastructure platform offering high-performance RPC and Horizon services for the Stellar network on both mainnet and testnet.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/nodies/favicon.svg
+  avatar: https://media.lumenloop.xyz/projects/nodies/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/nodies/logo.png
 links:
   website:
     - nodies.app

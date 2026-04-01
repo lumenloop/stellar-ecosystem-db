@@ -4,7 +4,9 @@ other_names:
 parent: null
 description: Plutope offers a non-custodial crypto wallet and crypto debit card, enabling users to manage and spend their digital assets securely. Their services include multi-chain wallet support, instant crypto transactions, and a debit card.
 images:
-  avatar: https://media.lumenloop.com/projects/plutope/github_avatar.png
+  icon: https://media.lumenloop.xyz/projects/plutope/apple_touch.jpg
+  avatar: https://media.lumenloop.xyz/projects/plutope/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/plutope/logo.svg
 links:
   website:
     - plutope.io
