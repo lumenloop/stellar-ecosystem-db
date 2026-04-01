@@ -131,11 +131,11 @@ Field-level provenance tracking:
 - crypto-link
 - relax
 - the-starship-soroban
-- timed-transactions-api
 - paysapp
+- timed-transactions-api
+- wally
 - sendit
 - frost-implementation
-- wally
 
 **description empty** (1):
 - sendit
