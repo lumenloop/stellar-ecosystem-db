@@ -3,7 +3,9 @@ other_names:
   - Stellar Token Launchpad
 parent: Cryptix
 description: Enable everyone to deploy tokens (generic, securities) to Stellar in less than a minute with this extensible web app.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/cryptix/apple_touch.svg
+  logo: https://media.lumenloop.xyz/projects/cryptix/logo.png
 links:
   website:
     - tokenlaunchpad.eu
