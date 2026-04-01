@@ -77,7 +77,7 @@ Of **576** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 442 | 439 |
-| Active last week | 112 | 181 |
+| Active last week | 112 | 180 |
 | Active last month | 172 | 246 |
 | Active last 3 months | 240 | 286 |
 | Active last year | 312 | 356 |
@@ -91,15 +91,15 @@ Of **576** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 21 |
-| OtterSec | 10 |
 | certora | 10 |
+| OtterSec | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
-| OpenZeppelin | 2 |
 | CoinFabrik | 2 |
-| Cantina | 1 |
+| OpenZeppelin | 2 |
 | Сoinspect | 1 |
+| Cantina | 1 |
 | Code4rena | 1 |
 
 ## Data Sources
@@ -116,11 +116,11 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| crawler | 679 |
-| schedule | 1 |
-| website | 1619 |
 | submissions | 563 |
-| airtable | 3722 |
+| website | 1619 |
+| airtable | 3414 |
+| crawler | 987 |
+| schedule | 1 |
 | soroban_security | 66 |
 
 ## Needs Review
@@ -133,9 +133,9 @@ Field-level provenance tracking:
 - sendit
 - wally
 - paysapp
+- timed-transactions-api
 - the-starship-soroban
 - relax
-- timed-transactions-api
 
 **description empty** (1):
 - sendit
