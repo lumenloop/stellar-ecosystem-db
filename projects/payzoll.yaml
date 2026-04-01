@@ -2,7 +2,8 @@ title: PayZoll
 other_names: null
 parent: null
 description: Crypto-native payroll infrastructure on Stellar, enabling businesses to process salary payments in stablecoins with automated tax compliance.
-images: null
+images:
+  avatar: https://media.lumenloop.xyz/projects/payzoll/github_avatar.jpg
 links:
   website:
     - payzoll.xyz

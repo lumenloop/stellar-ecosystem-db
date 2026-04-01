@@ -4,7 +4,9 @@ other_names:
 parent: Ultra Stellar
 description: LOBSTR is a web and mobile wallet that enables users to interact with the Stellar network and its decentralized exchange. It supports features like order books, swaps, interacting with smart contracts, and on/off ramp services for fiat and digital assets.
 images:
-  og_image: https://media.lumenloop.com/projects/lobstr/og.png
+  icon: https://media.lumenloop.xyz/projects/lobstr/favicon.png
+  logo: https://media.lumenloop.xyz/projects/lobstr/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/lobstr/og.png
 links:
   website:
     - lobstr.co

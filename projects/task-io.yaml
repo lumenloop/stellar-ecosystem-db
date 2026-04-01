@@ -2,7 +2,8 @@ title: Task.io
 other_names: null
 parent: null
 description: Connect teams with your social missions  Mobile-first technology powered by blockchain. Gather data, provide user incentives, and report on the impact created.
-images: null
+images:
+  avatar: https://media.lumenloop.xyz/projects/task-io/github_avatar.png
 links:
   website:
     - task.io

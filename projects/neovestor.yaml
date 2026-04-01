@@ -3,7 +3,9 @@ other_names:
   - Neovestor - An RWA launchpad
 parent: null
 description: Neovestor connects emerging market investors with real-world assets and businesses.
-images: null
+images:
+  avatar: https://media.lumenloop.xyz/projects/neovestor/github_avatar.png
+  og_image: https://media.lumenloop.xyz/projects/neovestor/og.png
 links:
   website:
     - neovestor.com

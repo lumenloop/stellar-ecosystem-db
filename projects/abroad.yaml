@@ -2,7 +2,9 @@ title: Abroad
 other_names: null
 parent: null
 description: Payment Layer for Interoperability between Stellar Wallets and QR Fiat Payments.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/abroad/favicon.png
+  og_image: https://media.lumenloop.xyz/projects/abroad/og.png
 links:
   website:
     - abroad.finance
