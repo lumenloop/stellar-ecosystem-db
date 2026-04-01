@@ -2,7 +2,10 @@ title: DevAsign
 other_names: null
 parent: null
 description: DevAsign streamlines open-source project management by automating bounty payouts and intelligently handling pull requests with advanced AI review.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/devasign/favicon.svg
+  avatar: https://media.lumenloop.xyz/projects/devasign/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/devasign/logo.png
 links:
   website:
     - devasign.com

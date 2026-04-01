@@ -3,7 +3,9 @@ other_names: null
 parent: null
 description: Cubist is a developer toolkit for building cross-chain and multi-chain Web3 applications, automating bridge code generation for seamless blockchain interactions. It supports popular blockchains like Ethereum and offers secure transaction signing with CubeSigner.
 images:
-  avatar: https://media.lumenloop.com/projects/cubist/github_avatar.png
+  icon: https://media.lumenloop.xyz/projects/cubist/apple_touch.png
+  avatar: https://media.lumenloop.xyz/projects/cubist/github_avatar.png
+  og_image: https://media.lumenloop.xyz/projects/cubist/og.png
 links:
   website:
     - cubist.dev

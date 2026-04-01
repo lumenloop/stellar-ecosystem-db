@@ -98,8 +98,8 @@ Of **576** SCF-funded projects:
 | Halborn | 4 |
 | OpenZeppelin | 2 |
 | CoinFabrik | 2 |
-| Сoinspect | 1 |
 | Cantina | 1 |
+| Сoinspect | 1 |
 | Code4rena | 1 |
 
 ## Data Sources
@@ -116,9 +116,9 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| submissions | 563 |
 | crawler | 987 |
 | website | 1619 |
+| submissions | 563 |
 | airtable | 3414 |
 | schedule | 1 |
 | soroban_security | 66 |
@@ -131,11 +131,11 @@ Field-level provenance tracking:
 - wally
 - crypto-link
 - relax
-- frost-implementation
 - the-starship-soroban
-- paysapp
 - sendit
 - timed-transactions-api
+- frost-implementation
+- paysapp
 
 **description empty** (1):
 - sendit

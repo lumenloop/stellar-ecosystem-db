@@ -2,7 +2,9 @@ title: DCM
 other_names: null
 parent: null
 description: DCM Systems is a technology provider focusing on digital currency solutions, enabling real-time payment and disbursement on blockchain. They are collaborating with the Stellar network in Ukraine on the Transparent Network to modernize payments and cross-banking settlements.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/dcm/apple_touch.png
+  logo: https://media.lumenloop.xyz/projects/dcm/logo.svg
 links:
   website:
     - dcm.systems

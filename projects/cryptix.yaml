@@ -5,6 +5,7 @@ parent: Cryptix
 description: Enable everyone to deploy tokens (generic, securities) to Stellar in less than a minute with this extensible web app.
 images:
   icon: https://media.lumenloop.xyz/projects/cryptix/apple_touch.svg
+  avatar: https://media.lumenloop.xyz/projects/cryptix/github_avatar.png
   logo: https://media.lumenloop.xyz/projects/cryptix/logo.png
 links:
   website:

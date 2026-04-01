@@ -3,7 +3,9 @@ other_names: null
 parent: null
 description: A structured educational program in Spanish and Portuguese to engage developers interested in Stellar and Soroban.
 images:
-  og_image: https://media.lumenloop.com/projects/cryptoconexi-n/og.jpg
+  icon: https://media.lumenloop.xyz/projects/cryptoconexi-n/apple_touch.png
+  logo: https://media.lumenloop.xyz/projects/cryptoconexi-n/logo.png
+  og_image: https://media.lumenloop.xyz/projects/cryptoconexi-n/og.jpg
 links:
   website:
     - cryptoconexion.com/stellar-edu

@@ -3,7 +3,9 @@ other_names:
   - 'DeFindex: DeFi Made Easy'
 parent: Paltalabs
 description: ​DeFindex helps wallet providers to offer savings accounts to their users easily, through a diversified DeFi portfolio. Also, It allows advanced users to manage complex and diverse DeFi Strategies.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/defindex/favicon.ico
+  logo: https://media.lumenloop.xyz/projects/defindex/logo.svg
 links:
   website:
     - defindex.io
