@@ -5,7 +5,10 @@ other_names:
   - B4B
 parent: null
 description: Web3 influencer KOLs protocol brings transparency, escrow USDC payments, and on-chain history for all socials.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/contentdao/apple_touch.png
+  avatar: https://media.lumenloop.xyz/projects/contentdao/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/contentdao/logo.png
 links:
   website:
     - contentdao.app
