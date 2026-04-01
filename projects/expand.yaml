@@ -4,8 +4,10 @@ other_names:
 parent: null
 description: Expand.network offers a unified API that connects developers to over 100 decentralized finance (DeFi) endpoints across more than 40 blockchains and protocols, including both EVM and non-EVM platforms.
 images:
-  avatar: https://media.lumenloop.com/projects/expand/github_avatar.png
-  og_image: https://media.lumenloop.com/projects/expand/og.png
+  icon: https://media.lumenloop.xyz/projects/expand/favicon.png
+  avatar: https://media.lumenloop.xyz/projects/expand/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/expand/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/expand/og.png
 links:
   website:
     - expand.network

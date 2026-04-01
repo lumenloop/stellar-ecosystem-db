@@ -2,7 +2,8 @@ title: Flux
 other_names: null
 parent: null
 description: Crypto and fiat app built for everyday local and international payments.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/flux/apple_touch.png
 links:
   website:
     - iflux.app
