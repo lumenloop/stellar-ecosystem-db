@@ -3,6 +3,8 @@ other_names:
   - Stellar Women Bootcamp
 parent: null
 description: WomenBiz is a community that empowers Latin American women through Web3 education and the adoption of blockchain technology. They have hosted the Stellar Women Bootcamp, which used a gamified program to teach blockchain and Web3 product development.
+images:
+  avatar: https://media.lumenloop.xyz/projects/womenbiz/github_avatar.png
 links:
   website:
     - hiwomenbiz.com

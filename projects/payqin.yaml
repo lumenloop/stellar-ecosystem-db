@@ -3,6 +3,7 @@ other_names:
   - 'PayQin: Blockchain made simple'
 parent: null
 description: Financial platform powered by USDC on Stellar, offering digital wallets, cross-border transfers, and bill payments for African users.
+images: null
 links:
   website:
     - payqin.com

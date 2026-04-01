@@ -3,6 +3,9 @@ other_names:
   - Onboard Game Devs with Beamable
 parent: null
 description: Game server and LiveOps platform with Stellar integration, providing SDKs for Unity, Unreal, and Web to build blockchain-powered games with wallet auth, token interactions, and marketplace features.
+images:
+  avatar: https://media.lumenloop.xyz/projects/beamable/github_avatar.png
+  og_image: https://media.lumenloop.xyz/projects/beamable/og.png
 links:
   website:
     - beamable.com

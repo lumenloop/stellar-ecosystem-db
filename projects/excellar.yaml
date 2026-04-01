@@ -2,6 +2,8 @@ title: Excellar
 other_names: null
 parent: null
 description: Excellar is bringing regulated yield-bearing crypto denominated liquid yield tokens to Stellar.
+images:
+  avatar: https://media.lumenloop.xyz/projects/excellar/github_avatar.png
 links:
   website:
     - excellar.finance

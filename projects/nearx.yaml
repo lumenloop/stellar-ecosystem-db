@@ -3,6 +3,8 @@ other_names:
   - NearX - Dev Educational Program
 parent: null
 description: Comprehensive educational program for web2 developers to master Stellar & Soroban coding.
+images:
+  avatar: https://media.lumenloop.xyz/projects/nearx/github_avatar.png
 links:
   website:
     - nearx.com.br

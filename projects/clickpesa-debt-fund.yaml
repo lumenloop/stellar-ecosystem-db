@@ -2,6 +2,8 @@ title: ClickPesa Debt Fund
 other_names: null
 parent: ClickPesa
 description: Provides Web3 end-to-end transparency and accountability promoting access to funding for SMEs and women-owned businesses.
+images:
+  avatar: https://media.lumenloop.xyz/projects/clickpesa-debt-fund/github_avatar.png
 links:
   website:
     - clickpesadebtfund.com

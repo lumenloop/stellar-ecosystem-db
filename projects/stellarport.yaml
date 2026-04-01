@@ -2,6 +2,8 @@ title: Stellarport
 other_names: null
 parent: null
 description: Stellarport is a non-custodial wallet, decentralized exchange (DEX), and anchor for the Stellar network, enabling secure storage, trading, and fiat-to-crypto integration for digital assets.
+images:
+  avatar: https://media.lumenloop.xyz/projects/stellarport/github_avatar.png
 links:
   website:
     - stellarport.io

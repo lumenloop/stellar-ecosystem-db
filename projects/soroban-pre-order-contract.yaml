@@ -2,6 +2,7 @@ title: Soroban Pre-Order Contract
 other_names: null
 parent: null
 description: SPOC is a Soroban smart contract that manages "first come, first served" sales by acting as an escrow, ensuring fair transactions between buyers and sellers.
+images: null
 links:
   website:
     - github.com/aolieman/soroban-pre-order

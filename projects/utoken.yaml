@@ -3,6 +3,7 @@ other_names:
   - Upesa (formerly utoken)
 parent: null
 description: Utoken is a mobile app that enables users to pay for services like airtime, utilities, and subscriptions using stablecoins across multiple blockchain networks with instant settlement and no off-ramping fees.
+images: null
 links:
   website:
     - upesa.app

@@ -2,6 +2,8 @@ title: Inference
 other_names: null
 parent: null
 description: Domain-specific formal specification language for Soroban smart contracts, enabling verifiable correctness proofs and automated security analysis.
+images:
+  avatar: https://media.lumenloop.xyz/projects/inference/github_avatar.jpg
 links:
   website:
     - inferara.com

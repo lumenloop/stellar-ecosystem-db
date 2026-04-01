@@ -3,6 +3,8 @@ other_names:
   - Hana Wallet
 parent: null
 description: 'Hana Wallet: Simple multi-chain crypto on-the-go, Like MetaMask, Polkadot.js, ICONex, Keplr, all in one, for everybody.'
+images:
+  avatar: https://media.lumenloop.xyz/projects/hana/github_avatar.png
 links:
   website:
     - hanawallet.io

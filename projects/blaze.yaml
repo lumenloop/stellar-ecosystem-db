@@ -2,6 +2,8 @@ title: Blaze
 other_names: null
 parent: null
 description: Blaze is a financial technology company offering a global payments app designed for modern nomads, enabling users to send and receive funds across multiple currencies instantly and with minimal fees.
+images:
+  avatar: https://media.lumenloop.xyz/projects/blaze/github_avatar.png
 links:
   website:
     - useblaze.app

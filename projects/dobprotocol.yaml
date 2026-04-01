@@ -2,6 +2,8 @@ title: Dobprotocol
 other_names: null
 parent: null
 description: Decentralized protocol automating Real World Asset revenue distribution, enabling transparent and programmable yield sharing on Stellar.
+images:
+  avatar: https://media.lumenloop.xyz/projects/dobprotocol/github_avatar.png
 links:
   website:
     - linktr.ee/dobprotocol

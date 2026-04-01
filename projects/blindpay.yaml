@@ -2,6 +2,9 @@ title: BlindPay
 other_names: null
 parent: null
 description: Stablecoin API for global payments. We handle all regulatory and compliance requirements so companies can send a receive money worldwide using stablecoins, fiat money and multiple blockchains.
+images:
+  avatar: https://media.lumenloop.xyz/projects/blindpay/github_avatar.png
+  og_image: https://media.lumenloop.xyz/projects/blindpay/og.png
 links:
   website:
     - blindpay.com

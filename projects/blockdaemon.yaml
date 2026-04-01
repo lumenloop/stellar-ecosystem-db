@@ -2,6 +2,8 @@ title: Blockdaemon
 other_names: null
 parent: null
 description: Blockdaemon is a blockchain infrastructure platform that offers node deployment, staking, and API solutions across multiple networks.
+images:
+  avatar: https://media.lumenloop.xyz/projects/blockdaemon/github_avatar.jpg
 links:
   website:
     - blockdaemon.com
@@ -22,8 +24,12 @@ links:
     - github.com/blockdaemon
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Infrastructure
+    - Nodes
+    - API
+  operating_region:
+    - Global
   based_in: United States
 mainnet:
   audits: []

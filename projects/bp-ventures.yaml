@@ -3,6 +3,8 @@ other_names:
   - BPV StellarMesh Anchor
 parent: null
 description: BP Ventures provides consulting and development services for blockchain solutions, focusing on financial inclusion and decentralized applications, specializing in leveraging the Stellar blockchain.
+images:
+  avatar: https://media.lumenloop.xyz/projects/bp-ventures/github_avatar.png
 links:
   website:
     - bpventures.us

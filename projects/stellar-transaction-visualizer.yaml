@@ -2,6 +2,7 @@ title: Stellar Transaction Visualizer
 other_names: null
 parent: null
 description: Professional-grade tool for visualizing and analyzing Stellar transaction flows, helping developers and auditors understand complex multi-operation transactions.
+images: null
 links:
   website:
     - stellarvisualizer.vercel.app

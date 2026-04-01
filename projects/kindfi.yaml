@@ -2,6 +2,8 @@ title: KindFi
 other_names: null
 parent: null
 description: A crowdfunding platform born in Central America that connects donors with real-world causes, leveraging the best of blockchain technology to ensure transparency, security, promote the adoption of the Stellar ecosystem, and improve the lives of people across Latin America who are in great need of support.
+images:
+  avatar: https://media.lumenloop.xyz/projects/kindfi/github_avatar.jpg
 links:
   website:
     - kindfi.org

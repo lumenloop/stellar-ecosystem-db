@@ -5,6 +5,7 @@ other_names:
   - ZET
 parent: Amber
 description: Amber aims to launch a protocol to tokenize real world assets on Stellar network.
+images: null
 links:
   website:
     - ambergroup.io

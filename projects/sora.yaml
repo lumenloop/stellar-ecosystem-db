@@ -3,6 +3,7 @@ other_names:
   - Soracle.org (Posted)
 parent: null
 description: SORA is a Stellar development toolkit that simplifies building and managing Stellar-based projects with features like smart contract development and network configuration. It includes tools for streamlined project workflows and a Visual Studio Code extension for enhanced productivity.
+images: null
 links:
   website:
     - posted.app

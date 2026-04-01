@@ -3,6 +3,8 @@ other_names:
   - Risc0
 parent: null
 description: Boundless is a universal verifiable compute layer designed to offload heavy blockchain computations to an off-chain network of provers. It uses the RISC Zero zkVM to generate zero-knowledge proofs that are verified on-chain, allowing developers to scale applications across networks like Stellar and Ethereum.
+images:
+  avatar: https://media.lumenloop.xyz/projects/boundlessxyz/github_avatar.png
 links:
   website:
     - boundless.network

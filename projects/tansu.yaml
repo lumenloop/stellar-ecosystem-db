@@ -3,6 +3,7 @@ other_names:
   - Tansu - Soroban Versioning
 parent: null
 description: Tansu is a decentralized governance platform built on a smart contract layer to facilitate on-chain project management and version control. It enables open-source communities to manage proposals, conduct transparent or private voting, and verify code integrity through immutable commit hashes and role-based badges.
+images: null
 links:
   website:
     - tansu.dev

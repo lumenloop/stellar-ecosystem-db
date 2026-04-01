@@ -3,6 +3,9 @@ other_names:
   - Normal
 parent: null
 description: Normal Finance is a multi-chain synthetic asset protocol that enables investors to gain exposure to various assets, asset indexes, and yield protocols across Stellar and Solana.
+images:
+  avatar: https://media.lumenloop.xyz/projects/normal-finance/github_avatar.png
+  og_image: https://media.lumenloop.xyz/projects/normal-finance/og.png
 links:
   website:
     - normalfinance.io

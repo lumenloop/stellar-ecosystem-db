@@ -2,6 +2,7 @@ title: Mimoto
 other_names: null
 parent: null
 description: Mimoto uses ZK proofs for swift, secure identity verification in payments, protecting user privacy and financial safety.
+images: null
 links:
   website:
     - github.com/nkoorty/mimoto

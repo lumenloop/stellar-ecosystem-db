@@ -2,6 +2,8 @@ title: sTeX
 other_names: null
 parent: Xycloo
 description: sTeX is a cloud environment to write, compile, share, and tokenize LaTeX documents.
+images:
+  avatar: https://media.lumenloop.xyz/projects/stex/github_avatar.png
 links:
   website:
     - stex.xycloo.com

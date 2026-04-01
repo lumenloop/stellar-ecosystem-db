@@ -2,6 +2,8 @@ title: Flipside
 other_names: null
 parent: null
 description: Flipside orchestrates blockchain growth through a powerful mix of data science, community activation, and measurable strategies that drive market cap.
+images:
+  avatar: https://media.lumenloop.xyz/projects/flipside/github_avatar.png
 links:
   website:
     - flipsidecrypto.xyz

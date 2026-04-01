@@ -2,6 +2,9 @@ title: Flashback
 other_names: null
 parent: null
 description: Flashback is the world's first multi-cloud storage platform that enables companies to diversify and orchestrate their data storage with Agentic AI recommendations and smart contracts across both centralized (AWS, Google Cloud, etc.) and DePIN cloud (Filecoin, Siacoin, etc.) providers.
+images:
+  avatar: https://media.lumenloop.xyz/projects/flashback/github_avatar.png
+  og_image: https://media.lumenloop.xyz/projects/flashback/og.png
 links:
   website:
     - flashback.tech

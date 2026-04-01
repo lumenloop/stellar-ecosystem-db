@@ -2,6 +2,9 @@ title: CyVers
 other_names: null
 parent: null
 description: Cyvers is a ML & AI based security solution that proactively mitigates and prevents asset-loss related exploits in real-time.
+images:
+  avatar: https://media.lumenloop.xyz/projects/cyvers/github_avatar.png
+  og_image: https://media.lumenloop.xyz/projects/cyvers/og.jpg
 links:
   website:
     - cyvers.ai

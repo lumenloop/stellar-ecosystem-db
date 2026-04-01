@@ -2,6 +2,8 @@ title: Soroban Learn
 other_names: null
 parent: null
 description: Bringing developers from zero to hero in their Soroban smart contract development journey.
+images:
+  avatar: https://media.lumenloop.xyz/projects/soroban-learn/github_avatar.png
 links:
   website:
     - sorobanlearn.com

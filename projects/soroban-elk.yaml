@@ -4,6 +4,7 @@ other_names:
   - Soroban Command Insights
 parent: null
 description: A real-time monitoring and visualization system for Soroban CLI commands on the Stellar network, powered by the ELK stack.
+images: null
 links:
   website:
     - voluble-fairy-844611.netlify.app

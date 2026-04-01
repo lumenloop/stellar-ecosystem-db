@@ -3,6 +3,8 @@ other_names:
   - Templar
 parent: null
 description: Decentralized lending protocol allowing users to borrow dollars against Bitcoin collateral without centralized intermediaries.
+images:
+  avatar: https://media.lumenloop.xyz/projects/templar-protocol/github_avatar.gif
 links:
   website:
     - templarfi.org

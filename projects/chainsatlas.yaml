@@ -2,6 +2,8 @@ title: ChainsAtlas
 other_names: null
 parent: null
 description: Integrates ChainsAtlas' Virtualization Unit with Soroban, enabling devs to run Solidity on Soroban natively with no adjustments.
+images:
+  avatar: https://media.lumenloop.xyz/projects/chainsatlas/github_avatar.png
 links:
   website:
     - chainsatlas.com

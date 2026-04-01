@@ -2,6 +2,7 @@ title: Plutus
 other_names: null
 parent: null
 description: Build infrastructure and sample application for conditional NFT ownership to enable use cases like rental, mortgage, and lending.
+images: null
 links:
   website:
     - plutus.rentals

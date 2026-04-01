@@ -2,6 +2,8 @@ title: QSTN
 other_names: null
 parent: null
 description: QSTN is a Web3 survey marketplace where businesses fund surveys and reward participants through our data wallet-driven profiles.
+images:
+  avatar: https://media.lumenloop.xyz/projects/qstn/github_avatar.jpg
 links:
   website:
     - qstn.us

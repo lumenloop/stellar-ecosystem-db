@@ -2,6 +2,7 @@ title: SoroBuilder
 other_names: null
 parent: null
 description: SoroBuilder is an AI-driven, browser-based environment designed to streamline Soroban smart contract development. It builds full smart contracts with tests and documentation after an initial conversation with AI. You can then iterate with AI by prompting, editing manually, compiling and seeing errors, testing, applying an LLM auditor, static analysis, and eventually deploying all in-browser.
+images: null
 links:
   website:
     - sorobuilder.com

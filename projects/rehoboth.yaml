@@ -3,6 +3,8 @@ other_names:
   - Rehoboth Finance
 parent: null
 description: Crypto savings and payments wallet for the African market, built on Stellar.
+images:
+  avatar: https://media.lumenloop.xyz/projects/rehoboth/github_avatar.png
 links:
   website:
     - rehobothfinance.com

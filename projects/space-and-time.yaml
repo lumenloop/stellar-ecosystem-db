@@ -3,6 +3,9 @@ other_names:
   - SxT
 parent: null
 description: Verifiable data infrastructure securing onchain finance with zero-knowledge proofs for smart contracts and applications.
+images:
+  avatar: https://media.lumenloop.xyz/projects/space-and-time/github_avatar.png
+  og_image: https://media.lumenloop.xyz/projects/space-and-time/og.png
 links:
   website:
     - spaceandtime.io
@@ -25,8 +28,12 @@ links:
     - github.com/sxt-community
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Database
+    - ZK
+    - API
+  operating_region:
+    - Global
   based_in: null
 mainnet:
   audits: []

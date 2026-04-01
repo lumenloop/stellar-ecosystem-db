@@ -2,6 +2,9 @@ title: Ledger
 other_names: null
 parent: null
 description: Ledger is a hardware wallet designed to securely store and manage cryptocurrencies offline, protecting assets from online threats. It supports a wide range of cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), and Stellar (XLM).
+images:
+  avatar: https://media.lumenloop.xyz/projects/ledger/github_avatar.png
+  og_image: https://media.lumenloop.xyz/projects/ledger/og.webp
 links:
   website:
     - ledger.com

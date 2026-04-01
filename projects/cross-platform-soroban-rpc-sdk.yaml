@@ -3,6 +3,7 @@ other_names:
   - Soroban RPC SDK
 parent: null
 description: A Soroban RPC SDK for native cross platform development.
+images: null
 links:
   website:
     - github.com/frankszendzielarz/sorobanrpcsdk

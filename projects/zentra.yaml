@@ -2,6 +2,7 @@ title: Zentra
 other_names: null
 parent: null
 description: A payment streaming app on Soroban to allow users to make payments over a fixed period of time.
+images: null
 links:
   website:
     - tide-soroban-contract-frontend.vercel.app

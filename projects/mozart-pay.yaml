@@ -2,6 +2,7 @@ title: Mozart Pay
 other_names: null
 parent: null
 description: MozartPay is a digital payment platform that offers online businesses, e-commerce stores, and marketplaces a suite of tools for seamless transactions.
+images: null
 links:
   website:
     - mozartpay.com
@@ -22,8 +23,11 @@ links:
     - github.com/mozartpay
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - Payment Gateway
+    - B2B
+  operating_region:
+    - Global
   based_in: Austria
 mainnet:
   audits: []

@@ -2,6 +2,8 @@ title: Chainlink Oracles Relayer
 other_names: null
 parent: null
 description: Provable, Manipulation Resistant Random Numbers From Chainlink Oracles on Soroban.
+images:
+  avatar: https://media.lumenloop.xyz/projects/chainlink-oracles-relayer/github_avatar.png
 links:
   website:
     - docs.relink.services

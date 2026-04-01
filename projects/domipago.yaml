@@ -2,6 +2,9 @@ title: DomiPago
 other_names: null
 parent: null
 description: Cross-border remittance platform on Stellar for the Dominican Republic diaspora, enabling low-cost money transfers with local cash-out options.
+images:
+  avatar: https://media.lumenloop.xyz/projects/domipago/github_avatar.png
+  og_image: https://media.lumenloop.xyz/projects/domipago/og.png
 links:
   website:
     - domipago.com

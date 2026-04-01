@@ -3,6 +3,8 @@ other_names:
   - SDF
 parent: null
 description: The Stellar Development Foundation (SDF) is a non-profit organization that supports the development and growth of the Stellar network.
+images:
+  avatar: https://media.lumenloop.xyz/projects/stellar-development-foundation/github_avatar.png
 links:
   website:
     - stellar.org

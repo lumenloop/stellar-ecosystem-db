@@ -3,6 +3,8 @@ other_names:
   - Identity Operating System (idOS)
 parent: null
 description: The idOS is a decentralized identity and storage layer for user data. The idOS enables KYC re-usability in a compliant way.
+images:
+  avatar: https://media.lumenloop.xyz/projects/idos/github_avatar.png
 links:
   website:
     - idos.network

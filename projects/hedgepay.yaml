@@ -2,6 +2,9 @@ title: HedgePay
 other_names: null
 parent: null
 description: DeFi yield platform on Stellar offering simplified access to lending, staking, and liquidity provision strategies for everyday users.
+images:
+  avatar: https://media.lumenloop.xyz/projects/hedgepay/github_avatar.png
+  og_image: https://media.lumenloop.xyz/projects/hedgepay/og.png
 links:
   website:
     - hedgepay.app

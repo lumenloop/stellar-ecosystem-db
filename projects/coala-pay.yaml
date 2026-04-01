@@ -3,6 +3,7 @@ other_names:
   - Coala Pay Billy Wallet
 parent: null
 description: Coala Pay is a platform designed to streamline the last-mile distribution of international aid funds. By leveraging blockchain technology and stablecoins, it aims to make the transfer of aid money simple, borderless, and programmable, insulating donor funds from foreign currency risks, excessive banking fees, and delays.
+images: null
 links:
   website:
     - coalapay.org

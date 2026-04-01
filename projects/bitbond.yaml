@@ -2,6 +2,8 @@ title: Bitbond
 other_names: null
 parent: null
 description: Bitbond is a fintech platform that facilitates the issuance of tokenized securities and offers a Stellar-based token creation tool on Soroban. It incorporates regulatory and compliance features to streamline global digital asset issuance.
+images:
+  avatar: https://media.lumenloop.xyz/projects/bitbond/github_avatar.png
 links:
   website:
     - bitbond.com

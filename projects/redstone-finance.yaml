@@ -4,6 +4,8 @@ other_names:
   - RedStone
 parent: null
 description: Modular oracle infrastructure providing secure, real-time data feeds for on-chain finance protocols and institutions.
+images:
+  avatar: https://media.lumenloop.xyz/projects/redstone-finance/github_avatar.png
 links:
   website:
     - redstone.finance

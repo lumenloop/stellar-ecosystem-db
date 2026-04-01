@@ -2,6 +2,7 @@ title: Rust Soroban Client Library
 other_names: null
 parent: null
 description: Rust library for communicating with Soroban RPC servers and building client-side Stellar applications.
+images: null
 links:
   website:
     - github.com/rahul-soshte/rs-soroban-client

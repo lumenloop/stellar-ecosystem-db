@@ -2,6 +2,7 @@ title: Stellar DeFi Dune Dashboards
 other_names: null
 parent: null
 description: Open-source Dune Analytics dashboards providing independent, verifiable DeFi metrics for the Stellar ecosystem including TVL, volume, and protocol comparisons.
+images: null
 links:
   website:
     - dune.com/paltalabs

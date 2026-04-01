@@ -2,6 +2,8 @@ title: Accelar
 other_names: null
 parent: null
 description: Accelar is a unified product development infrastructure that streamlines the creation, collaboration, launch, and management of both Web2 and Web3 applications.
+images:
+  og_image: https://media.lumenloop.xyz/projects/accelar/og.svg
 links:
   website:
     - accelar.io

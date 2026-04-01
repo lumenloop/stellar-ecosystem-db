@@ -3,6 +3,8 @@ other_names:
   - BondHive:OnChain Fixed Deposit
 parent: null
 description: Bond Hive simplifies on-chain savings, offering fixed returns by tokenizing funding fees, making complex futures easy for everyone.
+images:
+  avatar: https://media.lumenloop.xyz/projects/bondhive/github_avatar.png
 links:
   website:
     - bondhive.xyz

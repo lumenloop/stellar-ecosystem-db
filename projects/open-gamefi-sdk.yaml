@@ -2,6 +2,7 @@ title: Open GameFi SDK
 other_names: null
 parent: null
 description: Open-source SDK integrating Stellar blockchain with Colyseus.js, enabling developers to build and deploy blockchain-based games on Stellar.
+images: null
 links:
   website:
     - github.com/yanis7774/stellar-gamefi-integration/tree/main

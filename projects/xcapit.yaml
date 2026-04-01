@@ -3,6 +3,8 @@ other_names:
   - XCAPIT Smart Pay
 parent: null
 description: A UNICEF-backed wallet enabling secure, SMS-based digital asset distribution and management for NGOs and users with no internet access. *Open Source u0026 Certified as a Digital Public Good.
+images:
+  avatar: https://media.lumenloop.xyz/projects/xcapit/github_avatar.png
 links:
   website:
     - xcapit.com

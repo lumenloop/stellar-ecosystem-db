@@ -2,6 +2,7 @@ title: Soroban Copilot
 other_names: null
 parent: null
 description: Collection of no_std Rust packages focused on making Soroban development easier.
+images: null
 links:
   website:
     - github.com/mootz12/soroban-copilot
@@ -19,8 +20,12 @@ links:
     - github.com/mootz12/soroban-copilot
 attributes:
   category: null
-  tags: []
-  operating_region: []
+  tags:
+    - DevX
+    - Rust
+    - Library
+  operating_region:
+    - Global
   based_in: null
 mainnet:
   audits: []

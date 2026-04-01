@@ -3,6 +3,8 @@ other_names:
   - OCTO ultimate SocioFi NFT hub
 parent: null
 description: OCTO is a super dApp that revolves around NFT and digital assets with a strong emphasis on creators and their communities.
+images:
+  avatar: https://media.lumenloop.xyz/projects/octo/github_avatar.jpg
 links:
   website:
     - octoplace.io

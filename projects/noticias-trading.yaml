@@ -3,6 +3,8 @@ other_names:
   - Soroban and Stellar Content
 parent: null
 description: Educational video content about Soroban and Stellar for over 160.000 followers. Cross border payments, CBDCs and smart contracts.
+images:
+  og_image: https://media.lumenloop.xyz/projects/noticias-trading/og.jpg
 links:
   website:
     - beacons.ai/noticiastrading

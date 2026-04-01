@@ -3,6 +3,9 @@ other_names:
   - Copperx - Gateway and Payout
 parent: null
 description: Copperx offers a unified API and toolkit that enables businesses to accept crypto and fiat payments while facilitating global payouts across 50+ countries. Their solutions include payment links and recurring billing to streamline financial operations and e-commerce integrations for Web3 companies.
+images:
+  avatar: https://media.lumenloop.xyz/projects/copperx/github_avatar.png
+  og_image: https://media.lumenloop.xyz/projects/copperx/og.png
 links:
   website:
     - copperx.io

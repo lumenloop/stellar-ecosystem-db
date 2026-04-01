@@ -2,6 +2,7 @@ title: Aerochain
 other_names: null
 parent: null
 description: Blockchain infrastructure on Stellar providing end-to-end traceability for aircraft parts, with tamper-proof digital identities tracking lifecycle events from manufacturing to recycling.
+images: null
 links:
   website:
     - aerochain.wingleet.com/redoc

@@ -2,6 +2,7 @@ title: StellarPay
 other_names: null
 parent: null
 description: StellarPay is a payment gateway that enables Shopify merchants to accept Stellar (XLM) and any Stellar-based token payments without fees, facilitating seamless integration and management of digital assets.
+images: null
 links:
   website:
     - stellarpay.io

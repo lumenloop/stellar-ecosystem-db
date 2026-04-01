@@ -2,6 +2,7 @@ title: xlm.sh
 other_names: null
 parent: null
 description: xlm.sh is a gateway that enables access to decentralized websites hosted on Stellar and IPFS by appending ".sh" to their ".xlm" domain names.
+images: null
 links:
   website:
     - xlm.sh

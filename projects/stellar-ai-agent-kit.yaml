@@ -2,6 +2,7 @@ title: Stellar AI Agent Kit
 other_names: null
 parent: null
 description: Developer toolkit enabling AI agents to interact with Stellar smart contracts, providing MCP integration and CLI tools for automated on-chain operations.
+images: null
 links:
   website:
     - stellarsandbox.dev

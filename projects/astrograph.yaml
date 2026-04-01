@@ -2,6 +2,8 @@ title: Astrograph
 other_names: null
 parent: null
 description: Astrograph is a GraphQL server for the Stellar network that simplifies the development of Stellar-based applications by providing a single interface to access both current and historical ledger data, including real-time updates.
+images:
+  avatar: https://media.lumenloop.xyz/projects/astrograph/github_avatar.png
 links:
   website:
     - astrograph.io

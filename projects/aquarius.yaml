@@ -2,6 +2,9 @@ title: Aquarius
 other_names: null
 parent: null
 description: Aquarius is a liquidity layer designed to incentivize market-making and liquidity provision on the Stellar network's native decentralized exchange (DEX) and automated market makers (AMMs). It utilizes AQUA tokens to reward liquidity providers, with the community voting on which markets to incentivize.
+images:
+  avatar: https://media.lumenloop.xyz/projects/aquarius/github_avatar.png
+  og_image: https://media.lumenloop.xyz/projects/aquarius/og.png
 links:
   website:
     - aqua.network

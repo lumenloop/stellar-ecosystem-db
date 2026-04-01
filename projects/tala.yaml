@@ -2,6 +2,8 @@ title: Tala
 other_names: null
 parent: null
 description: Tala is a digital financial services provider in emerging markets, offering credit, payments, savings, and other financial tools to underserved populations.
+images:
+  avatar: https://media.lumenloop.xyz/projects/tala/github_avatar.png
 links:
   website:
     - tala.co

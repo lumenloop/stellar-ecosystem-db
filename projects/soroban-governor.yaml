@@ -3,6 +3,8 @@ other_names:
   - Soroban Governor DAO
 parent: Script3
 description: Open source, flexible, fully functional DAO smart contract framework inspired by the OpenZeppelin Governor.
+images:
+  avatar: https://media.lumenloop.xyz/projects/soroban-governor/github_avatar.png
 links:
   website:
     - governance.script3.io

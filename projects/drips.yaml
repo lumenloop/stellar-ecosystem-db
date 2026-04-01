@@ -2,6 +2,9 @@ title: Drips
 other_names: null
 parent: null
 description: Drips Wave — a project in the Stellar ecosystem.
+images:
+  avatar: https://media.lumenloop.xyz/projects/drips/github_avatar.jpg
+  og_image: https://media.lumenloop.xyz/projects/drips/og.png
 links:
   website:
     - drips.network

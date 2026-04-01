@@ -2,6 +2,7 @@ title: Soroban Timelock Contract
 other_names: null
 parent: 57blocks
 description: A standard timelock contract that can be leveraged by Soroban protocol developers to increase user trust.
+images: null
 links:
   website:
     - 57blocks.io

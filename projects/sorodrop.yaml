@@ -3,6 +3,7 @@ other_names:
   - Merkle Tree Airdrop Tooling
 parent: null
 description: Open-source tool for efficient Stellar airdrops enabling scalable and cost-effective token and NFT distribution via smart contracts.
+images: null
 links:
   website:
     - sorodrop.xyz

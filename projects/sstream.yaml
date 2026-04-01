@@ -2,6 +2,7 @@ title: SStream
 other_names: null
 parent: null
 description: Composable streaming payments on Soroban.
+images: null
 links:
   website:
     - github.com/rahimklaber/sstream

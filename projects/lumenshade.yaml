@@ -3,6 +3,7 @@ other_names:
   - 'LumenShade: privacy pools'
 parent: null
 description: Privacy pools protocol on Stellar enabling compliant confidential transactions while maintaining regulatory transparency.
+images: null
 links:
   website:
     - docs.google.com/presentation/d/1goi9ggjnhdxh49qksbx8nwe7khxecmnn14j0uv92bjy

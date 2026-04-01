@@ -2,6 +2,7 @@ title: StellarAuth
 other_names: null
 parent: null
 description: Stellar authentication and transaction management SDK for app developers.
+images: null
 links:
   website:
     - stellarauth.com

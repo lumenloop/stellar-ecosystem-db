@@ -3,6 +3,7 @@ other_names:
   - SDK for Stellar Qt
 parent: null
 description: Stellar SDK for Qt/C++. Interface to deal with Horizon API.
+images: null
 links:
   website:
     - galactictalk.org/d/2300-sdk-for-stellar-qt

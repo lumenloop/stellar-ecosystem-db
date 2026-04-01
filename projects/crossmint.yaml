@@ -2,6 +2,8 @@ title: Crossmint
 other_names: null
 parent: null
 description: Infrastructure platform enabling companies and AI agents to integrate stablecoin wallets, payments, and tokenization tools.
+images:
+  avatar: https://media.lumenloop.xyz/projects/crossmint/github_avatar.png
 links:
   website:
     - crossmint.com

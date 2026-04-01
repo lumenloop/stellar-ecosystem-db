@@ -2,6 +2,8 @@ title: Skyhitz
 other_names: null
 parent: null
 description: Skyhitz is at the forefront of the evolving music industry, leveraging blockchain technology to revolutionize how music is created, shared, and monetized.
+images:
+  avatar: https://media.lumenloop.xyz/projects/skyhitz/github_avatar.png
 links:
   website:
     - skyhitz.io

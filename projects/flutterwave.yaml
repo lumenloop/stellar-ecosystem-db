@@ -2,6 +2,8 @@ title: Flutterwave
 other_names: null
 parent: null
 description: Flutterwave is a fintech company that provides payment infrastructure for global merchants and service providers, enabling businesses to accept payments in over 150 currencies through various channels.
+images:
+  avatar: https://media.lumenloop.xyz/projects/flutterwave/github_avatar.jpg
 links:
   website:
     - flutterwave.com

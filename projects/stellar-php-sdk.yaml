@@ -2,6 +2,7 @@ title: Stellar PHP SDK
 other_names: null
 parent: null
 description: Easy access to Stellar for PHP developers.
+images: null
 links:
   website:
     - github.com/soneso/stellar-php-sdk

@@ -3,6 +3,8 @@ other_names:
   - Infrastructure Support Liquify
 parent: null
 description: Provide Stellar & Soroban with long-term public RPC endpoints and archival support.
+images:
+  avatar: https://media.lumenloop.xyz/projects/liquify/github_avatar.png
 links:
   website:
     - liquify.com

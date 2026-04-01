@@ -2,6 +2,9 @@ title: EnerDAO
 other_names: null
 parent: null
 description: 'EnerDAO: Fuelling the Global Green Transition through Decentralized Finance and tokenization of renewable power projects debt.'
+images:
+  avatar: https://media.lumenloop.xyz/projects/enerdao/github_avatar.png
+  og_image: https://media.lumenloop.xyz/projects/enerdao/og.webp
 links:
   website:
     - enerdao.org

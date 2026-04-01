@@ -3,6 +3,9 @@ other_names:
   - Aha
 parent: null
 description: Blockchain development firm specializing in smart contract tooling and developer experience for the Stellar network.
+images:
+  avatar: https://media.lumenloop.xyz/projects/aha-labs/github_avatar.png
+  og_image: https://media.lumenloop.xyz/projects/aha-labs/og.png
 links:
   website:
     - theaha.co

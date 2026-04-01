@@ -3,6 +3,8 @@ other_names:
   - Azores Metaverse
 parent: null
 description: Decentralized virtual worlds on Stellar - enabling users to play, create and interact with others in a blockchain-based metaverse.
+images:
+  avatar: https://media.lumenloop.xyz/projects/bes-metaverse/github_avatar.jpg
 links:
   website:
     - azores.group

@@ -3,6 +3,8 @@ other_names:
   - Qolaq Mutual Aid Platform
 parent: null
 description: QolaQ is a community-driven mutual aid platform that leverages blockchain technology to provide transparent and decentralized support for members during times of need.
+images:
+  avatar: https://media.lumenloop.xyz/projects/qolaq/github_avatar.jpg
 links:
   website:
     - qolaq.org

@@ -4,6 +4,8 @@ other_names:
   - Benkiko REST APIs
 parent: null
 description: A community scaling micropayment protocol for projects and digital native communities.
+images:
+  avatar: https://media.lumenloop.xyz/projects/benkiko/github_avatar.jpg
 links:
   website:
     - benkiko.xyz

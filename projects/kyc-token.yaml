@@ -3,6 +3,7 @@ other_names:
   - KYC Token & UI for RWA
 parent: Building Block Framework
 description: Build a KYC token with Soroban to accelerate the adoption of Real World Assets on Stellar for Financial Service Providers.
+images: null
 links:
   website:
     - github.com/tigerblocks/bbf

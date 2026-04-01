@@ -4,6 +4,8 @@ other_names:
   - zkCrossDEX
 parent: null
 description: zkCrossDEX enables seamless cross-chain liquidity transfers from leading EVM chains to Stellar with a single click.
+images:
+  avatar: https://media.lumenloop.xyz/projects/zkcross/github_avatar.png
 links:
   website:
     - zkcross.network

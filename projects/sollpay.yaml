@@ -3,6 +3,8 @@ other_names:
   - 'Sollpay: Keyless ZK Wallet + Stellar'
 parent: null
 description: Sollpay is a mobile-first, non-custodial wallet that uses phone numbers and emails for Web3 access — no seed phrases required. Backed by zero-knowledge proofs and account abstraction, Sollpay simplifies onboarding and enables secure cross-chain swaps between Stellar and Solana. Our mission is to make crypto truly accessible for the next billion users.
+images:
+  og_image: https://media.lumenloop.xyz/projects/sollpay/og.png
 links:
   website:
     - sollpay.com

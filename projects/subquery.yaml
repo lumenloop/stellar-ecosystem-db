@@ -3,6 +3,8 @@ other_names:
   - SubQuery Network
 parent: null
 description: SubQuery is a leading blockchain data indexer that provides developers with fast, flexible, universal, and decentralized APIs for web3 projects, supporting over 200 ecosystems including Stellar, Ethereum, and Polkadot.
+images:
+  avatar: https://media.lumenloop.xyz/projects/subquery/github_avatar.png
 links:
   website:
     - subquery.network

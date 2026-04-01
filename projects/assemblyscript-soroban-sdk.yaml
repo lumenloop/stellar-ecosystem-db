@@ -2,6 +2,7 @@ title: AssemblyScript Soroban SDK
 other_names: null
 parent: null
 description: The AssemblyScript Soroban SDK is an open source SDK that supports writing contracts for Soroban by using AssemblyScript.
+images: null
 links:
   website:
     - github.com/soneso/as-soroban-sdk

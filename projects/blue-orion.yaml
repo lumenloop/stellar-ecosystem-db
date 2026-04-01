@@ -2,6 +2,8 @@ title: Blue Orion
 other_names: null
 parent: null
 description: Providing workshops on token creation and smart contracts based on Stellar.
+images:
+  avatar: https://media.lumenloop.xyz/projects/blue-orion/github_avatar.png
 links:
   website:
     - blueorion.cc
