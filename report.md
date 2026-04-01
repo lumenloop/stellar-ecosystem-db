@@ -96,8 +96,8 @@ Of **576** SCF-funded projects:
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
-| OpenZeppelin | 2 |
 | CoinFabrik | 2 |
+| OpenZeppelin | 2 |
 | Code4rena | 1 |
 | Сoinspect | 1 |
 | Cantina | 1 |
@@ -131,8 +131,8 @@ Field-level provenance tracking:
 - frost-implementation
 - crypto-link
 - relax
-- paysapp
 - wally
+- paysapp
 - the-starship-soroban
 - sendit
 - timed-transactions-api
