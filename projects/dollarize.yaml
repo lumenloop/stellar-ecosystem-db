@@ -2,7 +2,9 @@ title: Dollarize
 other_names: null
 parent: null
 description: Dollarize is a global financial services platform that allows you to open a dollar account from anywhere in the world.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/dollarize/favicon.png
+  logo: https://media.lumenloop.xyz/projects/dollarize/logo.svg
 links:
   website:
     - dollarize.me

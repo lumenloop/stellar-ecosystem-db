@@ -2,7 +2,10 @@ title: dolphinze
 other_names: null
 parent: null
 description: Next-generation global payroll infrastructure for contractors, powered by Stellar for instant, low-cost cross-border payments.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/dolphinze/apple_touch.png
+  logo: https://media.lumenloop.xyz/projects/dolphinze/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/dolphinze/og.png
 links:
   website:
     - dolphinze.com

@@ -98,9 +98,9 @@ Of **576** SCF-funded projects:
 | Halborn | 4 |
 | OpenZeppelin | 2 |
 | CoinFabrik | 2 |
-| Cantina | 1 |
 | Сoinspect | 1 |
 | Code4rena | 1 |
+| Cantina | 1 |
 
 ## Data Sources
 
@@ -128,14 +128,14 @@ Field-level provenance tracking:
 9 items need attention.
 
 **SCF project missing website** (8):
+- frost-implementation
+- paysapp
 - wally
 - crypto-link
 - relax
 - the-starship-soroban
 - sendit
 - timed-transactions-api
-- frost-implementation
-- paysapp
 
 **description empty** (1):
 - sendit

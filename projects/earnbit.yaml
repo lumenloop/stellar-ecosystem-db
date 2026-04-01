@@ -3,7 +3,8 @@ other_names: null
 parent: null
 description: EU licensed CEX with dedicated Launchpad on Stellar, followed by video streaming service.
 images:
-  og_image: https://media.lumenloop.com/projects/earnbit/og.jpg
+  icon: https://media.lumenloop.xyz/projects/earnbit/apple_touch.png
+  og_image: https://media.lumenloop.xyz/projects/earnbit/og.jpg
 links:
   website:
     - earnbit.com
