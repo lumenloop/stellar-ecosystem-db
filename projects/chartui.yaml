@@ -2,7 +2,8 @@ title: Chartui
 other_names: null
 parent: null
 description: Chartui is a customizable trading client for the Stellar Decentralized Exchange, offering real-time cryptocurrency prices, charts, order books, and recent trades. It aims to provide traders with an efficient and flexible way to interact with the Stellar DeFi ecosystem.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/chartui/favicon.svg
 links:
   website:
     - chartui.com

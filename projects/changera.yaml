@@ -2,7 +2,9 @@ title: Changera
 other_names: null
 parent: null
 description: Changera is an international money transfer app that enables users to send and receive money in multiple currencies, including Naira, Euros, Dollars, Pounds, Cedis, and Kenyan Shillings, facilitating global payments and offering features like virtual bank accounts and social money sharing.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/changera/apple_touch.png
+  logo: https://media.lumenloop.xyz/projects/changera/logo.svg
 links:
   website:
     - changera.co

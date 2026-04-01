@@ -2,7 +2,10 @@ title: Cinko
 other_names: null
 parent: null
 description: Platform that facilitates secure cross-border transactions, efficient payout distributions, and seamless payment processing through traditional financial systems and stablecoins.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/cinko/apple_touch.png
+  logo: https://media.lumenloop.xyz/projects/cinko/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/cinko/og.jpg
 links:
   website:
     - cinko.io

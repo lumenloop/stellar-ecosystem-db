@@ -3,7 +3,10 @@ other_names: null
 parent: null
 description: Top auditors compete to keep high severity bugs out of production. Start a public or private audit within 48 hours.
 images:
-  avatar: https://media.lumenloop.com/projects/code4rena/github_avatar.png
+  icon: https://media.lumenloop.xyz/projects/code4rena/apple_touch.png
+  avatar: https://media.lumenloop.xyz/projects/code4rena/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/code4rena/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/code4rena/og.png
 links:
   website:
     - code4rena.com
