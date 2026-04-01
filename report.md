@@ -128,11 +128,11 @@ Field-level provenance tracking:
 9 items need attention.
 
 **SCF project missing website** (8):
+- frost-implementation
 - paysapp
 - crypto-link
-- frost-implementation
-- the-starship-soroban
 - relax
+- the-starship-soroban
 - wally
 - sendit
 - timed-transactions-api

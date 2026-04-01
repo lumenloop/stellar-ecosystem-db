@@ -3,7 +3,9 @@ other_names:
   - Institutional Treasury - XLM
 parent: null
 description: Arrel Technology is a B2B cloud platform provider that enables clients and partners to launch innovative multi-asset solutions in the financial industry.  They offer a Digital Asset Platform (DAPL) designed to integrate various digital assets, including cryptocurrencies, into existing financial systems.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/arrel/favicon.png
+  logo: https://media.lumenloop.xyz/projects/arrel/logo.png
 links:
   website:
     - arreltech.com/platform

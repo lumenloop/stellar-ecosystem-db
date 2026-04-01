@@ -4,8 +4,10 @@ other_names:
 parent: null
 description: Blade Labs utilizes Stellar & Soroban to offer a suite for enterprises to tokenize RWA's, facilitating a transition to DeFi.
 images:
-  avatar: https://media.lumenloop.com/projects/blade/github_avatar.png
-  og_image: https://media.lumenloop.com/projects/blade/og.png
+  icon: https://media.lumenloop.xyz/projects/blade/apple_touch.png
+  avatar: https://media.lumenloop.xyz/projects/blade/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/blade/logo.png
+  og_image: https://media.lumenloop.xyz/projects/blade/og.png
 links:
   website:
     - bladelabs.io

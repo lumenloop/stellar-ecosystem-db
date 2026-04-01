@@ -3,7 +3,10 @@ other_names: null
 parent: null
 description: Allows employees and freelancers to receive payment in a variety of currencies, including Bitcoin, Ethereum, stablecoins (including Stellar USDC), and local currencies.
 images:
-  avatar: https://media.lumenloop.com/projects/bitwage/github_avatar.png
+  icon: https://media.lumenloop.xyz/projects/bitwage/apple_touch.png
+  avatar: https://media.lumenloop.xyz/projects/bitwage/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/bitwage/logo.png
+  og_image: https://media.lumenloop.xyz/projects/bitwage/og.jpg
 links:
   website:
     - bitwage.com

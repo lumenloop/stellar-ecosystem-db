@@ -2,7 +2,8 @@ title: ApiCharge
 other_names: null
 parent: null
 description: API monetization platform on Stellar enabling direct pay-per-call and streaming access for digital services, with Soroban-based payment settlement and a native desktop marketplace.
-images: null
+images:
+  logo: https://media.lumenloop.xyz/projects/apicharge/logo.png
 links:
   website:
     - apicharge.com

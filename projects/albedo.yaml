@@ -2,7 +2,9 @@ title: Albedo
 other_names: null
 parent: Stellar Expert
 description: Security-focused, developer-friendly web application and browser extension for managing Stellar accounts without exposing secret keys.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/albedo/apple_touch.png
+  logo: https://media.lumenloop.xyz/projects/albedo/logo.svg
 links:
   website:
     - albedo.link

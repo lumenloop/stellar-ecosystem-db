@@ -3,8 +3,10 @@ other_names: null
 parent: null
 description: AI-powered automation platform expanding into Stellar with Autopilot support, custom ecosystem indices, and agent-powered onboarding.
 images:
-  avatar: https://media.lumenloop.com/projects/axal/github_avatar.png
-  og_image: https://media.lumenloop.com/projects/axal/og.webp
+  icon: https://media.lumenloop.xyz/projects/axal/apple_touch.png
+  avatar: https://media.lumenloop.xyz/projects/axal/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/axal/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/axal/og.webp
 links:
   website:
     - ax.al

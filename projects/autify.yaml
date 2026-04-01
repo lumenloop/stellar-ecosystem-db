@@ -3,7 +3,10 @@ other_names:
   - Autify Network
 parent: null
 description: Autify Network is a supply chain management platform that leverages blockchain and AI technologies to enhance transparency, traceability, and trust across global supply chains.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/autify/apple_touch.png
+  logo: https://media.lumenloop.xyz/projects/autify/logo.png
+  og_image: https://media.lumenloop.xyz/projects/autify/og.png
 links:
   website:
     - autifynetwork.com

@@ -4,8 +4,10 @@ other_names:
 parent: null
 description: Band Protocol is a cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts.
 images:
-  avatar: https://media.lumenloop.com/projects/band/github_avatar.png
-  og_image: https://media.lumenloop.com/projects/band/og.png
+  icon: https://media.lumenloop.xyz/projects/band/favicon.ico
+  avatar: https://media.lumenloop.xyz/projects/band/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/band/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/band/og.png
 links:
   website:
     - bandprotocol.com

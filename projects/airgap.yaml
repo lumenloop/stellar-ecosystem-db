@@ -3,7 +3,10 @@ other_names: null
 parent: null
 description: AirGap offers a robust, cost-effective solution by turning any smartphone into a secure cold wallet. AirGap consists of Wallet (hot wallet for transactions) and Vault (cold wallet for offline signing). Vault can also be used as a standalone solution with MetaMask for enhanced security.
 images:
-  og_image: https://media.lumenloop.com/projects/airgap/og.png
+  icon: https://media.lumenloop.xyz/projects/airgap/apple_touch.jpg
+  avatar: https://media.lumenloop.xyz/projects/airgap/github_avatar.jpg
+  logo: https://media.lumenloop.xyz/projects/airgap/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/airgap/og.png
 links:
   website:
     - airgap.it

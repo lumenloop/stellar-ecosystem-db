@@ -2,7 +2,10 @@ title: ALTERNUN
 other_names: null
 parent: null
 description: Regenerates the environment using unmined gold reserves as collateral Increasing value production through digital exploitation.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/alternun/apple_touch.png
+  avatar: https://media.lumenloop.xyz/projects/alternun/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/alternun/logo.svg
 links:
   website:
     - alternun.io

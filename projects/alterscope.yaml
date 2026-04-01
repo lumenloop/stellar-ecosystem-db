@@ -3,7 +3,10 @@ other_names: null
 parent: null
 description: Alterscope develops the community-driven platform unifying real-time risk processing and monitoring capabilities with zk-proofs to unlock verifiable liquidity management for protocol foundations, professional investors, and retail users.
 images:
-  avatar: https://media.lumenloop.com/projects/alterscope/github_avatar.png
+  icon: https://media.lumenloop.xyz/projects/alterscope/apple_touch.png
+  avatar: https://media.lumenloop.xyz/projects/alterscope/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/alterscope/logo.webp
+  og_image: https://media.lumenloop.xyz/projects/alterscope/og.webp
 links:
   website:
     - alterscope.org

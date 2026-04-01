@@ -2,7 +2,10 @@ title: Alfred
 other_names: null
 parent: null
 description: Alfred Pay is a financial technology company offering a payments platform built on stablecoins, simplifying cross-border transactions for businesses.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/alfred/apple_touch.png
+  logo: https://media.lumenloop.xyz/projects/alfred/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/alfred/og.png
 links:
   website:
     - alfredpay.io

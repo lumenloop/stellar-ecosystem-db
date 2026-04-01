@@ -5,7 +5,10 @@ other_names:
   - ZET
 parent: Amber
 description: Amber aims to launch a protocol to tokenize real world assets on Stellar network.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/amber/favicon.png
+  logo: https://media.lumenloop.xyz/projects/amber/logo.png
+  og_image: https://media.lumenloop.xyz/projects/amber/og.png
 links:
   website:
     - ambergroup.io

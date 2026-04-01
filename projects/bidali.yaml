@@ -3,7 +3,10 @@ other_names: null
 parent: null
 description: Bidali is a platform for purchasing digital gift cards with cryptocurrency, bridging crypto usability in everyday transactions, supporting global brands, and ensuring fast, secure payments. XLM and Stellar USDC are supported.
 images:
-  avatar: https://media.lumenloop.com/projects/bidali/github_avatar.png
+  icon: https://media.lumenloop.xyz/projects/bidali/apple_touch.png
+  avatar: https://media.lumenloop.xyz/projects/bidali/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/bidali/logo.png
+  og_image: https://media.lumenloop.xyz/projects/bidali/og.png
 links:
   website:
     - bidali.com
