@@ -3,7 +3,9 @@ other_names: null
 parent: null
 description: 'Chaincerts: smart contracts-backed credentials.'
 images:
-  og_image: https://media.lumenloop.com/projects/chaincerts/og.png
+  icon: https://media.lumenloop.xyz/projects/chaincerts/favicon.ico
+  logo: https://media.lumenloop.xyz/projects/chaincerts/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/chaincerts/og.png
 links:
   website:
     - chaincerts.co

@@ -3,7 +3,10 @@ other_names:
   - Skynet
 parent: Certik
 description: Building Stellar chain support to CertiK’s Skynet for community security and SkyInsights for compliance/risk monitoring.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/certik/favicon.png
+  avatar: https://media.lumenloop.xyz/projects/certik/github_avatar.png
+  og_image: https://media.lumenloop.xyz/projects/certik/og.png
 links:
   website:
     - certik.com
