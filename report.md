@@ -99,8 +99,8 @@ Of **576** SCF-funded projects:
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
 | Cantina | 1 |
-| Code4rena | 1 |
 | Сoinspect | 1 |
+| Code4rena | 1 |
 
 ## Data Sources
 
@@ -118,8 +118,8 @@ Field-level provenance tracking:
 |--------|------:|
 | submissions | 563 |
 | crawler | 987 |
-| website | 1619 |
 | airtable | 3414 |
+| website | 1619 |
 | schedule | 1 |
 | soroban_security | 66 |
 
@@ -130,10 +130,10 @@ Field-level provenance tracking:
 **SCF project missing website** (8):
 - crypto-link
 - relax
-- paysapp
 - the-starship-soroban
-- sendit
 - timed-transactions-api
+- paysapp
+- sendit
 - frost-implementation
 - wally
 
