@@ -2,7 +2,10 @@ title: CoinSender
 other_names: null
 parent: null
 description: CoinSender is a platform designed to streamline cryptocurrency payouts and token distribution for businesses and projects. It offers features such as wallet integration, smart contract-based token distribution, decentralized database for transaction tracking, security compliance, billing tools, multi-network support, time-saving automated processes, and an intuitive interface.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/coinsender/apple_touch.png
+  logo: https://media.lumenloop.xyz/projects/coinsender/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/coinsender/og.png
 links:
   website:
     - coinsender.io

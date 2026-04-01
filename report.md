@@ -96,11 +96,11 @@ Of **576** SCF-funded projects:
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
-| CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Code4rena | 1 |
+| CoinFabrik | 2 |
 | Сoinspect | 1 |
 | Cantina | 1 |
+| Code4rena | 1 |
 
 ## Data Sources
 
@@ -116,10 +116,10 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| website | 1619 |
-| crawler | 987 |
-| airtable | 3414 |
 | submissions | 563 |
+| crawler | 987 |
+| website | 1619 |
+| airtable | 3414 |
 | schedule | 1 |
 | soroban_security | 66 |
 
@@ -130,10 +130,10 @@ Field-level provenance tracking:
 **SCF project missing website** (8):
 - frost-implementation
 - paysapp
+- wally
 - the-starship-soroban
 - crypto-link
 - relax
-- wally
 - sendit
 - timed-transactions-api
 

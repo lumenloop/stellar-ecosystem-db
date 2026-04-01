@@ -2,7 +2,11 @@ title: Coinspect
 other_names: null
 parent: null
 description: 'Since 2014 protecting critical decentralized systems: L1 nodes, smart contracts audits, wallets, web3 dApps, exchanges, bridges.'
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/coinspect/apple_touch.png
+  avatar: https://media.lumenloop.xyz/projects/coinspect/github_avatar.jpg
+  logo: https://media.lumenloop.xyz/projects/coinspect/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/coinspect/og.png
 links:
   website:
     - coinspect.com
