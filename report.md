@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-04-01
+> Auto-generated on 2026-04-02
 
 ## Summary
 
@@ -98,8 +98,8 @@ Of **576** SCF-funded projects:
 | Halborn | 4 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Cantina | 1 |
 | Сoinspect | 1 |
+| Cantina | 1 |
 | Code4rena | 1 |
 
 ## Data Sources
@@ -116,10 +116,10 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| submissions | 563 |
-| crawler | 987 |
-| airtable | 3414 |
 | website | 1619 |
+| submissions | 563 |
+| airtable | 3414 |
+| crawler | 987 |
 | schedule | 1 |
 | soroban_security | 66 |
 
@@ -131,11 +131,11 @@ Field-level provenance tracking:
 - crypto-link
 - relax
 - the-starship-soroban
+- wally
+- frost-implementation
 - paysapp
 - timed-transactions-api
-- wally
 - sendit
-- frost-implementation
 
 **description empty** (1):
 - sendit
