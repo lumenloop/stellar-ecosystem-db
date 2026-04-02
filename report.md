@@ -116,10 +116,10 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| submissions | 563 |
-| crawler | 987 |
 | website | 1619 |
+| submissions | 563 |
 | airtable | 3414 |
+| crawler | 987 |
 | schedule | 1 |
 | soroban_security | 66 |
 
