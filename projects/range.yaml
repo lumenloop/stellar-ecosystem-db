@@ -4,7 +4,7 @@ other_names:
 parent: null
 description: This proposal seeks to build a Steller Bridge Explorer, and integrate Stellar with Range’s Cross-Chain Explorer and Range Trail, our cross-chain, cross-ecosystem, real-time forensic intelligence platform.
 images:
-  avatar: https://media.lumenloop.com/projects/range/github_avatar.png
+  avatar: https://media.lumenloop.xyz/projects/range/github_avatar.png
 links:
   website:
     - range.org

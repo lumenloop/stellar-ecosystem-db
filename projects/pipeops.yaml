@@ -3,8 +3,8 @@ other_names: null
 parent: null
 description: PipeOps is a cloud Infrastructure product that allows for devs to deploy, automate, manage and scale their cloud Operations easily.
 images:
-  avatar: https://media.lumenloop.com/projects/pipeops/github_avatar.jpg
-  og_image: https://media.lumenloop.com/projects/pipeops/og.png
+  avatar: https://media.lumenloop.xyz/projects/pipeops/github_avatar.jpg
+  og_image: https://media.lumenloop.xyz/projects/pipeops/og.png
 links:
   website:
     - pipeops.io

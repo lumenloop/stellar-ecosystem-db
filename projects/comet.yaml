@@ -3,7 +3,7 @@ other_names: null
 parent: null
 description: Comet is a weighted AMM protocol that offers soroban projects a flexible solution set when picking liquidity venues.
 images:
-  avatar: https://media.lumenloop.com/projects/comet/github_avatar.png
+  avatar: https://media.lumenloop.xyz/projects/comet/github_avatar.png
 links:
   website:
     - github.com/cometdex

@@ -4,7 +4,7 @@ other_names:
 parent: null
 description: Untangled Vault is an automated, non-custodial, data-driven asset management protocol enabling anyone to set and execute strategies to fit investor risk/return appetite. Untangled Vault is powered by Untangled pool, an asset tokenization protocol focusing on RWA private credits and Credio, a risk oracle providing machine learning model inferences and onchain monitoring to RWA.
 images:
-  avatar: https://media.lumenloop.com/projects/untangled/github_avatar.png
+  avatar: https://media.lumenloop.xyz/projects/untangled/github_avatar.png
 links:
   website:
     - untangled.finance

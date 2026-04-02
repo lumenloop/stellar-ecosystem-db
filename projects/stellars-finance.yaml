@@ -4,7 +4,7 @@ other_names:
 parent: null
 description: Decentralized perpetual trading protocol on Stellar, offering leveraged futures trading with on-chain settlement and liquidity pools.
 images:
-  avatar: https://media.lumenloop.com/projects/stellars-finance/github_avatar.png
+  avatar: https://media.lumenloop.xyz/projects/stellars-finance/github_avatar.png
 links:
   website:
     - stellars.finance

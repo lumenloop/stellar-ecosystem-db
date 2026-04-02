@@ -3,7 +3,7 @@ other_names: null
 parent: null
 description: EduNode is an e-learning platform dedicated to bridging the knowledge gap in blockchain and Web3 technologies, empowering the Stellar and Soroban community with essential skills to excel in this rapidly evolving field.
 images:
-  avatar: https://media.lumenloop.com/projects/edunode/github_avatar.png
+  avatar: https://media.lumenloop.xyz/projects/edunode/github_avatar.png
 links:
   website:
     - edunode.org

@@ -5,7 +5,7 @@ other_names:
 parent: null
 description: Reclaim protocol uses https session keys to generate zk proofs of user's profiles, enabling verifiable credentials without APIs.
 images:
-  avatar: https://media.lumenloop.com/projects/reclaim/github_avatar.png
+  avatar: https://media.lumenloop.xyz/projects/reclaim/github_avatar.png
 links:
   website:
     - reclaimprotocol.org

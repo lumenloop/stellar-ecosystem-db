@@ -4,7 +4,7 @@ other_names:
 parent: null
 description: Developer platform simplifying Web3 application development on Soroban, enabling Web2 developers to build, deploy, and manage blockchain solutions on Stellar.
 images:
-  avatar: https://media.lumenloop.com/projects/vottun/github_avatar.png
+  avatar: https://media.lumenloop.xyz/projects/vottun/github_avatar.png
 links:
   website:
     - vottun.com

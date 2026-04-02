@@ -3,7 +3,7 @@ other_names: null
 parent: null
 description: Walletless onboarding SDK for Stellar developers, with SAC deployment and REST-based chain interaction.
 images:
-  avatar: https://media.lumenloop.com/projects/walletban/github_avatar.png
+  avatar: https://media.lumenloop.xyz/projects/walletban/github_avatar.png
 links:
   website:
     - walletban.xyz

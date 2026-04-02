@@ -3,8 +3,10 @@ other_names: null
 parent: null
 description: Dogstar is a DeFi play & learn platform that gamifies your crypto experience.
 images:
-  avatar: https://media.lumenloop.com/projects/dogstar/github_avatar.jpg
-  og_image: https://media.lumenloop.com/projects/dogstar/og.jpg
+  icon: https://media.lumenloop.xyz/projects/dogstar/favicon.png
+  avatar: https://media.lumenloop.xyz/projects/dogstar/github_avatar.jpg
+  logo: https://media.lumenloop.xyz/projects/dogstar/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/dogstar/og.jpg
 links:
   website:
     - dogstarcoin.com

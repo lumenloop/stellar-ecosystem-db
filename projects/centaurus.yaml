@@ -3,7 +3,7 @@ other_names: null
 parent: null
 description: Centaurus is a second-layer solution for the Stellar network that enables instant, fee-free token transfers and trades within a decentralized, high-throughput cluster secured by a multisignature vault account.
 images:
-  avatar: https://media.lumenloop.com/projects/centaurus/github_avatar.png
+  avatar: https://media.lumenloop.xyz/projects/centaurus/github_avatar.png
 links:
   website:
     - github.com/centaurus-project

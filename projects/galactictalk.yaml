@@ -3,7 +3,9 @@ other_names:
   - Stellar Community Forum
 parent: null
 description: GalacticTalk is a community forum dedicated to discussions about the Stellar ecosystem, where developers, users, and enthusiasts share ideas, projects, and updates to foster collaboration and innovation on the Stellar network.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/galactictalk/favicon.png
+  logo: https://media.lumenloop.xyz/projects/galactictalk/logo.png
 links:
   website:
     - galactictalk.org
