@@ -2,7 +2,8 @@ title: Agnostic
 other_names: null
 parent: null
 description: Real-time blockchain analytics platform providing seamless access to on-chain data across EVM and non-EVM chains including Stellar, with SQL support, visual dashboards, and AI-assisted exploration.
-images: null
+images:
+  avatar: https://media.lumenloop.xyz/projects/agnostic/github_avatar.png
 links:
   website:
     - agnostic.dev
