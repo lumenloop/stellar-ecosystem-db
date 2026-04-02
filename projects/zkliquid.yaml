@@ -5,6 +5,7 @@ other_names:
 parent: null
 description: LiquidsFi is a decentralized liquidity protocol and interoperability oracle network connecting liquidity and onchain data across siloed blockchains.
 images:
+  icon: https://media.lumenloop.xyz/projects/zkliquid/favicon.svg
   avatar: https://media.lumenloop.xyz/projects/zkliquid/github_avatar.png
 links:
   website:

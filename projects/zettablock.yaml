@@ -3,7 +3,10 @@ other_names: null
 parent: null
 description: ZettaBlock offers APIs for querying and analyzing Stellar on-chain data, enabling developers to build data-driven applications on the Stellar network. It simplifies access to transaction insights, account activity, and network analytics without requiring extensive infrastructure setup.
 images:
-  avatar: https://media.lumenloop.com/projects/zettablock/github_avatar.png
+  icon: https://media.lumenloop.xyz/projects/zettablock/favicon.svg
+  avatar: https://media.lumenloop.xyz/projects/zettablock/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/zettablock/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/zettablock/og.png
 links:
   website:
     - zettablock.com

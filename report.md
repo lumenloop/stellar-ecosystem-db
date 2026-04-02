@@ -17,13 +17,13 @@
 |-------|------:|---------:|
 | description | 662/663 | 99.8% |
 | website | 655/663 | 98.8% |
-| blog | 236/663 | 35.6% |
+| blog | 237/663 | 35.7% |
 | x | 477/663 | 71.9% |
 | linkedin | 368/663 | 55.5% |
 | discord | 202/663 | 30.5% |
 | telegram | 138/663 | 20.8% |
 | youtube | 154/663 | 23.2% |
-| instagram | 105/663 | 15.8% |
+| instagram | 106/663 | 16% |
 | reddit | 11/663 | 1.7% |
 | tiktok | 24/663 | 3.6% |
 | linktree | 3/663 | 0.5% |
@@ -46,10 +46,10 @@ Per-project comparison of our **663** projects (incl. **87** community projects 
 | linkedin | +164 | 204 |
 | discord | +93 | 109 |
 | based_in | +98 | 476 |
-| blog | +236 | 0 |
+| blog | +237 | 0 |
 | telegram | +138 | 0 |
 | youtube | +154 | 0 |
-| instagram | +105 | 0 |
+| instagram | +106 | 0 |
 | reddit | +11 | 0 |
 | tiktok | +24 | 0 |
 | linktree | +3 | 0 |
@@ -91,15 +91,15 @@ Of **576** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 21 |
-| OtterSec | 10 |
 | certora | 10 |
+| OtterSec | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Сoinspect | 1 |
 | Code4rena | 1 |
+| Сoinspect | 1 |
 | Cantina | 1 |
 
 ## Data Sources
@@ -116,10 +116,10 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
+| website | 1610 |
 | submissions | 563 |
-| airtable | 3722 |
-| website | 1622 |
-| crawler | 676 |
+| crawler | 990 |
+| airtable | 3416 |
 | schedule | 1 |
 | soroban_security | 66 |
 

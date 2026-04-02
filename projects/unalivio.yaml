@@ -2,7 +2,9 @@ title: Unalivio
 other_names: null
 parent: null
 description: Unalivio is a payments method that allows migrants to pay families’ bills from abroad with stablecoins, increasing sales for SMEs.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/unalivio/favicon.ico
+  logo: https://media.lumenloop.xyz/projects/unalivio/logo.png
 links:
   website:
     - unalivio.com

@@ -5,6 +5,9 @@ other_names:
 parent: null
 description: RaumFi DEX empowers seamless token swap through an AMM while offering insights and metrics via uniquely designed dashboard.
 images:
+  icon: https://media.lumenloop.xyz/projects/raumfi/favicon.svg
+  avatar: https://media.lumenloop.xyz/projects/raumfi/github_avatar.jpg
+  logo: https://media.lumenloop.xyz/projects/raumfi/logo.svg
   og_image: https://media.lumenloop.xyz/projects/raumfi/og.svg
 links:
   website:

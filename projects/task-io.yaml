@@ -4,6 +4,7 @@ parent: null
 description: Connect teams with your social missions  Mobile-first technology powered by blockchain. Gather data, provide user incentives, and report on the impact created.
 images:
   avatar: https://media.lumenloop.xyz/projects/task-io/github_avatar.png
+  og_image: https://media.lumenloop.xyz/projects/task-io/og.jpg
 links:
   website:
     - task.io

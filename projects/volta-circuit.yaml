@@ -3,7 +3,9 @@ other_names: null
 parent: null
 description: Non-custodial, smart contract-based security protocol on Stellar providing automated asset protection, recovery mechanisms, and transaction safeguards.
 images:
+  icon: https://media.lumenloop.xyz/projects/volta-circuit/favicon.png
   avatar: https://media.lumenloop.xyz/projects/volta-circuit/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/volta-circuit/logo.png
 links:
   website:
     - voltacircuit.com

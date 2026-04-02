@@ -6,7 +6,9 @@ other_names:
 parent: null
 description: An innovative geolocation rewards app driving action and adventure worldwide with digital incentives placed by organizations.
 images:
+  icon: https://media.lumenloop.xyz/projects/wadzzo/apple_touch.ico
   avatar: https://media.lumenloop.xyz/projects/wadzzo/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/wadzzo/logo.png
 links:
   website:
     - wadzzo.com

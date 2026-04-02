@@ -2,7 +2,9 @@ title: Syklo
 other_names: null
 parent: null
 description: By installing the Syklo Pay WooCommerce plugin, businesses allow their customers to pay with any off-chain local currency (ARS, BRL, COP, VES, etc…) and receive USDC on Stellar.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/syklo/apple_touch.png
+  og_image: https://media.lumenloop.xyz/projects/syklo/og.jpg
 links:
   website:
     - syklo.io

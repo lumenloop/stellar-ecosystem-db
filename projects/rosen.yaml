@@ -3,6 +3,7 @@ other_names: null
 parent: null
 description: Rosen is a borderless social earning platform for Gen Z to monetize easily & globally via AI & stablecoins. Live on App Store/Google Play with 30K+ users. Awards winning project and backed by PayPal PYUSD, Circle (USDC), Google Cloud, Draper University.
 images:
+  icon: https://media.lumenloop.xyz/projects/rosen/favicon.ico
   avatar: https://media.lumenloop.xyz/projects/rosen/github_avatar.png
 links:
   website:

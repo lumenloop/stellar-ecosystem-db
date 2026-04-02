@@ -4,6 +4,8 @@ parent: null
 description: Sustainable Rewards for Talent and Taste Makers.
 images:
   avatar: https://media.lumenloop.xyz/projects/ziriz/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/ziriz/logo.jpg
+  og_image: https://media.lumenloop.xyz/projects/ziriz/og.jpg
 links:
   website:
     - ziriz.app

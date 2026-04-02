@@ -3,6 +3,8 @@ other_names: null
 parent: null
 description: Global loyalty layer for culture, enabling brands and venues to issue blockchain-backed rewards and collectibles on Stellar.
 images:
+  icon: https://media.lumenloop.xyz/projects/irl/favicon.ico
+  logo: https://media.lumenloop.xyz/projects/irl/logo.png
   og_image: https://media.lumenloop.xyz/projects/irl/og.png
 links:
   website:

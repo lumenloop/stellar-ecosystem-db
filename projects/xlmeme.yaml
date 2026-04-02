@@ -3,7 +3,10 @@ other_names:
   - XL
 parent: null
 description: XL is a multichain memepad platform that enables users to launch meme coins across multiple blockchains, including Base, Ethereum, Solana, Monad, Stellar, and Ripple.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/xlmeme/favicon.png
+  logo: https://media.lumenloop.xyz/projects/xlmeme/logo.png
+  og_image: https://media.lumenloop.xyz/projects/xlmeme/og.jpg
 links:
   website:
     - xlmeme.com

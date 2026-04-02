@@ -3,7 +3,9 @@ other_names: null
 parent: null
 description: Yellow Card is a pan-African fintech company operating across 20 countries, providing secure and cost-effective methods for individuals and businesses to buy and sell cryptocurrencies like BTC, ETH, USDT, USDC, and PYUSD using local currencies. In 2024, Yellow Card integrated USD Coin (USDC) on the Stellar network, enabling users to conduct near-instant, low-cost cross-border transactions across Africa.
 images:
-  avatar: https://media.lumenloop.com/projects/yellow-card/github_avatar.png
+  icon: https://media.lumenloop.xyz/projects/yellow-card/favicon.png
+  avatar: https://media.lumenloop.xyz/projects/yellow-card/github_avatar.png
+  og_image: https://media.lumenloop.xyz/projects/yellow-card/og.png
 links:
   website:
     - yellowcard.io

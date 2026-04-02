@@ -2,7 +2,8 @@ title: Kasi Money
 other_names: null
 parent: null
 description: Digital banking platform for gig workers, freelancers, and small businesses in Africa, offering payments, savings, and lending on Stellar.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/kasi-money/apple_touch.png
 links:
   website:
     - kasi.money

@@ -3,6 +3,9 @@ other_names: null
 parent: null
 description: Payment adapter ecosystem for modern web developers, providing drop-in Stellar payment integration for applications and platforms.
 images:
+  icon: https://media.lumenloop.xyz/projects/paykit/favicon.svg
+  avatar: https://media.lumenloop.xyz/projects/paykit/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/paykit/logo.svg
   og_image: https://media.lumenloop.xyz/projects/paykit/og.png
 links:
   website:

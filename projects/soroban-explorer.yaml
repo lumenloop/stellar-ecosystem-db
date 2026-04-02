@@ -2,7 +2,8 @@ title: Soroban Explorer
 other_names: null
 parent: null
 description: Block explorer enabling Stellar users to verify smart contract code, helping avoid malicious contracts and increasing transparency and adoption.
-images: null
+images:
+  logo: https://media.lumenloop.xyz/projects/soroban-explorer/logo.png
 links:
   website:
     - sorobanexp.com

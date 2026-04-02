@@ -2,7 +2,9 @@ title: Wagent
 other_names: null
 parent: luanlabs
 description: Offers merchants effortless reception and management of crypto payments and easy checkout for the buyers.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/wagent/favicon.ico
+  logo: https://media.lumenloop.xyz/projects/wagent/logo.svg
 links:
   website:
     - wagent.app

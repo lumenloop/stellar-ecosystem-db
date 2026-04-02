@@ -2,7 +2,9 @@ title: TAP4Change
 other_names: null
 parent: null
 description: The social micro-funding platform that makes the Donation Experience (DX) attractive to the younger generations.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/tap4change/favicon.png
+  logo: https://media.lumenloop.xyz/projects/tap4change/logo.svg
 links:
   website:
     - tap4change.org

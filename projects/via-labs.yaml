@@ -3,7 +3,9 @@ other_names: null
 parent: null
 description: Omni-chain infrastructure enabling developers to create cross-chain products on Stellar, with messaging, token bridging, and multi-chain deployment tools.
 images:
+  icon: https://media.lumenloop.xyz/projects/via-labs/favicon.svg
   avatar: https://media.lumenloop.xyz/projects/via-labs/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/via-labs/logo.svg
 links:
   website:
     - vialabs.io

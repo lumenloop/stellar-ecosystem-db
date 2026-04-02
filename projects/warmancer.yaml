@@ -3,7 +3,8 @@ other_names:
   - 'Warmancer: Black Friday'
 parent: null
 description: Free-to-play strategy game combining tactical depth with Stellar blockchain integration, featuring on-chain assets and community-driven governance.
-images: null
+images:
+  og_image: https://media.lumenloop.xyz/projects/warmancer/og.png
 links:
   website:
     - warmancer.io

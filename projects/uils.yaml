@@ -2,7 +2,9 @@ title: uils
 other_names: null
 parent: null
 description: Wallet that offers you loans based on your driving record.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/uils/apple_touch.png
+  logo: https://media.lumenloop.xyz/projects/uils/logo.png
 links:
   website:
     - uils.la

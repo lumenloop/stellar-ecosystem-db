@@ -3,8 +3,7 @@ other_names:
   - 'Stellars Finance: Cross-Chain Perpetuals'
 parent: null
 description: Decentralized perpetual trading protocol on Stellar, offering leveraged futures trading with on-chain settlement and liquidity pools.
-images:
-  avatar: https://media.lumenloop.xyz/projects/stellars-finance/github_avatar.png
+images: null
 links:
   website:
     - stellars.finance

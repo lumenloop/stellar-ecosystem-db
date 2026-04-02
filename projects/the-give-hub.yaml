@@ -2,7 +2,8 @@ title: The Give Hub
 other_names: null
 parent: null
 description: A crowdfunding and microloan platform for social causes focusing on remote regions of Latin America and Africa.
-images: null
+images:
+  avatar: https://media.lumenloop.xyz/projects/the-give-hub/github_avatar.png
 links:
   website:
     - thegivehub.com

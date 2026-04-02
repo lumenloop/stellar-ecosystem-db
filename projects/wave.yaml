@@ -2,7 +2,9 @@ title: Wave
 other_names: null
 parent: null
 description: Wave is a mobile money service operating in Africa, allowing users to deposit, withdraw, pay bills, and send money with minimal fees.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/wave/favicon.png
+  logo: https://media.lumenloop.xyz/projects/wave/logo.png
 links:
   website:
     - wave.com

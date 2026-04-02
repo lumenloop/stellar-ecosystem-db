@@ -2,7 +2,8 @@ title: GiveCredit
 other_names: null
 parent: null
 description: Offset carbon emissions with tax-deductible XLM donations- automated by Soroban.
-images: null
+images:
+  logo: https://media.lumenloop.xyz/projects/givecredit/logo.png
 links:
   website:
     - givecredits.cfce.io

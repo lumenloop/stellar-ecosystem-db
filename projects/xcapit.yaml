@@ -4,7 +4,10 @@ other_names:
 parent: null
 description: A UNICEF-backed wallet enabling secure, SMS-based digital asset distribution and management for NGOs and users with no internet access. *Open Source u0026 Certified as a Digital Public Good.
 images:
+  icon: https://media.lumenloop.xyz/projects/xcapit/favicon.svg
   avatar: https://media.lumenloop.xyz/projects/xcapit/github_avatar.png
+  logo: https://media.lumenloop.xyz/projects/xcapit/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/xcapit/og.png
 links:
   website:
     - xcapit.com

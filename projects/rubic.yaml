@@ -2,7 +2,8 @@ title: Rubic
 other_names: null
 parent: null
 description: Cross-chain swap aggregator integrating Stellar, enabling one-click token exchanges across 90+ blockchains with best-rate routing.
-images: null
+images:
+  avatar: https://media.lumenloop.xyz/projects/rubic/github_avatar.png
 links:
   website:
     - rubic.exchange

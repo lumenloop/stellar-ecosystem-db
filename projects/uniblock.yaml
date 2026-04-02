@@ -2,7 +2,10 @@ title: Uniblock
 other_names: null
 parent: null
 description: Developer platform providing unified APIs, webhooks, and indexing tools across multiple blockchains including Stellar, simplifying Web3 backend development.
-images: null
+images:
+  icon: https://media.lumenloop.xyz/projects/uniblock/favicon.svg
+  logo: https://media.lumenloop.xyz/projects/uniblock/logo.svg
+  og_image: https://media.lumenloop.xyz/projects/uniblock/og.webp
 links:
   website:
     - uniblock.dev
