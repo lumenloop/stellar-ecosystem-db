@@ -2,7 +2,6 @@ title: Zig3v2
 other_names: null
 parent: null
 description: Fast & Secure Stellar Biometric Account Creation, Storage and Signing.
-images: null
 links:
   website:
     - zig3.io
@@ -25,6 +24,7 @@ attributes:
   operating_region:
     - Global
   based_in: Pakistan
+images: null
 scf:
   awarded_round:
     - 11

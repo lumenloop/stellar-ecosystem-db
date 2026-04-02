@@ -3,7 +3,6 @@ other_names:
   - Spatium Wallet
 parent: null
 description: Spatium offers an open-source Web3 Wallet Builder for businesses which allows to break barriers for mass adoption.
-images: null
 links:
   website:
     - spatium.net
@@ -32,6 +31,7 @@ attributes:
   operating_region:
     - United States
   based_in: Kazakhstan
+images: null
 scf:
   awarded_round:
     - 13

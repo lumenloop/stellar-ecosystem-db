@@ -3,11 +3,6 @@ other_names:
   - Soroban Smart Option Contract
 parent: null
 description: The BTF Soroban Smart Option contract is a limited-risk option contract to facilitate an OTC bi-lateral trade with collateral.
-images:
-  icon: https://media.lumenloop.xyz/projects/block-time-financial/favicon.png
-  avatar: https://media.lumenloop.xyz/projects/block-time-financial/github_avatar.jpg
-  logo: https://media.lumenloop.xyz/projects/block-time-financial/logo.png
-  og_image: https://media.lumenloop.xyz/projects/block-time-financial/og.png
 links:
   website:
     - blocktimefinancial.com
@@ -41,6 +36,11 @@ attributes:
   operating_region:
     - United States
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/block-time-financial/favicon.png
+  avatar: https://media.lumenloop.com/projects/block-time-financial/github_avatar.jpg
+  logo: https://media.lumenloop.com/projects/block-time-financial/logo.png
+  og_image: https://media.lumenloop.com/projects/block-time-financial/og.png
 scf:
   awarded_round:
     - 14

@@ -3,7 +3,6 @@ other_names:
   - 'Loto Punto: Automated Remmitance Kiosks'
 parent: null
 description: Self-service kiosk network enabling affordable cross-border transactions and stablecoin purchases in Latin America via Stellar.
-images: null
 links:
   website:
     - lotopunto.co
@@ -37,6 +36,7 @@ attributes:
   operating_region:
     - Latin America & Caribbean
   based_in: Colombia
+images: null
 scf:
   awarded_round: []
   awarded_total: null

@@ -2,11 +2,6 @@ title: OpenZeppelin
 other_names: null
 parent: null
 description: OpenZeppelin is a recognized leader in blockchain security and smart contract development, known for creating widely-used frameworks and tooling. They are partnering with the Stellar Development Foundation to bring their expertise to Soroban—by developing the Stellar Library, conducting security audits, and providing open-source tools.
-images:
-  icon: https://media.lumenloop.xyz/projects/openzeppelin/favicon.png
-  avatar: https://media.lumenloop.xyz/projects/openzeppelin/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/openzeppelin/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/openzeppelin/og.jpg
 links:
   website:
     - openzeppelin.com
@@ -35,6 +30,11 @@ attributes:
   operating_region:
     - Global
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/openzeppelin/favicon.png
+  avatar: https://media.lumenloop.com/projects/openzeppelin/github_avatar.png
+  logo: https://media.lumenloop.com/projects/openzeppelin/logo.svg
+  og_image: https://media.lumenloop.com/projects/openzeppelin/og.jpg
 mainnet:
   audits:
     - name: Stellar Contracts Library 0.1.0 Audit

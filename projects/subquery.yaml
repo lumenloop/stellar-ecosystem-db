@@ -3,11 +3,6 @@ other_names:
   - SubQuery Network
 parent: null
 description: SubQuery is a leading blockchain data indexer that provides developers with fast, flexible, universal, and decentralized APIs for web3 projects, supporting over 200 ecosystems including Stellar, Ethereum, and Polkadot.
-images:
-  icon: https://media.lumenloop.xyz/projects/subquery/favicon.png
-  avatar: https://media.lumenloop.xyz/projects/subquery/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/subquery/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/subquery/og.jpg
 links:
   website:
     - subquery.network
@@ -40,6 +35,11 @@ attributes:
   operating_region:
     - New Zealand
   based_in: New Zealand
+images:
+  icon: https://media.lumenloop.com/projects/subquery/favicon.png
+  avatar: https://media.lumenloop.com/projects/subquery/github_avatar.png
+  logo: https://media.lumenloop.com/projects/subquery/logo.svg
+  og_image: https://media.lumenloop.com/projects/subquery/og.jpg
 scf:
   awarded_round:
     - 18

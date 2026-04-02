@@ -3,10 +3,6 @@ other_names:
   - 'reBlue: Securing Austere Supply Chains'
 parent: null
 description: reBlue hybridizes Stellar with off-chain analysis to provide supply chain oversight within fragile states, enable frontier market access, and engage informal economic systems.
-images:
-  icon: https://media.lumenloop.xyz/projects/reblue/apple_touch.png
-  logo: https://media.lumenloop.xyz/projects/reblue/logo.png
-  og_image: https://media.lumenloop.xyz/projects/reblue/og.png
 links:
   website:
     - reblue.io
@@ -33,6 +29,10 @@ attributes:
     - Europe & Central Asia
     - North America (without Mexico)
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/reblue/apple_touch.png
+  logo: https://media.lumenloop.com/projects/reblue/logo.png
+  og_image: https://media.lumenloop.com/projects/reblue/og.png
 scf:
   awarded_round:
     - 37

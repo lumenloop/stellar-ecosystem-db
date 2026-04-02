@@ -3,8 +3,6 @@ other_names:
   - 'Eara: European regulated RWA ecosystem'
 parent: null
 description: Eara is a pioneering platform for regulated investment asset digitalization in Europe. We bring together blockchain innovation with deep expertise in traditional finance, backed by the founders of a licensed securities agency.
-images:
-  og_image: https://media.lumenloop.xyz/projects/eara/og.jpg
 links:
   website:
     - earaglobal.com
@@ -30,6 +28,8 @@ attributes:
   operating_region:
     - Europe & Central Asia
   based_in: Spain
+images:
+  og_image: https://media.lumenloop.com/projects/eara/og.jpg
 scf:
   awarded_round:
     - 40

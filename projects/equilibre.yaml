@@ -3,7 +3,6 @@ other_names:
   - Equilibre.io
 parent: null
 description: A Portfolio Balancer for Stellar.
-images: null
 links:
   website:
     - equilibre.io
@@ -27,6 +26,7 @@ attributes:
   operating_region:
     - Global
   based_in: null
+images: null
 scf:
   awarded_round:
     - 1

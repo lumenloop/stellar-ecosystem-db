@@ -2,9 +2,6 @@ title: Yativo
 other_names: null
 parent: null
 description: Yativo is a financial infrastructure platform that enables companies to build, launch, and scale financial products in emerging markets like Latin America and Asia. Their services include virtual accounts, payouts, wallets, identity verification, and foreign exchange liquidity, all accessible through a single API.
-images:
-  icon: https://media.lumenloop.xyz/projects/yativo/apple_touch.svg
-  logo: https://media.lumenloop.xyz/projects/yativo/logo.svg
 links:
   website:
     - yativo.com
@@ -35,6 +32,9 @@ attributes:
     - Latin America & Caribbean
     - East Asia & Pacific
   based_in: Chile
+images:
+  icon: https://media.lumenloop.com/projects/yativo/apple_touch.svg
+  logo: https://media.lumenloop.com/projects/yativo/logo.svg
 mainnet:
   audits: []
   tokens: []

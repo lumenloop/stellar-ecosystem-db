@@ -3,7 +3,6 @@ other_names:
   - Stellar Attestation Service
 parent: accred
 description: Soroban framework for attesting to digital interactions on the Stellar network.
-images: null
 links:
   website:
     - attestprotocol.org
@@ -37,6 +36,7 @@ attributes:
   operating_region:
     - Ghana
   based_in: United Kingdom
+images: null
 scf:
   awarded_round:
     - 29

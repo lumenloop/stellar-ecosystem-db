@@ -3,9 +3,6 @@ other_names:
   - usepeer
 parent: honeycoin
 description: Peer by HoneyCoin is a global, non-custodial financial super app made for the general public and primarily built on Stellar.
-images:
-  icon: https://media.lumenloop.xyz/projects/peer/apple_touch.png
-  logo: https://media.lumenloop.xyz/projects/peer/logo.png
 links:
   website:
     - usepeer.co
@@ -41,6 +38,9 @@ attributes:
   operating_region:
     - Kenya
   based_in: Kenya
+images:
+  icon: https://media.lumenloop.com/projects/peer/apple_touch.png
+  logo: https://media.lumenloop.com/projects/peer/logo.png
 scf: {}
 mainnet:
   audits: []

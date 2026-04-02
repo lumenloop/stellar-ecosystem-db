@@ -2,9 +2,6 @@ title: Prophe
 other_names: null
 parent: null
 description: Prophe is a blockchain-focused toolset that makes project management a breeze.
-images:
-  icon: https://media.lumenloop.xyz/projects/prophe/favicon.ico
-  logo: https://media.lumenloop.xyz/projects/prophe/logo.svg
 links:
   website:
     - prophe.xyz
@@ -30,6 +27,9 @@ attributes:
   operating_region:
     - Sub-Saharan Africa
   based_in: Nigeria
+images:
+  icon: https://media.lumenloop.com/projects/prophe/favicon.ico
+  logo: https://media.lumenloop.com/projects/prophe/logo.svg
 scf:
   awarded_round:
     - 28

@@ -2,10 +2,6 @@ title: Anclap
 other_names: null
 parent: null
 description: Infrastructure that connects Web3 to financial systems, makes FIAT<>Crypto interoperable and converts any company into a fintech.
-images:
-  icon: https://media.lumenloop.xyz/projects/anclap/apple_touch.svg
-  avatar: https://media.lumenloop.xyz/projects/anclap/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/anclap/logo.png
 links:
   website:
     - anclap.com
@@ -31,6 +27,10 @@ attributes:
   operating_region:
     - Argentina
   based_in: Argentina
+images:
+  icon: https://media.lumenloop.com/projects/anclap/apple_touch.svg
+  avatar: https://media.lumenloop.com/projects/anclap/github_avatar.png
+  logo: https://media.lumenloop.com/projects/anclap/logo.png
 scf:
   awarded_round:
     - 7

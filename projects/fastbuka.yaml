@@ -4,9 +4,6 @@ other_names:
   - Choppaddi
 parent: null
 description: Choppaddi (FKA FastBuka) is a blockchain-enabled food and grocery delivery platform built on the Stellar network that connect customers, vendors, and riders across Africa with instant top-ups, fast payments, crypto and local currency options, built-in dispute resolution, and task-based rewards, making delivery faster, fairer, and more inclusive.
-images:
-  icon: https://media.lumenloop.xyz/projects/fastbuka/favicon.ico
-  avatar: https://media.lumenloop.xyz/projects/fastbuka/github_avatar.jpg
 links:
   website:
     - fastbuka.com
@@ -35,6 +32,9 @@ attributes:
   operating_region:
     - Sub-Saharan Africa
   based_in: Nigeria
+images:
+  icon: https://media.lumenloop.com/projects/fastbuka/favicon.ico
+  avatar: https://media.lumenloop.com/projects/fastbuka/github_avatar.jpg
 scf:
   awarded_round:
     - 38

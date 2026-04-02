@@ -3,11 +3,6 @@ other_names:
   - Galaxy Ramp - fiat onramp to any token on Stellar
 parent: Ultra Stellar
 description: Coindisco is a cryptocurrency platform that enables users to purchase a variety of digital assets using multiple payment methods, including credit/debit cards and bank transfers. Their Galaxy Ramp tool utilizes Soroban smart contracts on the Stellar network to facilitate direct fiat-to-crypto transactions for any Stellar token.
-images:
-  icon: https://media.lumenloop.xyz/projects/coindisco/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/coindisco/github_avatar.jpg
-  logo: https://media.lumenloop.xyz/projects/coindisco/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/coindisco/og.png
 links:
   website:
     - coindisco.com
@@ -37,6 +32,11 @@ attributes:
   operating_region:
     - East Asia & Pacific
   based_in: Poland
+images:
+  icon: https://media.lumenloop.com/projects/coindisco/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/coindisco/github_avatar.jpg
+  logo: https://media.lumenloop.com/projects/coindisco/logo.svg
+  og_image: https://media.lumenloop.com/projects/coindisco/og.png
 scf:
   awarded_round:
     - 30

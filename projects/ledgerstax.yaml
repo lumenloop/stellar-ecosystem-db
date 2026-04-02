@@ -2,7 +2,6 @@ title: LedgersTax
 other_names: null
 parent: null
 description: LedgersTax exports your Stellar transactions history for tax reporting. Comprehensive taxable events data in a few clicks – saving time, alleviating headache. Even on the moon, you still have to file taxes.
-images: null
 links:
   website:
     - ledgers.tax
@@ -24,6 +23,7 @@ attributes:
   operating_region:
     - Global
   based_in: Portugal
+images: null
 scf:
   awarded_round:
     - 35

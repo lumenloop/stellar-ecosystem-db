@@ -2,7 +2,6 @@ title: Swift Wallet SDK
 other_names: null
 parent: null
 description: With the Swift Wallet SDK, building an iOS Stellar-enabled wallet or application is faster and easier than ever.
-images: null
 links:
   website:
     - github.com/soneso/stellar-swift-wallet-sdk
@@ -25,6 +24,7 @@ attributes:
   operating_region:
     - Global
   based_in: Spain
+images: null
 scf:
   awarded_round:
     - 31

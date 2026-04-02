@@ -2,7 +2,6 @@ title: AuraPay
 other_names: null
 parent: null
 description: A licensed Fintech company in Europe allowing Latin Americans to send money back home.
-images: null
 links:
   website:
     - somosaurapay.com
@@ -27,6 +26,7 @@ attributes:
   operating_region:
     - Madrid
   based_in: Spain
+images: null
 scf:
   awarded_round:
     - 20

@@ -3,9 +3,6 @@ other_names:
   - Web3 Antivirus (W3A)
 parent: null
 description: Web3 Antivirus is an open-source security browser extension that detects crypto scams and warns users before they sign anything.
-images:
-  icon: https://media.lumenloop.xyz/projects/web3-antivirus/favicon.png
-  logo: https://media.lumenloop.xyz/projects/web3-antivirus/logo.svg
 links:
   website: []
   blog:
@@ -33,6 +30,9 @@ attributes:
   operating_region:
     - United States
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/web3-antivirus/favicon.png
+  logo: https://media.lumenloop.com/projects/web3-antivirus/logo.svg
 scf:
   awarded_round:
     - 28

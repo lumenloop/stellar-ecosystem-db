@@ -3,9 +3,6 @@ other_names:
   - Soroban and Stellar Content
 parent: null
 description: Educational video content about Soroban and Stellar for over 160.000 followers. Cross border payments, CBDCs and smart contracts.
-images:
-  icon: https://media.lumenloop.xyz/projects/noticias-trading/apple_touch.png
-  og_image: https://media.lumenloop.xyz/projects/noticias-trading/og.jpg
 links:
   website:
     - beacons.ai/noticiastrading
@@ -33,6 +30,9 @@ attributes:
   operating_region:
     - Spain
   based_in: Spain
+images:
+  icon: https://media.lumenloop.com/projects/noticias-trading/apple_touch.png
+  og_image: https://media.lumenloop.com/projects/noticias-trading/og.jpg
 scf:
   awarded_round:
     - 25

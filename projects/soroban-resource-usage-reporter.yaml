@@ -2,9 +2,6 @@ title: Soroban Resource Usage Reporter
 other_names: null
 parent: 57blocks
 description: Developer tool for tracking resource usage and key metrics during Soroban smart contract development and testing, enabling efficient and cost-effective builds.
-images:
-  icon: https://media.lumenloop.xyz/projects/soroban-resource-usage-reporter/favicon.ico
-  logo: https://media.lumenloop.xyz/projects/soroban-resource-usage-reporter/logo.svg
 links:
   website:
     - 57blocks.io
@@ -32,6 +29,9 @@ attributes:
   operating_region:
     - Global
   based_in: China
+images:
+  icon: https://media.lumenloop.com/projects/soroban-resource-usage-reporter/favicon.ico
+  logo: https://media.lumenloop.com/projects/soroban-resource-usage-reporter/logo.svg
 scf:
   awarded_round:
     - 31

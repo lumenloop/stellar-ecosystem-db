@@ -2,9 +2,6 @@ title: Stellar Expert
 other_names: null
 parent: null
 description: StellarExpert is a comprehensive block explorer and analytics platform for the Stellar Network, providing detailed statistics, price history, and analytic reports for all assets on the network. Users can explore account histories, search transactions and payments, and analyze network performance metrics.
-images:
-  icon: https://media.lumenloop.xyz/projects/stellar-expert/favicon.png
-  logo: https://media.lumenloop.xyz/projects/stellar-expert/logo.svg
 links:
   website:
     - stellar.expert
@@ -29,6 +26,9 @@ attributes:
   operating_region:
     - Global
   based_in: null
+images:
+  icon: https://media.lumenloop.com/projects/stellar-expert/favicon.png
+  logo: https://media.lumenloop.com/projects/stellar-expert/logo.svg
 mainnet:
   audits: []
   tokens: []

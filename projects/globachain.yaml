@@ -3,9 +3,6 @@ other_names:
   - Globachain Payment Ecosystem
 parent: null
 description: On and off ramps for individuals and businesses; Merchant services and cross border payments for businesses; All on Stellar.
-images:
-  icon: https://media.lumenloop.xyz/projects/globachain/apple_touch.png
-  logo: https://media.lumenloop.xyz/projects/globachain/logo.svg
 links:
   website:
     - globachain.com
@@ -40,6 +37,9 @@ attributes:
     - Sub-Saharan Africa
     - Europe & Central Asia
   based_in: United Kingdom
+images:
+  icon: https://media.lumenloop.com/projects/globachain/apple_touch.png
+  logo: https://media.lumenloop.com/projects/globachain/logo.svg
 scf:
   awarded_round:
     - 29

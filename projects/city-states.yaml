@@ -3,7 +3,6 @@ other_names:
   - 'City States: Medieval'
 parent: addirktive
 description: A cross-platform, empire-building MMO.
-images: null
 links:
   website:
     - citystatesm.com
@@ -30,6 +29,7 @@ attributes:
   operating_region:
     - Germany
   based_in: Germany
+images: null
 scf:
   awarded_round:
     - 2

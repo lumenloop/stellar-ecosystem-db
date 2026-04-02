@@ -3,9 +3,6 @@ other_names:
   - LINK IO
 parent: null
 description: LINK is a financial technology company that provides a comprehensive web3 infrastructure for global cross-border payments, focusing on real-time foreign exchange and stablecoin payment solutions.
-images:
-  avatar: https://media.lumenloop.xyz/projects/link/github_avatar.png
-  og_image: https://media.lumenloop.xyz/projects/link/og.png
 links:
   website:
     - linkio.world
@@ -33,6 +30,9 @@ attributes:
   operating_region:
     - Turkey
   based_in: United Kingdom
+images:
+  avatar: https://media.lumenloop.com/projects/link/github_avatar.png
+  og_image: https://media.lumenloop.com/projects/link/og.png
 scf:
   awarded_round:
     - 10

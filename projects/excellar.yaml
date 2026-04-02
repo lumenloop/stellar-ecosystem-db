@@ -2,10 +2,6 @@ title: Excellar
 other_names: null
 parent: null
 description: Excellar is bringing regulated yield-bearing crypto denominated liquid yield tokens to Stellar.
-images:
-  icon: https://media.lumenloop.xyz/projects/excellar/favicon.ico
-  avatar: https://media.lumenloop.xyz/projects/excellar/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/excellar/logo.png
 links:
   website:
     - excellar.finance
@@ -34,6 +30,10 @@ attributes:
     - Europe & Central Asia
     - South Asia
   based_in: India
+images:
+  icon: https://media.lumenloop.com/projects/excellar/favicon.ico
+  avatar: https://media.lumenloop.com/projects/excellar/github_avatar.png
+  logo: https://media.lumenloop.com/projects/excellar/logo.png
 scf:
   awarded_round:
     - 17

@@ -4,10 +4,6 @@ other_names:
   - Rivool
 parent: null
 description: Platform connecting global investors to high-yield opportunities in emerging markets through tokenized credit receivables on Stellar.
-images:
-  icon: https://media.lumenloop.xyz/projects/rivool-finance/favicon.png
-  logo: https://media.lumenloop.xyz/projects/rivool-finance/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/rivool-finance/og.jpg
 links:
   website:
     - rivool.finance
@@ -38,6 +34,10 @@ attributes:
   operating_region:
     - Latin America & Caribbean
   based_in: Brazil
+images:
+  icon: https://media.lumenloop.com/projects/rivool-finance/favicon.png
+  logo: https://media.lumenloop.com/projects/rivool-finance/logo.svg
+  og_image: https://media.lumenloop.com/projects/rivool-finance/og.jpg
 scf:
   awarded_round:
     - 37

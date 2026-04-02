@@ -3,8 +3,6 @@ other_names:
   - Moonlight Protocol
 parent: null
 description: Non-custodial privacy solution on Stellar using zero-knowledge proofs to enable confidential transactions while preserving compliance capabilities.
-images:
-  avatar: https://media.lumenloop.xyz/projects/moonlight/github_avatar.png
 links:
   website:
     - moonlight-10.gitbook.io/moonlight-docs
@@ -29,6 +27,8 @@ attributes:
   operating_region:
     - Global
   based_in: France
+images:
+  avatar: https://media.lumenloop.com/projects/moonlight/github_avatar.png
 scf:
   awarded_round:
     - 37

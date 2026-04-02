@@ -3,7 +3,6 @@ other_names:
   - Sorosorcerer.com
 parent: null
 description: An easy to use tool to develop smart contracts on soroban for use-case builders with secure and vetted code.
-images: null
 links:
   website:
     - sorosorcerer.com
@@ -29,6 +28,7 @@ attributes:
   operating_region:
     - Netherlands
   based_in: Netherlands
+images: null
 scf:
   awarded_round:
     - 16

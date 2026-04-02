@@ -2,11 +2,6 @@ title: DeFarm
 other_names: null
 parent: null
 description: DeFarm is an agricultural traceability platform that enables organizations to participate in collaborative networks (circuits) while maintaining complete data sovereignty. Our system allows producers, certifiers, and government authorities to selectively share agricultural data through privacy-preserving disclosure mechanisms, ensuring compliance and transparency without compromising sensitive information.
-images:
-  icon: https://media.lumenloop.xyz/projects/defarm/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/defarm/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/defarm/logo.png
-  og_image: https://media.lumenloop.xyz/projects/defarm/og.png
 links:
   website:
     - defarm.net
@@ -32,6 +27,11 @@ attributes:
     - Middle East & North Africa
     - Europe & Central Asia
   based_in: Brazil
+images:
+  icon: https://media.lumenloop.com/projects/defarm/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/defarm/github_avatar.png
+  logo: https://media.lumenloop.com/projects/defarm/logo.png
+  og_image: https://media.lumenloop.com/projects/defarm/og.png
 scf:
   awarded_round:
     - 40

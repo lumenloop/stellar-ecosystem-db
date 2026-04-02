@@ -2,9 +2,6 @@ title: Airtm
 other_names: null
 parent: null
 description: Airtm is a digital wallet and peer-to-peer exchange platform that enables users to receive payments, add funds, withdraw money, and send or request funds globally. Their Enterprise Platform offers businesses efficient cross-border payment solutions, facilitating mass payouts and collections through over 500 payment methods in emerging markets.
-images:
-  icon: https://media.lumenloop.xyz/projects/airtm/apple_touch.png
-  logo: https://media.lumenloop.xyz/projects/airtm/logo.svg
 links:
   website:
     - airtm.com
@@ -37,6 +34,9 @@ attributes:
     - Latin America & Caribbean
     - Emerging Markets
   based_in: Argentina
+images:
+  icon: https://media.lumenloop.com/projects/airtm/apple_touch.png
+  logo: https://media.lumenloop.com/projects/airtm/logo.svg
 mainnet:
   audits: []
   tokens: []

@@ -2,9 +2,6 @@ title: Meru
 other_names: null
 parent: null
 description: Financial services app for Freelancers and remote workers in Latin America.
-images:
-  icon: https://media.lumenloop.xyz/projects/meru/apple_touch.png
-  og_image: https://media.lumenloop.xyz/projects/meru/og.png
 links:
   website:
     - getmeru.com
@@ -41,6 +38,9 @@ attributes:
   operating_region:
     - Latin America & Caribbean
   based_in: Colombia
+images:
+  icon: https://media.lumenloop.com/projects/meru/apple_touch.png
+  og_image: https://media.lumenloop.com/projects/meru/og.png
 scf:
   awarded_round:
     - 14

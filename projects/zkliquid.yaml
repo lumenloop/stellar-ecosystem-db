@@ -4,9 +4,6 @@ other_names:
   - 'LiquidsFi: Bridge and Cross-chain Oracle'
 parent: null
 description: LiquidsFi is a decentralized liquidity protocol and interoperability oracle network connecting liquidity and onchain data across siloed blockchains.
-images:
-  icon: https://media.lumenloop.xyz/projects/zkliquid/favicon.svg
-  avatar: https://media.lumenloop.xyz/projects/zkliquid/github_avatar.png
 links:
   website:
     - liquids.fi
@@ -32,6 +29,9 @@ attributes:
   operating_region:
     - North America (without Mexico)
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/zkliquid/favicon.svg
+  avatar: https://media.lumenloop.com/projects/zkliquid/github_avatar.png
 scf:
   awarded_round:
     - 28

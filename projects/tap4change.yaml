@@ -2,9 +2,6 @@ title: TAP4Change
 other_names: null
 parent: null
 description: The social micro-funding platform that makes the Donation Experience (DX) attractive to the younger generations.
-images:
-  icon: https://media.lumenloop.xyz/projects/tap4change/favicon.png
-  logo: https://media.lumenloop.xyz/projects/tap4change/logo.svg
 links:
   website:
     - tap4change.org
@@ -35,6 +32,9 @@ attributes:
   operating_region:
     - Australia
   based_in: Australia
+images:
+  icon: https://media.lumenloop.com/projects/tap4change/favicon.png
+  logo: https://media.lumenloop.com/projects/tap4change/logo.svg
 scf:
   awarded_round:
     - 21

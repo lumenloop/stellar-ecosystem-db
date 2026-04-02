@@ -2,9 +2,6 @@ title: Wagent
 other_names: null
 parent: luanlabs
 description: Offers merchants effortless reception and management of crypto payments and easy checkout for the buyers.
-images:
-  icon: https://media.lumenloop.xyz/projects/wagent/favicon.ico
-  logo: https://media.lumenloop.xyz/projects/wagent/logo.svg
 links:
   website:
     - wagent.app
@@ -33,6 +30,9 @@ attributes:
   operating_region:
     - Sweden
   based_in: Turkey
+images:
+  icon: https://media.lumenloop.com/projects/wagent/favicon.ico
+  logo: https://media.lumenloop.com/projects/wagent/logo.svg
 scf:
   awarded_round:
     - 26

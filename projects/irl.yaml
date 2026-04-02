@@ -2,10 +2,6 @@ title: IRL
 other_names: null
 parent: null
 description: Global loyalty layer for culture, enabling brands and venues to issue blockchain-backed rewards and collectibles on Stellar.
-images:
-  icon: https://media.lumenloop.xyz/projects/irl/favicon.ico
-  logo: https://media.lumenloop.xyz/projects/irl/logo.png
-  og_image: https://media.lumenloop.xyz/projects/irl/og.png
 links:
   website:
     - irl.energy
@@ -33,6 +29,10 @@ attributes:
   operating_region:
     - Global
   based_in: Canada
+images:
+  icon: https://media.lumenloop.com/projects/irl/favicon.ico
+  logo: https://media.lumenloop.com/projects/irl/logo.png
+  og_image: https://media.lumenloop.com/projects/irl/og.png
 scf:
   awarded_round:
     - 38

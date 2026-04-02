@@ -3,7 +3,6 @@ other_names:
   - GetBlockCard.com
 parent: Ternio
 description: Ternio's Payment Card Platform [BlockCard] supports multiple coins and is the only company enabling users to hold crypto until the point of sale.
-images: null
 links:
   website:
     - getblockcard.com
@@ -26,6 +25,7 @@ attributes:
   operating_region:
     - Global
   based_in: null
+images: null
 scf:
   awarded_round:
     - 2

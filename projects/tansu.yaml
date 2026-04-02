@@ -3,10 +3,6 @@ other_names:
   - Tansu - Soroban Versioning
 parent: null
 description: Tansu is a decentralized governance platform built on a smart contract layer to facilitate on-chain project management and version control. It enables open-source communities to manage proposals, conduct transparent or private voting, and verify code integrity through immutable commit hashes and role-based badges.
-images:
-  icon: https://media.lumenloop.xyz/projects/tansu/favicon.svg
-  logo: https://media.lumenloop.xyz/projects/tansu/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/tansu/og.png
 links:
   website:
     - tansu.dev
@@ -32,6 +28,10 @@ attributes:
   operating_region:
     - Global
   based_in: Austria
+images:
+  icon: https://media.lumenloop.com/projects/tansu/favicon.svg
+  logo: https://media.lumenloop.com/projects/tansu/logo.svg
+  og_image: https://media.lumenloop.com/projects/tansu/og.png
 scf:
   awarded_round:
     - 28

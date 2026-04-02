@@ -2,10 +2,6 @@ title: Peridot Finance
 other_names: null
 parent: null
 description: Cross-chain lending and borrowing protocol on Stellar, enabling users to supply and borrow assets across multiple blockchains.
-images:
-  icon: https://media.lumenloop.xyz/projects/peridot-finance/apple_touch.ico
-  logo: https://media.lumenloop.xyz/projects/peridot-finance/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/peridot-finance/og.webp
 links:
   website:
     - peridot.finance
@@ -33,6 +29,10 @@ attributes:
   operating_region:
     - North America (without Mexico)
   based_in: Germany
+images:
+  icon: https://media.lumenloop.com/projects/peridot-finance/apple_touch.ico
+  logo: https://media.lumenloop.com/projects/peridot-finance/logo.svg
+  og_image: https://media.lumenloop.com/projects/peridot-finance/og.webp
 scf:
   awarded_round:
     - 38

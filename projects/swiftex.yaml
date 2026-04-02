@@ -2,10 +2,6 @@ title: SwiftEx
 other_names: null
 parent: null
 description: SwiftEx is a multi-chain DEX powered by Stellar, offering low fees, fast settlement, and a seamless CEX-like experience with full user control.
-images:
-  icon: https://media.lumenloop.xyz/projects/swiftex/favicon.ico
-  logo: https://media.lumenloop.xyz/projects/swiftex/logo.avif
-  og_image: https://media.lumenloop.xyz/projects/swiftex/og.avif
 links:
   website:
     - swiftexchange.io
@@ -40,6 +36,10 @@ attributes:
     - Europe & Central Asia
     - North America (without Mexico)
   based_in: India
+images:
+  icon: https://media.lumenloop.com/projects/swiftex/favicon.ico
+  logo: https://media.lumenloop.com/projects/swiftex/logo.avif
+  og_image: https://media.lumenloop.com/projects/swiftex/og.avif
 scf:
   awarded_round:
     - 35

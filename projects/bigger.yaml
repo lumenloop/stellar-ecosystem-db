@@ -3,9 +3,6 @@ other_names:
   - BiGGER - Startup Camp 2.0
 parent: null
 description: Bigger is a software development company and official Stellar partner specializing in building blockchain solutions like smart contracts and decentralized applications. They help businesses leverage Stellar’s capabilities for projects such as cross-border payment systems and custom fintech applications. Bigger has also been helping organizing the Stellar Kickstart program.
-images:
-  avatar: https://media.lumenloop.xyz/projects/bigger/github_avatar.png
-  og_image: https://media.lumenloop.xyz/projects/bigger/og.jpg
 links:
   website:
     - biggertech.co
@@ -33,6 +30,9 @@ attributes:
   operating_region:
     - Sidney, Australia
   based_in: Australia
+images:
+  avatar: https://media.lumenloop.com/projects/bigger/github_avatar.png
+  og_image: https://media.lumenloop.com/projects/bigger/og.jpg
 scf:
   awarded_round:
     - 23

@@ -2,9 +2,6 @@ title: Unstoppable Wallet
 other_names: null
 parent: null
 description: Unstoppable Wallet is an open-source, non-custodial, cryptocurrency wallet that supports multiple blockchains, including Bitcoin, Ethereum, and others. It provides secure storage and management of assets, along with features like swapping and DeFi integration. Being open-source, its transparency and security can be verified by the community. Available for iOS and Android.
-images:
-  icon: https://media.lumenloop.xyz/projects/unstoppable-wallet/favicon.ico
-  logo: https://media.lumenloop.xyz/projects/unstoppable-wallet/logo.svg
 links:
   website:
     - unstoppable.money
@@ -33,6 +30,9 @@ attributes:
   operating_region:
     - North America (without Mexico)
   based_in: Turkey
+images:
+  icon: https://media.lumenloop.com/projects/unstoppable-wallet/favicon.ico
+  logo: https://media.lumenloop.com/projects/unstoppable-wallet/logo.svg
 scf:
   awarded_round:
     - 34

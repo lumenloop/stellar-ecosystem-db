@@ -2,9 +2,6 @@ title: Taurus
 other_names: null
 parent: null
 description: Taurus is a European leader in digital asset infrastructure, providing enterprise-grade solutions for custody, tokenization, and management of cryptocurrencies, tokenized assets, and digital currencies.Their platform enables financial institutions to securely issue, book, transfer, and trade digital assets, integrating seamlessly with existing banking systems.
-images:
-  avatar: https://media.lumenloop.xyz/projects/taurus/github_avatar.jpg
-  logo: https://media.lumenloop.xyz/projects/taurus/logo.png
 links:
   website:
     - taurushq.com
@@ -33,6 +30,9 @@ attributes:
   operating_region:
     - Europe & Central Asia
   based_in: Switzerland
+images:
+  avatar: https://media.lumenloop.com/projects/taurus/github_avatar.jpg
+  logo: https://media.lumenloop.com/projects/taurus/logo.png
 mainnet:
   audits: []
   tokens: []

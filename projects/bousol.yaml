@@ -3,7 +3,6 @@ other_names:
   - Bousol Wallet
 parent: null
 description: Bousol is a blockchain-based digital wallet enabling secure, low-cost cross-border payments and financial services for underserved communities.
-images: null
 links:
   website:
     - bousolapp.com
@@ -31,6 +30,7 @@ attributes:
     - Latin America & Caribbean
     - North America (without Mexico)
   based_in: null
+images: null
 mainnet:
   audits: []
   tokens: []

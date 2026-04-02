@@ -3,10 +3,6 @@ other_names:
   - NearX - Dev Educational Program
 parent: null
 description: Comprehensive educational program for web2 developers to master Stellar & Soroban coding.
-images:
-  icon: https://media.lumenloop.xyz/projects/nearx/apple_touch.svg
-  avatar: https://media.lumenloop.xyz/projects/nearx/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/nearx/logo.webp
 links:
   website:
     - nearx.com.br
@@ -35,6 +31,10 @@ attributes:
   operating_region:
     - Brazil
   based_in: Brazil
+images:
+  icon: https://media.lumenloop.com/projects/nearx/apple_touch.svg
+  avatar: https://media.lumenloop.com/projects/nearx/github_avatar.png
+  logo: https://media.lumenloop.com/projects/nearx/logo.webp
 scf:
   awarded_round:
     - 25

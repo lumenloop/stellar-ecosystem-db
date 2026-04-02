@@ -5,10 +5,6 @@ other_names:
   - ' Win'
 parent: null
 description: An innovative geolocation rewards app driving action and adventure worldwide with digital incentives placed by organizations.
-images:
-  icon: https://media.lumenloop.xyz/projects/wadzzo/apple_touch.ico
-  avatar: https://media.lumenloop.xyz/projects/wadzzo/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/wadzzo/logo.png
 links:
   website:
     - wadzzo.com
@@ -34,6 +30,10 @@ attributes:
   operating_region:
     - North America (without Mexico)
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/wadzzo/apple_touch.ico
+  avatar: https://media.lumenloop.com/projects/wadzzo/github_avatar.png
+  logo: https://media.lumenloop.com/projects/wadzzo/logo.png
 scf:
   awarded_round:
     - 27

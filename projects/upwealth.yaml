@@ -2,10 +2,6 @@ title: Upwealth
 other_names: null
 parent: null
 description: AI-powered investment and asset management platform on Stellar, offering tokenized portfolio strategies with automated compliance and reporting.
-images:
-  icon: https://media.lumenloop.xyz/projects/upwealth/favicon.ico
-  logo: https://media.lumenloop.xyz/projects/upwealth/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/upwealth/og.svg
 links:
   website:
     - upwealth.io
@@ -48,6 +44,10 @@ attributes:
     - North America (without Mexico)
     - East Asia & Pacific
   based_in: France
+images:
+  icon: https://media.lumenloop.com/projects/upwealth/favicon.ico
+  logo: https://media.lumenloop.com/projects/upwealth/logo.svg
+  og_image: https://media.lumenloop.com/projects/upwealth/og.svg
 scf:
   awarded_round:
     - 34

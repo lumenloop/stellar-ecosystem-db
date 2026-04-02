@@ -3,7 +3,6 @@ other_names:
   - 'SoroStarter: Soroban LaunchPad'
 parent: null
 description: All-in-one platform to launch, manage, and fund Web3 projects on Stellar and Soroban, with built-in tools for token deployment, safes, timelocks, and IDOs.
-images: null
 links:
   website:
     - sorostarter.com
@@ -34,6 +33,7 @@ attributes:
   operating_region:
     - Middle East & North Africa
   based_in: Kuwait
+images: null
 scf:
   awarded_round:
     - 29

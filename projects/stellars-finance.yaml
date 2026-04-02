@@ -3,7 +3,6 @@ other_names:
   - 'Stellars Finance: Cross-Chain Perpetuals'
 parent: null
 description: Decentralized perpetual trading protocol on Stellar, offering leveraged futures trading with on-chain settlement and liquidity pools.
-images: null
 links:
   website:
     - stellars.finance
@@ -31,6 +30,7 @@ attributes:
     - Europe & Central Asia
     - Latin America & Caribbean
   based_in: Germany
+images: null
 scf:
   awarded_round:
     - 40

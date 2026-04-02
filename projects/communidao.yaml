@@ -2,8 +2,6 @@ title: CommuniDAO
 other_names: null
 parent: null
 description: Initially conceived as a Discord bot, the project has evolved into a comprehensive DAO tooling suite, complete with an Integrations SDK that allows for custom app development. The platform leverages Soroban, to manage memberships and facilitate governance, aiming to create a more democratic and scalable community ecosystem.
-images:
-  avatar: https://media.lumenloop.xyz/projects/communidao/github_avatar.png
 links:
   website:
     - communidao.cc
@@ -30,6 +28,8 @@ attributes:
   operating_region:
     - Global
   based_in: United States
+images:
+  avatar: https://media.lumenloop.com/projects/communidao/github_avatar.png
 scf:
   awarded_round:
     - 14

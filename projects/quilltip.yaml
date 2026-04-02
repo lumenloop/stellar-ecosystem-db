@@ -3,7 +3,6 @@ other_names:
   - 'QuillTip: Publishing and Microtipping'
 parent: null
 description: Decentralized publishing platform on Stellar empowering content creators with direct reader tipping, NFT-backed ownership, and censorship-resistant distribution.
-images: null
 links:
   website:
     - quilltip.me
@@ -28,6 +27,7 @@ attributes:
   operating_region:
     - Global
   based_in: India
+images: null
 scf:
   awarded_round:
     - 39

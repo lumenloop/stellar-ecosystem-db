@@ -2,7 +2,6 @@ title: Kript
 other_names: null
 parent: null
 description: Kript is a financial technology platform that provides API infrastructure for businesses to integrate cryptocurrency and fiat payment solutions into their operations.
-images: null
 links:
   website:
     - kriptup.io
@@ -35,6 +34,7 @@ attributes:
     - Sub-Saharan Africa
     - Latin America & Caribbean
   based_in: Nigeria
+images: null
 scf:
   awarded_round:
     - 27

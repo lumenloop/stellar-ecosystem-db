@@ -2,9 +2,6 @@ title: Trilobyte
 other_names: null
 parent: null
 description: Trilobyte is a Cash Flow Financing Protocol.
-images:
-  icon: https://media.lumenloop.xyz/projects/trilobyte/favicon.png
-  logo: https://media.lumenloop.xyz/projects/trilobyte/logo.png
 links:
   website:
     - trilobyte.finance
@@ -27,6 +24,9 @@ attributes:
   operating_region:
     - Global
   based_in: Netherlands
+images:
+  icon: https://media.lumenloop.com/projects/trilobyte/favicon.png
+  logo: https://media.lumenloop.com/projects/trilobyte/logo.png
 scf:
   awarded_round:
     - 15

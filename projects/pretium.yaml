@@ -3,9 +3,6 @@ other_names:
   - Pretium Finance
 parent: null
 description: Revolutionizing African cross-border payments and integrating cryptocurrencies into the economic value chain.
-images:
-  icon: https://media.lumenloop.xyz/projects/pretium/favicon.png
-  logo: https://media.lumenloop.xyz/projects/pretium/logo.png
 links:
   website:
     - pretium.africa
@@ -33,6 +30,9 @@ attributes:
   operating_region:
     - Sub-Saharan Africa
   based_in: Kenya
+images:
+  icon: https://media.lumenloop.com/projects/pretium/favicon.png
+  logo: https://media.lumenloop.com/projects/pretium/logo.png
 scf:
   awarded_round:
     - 26

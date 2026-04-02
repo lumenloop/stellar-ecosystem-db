@@ -3,7 +3,6 @@ other_names:
   - Storehouse Gold to Stellar
 parent: null
 description: Storehouse is a redeemable token platform giving access to individuals around the world to the protection and stability of gold.
-images: null
 links:
   website:
     - storehouse.gold
@@ -26,6 +25,7 @@ attributes:
   operating_region:
     - Global
   based_in: United States
+images: null
 scf:
   awarded_round:
     - 26

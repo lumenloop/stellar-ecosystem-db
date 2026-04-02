@@ -3,10 +3,6 @@ other_names:
   - 'RAMM: Global Retail Commerce'
 parent: null
 description: A novel DEX/AMM where brands sell direct to consumers w/out the high selling fees of Amazon/eBay, while keeping all customer data.
-images:
-  icon: https://media.lumenloop.xyz/projects/ramm/apple_touch.png
-  logo: https://media.lumenloop.xyz/projects/ramm/logo.png
-  og_image: https://media.lumenloop.xyz/projects/ramm/og.png
 links:
   website:
     - ramm.ai
@@ -33,6 +29,10 @@ attributes:
   operating_region:
     - Global
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/ramm/apple_touch.png
+  logo: https://media.lumenloop.com/projects/ramm/logo.png
+  og_image: https://media.lumenloop.com/projects/ramm/og.png
 scf:
   awarded_round:
     - 22

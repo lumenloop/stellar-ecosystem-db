@@ -2,11 +2,6 @@ title: Stellarport
 other_names: null
 parent: null
 description: Stellarport is a non-custodial wallet, decentralized exchange (DEX), and anchor for the Stellar network, enabling secure storage, trading, and fiat-to-crypto integration for digital assets.
-images:
-  icon: https://media.lumenloop.xyz/projects/stellarport/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/stellarport/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/stellarport/logo.png
-  og_image: https://media.lumenloop.xyz/projects/stellarport/og.png
 links:
   website:
     - stellarport.io
@@ -32,6 +27,11 @@ attributes:
   operating_region:
     - Korea
   based_in: Korea
+images:
+  icon: https://media.lumenloop.com/projects/stellarport/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/stellarport/github_avatar.png
+  logo: https://media.lumenloop.com/projects/stellarport/logo.png
+  og_image: https://media.lumenloop.com/projects/stellarport/og.png
 scf:
   awarded_round:
     - 2

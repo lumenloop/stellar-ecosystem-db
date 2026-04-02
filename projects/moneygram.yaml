@@ -2,7 +2,6 @@ title: Moneygram
 other_names: null
 parent: null
 description: MoneyGram is a global leader in cross-border P2P payments and money transfers, operating in over 200 countries and territories. Through its partnership with the Stellar Development Foundation, MoneyGram has integrated blockchain technology to enable seamless cash-to-crypto and crypto-to-cash conversions, enhancing financial access and inclusion worldwide.
-images: null
 links:
   website:
     - moneygram.com
@@ -32,6 +31,7 @@ attributes:
   operating_region:
     - Global
   based_in: United States
+images: null
 mainnet:
   audits:
     - name: Auditing Report for Soroban Stellar Soroban Core V2

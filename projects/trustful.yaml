@@ -2,8 +2,6 @@ title: Trustful
 other_names: null
 parent: null
 description: A reputation system using Stellar badges and on-chain data that prioritizes fair cross-community collaboration over wealth.
-images:
-  logo: https://media.lumenloop.xyz/projects/trustful/logo.svg
 links:
   website:
     - trustful-stellar.vercel.app
@@ -26,6 +24,8 @@ attributes:
   operating_region:
     - Latin America & Caribbean
   based_in: Brazil
+images:
+  logo: https://media.lumenloop.com/projects/trustful/logo.svg
 scf:
   awarded_round:
     - 27

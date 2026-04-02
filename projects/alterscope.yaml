@@ -2,11 +2,6 @@ title: Alterscope
 other_names: null
 parent: null
 description: Alterscope develops the community-driven platform unifying real-time risk processing and monitoring capabilities with zk-proofs to unlock verifiable liquidity management for protocol foundations, professional investors, and retail users.
-images:
-  icon: https://media.lumenloop.xyz/projects/alterscope/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/alterscope/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/alterscope/logo.webp
-  og_image: https://media.lumenloop.xyz/projects/alterscope/og.webp
 links:
   website:
     - alterscope.org
@@ -43,6 +38,11 @@ attributes:
   operating_region:
     - Europe & Central Asia
   based_in: Germany
+images:
+  icon: https://media.lumenloop.com/projects/alterscope/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/alterscope/github_avatar.png
+  logo: https://media.lumenloop.com/projects/alterscope/logo.webp
+  og_image: https://media.lumenloop.com/projects/alterscope/og.webp
 scf:
   awarded_round:
     - 24

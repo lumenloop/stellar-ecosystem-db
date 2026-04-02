@@ -2,8 +2,6 @@ title: Source of Tales
 other_names: null
 parent: null
 description: Own your virtual self in a friendly retro world.
-images:
-  icon: https://media.lumenloop.xyz/projects/source-of-tales/favicon.png
 links:
   website:
     - sourceoftales.org/stellar
@@ -32,6 +30,8 @@ attributes:
   operating_region:
     - Global
   based_in: Germany
+images:
+  icon: https://media.lumenloop.com/projects/source-of-tales/favicon.png
 scf:
   awarded_round:
     - 10

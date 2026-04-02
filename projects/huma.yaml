@@ -2,8 +2,6 @@ title: Huma
 other_names: null
 parent: null
 description: Huma Finance is the first Payment Financing (PayFi) network, designed to provide instant liquidity solutions for global payments by leveraging blockchain technology.
-images:
-  icon: https://media.lumenloop.xyz/projects/huma/apple_touch.png
 links:
   website:
     - huma.finance
@@ -34,6 +32,8 @@ attributes:
   operating_region:
     - United States
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/huma/apple_touch.png
 scf:
   awarded_round:
     - 27

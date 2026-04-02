@@ -3,9 +3,6 @@ other_names:
   - Calimero Network
 parent: null
 description: Calimero Network is an innovative framework for building Self-Sovereign Application protocols and private data sharing.
-images:
-  icon: https://media.lumenloop.xyz/projects/calimero/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/calimero/github_avatar.png
 links:
   website:
     - calimero.network
@@ -36,6 +33,9 @@ attributes:
   operating_region:
     - Croatia
   based_in: Croatia
+images:
+  icon: https://media.lumenloop.com/projects/calimero/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/calimero/github_avatar.png
 scf:
   awarded_round:
     - 29

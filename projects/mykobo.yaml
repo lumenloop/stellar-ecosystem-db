@@ -2,9 +2,6 @@ title: MYKOBO
 other_names: null
 parent: null
 description: MYKOBO is a financial platform that facilitates seamless Euro transactions through EURC, a Euro-backed stablecoin issued by Circle, enabling individuals and businesses to deposit, withdraw, and swap EURC for other supported currencies like XLM and USDC.
-images:
-  icon: https://media.lumenloop.xyz/projects/mykobo/favicon.png
-  logo: https://media.lumenloop.xyz/projects/mykobo/logo.png
 links:
   website:
     - mykobo.co
@@ -31,6 +28,9 @@ attributes:
   operating_region:
     - Global
   based_in: Poland
+images:
+  icon: https://media.lumenloop.com/projects/mykobo/favicon.png
+  logo: https://media.lumenloop.com/projects/mykobo/logo.png
 scf:
   awarded_round:
     - 16

@@ -3,10 +3,6 @@ other_names:
   - Decaf Pay
 parent: null
 description: Decaf is a non-custodial wallet operating on the Solana and Stellar blockchains, designed to facilitate seamless transitions between fiat and cryptocurrency across nearly 200 countries. It offers features such as global onramps and offramps, multi-currency support, currency conversion, and investment opportunities in tokenized government bonds.
-images:
-  avatar: https://media.lumenloop.xyz/projects/decaf/github_avatar.jpg
-  logo: https://media.lumenloop.xyz/projects/decaf/logo.png
-  og_image: https://media.lumenloop.xyz/projects/decaf/og.jpg
 links:
   website:
     - decaf.so
@@ -41,6 +37,10 @@ attributes:
   operating_region:
     - Mexico
   based_in: Mexico
+images:
+  avatar: https://media.lumenloop.com/projects/decaf/github_avatar.jpg
+  logo: https://media.lumenloop.com/projects/decaf/logo.png
+  og_image: https://media.lumenloop.com/projects/decaf/og.jpg
 scf:
   awarded_round:
     - 17

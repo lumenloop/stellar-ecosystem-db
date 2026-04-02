@@ -3,10 +3,6 @@ other_names:
   - Infrastructure Support Liquify
 parent: null
 description: Provide Stellar & Soroban with long-term public RPC endpoints and archival support.
-images:
-  icon: https://media.lumenloop.xyz/projects/liquify/favicon.svg
-  avatar: https://media.lumenloop.xyz/projects/liquify/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/liquify/logo.svg
 links:
   website:
     - liquify.com
@@ -35,6 +31,10 @@ attributes:
   operating_region:
     - United Kingdom
   based_in: United Kingdom
+images:
+  icon: https://media.lumenloop.com/projects/liquify/favicon.svg
+  avatar: https://media.lumenloop.com/projects/liquify/github_avatar.png
+  logo: https://media.lumenloop.com/projects/liquify/logo.svg
 scf:
   awarded_round:
     - 27

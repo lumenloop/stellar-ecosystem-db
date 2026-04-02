@@ -2,10 +2,6 @@ title: Alula
 other_names: null
 parent: null
 description: Alula is a lending protocol with looping functionality on Stellar. It relies on the network's low-cost transactions and efficient Soroban platform to deliver best-in-class service to its users, diversifying the DeFi ecosystem.
-images:
-  icon: https://media.lumenloop.xyz/projects/alula/favicon.svg
-  logo: https://media.lumenloop.xyz/projects/alula/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/alula/og.png
 links:
   website:
     - alula.finance
@@ -31,6 +27,10 @@ attributes:
   operating_region:
     - Global
   based_in: Switzerland
+images:
+  icon: https://media.lumenloop.com/projects/alula/favicon.svg
+  logo: https://media.lumenloop.com/projects/alula/logo.svg
+  og_image: https://media.lumenloop.com/projects/alula/og.png
 scf:
   awarded_round:
     - 34

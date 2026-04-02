@@ -2,9 +2,6 @@ title: OrbitCDP
 other_names: null
 parent: null
 description: Harness Stellar's potential; collateralize with ease at OrbitCDP.
-images:
-  icon: https://media.lumenloop.xyz/projects/orbitcdp/apple_touch.svg
-  og_image: https://media.lumenloop.xyz/projects/orbitcdp/og.png
 links:
   website:
     - orbitcdp.finance
@@ -32,6 +29,9 @@ attributes:
   operating_region:
     - Global
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/orbitcdp/apple_touch.svg
+  og_image: https://media.lumenloop.com/projects/orbitcdp/og.png
 scf:
   awarded_round:
     - 21

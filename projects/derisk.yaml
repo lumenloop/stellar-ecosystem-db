@@ -2,7 +2,6 @@ title: DeRisk
 other_names: null
 parent: null
 description: DeRisk is a risk monitoring platform that serves as an “early warning” mechanism to detect risky situations for lending protocols.
-images: null
 links:
   website:
     - derisk.carmine.finance
@@ -27,6 +26,7 @@ attributes:
   operating_region:
     - Global
   based_in: null
+images: null
 scf:
   awarded_round:
     - 20

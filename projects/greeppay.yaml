@@ -3,11 +3,6 @@ other_names:
   - Greep POS/ Greep pay
 parent: null
 description: A stablecoin-powered POS that enables merchants to accept African currencies seamlessly, settle instantly, and grow globally.
-images:
-  icon: https://media.lumenloop.xyz/projects/greeppay/favicon.ico
-  avatar: https://media.lumenloop.xyz/projects/greeppay/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/greeppay/logo.png
-  og_image: https://media.lumenloop.xyz/projects/greeppay/og.webp
 links:
   website:
     - pay.greep.io
@@ -37,6 +32,11 @@ attributes:
   operating_region:
     - North America (without Mexico)
   based_in: Cyprus
+images:
+  icon: https://media.lumenloop.com/projects/greeppay/favicon.ico
+  avatar: https://media.lumenloop.com/projects/greeppay/github_avatar.png
+  logo: https://media.lumenloop.com/projects/greeppay/logo.png
+  og_image: https://media.lumenloop.com/projects/greeppay/og.webp
 scf:
   awarded_round:
     - 34

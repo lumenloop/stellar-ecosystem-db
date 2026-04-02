@@ -3,11 +3,6 @@ other_names:
   - Anchor Transparency Node
 parent: null
 description: 'Enhancing Stellar''s Anchors with the T Node: Secure, verifiable, and transparent off-chain Payment Rails data verified on-chain.'
-images:
-  icon: https://media.lumenloop.xyz/projects/usher/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/usher/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/usher/logo.png
-  og_image: https://media.lumenloop.xyz/projects/usher/og.jpg
 links:
   website:
     - usher.so
@@ -38,6 +33,11 @@ attributes:
   operating_region:
     - United States
   based_in: Australia
+images:
+  icon: https://media.lumenloop.com/projects/usher/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/usher/github_avatar.png
+  logo: https://media.lumenloop.com/projects/usher/logo.png
+  og_image: https://media.lumenloop.com/projects/usher/og.jpg
 scf:
   awarded_round:
     - 22

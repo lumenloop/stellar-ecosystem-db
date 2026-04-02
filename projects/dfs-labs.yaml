@@ -3,7 +3,6 @@ other_names:
   - Stellar Surge
 parent: null
 description: Stellar Surge seeks to build a community of engaged African engineers and startups innovating on Stellar and Soroban.
-images: null
 links:
   website:
     - dfslab.net
@@ -30,6 +29,7 @@ attributes:
   operating_region:
     - France
   based_in: Nigeria
+images: null
 scf:
   awarded_round:
     - 24

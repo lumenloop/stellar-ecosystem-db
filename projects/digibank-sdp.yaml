@@ -2,9 +2,6 @@ title: Digibank | SDP
 other_names: null
 parent: null
 description: Digital banking platform integrating Stellar Disbursement Platform (SDP) for efficient bulk payment distribution in emerging markets.
-images:
-  icon: https://media.lumenloop.xyz/projects/digibank-sdp/favicon.png
-  logo: https://media.lumenloop.xyz/projects/digibank-sdp/logo.png
 links:
   website:
     - digibankar.com
@@ -37,6 +34,9 @@ attributes:
     - Middle East & North Africa
     - Sub-Saharan Africa
   based_in: Turkey
+images:
+  icon: https://media.lumenloop.com/projects/digibank-sdp/favicon.png
+  logo: https://media.lumenloop.com/projects/digibank-sdp/logo.png
 scf:
   awarded_round:
     - 35

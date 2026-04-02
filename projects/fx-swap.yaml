@@ -3,7 +3,6 @@ other_names:
   - FX Swap by Hedgehog
 parent: null
 description: An efficient and alternative way of foreign currency borrowing or investing.
-images: null
 links:
   website:
     - hedgeeffective.com
@@ -26,6 +25,7 @@ attributes:
   operating_region:
     - Global
   based_in: null
+images: null
 scf:
   awarded_round:
     - 21

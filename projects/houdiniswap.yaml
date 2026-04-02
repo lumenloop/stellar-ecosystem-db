@@ -2,10 +2,6 @@ title: Houdiniswap
 other_names: null
 parent: null
 description: Privacy-focused crypto swap aggregator supporting Stellar, enabling cross-chain token exchanges without KYC or tracking.
-images:
-  icon: https://media.lumenloop.xyz/projects/houdiniswap/apple_touch.png
-  logo: https://media.lumenloop.xyz/projects/houdiniswap/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/houdiniswap/og.jpg
 links:
   website:
     - houdiniswap.com
@@ -36,6 +32,10 @@ attributes:
     - North America (without Mexico)
     - Latin America & Caribbean
   based_in: Canada
+images:
+  icon: https://media.lumenloop.com/projects/houdiniswap/apple_touch.png
+  logo: https://media.lumenloop.com/projects/houdiniswap/logo.svg
+  og_image: https://media.lumenloop.com/projects/houdiniswap/og.jpg
 scf:
   awarded_round:
     - 40

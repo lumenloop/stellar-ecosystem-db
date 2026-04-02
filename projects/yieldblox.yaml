@@ -3,10 +3,6 @@ other_names:
   - OptionBlox & YieldBlox
 parent: Script3
 description: YieldBlox is a decentralized, DAO-managed money market protocol on the Stellar Network, utilizing the Blend Protocol and Soroban Governor to facilitate lending and borrowing of digital assets.
-images:
-  icon: https://media.lumenloop.xyz/projects/yieldblox/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/yieldblox/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/yieldblox/logo.svg
 links:
   website:
     - yieldblox.finance
@@ -35,6 +31,10 @@ attributes:
   operating_region:
     - United States
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/yieldblox/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/yieldblox/github_avatar.png
+  logo: https://media.lumenloop.com/projects/yieldblox/logo.svg
 scf:
   awarded_round:
     - 7

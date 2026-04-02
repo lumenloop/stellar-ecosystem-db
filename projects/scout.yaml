@@ -2,9 +2,6 @@ title: Scout
 other_names: null
 parent: null
 description: CoinFabrik is a blockchain security and development company that has developed Scout, an open-source tool designed to assist Soroban smart contract developers and auditors in detecting common security issues and deviations from best practices.
-images:
-  icon: https://media.lumenloop.xyz/projects/scout/apple_touch.webp
-  logo: https://media.lumenloop.xyz/projects/scout/logo.svg
 links:
   website:
     - coinfabrik.com
@@ -41,6 +38,9 @@ attributes:
   operating_region:
     - Argentina
   based_in: Argentina
+images:
+  icon: https://media.lumenloop.com/projects/scout/apple_touch.webp
+  logo: https://media.lumenloop.com/projects/scout/logo.svg
 scf:
   awarded_round:
     - 20

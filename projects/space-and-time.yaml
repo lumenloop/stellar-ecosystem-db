@@ -3,11 +3,6 @@ other_names:
   - SxT
 parent: null
 description: Verifiable data infrastructure securing onchain finance with zero-knowledge proofs for smart contracts and applications.
-images:
-  icon: https://media.lumenloop.xyz/projects/space-and-time/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/space-and-time/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/space-and-time/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/space-and-time/og.png
 links:
   website:
     - spaceandtime.io
@@ -38,6 +33,11 @@ attributes:
   operating_region:
     - Global
   based_in: null
+images:
+  icon: https://media.lumenloop.com/projects/space-and-time/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/space-and-time/github_avatar.png
+  logo: https://media.lumenloop.com/projects/space-and-time/logo.svg
+  og_image: https://media.lumenloop.com/projects/space-and-time/og.png
 mainnet:
   audits: []
   tokens: []

@@ -3,9 +3,6 @@ other_names:
   - 'Arculus x Stellar: Payments With Soroban'
 parent: null
 description: Arculus enables stablecoin or token holders on Stellar to pay at any Visa/MasterCard merchant, directly from self-custody wallets, utilizing Soroban smart-contracts.
-images:
-  icon: https://media.lumenloop.xyz/projects/arculus/favicon.png
-  og_image: https://media.lumenloop.xyz/projects/arculus/og.png
 links:
   website:
     - getarculus.com
@@ -38,6 +35,9 @@ attributes:
   operating_region:
     - United States
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/arculus/favicon.png
+  og_image: https://media.lumenloop.com/projects/arculus/og.png
 scf:
   awarded_round:
     - 30

@@ -2,10 +2,6 @@ title: Crossmint
 other_names: null
 parent: null
 description: Infrastructure platform enabling companies and AI agents to integrate stablecoin wallets, payments, and tokenization tools.
-images:
-  icon: https://media.lumenloop.xyz/projects/crossmint/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/crossmint/github_avatar.png
-  og_image: https://media.lumenloop.xyz/projects/crossmint/og.png
 links:
   website:
     - crossmint.com
@@ -33,6 +29,10 @@ attributes:
   operating_region:
     - Global
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/crossmint/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/crossmint/github_avatar.png
+  og_image: https://media.lumenloop.com/projects/crossmint/og.png
 mainnet:
   audits:
     - name: Non-Custodial Signer Solution - Crossmint

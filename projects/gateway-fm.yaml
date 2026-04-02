@@ -2,11 +2,6 @@ title: Gateway.fm
 other_names: null
 parent: null
 description: Gateway.fm offers a free public RPC endpoint for Stellar's Soroban smart contract platform.
-images:
-  icon: https://media.lumenloop.xyz/projects/gateway-fm/favicon.ico
-  avatar: https://media.lumenloop.xyz/projects/gateway-fm/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/gateway-fm/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/gateway-fm/og.svg
 links:
   website:
     - gateway.fm
@@ -38,6 +33,11 @@ attributes:
   operating_region:
     - United States
   based_in: Netherlands
+images:
+  icon: https://media.lumenloop.com/projects/gateway-fm/favicon.ico
+  avatar: https://media.lumenloop.com/projects/gateway-fm/github_avatar.png
+  logo: https://media.lumenloop.com/projects/gateway-fm/logo.svg
+  og_image: https://media.lumenloop.com/projects/gateway-fm/og.svg
 scf:
   awarded_round:
     - 16

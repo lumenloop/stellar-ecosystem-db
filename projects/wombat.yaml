@@ -3,10 +3,6 @@ other_names:
   - Wombat Exchange
 parent: null
 description: Wombat Exchange is a decentralized exchange enabling low-slippage swaps and single-sided liquidity pools for efficient capital use. It supports multichain operations and incentivizes user engagement through gamified features.
-images:
-  icon: https://media.lumenloop.xyz/projects/wombat/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/wombat/github_avatar.jpg
-  logo: https://media.lumenloop.xyz/projects/wombat/logo.svg
 links:
   website:
     - wombat.exchange
@@ -36,6 +32,10 @@ attributes:
   operating_region:
     - East Asia & Pacific
   based_in: Hong Kong
+images:
+  icon: https://media.lumenloop.com/projects/wombat/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/wombat/github_avatar.jpg
+  logo: https://media.lumenloop.com/projects/wombat/logo.svg
 scf:
   awarded_round:
     - 18

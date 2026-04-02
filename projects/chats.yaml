@@ -3,9 +3,6 @@ other_names:
   - Convexity Humanitarian Aid Transfer Solution (CHATS)
 parent: null
 description: CHATS offers blockchain-based cash and voucher solutions to improve programs by MercyCorps, UNICEF  and other iNGOs partners and donors to ensure transparent, secure, and efficient aid distribution.
-images:
-  icon: https://media.lumenloop.xyz/projects/chats/favicon.png
-  logo: https://media.lumenloop.xyz/projects/chats/logo.png
 links:
   website:
     - chats.cash
@@ -38,6 +35,9 @@ attributes:
   operating_region:
     - Sub-Saharan Africa
   based_in: Nigeria
+images:
+  icon: https://media.lumenloop.com/projects/chats/favicon.png
+  logo: https://media.lumenloop.com/projects/chats/logo.png
 scf:
   awarded_round:
     - 30

@@ -3,10 +3,6 @@ other_names:
   - 'Juntta: Web3 Crowdfunding for LATAM'
 parent: null
 description: Transparent crowdfunding platform on Stellar with milestone-based fund release, enabling community-backed project financing with on-chain accountability.
-images:
-  icon: https://media.lumenloop.xyz/projects/juntta/favicon.png
-  logo: https://media.lumenloop.xyz/projects/juntta/logo.png
-  og_image: https://media.lumenloop.xyz/projects/juntta/og.png
 links:
   website:
     - juntta.org
@@ -34,6 +30,10 @@ attributes:
   operating_region:
     - Latin America & Caribbean
   based_in: Peru
+images:
+  icon: https://media.lumenloop.com/projects/juntta/favicon.png
+  logo: https://media.lumenloop.com/projects/juntta/logo.png
+  og_image: https://media.lumenloop.com/projects/juntta/og.png
 scf:
   awarded_round:
     - 40

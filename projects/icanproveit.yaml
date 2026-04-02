@@ -3,7 +3,6 @@ other_names:
   - ICanProveIt -Proof-of-Learning
 parent: null
 description: An AI exam generation platform for the creation of universally respected, academic-standard proof-of-learning certificates.
-images: null
 links:
   website:
     - tims-personal-organization.gitbook.io/icanproveit
@@ -28,6 +27,7 @@ attributes:
   operating_region:
     - Global
   based_in: Estonia
+images: null
 scf:
   awarded_round:
     - 26

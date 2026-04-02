@@ -2,8 +2,6 @@ title: Basement
 other_names: null
 parent: null
 description: Basement is the easiest way to access onchain data from Soroban. Our SQL and GraphQL API give you access to data such as events and transfers.
-images:
-  avatar: https://media.lumenloop.xyz/projects/basement/github_avatar.png
 links:
   website:
     - basement.dev
@@ -31,6 +29,8 @@ attributes:
   operating_region:
     - Netherlands
   based_in: Netherlands
+images:
+  avatar: https://media.lumenloop.com/projects/basement/github_avatar.png
 scf:
   awarded_round:
     - 17

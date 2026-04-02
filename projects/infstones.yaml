@@ -2,8 +2,6 @@ title: InfStones
 other_names: null
 parent: null
 description: Provide Horizon and Soroban API developer access via an auto-scaling cluster with a freemium endpoint and support structure.
-images:
-  avatar: https://media.lumenloop.xyz/projects/infstones/github_avatar.png
 links:
   website:
     - infstones.com
@@ -34,6 +32,8 @@ attributes:
   operating_region:
     - United States
   based_in: United States
+images:
+  avatar: https://media.lumenloop.com/projects/infstones/github_avatar.png
 scf:
   awarded_round:
     - 26

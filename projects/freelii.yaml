@@ -2,8 +2,6 @@ title: Freelii
 other_names: null
 parent: null
 description: Non-custodial Stellar wallet with built-in fiat on/off ramps, peer-to-peer payments, and savings features for everyday users.
-images:
-  avatar: https://media.lumenloop.xyz/projects/freelii/github_avatar.png
 links:
   website:
     - freelii.app
@@ -35,6 +33,8 @@ attributes:
   operating_region:
     - North America (without Mexico)
   based_in: Philippines
+images:
+  avatar: https://media.lumenloop.com/projects/freelii/github_avatar.png
 scf:
   awarded_round: []
   awarded_total: null

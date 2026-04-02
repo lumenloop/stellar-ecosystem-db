@@ -3,8 +3,6 @@ other_names:
   - Pluto Loans B2B
 parent: null
 description: 'Self-repaying loans: Spend your future yield today.'
-images:
-  avatar: https://media.lumenloop.xyz/projects/pluto-loans/github_avatar.png
 links:
   website:
     - plutoloans.com
@@ -32,6 +30,8 @@ attributes:
   operating_region:
     - Argentina
   based_in: Argentina
+images:
+  avatar: https://media.lumenloop.com/projects/pluto-loans/github_avatar.png
 scf:
   awarded_round:
     - 10

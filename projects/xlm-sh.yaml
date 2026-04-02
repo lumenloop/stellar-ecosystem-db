@@ -2,9 +2,6 @@ title: xlm.sh
 other_names: null
 parent: null
 description: xlm.sh is a gateway that enables access to decentralized websites hosted on Stellar and IPFS by appending ".sh" to their ".xlm" domain names.
-images:
-  icon: https://media.lumenloop.xyz/projects/xlm-sh/favicon.ico
-  logo: https://media.lumenloop.xyz/projects/xlm-sh/logo.png
 links:
   website:
     - xlm.sh
@@ -28,6 +25,9 @@ attributes:
   operating_region:
     - Global
   based_in: China
+images:
+  icon: https://media.lumenloop.com/projects/xlm-sh/favicon.ico
+  logo: https://media.lumenloop.com/projects/xlm-sh/logo.png
 scf:
   awarded_round:
     - 31

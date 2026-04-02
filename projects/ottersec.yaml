@@ -2,11 +2,6 @@ title: OtterSec
 other_names: null
 parent: null
 description: OtterSec is a blockchain security firm specializing in comprehensive audits to protect blockchain projects across multiple networks.
-images:
-  icon: https://media.lumenloop.xyz/projects/ottersec/favicon.svg
-  avatar: https://media.lumenloop.xyz/projects/ottersec/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/ottersec/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/ottersec/og.jpg
 links:
   website:
     - osec.io
@@ -36,6 +31,11 @@ attributes:
   operating_region:
     - United States
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/ottersec/favicon.svg
+  avatar: https://media.lumenloop.com/projects/ottersec/github_avatar.png
+  logo: https://media.lumenloop.com/projects/ottersec/logo.svg
+  og_image: https://media.lumenloop.com/projects/ottersec/og.jpg
 scf:
   awarded_round:
     - 18

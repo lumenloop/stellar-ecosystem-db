@@ -2,7 +2,6 @@ title: Dropzey
 other_names: null
 parent: null
 description: Decentralized Airdrop Hub on Stellar Network. Create, manage, and participate in airdrops, with transparency and efficiency.
-images: null
 links:
   website:
     - dropzey.com
@@ -28,6 +27,7 @@ attributes:
   operating_region:
     - Pakistan
   based_in: Pakistan
+images: null
 scf:
   awarded_round:
     - 23

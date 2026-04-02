@@ -3,7 +3,6 @@ other_names:
   - Every.finance
 parent: null
 description: Offers decentralized ETFs to help crypto investors on Stellar to optimize yields and manage risk with automated portfolio rebalancing and yield strategies.
-images: null
 links:
   website:
     - every.finance
@@ -33,6 +32,7 @@ attributes:
   operating_region:
     - Europe & Central Asia
   based_in: France
+images: null
 scf:
   awarded_round:
     - 30

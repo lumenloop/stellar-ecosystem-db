@@ -2,8 +2,6 @@ title: Dobprotocol
 other_names: null
 parent: null
 description: Decentralized protocol automating Real World Asset revenue distribution, enabling transparent and programmable yield sharing on Stellar.
-images:
-  avatar: https://media.lumenloop.xyz/projects/dobprotocol/github_avatar.png
 links:
   website:
     - linktr.ee/dobprotocol
@@ -32,6 +30,8 @@ attributes:
     - North America (without Mexico)
     - Europe & Central Asia
   based_in: Chile
+images:
+  avatar: https://media.lumenloop.com/projects/dobprotocol/github_avatar.png
 scf:
   awarded_round:
     - 37

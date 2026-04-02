@@ -2,10 +2,6 @@ title: Cartwey
 other_names: null
 parent: null
 description: Cartwey is a Stellar-powered self-checkout solution for retailers and shoppers, enabling fast, secure, and contactless payments with credit cards, mobile wallets, and stablecoins.
-images:
-  icon: https://media.lumenloop.xyz/projects/cartwey/favicon.png
-  logo: https://media.lumenloop.xyz/projects/cartwey/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/cartwey/og.png
 links:
   website:
     - cartwey.com
@@ -37,6 +33,10 @@ attributes:
     - North America (without Mexico)
     - Sub-Saharan Africa
   based_in: Nigeria
+images:
+  icon: https://media.lumenloop.com/projects/cartwey/favicon.png
+  logo: https://media.lumenloop.com/projects/cartwey/logo.svg
+  og_image: https://media.lumenloop.com/projects/cartwey/og.png
 scf:
   awarded_round:
     - 38

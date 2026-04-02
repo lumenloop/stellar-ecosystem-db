@@ -2,7 +2,6 @@ title: SendIN
 other_names: null
 parent: null
 description: US to India money transfers made easy, cheap and lightning fast.
-images: null
 links:
   website:
     - github.com/sendin-org/sendin
@@ -32,6 +31,7 @@ attributes:
   operating_region:
     - East Asia & Pacific
   based_in: India
+images: null
 scf:
   awarded_round:
     - 29

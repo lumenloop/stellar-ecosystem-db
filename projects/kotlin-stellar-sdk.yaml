@@ -2,7 +2,6 @@ title: Kotlin Stellar SDK
 other_names: null
 parent: null
 description: Interact with Stellar using idiomatic Kotlin and share code across platforms.
-images: null
 links:
   website:
     - github.com/rahimklaber/stellar_kt
@@ -26,6 +25,7 @@ attributes:
   operating_region:
     - Global
   based_in: null
+images: null
 scf:
   awarded_round:
     - 9

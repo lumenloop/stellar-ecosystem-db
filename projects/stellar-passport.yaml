@@ -2,8 +2,6 @@ title: Stellar Passport
 other_names: null
 parent: null
 description: Stellar Passport transforms event attendance and community activity into meaningful, long-term engagement with the Stellar ecosystem. With a single QR scan at a booth, workshop, meetup, or online event, users create a passkey-secured wallet and identity in seconds. From there, they can move through curated challenges, workshops, or learning tracks that verify their participation and track their progress.
-images:
-  og_image: https://media.lumenloop.xyz/projects/stellar-passport/og.png
 links:
   website:
     - stellarpassport.xyz
@@ -31,6 +29,8 @@ attributes:
   operating_region:
     - United States
   based_in: United States
+images:
+  og_image: https://media.lumenloop.com/projects/stellar-passport/og.png
 scf:
   awarded_round:
     - 40

@@ -3,9 +3,6 @@ other_names:
   - Soroswap.Finance
 parent: PaltaLabs
 description: Open-source AMM protocol and AMM Aggregator with Ecosystem Interoperability for providing liquidity and trading Stellar Assets in Soroban.
-images:
-  avatar: https://media.lumenloop.xyz/projects/soroswap/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/soroswap/logo.svg
 links:
   website:
     - soroswap.finance
@@ -34,6 +31,9 @@ attributes:
   operating_region:
     - Global
   based_in: Chile
+images:
+  avatar: https://media.lumenloop.com/projects/soroswap/github_avatar.png
+  logo: https://media.lumenloop.com/projects/soroswap/logo.svg
 scf:
   awarded_round:
     - 15

@@ -2,9 +2,6 @@ title: tip me
 other_names: null
 parent: null
 description: Tip Me is a platform that allows consumers to directly tip workers behind their purchased goods, promoting transparency and fair compensation in global supply chains.
-images:
-  icon: https://media.lumenloop.xyz/projects/tip-me/apple_touch.ico
-  logo: https://media.lumenloop.xyz/projects/tip-me/logo.svg
 links:
   website:
     - tip-me.org
@@ -28,6 +25,9 @@ attributes:
   operating_region:
     - Global
   based_in: Germany
+images:
+  icon: https://media.lumenloop.com/projects/tip-me/apple_touch.ico
+  logo: https://media.lumenloop.com/projects/tip-me/logo.svg
 scf:
   awarded_round:
     - 9

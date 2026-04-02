@@ -2,10 +2,6 @@ title: LumosDAO
 other_names: null
 parent: null
 description: Decentralized Governance on Stellar Network. Create, manage, and participate in DAOs seamlessly, with transparency and efficiency.
-images:
-  icon: https://media.lumenloop.xyz/projects/lumosdao/apple_touch.png
-  logo: https://media.lumenloop.xyz/projects/lumosdao/logo.png
-  og_image: https://media.lumenloop.xyz/projects/lumosdao/og.png
 links:
   website:
     - lumoscore.com
@@ -31,6 +27,10 @@ attributes:
   operating_region:
     - Global
   based_in: Azerbaijan
+images:
+  icon: https://media.lumenloop.com/projects/lumosdao/apple_touch.png
+  logo: https://media.lumenloop.com/projects/lumosdao/logo.png
+  og_image: https://media.lumenloop.com/projects/lumosdao/og.png
 scf:
   awarded_round:
     - 21

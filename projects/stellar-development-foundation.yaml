@@ -3,10 +3,6 @@ other_names:
   - SDF
 parent: null
 description: The Stellar Development Foundation (SDF) is a non-profit organization that supports the development and growth of the Stellar network.
-images:
-  icon: https://media.lumenloop.xyz/projects/stellar-development-foundation/favicon.png
-  avatar: https://media.lumenloop.xyz/projects/stellar-development-foundation/github_avatar.png
-  og_image: https://media.lumenloop.xyz/projects/stellar-development-foundation/og.png
 links:
   website:
     - stellar.org
@@ -34,6 +30,10 @@ attributes:
   operating_region:
     - Global
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/stellar-development-foundation/favicon.png
+  avatar: https://media.lumenloop.com/projects/stellar-development-foundation/github_avatar.png
+  og_image: https://media.lumenloop.com/projects/stellar-development-foundation/og.png
 mainnet:
   audits:
     - name: Auditing Report for Soroban Stellar Soroban Core V2

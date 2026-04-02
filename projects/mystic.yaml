@@ -4,9 +4,6 @@ other_names:
   - Mystic Finance
 parent: null
 description: Mystic is building a lending market for RWAs, which lets borrowers take out stablecoins using their tokenized real-world assets.
-images:
-  logo: https://media.lumenloop.xyz/projects/mystic/logo.png
-  og_image: https://media.lumenloop.xyz/projects/mystic/og.png
 links:
   website:
     - mysticfinance.xyz
@@ -34,6 +31,9 @@ attributes:
   operating_region:
     - Nigeria
   based_in: Portugal
+images:
+  logo: https://media.lumenloop.com/projects/mystic/logo.png
+  og_image: https://media.lumenloop.com/projects/mystic/og.png
 scf:
   awarded_round:
     - 29

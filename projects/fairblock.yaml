@@ -3,10 +3,6 @@ other_names:
   - Confidential Transfers and Balances
 parent: null
 description: Confidential transaction infrastructure for Stellar, enabling compliant private transfers and sealed-bid auctions using threshold encryption.
-images:
-  icon: https://media.lumenloop.xyz/projects/fairblock/favicon.ico
-  avatar: https://media.lumenloop.xyz/projects/fairblock/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/fairblock/logo.svg
 links:
   website:
     - fairblock.network
@@ -34,6 +30,10 @@ attributes:
   operating_region:
     - North America (without Mexico)
   based_in: Canada
+images:
+  icon: https://media.lumenloop.com/projects/fairblock/favicon.ico
+  avatar: https://media.lumenloop.com/projects/fairblock/github_avatar.png
+  logo: https://media.lumenloop.com/projects/fairblock/logo.svg
 scf:
   awarded_round:
     - 40

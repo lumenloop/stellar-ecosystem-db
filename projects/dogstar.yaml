@@ -2,11 +2,6 @@ title: Dogstar
 other_names: null
 parent: null
 description: Dogstar is a DeFi play & learn platform that gamifies your crypto experience.
-images:
-  icon: https://media.lumenloop.xyz/projects/dogstar/favicon.png
-  avatar: https://media.lumenloop.xyz/projects/dogstar/github_avatar.jpg
-  logo: https://media.lumenloop.xyz/projects/dogstar/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/dogstar/og.jpg
 links:
   website:
     - dogstarcoin.com
@@ -33,6 +28,11 @@ attributes:
   operating_region:
     - Spain
   based_in: Spain
+images:
+  icon: https://media.lumenloop.com/projects/dogstar/favicon.png
+  avatar: https://media.lumenloop.com/projects/dogstar/github_avatar.jpg
+  logo: https://media.lumenloop.com/projects/dogstar/logo.svg
+  og_image: https://media.lumenloop.com/projects/dogstar/og.jpg
 scf:
   awarded_round:
     - 16

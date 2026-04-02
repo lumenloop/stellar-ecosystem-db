@@ -3,8 +3,6 @@ other_names:
   - Soroban DappRadar Integration
 parent: null
 description: DappRadar is a platform that provides comprehensive data and metrics for decentralized applications across multiple blockchains. The integration of Stellar into DappRadar enables the platform to track data from Stellar-based dapps.
-images:
-  avatar: https://media.lumenloop.xyz/projects/dappradar/github_avatar.png
 links:
   website:
     - dappradar.com
@@ -32,6 +30,8 @@ attributes:
   operating_region:
     - Malaysia
   based_in: Lithuania
+images:
+  avatar: https://media.lumenloop.com/projects/dappradar/github_avatar.png
 scf:
   awarded_round:
     - 27

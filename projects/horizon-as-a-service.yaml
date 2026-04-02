@@ -2,7 +2,6 @@ title: Horizon-as-a-Service
 other_names: null
 parent: null
 description: Whether you're looking for Soroban RPC nodes, or Horizon API Access, Obsrvr offers production ready, infrastructure to help you build on the Stellar network with a few clicks.
-images: null
 links:
   website:
     - withobsrvr.com
@@ -29,6 +28,7 @@ attributes:
   operating_region:
     - North America (without Mexico)
   based_in: United States
+images: null
 scf:
   awarded_round:
     - 11

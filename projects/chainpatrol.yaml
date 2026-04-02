@@ -2,11 +2,6 @@ title: ChainPatrol
 other_names: null
 parent: null
 description: Real-time Web3 security platform that detects, blocks, and takes down phishing sites and scam content targeting blockchain ecosystems including Stellar.
-images:
-  icon: https://media.lumenloop.xyz/projects/chainpatrol/favicon.svg
-  avatar: https://media.lumenloop.xyz/projects/chainpatrol/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/chainpatrol/logo.png
-  og_image: https://media.lumenloop.xyz/projects/chainpatrol/og.jpg
 links:
   website:
     - chainpatrol.com
@@ -36,6 +31,11 @@ attributes:
     - North America (without Mexico)
     - Latin America & Caribbean
   based_in: Canada
+images:
+  icon: https://media.lumenloop.com/projects/chainpatrol/favicon.svg
+  avatar: https://media.lumenloop.com/projects/chainpatrol/github_avatar.png
+  logo: https://media.lumenloop.com/projects/chainpatrol/logo.png
+  og_image: https://media.lumenloop.com/projects/chainpatrol/og.jpg
 scf:
   awarded_round:
     - 40

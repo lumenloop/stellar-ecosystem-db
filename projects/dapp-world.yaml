@@ -2,9 +2,6 @@ title: Dapp World
 other_names: null
 parent: null
 description: Comprehensive learning track on Stellar to help developers onboard and build cutting-edge dapps on Stellar.
-images:
-  icon: https://media.lumenloop.xyz/projects/dapp-world/favicon.ico
-  og_image: https://media.lumenloop.xyz/projects/dapp-world/og.png
 links:
   website:
     - dapp-world.com
@@ -32,6 +29,9 @@ attributes:
   operating_region:
     - India
   based_in: India
+images:
+  icon: https://media.lumenloop.com/projects/dapp-world/favicon.ico
+  og_image: https://media.lumenloop.com/projects/dapp-world/og.png
 scf:
   awarded_round:
     - 27

@@ -3,11 +3,6 @@ other_names:
   - Cede Labs
 parent: null
 description: Cede Labs streamlines liquidity flow between Centralized Exchanges (CEX) and Decentralized Finance, offering seamless connectivity with over 15 CEX APIs for asset management since 2021.
-images:
-  icon: https://media.lumenloop.xyz/projects/cede/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/cede/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/cede/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/cede/og.jpg
 links:
   website:
     - cede.store
@@ -34,6 +29,11 @@ attributes:
   operating_region:
     - Europe & Central Asia
   based_in: France
+images:
+  icon: https://media.lumenloop.com/projects/cede/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/cede/github_avatar.png
+  logo: https://media.lumenloop.com/projects/cede/logo.svg
+  og_image: https://media.lumenloop.com/projects/cede/og.jpg
 scf:
   awarded_round:
     - 31

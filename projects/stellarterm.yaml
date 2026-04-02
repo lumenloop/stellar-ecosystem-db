@@ -2,8 +2,6 @@ title: StellarTerm
 other_names: null
 parent: null
 description: StellarTerm is an open-source trading client for interacting with the Stellar DEX, enabling users to trade, send, and manage assets. It supports self-hosting for enhanced control and privacy while offering tools for trustlines, multisignatures, and wallet integration like Ledger.
-images:
-  avatar: https://media.lumenloop.xyz/projects/stellarterm/github_avatar.png
 links:
   website:
     - stellarterm.com
@@ -29,6 +27,8 @@ attributes:
   operating_region:
     - Indonesia
   based_in: Estonia
+images:
+  avatar: https://media.lumenloop.com/projects/stellarterm/github_avatar.png
 scf:
   awarded_round:
     - 3

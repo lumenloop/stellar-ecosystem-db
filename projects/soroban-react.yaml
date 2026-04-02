@@ -3,7 +3,6 @@ other_names:
   - '@soroban-react and Boilerplate'
 parent: null
 description: 'Full-Stack DApp Boilerplate for Soroban Contracts: @soroban-react support, standards, tutorials, and open-source contributions.'
-images: null
 links:
   website:
     - github.com/paltalabs/soroban-react
@@ -27,6 +26,7 @@ attributes:
   operating_region:
     - Global
   based_in: Chile
+images: null
 scf:
   awarded_round:
     - 20

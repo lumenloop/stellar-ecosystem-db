@@ -3,11 +3,6 @@ other_names:
   - Gearup - Marketplace
 parent: null
 description: GearUp is a Stellar-based P2P marketplace for African creators to rent, buy, sell gear, studio spaces, courses, and find gig opportunities.
-images:
-  icon: https://media.lumenloop.xyz/projects/gearup/favicon.png
-  avatar: https://media.lumenloop.xyz/projects/gearup/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/gearup/logo.png
-  og_image: https://media.lumenloop.xyz/projects/gearup/og.png
 links:
   website:
     - gearup.market
@@ -42,6 +37,11 @@ attributes:
     - Sub-Saharan Africa
     - Middle East & North Africa
   based_in: Nigeria
+images:
+  icon: https://media.lumenloop.com/projects/gearup/favicon.png
+  avatar: https://media.lumenloop.com/projects/gearup/github_avatar.png
+  logo: https://media.lumenloop.com/projects/gearup/logo.png
+  og_image: https://media.lumenloop.com/projects/gearup/og.png
 scf:
   awarded_round:
     - 28

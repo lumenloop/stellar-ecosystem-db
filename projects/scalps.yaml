@@ -2,7 +2,6 @@ title: Scalps
 other_names: null
 parent: null
 description: Scalps is a social payments network offering merchant discovery, payments, social interactions, and an on-chain loyalty system.
-images: null
 links:
   website:
     - scalps.co
@@ -33,6 +32,7 @@ attributes:
   operating_region:
     - Georgia
   based_in: South Africa
+images: null
 scf:
   awarded_round:
     - 18

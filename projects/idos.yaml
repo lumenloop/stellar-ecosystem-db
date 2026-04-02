@@ -3,10 +3,6 @@ other_names:
   - Identity Operating System (idOS)
 parent: null
 description: The idOS is a decentralized identity and storage layer for user data. The idOS enables KYC re-usability in a compliant way.
-images:
-  icon: https://media.lumenloop.xyz/projects/idos/apple_touch.jpg
-  avatar: https://media.lumenloop.xyz/projects/idos/github_avatar.png
-  og_image: https://media.lumenloop.xyz/projects/idos/og.jpg
 links:
   website:
     - idos.network
@@ -45,6 +41,10 @@ attributes:
     - South Asia
     - Latin America & Caribbean
   based_in: Portugal
+images:
+  icon: https://media.lumenloop.com/projects/idos/apple_touch.jpg
+  avatar: https://media.lumenloop.com/projects/idos/github_avatar.png
+  og_image: https://media.lumenloop.com/projects/idos/og.jpg
 scf:
   awarded_round:
     - 31

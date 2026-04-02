@@ -2,9 +2,6 @@ title: Skyhitz
 other_names: null
 parent: null
 description: Skyhitz is at the forefront of the evolving music industry, leveraging blockchain technology to revolutionize how music is created, shared, and monetized.
-images:
-  icon: https://media.lumenloop.xyz/projects/skyhitz/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/skyhitz/github_avatar.png
 links:
   website:
     - skyhitz.io
@@ -34,6 +31,9 @@ attributes:
   operating_region:
     - Colombia
   based_in: Colombia
+images:
+  icon: https://media.lumenloop.com/projects/skyhitz/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/skyhitz/github_avatar.png
 scf:
   awarded_round:
     - 9

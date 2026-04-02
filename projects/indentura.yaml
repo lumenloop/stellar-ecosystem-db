@@ -2,7 +2,6 @@ title: Indentura
 other_names: null
 parent: null
 description: On-chain credit infrastructure on Stellar, rebuilding trade credit and receivables financing with programmable, transparent settlement.
-images: null
 links:
   website:
     - thawdigital.com
@@ -29,6 +28,7 @@ attributes:
   operating_region:
     - North America (without Mexico)
   based_in: United States
+images: null
 scf:
   awarded_round:
     - 37

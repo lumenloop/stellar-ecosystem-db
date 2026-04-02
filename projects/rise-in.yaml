@@ -2,8 +2,6 @@ title: Rise In
 other_names: null
 parent: null
 description: Rise In specialize in curating and delivering high impact developer education courses, blending online learning with IRL workshops.
-images:
-  og_image: https://media.lumenloop.xyz/projects/rise-in/og.png
 links:
   website:
     - risein.com
@@ -34,6 +32,8 @@ attributes:
   operating_region:
     - Global
   based_in: India
+images:
+  og_image: https://media.lumenloop.com/projects/rise-in/og.png
 scf:
   awarded_round:
     - 23

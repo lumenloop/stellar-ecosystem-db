@@ -3,11 +3,6 @@ other_names:
   - DIA Oracles
 parent: null
 description: Elevate functionality and innovation across Soroban’s smart contract ecosystem with DIA’s robust, open-source cross-chain oracles.
-images:
-  icon: https://media.lumenloop.xyz/projects/dia/favicon.png
-  avatar: https://media.lumenloop.xyz/projects/dia/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/dia/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/dia/og.png
 links:
   website:
     - diadata.org
@@ -39,6 +34,11 @@ attributes:
   operating_region:
     - Germany
   based_in: Germany
+images:
+  icon: https://media.lumenloop.com/projects/dia/favicon.png
+  avatar: https://media.lumenloop.com/projects/dia/github_avatar.png
+  logo: https://media.lumenloop.com/projects/dia/logo.svg
+  og_image: https://media.lumenloop.com/projects/dia/og.png
 scf:
   awarded_round:
     - 20

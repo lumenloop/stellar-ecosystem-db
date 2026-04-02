@@ -3,9 +3,6 @@ other_names:
   - 'Coins.ph: Stellar Remittances'
 parent: null
 description: Coins.ph is a regulated e-wallet & crypto exchange offering cross-border payments using Stellar-native stablecoins for low fees.
-images:
-  icon: https://media.lumenloop.xyz/projects/coins-ph/favicon.ico
-  og_image: https://media.lumenloop.xyz/projects/coins-ph/og.jpg
 links:
   website:
     - coins.ph
@@ -38,6 +35,9 @@ attributes:
   operating_region:
     - Philippines
   based_in: Philippines
+images:
+  icon: https://media.lumenloop.com/projects/coins-ph/favicon.ico
+  og_image: https://media.lumenloop.com/projects/coins-ph/og.jpg
 scf:
   awarded_round:
     - 22

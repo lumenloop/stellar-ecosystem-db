@@ -3,8 +3,6 @@ other_names:
   - 'Transfuse: Multichain Asset Bridge'
 parent: null
 description: Transfuse offers a secure bridge for Stellar users to swap unwrapped assets with Ethereum using non-custodial wallets via Soroban smart contracts. Stellar makes true decentralized cross-chain stable asset bridging a possibility. One that is secure, fast, reliable and trustless.
-images:
-  avatar: https://media.lumenloop.xyz/projects/transfuse/github_avatar.jpg
 links:
   website:
     - transfuse.network
@@ -30,6 +28,8 @@ attributes:
   operating_region:
     - Global
   based_in: United States
+images:
+  avatar: https://media.lumenloop.com/projects/transfuse/github_avatar.jpg
 scf:
   awarded_round:
     - 20

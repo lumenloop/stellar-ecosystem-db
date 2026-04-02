@@ -2,11 +2,6 @@ title: Bevor
 other_names: null
 parent: null
 description: AI co-pilot for smart contract security, providing automated vulnerability detection, risk modeling, and audit delivery across development and DevOps lifecycles, with Rust/Soroban support.
-images:
-  icon: https://media.lumenloop.xyz/projects/bevor/favicon.png
-  avatar: https://media.lumenloop.xyz/projects/bevor/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/bevor/logo.png
-  og_image: https://media.lumenloop.xyz/projects/bevor/og.png
 links:
   website:
     - bevor.io
@@ -32,6 +27,11 @@ attributes:
   operating_region:
     - United States
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/bevor/favicon.png
+  avatar: https://media.lumenloop.com/projects/bevor/github_avatar.png
+  logo: https://media.lumenloop.com/projects/bevor/logo.png
+  og_image: https://media.lumenloop.com/projects/bevor/og.png
 scf:
   awarded_round:
     - 40

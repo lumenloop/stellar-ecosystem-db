@@ -2,7 +2,6 @@ title: FROST Implementation
 other_names: null
 parent: null
 description: Proof of Concept implementation of FROST, a threshold signature scheme based on the Schnorr signature, using the WebRTC protocol.
-images: null
 links:
   website: []
   blog: []
@@ -27,6 +26,7 @@ attributes:
   operating_region:
     - Global
   based_in: Portugal
+images: null
 scf:
   awarded_round:
     - 25

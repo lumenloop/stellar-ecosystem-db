@@ -2,9 +2,6 @@ title: EquitX
 other_names: null
 parent: null
 description: A decentralized finance platform that enables users to mint, trade, and stake "xAssets," which are synthetic assets mirroring the value of real-world stocks
-images:
-  icon: https://media.lumenloop.xyz/projects/equitx/favicon.png
-  logo: https://media.lumenloop.xyz/projects/equitx/logo.png
 links:
   website:
     - equitx.com
@@ -32,6 +29,9 @@ attributes:
   operating_region:
     - Europe & Central Asia
   based_in: France
+images:
+  icon: https://media.lumenloop.com/projects/equitx/favicon.png
+  logo: https://media.lumenloop.com/projects/equitx/logo.png
 scf:
   awarded_round:
     - 26

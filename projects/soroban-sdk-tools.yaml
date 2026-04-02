@@ -2,7 +2,6 @@ title: Soroban SDK Tools
 other_names: null
 parent: null
 description: Rust crate extending the Soroban SDK with additional developer utilities for testing, debugging, and building smart contracts.
-images: null
 links:
   website:
     - github.com/blaineheffron/soroban-sdk-tools
@@ -27,6 +26,7 @@ attributes:
   operating_region:
     - North America (without Mexico)
   based_in: United States
+images: null
 scf:
   awarded_round:
     - 39

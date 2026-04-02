@@ -2,10 +2,6 @@ title: BitGifty
 other_names: null
 parent: null
 description: Enabling crypto gifting and bill payment in Africa.
-images:
-  icon: https://media.lumenloop.xyz/projects/bitgifty/favicon.ico
-  logo: https://media.lumenloop.xyz/projects/bitgifty/logo.png
-  og_image: https://media.lumenloop.xyz/projects/bitgifty/og.png
 links:
   website:
     - bitgifty.com
@@ -34,6 +30,10 @@ attributes:
   operating_region:
     - Nigeria
   based_in: Nigeria
+images:
+  icon: https://media.lumenloop.com/projects/bitgifty/favicon.ico
+  logo: https://media.lumenloop.com/projects/bitgifty/logo.png
+  og_image: https://media.lumenloop.com/projects/bitgifty/og.png
 scf:
   awarded_round:
     - 27

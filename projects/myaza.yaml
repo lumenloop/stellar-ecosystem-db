@@ -3,10 +3,6 @@ other_names:
   - Myaza | Transact Across Africa
 parent: null
 description: Myaza enables Africans to seamlessly send, receive, save, spend, and swap foreign currencies without borders.
-images:
-  icon: https://media.lumenloop.xyz/projects/myaza/favicon.ico
-  avatar: https://media.lumenloop.xyz/projects/myaza/github_avatar.png
-  og_image: https://media.lumenloop.xyz/projects/myaza/og.jpg
 links:
   website:
     - myaza.co
@@ -37,6 +33,10 @@ attributes:
     - Sub-Saharan Africa
     - Middle East & North Africa
   based_in: Nigeria
+images:
+  icon: https://media.lumenloop.com/projects/myaza/favicon.ico
+  avatar: https://media.lumenloop.com/projects/myaza/github_avatar.png
+  og_image: https://media.lumenloop.com/projects/myaza/og.jpg
 scf:
   awarded_round:
     - 26

@@ -2,9 +2,6 @@ title: Logistech
 other_names: null
 parent: null
 description: Payment processor integrating Stellar stablecoins for hospitality and travel businesses including cruises, hotels, and resorts.
-images:
-  icon: https://media.lumenloop.xyz/projects/logistech/favicon.png
-  logo: https://media.lumenloop.xyz/projects/logistech/logo.jpg
 links:
   website:
     - logistechglobal.com
@@ -34,6 +31,9 @@ attributes:
   operating_region:
     - East Asia & Pacific
   based_in: Vietnam
+images:
+  icon: https://media.lumenloop.com/projects/logistech/favicon.png
+  logo: https://media.lumenloop.com/projects/logistech/logo.jpg
 scf:
   awarded_round:
     - 34

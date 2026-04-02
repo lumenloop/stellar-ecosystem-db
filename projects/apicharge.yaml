@@ -2,8 +2,6 @@ title: ApiCharge
 other_names: null
 parent: null
 description: API monetization platform on Stellar enabling direct pay-per-call and streaming access for digital services, with Soroban-based payment settlement and a native desktop marketplace.
-images:
-  logo: https://media.lumenloop.xyz/projects/apicharge/logo.png
 links:
   website:
     - apicharge.com
@@ -30,6 +28,8 @@ attributes:
   operating_region:
     - Czech Republic
   based_in: Czech Republic
+images:
+  logo: https://media.lumenloop.com/projects/apicharge/logo.png
 scf:
   awarded_round:
     - 40

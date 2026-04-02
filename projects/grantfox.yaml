@@ -2,8 +2,6 @@ title: GrantFox
 other_names: null
 parent: null
 description: Collaboration platform for open-source development on Stellar, connecting projects with contributors through bounties and milestone-based funding.
-images:
-  avatar: https://media.lumenloop.xyz/projects/grantfox/github_avatar.png
 links:
   website:
     - grantfox.xyz
@@ -31,6 +29,8 @@ attributes:
   operating_region:
     - Latin America & Caribbean
   based_in: Costa Rica
+images:
+  avatar: https://media.lumenloop.com/projects/grantfox/github_avatar.png
 scf:
   awarded_round:
     - 40

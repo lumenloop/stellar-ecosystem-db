@@ -2,11 +2,6 @@ title: Dapplooker
 other_names: null
 parent: null
 description: Stellar Network integration for No-Code Web3 Business Intelligence, Community Analytics, and Visualization.
-images:
-  icon: https://media.lumenloop.xyz/projects/dapplooker/favicon.ico
-  avatar: https://media.lumenloop.xyz/projects/dapplooker/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/dapplooker/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/dapplooker/og.png
 links:
   website:
     - dapplooker.com
@@ -36,6 +31,11 @@ attributes:
   operating_region:
     - India
   based_in: India
+images:
+  icon: https://media.lumenloop.com/projects/dapplooker/favicon.ico
+  avatar: https://media.lumenloop.com/projects/dapplooker/github_avatar.png
+  logo: https://media.lumenloop.com/projects/dapplooker/logo.svg
+  og_image: https://media.lumenloop.com/projects/dapplooker/og.png
 scf:
   awarded_round:
     - 24

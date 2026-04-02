@@ -2,8 +2,6 @@ title: Infinity Wallet
 other_names: null
 parent: null
 description: Desktop wallet providing a one-stop solution for payments & seamless use of DeFi with Web3 browser for easy access to Web3.
-images:
-  avatar: https://media.lumenloop.xyz/projects/infinity-wallet/github_avatar.png
 links:
   website:
     - infinitywallet.io
@@ -36,6 +34,8 @@ attributes:
     - East Asia & Pacific
     - Europe & Central Asia
   based_in: Spain
+images:
+  avatar: https://media.lumenloop.com/projects/infinity-wallet/github_avatar.png
 scf:
   awarded_round:
     - 16

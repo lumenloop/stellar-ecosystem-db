@@ -2,10 +2,6 @@ title: Bitwave
 other_names: null
 parent: null
 description: Bitwave is a digital asset finance platform designed to manage the intersection of digital asset accounting, tax, and compliance.
-images:
-  icon: https://media.lumenloop.xyz/projects/bitwave/favicon.png
-  logo: https://media.lumenloop.xyz/projects/bitwave/logo.webp
-  og_image: https://media.lumenloop.xyz/projects/bitwave/og.jpg
 links:
   website:
     - bitwave.io
@@ -34,6 +30,10 @@ attributes:
   operating_region:
     - United States
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/bitwave/favicon.png
+  logo: https://media.lumenloop.com/projects/bitwave/logo.webp
+  og_image: https://media.lumenloop.com/projects/bitwave/og.jpg
 scf:
   awarded_round:
     - 24

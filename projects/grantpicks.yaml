@@ -3,11 +3,6 @@ other_names:
   - GrantPicks by PotLock
 parent: null
 description: GrantPicks by Potlock is a Soroban-enabled funding platform using pairwise voting to easily allocate grants to Stellar projects.
-images:
-  icon: https://media.lumenloop.xyz/projects/grantpicks/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/grantpicks/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/grantpicks/logo.png
-  og_image: https://media.lumenloop.xyz/projects/grantpicks/og.png
 links:
   website:
     - potlock.org
@@ -37,6 +32,11 @@ attributes:
   operating_region:
     - Africa
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/grantpicks/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/grantpicks/github_avatar.png
+  logo: https://media.lumenloop.com/projects/grantpicks/logo.png
+  og_image: https://media.lumenloop.com/projects/grantpicks/og.png
 scf:
   awarded_round:
     - 27

@@ -2,9 +2,6 @@ title: Goldsky
 other_names: null
 parent: null
 description: Offering builders access to real-time, high-performance Soroban data indexing and to a CC0-licensed public good dataset.
-images:
-  icon: https://media.lumenloop.xyz/projects/goldsky/apple_touch.png
-  og_image: https://media.lumenloop.xyz/projects/goldsky/og.png
 links:
   website:
     - goldsky.com
@@ -33,6 +30,9 @@ attributes:
   operating_region:
     - United States
   based_in: Canada
+images:
+  icon: https://media.lumenloop.com/projects/goldsky/apple_touch.png
+  og_image: https://media.lumenloop.com/projects/goldsky/og.png
 scf:
   awarded_round:
     - 19

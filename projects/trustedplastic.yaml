@@ -2,7 +2,6 @@ title: TrustedPlastic
 other_names: null
 parent: null
 description: Enabling plastic waste collection through introducing transparency.
-images: null
 links:
   website:
     - recyclable.credit
@@ -25,6 +24,7 @@ attributes:
   operating_region:
     - Global
   based_in: Spain
+images: null
 scf:
   awarded_round:
     - 22

@@ -2,10 +2,6 @@ title: Flutterwave
 other_names: null
 parent: null
 description: Flutterwave is a fintech company that provides payment infrastructure for global merchants and service providers, enabling businesses to accept payments in over 150 currencies through various channels.
-images:
-  icon: https://media.lumenloop.xyz/projects/flutterwave/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/flutterwave/github_avatar.jpg
-  og_image: https://media.lumenloop.xyz/projects/flutterwave/og.png
 links:
   website:
     - flutterwave.com
@@ -35,6 +31,10 @@ attributes:
   operating_region:
     - Global
   based_in: Nigeria
+images:
+  icon: https://media.lumenloop.com/projects/flutterwave/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/flutterwave/github_avatar.jpg
+  og_image: https://media.lumenloop.com/projects/flutterwave/og.png
 mainnet:
   audits: []
   tokens: []

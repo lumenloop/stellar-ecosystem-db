@@ -2,10 +2,6 @@ title: Tracee
 other_names: null
 parent: null
 description: A seamless cross-border payment channel from European SMBs and NGOs to MENA individuals, ensuring quick, secure, and cheap single and bulk transfers.
-images:
-  icon: https://media.lumenloop.xyz/projects/tracee/favicon.svg
-  logo: https://media.lumenloop.xyz/projects/tracee/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/tracee/og.svg
 links:
   website:
     - traceeapp.com
@@ -31,6 +27,10 @@ attributes:
     - Europe & Central Asia
     - Middle East & North Africa
   based_in: France
+images:
+  icon: https://media.lumenloop.com/projects/tracee/favicon.svg
+  logo: https://media.lumenloop.com/projects/tracee/logo.svg
+  og_image: https://media.lumenloop.com/projects/tracee/og.svg
 scf:
   awarded_round:
     - 16

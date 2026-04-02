@@ -3,10 +3,6 @@ other_names:
   - TuCambio Wallets
 parent: null
 description: Stellar-based API on/off-ramp infrastructure for Latin American markets, enabling fiat-to-crypto conversion through local payment methods.
-images:
-  icon: https://media.lumenloop.xyz/projects/tucambio/favicon.png
-  logo: https://media.lumenloop.xyz/projects/tucambio/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/tucambio/og.svg
 links:
   website:
     - tucambio.app
@@ -35,6 +31,10 @@ attributes:
     - Europe & Central Asia
     - North America (without Mexico)
   based_in: Chile
+images:
+  icon: https://media.lumenloop.com/projects/tucambio/favicon.png
+  logo: https://media.lumenloop.com/projects/tucambio/logo.svg
+  og_image: https://media.lumenloop.com/projects/tucambio/og.svg
 scf:
   awarded_round:
     - 37

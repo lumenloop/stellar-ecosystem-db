@@ -3,11 +3,6 @@ other_names:
   - Onboard Game Devs with Beamable
 parent: null
 description: Game server and LiveOps platform with Stellar integration, providing SDKs for Unity, Unreal, and Web to build blockchain-powered games with wallet auth, token interactions, and marketplace features.
-images:
-  icon: https://media.lumenloop.xyz/projects/beamable/apple_touch.svg
-  avatar: https://media.lumenloop.xyz/projects/beamable/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/beamable/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/beamable/og.png
 links:
   website:
     - beamable.com
@@ -45,6 +40,11 @@ attributes:
     - North America (without Mexico)
     - Sub-Saharan Africa
   based_in: Brazil
+images:
+  icon: https://media.lumenloop.com/projects/beamable/apple_touch.svg
+  avatar: https://media.lumenloop.com/projects/beamable/github_avatar.png
+  logo: https://media.lumenloop.com/projects/beamable/logo.svg
+  og_image: https://media.lumenloop.com/projects/beamable/og.png
 scf:
   awarded_round:
     - 38

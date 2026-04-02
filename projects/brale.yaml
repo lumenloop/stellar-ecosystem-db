@@ -2,11 +2,6 @@ title: Brale
 other_names: null
 parent: null
 description: Brale provides tools for issuing and managing stablecoins and tokenized assets on the Stellar blockchain, simplifying the creation of digital financial products for banks and institutions.
-images:
-  icon: https://media.lumenloop.xyz/projects/brale/favicon.svg
-  avatar: https://media.lumenloop.xyz/projects/brale/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/brale/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/brale/og.png
 links:
   website:
     - brale.xyz
@@ -34,6 +29,11 @@ attributes:
   operating_region:
     - Global
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/brale/favicon.svg
+  avatar: https://media.lumenloop.com/projects/brale/github_avatar.png
+  logo: https://media.lumenloop.com/projects/brale/logo.svg
+  og_image: https://media.lumenloop.com/projects/brale/og.png
 mainnet:
   audits: []
   tokens: []

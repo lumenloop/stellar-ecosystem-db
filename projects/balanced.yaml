@@ -3,11 +3,6 @@ other_names:
   - Connecting Balanced to Stellar
 parent: null
 description: "Balanced is a cross-chain DEX and stablecoin that enables\_native cross-chain DeFi primitives for any ecosystem."
-images:
-  icon: https://media.lumenloop.xyz/projects/balanced/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/balanced/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/balanced/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/balanced/og.png
 links:
   website:
     - balanced.network
@@ -35,6 +30,11 @@ attributes:
   operating_region:
     - New Zealand
   based_in: New Zealand
+images:
+  icon: https://media.lumenloop.com/projects/balanced/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/balanced/github_avatar.png
+  logo: https://media.lumenloop.com/projects/balanced/logo.svg
+  og_image: https://media.lumenloop.com/projects/balanced/og.png
 scf:
   awarded_round:
     - 25

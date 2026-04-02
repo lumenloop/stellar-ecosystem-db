@@ -2,11 +2,6 @@ title: Emigro
 other_names: null
 parent: null
 description: Emigro is the traveler's digital wallet. A fiat stablecoin-based, card-less digital payments wallet for digital nomads, long-term travelers and expats in LatAm.
-images:
-  icon: https://media.lumenloop.xyz/projects/emigro/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/emigro/github_avatar.jpg
-  logo: https://media.lumenloop.xyz/projects/emigro/logo.png
-  og_image: https://media.lumenloop.xyz/projects/emigro/og.jpg
 links:
   website:
     - emigro.co
@@ -34,6 +29,11 @@ attributes:
   operating_region:
     - Global
   based_in: Brazil
+images:
+  icon: https://media.lumenloop.com/projects/emigro/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/emigro/github_avatar.jpg
+  logo: https://media.lumenloop.com/projects/emigro/logo.png
+  og_image: https://media.lumenloop.com/projects/emigro/og.jpg
 scf:
   awarded_round:
     - 17

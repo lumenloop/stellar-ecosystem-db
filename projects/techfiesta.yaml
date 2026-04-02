@@ -3,7 +3,6 @@ other_names:
   - Stellar Talent Platform
 parent: techFiesta
 description: Educate, validate, onboard and pay talent on Stellar via techfiesta.dev.
-images: null
 links:
   website:
     - techfiesta.dev
@@ -33,6 +32,7 @@ attributes:
   operating_region:
     - Nigeria
   based_in: Germany
+images: null
 scf:
   awarded_round:
     - 27

@@ -2,8 +2,6 @@ title: Flux
 other_names: null
 parent: null
 description: Crypto and fiat app built for everyday local and international payments.
-images:
-  icon: https://media.lumenloop.xyz/projects/flux/apple_touch.png
 links:
   website:
     - iflux.app
@@ -32,6 +30,8 @@ attributes:
   operating_region:
     - Portugal
   based_in: Nigeria
+images:
+  icon: https://media.lumenloop.com/projects/flux/apple_touch.png
 scf:
   awarded_round:
     - 22

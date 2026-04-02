@@ -2,7 +2,6 @@ title: GetPaid
 other_names: null
 parent: null
 description: Provides creators, traders and freelancers in Africa with opportunities to create income through connecting and learning. Live, Work and GetPaid.
-images: null
 links:
   website:
     - getpaid.africa
@@ -26,6 +25,7 @@ attributes:
   operating_region:
     - Sub-Saharan Africa
   based_in: null
+images: null
 scf:
   awarded_round:
     - 9

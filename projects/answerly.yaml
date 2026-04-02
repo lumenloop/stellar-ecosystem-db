@@ -2,10 +2,6 @@ title: Answerly
 other_names: null
 parent: null
 description: Offers content ownership & rewards for HQ answers.
-images:
-  icon: https://media.lumenloop.xyz/projects/answerly/favicon.png
-  avatar: https://media.lumenloop.xyz/projects/answerly/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/answerly/logo.png
 links:
   website:
     - answerly.app
@@ -34,6 +30,10 @@ attributes:
   operating_region:
     - Pakistan
   based_in: Pakistan
+images:
+  icon: https://media.lumenloop.com/projects/answerly/favicon.png
+  avatar: https://media.lumenloop.com/projects/answerly/github_avatar.png
+  logo: https://media.lumenloop.com/projects/answerly/logo.png
 scf:
   awarded_round:
     - 9

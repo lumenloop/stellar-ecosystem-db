@@ -3,9 +3,6 @@ other_names:
   - 'BAF: Summer of Stellar'
 parent: null
 description: The Blockchain Acceleration Foundation (BAF) is a nonprofit organization promoting blockchain education by partnering with universities to establish courses, host hackathons, and facilitate career opportunities. BAF aims to accelerate blockchain adoption through community collaboration and academic research support.
-images:
-  icon: https://media.lumenloop.xyz/projects/baf/apple_touch.png
-  logo: https://media.lumenloop.xyz/projects/baf/logo.svg
 links:
   website:
     - blockchainacceleration.org
@@ -32,6 +29,9 @@ attributes:
   operating_region:
     - Argentina
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/baf/apple_touch.png
+  logo: https://media.lumenloop.com/projects/baf/logo.svg
 scf:
   awarded_round:
     - 28

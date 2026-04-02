@@ -3,10 +3,6 @@ other_names:
   - Lightecho Stellar Oracle
 parent: BP Ventures
 description: Reliable and Trustworthy Emerging markets and XLM Volatility price feed for Soroban.
-images:
-  icon: https://media.lumenloop.xyz/projects/lightecho/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/lightecho/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/lightecho/logo.svg
 links:
   website:
     - lightecho.io
@@ -33,6 +29,10 @@ attributes:
   operating_region:
     - Global
   based_in: Brazil
+images:
+  icon: https://media.lumenloop.com/projects/lightecho/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/lightecho/github_avatar.png
+  logo: https://media.lumenloop.com/projects/lightecho/logo.svg
 scf:
   awarded_round:
     - 16

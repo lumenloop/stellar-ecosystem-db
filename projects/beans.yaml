@@ -3,11 +3,6 @@ other_names:
   - Beans app
 parent: null
 description: Beans is a non-custodial payments and savings app built on the Stellar blockchain, designed to provide the general public with a seamless banking experience that leverages blockchain technology. By abstracting complex blockchain elements, Beans offers instant, free, and secure international money transfers, currency conversions at competitive rates and savings accounts.
-images:
-  icon: https://media.lumenloop.xyz/projects/beans/apple_touch.jpg
-  avatar: https://media.lumenloop.xyz/projects/beans/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/beans/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/beans/og.webp
 links:
   website:
     - beansapp.com
@@ -41,6 +36,11 @@ attributes:
   operating_region:
     - Netherlands
   based_in: Netherlands
+images:
+  icon: https://media.lumenloop.com/projects/beans/apple_touch.jpg
+  avatar: https://media.lumenloop.com/projects/beans/github_avatar.png
+  logo: https://media.lumenloop.com/projects/beans/logo.svg
+  og_image: https://media.lumenloop.com/projects/beans/og.webp
 scf:
   awarded_round:
     - 10

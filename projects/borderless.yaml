@@ -2,7 +2,6 @@ title: Borderless
 other_names: null
 parent: null
 description: Borderless empowers migrant workers and financial institutions by using Stellar's blockchain and stablecoins to enable instant, low-cost, real-time remittances through an API that seamlessly connects local payment rails globally.
-images: null
 links:
   website:
     - borderlesspayments.xyz
@@ -27,6 +26,7 @@ attributes:
   operating_region:
     - Global
   based_in: Spain
+images: null
 scf:
   awarded_round:
     - 20

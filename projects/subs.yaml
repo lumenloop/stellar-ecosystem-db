@@ -2,10 +2,6 @@ title: Subs
 other_names: null
 parent: null
 description: Subs offers an SDK to help businesses manage blockchain subscriptions using Stellar's Soroban smart contracts.
-images:
-  icon: https://media.lumenloop.xyz/projects/subs/favicon.png
-  avatar: https://media.lumenloop.xyz/projects/subs/github_avatar.jpg
-  logo: https://media.lumenloop.xyz/projects/subs/logo.png
 links:
   website:
     - stellar.subsprotocol.com
@@ -35,6 +31,10 @@ attributes:
     - South Asia
     - East Asia & Pacific
   based_in: France
+images:
+  icon: https://media.lumenloop.com/projects/subs/favicon.png
+  avatar: https://media.lumenloop.com/projects/subs/github_avatar.jpg
+  logo: https://media.lumenloop.com/projects/subs/logo.png
 scf:
   awarded_round:
     - 30

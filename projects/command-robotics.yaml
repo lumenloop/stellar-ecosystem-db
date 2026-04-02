@@ -2,7 +2,6 @@ title: Command Robotics
 other_names: null
 parent: null
 description: Command Robotics integrates the Stellar blockchain into its platform to enhance secure and transparent coordination of robotic fleets.
-images: null
 links:
   website:
     - adaptive-goal-management.herokuapp.com
@@ -26,6 +25,7 @@ attributes:
   operating_region:
     - Global
   based_in: Canada
+images: null
 scf:
   awarded_round:
     - 9

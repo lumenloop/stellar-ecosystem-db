@@ -3,8 +3,6 @@ other_names:
   - Stellar Integration in Adamik API
 parent: null
 description: Blockchain-agnostic, non-custodial API that simplifies wallet, custodian, and exchange integration across 60+ blockchains including Stellar, through a single unified interface.
-images:
-  avatar: https://media.lumenloop.xyz/projects/adamik/github_avatar.png
 links:
   website:
     - adamik.io
@@ -32,6 +30,8 @@ attributes:
   operating_region:
     - Europe & Central Asia
   based_in: France
+images:
+  avatar: https://media.lumenloop.com/projects/adamik/github_avatar.png
 scf:
   awarded_round:
     - 37

@@ -4,10 +4,6 @@ other_names:
   - zkCrossDEX
 parent: null
 description: zkCrossDEX enables seamless cross-chain liquidity transfers from leading EVM chains to Stellar with a single click.
-images:
-  icon: https://media.lumenloop.xyz/projects/zkcross/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/zkcross/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/zkcross/logo.svg
 links:
   website:
     - zkcross.network
@@ -39,6 +35,10 @@ attributes:
   operating_region:
     - United Arab Emirates
   based_in: United Arab Emirates
+images:
+  icon: https://media.lumenloop.com/projects/zkcross/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/zkcross/github_avatar.png
+  logo: https://media.lumenloop.com/projects/zkcross/logo.svg
 scf:
   awarded_round:
     - 25

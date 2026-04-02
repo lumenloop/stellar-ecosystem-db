@@ -3,7 +3,6 @@ other_names:
   - Perun State Channels
 parent: null
 description: We extend Perun State Channels in the Stellar ecosystem so they can utilize off-chain and cross-chain transactions.
-images: null
 links:
   website:
     - polycry.pt
@@ -34,6 +33,7 @@ attributes:
   operating_region:
     - Europe & Central Asia
   based_in: Germany
+images: null
 scf:
   awarded_round:
     - 17

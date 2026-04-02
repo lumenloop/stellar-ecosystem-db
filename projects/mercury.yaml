@@ -2,9 +2,6 @@ title: Mercury
 other_names: null
 parent: Xycloo Labs
 description: Mercury is a cost-effective and efficient indexing service that specialized both on Soroban and Stellar "Classic/Vanilla" indexing. Mercury also offers a cloud service for deploying advanced network-synced programs that need to work with the Network's data.
-images:
-  icon: https://media.lumenloop.xyz/projects/mercury/favicon.ico
-  avatar: https://media.lumenloop.xyz/projects/mercury/github_avatar.png
 links:
   website:
     - mercurydata.app
@@ -30,6 +27,9 @@ attributes:
   operating_region:
     - Argentina
   based_in: Italy
+images:
+  icon: https://media.lumenloop.com/projects/mercury/favicon.ico
+  avatar: https://media.lumenloop.com/projects/mercury/github_avatar.png
 scf:
   awarded_round:
     - 19

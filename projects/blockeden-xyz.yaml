@@ -2,11 +2,6 @@ title: BlockEden.xyz
 other_names: null
 parent: null
 description: Stellar Soroban Indexer and GraphQL.
-images:
-  icon: https://media.lumenloop.xyz/projects/blockeden-xyz/apple_touch.svg
-  avatar: https://media.lumenloop.xyz/projects/blockeden-xyz/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/blockeden-xyz/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/blockeden-xyz/og.png
 links:
   website:
     - blockeden.xyz
@@ -37,6 +32,11 @@ attributes:
   operating_region:
     - United States
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/blockeden-xyz/apple_touch.svg
+  avatar: https://media.lumenloop.com/projects/blockeden-xyz/github_avatar.png
+  logo: https://media.lumenloop.com/projects/blockeden-xyz/logo.svg
+  og_image: https://media.lumenloop.com/projects/blockeden-xyz/og.png
 scf:
   awarded_round:
     - 18

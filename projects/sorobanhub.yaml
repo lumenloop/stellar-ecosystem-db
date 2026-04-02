@@ -2,10 +2,6 @@ title: SorobanHub
 other_names: null
 parent: Creit Tech
 description: Manage, monitor and interact with your deployed contracts from a single and free to use desktop app.
-images:
-  icon: https://media.lumenloop.xyz/projects/sorobanhub/favicon.png
-  avatar: https://media.lumenloop.xyz/projects/sorobanhub/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/sorobanhub/logo.png
 links:
   website:
     - sorobanhub.com
@@ -31,6 +27,10 @@ attributes:
   operating_region:
     - Chile
   based_in: Chile
+images:
+  icon: https://media.lumenloop.com/projects/sorobanhub/favicon.png
+  avatar: https://media.lumenloop.com/projects/sorobanhub/github_avatar.png
+  logo: https://media.lumenloop.com/projects/sorobanhub/logo.png
 scf:
   awarded_round:
     - 25

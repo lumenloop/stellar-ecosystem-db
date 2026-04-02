@@ -2,11 +2,6 @@ title: Coinspect
 other_names: null
 parent: null
 description: 'Since 2014 protecting critical decentralized systems: L1 nodes, smart contracts audits, wallets, web3 dApps, exchanges, bridges.'
-images:
-  icon: https://media.lumenloop.xyz/projects/coinspect/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/coinspect/github_avatar.jpg
-  logo: https://media.lumenloop.xyz/projects/coinspect/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/coinspect/og.png
 links:
   website:
     - coinspect.com
@@ -33,6 +28,11 @@ attributes:
   operating_region:
     - Global
   based_in: Argentina
+images:
+  icon: https://media.lumenloop.com/projects/coinspect/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/coinspect/github_avatar.jpg
+  logo: https://media.lumenloop.com/projects/coinspect/logo.svg
+  og_image: https://media.lumenloop.com/projects/coinspect/og.png
 mainnet:
   audits: []
   tokens: []

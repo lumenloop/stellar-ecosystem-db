@@ -2,7 +2,6 @@ title: Kotani Pay
 other_names: null
 parent: null
 description: Stablecoin payments without the need for an Internet connection or a bank account.
-images: null
 links:
   website:
     - kotanipay.com
@@ -30,6 +29,7 @@ attributes:
   operating_region:
     - Kenya
   based_in: Ghana
+images: null
 scf:
   awarded_round:
     - 11

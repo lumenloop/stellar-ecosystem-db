@@ -3,9 +3,6 @@ other_names:
   - DevTrak - Developer Onboarding
 parent: null
 description: We are launching Africas first gamified platform for developers to Learn, Build, and Earn real rewards on the Stellar network.
-images:
-  icon: https://media.lumenloop.xyz/projects/devtrak/favicon.ico
-  og_image: https://media.lumenloop.xyz/projects/devtrak/og.png
 links:
   website:
     - mowblox.com
@@ -34,6 +31,9 @@ attributes:
   operating_region:
     - Sub-Saharan Africa
   based_in: Ghana
+images:
+  icon: https://media.lumenloop.com/projects/devtrak/favicon.ico
+  og_image: https://media.lumenloop.com/projects/devtrak/og.png
 scf:
   awarded_round:
     - 25

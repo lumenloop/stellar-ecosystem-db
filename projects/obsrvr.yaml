@@ -3,9 +3,6 @@ other_names:
   - Flow
 parent: null
 description: Obsrvr provides production-ready Stellar infrastructure including RPC nodes, Horizon API access, and Flow — programmable data pipelines for real-time Stellar/Soroban event streaming and indexing.
-images:
-  avatar: https://media.lumenloop.xyz/projects/obsrvr/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/obsrvr/logo.png
 links:
   website:
     - withobsrvr.com
@@ -43,6 +40,9 @@ attributes:
   operating_region:
     - North America (without Mexico)
   based_in: United States
+images:
+  avatar: https://media.lumenloop.com/projects/obsrvr/github_avatar.png
+  logo: https://media.lumenloop.com/projects/obsrvr/logo.png
 scf:
   awarded_round:
     - 35

@@ -2,9 +2,6 @@ title: Pakana.Net
 other_names: null
 parent: null
 description: Pakana is a decentralized platform that streamlines payment processing and project management by leveraging Stellar's blockchain technology. It offers features such as multi-signature wallets for secure peer-to-peer escrow, integration with financial services like Plaid, Stripe, PayPal, and Venmo, and tools for document automation and lien-release tracking, catering to professionals including attorneys, contractors, and freelancers.
-images:
-  icon: https://media.lumenloop.xyz/projects/pakana-net/favicon.ico
-  logo: https://media.lumenloop.xyz/projects/pakana-net/logo.png
 links:
   website:
     - pakana.net
@@ -44,6 +41,9 @@ attributes:
   operating_region:
     - Global
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/pakana-net/favicon.ico
+  logo: https://media.lumenloop.com/projects/pakana-net/logo.png
 scf:
   awarded_round:
     - 21

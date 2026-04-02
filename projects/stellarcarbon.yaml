@@ -2,8 +2,6 @@ title: Stellarcarbon
 other_names: null
 parent: null
 description: Stellarcarbon offers transparent, nature-based carbon offsetting by registering offsets on both the Stellar blockchain and the Verra Registry, enabling users to voluntarily offset their carbon footprint through on-chain and off-chain records.
-images:
-  avatar: https://media.lumenloop.xyz/projects/stellarcarbon/github_avatar.png
 links:
   website:
     - stellarcarbon.io
@@ -30,6 +28,8 @@ attributes:
   operating_region:
     - Netherlands
   based_in: Netherlands
+images:
+  avatar: https://media.lumenloop.com/projects/stellarcarbon/github_avatar.png
 scf:
   awarded_round:
     - 11

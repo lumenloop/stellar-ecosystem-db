@@ -3,8 +3,6 @@ other_names:
   - 'Komet: Formal Verification'
 parent: Runtime Verification
 description: Open-source tool for Soroban smart contract developers, enabling them to perform robust formal verification.
-images:
-  avatar: https://media.lumenloop.xyz/projects/runtime-verification/github_avatar.png
 links:
   website:
     - kasmer.runtimeverification.com
@@ -35,6 +33,8 @@ attributes:
   operating_region:
     - United States
   based_in: United States
+images:
+  avatar: https://media.lumenloop.com/projects/runtime-verification/github_avatar.png
 scf:
   awarded_round:
     - 28

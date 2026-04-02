@@ -3,7 +3,6 @@ other_names:
   - Satellite + We Work Out
 parent: null
 description: A platform for deploying smart contracts linked to third party app data. Like Zapier, but for Soroban.
-images: null
 links:
   website:
     - getsatellite.io
@@ -33,6 +32,7 @@ attributes:
   operating_region:
     - Global
   based_in: United States
+images: null
 scf:
   awarded_round:
     - 20

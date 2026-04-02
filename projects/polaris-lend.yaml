@@ -4,7 +4,6 @@ other_names:
   - Fixed Rate "Fixie"
 parent: Jet Protocol
 description: CLOB-based fixed rate fixed term lending.
-images: null
 links:
   website:
     - jetprotocol.io
@@ -31,6 +30,7 @@ attributes:
   operating_region:
     - United States
   based_in: United States
+images: null
 scf:
   awarded_round:
     - 21

@@ -2,7 +2,6 @@ title: TYPIQO
 other_names: null
 parent: null
 description: TYPIQO connects high-quality local food producers with local high-end Chefs and Restaurants.
-images: null
 links:
   website:
     - typiqo.it
@@ -28,6 +27,7 @@ attributes:
   operating_region:
     - Global
   based_in: null
+images: null
 scf:
   awarded_round:
     - 21

@@ -2,9 +2,6 @@ title: stallion
 other_names: null
 parent: null
 description: Platform connecting skilled individuals with micro-task opportunities, using Stellar for instant, low-cost payments to workers globally.
-images:
-  icon: https://media.lumenloop.xyz/projects/stallion/favicon.png
-  logo: https://media.lumenloop.xyz/projects/stallion/logo.png
 links:
   website:
     - earnstallions.xyz
@@ -31,6 +28,9 @@ attributes:
   operating_region:
     - Sub-Saharan Africa
   based_in: Nigeria
+images:
+  icon: https://media.lumenloop.com/projects/stallion/favicon.png
+  logo: https://media.lumenloop.com/projects/stallion/logo.png
 scf:
   awarded_round:
     - 39

@@ -2,7 +2,6 @@ title: The Starship Soroban
 other_names: null
 parent: null
 description: Starship Soroban is a bilingual, gamified platform that teaches Soroban smart contracts to Turkish and English speakers through interactive modules and quizzes.
-images: null
 links:
   website: []
   blog: []
@@ -24,6 +23,7 @@ attributes:
   operating_region:
     - Global
   based_in: Turkey
+images: null
 scf:
   awarded_round:
     - 29

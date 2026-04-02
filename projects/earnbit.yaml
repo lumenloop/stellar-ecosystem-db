@@ -2,9 +2,6 @@ title: EarnBIT
 other_names: null
 parent: null
 description: EU licensed CEX with dedicated Launchpad on Stellar, followed by video streaming service.
-images:
-  icon: https://media.lumenloop.xyz/projects/earnbit/apple_touch.png
-  og_image: https://media.lumenloop.xyz/projects/earnbit/og.jpg
 links:
   website:
     - earnbit.com
@@ -31,6 +28,9 @@ attributes:
   operating_region:
     - Finland
   based_in: United Arab Emirates
+images:
+  icon: https://media.lumenloop.com/projects/earnbit/apple_touch.png
+  og_image: https://media.lumenloop.com/projects/earnbit/og.jpg
 scf:
   awarded_round:
     - 26

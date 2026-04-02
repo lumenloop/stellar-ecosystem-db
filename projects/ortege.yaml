@@ -3,7 +3,6 @@ other_names:
   - Ortege AI
 parent: null
 description: AI-powered blockchain analytics & insights for Soroban, making complex data simple and accessible.
-images: null
 links:
   website:
     - ortege.ai
@@ -31,6 +30,7 @@ attributes:
   operating_region:
     - Australia
   based_in: Australia
+images: null
 scf:
   awarded_round:
     - 18

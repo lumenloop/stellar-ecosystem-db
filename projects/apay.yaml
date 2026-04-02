@@ -3,8 +3,6 @@ other_names:
   - Apay.io
 parent: null
 description: Apay.io, also known as Papaya, was a cryptocurrency anchor on the Stellar network that enabled users to deposit and withdraw various cryptocurrencies—including Bitcoin (BTC), Ethereum (ETH), and ERC20 tokens—by issuing corresponding tokens on the Stellar network.
-images:
-  avatar: https://media.lumenloop.xyz/projects/apay/github_avatar.png
 links:
   website:
     - apay.io
@@ -30,6 +28,8 @@ attributes:
   operating_region:
     - Global
   based_in: null
+images:
+  avatar: https://media.lumenloop.com/projects/apay/github_avatar.png
 scf:
   awarded_round:
     - 4

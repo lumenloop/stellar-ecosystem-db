@@ -3,10 +3,6 @@ other_names:
   - COCA.XYZ
 parent: null
 description: COCA is a digital wallet that integrates Multi-Party Computation technology with a non-custodial debit card, offering enhanced security and flexibility for cryptocurrency users. It supports both virtual and physical cards, enabling users to spend their digital assets at over 40 million merchants worldwide without the need to preload funds.
-images:
-  icon: https://media.lumenloop.xyz/projects/coca/apple_touch.png
-  logo: https://media.lumenloop.xyz/projects/coca/logo.png
-  og_image: https://media.lumenloop.xyz/projects/coca/og.png
 links:
   website:
     - coca.xyz
@@ -39,6 +35,10 @@ attributes:
   operating_region:
     - Sweden
   based_in: United Kingdom
+images:
+  icon: https://media.lumenloop.com/projects/coca/apple_touch.png
+  logo: https://media.lumenloop.com/projects/coca/logo.png
+  og_image: https://media.lumenloop.com/projects/coca/og.png
 scf:
   awarded_round:
     - 25

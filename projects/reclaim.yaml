@@ -4,9 +4,6 @@ other_names:
   - 'zkFetch: zkTLS-Powered Oracle Solution'
 parent: null
 description: Reclaim protocol uses https session keys to generate zk proofs of user's profiles, enabling verifiable credentials without APIs.
-images:
-  icon: https://media.lumenloop.xyz/projects/reclaim/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/reclaim/github_avatar.png
 links:
   website:
     - reclaimprotocol.org
@@ -36,6 +33,9 @@ attributes:
   operating_region:
     - India
   based_in: India
+images:
+  icon: https://media.lumenloop.com/projects/reclaim/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/reclaim/github_avatar.png
 scf:
   awarded_round:
     - 21

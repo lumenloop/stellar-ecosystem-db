@@ -2,10 +2,6 @@ title: Quarkslab
 other_names: null
 parent: null
 description: Cybersecurity firm providing offensive and defensive security solutions, research, and software to protect applications and infrastructure.
-images:
-  icon: https://media.lumenloop.xyz/projects/quarkslab/apple_touch.svg
-  avatar: https://media.lumenloop.xyz/projects/quarkslab/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/quarkslab/logo.png
 links:
   website:
     - quarkslab.com
@@ -32,6 +28,10 @@ attributes:
   operating_region:
     - Global
   based_in: Argentina
+images:
+  icon: https://media.lumenloop.com/projects/quarkslab/apple_touch.svg
+  avatar: https://media.lumenloop.com/projects/quarkslab/github_avatar.png
+  logo: https://media.lumenloop.com/projects/quarkslab/logo.png
 mainnet:
   audits: []
   tokens: []

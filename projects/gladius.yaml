@@ -5,7 +5,6 @@ other_names:
   - ' earn'
 parent: null
 description: Gladius gamifies education, connecting parents, sports clubs, and students with NFT prizes and rewards.
-images: null
 links:
   website:
     - gladiusclub.com
@@ -31,6 +30,7 @@ attributes:
   operating_region:
     - Europe & Central Asia
   based_in: Estonia
+images: null
 scf:
   awarded_round:
     - 23

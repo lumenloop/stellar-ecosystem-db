@@ -77,7 +77,7 @@ Of **576** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 441 | 439 |
-| Active last week | 123 | 185 |
+| Active last week | 122 | 184 |
 | Active last month | 175 | 244 |
 | Active last 3 months | 240 | 284 |
 | Active last year | 310 | 356 |
@@ -91,16 +91,16 @@ Of **576** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 21 |
-| certora | 10 |
 | OtterSec | 10 |
+| certora | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Code4rena | 1 |
-| Сoinspect | 1 |
 | Cantina | 1 |
+| Сoinspect | 1 |
+| Code4rena | 1 |
 
 ## Data Sources
 
@@ -118,8 +118,8 @@ Field-level provenance tracking:
 |--------|------:|
 | website | 1610 |
 | submissions | 563 |
-| crawler | 990 |
 | airtable | 3416 |
+| crawler | 990 |
 | schedule | 1 |
 | soroban_security | 66 |
 
@@ -129,12 +129,12 @@ Field-level provenance tracking:
 
 **SCF project missing website** (8):
 - crypto-link
-- paysapp
 - relax
 - the-starship-soroban
 - frost-implementation
-- timed-transactions-api
 - wally
+- timed-transactions-api
+- paysapp
 - sendit
 
 **description empty** (1):

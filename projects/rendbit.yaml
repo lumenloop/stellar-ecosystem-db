@@ -2,11 +2,6 @@ title: RendBit
 other_names: null
 parent: null
 description: Mobile-first financial platform on Stellar for African users, offering stablecoin savings, cross-border transfers, and bill payments.
-images:
-  icon: https://media.lumenloop.xyz/projects/rendbit/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/rendbit/github_avatar.jpg
-  logo: https://media.lumenloop.xyz/projects/rendbit/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/rendbit/og.jpg
 links:
   website:
     - rendbit.com
@@ -36,6 +31,11 @@ attributes:
   operating_region:
     - Sub-Saharan Africa
   based_in: Nigeria
+images:
+  icon: https://media.lumenloop.com/projects/rendbit/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/rendbit/github_avatar.jpg
+  logo: https://media.lumenloop.com/projects/rendbit/logo.svg
+  og_image: https://media.lumenloop.com/projects/rendbit/og.jpg
 scf:
   awarded_round:
     - 39

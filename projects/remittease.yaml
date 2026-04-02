@@ -2,8 +2,6 @@ title: RemittEase
 other_names: null
 parent: null
 description: RemittEase – Send money instantly and securely across African borders. Powered by Stellar, we offer faster, cheaper, and more transparent remittance solutions than traditional wallets.
-images:
-  logo: https://media.lumenloop.xyz/projects/remittease/logo.png
 links:
   website:
     - remittease.xyz
@@ -34,6 +32,8 @@ attributes:
     - Sub-Saharan Africa
     - Latin America & Caribbean
   based_in: South Africa
+images:
+  logo: https://media.lumenloop.com/projects/remittease/logo.png
 scf:
   awarded_round:
     - 36

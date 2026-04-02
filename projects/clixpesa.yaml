@@ -2,9 +2,6 @@ title: Clixpesa
 other_names: null
 parent: null
 description: Clixpesa is a financial technology platform designed to simplify money management and cryptocurrency for users, particularly in Sub-Saharan Africa. It offers services such as low-fee money and crypto transfers, interest-bearing deposits, rewards and discounts, and peer-to-peer loans.
-images:
-  icon: https://media.lumenloop.xyz/projects/clixpesa/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/clixpesa/github_avatar.png
 links:
   website:
     - clixpesa.com
@@ -37,6 +34,9 @@ attributes:
   operating_region:
     - Kenya
   based_in: Kenya
+images:
+  icon: https://media.lumenloop.com/projects/clixpesa/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/clixpesa/github_avatar.png
 scf:
   awarded_round:
     - 26

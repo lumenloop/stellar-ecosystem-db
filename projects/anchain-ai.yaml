@@ -2,11 +2,6 @@ title: AnChain.AI
 other_names: null
 parent: null
 description: The AnChain.AI Catalog is an open-source catalog of audited smart contracts designed to help companies build web3 projects faster.
-images:
-  icon: https://media.lumenloop.xyz/projects/anchain-ai/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/anchain-ai/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/anchain-ai/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/anchain-ai/og.png
 links:
   website:
     - anchain.ai
@@ -34,6 +29,11 @@ attributes:
   operating_region:
     - United States
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/anchain-ai/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/anchain-ai/github_avatar.png
+  logo: https://media.lumenloop.com/projects/anchain-ai/logo.svg
+  og_image: https://media.lumenloop.com/projects/anchain-ai/og.png
 scf:
   awarded_round:
     - 11

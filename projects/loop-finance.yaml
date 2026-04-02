@@ -4,7 +4,6 @@ other_names:
   - Loop
 parent: null
 description: Spending platform combining merchant discounts with DeFi yield on Stellar, turning everyday purchases into savings opportunities.
-images: null
 links:
   website:
     - loopfinance.io
@@ -29,6 +28,7 @@ attributes:
     - Europe & Central Asia
     - North America (without Mexico)
   based_in: United Kingdom
+images: null
 scf:
   awarded_round: []
   awarded_total: null

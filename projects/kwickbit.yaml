@@ -3,11 +3,6 @@ other_names:
   - 'Kwickbit: Corp DeFi Accounting'
 parent: null
 description: Enhance DeFi accounting with full transaction history, reconciliation, financial reports via UI/API, expand protocol integration.
-images:
-  icon: https://media.lumenloop.xyz/projects/kwickbit/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/kwickbit/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/kwickbit/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/kwickbit/og.png
 links:
   website:
     - kwickbit.com
@@ -34,6 +29,11 @@ attributes:
   operating_region:
     - French Guiana
   based_in: Estonia
+images:
+  icon: https://media.lumenloop.com/projects/kwickbit/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/kwickbit/github_avatar.png
+  logo: https://media.lumenloop.com/projects/kwickbit/logo.svg
+  og_image: https://media.lumenloop.com/projects/kwickbit/og.png
 scf:
   awarded_round:
     - 20

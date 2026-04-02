@@ -2,9 +2,6 @@ title: Metafyed
 other_names: null
 parent: null
 description: Revolutionizing access to Real World Assets in Asia through tokenization.
-images:
-  icon: https://media.lumenloop.xyz/projects/metafyed/apple_touch.png
-  logo: https://media.lumenloop.xyz/projects/metafyed/logo.svg
 links:
   website:
     - metafyed.com
@@ -31,6 +28,9 @@ attributes:
   operating_region:
     - Malaysia
   based_in: Canada
+images:
+  icon: https://media.lumenloop.com/projects/metafyed/apple_touch.png
+  logo: https://media.lumenloop.com/projects/metafyed/logo.svg
 scf:
   awarded_round:
     - 27

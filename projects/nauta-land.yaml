@@ -2,9 +2,6 @@ title: Nauta Land
 other_names: null
 parent: null
 description: 'Transforming Real Estate: Unlocking Convenient and accessible Investments for All.'
-images:
-  logo: https://media.lumenloop.xyz/projects/nauta-land/logo.png
-  og_image: https://media.lumenloop.xyz/projects/nauta-land/og.png
 links:
   website:
     - nauta.land
@@ -31,6 +28,9 @@ attributes:
   operating_region:
     - Colombia
   based_in: Colombia
+images:
+  logo: https://media.lumenloop.com/projects/nauta-land/logo.png
+  og_image: https://media.lumenloop.com/projects/nauta-land/og.png
 scf:
   awarded_round:
     - 21

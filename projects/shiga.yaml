@@ -2,10 +2,6 @@ title: Shiga
 other_names: null
 parent: null
 description: Shiga Digital Inc. is a U.S.-based fintech company specializing in blockchain and cloud technology, offering decentralized finance solutions to enhance financial accessibility in Africa. Their services include a decentralized banking platform that allows enterprises to manage wallets and access real-world finance, facilitating seamless transactions between stablecoins and fiat currencies.
-images:
-  icon: https://media.lumenloop.xyz/projects/shiga/favicon.png
-  logo: https://media.lumenloop.xyz/projects/shiga/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/shiga/og.png
 links:
   website:
     - shiga.io
@@ -31,6 +27,10 @@ attributes:
   operating_region:
     - Sub-Saharan Africa
   based_in: United Kingdom
+images:
+  icon: https://media.lumenloop.com/projects/shiga/favicon.png
+  logo: https://media.lumenloop.com/projects/shiga/logo.svg
+  og_image: https://media.lumenloop.com/projects/shiga/og.png
 mainnet:
   audits: []
   tokens: []

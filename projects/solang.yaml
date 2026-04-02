@@ -4,7 +4,6 @@ other_names:
   - Solang Playground
 parent: null
 description: Allows writing Soroban contracts with Solidity, by integrating Soroban as a compilation target for Solang.
-images: null
 links:
   website:
     - github.com/hyperledger/solang
@@ -29,6 +28,7 @@ attributes:
   operating_region:
     - Global
   based_in: null
+images: null
 mainnet:
   audits: []
   tokens: []

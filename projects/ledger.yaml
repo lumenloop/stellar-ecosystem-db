@@ -2,11 +2,6 @@ title: Ledger
 other_names: null
 parent: null
 description: Ledger is a hardware wallet designed to securely store and manage cryptocurrencies offline, protecting assets from online threats. It supports a wide range of cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), and Stellar (XLM).
-images:
-  icon: https://media.lumenloop.xyz/projects/ledger/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/ledger/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/ledger/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/ledger/og.webp
 links:
   website:
     - ledger.com
@@ -38,6 +33,11 @@ attributes:
   operating_region:
     - Global
   based_in: France
+images:
+  icon: https://media.lumenloop.com/projects/ledger/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/ledger/github_avatar.png
+  logo: https://media.lumenloop.com/projects/ledger/logo.svg
+  og_image: https://media.lumenloop.com/projects/ledger/og.webp
 mainnet:
   audits: []
   tokens: []

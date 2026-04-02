@@ -2,7 +2,6 @@ title: MXlet
 other_names: null
 parent: null
 description: Open Stellar hardware wallet.
-images: null
 links:
   website:
     - xlet.io
@@ -26,6 +25,7 @@ attributes:
   operating_region:
     - Global
   based_in: null
+images: null
 scf:
   awarded_round:
     - 5

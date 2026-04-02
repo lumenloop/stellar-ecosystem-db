@@ -2,7 +2,6 @@ title: AutoAction
 other_names: null
 parent: 57blocks
 description: AutoAction is a smart contract automation tool for implementing custom logic, time-based, and event-based automated transactions.
-images: null
 links:
   website:
     - 57blocks.io
@@ -29,6 +28,7 @@ attributes:
   operating_region:
     - Global
   based_in: China
+images: null
 scf:
   awarded_round:
     - 29

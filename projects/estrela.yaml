@@ -2,8 +2,6 @@ title: Estrela
 other_names: null
 parent: null
 description: Estrela is a decentralized platform for efficient low-slippage stablecoin swaps.
-images:
-  avatar: https://media.lumenloop.xyz/projects/estrela/github_avatar.png
 links:
   website:
     - allbridge.io
@@ -37,6 +35,8 @@ attributes:
   operating_region:
     - Global
   based_in: Ukraine
+images:
+  avatar: https://media.lumenloop.com/projects/estrela/github_avatar.png
 scf:
   awarded_round:
     - 22

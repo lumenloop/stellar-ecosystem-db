@@ -2,7 +2,6 @@ title: LOAM
 other_names: null
 parent: null
 description: Loam is a comprehensive platform that streamlines the development, deployment, and maintenance of ambitious smart contracts and dApps on the Soroban platform.
-images: null
 links:
   website:
     - loam.build
@@ -27,6 +26,7 @@ attributes:
   operating_region:
     - Global
   based_in: United States
+images: null
 scf:
   awarded_round:
     - 24

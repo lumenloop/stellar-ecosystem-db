@@ -2,7 +2,6 @@ title: Meria DeFi
 other_names: null
 parent: null
 description: Meria DeFi platform (project code "The Place To Stake" is a non-custodial one-stop shop for yield generation and portfolio monitoring across multiple blockchains, aggregating yield protocols and staking with transparency and institutional-grade reliability.
-images: null
 links:
   website:
     - defi.meria.com
@@ -26,6 +25,7 @@ attributes:
   operating_region:
     - France
   based_in: France
+images: null
 scf:
   awarded_round:
     - 40

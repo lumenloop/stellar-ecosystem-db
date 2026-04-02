@@ -3,9 +3,6 @@ other_names:
   - CTX.com
 parent: null
 description: CTX is a platform that enables businesses to accept cryptocurrency payments both online and in-store, offering seamless integration and dedicated support. It provides daily settlements in local currencies, eliminating volatility risks, and offers hardware devices and POS integrations for in-store transactions.
-images:
-  icon: https://media.lumenloop.xyz/projects/ctx/favicon.ico
-  logo: https://media.lumenloop.xyz/projects/ctx/logo.svg
 links:
   website:
     - ctx.com
@@ -30,6 +27,9 @@ attributes:
   operating_region:
     - Global
   based_in: United Kingdom
+images:
+  icon: https://media.lumenloop.com/projects/ctx/favicon.ico
+  logo: https://media.lumenloop.com/projects/ctx/logo.svg
 scf:
   awarded_round:
     - 19

@@ -2,7 +2,6 @@ title: Venerez
 other_names: null
 parent: null
 description: Programmable spend platform on Stellar enabling businesses to issue branded payment cards with built-in spending rules, rewards, and compliance controls.
-images: null
 links:
   website:
     - venerez.com
@@ -28,6 +27,7 @@ attributes:
   operating_region:
     - Global
   based_in: Bahamas
+images: null
 scf:
   awarded_round:
     - 36

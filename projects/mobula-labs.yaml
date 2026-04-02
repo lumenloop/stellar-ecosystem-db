@@ -2,11 +2,6 @@ title: Mobula Labs
 other_names: null
 parent: null
 description: Mobula offers an extensive range of Data APIs tailored for decentralized applications (dApps), enabling seamless integration and real-time data access. For foundations, Mobula provides robust blockchain analytics tools to monitor and analyze user engagement and growth trends. Additionally, Mobula supports builders by offering comprehensive data warehousing solutions, ensuring efficient data storage and retrieval for enhanced application performance.
-images:
-  icon: https://media.lumenloop.xyz/projects/mobula-labs/favicon.png
-  avatar: https://media.lumenloop.xyz/projects/mobula-labs/github_avatar.jpg
-  logo: https://media.lumenloop.xyz/projects/mobula-labs/logo.png
-  og_image: https://media.lumenloop.xyz/projects/mobula-labs/og.png
 links:
   website:
     - mobula.io
@@ -39,6 +34,11 @@ attributes:
   operating_region:
     - France
   based_in: France
+images:
+  icon: https://media.lumenloop.com/projects/mobula-labs/favicon.png
+  avatar: https://media.lumenloop.com/projects/mobula-labs/github_avatar.jpg
+  logo: https://media.lumenloop.com/projects/mobula-labs/logo.png
+  og_image: https://media.lumenloop.com/projects/mobula-labs/og.png
 scf:
   awarded_round:
     - 34

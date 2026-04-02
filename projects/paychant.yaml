@@ -2,11 +2,6 @@ title: Paychant
 other_names: null
 parent: null
 description: Paychant is a payment gateway that helps Africans on-ramp and off-ramp right inside any self-custodial wallets, DEX, or dApps using Africa's localized payment methods.
-images:
-  icon: https://media.lumenloop.xyz/projects/paychant/favicon.ico
-  avatar: https://media.lumenloop.xyz/projects/paychant/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/paychant/logo.png
-  og_image: https://media.lumenloop.xyz/projects/paychant/og.jpg
 links:
   website:
     - paychant.com
@@ -38,6 +33,11 @@ attributes:
   operating_region:
     - Sub-Saharan Africa
   based_in: Nigeria
+images:
+  icon: https://media.lumenloop.com/projects/paychant/favicon.ico
+  avatar: https://media.lumenloop.com/projects/paychant/github_avatar.png
+  logo: https://media.lumenloop.com/projects/paychant/logo.png
+  og_image: https://media.lumenloop.com/projects/paychant/og.jpg
 scf:
   awarded_round:
     - 16

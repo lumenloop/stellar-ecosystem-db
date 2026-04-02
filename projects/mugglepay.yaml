@@ -3,10 +3,6 @@ other_names:
   - 'MugglePay: Stripe for Stellar'
 parent: null
 description: "Help merchants accept crypto on Stellar\_through autoswap smarts contract built on Soroban. (e.g. pay-in XLM, pay-out USDC)."
-images:
-  icon: https://media.lumenloop.xyz/projects/mugglepay/apple_touch.jpg
-  avatar: https://media.lumenloop.xyz/projects/mugglepay/github_avatar.jpg
-  logo: https://media.lumenloop.xyz/projects/mugglepay/logo.jpg
 links:
   website:
     - mugglepay.com
@@ -39,6 +35,10 @@ attributes:
   operating_region:
     - East Asia & Pacific
   based_in: Singapore
+images:
+  icon: https://media.lumenloop.com/projects/mugglepay/apple_touch.jpg
+  avatar: https://media.lumenloop.com/projects/mugglepay/github_avatar.jpg
+  logo: https://media.lumenloop.com/projects/mugglepay/logo.jpg
 scf:
   awarded_round:
     - 30

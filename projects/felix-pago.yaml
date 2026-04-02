@@ -2,10 +2,6 @@ title: Felix Pago
 other_names: null
 parent: null
 description: Félix Pago enables users in the United States to send money to Mexico, Guatemala, and Honduras instantly through WhatsApp, eliminating the need for additional apps or in-person visits.
-images:
-  icon: https://media.lumenloop.xyz/projects/felix-pago/apple_touch.jpg
-  logo: https://media.lumenloop.xyz/projects/felix-pago/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/felix-pago/og.png
 links:
   website:
     - felixpago.com
@@ -35,6 +31,10 @@ attributes:
     - Latin America & Caribbean
     - North America (without Mexico)
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/felix-pago/apple_touch.jpg
+  logo: https://media.lumenloop.com/projects/felix-pago/logo.svg
+  og_image: https://media.lumenloop.com/projects/felix-pago/og.png
 mainnet:
   audits: []
   tokens: []

@@ -2,10 +2,6 @@ title: dolphinze
 other_names: null
 parent: null
 description: Next-generation global payroll infrastructure for contractors, powered by Stellar for instant, low-cost cross-border payments.
-images:
-  icon: https://media.lumenloop.xyz/projects/dolphinze/apple_touch.png
-  logo: https://media.lumenloop.xyz/projects/dolphinze/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/dolphinze/og.png
 links:
   website:
     - dolphinze.com
@@ -35,6 +31,10 @@ attributes:
   operating_region:
     - Nigeria
   based_in: Canada
+images:
+  icon: https://media.lumenloop.com/projects/dolphinze/apple_touch.png
+  logo: https://media.lumenloop.com/projects/dolphinze/logo.svg
+  og_image: https://media.lumenloop.com/projects/dolphinze/og.png
 scf:
   awarded_round:
     - 39

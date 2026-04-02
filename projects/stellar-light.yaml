@@ -2,8 +2,6 @@ title: Stellar Light
 other_names: null
 parent: null
 description: "Explore and Navigate dApps, Tools, Stablecoins, DAOs, Wallets, NFTs \L& more built on Soroban."
-images:
-  avatar: https://media.lumenloop.xyz/projects/stellar-light/github_avatar.png
 links:
   website:
     - stellarlight.xyz
@@ -28,6 +26,8 @@ attributes:
   operating_region:
     - Global
   based_in: Canada
+images:
+  avatar: https://media.lumenloop.com/projects/stellar-light/github_avatar.png
 scf:
   awarded_round:
     - 22

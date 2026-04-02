@@ -3,10 +3,6 @@ other_names:
   - OneClick.Fi
 parent: null
 description: OneClick.Fi offers an all-in-one DeFi onboarding platform to help web3 users get access to the best DeFi protocols/opportunities in one click with simple UX, gamification, and AI-powered risk assessments.
-images:
-  icon: https://media.lumenloop.xyz/projects/one-click/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/one-click/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/one-click/logo.svg
 links:
   website:
     - oneclick.fi
@@ -39,6 +35,10 @@ attributes:
   operating_region:
     - Europe & Central Asia
   based_in: Netherlands
+images:
+  icon: https://media.lumenloop.com/projects/one-click/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/one-click/github_avatar.png
+  logo: https://media.lumenloop.com/projects/one-click/logo.svg
 scf:
   awarded_round:
     - 32

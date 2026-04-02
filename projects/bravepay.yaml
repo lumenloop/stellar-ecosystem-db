@@ -3,7 +3,6 @@ other_names:
   - 'BravePay:'
 parent: null
 description: Makes cashless payments accessible to on and offline retailers, transforming any smartphone & website in a zero-fees POS.
-images: null
 links:
   website:
     - bravepay.net
@@ -33,6 +32,7 @@ attributes:
   operating_region:
     - Europe & Central Asia
   based_in: Spain
+images: null
 scf:
   awarded_round:
     - 11

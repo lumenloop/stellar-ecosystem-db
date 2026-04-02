@@ -3,9 +3,6 @@ other_names:
   - BondHive:OnChain Fixed Deposit
 parent: null
 description: Bond Hive simplifies on-chain savings, offering fixed returns by tokenizing funding fees, making complex futures easy for everyone.
-images:
-  icon: https://media.lumenloop.xyz/projects/bondhive/apple_touch.svg
-  avatar: https://media.lumenloop.xyz/projects/bondhive/github_avatar.png
 links:
   website:
     - bondhive.xyz
@@ -32,6 +29,9 @@ attributes:
   operating_region:
     - France
   based_in: United Kingdom
+images:
+  icon: https://media.lumenloop.com/projects/bondhive/apple_touch.svg
+  avatar: https://media.lumenloop.com/projects/bondhive/github_avatar.png
 scf:
   awarded_round:
     - 27

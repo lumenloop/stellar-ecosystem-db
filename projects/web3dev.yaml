@@ -3,7 +3,6 @@ other_names:
   - Study @stellar-sdk & Soroban
 parent: null
 description: Stellar SDK & Soroban Study Group sessions to teach Spanish-speaking students on Discord.
-images: null
 links:
   website:
     - discord.gg/web3dev
@@ -27,6 +26,7 @@ attributes:
   operating_region:
     - Global
   based_in: null
+images: null
 scf:
   awarded_round:
     - 27

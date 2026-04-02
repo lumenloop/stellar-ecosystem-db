@@ -3,10 +3,6 @@ other_names:
   - Dfns Stellar Support
 parent: null
 description: Dfns is a MPC wallet as a service platform, supporting banks, fintechs, tokenization platforms and more.
-images:
-  icon: https://media.lumenloop.xyz/projects/dfns/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/dfns/github_avatar.png
-  og_image: https://media.lumenloop.xyz/projects/dfns/og.jpg
 links:
   website:
     - dfns.co
@@ -34,6 +30,10 @@ attributes:
   operating_region:
     - Switzerland
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/dfns/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/dfns/github_avatar.png
+  og_image: https://media.lumenloop.com/projects/dfns/og.jpg
 scf:
   awarded_round:
     - 25

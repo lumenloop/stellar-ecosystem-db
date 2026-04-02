@@ -2,8 +2,6 @@ title: Comunitaria
 other_names: null
 parent: null
 description: Comunitaria leverages Soroban smart contracts to deploy community currencies, enabling governments and NGOs to distribute funds and boost local commerce with efficiency and simplicity.
-images:
-  og_image: https://media.lumenloop.xyz/projects/comunitaria/og.png
 links:
   website:
     - comunitaria.com
@@ -36,6 +34,8 @@ attributes:
   operating_region:
     - Europe & Central Asia
   based_in: Argentina
+images:
+  og_image: https://media.lumenloop.com/projects/comunitaria/og.png
 scf:
   awarded_round:
     - 34

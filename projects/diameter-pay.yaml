@@ -2,8 +2,6 @@ title: Diameter Pay
 other_names: null
 parent: null
 description: Regulated payments platform providing API-driven cross-border payment processing on Stellar, enabling businesses to send and receive funds across currencies with compliance built in.
-images:
-  og_image: https://media.lumenloop.xyz/projects/diameter-pay/og.png
 links:
   website:
     - diameterpay.com
@@ -33,6 +31,8 @@ attributes:
     - Europe & Central Asia
     - North America (without Mexico)
   based_in: Poland
+images:
+  og_image: https://media.lumenloop.com/projects/diameter-pay/og.png
 scf:
   awarded_round:
     - 40

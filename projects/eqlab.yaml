@@ -3,7 +3,6 @@ other_names:
   - EQ Lab
 parent: null
 description: Web3 development hub building blockchain solutions and decentralized finance products.
-images: null
 links:
   website:
     - eqlab.io
@@ -29,6 +28,7 @@ attributes:
   operating_region:
     - Global
   based_in: Lisbon, Portugal
+images: null
 mainnet:
   audits:
     - name: Slender Security Assessment Report

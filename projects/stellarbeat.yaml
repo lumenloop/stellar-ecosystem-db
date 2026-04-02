@@ -2,9 +2,6 @@ title: Stellarbeat
 other_names: null
 parent: null
 description: Stellarbeat is a network explorer for the Stellar network, providing a comprehensive list of all nodes and organizations. It tracks various metrics, offers a history of changes, and allows users to simulate different network conditions and topologies.
-images:
-  icon: https://media.lumenloop.xyz/projects/stellarbeat/favicon.png
-  avatar: https://media.lumenloop.xyz/projects/stellarbeat/github_avatar.png
 links:
   website:
     - stellarbeat.io
@@ -30,6 +27,9 @@ attributes:
   operating_region:
     - Global
   based_in: null
+images:
+  icon: https://media.lumenloop.com/projects/stellarbeat/favicon.png
+  avatar: https://media.lumenloop.com/projects/stellarbeat/github_avatar.png
 mainnet:
   audits: []
   tokens: []

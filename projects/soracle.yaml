@@ -3,7 +3,6 @@ other_names:
   - Soracle.org (Posted)
 parent: null
 description: Social media oracles on Soroban for dApp developers and content creators.
-images: null
 links:
   website:
     - posted.app
@@ -28,6 +27,7 @@ attributes:
   operating_region:
     - United States
   based_in: United States
+images: null
 scf:
   awarded_round:
     - 22

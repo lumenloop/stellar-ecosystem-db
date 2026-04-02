@@ -2,7 +2,6 @@ title: Simple Signer
 other_names: null
 parent: Bigger
 description: A secure in-browser transaction signer that supports different stellar wallets.
-images: null
 links:
   website:
     - github.com/fsodano/simple-stellar-signer
@@ -25,6 +24,7 @@ attributes:
   operating_region:
     - Global
   based_in: Argentina
+images: null
 scf:
   awarded_round:
     - 9

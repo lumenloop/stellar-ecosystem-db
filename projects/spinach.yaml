@@ -2,10 +2,6 @@ title: Spinach
 other_names: null
 parent: null
 description: DEX liquidity growth platform that runs incentive programs for Stellar protocols, driving trading volume through targeted market-making campaigns.
-images:
-  icon: https://media.lumenloop.xyz/projects/spinach/favicon.ico
-  avatar: https://media.lumenloop.xyz/projects/spinach/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/spinach/logo.png
 links:
   website:
     - spinach.fi
@@ -30,6 +26,10 @@ attributes:
     - North America (without Mexico)
     - Europe & Central Asia
   based_in: Canada
+images:
+  icon: https://media.lumenloop.com/projects/spinach/favicon.ico
+  avatar: https://media.lumenloop.com/projects/spinach/github_avatar.png
+  logo: https://media.lumenloop.com/projects/spinach/logo.png
 scf:
   awarded_round:
     - 35

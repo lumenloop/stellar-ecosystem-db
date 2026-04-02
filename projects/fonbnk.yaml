@@ -2,8 +2,6 @@ title: Fonbnk
 other_names: null
 parent: null
 description: Fonbnk is a global marketplace that enables users to convert local currencies, including prepaid mobile airtime, into digital assets like stablecoins, facilitating fast and secure dollar-based settlements across Africa.
-images:
-  avatar: https://media.lumenloop.xyz/projects/fonbnk/github_avatar.jpg
 links:
   website:
     - fonbnk.com
@@ -33,6 +31,8 @@ attributes:
   operating_region:
     - Sub-Saharan Africa
   based_in: United States
+images:
+  avatar: https://media.lumenloop.com/projects/fonbnk/github_avatar.jpg
 mainnet:
   audits: []
   tokens: []

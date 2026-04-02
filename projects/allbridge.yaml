@@ -3,11 +3,6 @@ other_names:
   - Allbridge Core
 parent: null
 description: Allbridge enables users to seamlessly access the Stellar ecosystem through crossbridge swaps.
-images:
-  icon: https://media.lumenloop.xyz/projects/allbridge/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/allbridge/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/allbridge/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/allbridge/og.png
 links:
   website:
     - allbridge.io
@@ -37,6 +32,11 @@ attributes:
   operating_region:
     - Ukraine
   based_in: Portugal
+images:
+  icon: https://media.lumenloop.com/projects/allbridge/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/allbridge/github_avatar.png
+  logo: https://media.lumenloop.com/projects/allbridge/logo.svg
+  og_image: https://media.lumenloop.com/projects/allbridge/og.png
 scf:
   awarded_round:
     - 20

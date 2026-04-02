@@ -2,9 +2,6 @@ title: uils
 other_names: null
 parent: null
 description: Wallet that offers you loans based on your driving record.
-images:
-  icon: https://media.lumenloop.xyz/projects/uils/apple_touch.png
-  logo: https://media.lumenloop.xyz/projects/uils/logo.png
 links:
   website:
     - uils.la
@@ -31,6 +28,9 @@ attributes:
   operating_region:
     - Buenos Aires, Argentina
   based_in: Argentina
+images:
+  icon: https://media.lumenloop.com/projects/uils/apple_touch.png
+  logo: https://media.lumenloop.com/projects/uils/logo.png
 scf:
   awarded_round:
     - 17

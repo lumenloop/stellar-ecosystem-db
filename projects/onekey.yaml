@@ -2,10 +2,6 @@ title: OneKey
 other_names: null
 parent: null
 description: Open-source hardware and software wallet with Stellar support, enabling secure self-custody across multiple blockchains.
-images:
-  icon: https://media.lumenloop.xyz/projects/onekey/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/onekey/github_avatar.png
-  og_image: https://media.lumenloop.xyz/projects/onekey/og.jpg
 links:
   website:
     - onekey.so
@@ -32,6 +28,10 @@ attributes:
   operating_region:
     - East Asia & Pacific
   based_in: China
+images:
+  icon: https://media.lumenloop.com/projects/onekey/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/onekey/github_avatar.png
+  og_image: https://media.lumenloop.com/projects/onekey/og.jpg
 scf:
   awarded_round:
     - 39

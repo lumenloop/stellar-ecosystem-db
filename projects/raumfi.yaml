@@ -4,11 +4,6 @@ other_names:
   - Chrysalis
 parent: null
 description: RaumFi DEX empowers seamless token swap through an AMM while offering insights and metrics via uniquely designed dashboard.
-images:
-  icon: https://media.lumenloop.xyz/projects/raumfi/favicon.svg
-  avatar: https://media.lumenloop.xyz/projects/raumfi/github_avatar.jpg
-  logo: https://media.lumenloop.xyz/projects/raumfi/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/raumfi/og.svg
 links:
   website:
     - raum.network
@@ -38,6 +33,11 @@ attributes:
   operating_region:
     - India
   based_in: India
+images:
+  icon: https://media.lumenloop.com/projects/raumfi/favicon.svg
+  avatar: https://media.lumenloop.com/projects/raumfi/github_avatar.jpg
+  logo: https://media.lumenloop.com/projects/raumfi/logo.svg
+  og_image: https://media.lumenloop.com/projects/raumfi/og.svg
 scf:
   awarded_round:
     - 29

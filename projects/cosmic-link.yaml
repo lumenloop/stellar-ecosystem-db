@@ -2,8 +2,6 @@ title: Cosmic.link
 other_names: null
 parent: null
 description: Transactions over URL.
-images:
-  avatar: https://media.lumenloop.xyz/projects/cosmic-link/github_avatar.png
 links:
   website:
     - cosmic.link
@@ -27,6 +25,8 @@ attributes:
   operating_region:
     - Global
   based_in: null
+images:
+  avatar: https://media.lumenloop.com/projects/cosmic-link/github_avatar.png
 scf:
   awarded_round:
     - 3

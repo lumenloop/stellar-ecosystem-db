@@ -3,10 +3,6 @@ other_names:
   - Post-Quantum Secure Wallets for Stellar
 parent: null
 description: Enable post-quantum wallets and transactions on Stellar, protecting retail and institutional users against upcoming quantum threats.
-images:
-  icon: https://media.lumenloop.xyz/projects/soundness/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/soundness/github_avatar.jpg
-  logo: https://media.lumenloop.xyz/projects/soundness/logo.png
 links:
   website:
     - soundness.xyz
@@ -33,6 +29,10 @@ attributes:
   operating_region:
     - Europe & Central Asia
   based_in: United Kingdom
+images:
+  icon: https://media.lumenloop.com/projects/soundness/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/soundness/github_avatar.jpg
+  logo: https://media.lumenloop.com/projects/soundness/logo.png
 scf:
   awarded_round:
     - 40

@@ -2,8 +2,6 @@ title: CodeLnPay
 other_names: null
 parent: CodeLn
 description: CodeLnPay offers cross-border salary payments to help African-based remote workers seamlessly collect their income.
-images:
-  icon: https://media.lumenloop.xyz/projects/codelnpay/favicon.ico
 links:
   website:
     - pay.codeln.com
@@ -33,6 +31,8 @@ attributes:
   operating_region:
     - Nigeria
   based_in: Nigeria
+images:
+  icon: https://media.lumenloop.com/projects/codelnpay/favicon.ico
 scf:
   awarded_round:
     - 25

@@ -2,9 +2,6 @@ title: Stellar Tools
 other_names: null
 parent: null
 description: Enhancing Stellar's ecosystem with a comprehensive suite for asset management, NFT creation, and community engagement.
-images:
-  icon: https://media.lumenloop.xyz/projects/stellar-tools/favicon.ico
-  logo: https://media.lumenloop.xyz/projects/stellar-tools/logo.svg
 links:
   website:
     - stellartools.xyz
@@ -29,6 +26,9 @@ attributes:
   operating_region:
     - Global
   based_in: Chile
+images:
+  icon: https://media.lumenloop.com/projects/stellar-tools/favicon.ico
+  logo: https://media.lumenloop.com/projects/stellar-tools/logo.svg
 scf:
   awarded_round:
     - 26

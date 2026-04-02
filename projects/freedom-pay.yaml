@@ -2,9 +2,6 @@ title: Freedom Pay
 other_names: null
 parent: null
 description: Freedom Pay Wallet is a digital payment platform that enables users to send and receive funds instantly and securely, with no fees, utilizing blockchain technology. Built on the Stellar Network, it aims to provide financial access to unbanked populations, particularly in Africa, facilitating cross-border transactions and remittances.
-images:
-  icon: https://media.lumenloop.xyz/projects/freedom-pay/apple_touch.png
-  logo: https://media.lumenloop.xyz/projects/freedom-pay/logo.png
 links:
   website:
     - freedompaywallet.com
@@ -32,6 +29,9 @@ attributes:
   operating_region:
     - Sub-Saharan Africa
   based_in: United Kingdom
+images:
+  icon: https://media.lumenloop.com/projects/freedom-pay/apple_touch.png
+  logo: https://media.lumenloop.com/projects/freedom-pay/logo.png
 mainnet:
   audits: []
   tokens: []

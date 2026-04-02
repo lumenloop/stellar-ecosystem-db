@@ -3,7 +3,6 @@ other_names:
   - 'Blip: Soroban Real-Time Monitoring'
 parent: null
 description: Blip is a platform offering real-time monitoring, alerts, dashboards, and APIs for Soroban smart contracts on the Stellar network. It helps developers detect issues instantly, optimize performance, and gain valuable insights into their contracts.
-images: null
 links:
   website:
     - blip.watch
@@ -28,6 +27,7 @@ attributes:
   operating_region:
     - Global
   based_in: India
+images: null
 scf:
   awarded_round:
     - 28

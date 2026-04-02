@@ -2,11 +2,6 @@ title: Zebec
 other_names: null
 parent: null
 description: Zebec is a decentralized infrastructure network that facilitates real-time, frictionless, and continuous streams of payments, enabling seamless financial transactions for individuals and businesses. Their products include real-time payroll systems, on-chain payment solutions, and crypto-enabled debit cards.
-images:
-  icon: https://media.lumenloop.xyz/projects/zebec/favicon.png
-  avatar: https://media.lumenloop.xyz/projects/zebec/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/zebec/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/zebec/og.png
 links:
   website:
     - zebec.io
@@ -38,6 +33,11 @@ attributes:
   operating_region:
     - Global
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/zebec/favicon.png
+  avatar: https://media.lumenloop.com/projects/zebec/github_avatar.png
+  logo: https://media.lumenloop.com/projects/zebec/logo.svg
+  og_image: https://media.lumenloop.com/projects/zebec/og.png
 mainnet:
   audits: []
   tokens: []

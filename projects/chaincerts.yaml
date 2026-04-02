@@ -2,10 +2,6 @@ title: Chaincerts
 other_names: null
 parent: null
 description: 'Chaincerts: smart contracts-backed credentials.'
-images:
-  icon: https://media.lumenloop.xyz/projects/chaincerts/favicon.ico
-  logo: https://media.lumenloop.xyz/projects/chaincerts/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/chaincerts/og.png
 links:
   website:
     - chaincerts.co
@@ -32,6 +28,10 @@ attributes:
   operating_region:
     - LATAM, USA
   based_in: Colombia
+images:
+  icon: https://media.lumenloop.com/projects/chaincerts/favicon.ico
+  logo: https://media.lumenloop.com/projects/chaincerts/logo.svg
+  og_image: https://media.lumenloop.com/projects/chaincerts/og.png
 scf:
   awarded_round:
     - 13

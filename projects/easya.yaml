@@ -2,10 +2,6 @@ title: EasyA
 other_names: null
 parent: null
 description: EasyA is an educational platform that offers interactive challenges and resources to help users learn about blockchain and Web3 technologies, including the Stellar network and Soroban smart contracts. EasyA has organized hackathons in partnership with the Stellar Development Foundation.
-images:
-  icon: https://media.lumenloop.xyz/projects/easya/apple_touch.png
-  logo: https://media.lumenloop.xyz/projects/easya/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/easya/og.jpg
 links:
   website:
     - easya.io
@@ -33,6 +29,10 @@ attributes:
   operating_region:
     - United States
   based_in: United Kingdom
+images:
+  icon: https://media.lumenloop.com/projects/easya/apple_touch.png
+  logo: https://media.lumenloop.com/projects/easya/logo.svg
+  og_image: https://media.lumenloop.com/projects/easya/og.jpg
 scf:
   awarded_round:
     - 17

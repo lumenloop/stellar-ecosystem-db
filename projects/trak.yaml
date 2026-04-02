@@ -3,8 +3,6 @@ other_names:
   - Ayadee TRAK
 parent: Ayadee
 description: Record product's path through the supply chain on every step from factory to retail purchase.
-images:
-  logo: https://media.lumenloop.xyz/projects/trak/logo.png
 links:
   website:
     - trak.id
@@ -28,6 +26,8 @@ attributes:
   operating_region:
     - Global
   based_in: null
+images:
+  logo: https://media.lumenloop.com/projects/trak/logo.png
 scf:
   awarded_round:
     - 6

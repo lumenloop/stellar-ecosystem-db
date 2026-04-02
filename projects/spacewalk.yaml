@@ -2,11 +2,6 @@ title: Spacewalk
 other_names: null
 parent: Pendulum
 description: 'The first bridge to Polkadot: giving Stellar users more access to the DeFi world.'
-images:
-  icon: https://media.lumenloop.xyz/projects/spacewalk/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/spacewalk/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/spacewalk/logo.png
-  og_image: https://media.lumenloop.xyz/projects/spacewalk/og.png
 links:
   website:
     - pendulumchain.org/spacewalk
@@ -37,6 +32,11 @@ attributes:
   operating_region:
     - Germany
   based_in: Germany
+images:
+  icon: https://media.lumenloop.com/projects/spacewalk/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/spacewalk/github_avatar.png
+  logo: https://media.lumenloop.com/projects/spacewalk/logo.png
+  og_image: https://media.lumenloop.com/projects/spacewalk/og.png
 scf:
   awarded_round:
     - 11

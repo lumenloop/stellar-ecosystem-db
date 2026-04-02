@@ -2,9 +2,6 @@ title: Bebop
 other_names: null
 parent: null
 description: Bebop is an app focused on expanding Africa's access to the global economy by providing free, instant money transfers built on blockchain technology.
-images:
-  icon: https://media.lumenloop.xyz/projects/bebop/apple_touch.png
-  logo: https://media.lumenloop.xyz/projects/bebop/logo.webp
 links:
   website:
     - bebop.cash
@@ -35,6 +32,9 @@ attributes:
     - North America (without Mexico)
     - Sub-Saharan Africa
   based_in: United Kingdom
+images:
+  icon: https://media.lumenloop.com/projects/bebop/apple_touch.png
+  logo: https://media.lumenloop.com/projects/bebop/logo.webp
 scf:
   awarded_round:
     - 28

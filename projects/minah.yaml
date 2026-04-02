@@ -2,9 +2,6 @@ title: Minah
 other_names: null
 parent: null
 description: Decentralized investment platform on Stellar transforming real estate and asset investing with fractional tokenization and transparent on-chain management.
-images:
-  icon: https://media.lumenloop.xyz/projects/minah/apple_touch.png
-  og_image: https://media.lumenloop.xyz/projects/minah/og.png
 links:
   website:
     - minah.io
@@ -31,6 +28,9 @@ attributes:
   operating_region:
     - Sub-Saharan Africa
   based_in: France
+images:
+  icon: https://media.lumenloop.com/projects/minah/apple_touch.png
+  og_image: https://media.lumenloop.com/projects/minah/og.png
 scf:
   awarded_round:
     - 38

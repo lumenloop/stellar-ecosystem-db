@@ -2,8 +2,6 @@ title: Walletban
 other_names: null
 parent: null
 description: Walletless onboarding SDK for Stellar developers, with SAC deployment and REST-based chain interaction.
-images:
-  avatar: https://media.lumenloop.xyz/projects/walletban/github_avatar.png
 links:
   website:
     - walletban.xyz
@@ -29,6 +27,8 @@ attributes:
   operating_region:
     - Global
   based_in: null
+images:
+  avatar: https://media.lumenloop.com/projects/walletban/github_avatar.png
 scf:
   awarded_round:
     - 20

@@ -2,8 +2,6 @@ title: CashAbroad
 other_names: null
 parent: null
 description: Do Abroad business as easily as with locals for exporting and importing businesses in LATAM. CashAbroad facilitates cross-border payments with USDC and Fiat.
-images:
-  logo: https://media.lumenloop.xyz/projects/cashabroad/logo.png
 links:
   website:
     - cashabroad.one
@@ -32,6 +30,8 @@ attributes:
   operating_region:
     - Mexico
   based_in: Mexico
+images:
+  logo: https://media.lumenloop.com/projects/cashabroad/logo.png
 scf:
   awarded_round:
     - 11

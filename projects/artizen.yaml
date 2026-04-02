@@ -2,9 +2,6 @@ title: Artizen
 other_names: null
 parent: null
 description: Artizen is a match funding platform that helps brands 10x growth for their ecosystems by funding breakthroughs in art, science, and technology.
-images:
-  avatar: https://media.lumenloop.xyz/projects/artizen/github_avatar.png
-  og_image: https://media.lumenloop.xyz/projects/artizen/og.jpg
 links:
   website:
     - artizen.fund
@@ -40,6 +37,9 @@ attributes:
     - North America (without Mexico)
     - Sub-Saharan Africa
   based_in: United States
+images:
+  avatar: https://media.lumenloop.com/projects/artizen/github_avatar.png
+  og_image: https://media.lumenloop.com/projects/artizen/og.jpg
 scf:
   awarded_round:
     - 33

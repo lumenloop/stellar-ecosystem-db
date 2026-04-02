@@ -2,7 +2,6 @@ title: PHP Anchor SDK
 other_names: null
 parent: null
 description: The PHP Anchor SDK abstracts Stellar-specific functionality for running an Anchor, allowing PHP devs to focus on business logic.
-images: null
 links:
   website:
     - github.com/argo-navis-dev/php-anchor-sdk
@@ -26,6 +25,7 @@ attributes:
   operating_region:
     - Global
   based_in: Romania
+images: null
 scf:
   awarded_round:
     - 22

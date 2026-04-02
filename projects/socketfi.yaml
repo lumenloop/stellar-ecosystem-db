@@ -2,9 +2,6 @@ title: SocketFi
 other_names: null
 parent: null
 description: SocketFi is a smart wallet and one-stop dApp built on the Stellar Lumen ecosystem and Soroban Blockchain. Designed to seamlessly connect millions of social media users to Web3, it provides access to hundreds of dApps and Web3 tools—all in one place.
-images:
-  icon: https://media.lumenloop.xyz/projects/socketfi/favicon.svg
-  logo: https://media.lumenloop.xyz/projects/socketfi/logo.svg
 links:
   website:
     - socket.fi
@@ -41,6 +38,9 @@ attributes:
     - Sub-Saharan Africa
     - Europe & Central Asia
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/socketfi/favicon.svg
+  logo: https://media.lumenloop.com/projects/socketfi/logo.svg
 scf:
   awarded_round:
     - 32

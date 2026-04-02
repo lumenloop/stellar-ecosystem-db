@@ -3,11 +3,6 @@ other_names:
   - Cobo Custody Integration for Institution
 parent: null
 description: Institutional-grade digital asset custody and wallet infrastructure with MPC security, supporting Stellar asset management for organizations.
-images:
-  icon: https://media.lumenloop.xyz/projects/cobo/favicon.ico
-  avatar: https://media.lumenloop.xyz/projects/cobo/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/cobo/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/cobo/og.png
 links:
   website:
     - cobo.com
@@ -41,6 +36,11 @@ attributes:
   operating_region:
     - East Asia & Pacific
   based_in: Singapore
+images:
+  icon: https://media.lumenloop.com/projects/cobo/favicon.ico
+  avatar: https://media.lumenloop.com/projects/cobo/github_avatar.png
+  logo: https://media.lumenloop.com/projects/cobo/logo.svg
+  og_image: https://media.lumenloop.com/projects/cobo/og.png
 scf:
   awarded_round:
     - 35

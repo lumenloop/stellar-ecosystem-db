@@ -2,10 +2,6 @@ title: Mica
 other_names: null
 parent: null
 description: Mica escrow creates security in real estate transactions.
-images:
-  icon: https://media.lumenloop.xyz/projects/mica/favicon.png
-  avatar: https://media.lumenloop.xyz/projects/mica/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/mica/logo.png
 links:
   website:
     - mica.rent
@@ -31,6 +27,10 @@ attributes:
   operating_region:
     - Global
   based_in: Mexico
+images:
+  icon: https://media.lumenloop.com/projects/mica/favicon.png
+  avatar: https://media.lumenloop.com/projects/mica/github_avatar.png
+  logo: https://media.lumenloop.com/projects/mica/logo.png
 scf:
   awarded_round:
     - 16

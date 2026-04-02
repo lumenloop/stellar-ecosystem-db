@@ -2,8 +2,6 @@ title: Fluxity
 other_names: null
 parent: null
 description: Offers businesses and individuals unprecedented payment customizability through a precision-crafted token streaming platform.
-images:
-  avatar: https://media.lumenloop.xyz/projects/fluxity/github_avatar.png
 links:
   website:
     - fluxity.finance
@@ -32,6 +30,8 @@ attributes:
   operating_region:
     - Global
   based_in: Turkey
+images:
+  avatar: https://media.lumenloop.com/projects/fluxity/github_avatar.png
 scf:
   awarded_round:
     - 21

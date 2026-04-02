@@ -3,9 +3,6 @@ other_names:
   - (SSC) - Scorechain Stellar Compliance
 parent: null
 description: Scorechain for Stellar Compliance will integrate the Stellar blockchain into Scorechain’s enterprise-grade crypto compliance platform. The objective is to support Stellar with the same level of advanced KYT (Know-Your-Transaction), risk scoring, and AML tools we currently offer for 15+ blockchains including Bitcoin, Ethereum, and Ripple.
-images:
-  icon: https://media.lumenloop.xyz/projects/scorechain/apple_touch.png
-  og_image: https://media.lumenloop.xyz/projects/scorechain/og.png
 links:
   website:
     - scorechain.com
@@ -31,6 +28,9 @@ attributes:
   operating_region:
     - Luxembourg
   based_in: Luxembourg
+images:
+  icon: https://media.lumenloop.com/projects/scorechain/apple_touch.png
+  og_image: https://media.lumenloop.com/projects/scorechain/og.png
 scf:
   awarded_round:
     - 36

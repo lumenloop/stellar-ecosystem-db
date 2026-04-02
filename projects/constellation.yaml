@@ -3,8 +3,6 @@ other_names:
   - Constellation Protocol
 parent: null
 description: A protocol for creating and managing tokenized indexes on Stellar.
-images:
-  avatar: https://media.lumenloop.xyz/projects/constellation/github_avatar.png
 links:
   website:
     - github.com/constellation-protocol
@@ -28,6 +26,8 @@ attributes:
   operating_region:
     - Global
   based_in: United States
+images:
+  avatar: https://media.lumenloop.com/projects/constellation/github_avatar.png
 scf:
   awarded_round:
     - 19

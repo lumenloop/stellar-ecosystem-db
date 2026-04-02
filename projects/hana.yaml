@@ -3,11 +3,6 @@ other_names:
   - Hana Wallet
 parent: null
 description: 'Hana Wallet: Simple multi-chain crypto on-the-go, Like MetaMask, Polkadot.js, ICONex, Keplr, all in one, for everybody.'
-images:
-  icon: https://media.lumenloop.xyz/projects/hana/favicon.ico
-  avatar: https://media.lumenloop.xyz/projects/hana/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/hana/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/hana/og.jpg
 links:
   website:
     - hanawallet.io
@@ -38,6 +33,11 @@ attributes:
   operating_region:
     - East Asia & Pacific
   based_in: Australia
+images:
+  icon: https://media.lumenloop.com/projects/hana/favicon.ico
+  avatar: https://media.lumenloop.com/projects/hana/github_avatar.png
+  logo: https://media.lumenloop.com/projects/hana/logo.svg
+  og_image: https://media.lumenloop.com/projects/hana/og.jpg
 scf:
   awarded_round:
     - 22

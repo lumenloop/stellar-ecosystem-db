@@ -2,11 +2,6 @@ title: Axal
 other_names: null
 parent: null
 description: AI-powered automation platform expanding into Stellar with Autopilot support, custom ecosystem indices, and agent-powered onboarding.
-images:
-  icon: https://media.lumenloop.xyz/projects/axal/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/axal/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/axal/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/axal/og.webp
 links:
   website:
     - ax.al
@@ -36,6 +31,11 @@ attributes:
   operating_region:
     - North America (without Mexico)
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/axal/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/axal/github_avatar.png
+  logo: https://media.lumenloop.com/projects/axal/logo.svg
+  og_image: https://media.lumenloop.com/projects/axal/og.webp
 scf:
   awarded_round:
     - 35

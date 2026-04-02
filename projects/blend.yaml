@@ -3,10 +3,6 @@ other_names:
   - Blend
 parent: Script3
 description: Blend is a decentralized finance (DeFi) protocol built on Stellar's Soroban smart contract platform, enabling users, DAOs, and institutions to create and manage lending pools with customizable assets and specifications. It offers permissionless deployment of isolated lending pools, ensuring security and capital efficiency without the need for centralized governance.
-images:
-  icon: https://media.lumenloop.xyz/projects/blend/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/blend/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/blend/logo.svg
 links:
   website:
     - blend.capital
@@ -33,6 +29,10 @@ attributes:
   operating_region:
     - Global
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/blend/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/blend/github_avatar.png
+  logo: https://media.lumenloop.com/projects/blend/logo.svg
 scf:
   awarded_round:
     - Liquidity Award - '24 Q1

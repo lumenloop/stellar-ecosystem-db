@@ -3,8 +3,6 @@ other_names:
   - COINQVEST
 parent: null
 description: A cryptocurrency payment gateway and API solution that enables businesses to accept and settle payments in digital currencies like Bitcoin, Ethereum, and Stellar Lumens, converting them into fiat currencies such as USD or EUR.
-images:
-  avatar: https://media.lumenloop.xyz/projects/whalestack/github_avatar.jpg
 links:
   website:
     - coinqvest.com
@@ -31,6 +29,8 @@ attributes:
   operating_region:
     - Finland
   based_in: Finland
+images:
+  avatar: https://media.lumenloop.com/projects/whalestack/github_avatar.jpg
 scf:
   awarded_round:
     - 4

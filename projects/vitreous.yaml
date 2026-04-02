@@ -2,7 +2,6 @@ title: Vitreous
 other_names: null
 parent: null
 description: Transparent fundraising platform.
-images: null
 links:
   website:
     - vitreous.co
@@ -29,6 +28,7 @@ attributes:
   operating_region:
     - Global
   based_in: France
+images: null
 scf:
   awarded_round:
     - 10

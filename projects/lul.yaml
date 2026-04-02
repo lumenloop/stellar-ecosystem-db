@@ -3,7 +3,6 @@ other_names:
   - Lul-Serving the unbanked
 parent: null
 description: Enabling financial inclusion for refugees and the unbanked in Africa with Remittance,ROSCA, Virtual cards, and other service.
-images: null
 links:
   website:
     - lulpay.com
@@ -31,6 +30,7 @@ attributes:
   operating_region:
     - Sub-Saharan Africa
   based_in: Uganda
+images: null
 scf:
   awarded_round:
     - 29

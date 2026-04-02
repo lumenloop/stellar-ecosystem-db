@@ -3,9 +3,6 @@ other_names:
   - Switchly.com - Bridge and DEX
 parent: null
 description: A decentralized, cross-chain protocol for stablecoin bridging and exchange.
-images:
-  avatar: https://media.lumenloop.xyz/projects/switchly/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/switchly/logo.svg
 links:
   website:
     - switchly.com
@@ -29,6 +26,9 @@ attributes:
   operating_region:
     - Global
   based_in: United Kingdom
+images:
+  avatar: https://media.lumenloop.com/projects/switchly/github_avatar.png
+  logo: https://media.lumenloop.com/projects/switchly/logo.svg
 scf:
   awarded_round:
     - 29

@@ -2,9 +2,6 @@ title: Ripe
 other_names: null
 parent: null
 description: Ripe is a crypto payment platform that converts digital assets into local currencies, enabling seamless payments through existing e-wallet systems like GCash and PayNow across Southeast Asia.
-images:
-  icon: https://media.lumenloop.xyz/projects/ripe/apple_touch.png
-  avatar: https://media.lumenloop.xyz/projects/ripe/github_avatar.png
 links:
   website:
     - ripe.money
@@ -33,6 +30,9 @@ attributes:
   operating_region:
     - East Asia & Pacific
   based_in: Philippines
+images:
+  icon: https://media.lumenloop.com/projects/ripe/apple_touch.png
+  avatar: https://media.lumenloop.com/projects/ripe/github_avatar.png
 scf:
   awarded_round:
     - 17

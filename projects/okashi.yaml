@@ -2,8 +2,6 @@ title: Okashi
 other_names: null
 parent: null
 description: Okashi is an online smart contract developer playground.
-images:
-  avatar: https://media.lumenloop.xyz/projects/okashi/github_avatar.png
 links:
   website:
     - okashi.dev
@@ -29,6 +27,8 @@ attributes:
   operating_region:
     - Lithuania
   based_in: Lithuania
+images:
+  avatar: https://media.lumenloop.com/projects/okashi/github_avatar.png
 scf:
   awarded_round:
     - 13

@@ -2,7 +2,6 @@ title: Bitt
 other_names: null
 parent: null
 description: Bitt enables central banks and financial institutions to adopt digital currencies through its Digital Currency Management System, supporting economic growth and financial inclusion via blockchain solutions.
-images: null
 links:
   website:
     - bitt.com
@@ -28,6 +27,7 @@ attributes:
   operating_region:
     - Latin America & Caribbean
   based_in: null
+images: null
 mainnet:
   audits: []
   tokens: []

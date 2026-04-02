@@ -3,7 +3,6 @@ other_names:
   - Pactta API
 parent: null
 description: Pactta enhances anchor interoperability by providing a single API that enables any fintech in LatAm to offer seamless money transfers.
-images: null
 links:
   website:
     - pactta.com
@@ -28,6 +27,7 @@ attributes:
   operating_region:
     - Global
   based_in: null
+images: null
 scf:
   awarded_round:
     - 16

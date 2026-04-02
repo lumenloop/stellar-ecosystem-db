@@ -2,10 +2,6 @@ title: Blaze
 other_names: null
 parent: null
 description: Blaze is a financial technology company offering a global payments app designed for modern nomads, enabling users to send and receive funds across multiple currencies instantly and with minimal fees.
-images:
-  icon: https://media.lumenloop.xyz/projects/blaze/favicon.ico
-  avatar: https://media.lumenloop.xyz/projects/blaze/github_avatar.png
-  og_image: https://media.lumenloop.xyz/projects/blaze/og.jpg
 links:
   website:
     - useblaze.app
@@ -35,6 +31,10 @@ attributes:
   operating_region:
     - Austria
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/blaze/favicon.ico
+  avatar: https://media.lumenloop.com/projects/blaze/github_avatar.png
+  og_image: https://media.lumenloop.com/projects/blaze/og.jpg
 scf:
   awarded_round:
     - 18

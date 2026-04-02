@@ -3,7 +3,6 @@ other_names:
   - Extractor - Soroban Security
 parent: Hacken
 description: Extractor is a Post Deployment security solution that provides multi-level asset protection in smart contracts against exploitation.
-images: null
 links:
   website:
     - extractor.live
@@ -27,6 +26,7 @@ attributes:
   operating_region:
     - Ukraine
   based_in: Portugal
+images: null
 scf:
   awarded_round:
     - 21

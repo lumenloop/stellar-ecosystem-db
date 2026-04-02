@@ -3,10 +3,6 @@ other_names:
   - Hurupay Virtual Accounts Program
 parent: null
 description: Virtual accounts platform for freelancers and remote workers in Africa, enabling USD receipt and local currency withdrawal via Stellar.
-images:
-  icon: https://media.lumenloop.xyz/projects/hurupay/favicon.svg
-  logo: https://media.lumenloop.xyz/projects/hurupay/logo.svg
-  og_image: https://media.lumenloop.xyz/projects/hurupay/og.png
 links:
   website:
     - hurupay.com
@@ -37,6 +33,10 @@ attributes:
     - Sub-Saharan Africa
     - Latin America & Caribbean
   based_in: Kenya
+images:
+  icon: https://media.lumenloop.com/projects/hurupay/favicon.svg
+  logo: https://media.lumenloop.com/projects/hurupay/logo.svg
+  og_image: https://media.lumenloop.com/projects/hurupay/og.png
 scf:
   awarded_round:
     - 39

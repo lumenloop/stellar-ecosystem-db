@@ -2,9 +2,6 @@ title: Liqvid.xyz
 other_names: null
 parent: null
 description: Liqvid.xyz is a compliant infrastructure layer powering tokenization, capital formation, and secondary liquidity across private mid-market alternative assets including private credit, real estate, private equity, bonds, royalties, and more. At Liqvid, we tokenize yield-generating assets and strategies - enabling investors to allocate into diversified private markets, access on-chain collateralized loans, and unlock secondary liquidity with instant settlement.
-images:
-  icon: https://media.lumenloop.xyz/projects/liqvid-xyz/favicon.png
-  logo: https://media.lumenloop.xyz/projects/liqvid-xyz/logo.svg
 links:
   website:
     - liqvid.xyz
@@ -31,6 +28,9 @@ attributes:
   operating_region:
     - Cyprus
   based_in: Serbia
+images:
+  icon: https://media.lumenloop.com/projects/liqvid-xyz/favicon.png
+  logo: https://media.lumenloop.com/projects/liqvid-xyz/logo.svg
 scf:
   awarded_round:
     - 37

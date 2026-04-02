@@ -2,9 +2,6 @@ title: human.tech
 other_names: null
 parent: null
 description: Human.tech provides keys, wallets, and identity infrastructure for personhood, self-custody, and privacy on Stellar.
-images:
-  icon: https://media.lumenloop.xyz/projects/human-tech/apple_touch.png
-  og_image: https://media.lumenloop.xyz/projects/human-tech/og.png
 links:
   website:
     - human.tech
@@ -36,6 +33,9 @@ attributes:
     - North America (without Mexico)
     - South Asia
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/human-tech/apple_touch.png
+  og_image: https://media.lumenloop.com/projects/human-tech/og.png
 scf:
   awarded_round:
     - 34

@@ -2,10 +2,6 @@ title: Smart Deploy
 other_names: null
 parent: Tenk DAO
 description: Smart Deploy is an advanced platform designed to streamline and simplify the uploading, invoking, deploying, and upgrading of smart contracts on Soroban.
-images:
-  icon: https://media.lumenloop.xyz/projects/smart-deploy/favicon.ico
-  logo: https://media.lumenloop.xyz/projects/smart-deploy/logo.png
-  og_image: https://media.lumenloop.xyz/projects/smart-deploy/og.png
 links:
   website:
     - smartdeploy.dev
@@ -31,6 +27,10 @@ attributes:
   operating_region:
     - United States
   based_in: United States
+images:
+  icon: https://media.lumenloop.com/projects/smart-deploy/favicon.ico
+  logo: https://media.lumenloop.com/projects/smart-deploy/logo.png
+  og_image: https://media.lumenloop.com/projects/smart-deploy/og.png
 scf:
   awarded_round:
     - 14

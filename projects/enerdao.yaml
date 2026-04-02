@@ -2,10 +2,6 @@ title: EnerDAO
 other_names: null
 parent: null
 description: 'EnerDAO: Fuelling the Global Green Transition through Decentralized Finance and tokenization of renewable power projects debt.'
-images:
-  avatar: https://media.lumenloop.xyz/projects/enerdao/github_avatar.png
-  logo: https://media.lumenloop.xyz/projects/enerdao/logo.webp
-  og_image: https://media.lumenloop.xyz/projects/enerdao/og.webp
 links:
   website:
     - enerdao.org
@@ -39,6 +35,10 @@ attributes:
   operating_region:
     - Global
   based_in: Ukraine
+images:
+  avatar: https://media.lumenloop.com/projects/enerdao/github_avatar.png
+  logo: https://media.lumenloop.com/projects/enerdao/logo.webp
+  og_image: https://media.lumenloop.com/projects/enerdao/og.webp
 scf:
   awarded_round:
     - 24

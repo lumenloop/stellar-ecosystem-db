@@ -2,8 +2,6 @@ title: AI Transparency Token
 other_names: null
 parent: null
 description: Open-source platform on Soroban that certifies AI system compliance (AI Act, GDPR) using blockchain-based immutable audit records and non-transferable NFT certificates.
-images:
-  avatar: https://media.lumenloop.xyz/projects/ai-transparency-token/github_avatar.png
 links:
   website:
     - ethixia.com
@@ -28,6 +26,8 @@ attributes:
   operating_region:
     - Europe & Central Asia
   based_in: France
+images:
+  avatar: https://media.lumenloop.com/projects/ai-transparency-token/github_avatar.png
 scf:
   awarded_round: []
   awarded_total: null

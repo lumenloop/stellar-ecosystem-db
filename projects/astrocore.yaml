@@ -4,8 +4,6 @@ other_names:
   - Astrocory
 parent: null
 description: Astrocore is an alternative implementation of stellar-core, the core component of the Stellar network.
-images:
-  avatar: https://media.lumenloop.xyz/projects/astrocore/github_avatar.png
 links:
   website:
     - github.com/astroband/astrocore
@@ -29,6 +27,8 @@ attributes:
   operating_region:
     - Global
   based_in: null
+images:
+  avatar: https://media.lumenloop.com/projects/astrocore/github_avatar.png
 scf:
   awarded_round:
     - 2

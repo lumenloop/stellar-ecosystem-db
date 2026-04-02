@@ -2,7 +2,6 @@ title: Clear
 other_names: null
 parent: null
 description: Asmart contract solution connecting payment companies to instant liquidity from individual guarantors for their daily operations.
-images: null
 links:
   website:
     - borderlesspayments.xyz/clear
@@ -25,6 +24,7 @@ attributes:
   operating_region:
     - Global
   based_in: Spain
+images: null
 scf:
   awarded_round:
     - 26
