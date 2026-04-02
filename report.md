@@ -91,8 +91,8 @@ Of **576** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 21 |
-| certora | 10 |
 | OtterSec | 10 |
+| certora | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
@@ -132,9 +132,9 @@ Field-level provenance tracking:
 - crypto-link
 - paysapp
 - relax
+- sendit
 - timed-transactions-api
 - the-starship-soroban
-- sendit
 - wally
 
 **description empty** (1):
