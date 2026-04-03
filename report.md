@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-04-02
+> Auto-generated on 2026-04-03
 
 ## Summary
 
@@ -19,10 +19,10 @@
 | website | 655/663 | 98.8% |
 | blog | 237/663 | 35.7% |
 | x | 477/663 | 71.9% |
-| linkedin | 368/663 | 55.5% |
-| discord | 202/663 | 30.5% |
-| telegram | 138/663 | 20.8% |
-| youtube | 154/663 | 23.2% |
+| linkedin | 369/663 | 55.7% |
+| discord | 203/663 | 30.6% |
+| telegram | 139/663 | 21% |
+| youtube | 155/663 | 23.4% |
 | instagram | 106/663 | 16% |
 | reddit | 11/663 | 1.7% |
 | tiktok | 24/663 | 3.6% |
@@ -43,12 +43,12 @@ Per-project comparison of our **663** projects (incl. **87** community projects 
 | website | +125 | 530 |
 | github | +112 | 382 |
 | x | +193 | 284 |
-| linkedin | +164 | 204 |
-| discord | +93 | 109 |
+| linkedin | +165 | 204 |
+| discord | +94 | 109 |
 | based_in | +98 | 476 |
 | blog | +237 | 0 |
-| telegram | +138 | 0 |
-| youtube | +154 | 0 |
+| telegram | +139 | 0 |
+| youtube | +155 | 0 |
 | instagram | +106 | 0 |
 | reddit | +11 | 0 |
 | tiktok | +24 | 0 |
@@ -76,11 +76,11 @@ Of **576** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 441 | 439 |
-| Active last week | 122 | 184 |
-| Active last month | 175 | 244 |
-| Active last 3 months | 240 | 284 |
-| Active last year | 310 | 356 |
+| Tracked projects | 449 | 439 |
+| Active last week | 120 | 183 |
+| Active last month | 176 | 244 |
+| Active last 3 months | 242 | 284 |
+| Active last year | 316 | 355 |
 
 ## Audit Data
 
@@ -98,9 +98,9 @@ Of **576** SCF-funded projects:
 | Halborn | 4 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Cantina | 1 |
 | Сoinspect | 1 |
 | Code4rena | 1 |
+| Cantina | 1 |
 
 ## Data Sources
 
@@ -116,10 +116,10 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| website | 1610 |
 | submissions | 563 |
-| airtable | 3416 |
-| crawler | 990 |
+| website | 1609 |
+| airtable | 3704 |
+| crawler | 707 |
 | schedule | 1 |
 | soroban_security | 66 |
 
@@ -129,10 +129,10 @@ Field-level provenance tracking:
 
 **SCF project missing website** (8):
 - crypto-link
-- relax
-- the-starship-soroban
 - frost-implementation
 - wally
+- relax
+- the-starship-soroban
 - timed-transactions-api
 - paysapp
 - sendit

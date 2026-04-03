@@ -8,10 +8,14 @@ links:
   blog: []
   x:
     - tokenterminal
-  linkedin: []
-  discord: []
-  telegram: []
-  youtube: []
+  linkedin:
+    - linkedin.com/company/token-terminal
+  discord:
+    - discord.gg/tokenterminal
+  telegram:
+    - t.me/tokenterminalhq
+  youtube:
+    - youtube.com/tokenterminal
   instagram: []
   reddit: []
   tiktok: []
