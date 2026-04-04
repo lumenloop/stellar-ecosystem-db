@@ -14,9 +14,11 @@ links:
   telegram: []
   youtube:
     - chainpatrol.com/youtube
-  instagram: []
+  instagram:
+    - chain_patrol
   reddit: []
-  tiktok: []
+  tiktok:
+    - chainpatrol
   linktree: []
   github:
     - github.com/chainpatrol
