@@ -7,10 +7,12 @@ description: Modular oracle infrastructure providing secure, real-time data feed
 links:
   website:
     - redstone.finance
-  blog: []
+  blog:
+    - blog.redstone.finance
   x:
     - redstone_defi
-  linkedin: []
+  linkedin:
+    - linkedin.com/company/redstone-finance
   discord:
     - discord.gg/redstonedefi
   telegram:
