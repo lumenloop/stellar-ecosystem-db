@@ -17,12 +17,12 @@
 |-------|------:|---------:|
 | description | 662/663 | 99.8% |
 | website | 655/663 | 98.8% |
-| blog | 239/663 | 36% |
+| blog | 240/663 | 36.2% |
 | x | 477/663 | 71.9% |
 | linkedin | 370/663 | 55.8% |
 | discord | 203/663 | 30.6% |
 | telegram | 139/663 | 21% |
-| youtube | 156/663 | 23.5% |
+| youtube | 157/663 | 23.7% |
 | instagram | 107/663 | 16.1% |
 | reddit | 11/663 | 1.7% |
 | tiktok | 25/663 | 3.8% |
@@ -46,9 +46,9 @@ Per-project comparison of our **663** projects (incl. **87** community projects 
 | linkedin | +166 | 204 |
 | discord | +94 | 109 |
 | based_in | +98 | 476 |
-| blog | +239 | 0 |
+| blog | +240 | 0 |
 | telegram | +139 | 0 |
-| youtube | +156 | 0 |
+| youtube | +157 | 0 |
 | instagram | +107 | 0 |
 | reddit | +11 | 0 |
 | tiktok | +25 | 0 |
@@ -98,8 +98,8 @@ Of **576** SCF-funded projects:
 | Halborn | 4 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Cantina | 1 |
 | Code4rena | 1 |
+| Cantina | 1 |
 | Сoinspect | 1 |
 
 ## Data Sources
@@ -117,9 +117,9 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 563 |
-| airtable | 3722 |
+| crawler | 1015 |
 | website | 1605 |
-| crawler | 700 |
+| airtable | 3409 |
 | schedule | 1 |
 | soroban_security | 66 |
 
@@ -129,9 +129,9 @@ Field-level provenance tracking:
 
 **SCF project missing website** (8):
 - frost-implementation
+- crypto-link
 - paysapp
 - relax
-- crypto-link
 - wally
 - timed-transactions-api
 - the-starship-soroban
