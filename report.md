@@ -22,7 +22,7 @@
 | linkedin | 370/663 | 55.8% |
 | discord | 203/663 | 30.6% |
 | telegram | 139/663 | 21% |
-| youtube | 157/663 | 23.7% |
+| youtube | 158/663 | 23.8% |
 | instagram | 107/663 | 16.1% |
 | reddit | 11/663 | 1.7% |
 | tiktok | 25/663 | 3.8% |
@@ -48,7 +48,7 @@ Per-project comparison of our **663** projects (incl. **87** community projects 
 | based_in | +98 | 476 |
 | blog | +240 | 0 |
 | telegram | +139 | 0 |
-| youtube | +157 | 0 |
+| youtube | +158 | 0 |
 | instagram | +107 | 0 |
 | reddit | +11 | 0 |
 | tiktok | +25 | 0 |
@@ -77,9 +77,9 @@ Of **576** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 448 | 439 |
-| Active last week | 119 | 186 |
-| Active last month | 174 | 242 |
-| Active last 3 months | 241 | 282 |
+| Active last week | 112 | 181 |
+| Active last month | 174 | 241 |
+| Active last 3 months | 239 | 282 |
 | Active last year | 316 | 355 |
 
 ## Audit Data
@@ -117,9 +117,9 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 563 |
-| crawler | 1015 |
-| website | 1605 |
+| website | 1606 |
 | airtable | 3409 |
+| crawler | 1015 |
 | schedule | 1 |
 | soroban_security | 66 |
 
@@ -129,12 +129,12 @@ Field-level provenance tracking:
 
 **SCF project missing website** (8):
 - frost-implementation
-- crypto-link
-- paysapp
 - relax
+- crypto-link
+- the-starship-soroban
+- paysapp
 - wally
 - timed-transactions-api
-- the-starship-soroban
 - sendit
 
 **description empty** (1):
