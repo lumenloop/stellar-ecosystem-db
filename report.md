@@ -77,7 +77,7 @@ Of **576** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 448 | 439 |
-| Active last week | 112 | 179 |
+| Active last week | 110 | 179 |
 | Active last month | 174 | 241 |
 | Active last 3 months | 239 | 282 |
 | Active last year | 316 | 355 |
@@ -98,8 +98,8 @@ Of **576** SCF-funded projects:
 | Halborn | 4 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Code4rena | 1 |
 | Cantina | 1 |
+| Code4rena | 1 |
 | Сoinspect | 1 |
 
 ## Data Sources
@@ -116,10 +116,10 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| submissions | 563 |
-| airtable | 3722 |
-| crawler | 702 |
+| crawler | 1015 |
+| airtable | 3409 |
 | website | 1606 |
+| submissions | 563 |
 | schedule | 1 |
 | soroban_security | 66 |
 
@@ -132,8 +132,8 @@ Field-level provenance tracking:
 - the-starship-soroban
 - relax
 - crypto-link
-- paysapp
 - wally
+- paysapp
 - timed-transactions-api
 - sendit
 
