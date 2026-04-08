@@ -117,9 +117,9 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 563 |
-| airtable | 3722 |
-| website | 1606 |
-| crawler | 702 |
+| crawler | 1018 |
+| airtable | 3407 |
+| website | 1605 |
 | schedule | 1 |
 | soroban_security | 66 |
 
@@ -132,9 +132,9 @@ Field-level provenance tracking:
 - paysapp
 - the-starship-soroban
 - relax
+- timed-transactions-api
 - crypto-link
 - wally
-- timed-transactions-api
 - sendit
 
 **description empty** (1):
