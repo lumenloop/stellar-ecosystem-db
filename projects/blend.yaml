@@ -31,9 +31,7 @@ attributes:
     - Global
   based_in: United States
 images:
-  icon: https://media.lumenloop.com/projects/blend/apple_touch.png
-  avatar: https://media.lumenloop.com/projects/blend/github_avatar.png
-  logo: https://media.lumenloop.com/projects/blend/logo.svg
+  logo: https://media.lumenloop.com/projects/blend.png
 scf:
   awarded_round:
     - Liquidity Award - '24 Q1
