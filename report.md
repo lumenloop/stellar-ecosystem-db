@@ -77,7 +77,7 @@ Of **576** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 447 | 439 |
-| Active last week | 107 | 182 |
+| Active last week | 106 | 182 |
 | Active last month | 171 | 242 |
 | Active last 3 months | 239 | 281 |
 | Active last year | 315 | 355 |
@@ -91,15 +91,15 @@ Of **576** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 21 |
-| OtterSec | 10 |
 | certora | 10 |
+| OtterSec | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Cantina | 1 |
 | Code4rena | 1 |
+| Cantina | 1 |
 | Сoinspect | 1 |
 
 ## Data Sources
@@ -117,9 +117,10 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 563 |
-| airtable | 3405 |
-| website | 1605 |
+| website | 1604 |
+| community | 1 |
 | crawler | 1020 |
+| airtable | 3405 |
 | schedule | 1 |
 | soroban_security | 66 |
 
