@@ -77,9 +77,9 @@ Of **576** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 447 | 439 |
-| Active last week | 106 | 182 |
-| Active last month | 171 | 242 |
-| Active last 3 months | 239 | 281 |
+| Active last week | 120 | 182 |
+| Active last month | 174 | 242 |
+| Active last 3 months | 241 | 281 |
 | Active last year | 315 | 355 |
 
 ## Audit Data
@@ -129,8 +129,8 @@ Field-level provenance tracking:
 9 items need attention.
 
 **SCF project missing website** (8):
-- paysapp
 - frost-implementation
+- paysapp
 - the-starship-soroban
 - wally
 - relax
