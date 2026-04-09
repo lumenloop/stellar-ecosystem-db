@@ -31,7 +31,7 @@ attributes:
     - Global
   based_in: United States
 images:
-  logo: https://media.lumenloop.com/projects/blend.png
+  icon: https://media.lumenloop.com/projects/blend.webp
 scf:
   awarded_round:
     - Liquidity Award - '24 Q1
