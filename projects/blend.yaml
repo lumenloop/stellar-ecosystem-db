@@ -30,8 +30,7 @@ attributes:
   operating_region:
     - Global
   based_in: United States
-images:
-  icon: https://media.lumenloop.com/projects/blend.webp
+images: null
 scf:
   awarded_round:
     - Liquidity Award - '24 Q1
