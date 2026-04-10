@@ -43,5 +43,10 @@ scf:
     - communityfund.stellar.org/submissions/recL0SgcprAhb6uSy
 mainnet:
   audits: []
-  tokens: []
-  contracts: []
+  tokens:
+    - code: ARS
+      issuer: GCYE7C77EB5AWAA25R5XMWNI2EDOKTTFTTPZKM2SR5DI4B4WFD52DARS
+      decimals: 2
+    - code: PEN
+      issuer: GA4TDPNUCZPTOHB3TKUYMDCRVATXKEADH7ZEYEBWJKQKE2UBFCYNBPEN
+      decimals: 2

@@ -47,5 +47,7 @@ mainnet:
       url: sorobansecurity.com/report/25
       date: '2024-07-03T15:00:00Z'
       auditor: OtterSec
-  tokens: []
-  contracts: []
+  tokens:
+    - code: YBX
+      issuer: GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX
+      decimals: 7

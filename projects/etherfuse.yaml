@@ -35,5 +35,10 @@ images:
   logo: https://media.lumenloop.com/projects/etherfuse/logo.svg
 mainnet:
   audits: []
-  tokens: []
-  contracts: []
+  tokens:
+    - code: CETES
+      issuer: GCRYUGD5NVARGXT56XEZI5CIFCQETYHAPQQTHO2O3IQZTHDH4LATMYWC
+      decimals: 7
+    - code: USTRY
+      issuer: GCRYUGD5NVARGXT56XEZI5CIFCQETYHAPQQTHO2O3IQZTHDH4LATMYWC
+      decimals: 7

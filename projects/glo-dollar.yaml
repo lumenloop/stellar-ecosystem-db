@@ -46,5 +46,7 @@ scf:
     - communityfund.stellar.org/submissions/recYngYa4zx3MwZa9
 mainnet:
   audits: []
-  tokens: []
-  contracts: []
+  tokens:
+    - code: USDGLO
+      issuer: GBBS25EGYQPGEZCGCFBKG4OAGFXU6DSOQBGTHELLJT3HZXZJ34HWS6XV
+      decimals: 7

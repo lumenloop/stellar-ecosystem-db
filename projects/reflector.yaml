@@ -54,5 +54,7 @@ mainnet:
       url: sorobansecurity.com/report/23
       date: '2024-10-09T15:00:00Z'
       auditor: certora
-  tokens: []
-  contracts: []
+  tokens:
+    - code: XRF
+      issuer: GCHI6I3X62ND5XUMWINNNKXS2HPYZWKFQBZZYBSMHJ4MIP2XJXSZTXRF
+      decimals: 7

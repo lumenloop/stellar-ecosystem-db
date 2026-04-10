@@ -1,0 +1,6 @@
+- id: CB3JAPDEIMA3OOSALUHLYRGM2QTXGVD3EASALPFMVEU2POLLULJBT2XN
+  label: xBull Router
+  is_pool: false
+  tags:
+    - defi
+    - infra

@@ -1,0 +1,15 @@
+- id: CDCART6WRSM2K4CKOAOB5YKUVBSJ6KLOVS7ZEJHA4OAQ2FXX7JOHLXIP
+  label: FxDAO
+  is_pool: false
+  tags:
+    - defi
+- id: CCUN4RXU5VNDHSF4S4RKV4ZJYMX2YWKOH6L4AKEKVNVDQ7HY5QIAO4UB
+  label: FxDAO
+  is_pool: false
+  tags:
+    - defi
+- id: CB5OTV4GV24T5USEZHFVYGC3F4A4MPUQ3LN56E76UK2IT7MJ6QXW4TFS
+  label: FxDAO Oracle
+  is_pool: false
+  tags:
+    - infra

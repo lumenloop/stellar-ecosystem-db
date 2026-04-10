@@ -1,0 +1,6 @@
+- id: CAWGFKEL4XSE7JHVZLFIXSDVK7HNI57VFU4OPVRV7NHECRXCZ3ZNDNTR
+  label: AllBridge
+  is_pool: false
+  tags:
+    - defi
+    - exchange

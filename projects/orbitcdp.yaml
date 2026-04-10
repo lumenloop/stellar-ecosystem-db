@@ -52,5 +52,7 @@ mainnet:
       url: sorobansecurity.com/report/20
       date: '2024-12-25T15:00:00Z'
       auditor: Veridise
-  tokens: []
-  contracts: []
+  tokens:
+    - code: oUSD
+      issuer: GBIWJGAOSFC4KUPHXM573TKTWHMI7VW7D4GCHYZYH243Q6HVBV7ORBIT
+      decimals: 7

@@ -57,5 +57,7 @@ mainnet:
       url: sorobansecurity.com/report/41
       date: '2025-08-31T15:00:00Z'
       auditor: Cantina
-  tokens: []
-  contracts: []
+  tokens:
+    - code: AQUA
+      issuer: GBNZILSTVQZ4R7IKQDGHYGY2QXL5QOFJYQMXPKWRRM5PAV7Y4M67AQUA
+      decimals: 7

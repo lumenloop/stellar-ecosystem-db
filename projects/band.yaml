@@ -53,4 +53,3 @@ mainnet:
       date: '2024-02-18T15:00:00Z'
       auditor: Runtime Verification
   tokens: []
-  contracts: []

@@ -1,0 +1,6 @@
+- id: CBWP275BNGLHWFTQVB6QHA67MLX7WTX6YZ5LNSUVOK7W2TMKWX7OPYOJ
+  label: StellarBroker Router
+  is_pool: false
+  tags:
+    - defi
+    - infra

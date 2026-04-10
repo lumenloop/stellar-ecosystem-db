@@ -1,0 +1,6 @@
+- id: CCJTPZVVYSHDFTJV23GXXCAGDIIA2GCC36T35L6WMB4VT3NR4R6NRHLG
+  label: Stellarcarbon SinkContract
+  is_pool: false
+  tags:
+    - application
+    - infra

@@ -43,5 +43,7 @@ scf:
     - communityfund.stellar.org/submissions/recOcOlGlsC6BUFmx
 mainnet:
   audits: []
-  tokens: []
-  contracts: []
+  tokens:
+    - code: XTAR
+      issuer: GAORYJ3KBDGIM7FFSKVUJHJ5NEFWIRDIAGGBJBJS7TY6ECZS53257IG4
+      decimals: 7

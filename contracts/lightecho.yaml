@@ -1,0 +1,5 @@
+- id: CDOR3QD27WAAF4TK4MO33TGQXR6RPNANNVLOY277W2XVV6ZVJ6X6X42T
+  label: Lightecho Oracle
+  is_pool: false
+  tags:
+    - infra

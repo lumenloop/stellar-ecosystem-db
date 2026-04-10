@@ -1,0 +1,5 @@
+- id: CATRNPHYKNXAPNLHEYH55REB6YSAJLGCPA4YM6L3WUKSZOPI77M2UMKI
+  label: SorobanDomains
+  is_pool: false
+  tags:
+    - infra

@@ -33,5 +33,10 @@ images:
   og_image: https://media.lumenloop.com/projects/xlmeme/og.jpg
 mainnet:
   audits: []
-  tokens: []
-  contracts: []
+  tokens:
+    - code: STROOPY
+      issuer: GBZ3SMMNNSOLVV6LGNDBDWRVD2N56VUZZ6LVB6VGOOJGSMWI7ISLOJEC
+      decimals: 7
+    - code: ZOMB
+      issuer: GBGMZVSIHG7QPMD2I7DYLNTYN3KSFEP47E32C7YCDGCWV4X5NLYVM3M7
+      decimals: 7

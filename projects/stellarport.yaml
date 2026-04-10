@@ -40,5 +40,16 @@ scf:
     - communityfund.stellar.org/submissions/recpMYd0rjGNLniyz
 mainnet:
   audits: []
-  tokens: []
-  contracts: []
+  tokens:
+    - code: BTC
+      issuer: GBVOL67TMUQBGL4TZYNMY3ZQ5WGQYFPFD5VJRWXR72VA33VFNL225PL5
+      decimals: 7
+    - code: ETH
+      issuer: GBVOL67TMUQBGL4TZYNMY3ZQ5WGQYFPFD5VJRWXR72VA33VFNL225PL5
+      decimals: 7
+    - code: LTC
+      issuer: GBVOL67TMUQBGL4TZYNMY3ZQ5WGQYFPFD5VJRWXR72VA33VFNL225PL5
+      decimals: 7
+    - code: XRP
+      issuer: GBVOL67TMUQBGL4TZYNMY3ZQ5WGQYFPFD5VJRWXR72VA33VFNL225PL5
+      decimals: 7

@@ -77,10 +77,10 @@ Of **576** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 447 | 439 |
-| Active last week | 113 | 183 |
-| Active last month | 173 | 242 |
-| Active last 3 months | 241 | 281 |
-| Active last year | 314 | 355 |
+| Active last week | 111 | 182 |
+| Active last month | 173 | 244 |
+| Active last 3 months | 240 | 280 |
+| Active last year | 312 | 355 |
 
 ## Audit Data
 
@@ -91,8 +91,8 @@ Of **576** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 21 |
-| certora | 10 |
 | OtterSec | 10 |
+| certora | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
@@ -117,9 +117,9 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 563 |
+| website | 1607 |
 | crawler | 1018 |
 | airtable | 3406 |
-| website | 1607 |
 | schedule | 1 |
 | soroban_security | 66 |
 
@@ -129,11 +129,11 @@ Field-level provenance tracking:
 
 **SCF project missing website** (8):
 - frost-implementation
+- the-starship-soroban
+- timed-transactions-api
 - relax
 - paysapp
 - wally
-- the-starship-soroban
-- timed-transactions-api
 - crypto-link
 - sendit
 

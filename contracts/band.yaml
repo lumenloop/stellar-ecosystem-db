@@ -1,0 +1,5 @@
+- id: CCQXWMZVM3KRTXTUPTN53YHL272QGKF32L7XEDNZ2S6OSUFK3NFBGG5M
+  label: Band Oracle
+  is_pool: false
+  tags:
+    - infra

@@ -46,5 +46,7 @@ scf:
     - communityfund.stellar.org/submissions/rec0jaspuekXupv9N
 mainnet:
   audits: []
-  tokens: []
-  contracts: []
+  tokens:
+    - code: HITZ
+      issuer: GCAETBNBFKVGLYFXKCLMKT6ZVHFXHRSDFSEW7ODIUJYC6R7H2QJ6OKGU
+      decimals: 7

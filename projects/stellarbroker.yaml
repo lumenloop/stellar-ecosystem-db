@@ -42,4 +42,3 @@ mainnet:
       date: '2025-04-27T15:00:00Z'
       auditor: Runtime Verification
   tokens: []
-  contracts: []

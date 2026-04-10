@@ -42,5 +42,7 @@ scf:
     - communityfund.stellar.org/submissions/recv1OdCUKlERWHLi
 mainnet:
   audits: []
-  tokens: []
-  contracts: []
+  tokens:
+    - code: CARBON
+      issuer: GCBOATLWKXACOWKRRWORARDI2HFDSYPALMTS23YBZKHOB6XLW6CARBON
+      decimals: 3

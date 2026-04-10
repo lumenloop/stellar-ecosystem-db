@@ -48,5 +48,13 @@ mainnet:
       url: sorobansecurity.com/report/18
       date: '2024-05-16T15:00:00Z'
       auditor: Runtime Verification
-  tokens: []
-  contracts: []
+  tokens:
+    - code: EURx
+      issuer: GAVH5ZWACAY2PHPUG4FL3LHHJIYIHOFPSIUGM2KHK25CJWXHAV6QKDMN
+      decimals: 7
+    - code: GBPx
+      issuer: GAVH5ZWACAY2PHPUG4FL3LHHJIYIHOFPSIUGM2KHK25CJWXHAV6QKDMN
+      decimals: 7
+    - code: USDx
+      issuer: GAVH5ZWACAY2PHPUG4FL3LHHJIYIHOFPSIUGM2KHK25CJWXHAV6QKDMN
+      decimals: 7

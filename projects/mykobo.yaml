@@ -45,5 +45,7 @@ scf:
     - communityfund.stellar.org/submissions/rec3sQ468s3T2l5yD
 mainnet:
   audits: []
-  tokens: []
-  contracts: []
+  tokens:
+    - code: EURC
+      issuer: GAQRF3UGHBT6JYQZ7YSUYCIYWAF4T2SAA5237Q5LIQYJOHHFAWDXZ7NM
+      decimals: 2

@@ -1,0 +1,30 @@
+- id: CBQSUF57OYX4RIMCZV62DKN6JFOTEKPHIZASMJYOUOCNHGNG2P3XQLSE
+  label: Reflector DAO
+  is_pool: false
+  tags:
+    - infra
+    - custodian
+- id: CALI2BYU2JE6WVRUFYTS6MSBNEHGJ35P4AVCZYF3B6QOE3QKOB2PLE6M
+  label: Reflector Oracle
+  is_pool: false
+  tags:
+    - infra
+    - application
+- id: CBKGPWGKSKZF52CFHMTRR23TBWTPMRDIYZ4O2P5VS65BMHYH4DXMCJZC
+  label: Reflector Oracle
+  is_pool: false
+  tags:
+    - infra
+    - application
+- id: CAFJZQWSED6YAWZU3GWRTOCNPPCGBN32L7QV43XX5LZLFTK6JLN34DLN
+  label: Reflector Oracle
+  is_pool: false
+  tags:
+    - infra
+    - application
+- id: CBNGTWIVRCD4FOJ24FGAKI6I5SDAXI7A4GWKSQS7E6UYSR4E4OHRI2JX
+  label: Reflector Subscriptions
+  is_pool: false
+  tags:
+    - infra
+    - application

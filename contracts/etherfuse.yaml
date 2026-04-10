@@ -1,0 +1,6 @@
+- id: CBWUSO5XZICR4FPKAQ4YDIYNZ2T26QMKUHWOSMPMWTXHFP3SJTAXGNCK
+  label: Etherfuse Oracle
+  is_pool: false
+  tags:
+    - defi
+    - infra

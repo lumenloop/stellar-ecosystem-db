@@ -64,5 +64,7 @@ mainnet:
       url: sorobansecurity.com/report/40
       date: '2025-08-13T15:00:00Z'
       auditor: certora
-  tokens: []
-  contracts: []
+  tokens:
+    - code: BLND
+      issuer: GDJEHTBE6ZHUXSWFI642DCGLUOECLHPF3KSXHPXTSTJ7E3JF6MQ5EZYY
+      decimals: 7
