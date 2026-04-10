@@ -76,11 +76,11 @@ Of **576** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 447 | 439 |
+| Tracked projects | 447 | 438 |
 | Active last week | 111 | 182 |
 | Active last month | 173 | 244 |
 | Active last 3 months | 240 | 280 |
-| Active last year | 312 | 355 |
+| Active last year | 312 | 354 |
 
 ## Audit Data
 
@@ -117,9 +117,9 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 563 |
-| website | 1607 |
-| crawler | 1018 |
+| crawler | 1017 |
 | airtable | 3406 |
+| website | 1608 |
 | schedule | 1 |
 | soroban_security | 66 |
 
