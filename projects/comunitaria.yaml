@@ -35,6 +35,8 @@ attributes:
     - Europe & Central Asia
   based_in: Argentina
 images:
+  icon: https://media.lumenloop.com/projects/comunitaria/apple_touch.png
+  logo: https://media.lumenloop.com/projects/comunitaria/logo.png
   og_image: https://media.lumenloop.com/projects/comunitaria/og.png
 scf:
   awarded_round:

@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-04-09
+> Auto-generated on 2026-04-10
 
 ## Summary
 
@@ -77,7 +77,7 @@ Of **576** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 447 | 439 |
-| Active last week | 115 | 183 |
+| Active last week | 113 | 182 |
 | Active last month | 173 | 242 |
 | Active last 3 months | 241 | 281 |
 | Active last year | 314 | 355 |
@@ -117,10 +117,9 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 563 |
-| website | 1604 |
-| community | 1 |
-| crawler | 1020 |
-| airtable | 3405 |
+| website | 1609 |
+| crawler | 701 |
+| airtable | 3720 |
 | schedule | 1 |
 | soroban_security | 66 |
 
@@ -131,8 +130,8 @@ Field-level provenance tracking:
 **SCF project missing website** (8):
 - frost-implementation
 - paysapp
-- the-starship-soroban
 - wally
+- the-starship-soroban
 - relax
 - timed-transactions-api
 - crypto-link

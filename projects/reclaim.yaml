@@ -37,6 +37,7 @@ attributes:
 images:
   icon: https://media.lumenloop.com/projects/reclaim/apple_touch.png
   avatar: https://media.lumenloop.com/projects/reclaim/github_avatar.png
+  og_image: https://media.lumenloop.com/projects/reclaim/og.png
 scf:
   awarded_round:
     - 21

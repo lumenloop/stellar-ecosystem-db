@@ -33,6 +33,7 @@ attributes:
   based_in: Estonia
 images:
   icon: https://media.lumenloop.com/projects/lobstr/favicon.png
+  avatar: https://media.lumenloop.com/projects/lobstr/github_avatar.png
   logo: https://media.lumenloop.com/projects/lobstr/logo.svg
   og_image: https://media.lumenloop.com/projects/lobstr/og.png
 scf:

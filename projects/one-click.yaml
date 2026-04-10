@@ -39,6 +39,7 @@ images:
   icon: https://media.lumenloop.com/projects/one-click/apple_touch.png
   avatar: https://media.lumenloop.com/projects/one-click/github_avatar.png
   logo: https://media.lumenloop.com/projects/one-click/logo.svg
+  og_image: https://media.lumenloop.com/projects/one-click/og.png
 scf:
   awarded_round:
     - 32

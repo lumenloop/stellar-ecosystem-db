@@ -29,7 +29,11 @@ attributes:
   operating_region:
     - Nigeria
   based_in: Nigeria
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/boundless/favicon.ico
+  avatar: https://media.lumenloop.com/projects/boundless/github_avatar.png
+  logo: https://media.lumenloop.com/projects/boundless/logo.png
+  og_image: https://media.lumenloop.com/projects/boundless/og.png
 scf:
   awarded_round:
     - 40
