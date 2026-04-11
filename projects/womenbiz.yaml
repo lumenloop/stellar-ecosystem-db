@@ -11,8 +11,8 @@ links:
   x:
     - hiwomenbiz
   linkedin:
-    - linkedin.com/company/women-biz
     - linkedin.com/company/womenbiz
+    - linkedin.com/company/women-biz
   discord: []
   telegram: []
   youtube: []
@@ -46,4 +46,3 @@ scf:
 mainnet:
   audits: []
   tokens: []
-  contracts: []

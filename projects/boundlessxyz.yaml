@@ -10,20 +10,22 @@ links:
   blog:
     - boundless.network/blog
   x:
+    - boundless_xyz
     - boundless_fi
   linkedin:
     - linkedin.com/company/boundlesshq
   discord:
-    - discord.gg/boundlessfi
+    - discord.gg/boundlessxyz
     - discord.gg/f9wtkrcp
   telegram:
-    - t.me/boundlessfi
+    - t.me/+85-aipvvj9y0n2e0
   youtube: []
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
+    - github.com/boundless-xyz
     - github.com/boundlessfi
 attributes:
   category: Applications
@@ -46,4 +48,3 @@ scf:
 mainnet:
   audits: []
   tokens: []
-  contracts: []
