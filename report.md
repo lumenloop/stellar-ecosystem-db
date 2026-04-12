@@ -117,9 +117,9 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 563 |
-| crawler | 703 |
-| airtable | 3719 |
+| crawler | 1015 |
 | website | 1609 |
+| airtable | 3407 |
 | schedule | 1 |
 | soroban_security | 66 |
 
