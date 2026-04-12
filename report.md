@@ -77,9 +77,9 @@ Of **576** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 447 | 438 |
-| Active last week | 121 | 183 |
-| Active last month | 176 | 243 |
-| Active last 3 months | 239 | 281 |
+| Active last week | 121 | 182 |
+| Active last month | 175 | 242 |
+| Active last 3 months | 238 | 281 |
 | Active last year | 311 | 355 |
 
 ## Audit Data
@@ -117,9 +117,9 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 563 |
-| crawler | 1015 |
 | website | 1609 |
 | airtable | 3407 |
+| crawler | 1015 |
 | schedule | 1 |
 | soroban_security | 66 |
 
@@ -128,8 +128,8 @@ Field-level provenance tracking:
 9 items need attention.
 
 **SCF project missing website** (8):
-- paysapp
 - relax
+- paysapp
 - frost-implementation
 - timed-transactions-api
 - the-starship-soroban
