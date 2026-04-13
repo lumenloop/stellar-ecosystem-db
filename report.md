@@ -77,8 +77,8 @@ Of **576** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 447 | 438 |
-| Active last week | 121 | 181 |
-| Active last month | 172 | 240 |
+| Active last week | 125 | 182 |
+| Active last month | 173 | 240 |
 | Active last 3 months | 238 | 281 |
 | Active last year | 311 | 355 |
 
@@ -116,10 +116,10 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| crawler | 1016 |
-| website | 1609 |
 | submissions | 563 |
+| crawler | 1016 |
 | airtable | 3406 |
+| website | 1609 |
 | schedule | 1 |
 | soroban_security | 66 |
 
@@ -128,13 +128,13 @@ Field-level provenance tracking:
 9 items need attention.
 
 **SCF project missing website** (8):
-- frost-implementation
-- relax
 - paysapp
 - wally
 - timed-transactions-api
-- the-starship-soroban
+- frost-implementation
+- relax
 - crypto-link
+- the-starship-soroban
 - sendit
 
 **description empty** (1):
