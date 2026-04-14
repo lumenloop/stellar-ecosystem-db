@@ -17,15 +17,15 @@
 |-------|------:|---------:|
 | description | 662/663 | 99.8% |
 | website | 655/663 | 98.8% |
-| blog | 240/663 | 36.2% |
+| blog | 241/663 | 36.3% |
 | x | 477/663 | 71.9% |
-| linkedin | 370/663 | 55.8% |
+| linkedin | 371/663 | 56% |
 | discord | 203/663 | 30.6% |
 | telegram | 139/663 | 21% |
-| youtube | 158/663 | 23.8% |
-| instagram | 108/663 | 16.3% |
+| youtube | 159/663 | 24% |
+| instagram | 109/663 | 16.4% |
 | reddit | 11/663 | 1.7% |
-| tiktok | 25/663 | 3.8% |
+| tiktok | 26/663 | 3.9% |
 | linktree | 3/663 | 0.5% |
 | github | 494/663 | 74.5% |
 | category | 581/663 | 87.6% |
@@ -43,15 +43,15 @@ Per-project comparison of our **663** projects (incl. **87** community projects 
 | website | +125 | 530 |
 | github | +112 | 382 |
 | x | +193 | 284 |
-| linkedin | +166 | 204 |
+| linkedin | +167 | 204 |
 | discord | +94 | 109 |
 | based_in | +98 | 476 |
-| blog | +240 | 0 |
+| blog | +241 | 0 |
 | telegram | +139 | 0 |
-| youtube | +158 | 0 |
-| instagram | +108 | 0 |
+| youtube | +159 | 0 |
+| instagram | +109 | 0 |
 | reddit | +11 | 0 |
-| tiktok | +25 | 0 |
+| tiktok | +26 | 0 |
 | linktree | +3 | 0 |
 
 *"Added" = we filled a field SCF didn't have. "Modified" = SCF had a value, we store a different one.*
@@ -76,11 +76,11 @@ Of **576** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 447 | 438 |
+| Tracked projects | 447 | 439 |
 | Active last week | 124 | 188 |
-| Active last month | 173 | 243 |
-| Active last 3 months | 237 | 283 |
-| Active last year | 310 | 355 |
+| Active last month | 173 | 244 |
+| Active last 3 months | 237 | 284 |
+| Active last year | 310 | 356 |
 
 ## Audit Data
 
@@ -116,10 +116,10 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| crawler | 703 |
-| website | 1609 |
 | submissions | 563 |
-| airtable | 3719 |
+| website | 1609 |
+| crawler | 1021 |
+| airtable | 3406 |
 | schedule | 1 |
 | soroban_security | 66 |
 
