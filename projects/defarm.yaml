@@ -6,8 +6,10 @@ links:
   website:
     - defarm.net
   blog: []
-  x: []
-  linkedin: []
+  x:
+    - defarm_net
+  linkedin:
+    - linkedin.com/company/106642089
   discord: []
   telegram: []
   youtube: []

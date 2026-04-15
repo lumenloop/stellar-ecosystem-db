@@ -18,8 +18,8 @@
 | description | 662/663 | 99.8% |
 | website | 655/663 | 98.8% |
 | blog | 241/663 | 36.3% |
-| x | 477/663 | 71.9% |
-| linkedin | 371/663 | 56% |
+| x | 478/663 | 72.1% |
+| linkedin | 372/663 | 56.1% |
 | discord | 203/663 | 30.6% |
 | telegram | 139/663 | 21% |
 | youtube | 159/663 | 24% |
@@ -42,8 +42,8 @@ Per-project comparison of our **663** projects (incl. **87** community projects 
 | description | +114 | 548 |
 | website | +125 | 530 |
 | github | +112 | 382 |
-| x | +193 | 284 |
-| linkedin | +167 | 204 |
+| x | +194 | 284 |
+| linkedin | +168 | 204 |
 | discord | +94 | 109 |
 | based_in | +98 | 476 |
 | blog | +241 | 0 |
@@ -77,10 +77,10 @@ Of **576** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 447 | 439 |
-| Active last week | 116 | 187 |
-| Active last month | 171 | 245 |
-| Active last 3 months | 237 | 284 |
-| Active last year | 309 | 356 |
+| Active last week | 116 | 188 |
+| Active last month | 171 | 246 |
+| Active last 3 months | 237 | 285 |
+| Active last year | 309 | 357 |
 
 ## Audit Data
 
@@ -91,8 +91,8 @@ Of **576** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 21 |
-| OtterSec | 10 |
 | certora | 10 |
+| OtterSec | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
@@ -116,10 +116,10 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
+| crawler | 1025 |
+| website | 1608 |
 | submissions | 563 |
-| airtable | 3719 |
-| crawler | 708 |
-| website | 1609 |
+| airtable | 3405 |
 | schedule | 1 |
 | soroban_security | 66 |
 
