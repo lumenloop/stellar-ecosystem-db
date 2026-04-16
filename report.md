@@ -21,7 +21,7 @@
 | x | 478/663 | 72.1% |
 | linkedin | 372/663 | 56.1% |
 | discord | 203/663 | 30.6% |
-| telegram | 139/663 | 21% |
+| telegram | 140/663 | 21.1% |
 | youtube | 159/663 | 24% |
 | instagram | 109/663 | 16.4% |
 | reddit | 11/663 | 1.7% |
@@ -47,7 +47,7 @@ Per-project comparison of our **663** projects (incl. **87** community projects 
 | discord | +94 | 109 |
 | based_in | +98 | 476 |
 | blog | +241 | 0 |
-| telegram | +139 | 0 |
+| telegram | +140 | 0 |
 | youtube | +159 | 0 |
 | instagram | +109 | 0 |
 | reddit | +11 | 0 |
@@ -77,7 +77,7 @@ Of **576** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 447 | 440 |
-| Active last week | 123 | 192 |
+| Active last week | 122 | 192 |
 | Active last month | 175 | 247 |
 | Active last 3 months | 238 | 287 |
 | Active last year | 308 | 358 |
@@ -91,16 +91,16 @@ Of **576** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 21 |
-| certora | 10 |
 | OtterSec | 10 |
+| certora | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
+| Code4rena | 1 |
 | Cantina | 1 |
 | Сoinspect | 1 |
-| Code4rena | 1 |
 
 ## Data Sources
 
@@ -116,11 +116,11 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| crawler | 711 |
-| schedule | 1 |
-| website | 1608 |
 | submissions | 563 |
-| airtable | 3719 |
+| crawler | 1026 |
+| airtable | 3405 |
+| website | 1608 |
+| schedule | 1 |
 | soroban_security | 66 |
 
 ## Needs Review
