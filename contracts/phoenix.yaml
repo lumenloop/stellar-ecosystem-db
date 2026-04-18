@@ -1,39 +1,4 @@
-- id: CBHCRSVX3ZZ7EGTSYMKPEFGZNWRVCSESQR3UABET4MIW52N4EVU6BIZX
-  label: Phoenix Pool
-  is_pool: true
-  tags:
-    - defi
-- id: CD5XNKK3B6BEF2N7ULNHHGAMOKZ7P6456BFNIHRF4WNTEDKBRWAE7IAA
-  label: Phoenix Pool
-  is_pool: true
-  tags:
-    - defi
-- id: CBW5G5SO5SDYUGQVU7RMZ2KJ34POM3AMODOBIV2RQYG4KJDUUBVC3P2T
-  label: Phoenix Pool
-  is_pool: true
-  tags:
-    - defi
-- id: CCUCE5H5CKW3S7JBESGCES6ZGDMWLNRY3HOFET3OH33MXZWKXNJTKSM3
-  label: Phoenix Pool
-  is_pool: true
-  tags:
-    - defi
-- id: CB5QUVK5GS3IU23TMFZQ3P5J24YBBZP5PHUQAEJ2SP5K55PFTJRUQG2L
-  label: Phoenix Pool
-  is_pool: true
-  tags:
-    - defi
-- id: CC6MJZN3HFOJKXN42ANTSCLRFOMHLFXHWPNAX64DQNUEBDMUYMPHASAV
-  label: Phoenix Pool
-  is_pool: true
-  tags:
-    - defi
-- id: CBCZGGNOEUZG4CAAE7TGTQQHETZMKUT4OIPFHHPKEUX46U4KXBBZ3GLH
-  label: Phoenix Pool
-  is_pool: true
-  tags:
-    - defi
-- id: CDQLKNH3725BUP4HPKQKMM7OO62FDVXVTO7RCYPID527MZHJG2F3QBJW
+- id: CDMXKSLG5GITGFYERUW2MRYOBUQCMRT2QE5Y4PU3QZ53EBFWUXAXUTBC
   label: Phoenix Pool
   is_pool: true
   tags:
@@ -48,7 +13,42 @@
   is_pool: true
   tags:
     - defi
-- id: CDMXKSLG5GITGFYERUW2MRYOBUQCMRT2QE5Y4PU3QZ53EBFWUXAXUTBC
+- id: CDQLKNH3725BUP4HPKQKMM7OO62FDVXVTO7RCYPID527MZHJG2F3QBJW
+  label: Phoenix Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CB5QUVK5GS3IU23TMFZQ3P5J24YBBZP5PHUQAEJ2SP5K55PFTJRUQG2L
+  label: Phoenix Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CD5XNKK3B6BEF2N7ULNHHGAMOKZ7P6456BFNIHRF4WNTEDKBRWAE7IAA
+  label: Phoenix Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CBW5G5SO5SDYUGQVU7RMZ2KJ34POM3AMODOBIV2RQYG4KJDUUBVC3P2T
+  label: Phoenix Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CC6MJZN3HFOJKXN42ANTSCLRFOMHLFXHWPNAX64DQNUEBDMUYMPHASAV
+  label: Phoenix Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CBHCRSVX3ZZ7EGTSYMKPEFGZNWRVCSESQR3UABET4MIW52N4EVU6BIZX
+  label: Phoenix Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CBCZGGNOEUZG4CAAE7TGTQQHETZMKUT4OIPFHHPKEUX46U4KXBBZ3GLH
+  label: Phoenix Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CCUCE5H5CKW3S7JBESGCES6ZGDMWLNRY3HOFET3OH33MXZWKXNJTKSM3
   label: Phoenix Pool
   is_pool: true
   tags:

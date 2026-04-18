@@ -1,0 +1,12 @@
+- id: CBIJBDNZNF4X35BJ4FFZWCDBSCKOP5NB4PLG4SNENRMLAPYG4P5FM6VN
+  label: SolvBTC
+  is_pool: false
+  tags:
+    - issuer
+    - defi
+- id: CAUP7NFABXE5TJRL3FKTPMWRLC7IAXYDCTHQRFSCLR5TMGKHOOQO772J
+  label: xSolvBTC
+  is_pool: false
+  tags:
+    - issuer
+    - defi
