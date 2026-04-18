@@ -76,11 +76,11 @@ Of **576** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 447 | 440 |
-| Active last week | 116 | 196 |
-| Active last month | 172 | 248 |
-| Active last 3 months | 235 | 288 |
-| Active last year | 308 | 356 |
+| Tracked projects | 447 | 443 |
+| Active last week | 116 | 199 |
+| Active last month | 172 | 251 |
+| Active last 3 months | 235 | 291 |
+| Active last year | 308 | 359 |
 
 ## Audit Data
 
@@ -98,8 +98,8 @@ Of **576** SCF-funded projects:
 | Halborn | 4 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Сoinspect | 1 |
 | Code4rena | 1 |
+| Сoinspect | 1 |
 | Cantina | 1 |
 
 ## Data Sources
@@ -116,10 +116,10 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| website | 1621 |
-| crawler | 712 |
 | submissions | 563 |
-| airtable | 3719 |
+| crawler | 1027 |
+| website | 1621 |
+| airtable | 3404 |
 | schedule | 1 |
 | soroban_security | 66 |
 
@@ -135,8 +135,8 @@ Field-level provenance tracking:
 - sendit
 
 **SCF project missing website** (8):
-- crypto-link
 - relax
+- crypto-link
 - paysapp
 - frost-implementation
 - wally
