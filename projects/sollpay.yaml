@@ -32,6 +32,8 @@ attributes:
     - Europe & Central Asia
   based_in: France
 images:
+  icon: https://media.lumenloop.com/projects/sollpay/sollpay-apple_touch-tdm8go.webp
+  logo: https://media.lumenloop.com/projects/sollpay/sollpay-logo-tdm8gn.webp
   og_image: https://media.lumenloop.com/projects/sollpay/og.png
 scf:
   awarded_round:

@@ -1,0 +1,30 @@
+title: K2 Lend
+other_names: null
+parent: null
+description: A lending protocol on Stellar featuring pooled, isolated, and gated lending markets.
+links:
+  website:
+    - k2lend.com
+  blog: []
+  x:
+    - k2_lend
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags:
+    - DeFi
+    - Lending
+  operating_region: []
+  based_in: null
+images: null
+mainnet:
+  audits: []
+  tokens: []

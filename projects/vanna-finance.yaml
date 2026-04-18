@@ -32,7 +32,9 @@ attributes:
   operating_region:
     - India
   based_in: India
-images: null
+images:
+  avatar: https://media.lumenloop.com/projects/vanna-finance/vanna-finance-github_avatar-tdm8cc.webp
+  logo: https://media.lumenloop.com/projects/vanna-finance/logo.png
 scf:
   awarded_round:
     - 38

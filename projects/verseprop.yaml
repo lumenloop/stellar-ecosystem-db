@@ -34,7 +34,8 @@ attributes:
     - Europe & Central Asia
     - Middle East & North Africa
   based_in: United Kingdom
-images: null
+images:
+  logo: https://media.lumenloop.com/projects/verseprop/logo.svg
 scf:
   awarded_round:
     - 33

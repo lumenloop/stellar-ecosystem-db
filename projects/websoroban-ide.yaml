@@ -26,7 +26,10 @@ attributes:
   operating_region:
     - South Asia
   based_in: India
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/websoroban-ide/favicon.png
+  avatar: https://media.lumenloop.com/projects/websoroban-ide/github_avatar.jpg
+  logo: https://media.lumenloop.com/projects/websoroban-ide/logo.png
 scf:
   awarded_round:
     - 38

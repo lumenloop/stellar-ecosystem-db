@@ -41,7 +41,10 @@ attributes:
     - North America (without Mexico)
     - Latin America & Caribbean
   based_in: United Kingdom
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/wirex-pay/wirex-pay-favicon-tdetnm.webp
+  logo: https://media.lumenloop.com/projects/wirex-pay/wirex-pay-logo-tdetnk.webp
+  og_image: https://media.lumenloop.com/projects/wirex-pay/wirex-pay-og-tdetnl.webp
 scf:
   awarded_round: []
   awarded_total: null

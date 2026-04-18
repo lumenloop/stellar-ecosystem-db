@@ -33,6 +33,7 @@ attributes:
 images:
   icon: https://media.lumenloop.com/projects/web3-antivirus/favicon.png
   logo: https://media.lumenloop.com/projects/web3-antivirus/logo.svg
+  og_image: https://media.lumenloop.com/projects/web3-antivirus/web3-antivirus-og-tdm8gw.webp
 scf:
   awarded_round:
     - 28

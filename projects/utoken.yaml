@@ -38,7 +38,9 @@ attributes:
     - Sub-Saharan Africa
     - North America (without Mexico)
   based_in: Nigeria
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/utoken/utoken-favicon-tdm8g2.ico
+  logo: https://media.lumenloop.com/projects/utoken/utoken-logo-tdm8g1.webp
 scf:
   awarded_round:
     - 28

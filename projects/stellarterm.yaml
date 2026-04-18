@@ -28,6 +28,7 @@ attributes:
     - Indonesia
   based_in: Estonia
 images:
+  icon: https://media.lumenloop.com/projects/stellarterm/favicon.png
   avatar: https://media.lumenloop.com/projects/stellarterm/github_avatar.png
 scf:
   awarded_round:
