@@ -6,41 +6,41 @@
 
 | Metric | Count |
 |--------|------:|
-| Total projects | **668** |
+| Total projects | **671** |
 | SCF-funded projects | 576 |
-| Community projects | 92 |
-| Audited projects | 47 |
+| Community projects | 95 |
+| Audited projects | 48 |
 
 ## Data Coverage
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 663/668 | 99.3% |
-| website | 660/668 | 98.8% |
-| blog | 242/668 | 36.2% |
-| x | 481/668 | 72% |
-| linkedin | 372/668 | 55.7% |
-| discord | 203/668 | 30.4% |
-| telegram | 141/668 | 21.1% |
-| youtube | 159/668 | 23.8% |
-| instagram | 109/668 | 16.3% |
-| reddit | 11/668 | 1.6% |
-| tiktok | 26/668 | 3.9% |
-| linktree | 3/668 | 0.4% |
-| github | 494/668 | 74% |
-| category | 582/668 | 87.1% |
-| tags | 664/668 | 99.4% |
-| operating_region | 663/668 | 99.3% |
-| based_in | 574/668 | 85.9% |
+| description | 663/671 | 98.8% |
+| website | 663/671 | 98.8% |
+| blog | 242/671 | 36.1% |
+| x | 481/671 | 71.7% |
+| linkedin | 372/671 | 55.4% |
+| discord | 203/671 | 30.3% |
+| telegram | 141/671 | 21% |
+| youtube | 159/671 | 23.7% |
+| instagram | 109/671 | 16.2% |
+| reddit | 11/671 | 1.6% |
+| tiktok | 26/671 | 3.9% |
+| linktree | 3/671 | 0.4% |
+| github | 494/671 | 73.6% |
+| category | 582/671 | 86.7% |
+| tags | 664/671 | 99% |
+| operating_region | 663/671 | 98.8% |
+| based_in | 574/671 | 85.5% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **668** projects (incl. **92** community projects not in SCF) against **580** in SCF Airtable:
+Per-project comparison of our **671** projects (incl. **95** community projects not in SCF) against **580** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
 | description | +115 | 548 |
-| website | +130 | 530 |
+| website | +133 | 530 |
 | github | +112 | 382 |
 | x | +197 | 284 |
 | linkedin | +168 | 204 |
@@ -77,20 +77,20 @@ Of **576** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 447 | 443 |
-| Active last week | 114 | 198 |
-| Active last month | 171 | 248 |
-| Active last 3 months | 235 | 291 |
-| Active last year | 309 | 359 |
+| Active last week | 125 | 198 |
+| Active last month | 175 | 248 |
+| Active last 3 months | 236 | 291 |
+| Active last year | 310 | 359 |
 
 ## Audit Data
 
-**47** projects audited with **66** reports.
+**48** projects audited with **67** reports.
 
 *Audit data provided by [Soroban Security](https://sorobansecurity.com).*
 
 | Auditor | Reports |
 |---------|---------:|
-| Veridise | 21 |
+| Veridise | 22 |
 | certora | 10 |
 | OtterSec | 10 |
 | Runtime Verification | 8 |
@@ -116,18 +116,22 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
+| website | 1623 |
+| agent:content-linker:approved | 2 |
 | submissions | 563 |
 | crawler | 1026 |
-| website | 1622 |
 | airtable | 3406 |
 | schedule | 1 |
-| soroban_security | 66 |
+| soroban_security | 67 |
 
 ## Needs Review
 
-13 items need attention.
+16 items need attention.
 
-**description empty** (5):
+**description empty** (8):
+- scaffold-stellar
+- nethermind
+- soropg
 - alchemy
 - redswan
 - solv-protocol
