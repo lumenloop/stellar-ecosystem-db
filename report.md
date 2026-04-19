@@ -17,11 +17,11 @@
 |-------|------:|---------:|
 | description | 663/668 | 99.3% |
 | website | 660/668 | 98.8% |
-| blog | 241/668 | 36.1% |
+| blog | 242/668 | 36.2% |
 | x | 481/668 | 72% |
 | linkedin | 372/668 | 55.7% |
 | discord | 203/668 | 30.4% |
-| telegram | 140/668 | 21% |
+| telegram | 141/668 | 21.1% |
 | youtube | 159/668 | 23.8% |
 | instagram | 109/668 | 16.3% |
 | reddit | 11/668 | 1.6% |
@@ -46,8 +46,8 @@ Per-project comparison of our **668** projects (incl. **92** community projects 
 | linkedin | +168 | 204 |
 | discord | +94 | 109 |
 | based_in | +98 | 476 |
-| blog | +241 | 0 |
-| telegram | +140 | 0 |
+| blog | +242 | 0 |
+| telegram | +141 | 0 |
 | youtube | +159 | 0 |
 | instagram | +109 | 0 |
 | reddit | +11 | 0 |
@@ -98,8 +98,8 @@ Of **576** SCF-funded projects:
 | Halborn | 4 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Cantina | 1 |
 | Code4rena | 1 |
+| Cantina | 1 |
 | Сoinspect | 1 |
 
 ## Data Sources
@@ -116,10 +116,10 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| website | 1622 |
-| crawler | 711 |
 | submissions | 563 |
-| airtable | 3719 |
+| crawler | 1026 |
+| website | 1622 |
+| airtable | 3406 |
 | schedule | 1 |
 | soroban_security | 66 |
 
