@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-04-18
+> Auto-generated on 2026-04-19
 
 ## Summary
 
@@ -77,9 +77,9 @@ Of **576** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 447 | 443 |
-| Active last week | 115 | 198 |
-| Active last month | 172 | 248 |
-| Active last 3 months | 236 | 291 |
+| Active last week | 114 | 198 |
+| Active last month | 171 | 248 |
+| Active last 3 months | 235 | 291 |
 | Active last year | 309 | 359 |
 
 ## Audit Data
@@ -98,9 +98,9 @@ Of **576** SCF-funded projects:
 | Halborn | 4 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
+| Cantina | 1 |
 | Code4rena | 1 |
 | Сoinspect | 1 |
-| Cantina | 1 |
 
 ## Data Sources
 
@@ -116,10 +116,10 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
+| website | 1622 |
+| crawler | 711 |
 | submissions | 563 |
-| crawler | 1027 |
-| airtable | 3404 |
-| website | 1621 |
+| airtable | 3719 |
 | schedule | 1 |
 | soroban_security | 66 |
 
@@ -129,8 +129,8 @@ Field-level provenance tracking:
 
 **description empty** (5):
 - alchemy
-- solv-protocol
 - redswan
+- solv-protocol
 - sushi
 - sendit
 
