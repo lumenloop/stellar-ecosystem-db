@@ -1,7 +1,7 @@
 title: RedSwan
 other_names: null
 parent: null
-description: ''
+description: RedSwan is a FINRA-regulated digital securities marketplace that tokenizes commercial real estate on the Stellar network, enabling fractional ownership of institutional-grade assets—including multifamily and hospitality properties—with lower investment minimums, 24/7 secondary market liquidity, and global distribution in 170+ countries via MoneyGram.
 links:
   website:
     - redswan.io
@@ -19,9 +19,17 @@ links:
   github: []
 attributes:
   category: null
-  tags: []
-  operating_region: []
-  based_in: null
+  tags:
+    - rwa
+    - real-estate
+    - tokenization
+    - fractional-ownership
+    - institutional
+    - marketplace
+    - usa
+  operating_region:
+    - North America
+  based_in: United States
 images: null
 mainnet:
   audits: []

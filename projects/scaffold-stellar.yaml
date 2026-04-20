@@ -1,7 +1,7 @@
 title: Scaffold Stellar
 other_names: null
 parent: null
-description: ''
+description: Scaffold Stellar is a developer boilerplate and framework for building dApps on the Stellar network. It provides built-in OpenZeppelin smart contracts, a frontend scaffold, contract invocation tooling, and CLI plugins — enabling developers to go from zero to testnet in minutes.
 links:
   website:
     - scaffoldstellar.org
@@ -17,11 +17,20 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
+  category: Developer Tooling
+  tags:
+    - developer-tools
+    - devx
+    - cli
   operating_region: []
   based_in: null
 images: null
+scf:
+  awarded_round:
+    - SCF Public Goods - Q1 '26
+  awarded_total: null
+  submission_urls:
+    - communityfund.stellar.org/submissions/rec001LAtfWVkNsYK
 mainnet:
   audits:
     - name: Scaffold Registry Audit Report

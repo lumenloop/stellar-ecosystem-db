@@ -1,21 +1,21 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-04-19
+> Auto-generated on 2026-04-20
 
 ## Summary
 
 | Metric | Count |
 |--------|------:|
 | Total projects | **671** |
-| SCF-funded projects | 576 |
-| Community projects | 95 |
+| SCF-funded projects | 577 |
+| Community projects | 94 |
 | Audited projects | 48 |
 
 ## Data Coverage
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 663/671 | 98.8% |
+| description | 665/671 | 99.1% |
 | website | 663/671 | 98.8% |
 | blog | 242/671 | 36.1% |
 | x | 481/671 | 71.7% |
@@ -28,24 +28,24 @@
 | tiktok | 26/671 | 3.9% |
 | linktree | 3/671 | 0.4% |
 | github | 494/671 | 73.6% |
-| category | 582/671 | 86.7% |
-| tags | 664/671 | 99% |
-| operating_region | 663/671 | 98.8% |
-| based_in | 574/671 | 85.5% |
+| category | 583/671 | 86.9% |
+| tags | 666/671 | 99.3% |
+| operating_region | 664/671 | 99% |
+| based_in | 575/671 | 85.7% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **671** projects (incl. **95** community projects not in SCF) against **580** in SCF Airtable:
+Per-project comparison of our **671** projects (incl. **94** community projects not in SCF) against **580** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +115 | 548 |
+| description | +117 | 548 |
 | website | +133 | 530 |
 | github | +112 | 382 |
 | x | +197 | 284 |
 | linkedin | +168 | 204 |
 | discord | +94 | 109 |
-| based_in | +98 | 476 |
+| based_in | +99 | 476 |
 | blog | +242 | 0 |
 | telegram | +141 | 0 |
 | youtube | +159 | 0 |
@@ -58,15 +58,15 @@ Per-project comparison of our **671** projects (incl. **95** community projects 
 
 ## SCF Project Coverage
 
-Of **576** SCF-funded projects:
+Of **577** SCF-funded projects:
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| awarded_total | 522/576 | 90.6% |
-| awarded_round | 552/576 | 95.8% |
-| submission_urls | 552/576 | 95.8% |
-| website | 568/576 | 98.6% |
-| github | 444/576 | 77.1% |
+| awarded_total | 522/577 | 90.5% |
+| awarded_round | 553/577 | 95.8% |
+| submission_urls | 553/577 | 95.8% |
+| website | 569/577 | 98.6% |
+| github | 444/577 | 76.9% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -77,9 +77,9 @@ Of **576** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 447 | 443 |
-| Active last week | 125 | 198 |
-| Active last month | 175 | 248 |
-| Active last 3 months | 236 | 291 |
+| Active last week | 124 | 197 |
+| Active last month | 175 | 246 |
+| Active last 3 months | 232 | 291 |
 | Active last year | 310 | 359 |
 
 ## Audit Data
@@ -116,24 +116,23 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| website | 1623 |
 | agent:content-linker:approved | 2 |
-| submissions | 563 |
-| crawler | 1026 |
-| airtable | 3406 |
+| website | 1623 |
 | schedule | 1 |
+| crawler | 713 |
+| submissions | 564 |
+| airtable | 3719 |
+| agent:project-enricher | 7 |
 | soroban_security | 67 |
 
 ## Needs Review
 
-16 items need attention.
+14 items need attention.
 
-**description empty** (8):
-- scaffold-stellar
+**description empty** (6):
 - nethermind
 - soropg
 - alchemy
-- redswan
 - solv-protocol
 - sushi
 - sendit
