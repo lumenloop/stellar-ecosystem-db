@@ -6,11 +6,15 @@ links:
   website:
     - alchemy.com
   blog: []
-  x: []
-  linkedin: []
-  discord: []
+  x:
+    - alchemy
+  linkedin:
+    - linkedin.com/company/alchemyinc
+  discord:
+    - discord.gg/9gnacxqyz6
   telegram: []
-  youtube: []
+  youtube:
+    - youtube.com/c/alchemyplatform
   instagram: []
   reddit: []
   tiktok: []
