@@ -8,26 +8,6 @@
   is_pool: false
   tags:
     - defi
-- id: CDMAVJPFXPADND3YRL4BSM3AKZWCTFMX27GLLXCML3PD62HEQS5FPVAI
-  label: Blend Pool
-  is_pool: true
-  tags:
-    - defi
-- id: CDVQVKOY2YSXS2IC7KN6MNASSHPAO7UN2UR2ON4OI2SKMFJNVAMDX6DP
-  label: Blend Pool
-  is_pool: true
-  tags:
-    - defi
-- id: CCCCIQSDILITHMM7PBSLVDT5MISSY7R26MNZXCX4H7J5JQ5FPIYOGYFS
-  label: Blend Pool
-  is_pool: true
-  tags:
-    - defi
-- id: CDE65QK2ROZ32V2LVLBOKYPX47TYMYO37Z6ASQTBRTBNK53C7C6QF4Y7
-  label: Blend Pool
-  is_pool: true
-  tags:
-    - defi
 - id: CAE7QVOMBLZ53CDRGK3UNRRHG5EZ5NQA7HHTFASEMYBWHG6MDFZTYHXC
   label: Blend Pool
   is_pool: true
@@ -38,12 +18,32 @@
   is_pool: true
   tags:
     - defi
-- id: CAJJZSGMMM3PD7N33TAPHGBUGTB43OC73HVIK2L2G6BNGGGYOSSYBXBD
+- id: CCCCIQSDILITHMM7PBSLVDT5MISSY7R26MNZXCX4H7J5JQ5FPIYOGYFS
+  label: Blend Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CDVQVKOY2YSXS2IC7KN6MNASSHPAO7UN2UR2ON4OI2SKMFJNVAMDX6DP
+  label: Blend Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CDE65QK2ROZ32V2LVLBOKYPX47TYMYO37Z6ASQTBRTBNK53C7C6QF4Y7
+  label: Blend Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CDMAVJPFXPADND3YRL4BSM3AKZWCTFMX27GLLXCML3PD62HEQS5FPVAI
   label: Blend Pool
   is_pool: true
   tags:
     - defi
 - id: CBYOBT7ZCCLQCBUYYIABZLSEGDPEUWXCUXQTZYOG3YBDR7U357D5ZIRF
+  label: Blend Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CAJJZSGMMM3PD7N33TAPHGBUGTB43OC73HVIK2L2G6BNGGGYOSSYBXBD
   label: Blend Pool
   is_pool: true
   tags:

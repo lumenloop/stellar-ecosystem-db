@@ -26,7 +26,8 @@ attributes:
   operating_region:
     - India
   based_in: India
-images: null
+images:
+  avatar: https://media.lumenloop.com/projects/raum-network/github_avatar.jpg
 scf:
   awarded_round:
     - 27

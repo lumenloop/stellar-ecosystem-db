@@ -33,6 +33,7 @@ attributes:
     - United States
   based_in: United States
 images:
+  icon: https://media.lumenloop.com/projects/infstones/infstones-favicon-tdm8b8.svg
   avatar: https://media.lumenloop.com/projects/infstones/github_avatar.png
 scf:
   awarded_round:
