@@ -26,7 +26,9 @@ attributes:
   operating_region:
     - Ukraine
   based_in: Portugal
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/extractor/apple_touch.jpg
+  og_image: https://media.lumenloop.com/projects/extractor/og.png
 scf:
   awarded_round:
     - 21

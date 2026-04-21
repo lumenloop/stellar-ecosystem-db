@@ -28,7 +28,8 @@ attributes:
   operating_region:
     - North America (without Mexico)
   based_in: United States
-images: null
+images:
+  avatar: https://media.lumenloop.com/projects/horizon-as-a-service/github_avatar.png
 scf:
   awarded_round:
     - 11

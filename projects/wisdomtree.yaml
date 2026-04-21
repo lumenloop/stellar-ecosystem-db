@@ -29,7 +29,10 @@ attributes:
   operating_region:
     - Global
   based_in: United States
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/wisdomtree/apple_touch.svg
+  logo: https://media.lumenloop.com/projects/wisdomtree/logo.png
+  og_image: https://media.lumenloop.com/projects/wisdomtree/og.png
 mainnet:
   audits: []
   tokens: []

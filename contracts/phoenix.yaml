@@ -1,19 +1,4 @@
-- id: CCUCE5H5CKW3S7JBESGCES6ZGDMWLNRY3HOFET3OH33MXZWKXNJTKSM3
-  label: Phoenix Pool
-  is_pool: true
-  tags:
-    - defi
-- id: CB5QUVK5GS3IU23TMFZQ3P5J24YBBZP5PHUQAEJ2SP5K55PFTJRUQG2L
-  label: Phoenix Pool
-  is_pool: true
-  tags:
-    - defi
-- id: CCKOC2LJTPDBKDHTL3M5UO7HFZ2WFIHSOKCELMKQP3TLCIVUBKOQL4HB
-  label: Phoenix Pool
-  is_pool: true
-  tags:
-    - defi
-- id: CDQLKNH3725BUP4HPKQKMM7OO62FDVXVTO7RCYPID527MZHJG2F3QBJW
+- id: CBCZGGNOEUZG4CAAE7TGTQQHETZMKUT4OIPFHHPKEUX46U4KXBBZ3GLH
   label: Phoenix Pool
   is_pool: true
   tags:
@@ -23,17 +8,17 @@
   is_pool: true
   tags:
     - defi
+- id: CC6MJZN3HFOJKXN42ANTSCLRFOMHLFXHWPNAX64DQNUEBDMUYMPHASAV
+  label: Phoenix Pool
+  is_pool: true
+  tags:
+    - defi
 - id: CBW5G5SO5SDYUGQVU7RMZ2KJ34POM3AMODOBIV2RQYG4KJDUUBVC3P2T
   label: Phoenix Pool
   is_pool: true
   tags:
     - defi
-- id: CBISULYO5ZGS32WTNCBMEFCNKNSLFXCQ4Z3XHVDP4X4FLPSEALGSY3PS
-  label: Phoenix Pool
-  is_pool: true
-  tags:
-    - defi
-- id: CBCZGGNOEUZG4CAAE7TGTQQHETZMKUT4OIPFHHPKEUX46U4KXBBZ3GLH
+- id: CDQLKNH3725BUP4HPKQKMM7OO62FDVXVTO7RCYPID527MZHJG2F3QBJW
   label: Phoenix Pool
   is_pool: true
   tags:
@@ -43,12 +28,27 @@
   is_pool: true
   tags:
     - defi
+- id: CB5QUVK5GS3IU23TMFZQ3P5J24YBBZP5PHUQAEJ2SP5K55PFTJRUQG2L
+  label: Phoenix Pool
+  is_pool: true
+  tags:
+    - defi
 - id: CD5XNKK3B6BEF2N7ULNHHGAMOKZ7P6456BFNIHRF4WNTEDKBRWAE7IAA
   label: Phoenix Pool
   is_pool: true
   tags:
     - defi
-- id: CC6MJZN3HFOJKXN42ANTSCLRFOMHLFXHWPNAX64DQNUEBDMUYMPHASAV
+- id: CBISULYO5ZGS32WTNCBMEFCNKNSLFXCQ4Z3XHVDP4X4FLPSEALGSY3PS
+  label: Phoenix Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CCKOC2LJTPDBKDHTL3M5UO7HFZ2WFIHSOKCELMKQP3TLCIVUBKOQL4HB
+  label: Phoenix Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CCUCE5H5CKW3S7JBESGCES6ZGDMWLNRY3HOFET3OH33MXZWKXNJTKSM3
   label: Phoenix Pool
   is_pool: true
   tags:

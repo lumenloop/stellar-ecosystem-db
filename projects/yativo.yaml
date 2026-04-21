@@ -34,6 +34,7 @@ attributes:
   based_in: Chile
 images:
   icon: https://media.lumenloop.com/projects/yativo/apple_touch.svg
+  avatar: https://media.lumenloop.com/projects/yativo/yativo-github_avatar-tdrsc7.webp
   logo: https://media.lumenloop.com/projects/yativo/logo.svg
 mainnet:
   audits: []

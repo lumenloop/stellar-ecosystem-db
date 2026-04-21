@@ -36,7 +36,8 @@ attributes:
   operating_region:
     - Ghana
   based_in: United Kingdom
-images: null
+images:
+  avatar: https://media.lumenloop.com/projects/attest/github_avatar.png
 scf:
   awarded_round:
     - 29

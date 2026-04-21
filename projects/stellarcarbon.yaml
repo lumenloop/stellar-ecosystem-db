@@ -29,6 +29,7 @@ attributes:
     - Netherlands
   based_in: Netherlands
 images:
+  icon: https://media.lumenloop.com/projects/stellarcarbon/favicon.ico
   avatar: https://media.lumenloop.com/projects/stellarcarbon/github_avatar.png
 scf:
   awarded_round:

@@ -35,7 +35,8 @@ attributes:
   operating_region:
     - Europe & Central Asia
   based_in: Spain
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/komunitin/apple_touch.png
 scf:
   awarded_round:
     - 26

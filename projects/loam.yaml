@@ -26,7 +26,8 @@ attributes:
   operating_region:
     - Global
   based_in: United States
-images: null
+images:
+  avatar: https://media.lumenloop.com/projects/loam/loam-github_avatar-tdrsda.webp
 scf:
   awarded_round:
     - 24
