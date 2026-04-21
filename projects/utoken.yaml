@@ -18,7 +18,8 @@ links:
   instagram: []
   reddit: []
   tiktok: []
-  linktree: []
+  linktree:
+    - upesahq
   github:
     - github.com/utokens
 attributes:

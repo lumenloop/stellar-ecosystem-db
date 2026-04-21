@@ -7,8 +7,10 @@ links:
   website:
     - bousolapp.com
   blog: []
-  x: []
+  x:
+    - bousolapp
   linkedin:
+    - linkedin.com/showcase/bousol-wallet
     - linkedin.com/company/paon-bleu
   discord: []
   telegram: []

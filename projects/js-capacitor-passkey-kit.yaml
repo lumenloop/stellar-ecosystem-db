@@ -18,6 +18,7 @@ links:
   linktree: []
   github:
     - github.com/argo-navis-dev/js-capacitor-passkey-kit
+    - github.com/argo-navis-dev
 attributes:
   category: Developer Tooling
   tags:

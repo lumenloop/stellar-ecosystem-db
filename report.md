@@ -17,16 +17,16 @@
 |-------|------:|---------:|
 | description | 665/671 | 99.1% |
 | website | 663/671 | 98.8% |
-| blog | 242/671 | 36.1% |
-| x | 483/671 | 72% |
+| blog | 245/671 | 36.5% |
+| x | 484/671 | 72.1% |
 | linkedin | 374/671 | 55.7% |
-| discord | 204/671 | 30.4% |
-| telegram | 142/671 | 21.2% |
+| discord | 205/671 | 30.6% |
+| telegram | 143/671 | 21.3% |
 | youtube | 161/671 | 24% |
 | instagram | 110/671 | 16.4% |
 | reddit | 11/671 | 1.6% |
 | tiktok | 26/671 | 3.9% |
-| linktree | 3/671 | 0.4% |
+| linktree | 4/671 | 0.6% |
 | github | 495/671 | 73.8% |
 | category | 583/671 | 86.9% |
 | tags | 666/671 | 99.3% |
@@ -42,17 +42,17 @@ Per-project comparison of our **671** projects (incl. **94** community projects 
 | description | +117 | 548 |
 | website | +133 | 530 |
 | github | +113 | 382 |
-| x | +199 | 284 |
+| x | +200 | 284 |
 | linkedin | +170 | 204 |
-| discord | +95 | 109 |
+| discord | +96 | 109 |
 | based_in | +99 | 476 |
-| blog | +242 | 0 |
-| telegram | +142 | 0 |
+| blog | +245 | 0 |
+| telegram | +143 | 0 |
 | youtube | +161 | 0 |
 | instagram | +110 | 0 |
 | reddit | +11 | 0 |
 | tiktok | +26 | 0 |
-| linktree | +3 | 0 |
+| linktree | +4 | 0 |
 
 *"Added" = we filled a field SCF didn't have. "Modified" = SCF had a value, we store a different one.*
 
@@ -76,11 +76,11 @@ Of **577** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 448 | 446 |
-| Active last week | 115 | 199 |
-| Active last month | 176 | 252 |
-| Active last 3 months | 233 | 296 |
-| Active last year | 310 | 362 |
+| Tracked projects | 448 | 447 |
+| Active last week | 115 | 200 |
+| Active last month | 176 | 253 |
+| Active last 3 months | 233 | 297 |
+| Active last year | 310 | 363 |
 
 ## Audit Data
 
@@ -116,10 +116,10 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
+| crawler | 1059 |
+| website | 1618 |
 | submissions | 564 |
-| airtable | 3719 |
-| crawler | 723 |
-| website | 1623 |
+| airtable | 3394 |
 | agent:content-linker:approved | 2 |
 | schedule | 1 |
 | agent:project-enricher | 7 |
@@ -131,19 +131,19 @@ Field-level provenance tracking:
 
 **description empty** (6):
 - nethermind
-- alchemy
 - soropg
 - solv-protocol
+- alchemy
 - sushi
 - sendit
 
 **SCF project missing website** (8):
 - relax
-- the-starship-soroban
 - crypto-link
+- the-starship-soroban
 - paysapp
-- frost-implementation
 - wally
+- frost-implementation
 - timed-transactions-api
 - sendit
 
