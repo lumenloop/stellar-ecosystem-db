@@ -18,7 +18,8 @@ links:
   youtube:
     - youtube.com/channel/ucareidawwyppcywgonunf7g
   instagram: []
-  reddit: []
+  reddit:
+    - r/keystonewallet
   tiktok: []
   linktree: []
   github:
@@ -37,4 +38,3 @@ images:
 mainnet:
   audits: []
   tokens: []
-  contracts: []

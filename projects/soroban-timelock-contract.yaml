@@ -13,10 +13,13 @@ links:
     - linkedin.com/company/57blocks
   discord: []
   telegram: []
-  youtube: []
-  instagram: []
+  youtube:
+    - youtube.com/github
+  instagram:
+    - github
   reddit: []
-  tiktok: []
+  tiktok:
+    - github
   linktree: []
   github:
     - github.com/57blocks

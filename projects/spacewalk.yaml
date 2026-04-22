@@ -6,6 +6,7 @@ links:
   website:
     - pendulumchain.org/spacewalk
   blog:
+    - pendulum-chain.medium.com
     - medium.com/pendulum-chain
   x:
     - pendulum_chain
@@ -20,7 +21,8 @@ links:
   reddit:
     - r/pendulum_chain
   tiktok: []
-  linktree: []
+  linktree:
+    - pendulum_chain
   github:
     - github.com/pendulum-chain
     - github.com/pendulum-chain/spacewalk
