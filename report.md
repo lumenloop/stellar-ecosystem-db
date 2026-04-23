@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-04-22
+> Auto-generated on 2026-04-23
 
 ## Summary
 
@@ -77,10 +77,10 @@ Of **577** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 447 | 449 |
-| Active last week | 113 | 199 |
-| Active last month | 175 | 256 |
-| Active last 3 months | 231 | 299 |
-| Active last year | 309 | 365 |
+| Active last week | 107 | 201 |
+| Active last month | 173 | 257 |
+| Active last 3 months | 231 | 300 |
+| Active last year | 308 | 365 |
 
 ## Audit Data
 
@@ -98,9 +98,9 @@ Of **577** SCF-funded projects:
 | Halborn | 4 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
+| Сoinspect | 1 |
 | Cantina | 1 |
 | Code4rena | 1 |
-| Сoinspect | 1 |
 
 ## Data Sources
 
@@ -116,13 +116,13 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| submissions | 564 |
-| crawler | 1069 |
-| website | 1614 |
-| airtable | 3394 |
-| agent:project-enricher | 7 |
+| website | 1616 |
 | schedule | 1 |
+| crawler | 745 |
+| submissions | 564 |
+| airtable | 3716 |
 | agent:content-linker:approved | 3 |
+| agent:project-enricher | 7 |
 | soroban_security | 67 |
 
 ## Needs Review
@@ -130,8 +130,8 @@ Field-level provenance tracking:
 15 items need attention.
 
 **description empty** (7):
-- xbid-ai
 - soropg
+- xbid-ai
 - nethermind
 - solv-protocol
 - alchemy
@@ -142,8 +142,8 @@ Field-level provenance tracking:
 - frost-implementation
 - relax
 - wally
-- crypto-link
 - paysapp
+- crypto-link
 - the-starship-soroban
 - timed-transactions-api
 - sendit
