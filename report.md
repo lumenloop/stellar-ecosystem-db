@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-04-23
+> Auto-generated on 2026-04-24
 
 ## Summary
 
@@ -77,10 +77,10 @@ Of **577** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 447 | 449 |
-| Active last week | 107 | 201 |
-| Active last month | 173 | 257 |
-| Active last 3 months | 231 | 300 |
-| Active last year | 308 | 365 |
+| Active last week | 109 | 198 |
+| Active last month | 179 | 256 |
+| Active last 3 months | 231 | 299 |
+| Active last year | 307 | 365 |
 
 ## Audit Data
 
@@ -96,11 +96,11 @@ Of **577** SCF-funded projects:
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
-| CoinFabrik | 2 |
 | OpenZeppelin | 2 |
+| CoinFabrik | 2 |
+| Cantina | 1 |
 | Code4rena | 1 |
 | Сoinspect | 1 |
-| Cantina | 1 |
 
 ## Data Sources
 
@@ -117,9 +117,9 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 564 |
-| crawler | 1067 |
+| airtable | 3716 |
 | website | 1616 |
-| airtable | 3394 |
+| crawler | 745 |
 | schedule | 1 |
 | agent:content-linker:approved | 3 |
 | agent:project-enricher | 7 |
@@ -132,8 +132,8 @@ Field-level provenance tracking:
 **description empty** (7):
 - alchemy
 - soropg
-- nethermind
 - xbid-ai
+- nethermind
 - solv-protocol
 - sushi
 - sendit
@@ -141,10 +141,10 @@ Field-level provenance tracking:
 **SCF project missing website** (8):
 - paysapp
 - frost-implementation
-- relax
 - wally
-- crypto-link
 - the-starship-soroban
+- relax
+- crypto-link
 - timed-transactions-api
 - sendit
 
