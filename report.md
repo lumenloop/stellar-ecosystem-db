@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-04-24
+> Auto-generated on 2026-04-25
 
 ## Summary
 
@@ -18,17 +18,17 @@
 | description | 665/672 | 99% |
 | website | 664/672 | 98.8% |
 | blog | 245/672 | 36.5% |
-| x | 484/672 | 72% |
-| linkedin | 375/672 | 55.8% |
+| x | 483/672 | 71.9% |
+| linkedin | 374/672 | 55.7% |
 | discord | 205/672 | 30.5% |
 | telegram | 143/672 | 21.3% |
-| youtube | 162/672 | 24.1% |
-| instagram | 111/672 | 16.5% |
+| youtube | 158/672 | 23.5% |
+| instagram | 110/672 | 16.4% |
 | reddit | 12/672 | 1.8% |
-| tiktok | 27/672 | 4% |
+| tiktok | 26/672 | 3.9% |
 | linktree | 5/672 | 0.7% |
 | github | 495/672 | 73.7% |
-| category | 583/672 | 86.8% |
+| category | 584/672 | 86.9% |
 | tags | 666/672 | 99.1% |
 | operating_region | 664/672 | 98.8% |
 | based_in | 575/672 | 85.6% |
@@ -42,16 +42,16 @@ Per-project comparison of our **672** projects (incl. **95** community projects 
 | description | +117 | 548 |
 | website | +134 | 530 |
 | github | +113 | 382 |
-| x | +200 | 284 |
-| linkedin | +171 | 204 |
+| x | +199 | 284 |
+| linkedin | +170 | 204 |
 | discord | +96 | 109 |
 | based_in | +99 | 476 |
 | blog | +245 | 0 |
 | telegram | +143 | 0 |
-| youtube | +162 | 0 |
-| instagram | +111 | 0 |
+| youtube | +158 | 0 |
+| instagram | +110 | 0 |
 | reddit | +12 | 0 |
-| tiktok | +27 | 0 |
+| tiktok | +26 | 0 |
 | linktree | +5 | 0 |
 
 *"Added" = we filled a field SCF didn't have. "Modified" = SCF had a value, we store a different one.*
@@ -76,11 +76,11 @@ Of **577** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 447 | 451 |
-| Active last week | 109 | 199 |
-| Active last month | 179 | 258 |
-| Active last 3 months | 231 | 301 |
-| Active last year | 307 | 367 |
+| Tracked projects | 447 | 450 |
+| Active last week | 110 | 199 |
+| Active last month | 178 | 258 |
+| Active last 3 months | 230 | 299 |
+| Active last year | 307 | 366 |
 
 ## Audit Data
 
@@ -96,8 +96,8 @@ Of **577** SCF-funded projects:
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
-| OpenZeppelin | 2 |
 | CoinFabrik | 2 |
+| OpenZeppelin | 2 |
 | Cantina | 1 |
 | Code4rena | 1 |
 | Сoinspect | 1 |
@@ -117,12 +117,14 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 564 |
-| crawler | 1067 |
-| website | 1616 |
+| website | 1613 |
 | airtable | 3394 |
+| crawler | 1060 |
+| agent | 10 |
 | schedule | 1 |
 | agent:content-linker:approved | 3 |
 | agent:project-enricher | 7 |
+| agent:project-enricher:approved | 1 |
 | soroban_security | 67 |
 
 ## Needs Review
@@ -134,17 +136,17 @@ Field-level provenance tracking:
 - xbid-ai
 - nethermind
 - solv-protocol
-- alchemy
 - sushi
+- alchemy
 - sendit
 
 **SCF project missing website** (8):
-- frost-implementation
-- wally
 - paysapp
+- frost-implementation
 - relax
+- wally
 - the-starship-soroban
-- crypto-link
 - timed-transactions-api
+- crypto-link
 - sendit
 

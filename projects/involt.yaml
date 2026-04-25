@@ -13,8 +13,7 @@ links:
     - linkedin.com/instagram.com/pinglatam
   discord: []
   telegram: []
-  youtube:
-    - youtube.com/@lets_ping
+  youtube: []
   instagram: []
   reddit: []
   tiktok: []
@@ -35,4 +34,3 @@ images:
 mainnet:
   audits: []
   tokens: []
-  contracts: []
