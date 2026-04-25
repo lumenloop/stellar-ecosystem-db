@@ -78,7 +78,7 @@ Of **577** SCF-funded projects:
 |--------|------:|--------:|
 | Tracked projects | 447 | 450 |
 | Active last week | 110 | 199 |
-| Active last month | 178 | 258 |
+| Active last month | 178 | 257 |
 | Active last 3 months | 230 | 299 |
 | Active last year | 307 | 366 |
 
@@ -117,11 +117,11 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 564 |
+| airtable | 3716 |
+| crawler | 738 |
 | website | 1613 |
-| airtable | 3394 |
-| crawler | 1060 |
-| agent | 10 |
 | schedule | 1 |
+| agent | 10 |
 | agent:content-linker:approved | 3 |
 | agent:project-enricher | 7 |
 | agent:project-enricher:approved | 1 |
@@ -133,9 +133,9 @@ Field-level provenance tracking:
 
 **description empty** (7):
 - soropg
+- solv-protocol
 - xbid-ai
 - nethermind
-- solv-protocol
 - sushi
 - alchemy
 - sendit
