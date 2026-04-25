@@ -17,7 +17,6 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/argo-navis-dev
     - github.com/argo-navis-dev/js-capacitor-passkey-kit
 attributes:
   category: Developer Tooling

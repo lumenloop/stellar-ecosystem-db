@@ -16,9 +16,7 @@ links:
   reddit: []
   tiktok: []
   linktree: []
-  github:
-    - github.com/yk-labs-dev/soroban-cli-gui
-    - github.com/stellarmask/stellarmask
+  github: []
 attributes:
   category: Infrastructure & Services
   tags:

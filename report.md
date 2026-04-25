@@ -27,7 +27,7 @@
 | reddit | 12/672 | 1.8% |
 | tiktok | 26/672 | 3.9% |
 | linktree | 5/672 | 0.7% |
-| github | 495/672 | 73.7% |
+| github | 494/672 | 73.5% |
 | category | 584/672 | 86.9% |
 | tags | 666/672 | 99.1% |
 | operating_region | 664/672 | 98.8% |
@@ -41,7 +41,7 @@ Per-project comparison of our **672** projects (incl. **95** community projects 
 |-------|------:|------:|
 | description | +117 | 548 |
 | website | +134 | 530 |
-| github | +113 | 382 |
+| github | +113 | 381 |
 | x | +199 | 284 |
 | linkedin | +170 | 204 |
 | discord | +96 | 109 |
@@ -66,7 +66,7 @@ Of **577** SCF-funded projects:
 | awarded_round | 553/577 | 95.8% |
 | submission_urls | 553/577 | 95.8% |
 | website | 569/577 | 98.6% |
-| github | 445/577 | 77.1% |
+| github | 444/577 | 76.9% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -76,11 +76,11 @@ Of **577** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 447 | 449 |
-| Active last week | 110 | 198 |
-| Active last month | 178 | 256 |
+| Tracked projects | 446 | 449 |
+| Active last week | 117 | 199 |
+| Active last month | 181 | 256 |
 | Active last 3 months | 230 | 298 |
-| Active last year | 307 | 365 |
+| Active last year | 306 | 365 |
 
 ## Audit Data
 
@@ -117,9 +117,9 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 564 |
-| website | 1613 |
-| airtable | 3395 |
-| crawler | 1059 |
+| crawler | 1048 |
+| website | 1625 |
+| airtable | 3394 |
 | schedule | 1 |
 | agent | 10 |
 | agent:content-linker:approved | 3 |
