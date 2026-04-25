@@ -76,11 +76,11 @@ Of **577** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 447 | 450 |
-| Active last week | 110 | 199 |
-| Active last month | 178 | 257 |
-| Active last 3 months | 230 | 299 |
-| Active last year | 307 | 366 |
+| Tracked projects | 447 | 449 |
+| Active last week | 110 | 198 |
+| Active last month | 178 | 256 |
+| Active last 3 months | 230 | 298 |
+| Active last year | 307 | 365 |
 
 ## Audit Data
 
@@ -117,9 +117,9 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 564 |
-| airtable | 3716 |
-| crawler | 738 |
 | website | 1613 |
+| airtable | 3395 |
+| crawler | 1059 |
 | schedule | 1 |
 | agent | 10 |
 | agent:content-linker:approved | 3 |
@@ -132,8 +132,8 @@ Field-level provenance tracking:
 15 items need attention.
 
 **description empty** (7):
-- soropg
 - solv-protocol
+- soropg
 - xbid-ai
 - nethermind
 - sushi
@@ -141,10 +141,10 @@ Field-level provenance tracking:
 - sendit
 
 **SCF project missing website** (8):
+- wally
 - paysapp
 - frost-implementation
 - relax
-- wally
 - the-starship-soroban
 - timed-transactions-api
 - crypto-link
