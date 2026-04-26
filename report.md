@@ -77,10 +77,10 @@ Of **577** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 446 | 449 |
-| Active last week | 115 | 198 |
+| Active last week | 121 | 200 |
 | Active last month | 180 | 256 |
-| Active last 3 months | 230 | 298 |
-| Active last year | 306 | 365 |
+| Active last 3 months | 231 | 298 |
+| Active last year | 307 | 365 |
 
 ## Audit Data
 
@@ -116,11 +116,11 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| agent:content-linker:approved | 8 |
 | submissions | 564 |
 | website | 1623 |
 | airtable | 3393 |
 | crawler | 1054 |
+| agent:content-linker:approved | 8 |
 | schedule | 1 |
 | agent | 10 |
 | agent:project-enricher | 7 |
