@@ -6,41 +6,41 @@
 
 | Metric | Count |
 |--------|------:|
-| Total projects | **675** |
+| Total projects | **677** |
 | SCF-funded projects | 577 |
-| Community projects | 98 |
+| Community projects | 100 |
 | Audited projects | 48 |
 
 ## Data Coverage
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 665/675 | 98.5% |
-| website | 667/675 | 98.8% |
-| blog | 245/675 | 36.3% |
-| x | 483/675 | 71.6% |
-| linkedin | 374/675 | 55.4% |
-| discord | 205/675 | 30.4% |
-| telegram | 143/675 | 21.2% |
-| youtube | 158/675 | 23.4% |
-| instagram | 110/675 | 16.3% |
-| reddit | 12/675 | 1.8% |
-| tiktok | 26/675 | 3.9% |
-| linktree | 5/675 | 0.7% |
-| github | 494/675 | 73.2% |
-| category | 585/675 | 86.7% |
-| tags | 666/675 | 98.7% |
-| operating_region | 664/675 | 98.4% |
-| based_in | 575/675 | 85.2% |
+| description | 665/677 | 98.2% |
+| website | 669/677 | 98.8% |
+| blog | 245/677 | 36.2% |
+| x | 483/677 | 71.3% |
+| linkedin | 374/677 | 55.2% |
+| discord | 205/677 | 30.3% |
+| telegram | 143/677 | 21.1% |
+| youtube | 158/677 | 23.3% |
+| instagram | 111/677 | 16.4% |
+| reddit | 13/677 | 1.9% |
+| tiktok | 26/677 | 3.8% |
+| linktree | 5/677 | 0.7% |
+| github | 494/677 | 73% |
+| category | 585/677 | 86.4% |
+| tags | 666/677 | 98.4% |
+| operating_region | 664/677 | 98.1% |
+| based_in | 575/677 | 84.9% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **675** projects (incl. **98** community projects not in SCF) against **580** in SCF Airtable:
+Per-project comparison of our **677** projects (incl. **100** community projects not in SCF) against **580** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
 | description | +117 | 548 |
-| website | +137 | 530 |
+| website | +139 | 530 |
 | github | +113 | 381 |
 | x | +199 | 284 |
 | linkedin | +170 | 204 |
@@ -49,8 +49,8 @@ Per-project comparison of our **675** projects (incl. **98** community projects 
 | blog | +245 | 0 |
 | telegram | +143 | 0 |
 | youtube | +158 | 0 |
-| instagram | +110 | 0 |
-| reddit | +12 | 0 |
+| instagram | +111 | 0 |
+| reddit | +13 | 0 |
 | tiktok | +26 | 0 |
 | linktree | +5 | 0 |
 
@@ -91,8 +91,8 @@ Of **577** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 22 |
-| certora | 10 |
 | OtterSec | 10 |
+| certora | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
@@ -116,11 +116,11 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| agent:content-linker:approved | 6 |
+| agent:content-linker:approved | 8 |
 | submissions | 564 |
-| website | 1626 |
-| airtable | 3712 |
-| crawler | 730 |
+| website | 1623 |
+| airtable | 3393 |
+| crawler | 1054 |
 | schedule | 1 |
 | agent | 10 |
 | agent:project-enricher | 7 |
@@ -129,16 +129,18 @@ Field-level provenance tracking:
 
 ## Needs Review
 
-18 items need attention.
+20 items need attention.
 
-**description empty** (10):
+**description empty** (12):
+- kale
 - kalien
-- centrifuge
+- cheesecake-labs
 - cyberbrawl
+- centrifuge
 - solv-protocol
-- sushi
 - soropg
 - xbid-ai
+- sushi
 - nethermind
 - alchemy
 - sendit
