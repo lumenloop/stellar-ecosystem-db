@@ -10,20 +10,19 @@ links:
   blog:
     - blog.honeycoin.app
   x:
-    - honeycoinapp
     - peerwallet_
+    - honeycoinapp
   linkedin:
     - linkedin.com/company/67899570
   discord: []
   telegram: []
   youtube:
-    - youtube.com/@honeycoinapp
     - youtube.com/@peer.pressure.podcast
   instagram:
-    - honeycoinapp
+    - peerwallet.hc
   reddit: []
   tiktok:
-    - honeycoinapp
+    - peerwallet_
   linktree: []
   github: []
 attributes:
