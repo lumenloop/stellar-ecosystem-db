@@ -76,11 +76,11 @@ Of **577** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 446 | 449 |
-| Active last week | 121 | 202 |
-| Active last month | 179 | 257 |
-| Active last 3 months | 231 | 298 |
-| Active last year | 307 | 365 |
+| Tracked projects | 445 | 449 |
+| Active last week | 119 | 201 |
+| Active last month | 179 | 256 |
+| Active last 3 months | 230 | 298 |
+| Active last year | 306 | 365 |
 
 ## Audit Data
 
@@ -99,8 +99,8 @@ Of **577** SCF-funded projects:
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
 | Cantina | 1 |
-| Сoinspect | 1 |
 | Code4rena | 1 |
+| Сoinspect | 1 |
 
 ## Data Sources
 
@@ -120,8 +120,8 @@ Field-level provenance tracking:
 | crawler | 1053 |
 | website | 1623 |
 | airtable | 3394 |
-| agent:project-enricher | 7 |
 | agent:content-linker:approved | 8 |
+| agent:project-enricher | 7 |
 | agent:project-enricher:approved | 1 |
 | agent | 10 |
 | schedule | 1 |
@@ -138,19 +138,19 @@ Field-level provenance tracking:
 - cheesecake-labs
 - solv-protocol
 - cyberbrawl
+- xbid-ai
 - sushi
 - nethermind
-- xbid-ai
 - soropg
 - alchemy
 - sendit
 
 **SCF project missing website** (8):
-- frost-implementation
 - relax
 - wally
-- timed-transactions-api
+- frost-implementation
 - paysapp
+- timed-transactions-api
 - the-starship-soroban
 - crypto-link
 - sendit
