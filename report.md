@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-04-26
+> Auto-generated on 2026-04-27
 
 ## Summary
 
@@ -77,9 +77,9 @@ Of **577** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 446 | 449 |
-| Active last week | 121 | 200 |
-| Active last month | 180 | 256 |
-| Active last 3 months | 231 | 298 |
+| Active last week | 121 | 202 |
+| Active last month | 179 | 257 |
+| Active last 3 months | 231 | 299 |
 | Active last year | 307 | 365 |
 
 ## Audit Data
@@ -99,8 +99,8 @@ Of **577** SCF-funded projects:
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
 | Cantina | 1 |
-| Code4rena | 1 |
 | Сoinspect | 1 |
+| Code4rena | 1 |
 
 ## Data Sources
 
@@ -116,10 +116,10 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
+| crawler | 735 |
 | submissions | 564 |
+| airtable | 3712 |
 | website | 1623 |
-| airtable | 3393 |
-| crawler | 1054 |
 | agent:content-linker:approved | 8 |
 | schedule | 1 |
 | agent | 10 |
@@ -132,26 +132,26 @@ Field-level provenance tracking:
 20 items need attention.
 
 **description empty** (12):
+- centrifuge
 - kale
 - kalien
 - cheesecake-labs
 - cyberbrawl
-- centrifuge
 - solv-protocol
-- soropg
 - xbid-ai
 - sushi
-- nethermind
+- soropg
 - alchemy
+- nethermind
 - sendit
 
 **SCF project missing website** (8):
+- timed-transactions-api
 - frost-implementation
 - relax
 - wally
 - paysapp
 - the-starship-soroban
-- timed-transactions-api
 - crypto-link
 - sendit
 
