@@ -1,12 +1,13 @@
 title: Centrifuge
 other_names: null
 parent: null
-description: ''
+description: Centrifuge is the platform for tokenized real-world assets, providing the infrastructure and ecosystem to tokenize, manage, and invest into RWAs.
 links:
   website:
     - centrifuge.io
   blog: []
-  x: []
+  x:
+    - centrifuge
   linkedin: []
   discord: []
   telegram: []
@@ -17,9 +18,16 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
-  operating_region: []
+  category: DeFi
+  tags:
+    - rwa
+    - tokenization
+    - defi
+    - institutional
+    - yield
+    - multi-chain
+  operating_region:
+    - global
   based_in: null
 images: null
 mainnet:

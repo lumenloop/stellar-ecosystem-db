@@ -1,12 +1,13 @@
 title: Cyberbrawl
 other_names: null
 parent: null
-description: ''
+description: Cyberbrawl is a fast-paced blockchain TCG on Stellar by Litemint. Players battle in real-time duels and tournaments using on-chain heroes, cards, and badges. Features an Auction House for peer-to-peer trading in USDC or KALE, daily quests, and leaderboards. Available on web and Android.
 links:
   website:
     - cyberbrawl.io
   blog: []
-  x: []
+  x:
+    - cyberbrawlio
   linkedin: []
   discord: []
   telegram: []
@@ -17,10 +18,16 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
-  operating_region: []
-  based_in: null
+  category: End-User Application
+  tags:
+    - gaming
+    - nft
+    - collectibles
+    - marketplace
+    - mobile
+  operating_region:
+    - global
+  based_in: Korea
 images: null
 mainnet:
   audits: []

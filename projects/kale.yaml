@@ -1,24 +1,32 @@
 title: Kale
 other_names: null
 parent: null
-description: ''
+description: $KALE is a proof-of-teamwork farming game on Stellar's Soroban smart contracts, where farmers collaborate to mine tokens with rewards distributed by individual contribution. Created by Tyler van der Hoeven (@kalepail) in November 2024, it became a major Stellar ecosystem phenomenon, stress-testing Soroban scalability and spawning composability projects like Kalefail and KALE Grab Rush.
 links:
   website:
     - kaleonstellar.com
   blog: []
-  x: []
+  x:
+    - kaleonstellar
   linkedin: []
-  discord: []
-  telegram: []
+  discord:
+    - discord.gg/yqgvjgxahr
+  telegram:
+    - t.me/kaleonstellar
   youtube: []
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/kalepail/kale-sc
 attributes:
-  category: null
-  tags: []
+  category: Applications
+  tags:
+    - Gaming
+    - DeFi
+    - Community
+    - Trading
   operating_region: []
   based_in: null
 images: null

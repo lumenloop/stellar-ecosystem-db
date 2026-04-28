@@ -1,13 +1,15 @@
 title: Nethermind
 other_names: null
 parent: null
-description: ''
+description: Nethermind is a leading blockchain research and software engineering company building core infrastructure for decentralized systems. On Stellar, Nethermind delivers ZK infrastructure including Stellar Private Payments (SPP) — a privacy-preserving payment protocol — a Stellar ↔ Wormhole cross-chain bridge, and a RISC Zero ZK verifier.
 links:
   website:
     - nethermind.io
   blog: []
-  x: []
-  linkedin: []
+  x:
+    - nethermind
+  linkedin:
+    - linkedin.com/company/nethermind
   discord: []
   telegram: []
   youtube: []
@@ -15,12 +17,19 @@ links:
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/nethermindeth
 attributes:
-  category: null
-  tags: []
-  operating_region: []
-  based_in: null
+  category: Infrastructure
+  tags:
+    - zk
+    - zk-proofs
+    - bridge
+    - cross-chain
+    - infrastructure
+  operating_region:
+    - Global
+  based_in: United Kingdom
 images: null
 mainnet:
   audits: []

@@ -1,7 +1,7 @@
 title: Alchemy
 other_names: null
 parent: null
-description: Blockchain developer platform providing RPC nodes, APIs, and developer tools across multiple chains including Stellar.
+description: Alchemy is a web3 developer platform providing enterprise-grade RPC infrastructure, enhanced APIs, and developer tooling across 10+ blockchains including Stellar.
 links:
   website:
     - alchemy.com
@@ -21,8 +21,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
+  category: Infrastructure & Services
+  tags:
+    - rpc
+    - developer-tools
+    - multi-chain
   operating_region: []
   based_in: null
 images: null

@@ -1,13 +1,15 @@
 title: Cheesecake Labs
 other_names: null
 parent: null
-description: ''
+description: 'A blockchain and AI software engineering company and official Stellar ambassador that helps startups and enterprises build smart contracts, stablecoins, CBDCs, digital wallets, and tokenization platforms on Stellar. Rated #1 in Latin America on Clutch with 350+ apps shipped.'
 links:
   website:
     - cheesecakelabs.com
   blog: []
-  x: []
-  linkedin: []
+  x:
+    - cheesecakelabs
+  linkedin:
+    - linkedin.com/company/cheesecake-labs
   discord: []
   telegram: []
   youtube: []
@@ -15,12 +17,23 @@ links:
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/cheesecakelabs
 attributes:
-  category: null
-  tags: []
-  operating_region: []
-  based_in: null
+  category: Infrastructure & Services
+  tags:
+    - enterprise
+    - mobile
+    - ai
+    - b2b
+    - tokenization
+    - stablecoins
+    - cbdc
+    - latam
+  operating_region:
+    - Brazil
+    - United States
+  based_in: Brazil
 images: null
 mainnet:
   audits: []
