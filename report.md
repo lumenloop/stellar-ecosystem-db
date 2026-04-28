@@ -6,41 +6,41 @@
 
 | Metric | Count |
 |--------|------:|
-| Total projects | **677** |
+| Total projects | **678** |
 | SCF-funded projects | 577 |
-| Community projects | 100 |
+| Community projects | 101 |
 | Audited projects | 48 |
 
 ## Data Coverage
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 671/677 | 99.1% |
-| website | 669/677 | 98.8% |
-| blog | 245/677 | 36.2% |
-| x | 488/677 | 72.1% |
-| linkedin | 376/677 | 55.5% |
-| discord | 206/677 | 30.4% |
-| telegram | 144/677 | 21.3% |
-| youtube | 158/677 | 23.3% |
-| instagram | 110/677 | 16.2% |
-| reddit | 13/677 | 1.9% |
-| tiktok | 26/677 | 3.8% |
-| linktree | 5/677 | 0.7% |
-| github | 497/677 | 73.4% |
-| category | 594/677 | 87.7% |
-| tags | 672/677 | 99.3% |
-| operating_region | 668/677 | 98.7% |
-| based_in | 578/677 | 85.4% |
+| description | 671/678 | 99% |
+| website | 670/678 | 98.8% |
+| blog | 245/678 | 36.1% |
+| x | 488/678 | 72% |
+| linkedin | 376/678 | 55.5% |
+| discord | 206/678 | 30.4% |
+| telegram | 144/678 | 21.2% |
+| youtube | 158/678 | 23.3% |
+| instagram | 110/678 | 16.2% |
+| reddit | 13/678 | 1.9% |
+| tiktok | 26/678 | 3.8% |
+| linktree | 5/678 | 0.7% |
+| github | 497/678 | 73.3% |
+| category | 594/678 | 87.6% |
+| tags | 672/678 | 99.1% |
+| operating_region | 668/678 | 98.5% |
+| based_in | 578/678 | 85.3% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **677** projects (incl. **100** community projects not in SCF) against **580** in SCF Airtable:
+Per-project comparison of our **678** projects (incl. **101** community projects not in SCF) against **580** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
 | description | +123 | 548 |
-| website | +139 | 530 |
+| website | +140 | 530 |
 | github | +116 | 381 |
 | x | +204 | 284 |
 | linkedin | +172 | 204 |
@@ -76,11 +76,11 @@ Of **577** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 448 | 449 |
-| Active last week | 119 | 201 |
-| Active last month | 181 | 255 |
-| Active last 3 months | 233 | 297 |
-| Active last year | 309 | 365 |
+| Tracked projects | 448 | 454 |
+| Active last week | 119 | 203 |
+| Active last month | 181 | 258 |
+| Active last 3 months | 233 | 302 |
+| Active last year | 309 | 369 |
 
 ## Audit Data
 
@@ -116,15 +116,16 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| crawler | 1044 |
+| crawler | 879 |
 | website | 1619 |
 | submissions | 564 |
-| airtable | 3385 |
+| airtable | 3549 |
+| admin | 15 |
+| agent:conflicts:approved | 1 |
+| agent:conflict-resolver | 12 |
 | agent:project-enricher | 25 |
-| agent:content-linker:approved | 8 |
+| agent:content-linker:approved | 9 |
 | agent:project-enricher:approved | 20 |
-| admin | 7 |
-| agent:conflict-resolver | 13 |
 | agent:curator | 7 |
 | agent:curator:approved | 2 |
 | schedule | 1 |
@@ -133,23 +134,24 @@ Field-level provenance tracking:
 
 ## Needs Review
 
-14 items need attention.
-
-**description empty** (6):
-- kalien
-- solv-protocol
-- xbid-ai
-- sushi
-- soropg
-- sendit
+15 items need attention.
 
 **SCF project missing website** (8):
+- crypto-link
 - wally
 - frost-implementation
 - relax
-- paysapp
 - timed-transactions-api
 - the-starship-soroban
-- crypto-link
+- paysapp
+- sendit
+
+**description empty** (7):
+- circle
+- kalien
+- solv-protocol
+- sushi
+- xbid-ai
+- soropg
 - sendit
 

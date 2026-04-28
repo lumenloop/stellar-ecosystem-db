@@ -1,7 +1,9 @@
 title: Autowhale
-other_names: null
+other_names:
+  - Autowhale
+  - Autowhale Test
 parent: null
-description: Portfolio management and order execution system for institutional investors accessing Stellar's DeFi and RWA ecosystem.
+description: Portfolio management and order execution system for institutional investors accessing Stellar DeFi and RWA ecosystem.
 links:
   website:
     - renesis.fi
