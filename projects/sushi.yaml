@@ -2,7 +2,7 @@ title: Sushi
 other_names:
   - SushiSwap
 parent: null
-description: ''
+description: Sushi (formerly SushiSwap) is a multi-chain DeFi super app offering AMM-based token swaps, perpetuals trading, and liquidity provision. One of the most established DeFi protocols in the space, Sushi is now live on Stellar, bringing battle-tested decentralized exchange infrastructure with 5-second finality and sub-cent transaction fees.
 links:
   website:
     - sushi.com
@@ -17,12 +17,19 @@ links:
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/sushiswap
 attributes:
-  category: null
-  tags: []
+  category: DeFi
+  tags:
+    - defi
+    - dex
+    - derivatives
+    - liquidity
+    - trading
+    - multi-chain
   operating_region: []
-  based_in: null
+  based_in: Japan
 images: null
 mainnet:
   audits: []

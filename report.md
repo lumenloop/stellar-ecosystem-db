@@ -15,10 +15,10 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 671/677 | 99.1% |
+| description | 673/677 | 99.4% |
 | website | 669/677 | 98.8% |
 | blog | 245/677 | 36.2% |
-| x | 488/677 | 72.1% |
+| x | 489/677 | 72.2% |
 | linkedin | 376/677 | 55.5% |
 | discord | 206/677 | 30.4% |
 | telegram | 144/677 | 21.3% |
@@ -27,11 +27,11 @@
 | reddit | 13/677 | 1.9% |
 | tiktok | 26/677 | 3.8% |
 | linktree | 5/677 | 0.7% |
-| github | 497/677 | 73.4% |
-| category | 595/677 | 87.9% |
-| tags | 672/677 | 99.3% |
+| github | 498/677 | 73.6% |
+| category | 596/677 | 88% |
+| tags | 673/677 | 99.4% |
 | operating_region | 668/677 | 98.7% |
-| based_in | 578/677 | 85.4% |
+| based_in | 580/677 | 85.7% |
 
 ## Enrichment vs SCF Airtable
 
@@ -39,13 +39,13 @@ Per-project comparison of our **677** projects (incl. **100** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +123 | 548 |
+| description | +125 | 548 |
 | website | +139 | 530 |
-| github | +116 | 381 |
-| x | +204 | 284 |
+| github | +117 | 381 |
+| x | +205 | 284 |
 | linkedin | +172 | 204 |
 | discord | +97 | 109 |
-| based_in | +102 | 476 |
+| based_in | +104 | 476 |
 | blog | +245 | 0 |
 | telegram | +144 | 0 |
 | youtube | +158 | 0 |
@@ -76,11 +76,11 @@ Of **577** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 448 | 454 |
+| Tracked projects | 449 | 454 |
 | Active last week | 119 | 203 |
-| Active last month | 181 | 258 |
-| Active last 3 months | 233 | 302 |
-| Active last year | 309 | 369 |
+| Active last month | 182 | 259 |
+| Active last 3 months | 234 | 301 |
+| Active last year | 310 | 369 |
 
 ## Audit Data
 
@@ -118,39 +118,37 @@ Field-level provenance tracking:
 |--------|------:|
 | crawler | 732 |
 | website | 1617 |
+| agent:project-enricher | 33 |
+| agent:content-linker:approved | 9 |
+| agent:project-enricher:approved | 24 |
 | submissions | 564 |
 | airtable | 3696 |
 | admin | 15 |
 | agent:conflicts:approved | 1 |
 | agent:conflict-resolver | 12 |
-| agent:project-enricher | 29 |
-| agent:content-linker:approved | 9 |
-| agent:project-enricher:approved | 20 |
 | agent:curator | 7 |
+| agent | 10 |
 | agent:curator:approved | 2 |
 | schedule | 1 |
-| agent | 10 |
 | soroban_security | 67 |
 
 ## Needs Review
 
-14 items need attention.
-
-**description empty** (6):
-- sendit
-- kalien
-- xbid-ai
-- solv-protocol
-- sushi
-- soropg
+12 items need attention.
 
 **SCF project missing website** (8):
-- sendit
 - wally
-- relax
-- timed-transactions-api
+- sendit
 - the-starship-soroban
+- relax
+- frost-implementation
+- timed-transactions-api
 - paysapp
 - crypto-link
-- frost-implementation
+
+**description empty** (4):
+- sendit
+- soropg
+- kalien
+- xbid-ai
 

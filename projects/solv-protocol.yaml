@@ -2,12 +2,13 @@ title: Solv Protocol
 other_names:
   - Solv
 parent: null
-description: ''
+description: Solv Protocol is the operating layer of Bitcoin, enabling more efficient capital flow through Bitcoin yield products and native tokenization. Backed by Binance Labs and Blockchain Capital.
 links:
   website:
     - solv.finance
   blog: []
-  x: []
+  x:
+    - solvprotocol
   linkedin: []
   discord: []
   telegram: []
