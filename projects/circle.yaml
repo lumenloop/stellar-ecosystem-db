@@ -1,7 +1,7 @@
 title: Circle
 other_names: null
 parent: null
-description: ''
+description: Circle is the full-stack platform for the internet financial system — issuing USDC and EURC stablecoins and powering global payments, trading, and financial access through the Circle Payments Network (CPN) and Arc.
 links:
   website:
     - circle.com
@@ -17,9 +17,18 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
-  operating_region: []
+  category: Infrastructure
+  tags:
+    - stablecoins
+    - payments
+    - usd
+    - eur
+    - cross-border-payments
+    - enterprise
+    - b2b
+    - institutional
+  operating_region:
+    - global
   based_in: null
 images: null
 mainnet:
