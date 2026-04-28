@@ -24,12 +24,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
+  category: Payments
   tags:
     - Payments
     - Cross-Border Payments
-    - Latam
-    - P2P
+    - Remittances
   operating_region:
     - Latin America & Caribbean
     - Emerging Markets

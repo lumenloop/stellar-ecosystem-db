@@ -21,12 +21,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
+  category: Applications
   tags:
     - Payments
     - Remittances
     - Africa
-    - Mobile
   operating_region:
     - Sub-Saharan Africa
     - North America (without Mexico)
@@ -36,4 +35,3 @@ images: null
 mainnet:
   audits: []
   tokens: []
-  contracts: []

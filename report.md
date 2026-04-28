@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-04-27
+> Auto-generated on 2026-04-28
 
 ## Summary
 
@@ -15,7 +15,7 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 665/677 | 98.2% |
+| description | 666/677 | 98.4% |
 | website | 669/677 | 98.8% |
 | blog | 245/677 | 36.2% |
 | x | 483/677 | 71.3% |
@@ -23,12 +23,12 @@
 | discord | 205/677 | 30.3% |
 | telegram | 143/677 | 21.1% |
 | youtube | 158/677 | 23.3% |
-| instagram | 111/677 | 16.4% |
+| instagram | 110/677 | 16.2% |
 | reddit | 13/677 | 1.9% |
 | tiktok | 26/677 | 3.8% |
 | linktree | 5/677 | 0.7% |
 | github | 494/677 | 73% |
-| category | 585/677 | 86.4% |
+| category | 588/677 | 86.9% |
 | tags | 666/677 | 98.4% |
 | operating_region | 664/677 | 98.1% |
 | based_in | 575/677 | 84.9% |
@@ -39,7 +39,7 @@ Per-project comparison of our **677** projects (incl. **100** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +117 | 548 |
+| description | +118 | 548 |
 | website | +139 | 530 |
 | github | +113 | 381 |
 | x | +199 | 284 |
@@ -49,7 +49,7 @@ Per-project comparison of our **677** projects (incl. **100** community projects
 | blog | +245 | 0 |
 | telegram | +143 | 0 |
 | youtube | +158 | 0 |
-| instagram | +111 | 0 |
+| instagram | +110 | 0 |
 | reddit | +13 | 0 |
 | tiktok | +26 | 0 |
 | linktree | +5 | 0 |
@@ -77,9 +77,9 @@ Of **577** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 445 | 449 |
-| Active last week | 119 | 201 |
-| Active last month | 179 | 256 |
-| Active last 3 months | 230 | 298 |
+| Active last week | 117 | 201 |
+| Active last month | 179 | 255 |
+| Active last 3 months | 230 | 297 |
 | Active last year | 306 | 365 |
 
 ## Audit Data
@@ -117,37 +117,39 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 564 |
-| crawler | 1053 |
-| website | 1623 |
-| airtable | 3394 |
+| crawler | 732 |
+| website | 1620 |
+| airtable | 3697 |
+| admin | 7 |
 | agent:content-linker:approved | 8 |
+| agent:conflict-resolver | 13 |
 | agent:project-enricher | 7 |
-| agent:project-enricher:approved | 1 |
+| agent:project-enricher:approved | 7 |
 | agent | 10 |
 | schedule | 1 |
+| agent:curator:approved | 1 |
 | soroban_security | 67 |
 
 ## Needs Review
 
-20 items need attention.
+19 items need attention.
 
-**description empty** (12):
+**description empty** (11):
 - centrifuge
 - kale
 - kalien
+- cyberbrawl
 - cheesecake-labs
 - solv-protocol
-- cyberbrawl
 - xbid-ai
 - sushi
 - nethermind
 - soropg
-- alchemy
 - sendit
 
 **SCF project missing website** (8):
-- relax
 - wally
+- relax
 - frost-implementation
 - paysapp
 - timed-transactions-api

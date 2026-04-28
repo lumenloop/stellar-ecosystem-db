@@ -21,11 +21,9 @@ links:
   github:
     - github.com/theahaco
 attributes:
-  category: null
+  category: Developer Tooling
   tags:
-    - DevX
-    - SDK
-    - Infrastructure
+    - B2B
   operating_region:
     - Global
   based_in: France

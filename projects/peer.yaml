@@ -2,28 +2,25 @@ title: Peer
 other_names:
   - usepeer
 parent: honeycoin
-description: Peer by HoneyCoin is a global, non-custodial financial super app made for the general public and primarily built on Stellar.
+description: Peer is a financial "everything app" created by HoneyCoin that provides a broad suite of services, including money transfers, bill payments, and flight or hotel bookings. It is designed as a global super app that allows users to manage their finances, activate virtual cards, and even deposit or withdraw funds through partners like MoneyGram in over 180 countries.
 links:
   website:
     - usepeer.co
-    - honeycoin.app/peer
   blog:
     - blog.honeycoin.app
   x:
-    - honeycoinapp
     - peerwallet_
   linkedin:
     - linkedin.com/company/67899570
   discord: []
   telegram: []
   youtube:
-    - youtube.com/@honeycoinapp
     - youtube.com/@peer.pressure.podcast
   instagram:
-    - honeycoinapp
+    - peerwallet.hc
   reddit: []
   tiktok:
-    - honeycoinapp
+    - peerwallet_
   linktree: []
   github: []
 attributes:

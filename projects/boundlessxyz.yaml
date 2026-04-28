@@ -6,17 +6,14 @@ description: Boundless is a universal verifiable compute layer designed to offlo
 links:
   website:
     - boundless.network
-    - boundlessfi.xyz
   blog:
     - boundless.network/blog
   x:
     - boundless_xyz
-    - boundless_fi
   linkedin:
     - linkedin.com/company/boundlesshq
   discord:
     - discord.gg/boundlessxyz
-    - discord.gg/f9wtkrcp
   telegram:
     - t.me/+85-aipvvj9y0n2e0
   youtube: []
@@ -26,9 +23,8 @@ links:
   linktree: []
   github:
     - github.com/boundless-xyz
-    - github.com/boundlessfi
 attributes:
-  category: Applications
+  category: Infrastructure
   tags:
     - Infrastructure
     - ZK
