@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-04-28
+> Auto-generated on 2026-04-29
 
 ## Summary
 
@@ -76,11 +76,11 @@ Of **577** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 449 | 454 |
-| Active last week | 119 | 203 |
-| Active last month | 182 | 259 |
+| Tracked projects | 449 | 455 |
+| Active last week | 116 | 204 |
+| Active last month | 179 | 261 |
 | Active last 3 months | 234 | 301 |
-| Active last year | 310 | 369 |
+| Active last year | 309 | 370 |
 
 ## Audit Data
 
@@ -116,39 +116,39 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| crawler | 732 |
-| website | 1617 |
+| website | 1614 |
+| schedule | 2 |
+| crawler | 729 |
 | agent:project-enricher | 33 |
 | agent:content-linker:approved | 9 |
 | agent:project-enricher:approved | 24 |
 | submissions | 564 |
 | airtable | 3696 |
-| admin | 15 |
+| agent:curator | 7 |
+| admin | 14 |
 | agent:conflicts:approved | 1 |
 | agent:conflict-resolver | 12 |
-| agent:curator | 7 |
 | agent | 10 |
 | agent:curator:approved | 2 |
-| schedule | 1 |
 | soroban_security | 67 |
 
 ## Needs Review
 
 12 items need attention.
 
-**SCF project missing website** (8):
-- wally
-- sendit
-- the-starship-soroban
-- relax
-- frost-implementation
-- timed-transactions-api
-- paysapp
-- crypto-link
-
 **description empty** (4):
 - sendit
 - soropg
 - kalien
 - xbid-ai
+
+**SCF project missing website** (8):
+- sendit
+- relax
+- the-starship-soroban
+- timed-transactions-api
+- wally
+- frost-implementation
+- paysapp
+- crypto-link
 
