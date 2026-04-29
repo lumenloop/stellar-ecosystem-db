@@ -1,5 +1,6 @@
 title: Spacewalk
-other_names: null
+other_names:
+  - Pendulum
 parent: Pendulum
 description: 'The first bridge to Polkadot: giving Stellar users more access to the DeFi world.'
 links:

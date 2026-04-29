@@ -19,8 +19,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
+  category: DeFi
+  tags:
+    - yield
+    - tokenization
+    - collateral
   operating_region: []
   based_in: null
 images: null

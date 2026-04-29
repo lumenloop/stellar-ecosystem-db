@@ -28,7 +28,8 @@ attributes:
     - liquidity
     - trading
     - multi-chain
-  operating_region: []
+  operating_region:
+    - global
   based_in: Japan
 images: null
 mainnet:
