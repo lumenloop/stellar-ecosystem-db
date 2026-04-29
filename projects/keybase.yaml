@@ -1,0 +1,36 @@
+title: Keybase
+other_names: null
+parent: null
+description: Keybase is a secure messaging and encrypted file-sharing platform featuring end-to-end encryption for individuals, families, teams, and communities. It offers encrypted group chat, secure cloud file storage, and community spaces, with native Stellar integration enabling peer-to-peer XLM payments sent directly through conversations.
+links:
+  website:
+    - keybase.io
+  blog:
+    - keybase.io/blog
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/keybase/client
+attributes:
+  category: End-User Application
+  tags:
+    - security
+    - identity
+    - social
+    - payments
+    - mobile
+    - storage
+    - p2p
+  operating_region: []
+  based_in: null
+images: null
+mainnet:
+  audits: []
+  tokens: []

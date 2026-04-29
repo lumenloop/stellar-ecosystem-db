@@ -6,7 +6,8 @@ links:
   website:
     - circle.com
   blog: []
-  x: []
+  x:
+    - circle
   linkedin: []
   discord: []
   telegram: []

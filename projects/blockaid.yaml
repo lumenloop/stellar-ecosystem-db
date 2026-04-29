@@ -1,13 +1,15 @@
 title: Blockaid
 other_names: null
 parent: null
-description: ''
+description: Blockaid is an onchain security platform that provides real-time detection and response for Web3 builders and operators. The platform monitors, detects, and responds to fraud, scams, phishing, and exploits before they happen. Founded in 2022 by former Israeli cyber intelligence operatives, Blockaid is trusted by leading Web3 companies including Coinbase, MetaMask, Stellar, Polymarket, and World.org.
 links:
   website:
     - blockaid.io
   blog: []
-  x: []
-  linkedin: []
+  x:
+    - blockaid_
+  linkedin:
+    - linkedin.com/company/blockaid
   discord: []
   telegram: []
   youtube: []
@@ -15,12 +17,20 @@ links:
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/blockaid-official
 attributes:
-  category: null
-  tags: []
-  operating_region: []
-  based_in: null
+  category: Infrastructure & Services
+  tags:
+    - security
+    - monitoring
+    - api
+    - b2b
+    - enterprise
+    - multi-chain
+  operating_region:
+    - global
+  based_in: United States
 images: null
 mainnet:
   audits: []
