@@ -18,14 +18,14 @@
 | description | 673/677 | 99.4% |
 | website | 669/677 | 98.8% |
 | blog | 245/677 | 36.2% |
-| x | 489/677 | 72.2% |
-| linkedin | 376/677 | 55.5% |
+| x | 490/677 | 72.4% |
+| linkedin | 377/677 | 55.7% |
 | discord | 206/677 | 30.4% |
 | telegram | 144/677 | 21.3% |
-| youtube | 158/677 | 23.3% |
-| instagram | 110/677 | 16.2% |
+| youtube | 159/677 | 23.5% |
+| instagram | 111/677 | 16.4% |
 | reddit | 13/677 | 1.9% |
-| tiktok | 26/677 | 3.8% |
+| tiktok | 27/677 | 4% |
 | linktree | 5/677 | 0.7% |
 | github | 498/677 | 73.6% |
 | category | 596/677 | 88% |
@@ -42,16 +42,16 @@ Per-project comparison of our **677** projects (incl. **100** community projects
 | description | +125 | 548 |
 | website | +139 | 530 |
 | github | +117 | 381 |
-| x | +205 | 284 |
-| linkedin | +172 | 204 |
+| x | +206 | 284 |
+| linkedin | +173 | 204 |
 | discord | +97 | 109 |
 | based_in | +104 | 476 |
 | blog | +245 | 0 |
 | telegram | +144 | 0 |
-| youtube | +158 | 0 |
-| instagram | +110 | 0 |
+| youtube | +159 | 0 |
+| instagram | +111 | 0 |
 | reddit | +13 | 0 |
-| tiktok | +26 | 0 |
+| tiktok | +27 | 0 |
 | linktree | +5 | 0 |
 
 *"Added" = we filled a field SCF didn't have. "Modified" = SCF had a value, we store a different one.*
@@ -76,11 +76,11 @@ Of **577** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 449 | 455 |
-| Active last week | 116 | 204 |
-| Active last month | 179 | 261 |
-| Active last 3 months | 234 | 301 |
-| Active last year | 309 | 370 |
+| Tracked projects | 449 | 456 |
+| Active last week | 116 | 205 |
+| Active last month | 180 | 262 |
+| Active last 3 months | 235 | 302 |
+| Active last year | 310 | 371 |
 
 ## Audit Data
 
@@ -116,18 +116,18 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
+| submissions | 564 |
+| crawler | 1049 |
 | website | 1614 |
-| schedule | 2 |
-| crawler | 729 |
+| airtable | 3381 |
 | agent:project-enricher | 33 |
 | agent:content-linker:approved | 9 |
 | agent:project-enricher:approved | 24 |
-| submissions | 564 |
-| airtable | 3696 |
-| agent:curator | 7 |
-| admin | 14 |
-| agent:conflicts:approved | 1 |
 | agent:conflict-resolver | 12 |
+| admin | 14 |
+| schedule | 2 |
+| agent:curator | 7 |
+| agent:conflicts:approved | 1 |
 | agent | 10 |
 | agent:curator:approved | 2 |
 | soroban_security | 67 |
