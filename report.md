@@ -22,7 +22,7 @@
 | linkedin | 376/679 | 55.4% |
 | discord | 206/679 | 30.3% |
 | telegram | 144/679 | 21.2% |
-| youtube | 158/679 | 23.3% |
+| youtube | 159/679 | 23.4% |
 | instagram | 110/679 | 16.2% |
 | reddit | 13/679 | 1.9% |
 | tiktok | 26/679 | 3.8% |
@@ -48,7 +48,7 @@ Per-project comparison of our **679** projects (incl. **102** community projects
 | based_in | +104 | 476 |
 | blog | +245 | 0 |
 | telegram | +144 | 0 |
-| youtube | +158 | 0 |
+| youtube | +159 | 0 |
 | instagram | +110 | 0 |
 | reddit | +13 | 0 |
 | tiktok | +26 | 0 |
@@ -118,13 +118,13 @@ Field-level provenance tracking:
 |--------|------:|
 | agent:content-linker:approved | 11 |
 | submissions | 564 |
-| admin | 19 |
+| admin | 22 |
 | schedule | 2 |
-| airtable | 3379 |
+| airtable | 3378 |
 | agent:conflicts:approved | 1 |
 | agent:conflict-resolver | 12 |
 | crawler | 1047 |
-| website | 1614 |
+| website | 1613 |
 | agent:project-enricher | 33 |
 | agent:project-enricher:approved | 27 |
 | agent:curator | 7 |
