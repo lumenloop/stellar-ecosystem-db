@@ -1,13 +1,16 @@
 title: Yellowcard
 other_names: null
 parent: null
-description: ''
+description: Yellow Card is one of the largest licensed stablecoin payments orchestrators and infrastructure providers across Africa and emerging markets, operating across 34 countries including 20 in Africa and major markets such as Brazil, India, Mexico, and China. The platform enables international payments, treasury management, and stablecoin on/off-ramp services for businesses and institutions.
 links:
   website:
     - yellowcard.io
-  blog: []
-  x: []
-  linkedin: []
+  blog:
+    - yellowcard.io/blog
+  x:
+    - yellowcard_app
+  linkedin:
+    - linkedin.com/company/yellowcardapp
   discord: []
   telegram: []
   youtube: []
@@ -17,10 +20,23 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
-  operating_region: []
-  based_in: null
+  category: Payments
+  tags:
+    - stablecoins
+    - payments
+    - cross-border-payments
+    - africa
+    - on-off-ramp
+    - infrastructure
+    - institutional
+    - b2b
+    - latam
+    - api
+  operating_region:
+    - africa
+    - latam
+    - asia
+  based_in: United States
 images: null
 mainnet:
   audits: []

@@ -1,0 +1,36 @@
+title: Stronghold
+other_names: null
+parent: null
+description: Stronghold® creates virtual payment networks that enable instant settlement and interoperability between legacy and new payment networks.
+links:
+  website:
+    - stronghold.co
+  blog: []
+  x:
+    - strongholdpay
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Payments
+  tags:
+    - Payments
+    - API
+    - B2B
+    - Merchant
+    - Payment Gateway
+  operating_region: []
+  based_in: United States
+images: null
+mainnet:
+  audits: []
+  tokens:
+    - code: SHX
+      issuer: GDSTRSHXHGJ7ZIVRBXEYE5Q74XUVCUSEKEBR7UCHEUUEK72N7I7KJ6JH
+      decimals: 0

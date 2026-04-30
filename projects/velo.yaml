@@ -1,0 +1,30 @@
+title: Velo
+other_names: null
+parent: null
+description: ''
+links:
+  website:
+    - velo.org
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: null
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+mainnet:
+  audits: []
+  tokens:
+    - code: VELO
+      issuer: GDM4RQUQQUVSKQA7S6EM7XBZP3FCGH4Q7CL6TABQ7B2BEJ5ERARM2M5M
+      decimals: 7
