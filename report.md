@@ -76,11 +76,11 @@ Of **577** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 451 | 455 |
-| Active last week | 117 | 203 |
-| Active last month | 181 | 260 |
-| Active last 3 months | 236 | 302 |
-| Active last year | 311 | 369 |
+| Tracked projects | 451 | 457 |
+| Active last week | 114 | 205 |
+| Active last month | 181 | 262 |
+| Active last 3 months | 236 | 304 |
+| Active last year | 311 | 371 |
 
 ## Audit Data
 
@@ -116,19 +116,19 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| website | 1613 |
-| schedule | 2 |
-| crawler | 733 |
 | submissions | 564 |
-| airtable | 3692 |
-| agent:content-linker:approved | 15 |
-| agent:project-enricher | 42 |
-| agent:project-enricher:approved | 32 |
+| crawler | 1044 |
+| website | 1613 |
+| airtable | 3381 |
 | admin | 22 |
+| schedule | 2 |
 | agent:conflicts:approved | 1 |
 | agent:conflict-resolver | 12 |
-| agent:curator | 7 |
 | agent | 10 |
+| agent:project-enricher | 42 |
+| agent:curator | 7 |
+| agent:project-enricher:approved | 32 |
+| agent:content-linker:approved | 15 |
 | agent:curator:approved | 2 |
 | soroban_security | 67 |
 
@@ -137,20 +137,20 @@ Field-level provenance tracking:
 16 items need attention.
 
 **description empty** (8):
+- sendit
 - yellowcard
 - bridge
 - securrency
 - rehive
-- sendit
 - soropg
 - kalien
 - xbid-ai
 
 **SCF project missing website** (8):
 - sendit
+- wally
 - relax
 - the-starship-soroban
-- wally
 - timed-transactions-api
 - frost-implementation
 - paysapp
