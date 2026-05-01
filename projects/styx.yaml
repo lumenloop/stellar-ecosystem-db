@@ -7,12 +7,15 @@ links:
   website:
     - figma.com/file/mcnoybwa8wsax0qu4lib1w/styx-design?type=design&node-id=0%3a1&mode=design&t=eqkackpzsphtbllr-1
   blog: []
-  x: []
+  x:
+    - figma
   linkedin: []
   discord: []
   telegram: []
-  youtube: []
-  instagram: []
+  youtube:
+    - youtube.com/figmadesign
+  instagram:
+    - figma
   reddit: []
   tiktok: []
   linktree: []

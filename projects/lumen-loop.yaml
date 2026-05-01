@@ -10,8 +10,10 @@ links:
     - lumenloop
   linkedin:
     - linkedin.com/company/lumenloop
-  discord: []
-  telegram: []
+  discord:
+    - discord.gg/lumenloop
+  telegram:
+    - t.me/lumenloop
   youtube:
     - youtube.com/@lumen_loop
   instagram: []

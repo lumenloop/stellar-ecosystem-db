@@ -6,13 +6,14 @@ links:
   website:
     - cartwey.com
   blog: []
-  x:
-    - cartwey_app
-  linkedin: []
+  x: []
+  linkedin:
+    - linkedin.com/company/cartwey
   discord: []
   telegram: []
   youtube: []
-  instagram: []
+  instagram:
+    - cartwey
   reddit: []
   tiktok: []
   linktree: []

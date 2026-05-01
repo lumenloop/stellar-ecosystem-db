@@ -7,18 +7,20 @@ links:
   website:
     - github.com/moonbite-gmbh/multisig-ui
   blog: []
-  x: []
-  linkedin:
-    - linkedin.com/company/moonbite-gmbh
+  x:
+    - github
+  linkedin: []
   discord: []
   telegram: []
-  youtube: []
-  instagram: []
+  youtube:
+    - youtube.com/github
+  instagram:
+    - github
   reddit: []
-  tiktok: []
+  tiktok:
+    - github
   linktree: []
-  github:
-    - github.com/moonbite-gmbh
+  github: []
 attributes:
   category: Developer Tooling
   tags:
