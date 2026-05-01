@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-04-30
+> Auto-generated on 2026-05-01
 
 ## Summary
 
@@ -18,14 +18,14 @@
 | description | 677/686 | 98.7% |
 | website | 678/686 | 98.8% |
 | blog | 247/686 | 36% |
-| x | 494/686 | 72% |
-| linkedin | 379/686 | 55.2% |
+| x | 493/686 | 71.9% |
+| linkedin | 378/686 | 55.1% |
 | discord | 206/686 | 30% |
 | telegram | 144/686 | 21% |
-| youtube | 160/686 | 23.3% |
-| instagram | 111/686 | 16.2% |
+| youtube | 159/686 | 23.2% |
+| instagram | 110/686 | 16% |
 | reddit | 13/686 | 1.9% |
-| tiktok | 27/686 | 3.9% |
+| tiktok | 26/686 | 3.8% |
 | linktree | 5/686 | 0.7% |
 | github | 500/686 | 72.9% |
 | category | 601/686 | 87.6% |
@@ -42,16 +42,16 @@ Per-project comparison of our **686** projects (incl. **109** community projects
 | description | +129 | 548 |
 | website | +148 | 530 |
 | github | +119 | 381 |
-| x | +210 | 284 |
-| linkedin | +175 | 204 |
+| x | +209 | 284 |
+| linkedin | +174 | 204 |
 | discord | +97 | 109 |
 | based_in | +107 | 476 |
 | blog | +247 | 0 |
 | telegram | +144 | 0 |
-| youtube | +160 | 0 |
-| instagram | +111 | 0 |
+| youtube | +159 | 0 |
+| instagram | +110 | 0 |
 | reddit | +13 | 0 |
-| tiktok | +27 | 0 |
+| tiktok | +26 | 0 |
 | linktree | +5 | 0 |
 
 *"Added" = we filled a field SCF didn't have. "Modified" = SCF had a value, we store a different one.*
@@ -76,11 +76,11 @@ Of **577** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 451 | 459 |
-| Active last week | 117 | 201 |
-| Active last month | 180 | 263 |
-| Active last 3 months | 236 | 306 |
-| Active last year | 311 | 373 |
+| Tracked projects | 451 | 458 |
+| Active last week | 116 | 204 |
+| Active last month | 180 | 262 |
+| Active last 3 months | 236 | 305 |
+| Active last year | 311 | 372 |
 
 ## Audit Data
 
@@ -91,8 +91,8 @@ Of **577** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 22 |
-| certora | 10 |
 | OtterSec | 10 |
+| certora | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
@@ -116,17 +116,17 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| agent:content-linker:approved | 18 |
 | submissions | 564 |
-| website | 1613 |
 | airtable | 3692 |
+| website | 1613 |
 | crawler | 733 |
-| agent:project-enricher | 53 |
-| agent:project-enricher:approved | 34 |
+| agent:content-linker:approved | 18 |
 | admin | 22 |
 | schedule | 2 |
 | agent:conflicts:approved | 1 |
 | agent:conflict-resolver | 12 |
+| agent:project-enricher | 53 |
+| agent:project-enricher:approved | 34 |
 | agent | 10 |
 | agent:curator | 7 |
 | agent:curator:approved | 2 |
