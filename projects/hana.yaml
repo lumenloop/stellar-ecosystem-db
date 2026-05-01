@@ -6,7 +6,9 @@ description: 'Hana Wallet: Simple multi-chain crypto on-the-go, Like MetaMask, P
 links:
   website:
     - hanawallet.io
-  blog: []
+  blog:
+    - news.hana.money
+    - medium.com/@hanawallet
   x:
     - hanawallet
   linkedin:
