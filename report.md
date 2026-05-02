@@ -119,8 +119,8 @@ Field-level provenance tracking:
 | submissions | 564 |
 | crawler | 1091 |
 | airtable | 3363 |
-| website | 1598 |
-| admin | 23 |
+| website | 1596 |
+| admin | 24 |
 | agent:content-linker:approved | 19 |
 | agent:conflict-resolver | 17 |
 | agent | 10 |
@@ -138,11 +138,11 @@ Field-level provenance tracking:
 
 **description empty** (10):
 - velo
-- soropg
 - securrency
+- volta
+- soropg
 - rehive
 - novatti
-- volta
 - xbid-ai
 - bridge
 - kalien

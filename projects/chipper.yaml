@@ -1,5 +1,6 @@
 title: Chipper
-other_names: null
+other_names:
+  - Chipper Cash
 parent: null
 description: Chipper Cash is a financial technology company offering free and low-cost cross-border payments, virtual cards, and investment services across Africa. Through integration with the Stellar network and MoneyGram, Chipper Cash enables users to seamlessly deposit and withdraw funds in real-time via MoneyGram's extensive agent network, enhancing financial accessibility and inclusion.
 links:
@@ -38,4 +39,3 @@ images:
 mainnet:
   audits: []
   tokens: []
-  contracts: []
