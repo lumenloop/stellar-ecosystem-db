@@ -21,13 +21,9 @@ links:
 attributes:
   category: End-User Application
   tags:
-    - security
     - identity
+    - security
     - social
-    - payments
-    - mobile
-    - storage
-    - p2p
   operating_region: []
   based_in: null
 images: null

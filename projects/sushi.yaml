@@ -24,9 +24,6 @@ attributes:
   tags:
     - defi
     - dex
-    - derivatives
-    - liquidity
-    - trading
     - multi-chain
   operating_region:
     - global

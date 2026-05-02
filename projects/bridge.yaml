@@ -21,12 +21,8 @@ attributes:
   category: Payments
   tags:
     - stablecoins
-    - payments
-    - api
     - cross-border-payments
-    - infrastructure
-    - b2b
-    - enterprise
+    - api
   operating_region:
     - global
   based_in: United States

@@ -22,11 +22,9 @@ links:
 attributes:
   category: Infrastructure
   tags:
-    - zk
-    - zk-proofs
-    - bridge
-    - cross-chain
     - infrastructure
+    - zk
+    - cross-chain
   operating_region:
     - Global
   based_in: United Kingdom

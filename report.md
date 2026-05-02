@@ -76,11 +76,11 @@ Of **577** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 451 | 464 |
+| Tracked projects | 451 | 465 |
 | Active last week | 124 | 211 |
-| Active last month | 182 | 270 |
-| Active last 3 months | 240 | 312 |
-| Active last year | 313 | 378 |
+| Active last month | 181 | 272 |
+| Active last 3 months | 240 | 313 |
+| Active last year | 313 | 379 |
 
 ## Audit Data
 
@@ -116,19 +116,19 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
+| agent:curator | 7 |
+| agent:project-enricher | 46 |
+| agent:content-linker:approved | 19 |
+| agent:project-enricher:approved | 34 |
+| admin | 37 |
 | submissions | 564 |
 | crawler | 1091 |
 | airtable | 3363 |
 | website | 1596 |
-| agent:project-enricher | 59 |
-| agent:content-linker:approved | 19 |
-| admin | 24 |
 | agent:conflict-resolver | 17 |
-| agent | 10 |
 | agent:conflicts:approved | 3 |
-| agent:project-enricher:approved | 34 |
+| agent | 10 |
 | agent:curator:approved | 2 |
-| agent:curator | 7 |
 | schedule | 2 |
 | soroban_security | 67 |
 
@@ -137,10 +137,10 @@ Field-level provenance tracking:
 17 items need attention.
 
 **description empty** (9):
+- soropg
 - velo
 - securrency
 - volta
-- soropg
 - rehive
 - novatti
 - xbid-ai

@@ -26,10 +26,6 @@ attributes:
     - rwa
     - real-estate
     - tokenization
-    - fractional-ownership
-    - institutional
-    - marketplace
-    - usa
   operating_region:
     - North America
   based_in: United States

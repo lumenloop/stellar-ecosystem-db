@@ -20,11 +20,9 @@ links:
 attributes:
   category: Payments
   tags:
-    - Payments
-    - API
-    - B2B
-    - Merchant
-    - Payment Gateway
+    - payment-gateway
+    - b2b
+    - merchant
   operating_region: []
   based_in: United States
 images: null

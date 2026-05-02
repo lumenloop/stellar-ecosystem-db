@@ -24,9 +24,6 @@ attributes:
   tags:
     - security
     - monitoring
-    - api
-    - b2b
-    - enterprise
     - multi-chain
   operating_region:
     - global

@@ -23,10 +23,9 @@ links:
 attributes:
   category: Applications
   tags:
-    - Gaming
-    - DeFi
-    - Community
-    - Trading
+    - defi
+    - gaming
+    - community
   operating_region: []
   based_in: null
 images: null

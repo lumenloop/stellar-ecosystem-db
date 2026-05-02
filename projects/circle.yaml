@@ -21,12 +21,7 @@ attributes:
   category: Infrastructure
   tags:
     - stablecoins
-    - payments
-    - usd
-    - eur
     - cross-border-payments
-    - enterprise
-    - b2b
     - institutional
   operating_region:
     - global

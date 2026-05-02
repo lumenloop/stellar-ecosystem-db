@@ -23,15 +23,8 @@ attributes:
   category: Payments
   tags:
     - stablecoins
-    - payments
-    - cross-border-payments
-    - africa
     - on-off-ramp
-    - infrastructure
-    - institutional
-    - b2b
-    - latam
-    - api
+    - africa
   operating_region:
     - africa
     - latam
