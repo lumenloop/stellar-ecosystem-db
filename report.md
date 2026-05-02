@@ -27,7 +27,7 @@
 | reddit | 13/687 | 1.9% |
 | tiktok | 27/687 | 3.9% |
 | linktree | 5/687 | 0.7% |
-| github | 499/687 | 72.6% |
+| github | 498/687 | 72.5% |
 | category | 601/687 | 87.5% |
 | tags | 678/687 | 98.7% |
 | operating_region | 671/687 | 97.7% |
@@ -41,7 +41,7 @@ Per-project comparison of our **687** projects (incl. **110** community projects
 |-------|------:|------:|
 | description | +129 | 548 |
 | website | +149 | 530 |
-| github | +119 | 380 |
+| github | +119 | 379 |
 | x | +212 | 284 |
 | linkedin | +175 | 204 |
 | discord | +98 | 109 |
@@ -66,7 +66,7 @@ Of **577** SCF-funded projects:
 | awarded_round | 553/577 | 95.8% |
 | submission_urls | 553/577 | 95.8% |
 | website | 569/577 | 98.6% |
-| github | 443/577 | 76.8% |
+| github | 442/577 | 76.6% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -91,13 +91,13 @@ Of **577** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 22 |
-| OtterSec | 10 |
 | certora | 10 |
+| OtterSec | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
-| OpenZeppelin | 2 |
 | CoinFabrik | 2 |
+| OpenZeppelin | 2 |
 | Cantina | 1 |
 | Сoinspect | 1 |
 | Code4rena | 1 |
@@ -117,17 +117,17 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 564 |
-| crawler | 754 |
-| airtable | 3691 |
+| crawler | 789 |
+| airtable | 3655 |
 | website | 1602 |
-| agent:conflict-resolver | 16 |
+| agent:conflict-resolver | 17 |
 | agent:content-linker:approved | 19 |
+| agent | 10 |
+| admin | 23 |
 | agent:project-enricher:approved | 34 |
 | agent:project-enricher | 53 |
 | agent:curator:approved | 2 |
 | agent:curator | 7 |
-| agent | 10 |
-| admin | 23 |
 | schedule | 2 |
 | agent:conflicts:approved | 1 |
 | soroban_security | 67 |
@@ -137,24 +137,24 @@ Field-level provenance tracking:
 18 items need attention.
 
 **description empty** (10):
-- velo
-- soropg
-- xbid-ai
-- bridge
 - securrency
 - rehive
 - novatti
-- kalien
 - volta
+- velo
+- soropg
 - sendit
+- xbid-ai
+- bridge
+- kalien
 
 **SCF project missing website** (8):
 - wally
+- sendit
 - timed-transactions-api
+- the-starship-soroban
 - relax
 - crypto-link
 - frost-implementation
-- sendit
-- the-starship-soroban
 - paysapp
 
