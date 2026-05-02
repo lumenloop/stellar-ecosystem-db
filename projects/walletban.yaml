@@ -16,9 +16,9 @@ links:
   tiktok: []
   linktree: []
   github:
+    - github.com/darthbenro008/walletban
     - github.com/walletban
     - github.com/walletban/walletban
-    - github.com/darthbenro008/walletban
 attributes:
   category: Developer Tooling
   tags:

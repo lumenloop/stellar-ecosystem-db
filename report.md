@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-05-01
+> Auto-generated on 2026-05-02
 
 ## Summary
 
@@ -77,8 +77,8 @@ Of **577** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 452 | 463 |
-| Active last week | 121 | 208 |
-| Active last month | 184 | 268 |
+| Active last week | 121 | 211 |
+| Active last month | 183 | 269 |
 | Active last 3 months | 240 | 311 |
 | Active last year | 313 | 377 |
 
@@ -91,13 +91,13 @@ Of **577** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 22 |
-| OtterSec | 10 |
 | certora | 10 |
+| OtterSec | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
-| CoinFabrik | 2 |
 | OpenZeppelin | 2 |
+| CoinFabrik | 2 |
 | Сoinspect | 1 |
 | Cantina | 1 |
 | Code4rena | 1 |
@@ -116,16 +116,16 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| agent:content-linker:approved | 19 |
 | submissions | 564 |
-| crawler | 1078 |
+| crawler | 756 |
+| airtable | 3692 |
 | website | 1602 |
-| airtable | 3370 |
+| agent:content-linker:approved | 19 |
 | admin | 24 |
-| agent:project-enricher | 53 |
 | schedule | 2 |
 | agent:conflicts:approved | 1 |
 | agent:conflict-resolver | 12 |
+| agent:project-enricher | 53 |
 | agent:project-enricher:approved | 34 |
 | agent:curator | 7 |
 | agent | 10 |
@@ -138,23 +138,23 @@ Field-level provenance tracking:
 
 **description empty** (10):
 - volta
+- velo
+- soropg
 - securrency
 - rehive
 - novatti
-- velo
-- sendit
 - xbid-ai
 - bridge
-- soropg
+- sendit
 - kalien
 
 **SCF project missing website** (8):
-- the-starship-soroban
-- sendit
 - wally
-- paysapp
 - relax
 - timed-transactions-api
-- frost-implementation
 - crypto-link
+- frost-implementation
+- sendit
+- the-starship-soroban
+- paysapp
 
