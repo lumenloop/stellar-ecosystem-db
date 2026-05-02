@@ -18,8 +18,8 @@
 | description | 677/687 | 98.5% |
 | website | 679/687 | 98.8% |
 | blog | 247/687 | 36% |
-| x | 498/687 | 72.5% |
-| linkedin | 381/687 | 55.5% |
+| x | 497/687 | 72.3% |
+| linkedin | 380/687 | 55.3% |
 | discord | 207/687 | 30.1% |
 | telegram | 145/687 | 21.1% |
 | youtube | 162/687 | 23.6% |
@@ -42,8 +42,8 @@ Per-project comparison of our **687** projects (incl. **110** community projects
 | description | +129 | 548 |
 | website | +149 | 530 |
 | github | +119 | 379 |
-| x | +214 | 284 |
-| linkedin | +177 | 204 |
+| x | +213 | 284 |
+| linkedin | +176 | 204 |
 | discord | +98 | 109 |
 | based_in | +107 | 476 |
 | blog | +247 | 0 |
@@ -77,8 +77,8 @@ Of **577** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 451 | 464 |
-| Active last week | 121 | 211 |
-| Active last month | 183 | 270 |
+| Active last week | 124 | 211 |
+| Active last month | 182 | 270 |
 | Active last 3 months | 240 | 312 |
 | Active last year | 313 | 378 |
 
@@ -117,19 +117,19 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 564 |
-| crawler | 1093 |
-| website | 1598 |
+| crawler | 1091 |
 | airtable | 3363 |
+| website | 1598 |
 | admin | 23 |
 | agent:content-linker:approved | 19 |
 | agent:conflict-resolver | 17 |
 | agent | 10 |
+| agent:conflicts:approved | 3 |
 | agent:project-enricher:approved | 34 |
 | agent:project-enricher | 53 |
 | agent:curator:approved | 2 |
 | agent:curator | 7 |
 | schedule | 2 |
-| agent:conflicts:approved | 1 |
 | soroban_security | 67 |
 
 ## Needs Review
@@ -138,23 +138,23 @@ Field-level provenance tracking:
 
 **description empty** (10):
 - velo
+- soropg
 - securrency
 - rehive
 - novatti
 - volta
-- soropg
 - xbid-ai
 - bridge
 - kalien
 - sendit
 
 **SCF project missing website** (8):
-- wally
-- sendit
-- timed-transactions-api
 - the-starship-soroban
 - relax
+- wally
 - crypto-link
-- frost-implementation
 - paysapp
+- sendit
+- timed-transactions-api
+- frost-implementation
 
