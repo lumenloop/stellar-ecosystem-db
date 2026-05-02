@@ -77,10 +77,10 @@ Of **577** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 451 | 463 |
-| Active last week | 121 | 210 |
-| Active last month | 183 | 269 |
-| Active last 3 months | 240 | 311 |
-| Active last year | 313 | 377 |
+| Active last week | 120 | 210 |
+| Active last month | 182 | 269 |
+| Active last 3 months | 239 | 311 |
+| Active last year | 312 | 377 |
 
 ## Audit Data
 
@@ -117,10 +117,10 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 564 |
-| crawler | 756 |
+| crawler | 754 |
 | airtable | 3691 |
 | website | 1602 |
-| agent:conflict-resolver | 14 |
+| agent:conflict-resolver | 16 |
 | agent:content-linker:approved | 19 |
 | agent:project-enricher:approved | 34 |
 | agent:project-enricher | 53 |
@@ -139,14 +139,14 @@ Field-level provenance tracking:
 **description empty** (10):
 - velo
 - soropg
+- xbid-ai
+- bridge
 - securrency
 - rehive
 - novatti
-- sendit
-- xbid-ai
-- bridge
 - kalien
 - volta
+- sendit
 
 **SCF project missing website** (8):
 - wally

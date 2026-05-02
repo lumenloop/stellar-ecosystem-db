@@ -9,7 +9,8 @@ links:
   blog: []
   x:
     - github
-  linkedin: []
+  linkedin:
+    - linkedin.com/company/moonbite-gmbh
   discord: []
   telegram: []
   youtube:
@@ -20,7 +21,8 @@ links:
   tiktok:
     - github
   linktree: []
-  github: []
+  github:
+    - github.com/moonbite-gmbh
 attributes:
   category: Developer Tooling
   tags:
