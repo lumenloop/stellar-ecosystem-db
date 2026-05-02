@@ -27,7 +27,7 @@
 | reddit | 13/687 | 1.9% |
 | tiktok | 27/687 | 3.9% |
 | linktree | 5/687 | 0.7% |
-| github | 500/687 | 72.8% |
+| github | 499/687 | 72.6% |
 | category | 601/687 | 87.5% |
 | tags | 678/687 | 98.7% |
 | operating_region | 671/687 | 97.7% |
@@ -41,7 +41,7 @@ Per-project comparison of our **687** projects (incl. **110** community projects
 |-------|------:|------:|
 | description | +129 | 548 |
 | website | +149 | 530 |
-| github | +119 | 381 |
+| github | +119 | 380 |
 | x | +212 | 284 |
 | linkedin | +175 | 204 |
 | discord | +98 | 109 |
@@ -66,7 +66,7 @@ Of **577** SCF-funded projects:
 | awarded_round | 553/577 | 95.8% |
 | submission_urls | 553/577 | 95.8% |
 | website | 569/577 | 98.6% |
-| github | 444/577 | 76.9% |
+| github | 443/577 | 76.8% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -76,8 +76,8 @@ Of **577** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 452 | 463 |
-| Active last week | 121 | 211 |
+| Tracked projects | 451 | 463 |
+| Active last week | 121 | 210 |
 | Active last month | 183 | 269 |
 | Active last 3 months | 240 | 311 |
 | Active last year | 313 | 377 |
@@ -118,17 +118,17 @@ Field-level provenance tracking:
 |--------|------:|
 | submissions | 564 |
 | crawler | 756 |
-| airtable | 3692 |
+| airtable | 3691 |
 | website | 1602 |
 | agent:content-linker:approved | 19 |
-| admin | 24 |
-| schedule | 2 |
-| agent:conflicts:approved | 1 |
-| agent:conflict-resolver | 12 |
 | agent:project-enricher | 53 |
 | agent:project-enricher:approved | 34 |
 | agent:curator | 7 |
 | agent | 10 |
+| admin | 24 |
+| agent:conflict-resolver | 13 |
+| schedule | 2 |
+| agent:conflicts:approved | 1 |
 | agent:curator:approved | 2 |
 | soroban_security | 67 |
 
@@ -137,7 +137,6 @@ Field-level provenance tracking:
 18 items need attention.
 
 **description empty** (10):
-- volta
 - velo
 - soropg
 - securrency
@@ -145,12 +144,13 @@ Field-level provenance tracking:
 - novatti
 - xbid-ai
 - bridge
-- sendit
 - kalien
+- volta
+- sendit
 
 **SCF project missing website** (8):
-- wally
 - relax
+- wally
 - timed-transactions-api
 - crypto-link
 - frost-implementation

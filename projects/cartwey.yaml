@@ -6,7 +6,8 @@ links:
   website:
     - cartwey.com
   blog: []
-  x: []
+  x:
+    - cartwey_app
   linkedin:
     - linkedin.com/company/cartwey
   discord: []
@@ -17,8 +18,7 @@ links:
   reddit: []
   tiktok: []
   linktree: []
-  github:
-    - github.com/cartwey001/cartwey-app
+  github: []
 attributes:
   category: Applications
   tags:
