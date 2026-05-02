@@ -18,14 +18,14 @@
 | description | 677/687 | 98.5% |
 | website | 679/687 | 98.8% |
 | blog | 247/687 | 36% |
-| x | 496/687 | 72.2% |
-| linkedin | 379/687 | 55.2% |
+| x | 498/687 | 72.5% |
+| linkedin | 381/687 | 55.5% |
 | discord | 207/687 | 30.1% |
 | telegram | 145/687 | 21.1% |
-| youtube | 161/687 | 23.4% |
-| instagram | 115/687 | 16.7% |
-| reddit | 13/687 | 1.9% |
-| tiktok | 27/687 | 3.9% |
+| youtube | 162/687 | 23.6% |
+| instagram | 117/687 | 17% |
+| reddit | 14/687 | 2% |
+| tiktok | 28/687 | 4.1% |
 | linktree | 5/687 | 0.7% |
 | github | 498/687 | 72.5% |
 | category | 601/687 | 87.5% |
@@ -42,16 +42,16 @@ Per-project comparison of our **687** projects (incl. **110** community projects
 | description | +129 | 548 |
 | website | +149 | 530 |
 | github | +119 | 379 |
-| x | +212 | 284 |
-| linkedin | +175 | 204 |
+| x | +214 | 284 |
+| linkedin | +177 | 204 |
 | discord | +98 | 109 |
 | based_in | +107 | 476 |
 | blog | +247 | 0 |
 | telegram | +145 | 0 |
-| youtube | +161 | 0 |
-| instagram | +115 | 0 |
-| reddit | +13 | 0 |
-| tiktok | +27 | 0 |
+| youtube | +162 | 0 |
+| instagram | +117 | 0 |
+| reddit | +14 | 0 |
+| tiktok | +28 | 0 |
 | linktree | +5 | 0 |
 
 *"Added" = we filled a field SCF didn't have. "Modified" = SCF had a value, we store a different one.*
@@ -76,11 +76,11 @@ Of **577** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 451 | 463 |
-| Active last week | 120 | 210 |
-| Active last month | 182 | 269 |
-| Active last 3 months | 239 | 311 |
-| Active last year | 312 | 377 |
+| Tracked projects | 451 | 464 |
+| Active last week | 121 | 211 |
+| Active last month | 183 | 270 |
+| Active last 3 months | 240 | 312 |
+| Active last year | 313 | 378 |
 
 ## Audit Data
 
@@ -96,8 +96,8 @@ Of **577** SCF-funded projects:
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
-| CoinFabrik | 2 |
 | OpenZeppelin | 2 |
+| CoinFabrik | 2 |
 | Cantina | 1 |
 | Сoinspect | 1 |
 | Code4rena | 1 |
@@ -117,13 +117,13 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 564 |
-| crawler | 789 |
-| airtable | 3655 |
-| website | 1602 |
-| agent:conflict-resolver | 17 |
-| agent:content-linker:approved | 19 |
-| agent | 10 |
+| crawler | 1093 |
+| website | 1598 |
+| airtable | 3363 |
 | admin | 23 |
+| agent:content-linker:approved | 19 |
+| agent:conflict-resolver | 17 |
+| agent | 10 |
 | agent:project-enricher:approved | 34 |
 | agent:project-enricher | 53 |
 | agent:curator:approved | 2 |
@@ -137,16 +137,16 @@ Field-level provenance tracking:
 18 items need attention.
 
 **description empty** (10):
+- velo
 - securrency
 - rehive
 - novatti
 - volta
-- velo
 - soropg
-- sendit
 - xbid-ai
 - bridge
 - kalien
+- sendit
 
 **SCF project missing website** (8):
 - wally

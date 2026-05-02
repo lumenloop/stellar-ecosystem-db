@@ -6,8 +6,10 @@ links:
   website:
     - entethalliance.github.io/crosschain-interoperability/draft_dlt-interop_techspec.html
   blog: []
-  x: []
-  linkedin: []
+  x:
+    - entethalliance
+  linkedin:
+    - linkedin.com/company/enterpriseethereumalliance
   discord: []
   telegram: []
   youtube: []

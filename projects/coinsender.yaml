@@ -17,8 +17,10 @@ links:
     - t.me/community_coinsender
   youtube:
     - youtube.com/@coinsender
-  instagram: []
-  reddit: []
+  instagram:
+    - coin_sender
+  reddit:
+    - r/coinsender
   tiktok: []
   linktree: []
   github:
