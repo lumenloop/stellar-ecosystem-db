@@ -15,10 +15,10 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 677/687 | 98.5% |
+| description | 678/687 | 98.7% |
 | website | 679/687 | 98.8% |
 | blog | 247/687 | 36% |
-| x | 497/687 | 72.3% |
+| x | 498/687 | 72.5% |
 | linkedin | 380/687 | 55.3% |
 | discord | 207/687 | 30.1% |
 | telegram | 145/687 | 21.1% |
@@ -28,10 +28,10 @@
 | tiktok | 28/687 | 4.1% |
 | linktree | 5/687 | 0.7% |
 | github | 498/687 | 72.5% |
-| category | 601/687 | 87.5% |
-| tags | 678/687 | 98.7% |
-| operating_region | 671/687 | 97.7% |
-| based_in | 583/687 | 84.9% |
+| category | 602/687 | 87.6% |
+| tags | 679/687 | 98.8% |
+| operating_region | 672/687 | 97.8% |
+| based_in | 584/687 | 85% |
 
 ## Enrichment vs SCF Airtable
 
@@ -39,13 +39,13 @@ Per-project comparison of our **687** projects (incl. **110** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +129 | 548 |
+| description | +130 | 548 |
 | website | +149 | 530 |
 | github | +119 | 379 |
-| x | +213 | 284 |
+| x | +214 | 284 |
 | linkedin | +176 | 204 |
 | discord | +98 | 109 |
-| based_in | +107 | 476 |
+| based_in | +108 | 476 |
 | blog | +247 | 0 |
 | telegram | +145 | 0 |
 | youtube | +162 | 0 |
@@ -120,13 +120,13 @@ Field-level provenance tracking:
 | crawler | 1091 |
 | airtable | 3363 |
 | website | 1596 |
-| admin | 24 |
+| agent:project-enricher | 59 |
 | agent:content-linker:approved | 19 |
+| admin | 24 |
 | agent:conflict-resolver | 17 |
 | agent | 10 |
 | agent:conflicts:approved | 3 |
 | agent:project-enricher:approved | 34 |
-| agent:project-enricher | 53 |
 | agent:curator:approved | 2 |
 | agent:curator | 7 |
 | schedule | 2 |
@@ -134,9 +134,9 @@ Field-level provenance tracking:
 
 ## Needs Review
 
-18 items need attention.
+17 items need attention.
 
-**description empty** (10):
+**description empty** (9):
 - velo
 - securrency
 - volta
@@ -144,17 +144,16 @@ Field-level provenance tracking:
 - rehive
 - novatti
 - xbid-ai
-- bridge
 - kalien
 - sendit
 
 **SCF project missing website** (8):
-- the-starship-soroban
 - relax
-- wally
 - crypto-link
+- the-starship-soroban
 - paysapp
+- frost-implementation
+- wally
 - sendit
 - timed-transactions-api
-- frost-implementation
 

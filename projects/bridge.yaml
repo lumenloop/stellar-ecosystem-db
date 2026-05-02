@@ -1,12 +1,13 @@
 title: Bridge
 other_names: null
 parent: null
-description: ''
+description: Bridge is a stablecoin infrastructure platform providing APIs for developers and businesses to accept, store, convert, issue, and spend stablecoins. It enables cross-border payments, stablecoin card programs, dollar-backed savings accounts, and global money movement — acquired by Stripe in 2024.
 links:
   website:
     - bridge.xyz
   blog: []
-  x: []
+  x:
+    - stablecoin
   linkedin: []
   discord: []
   telegram: []
@@ -17,10 +18,18 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
-  operating_region: []
-  based_in: null
+  category: Payments
+  tags:
+    - stablecoins
+    - payments
+    - api
+    - cross-border-payments
+    - infrastructure
+    - b2b
+    - enterprise
+  operating_region:
+    - global
+  based_in: United States
 images: null
 mainnet:
   audits: []
