@@ -91,15 +91,15 @@ Of **577** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 22 |
-| certora | 10 |
 | OtterSec | 10 |
+| certora | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
 | OpenZeppelin | 2 |
 | CoinFabrik | 2 |
-| Сoinspect | 1 |
 | Cantina | 1 |
+| Сoinspect | 1 |
 | Code4rena | 1 |
 
 ## Data Sources
@@ -120,16 +120,16 @@ Field-level provenance tracking:
 | crawler | 756 |
 | airtable | 3691 |
 | website | 1602 |
+| agent:conflict-resolver | 14 |
 | agent:content-linker:approved | 19 |
-| agent:project-enricher | 53 |
 | agent:project-enricher:approved | 34 |
+| agent:project-enricher | 53 |
+| agent:curator:approved | 2 |
 | agent:curator | 7 |
 | agent | 10 |
-| admin | 24 |
-| agent:conflict-resolver | 13 |
+| admin | 23 |
 | schedule | 2 |
 | agent:conflicts:approved | 1 |
-| agent:curator:approved | 2 |
 | soroban_security | 67 |
 
 ## Needs Review
@@ -142,16 +142,16 @@ Field-level provenance tracking:
 - securrency
 - rehive
 - novatti
+- sendit
 - xbid-ai
 - bridge
 - kalien
 - volta
-- sendit
 
 **SCF project missing website** (8):
-- relax
 - wally
 - timed-transactions-api
+- relax
 - crypto-link
 - frost-implementation
 - sendit
