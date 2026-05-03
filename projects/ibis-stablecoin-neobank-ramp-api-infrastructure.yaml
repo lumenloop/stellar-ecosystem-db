@@ -1,0 +1,33 @@
+title: 'Ibis: Stablecoin Neobank & Ramp API Infrastructure'
+other_names: null
+parent: null
+description: |-
+  Ibis is a self custodial stablecoin neobank for Venezuelan remote workers and a Ramp API platform for fintechs that want to enter the Venezuelan market.
+
+  We help Venezuelan professionals to get paid internationally, escape inflation and save money using stablecoins, all by simplifying web3 integrations in a simple and beautiful mobile app experience.
+
+  From building our App, we had to build our own infrastructure to service on-ramp and off-ramp operations in Bolivares (Venezuela’s fiat currency), we are currently in the process of development a new product to allow other crypto companies to easily enter the Venezuelan market without deep knowledge of the local fiat rails, as we abstract that via our API.
+links:
+  website:
+    - usaibis.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: End-User Application
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf: {}
+mainnet:
+  audits: []
+  tokens: []

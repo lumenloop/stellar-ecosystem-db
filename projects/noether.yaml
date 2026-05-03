@@ -1,0 +1,28 @@
+title: Noether
+other_names: null
+parent: null
+description: "Noether is a decentralized perpetual futures exchange built natively on\_Stellar/Soroban. It enables leveraged trading up to 10x (just for now) on crypto assets with limit orders, stop-loss, and take-profit functionality. Liquidity providers earn yield through the NOE-token vault system. Currently live on testnet with a complete trading interface, automated keeper infrastructure,\_and four production-ready smart contracts."
+links:
+  website:
+    - noether.exchange
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Financial Protocols
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf: {}
+mainnet:
+  audits: []
+  tokens: []

@@ -1,0 +1,39 @@
+title: Hatom Protocol
+other_names: null
+parent: null
+description: |-
+  Hatom is a DeFi liquidity hub that turns idle capital into productive, composable liquidity.  
+
+  The protocol enables users to supply assets, borrow safely, and deploy capital through an over-collateralized lending system with transparent, on-chain risk parameters. Its liquid staking module allows staked assets to remain usable in DeFi while continuing to earn staking rewards.  
+
+  Hatom also expands liquidity beyond a single ecosystem by connecting MultiversX with Bittensor, bringing TAO holders into DeFi through native integrations.  
+
+  The stack is completed by USH, Hatom’s decentralized stablecoin, designed to improve capital efficiency and strengthen on-chain liquidity.  
+
+  Together, these components form a cohesive liquidity layer supporting users, developers, and long-term ecosystem growth.  
+    
+  Github Hatom Protocol.
+links:
+  website:
+    - hatom.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: End-User Application
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf: {}
+mainnet:
+  audits: []
+  tokens: []

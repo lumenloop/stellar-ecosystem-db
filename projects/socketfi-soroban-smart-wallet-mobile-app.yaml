@@ -1,0 +1,39 @@
+title: 'SocketFi: Soroban Smart Wallet Mobile App'
+other_names: null
+parent: null
+description: |-
+  SocketFi is a smart wallet dApp built on Soroban and the Stellar ecosystem, designed to seamlessly connect millions of users to Web3. It provides a non-custodial alternative to traditional wallets, enabling smart wallet creation through passkey sign-in with social profile binding. This removes the complexity of private key management and simplifies blockchain adoption for everyday users.
+
+  By leveraging passkeys, SocketFi significantly reduces onboarding friction, allowing social media users unfamiliar with blockchain to securely access Soroban and Stellar. Key features include passkey authentication with social account binding and gas abstraction, enabling limited gas-less transactions and flexible fee payment in supported tokens rather than only XLM.
+
+  Recognizing that most internet users are mobile-first, SocketFi is also developing a mobile application tailored to millions of smartphone users. The mobile app will provide the same core features already available on the web platform, ensuring seamless and secure access to Soroban dApps directly from mobile devices.
+links:
+  website:
+    - app.socket.fi
+  blog: []
+  x:
+    - socket_fi
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/socket-fi
+attributes:
+  category: End-User Application
+  tags: []
+  operating_region:
+    - North America (without Mexico)
+    - Middle East & North Africa
+    - Sub-Saharan Africa
+    - Europe & Central Asia
+  based_in: United States
+images: null
+scf: {}
+mainnet:
+  audits: []
+  tokens: []

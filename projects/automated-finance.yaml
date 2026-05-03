@@ -1,0 +1,29 @@
+title: Automated Finance
+other_names: null
+parent: null
+description: Automated Finance is a live Web3 automation platform enabling DAOs, startups, businesses and individuals to manage on‑chain treasury operations automatically. Already active with early users on Celo, Polygon, and Base, it executes real financial workflows such as swaps, yield allocations, and payouts — delivering efficiency and transparency to decentralized finance. The platform’s vision is to become the Zapier of Web3, providing low‑code modules for automating transactions and treasury logic across chains. By integrating Stellar USDC and anchors, Automated Finance will enable ultra‑low‑cost recurring payments and cross‑border automations for LATAM builders and organizations.
+links:
+  website:
+    - automated.finance
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: End-User Application
+  tags: []
+  operating_region:
+    - Latin America & Caribbean
+  based_in: Brazil
+images: null
+scf: {}
+mainnet:
+  audits: []
+  tokens: []

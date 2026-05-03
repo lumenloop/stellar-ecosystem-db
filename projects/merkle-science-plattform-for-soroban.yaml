@@ -1,0 +1,31 @@
+title: Merkle Science Plattform for Soroban
+other_names: null
+parent: null
+description: Extending Merkle Science coverage to Soroban brings enterprise-grade compliance tools—risk scoring, transaction monitoring, and flow-of-funds analysis—to Stellar's smart contract platform. Merkle Science is the leading blockchain intelligence provider trusted by exchanges, protocols, wallets, and financial institutions globally, offering the three core requirements identified in PwC's & Web3 Foundation 2025 report for institutional blockchain adoption. This integration removes regulatory barriers preventing financial institutions from deploying assets on Soroban bridging the gap between TradFi & DeFi, unlocking institutional liquidity, and accelerating growth from the current $48 million TVL (DefiLlama Q325).
+links:
+  website:
+    - merklescience.com
+  blog: []
+  x:
+    - merklescience
+  linkedin:
+    - linkedin.com/company/merklescience
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region:
+    - North America (without Mexico)
+  based_in: United States
+images: null
+scf: {}
+mainnet:
+  audits: []
+  tokens: []

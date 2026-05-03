@@ -1,0 +1,33 @@
+title: Prices API RFP - CTX
+other_names: null
+parent: null
+description: |-
+  We wish to deliver against the Prices API RFP - we already operate a pricing API that has served hundreds of millions of free queries with 99.99% uptime. It powers multiple wallets and our own payments system. That said, it reflects the era it was originally built in around 2020. While we’ve modernized parts of it, it would need a substantial upgrade to meet enterprise grade expectations today.  
+
+  The current system aggregates data from 16 sources, removes outliers, supports source weighting, and can generate composite rates. For example, to calculate XLM:BRL it may derive a route via XLM:BTC and BTC:BRL, including multi step paths where necessary. We also support a nested query mode that exposes underlying source data so downstream developers can apply their own logic, alongside a more opinionated single rate endpoint.  
+    
+  You can see an example query here: https://rates.ctx.com/rates?symbol=xlmeur&nested=1.
+links:
+  website:
+    - rates.ctx.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf: {}
+mainnet:
+  audits: []
+  tokens: []

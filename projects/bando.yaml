@@ -1,0 +1,33 @@
+title: Bando
+other_names: null
+parent: null
+description: |-
+  Bando is a B2B treasury management platform that enables Mexican companies to invest idle cash into tokenized CETES (Mexican Federal Treasury Certificates) through the Stellar network using Etherfuse’s Stablebonds.
+
+  Mexican SMEs hold +155 billion USD in idle cash that loses value to inflation. Traditional treasury products require high minimums ($25k USD), long lock-ups, and opaque fee structures, and offer a cumbersome user experience. Bando solves this by providing a simple platform where businesses can deploy surplus MXN into tokenized government-backed bonds, earning competitive yields with daily liquidity.
+
+  Our vision is to become the default treasury management layer for Mexican businesses, bridging traditional finance and blockchain through a compliant, intuitive interface that abstracts away the complexity of on-chain operations. Companies interact with a familiar fintech experience while benefiting from Stellar's speed, low fees, and transparent settlement.
+links:
+  website:
+    - bando.cool
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: End-User Application
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf: {}
+mainnet:
+  audits: []
+  tokens: []

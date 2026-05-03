@@ -1,0 +1,44 @@
+title: Nectar Network
+other_names: null
+parent: null
+description: |-
+  Nectar Network is a generalized automation and liquidation layer for Soroban DeFi. Any protocol can register time-sensitive on-chain tasks — liquidations, auto-compounding, oracle updates, rebalancing — executed reliably by keepers competing for rewards.
+
+  Stellar DeFi holds ~$187M TVL. Blend alone has ~$80M, but its liquidation bot is a single-operator container with no redundancy and a disclaimer it may fail. Bad debt from missed liquidations is existential risk at this scale. There's no Chainlink Keepers or Gelato equivalent on Soroban — every protocol rolls its own off-chain scripts.
+
+  Keeper Network delivers:
+
+   Task registry — any Soroban contract registers jobs with conditions, rewards, and priority
+      
+   Multi-protocol support — Blend liquidations, FxDAO CDPs, DeFindex rebalancing, oracle refreshes
+      
+   Incentive layer — operators compete for execution rewards, ensuring redundancy
+      
+   Monitoring dashboard — real-time task queue, keeper performance, protocol health
+      
+
+  Open-sourced as public-good infrastructure for the entire Stellar ecosystem.
+links:
+  website:
+    - nectarnetwork.fun
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Financial Protocols
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf: {}
+mainnet:
+  audits: []
+  tokens: []

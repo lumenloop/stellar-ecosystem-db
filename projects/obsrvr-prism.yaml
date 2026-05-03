@@ -1,0 +1,28 @@
+title: OBSRVR Prism
+other_names: null
+parent: null
+description: A Soroban-First Block Explorer Powered by flowctl.
+links:
+  website:
+    - withobsrvr.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: End-User Application
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf: {}
+mainnet:
+  audits: []
+  tokens: []

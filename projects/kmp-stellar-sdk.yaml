@@ -1,0 +1,29 @@
+title: KMP Stellar SDK
+other_names: null
+parent: null
+description: A Kotlin Multiplatform SDK for building applications on the Stellar Network. Write your Stellar integration once in Kotlin and deploy it across JVM (Android, Server), iOS, macOS, and Web (Browser/Node.js) platforms.
+links:
+  website:
+    - github.com/soneso/kmp-stellar-sdk
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/soneso/kmp-stellar-sdk
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region: []
+  based_in: Spain
+images: null
+scf: {}
+mainnet:
+  audits: []
+  tokens: []

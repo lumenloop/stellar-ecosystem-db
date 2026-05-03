@@ -1,0 +1,32 @@
+title: JoonaPay
+other_names: null
+parent: null
+description: 'JoonaPay is an enterprise financial platform for Francophone West Africa (UEMOA region). We provide treasury management, payments, expense management, and accounting in one unified platform. Businesses in the region currently juggle 5-9 disconnected tools (banks, mobile money, ERPs, spreadsheets). We replace all of that with a single dashboard. Our goal: become the financial operating system for businesses in the CFA franc zone.'
+links:
+  website:
+    - joonapay.com
+  blog: []
+  x:
+    - joona_pay
+  linkedin:
+    - linkedin.com/company/joonapay
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/bp-ventures
+attributes:
+  category: End-User Application
+  tags: []
+  operating_region:
+    - Sub-Saharan Africa
+  based_in: Côte d&#x27;Ivoire
+images: null
+scf: {}
+mainnet:
+  audits: []
+  tokens: []

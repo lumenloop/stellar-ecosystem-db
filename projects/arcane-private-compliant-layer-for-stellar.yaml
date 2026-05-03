@@ -1,0 +1,35 @@
+title: Arcane | Private Compliant Layer for Stellar
+other_names: null
+parent: null
+description: |-
+  Arcane Privacy Layer is a non-custodial, compliance-ready privacy infrastructure for Stellar that enables developers and financial service providers to build confidential compliant applications without implementing their own cryptography or audit systems.
+
+    
+  The layer routes transactions from wallets, payment platforms, payroll providers, fintech services, and Soroban applications through a shared ZK shielded pool, creating a unified anonymity set across the ecosystem. Privacy works as shared infrastructure, improving confidentiality for all participants as adoption grows.
+
+    
+  Transaction details are private by default. When compliance is required, Arcane provides built-in auditability and role-based selective disclosure, allowing authorized entities to access only the minimum necessary data within defined scope and time windows, while preserving full cryptographic integrity and audit trails.
+links:
+  website:
+    - arcane.finance
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: End-User Application
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf: {}
+mainnet:
+  audits: []
+  tokens: []

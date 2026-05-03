@@ -1,0 +1,39 @@
+title: Zarf Protocol
+other_names: null
+parent: null
+description: |-
+  zarf.to is a non-custodial payment and token distribution application on
+
+  Stellar that enables users to send funds or create vestings to an email
+
+  address instead of a wallet address.
+
+  More details can be found here: https://astromina.notion.site/zarf-to-
+
+  2fc9179a00ab803d9bfff85cb2b09d54
+
+  Email: contact@trionlabs.dev.
+links:
+  website:
+    - zarf.to
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Financial Protocols
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf: {}
+mainnet:
+  audits: []
+  tokens: []

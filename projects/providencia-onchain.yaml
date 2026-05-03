@@ -1,0 +1,39 @@
+title: Providencia Onchain
+other_names: null
+parent: null
+description: |-
+  VIIO and Climate Future are launching a 6-month deployment sprint to enable everyday stablecoin payments for the island of Providencia (Colombia) — for locals, merchants, and tourists — using Stellar as the core settlement layer. The goal is real-world adoption: merchants can accept USDC/USDT on Stellar via a simple UX, users can pay in seconds (QR / card spend where applicable), and a transparent fee routing mechanism allocates a predefined portion of transaction economics to locally curated impact initiatives managed by Climate Future. This creates a tight loop of (1) financial access and usability, (2) dense merchant coverage, and (3) measurable local benefit — all verifiable on-chain.
+
+  Primary outcomes (6 months):
+
+    Merchant acceptance density across key categories (grocery, transport, hospitality, tours)
+      
+    Daily payment usage by locals + tourists
+      
+    On-chain proof of stablecoin payment activity on Stellar
+      
+    Transparent impact funding routed to Climate Future’s designated projects.
+links:
+  website:
+    - viio.me
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: End-User Application
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf: {}
+mainnet:
+  audits: []
+  tokens: []

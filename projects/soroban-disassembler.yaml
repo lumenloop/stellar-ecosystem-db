@@ -1,0 +1,39 @@
+title: Soroban Disassembler
+other_names: null
+parent: null
+description: |-
+  Our team will create the requested Soroban reverse engineering tool which will take compiled Soroban contracts in WASM format as input and emit accurate WAT, rust and extensive reproducible methods to test its accuracy.  
+    
+  It will follow the listed requirements of:  
+    
+  WASM -> WAT reconstruction that maintains the logic of Soroban contracts while being easily understood for human readers.  
+    
+  Ideally users could simply take a contract ID to initiate the process. The tool will be open source and easily accessible for users, developers and Stellar projects.  
+    
+  Our team is extremely suited for this type of project and we will provide more descriptive details in the following BUILD application.  
+    
+  Please observe our existing research into WASM infrastructures, delivered research and team expertise.
+links:
+  website:
+    - inferara.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf: {}
+mainnet:
+  audits: []
+  tokens: []

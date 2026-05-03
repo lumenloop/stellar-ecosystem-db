@@ -1,0 +1,40 @@
+title: Smart Account Onboarding
+other_names: null
+parent: null
+description: |-
+  Smart Account Onboarding is an open-source reference implementation and onboarding standard that removes the primary adoption friction for Soroban smart accounts: funding a C-address without forcing end-users to first create and manage a traditional G-address.
+
+  The project delivers:
+
+    a G→C seamless funding bridge (supporting inbound funding from existing G-addresses, CEX withdrawals, and optional off-ramp rails), making the “G-address step” transparent or unnecessary for the user,  
+      
+    a production-grade reference C-address wallet (web + mobile) with token holdings and transfer history at parity with Freighter,  
+      
+    a reusable Onboarding Kit (UI + SDK) that wallet providers can embed to standardize the “create C-address → fund fees → add assets → bridge funds” journey across the ecosystem.  
+      
+
+  Implementation aligns with the OpenZeppelin Smart Account standard, using its smart-account primitives (policies/signers/verifiers) to support modern auth patterns and extensibility.
+links:
+  website:
+    - theaha.co
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: End-User Application
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf: {}
+mainnet:
+  audits: []
+  tokens: []

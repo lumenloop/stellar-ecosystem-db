@@ -1,0 +1,35 @@
+title: Backyard Finance
+other_names: null
+parent: null
+description: |-
+  Backyard lets users create their own liquid yield strategy for stablecoins.
+
+  Users build diversified stablecoin yield strategies by allocating across multiple yield vaults (e.g., Blend or Spiko vaults). These strategy LP tokens can optionally be used to mint Backyard Dollar (BYD), allowing users to earn yield while retaining liquidity.
+
+  By separating yield generation from liquidity, Backyard solves one of DeFi’s core inefficiencies: capital locked in yield strategies that cannot be reused without exit friction.
+
+  The protocol is governed by a ve(3,3)-style capital coordination system, aligning emissions, governance, and liquidity incentives to route capital toward the safest and most productive strategies over time and provide better returns for users.
+links:
+  website:
+    - backyard.finance
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Financial Protocols
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf: {}
+mainnet:
+  audits: []
+  tokens: []
