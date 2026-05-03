@@ -77,8 +77,8 @@ Of **577** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 451 | 465 |
-| Active last week | 127 | 209 |
-| Active last month | 180 | 269 |
+| Active last week | 126 | 209 |
+| Active last month | 179 | 269 |
 | Active last 3 months | 238 | 312 |
 | Active last year | 312 | 379 |
 
@@ -117,15 +117,15 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 564 |
+| crawler | 1097 |
 | website | 1595 |
 | airtable | 3357 |
-| crawler | 1099 |
-| admin | 39 |
+| admin | 41 |
 | agent:curator:approved | 2 |
 | agent:project-enricher:approved | 34 |
-| schedule | 2 |
 | agent:conflict-resolver | 19 |
 | agent:conflicts:approved | 4 |
+| schedule | 2 |
 | agent:project-enricher | 46 |
 | agent:content-linker:approved | 19 |
 | agent:curator | 7 |
@@ -144,8 +144,8 @@ Field-level provenance tracking:
 - soropg
 - securrency
 - volta
-- kalien
 - sendit
+- kalien
 
 **SCF project missing website** (8):
 - frost-implementation
