@@ -6,17 +6,21 @@ links:
   website:
     - github.com/rahul-soshte/rs-soroban-client
   blog: []
-  x: []
-  linkedin: []
+  x:
+    - github
+  linkedin:
+    - linkedin.com/company/github
   discord: []
   telegram: []
-  youtube: []
-  instagram: []
+  youtube:
+    - youtube.com/github
+  instagram:
+    - github
   reddit: []
-  tiktok: []
+  tiktok:
+    - github
   linktree: []
-  github:
-    - github.com/rahul-soshte/rs-soroban-client
+  github: []
 attributes:
   category: Developer Tooling
   tags:

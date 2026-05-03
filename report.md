@@ -18,14 +18,14 @@
 | description | 678/687 | 98.7% |
 | website | 679/687 | 98.8% |
 | blog | 247/687 | 36% |
-| x | 498/687 | 72.5% |
-| linkedin | 380/687 | 55.3% |
+| x | 499/687 | 72.6% |
+| linkedin | 381/687 | 55.5% |
 | discord | 207/687 | 30.1% |
 | telegram | 145/687 | 21.1% |
-| youtube | 162/687 | 23.6% |
-| instagram | 117/687 | 17% |
+| youtube | 163/687 | 23.7% |
+| instagram | 119/687 | 17.3% |
 | reddit | 14/687 | 2% |
-| tiktok | 28/687 | 4.1% |
+| tiktok | 29/687 | 4.2% |
 | linktree | 5/687 | 0.7% |
 | github | 498/687 | 72.5% |
 | category | 602/687 | 87.6% |
@@ -42,16 +42,16 @@ Per-project comparison of our **687** projects (incl. **110** community projects
 | description | +130 | 548 |
 | website | +149 | 530 |
 | github | +119 | 379 |
-| x | +214 | 284 |
-| linkedin | +176 | 204 |
+| x | +215 | 284 |
+| linkedin | +177 | 204 |
 | discord | +98 | 109 |
 | based_in | +108 | 476 |
 | blog | +247 | 0 |
 | telegram | +145 | 0 |
-| youtube | +162 | 0 |
-| instagram | +117 | 0 |
+| youtube | +163 | 0 |
+| instagram | +119 | 0 |
 | reddit | +14 | 0 |
-| tiktok | +28 | 0 |
+| tiktok | +29 | 0 |
 | linktree | +5 | 0 |
 
 *"Added" = we filled a field SCF didn't have. "Modified" = SCF had a value, we store a different one.*
@@ -77,8 +77,8 @@ Of **577** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 451 | 465 |
-| Active last week | 121 | 210 |
-| Active last month | 179 | 270 |
+| Active last week | 122 | 210 |
+| Active last month | 180 | 270 |
 | Active last 3 months | 239 | 313 |
 | Active last year | 312 | 379 |
 
@@ -91,15 +91,15 @@ Of **577** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 22 |
-| OtterSec | 10 |
 | certora | 10 |
+| OtterSec | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Сoinspect | 1 |
 | Cantina | 1 |
+| Сoinspect | 1 |
 | Code4rena | 1 |
 
 ## Data Sources
@@ -117,19 +117,19 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 564 |
-| airtable | 3653 |
-| website | 1596 |
-| crawler | 798 |
+| crawler | 1101 |
+| airtable | 3357 |
+| website | 1595 |
+| admin | 38 |
+| agent:curator:approved | 2 |
+| agent:project-enricher:approved | 34 |
+| schedule | 2 |
 | agent:conflict-resolver | 19 |
 | agent:conflicts:approved | 3 |
 | agent:project-enricher | 46 |
-| admin | 38 |
-| agent:project-enricher:approved | 34 |
-| agent:curator:approved | 2 |
-| agent | 10 |
 | agent:content-linker:approved | 19 |
+| agent | 10 |
 | agent:curator | 7 |
-| schedule | 2 |
 | soroban_security | 67 |
 
 ## Needs Review
@@ -147,12 +147,12 @@ Field-level provenance tracking:
 - sendit
 
 **description empty** (9):
-- soropg
 - velo
-- securrency
-- volta
 - rehive
 - novatti
+- soropg
+- securrency
+- volta
 - xbid-ai
 - kalien
 - sendit
