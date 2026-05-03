@@ -25,4 +25,7 @@ images: null
 scf: {}
 mainnet:
   audits: []
-  tokens: []
+  tokens:
+    - code: WXT
+      issuer: GASBLVHS5FOABSDNW5SPPH3QRJYXY5JHA2AOA2QHH2FJLZBRXSG4SWXT
+      decimals: 7

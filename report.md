@@ -6,8 +6,8 @@
 
 | Metric | Count |
 |--------|------:|
-| Total projects | **744** |
-| SCF-funded projects | 634 |
+| Total projects | **731** |
+| SCF-funded projects | 621 |
 | Community projects | 110 |
 | Audited projects | 49 |
 
@@ -15,37 +15,37 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 735/744 | 98.8% |
-| website | 736/744 | 98.9% |
-| blog | 247/744 | 33.2% |
-| x | 508/744 | 68.3% |
-| linkedin | 390/744 | 52.4% |
-| discord | 210/744 | 28.2% |
-| telegram | 145/744 | 19.5% |
-| youtube | 163/744 | 21.9% |
-| instagram | 119/744 | 16% |
-| reddit | 14/744 | 1.9% |
-| tiktok | 29/744 | 3.9% |
-| linktree | 5/744 | 0.7% |
-| github | 509/744 | 68.4% |
-| category | 659/744 | 88.6% |
-| tags | 679/744 | 91.3% |
-| operating_region | 686/744 | 92.2% |
-| based_in | 602/744 | 80.9% |
+| description | 722/731 | 98.8% |
+| website | 723/731 | 98.9% |
+| blog | 247/731 | 33.8% |
+| x | 506/731 | 69.2% |
+| linkedin | 387/731 | 52.9% |
+| discord | 210/731 | 28.7% |
+| telegram | 145/731 | 19.8% |
+| youtube | 163/731 | 22.3% |
+| instagram | 119/731 | 16.3% |
+| reddit | 14/731 | 1.9% |
+| tiktok | 29/731 | 4% |
+| linktree | 5/731 | 0.7% |
+| github | 505/731 | 69.1% |
+| category | 646/731 | 88.4% |
+| tags | 679/731 | 92.9% |
+| operating_region | 682/731 | 93.3% |
+| based_in | 597/731 | 81.7% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **744** projects (incl. **110** community projects not in SCF) against **633** in SCF Airtable:
+Per-project comparison of our **731** projects (incl. **110** community projects not in SCF) against **632** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +139 | 596 |
-| website | +158 | 578 |
-| github | +127 | 382 |
-| x | +219 | 289 |
-| linkedin | +180 | 210 |
+| description | +139 | 583 |
+| website | +158 | 565 |
+| github | +127 | 378 |
+| x | +219 | 287 |
+| linkedin | +180 | 207 |
 | discord | +99 | 111 |
-| based_in | +118 | 484 |
+| based_in | +118 | 479 |
 | blog | +247 | 0 |
 | telegram | +145 | 0 |
 | youtube | +163 | 0 |
@@ -58,15 +58,15 @@ Per-project comparison of our **744** projects (incl. **110** community projects
 
 ## SCF Project Coverage
 
-Of **634** SCF-funded projects:
+Of **621** SCF-funded projects:
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| awarded_total | 522/634 | 82.3% |
-| awarded_round | 553/634 | 87.2% |
-| submission_urls | 553/634 | 87.2% |
-| website | 626/634 | 98.7% |
-| github | 453/634 | 71.5% |
+| awarded_total | 522/621 | 84.1% |
+| awarded_round | 553/621 | 89% |
+| submission_urls | 553/621 | 89% |
+| website | 613/621 | 98.7% |
+| github | 449/621 | 72.3% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -76,11 +76,11 @@ Of **634** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 462 | 468 |
-| Active last week | 129 | 211 |
-| Active last month | 184 | 272 |
-| Active last 3 months | 246 | 315 |
-| Active last year | 320 | 382 |
+| Tracked projects | 458 | 472 |
+| Active last week | 129 | 216 |
+| Active last month | 180 | 276 |
+| Active last 3 months | 244 | 319 |
+| Active last year | 318 | 386 |
 
 ## Audit Data
 
@@ -96,8 +96,8 @@ Of **634** SCF-funded projects:
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
-| CoinFabrik | 2 |
 | OpenZeppelin | 2 |
+| CoinFabrik | 2 |
 | Сoinspect | 1 |
 | Cantina | 1 |
 | Code4rena | 1 |
@@ -117,19 +117,19 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 564 |
+| airtable | 3870 |
+| website | 1592 |
 | crawler | 775 |
-| website | 1595 |
-| airtable | 3932 |
+| admin | 48 |
 | agent:conflict-resolver | 19 |
-| admin | 41 |
 | agent:content-linker:approved | 19 |
 | agent | 10 |
-| agent:curator:approved | 2 |
-| agent:project-enricher:approved | 34 |
 | agent:conflicts:approved | 4 |
-| schedule | 2 |
 | agent:project-enricher | 46 |
+| agent:project-enricher:approved | 34 |
 | agent:curator | 7 |
+| schedule | 2 |
+| agent:curator:approved | 2 |
 | soroban_security | 68 |
 
 ## Needs Review
@@ -138,22 +138,22 @@ Field-level provenance tracking:
 
 **description empty** (9):
 - rehive
+- novatti
+- sendit
+- kalien
 - xbid-ai
 - velo
-- novatti
 - soropg
 - securrency
 - volta
-- sendit
-- kalien
 
 **SCF project missing website** (8):
 - relax
 - timed-transactions-api
 - frost-implementation
-- paysapp
-- crypto-link
 - wally
 - the-starship-soroban
 - sendit
+- paysapp
+- crypto-link
 

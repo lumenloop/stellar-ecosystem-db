@@ -1,5 +1,6 @@
-title: Regulated BRL Settlement for FX and Institutional Payments on Stellar
-other_names: null
+title: PagCrypto
+other_names:
+  - Regulated BRL Settlement for FX and Institutional Payments on Stellar
 parent: null
 description: |-
   BRLP is a regulated BRL settlement token issued on Stellar for institutional FX, institutional payments, and crypto-to-fiat reconciliation.  
