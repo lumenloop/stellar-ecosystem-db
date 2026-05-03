@@ -35,7 +35,7 @@
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **687** projects (incl. **110** community projects not in SCF) against **1212** in SCF Airtable:
+Per-project comparison of our **687** projects (incl. **110** community projects not in SCF) against **580** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
@@ -78,7 +78,7 @@ Of **577** SCF-funded projects:
 |--------|------:|--------:|
 | Tracked projects | 451 | 465 |
 | Active last week | 127 | 209 |
-| Active last month | 180 | 269 |
+| Active last month | 177 | 269 |
 | Active last 3 months | 238 | 312 |
 | Active last year | 312 | 379 |
 
@@ -119,8 +119,8 @@ Field-level provenance tracking:
 | submissions | 564 |
 | website | 1595 |
 | airtable | 3357 |
-| crawler | 1099 |
-| admin | 39 |
+| crawler | 1100 |
+| admin | 38 |
 | agent:curator:approved | 2 |
 | agent:project-enricher:approved | 34 |
 | schedule | 2 |
