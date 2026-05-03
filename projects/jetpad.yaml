@@ -1,17 +1,10 @@
 title: JetPad
 other_names: null
 parent: null
-description: |-
-  JetPad is redefining financial access for Africa’s 500M+ unbanked and underbanked youth by transforming stablecoins into a fully usable, everyday financial system.
-
-  JetPad delivers a seamless on-chain banking experience that bridges crypto and local financial systems. Users can hold and transact in Stellar USDC, send and receive funds instantly across borders using simple JetPad tags mapped to on-chain wallets, and access fiat on/off-ramps through integrated anchor infrastructure.
-
-  Available on mobile (iOS and Android), JetPad enables users to perform real-world financial activities such as local and international transfers, crypto–fiat conversions, and payments for everyday utilities including electricity, cable TV, and other essential services.
-
-  JetPad also enables direct payments using stablecoins, allowing users to pay in Stellar USDC while merchants receive value in their preferred local currency. This abstracts the complexity of crypto from both users and businesses, making stablecoin payments practical and scalable for everyday commerce.
+description: JetPad is redefining finance for Africa’s 500 million unbanked and underbanked youth by building an on-chain banking experience powered by stablecoins and seamless blockchain transactions.
 links:
   website:
-    - jetpad.finance
+    - wallet.jetpad.finance
   blog: []
   x:
     - jetpad_finance
@@ -28,7 +21,7 @@ links:
   github:
     - github.com/jetpad-digital-limited/jetpad-wallet
 attributes:
-  category: End-User Application
+  category: Applications
   tags:
     - Africa
     - Stablecoins

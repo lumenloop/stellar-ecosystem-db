@@ -3,7 +3,8 @@ other_names: null
 parent: null
 description: Hermes is a decentralized perpetual exchange on the Stellar blockchain, enabling traders to engage in leveraged trading. It uses a liquidity pool model and oracles to offer deep liquidity with minimal slippage, allowing users to open and close positions efficiently without additional accounts.
 links:
-  website: []
+  website:
+    - github.com/orbit-cdp/hermes
   blog: []
   x:
     - notishansingh
@@ -15,7 +16,8 @@ links:
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/orbit-cdp/hermes
 attributes:
   category: Financial Protocols
   tags:
@@ -32,9 +34,5 @@ scf:
   submission_urls:
     - communityfund.stellar.org/submissions/recLWYP6Y352hsjEb
 mainnet:
-  audits:
-    - name: 'Veridise Audit Report: OrbitCDP '
-      url: sorobansecurity.com/report/20
-      date: '2024-12-25T15:00:00Z'
-      auditor: Veridise
+  audits: []
   tokens: []

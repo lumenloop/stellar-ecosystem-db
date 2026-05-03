@@ -2,7 +2,6 @@ title: Solang
 other_names:
   - Solidity Contracts on Soroban
   - Solang Playground
-  - 'RFP: Soroban (WASM) Specialized Reverse Engineering Tool'
 parent: null
 description: Allows writing Soroban contracts with Solidity, by integrating Soroban as a compilation target for Solang.
 links:
@@ -33,3 +32,4 @@ images: null
 mainnet:
   audits: []
   tokens: []
+  contracts: []
