@@ -35,7 +35,7 @@
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **687** projects (incl. **110** community projects not in SCF) against **580** in SCF Airtable:
+Per-project comparison of our **687** projects (incl. **110** community projects not in SCF) against **1212** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
@@ -77,9 +77,9 @@ Of **577** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 451 | 465 |
-| Active last week | 122 | 210 |
-| Active last month | 180 | 270 |
-| Active last 3 months | 239 | 313 |
+| Active last week | 127 | 209 |
+| Active last month | 180 | 269 |
+| Active last 3 months | 238 | 312 |
 | Active last year | 312 | 379 |
 
 ## Audit Data
@@ -117,43 +117,43 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 564 |
-| crawler | 1101 |
-| airtable | 3357 |
 | website | 1595 |
-| admin | 38 |
+| airtable | 3357 |
+| crawler | 1099 |
+| admin | 39 |
 | agent:curator:approved | 2 |
 | agent:project-enricher:approved | 34 |
 | schedule | 2 |
 | agent:conflict-resolver | 19 |
-| agent:conflicts:approved | 3 |
+| agent:conflicts:approved | 4 |
 | agent:project-enricher | 46 |
 | agent:content-linker:approved | 19 |
-| agent | 10 |
 | agent:curator | 7 |
+| agent | 10 |
 | soroban_security | 67 |
 
 ## Needs Review
 
 17 items need attention.
 
-**SCF project missing website** (8):
-- frost-implementation
-- timed-transactions-api
-- wally
-- paysapp
-- relax
-- crypto-link
-- the-starship-soroban
-- sendit
-
 **description empty** (9):
-- velo
 - rehive
+- xbid-ai
+- velo
 - novatti
 - soropg
 - securrency
 - volta
-- xbid-ai
 - kalien
+- sendit
+
+**SCF project missing website** (8):
+- frost-implementation
+- paysapp
+- relax
+- crypto-link
+- timed-transactions-api
+- wally
+- the-starship-soroban
 - sendit
 
