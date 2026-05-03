@@ -117,9 +117,9 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 564 |
-| airtable | 3870 |
-| website | 1592 |
 | crawler | 775 |
+| website | 1592 |
+| airtable | 3870 |
 | admin | 48 |
 | agent:conflict-resolver | 19 |
 | agent:content-linker:approved | 19 |
