@@ -117,10 +117,10 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 564 |
-| airtable | 3688 |
+| airtable | 3687 |
 | website | 1596 |
 | crawler | 765 |
-| agent:conflict-resolver | 17 |
+| agent:conflict-resolver | 18 |
 | admin | 38 |
 | agent:content-linker:approved | 19 |
 | agent:curator | 7 |
