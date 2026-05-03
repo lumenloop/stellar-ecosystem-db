@@ -21,7 +21,8 @@ links:
   tiktok:
     - github
   linktree: []
-  github: []
+  github:
+    - github.com/huitemagico/kmac
 attributes:
   category: Developer Tooling
   tags:
