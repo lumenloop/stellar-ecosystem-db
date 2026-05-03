@@ -96,8 +96,8 @@ Of **577** SCF-funded projects:
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
-| OpenZeppelin | 2 |
 | CoinFabrik | 2 |
+| OpenZeppelin | 2 |
 | Сoinspect | 1 |
 | Cantina | 1 |
 | Code4rena | 1 |
@@ -117,24 +117,34 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 564 |
-| airtable | 3687 |
+| airtable | 3653 |
 | website | 1596 |
-| crawler | 765 |
-| agent:conflict-resolver | 18 |
+| crawler | 798 |
+| agent:conflict-resolver | 19 |
+| agent:conflicts:approved | 3 |
+| agent:project-enricher | 46 |
 | admin | 38 |
+| agent:project-enricher:approved | 34 |
+| agent:curator:approved | 2 |
+| agent | 10 |
 | agent:content-linker:approved | 19 |
 | agent:curator | 7 |
-| agent:project-enricher | 46 |
-| agent:project-enricher:approved | 34 |
-| agent | 10 |
-| agent:conflicts:approved | 3 |
-| agent:curator:approved | 2 |
 | schedule | 2 |
 | soroban_security | 67 |
 
 ## Needs Review
 
 17 items need attention.
+
+**SCF project missing website** (8):
+- frost-implementation
+- timed-transactions-api
+- wally
+- paysapp
+- relax
+- crypto-link
+- the-starship-soroban
+- sendit
 
 **description empty** (9):
 - soropg
@@ -145,15 +155,5 @@ Field-level provenance tracking:
 - novatti
 - xbid-ai
 - kalien
-- sendit
-
-**SCF project missing website** (8):
-- paysapp
-- relax
-- crypto-link
-- frost-implementation
-- timed-transactions-api
-- the-starship-soroban
-- wally
 - sendit
 
