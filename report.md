@@ -39,13 +39,13 @@ Per-project comparison of our **687** projects (incl. **110** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +130 | 548 |
-| website | +149 | 530 |
-| github | +119 | 379 |
-| x | +215 | 284 |
-| linkedin | +177 | 204 |
-| discord | +98 | 109 |
-| based_in | +108 | 476 |
+| description | +678 | 0 |
+| website | +679 | 0 |
+| github | +498 | 0 |
+| x | +499 | 0 |
+| linkedin | +381 | 0 |
+| discord | +207 | 0 |
+| based_in | +584 | 0 |
 | blog | +247 | 0 |
 | telegram | +145 | 0 |
 | youtube | +163 | 0 |
@@ -77,9 +77,9 @@ Of **577** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 451 | 465 |
-| Active last week | 126 | 209 |
-| Active last month | 176 | 269 |
-| Active last 3 months | 238 | 311 |
+| Active last week | 126 | 206 |
+| Active last month | 177 | 269 |
+| Active last 3 months | 236 | 310 |
 | Active last year | 312 | 379 |
 
 ## Audit Data
@@ -96,8 +96,8 @@ Of **577** SCF-funded projects:
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
-| OpenZeppelin | 2 |
 | CoinFabrik | 2 |
+| OpenZeppelin | 2 |
 | Cantina | 1 |
 | Сoinspect | 1 |
 | Code4rena | 1 |
@@ -120,15 +120,15 @@ Field-level provenance tracking:
 | website | 1592 |
 | airtable | 3357 |
 | crawler | 1101 |
-| agent:conflict-resolver | 27 |
-| admin | 38 |
 | agent:content-linker:approved | 19 |
+| agent | 10 |
 | agent:project-enricher | 46 |
 | agent:project-enricher:approved | 34 |
+| admin | 38 |
+| agent:conflict-resolver | 27 |
 | agent:curator | 7 |
 | schedule | 2 |
 | agent:conflicts:approved | 4 |
-| agent | 10 |
 | agent:curator:approved | 2 |
 | soroban_security | 67 |
 
@@ -139,9 +139,9 @@ Field-level provenance tracking:
 **description empty** (9):
 - rehive
 - xbid-ai
-- velo
 - soropg
 - novatti
+- velo
 - securrency
 - volta
 - kalien
