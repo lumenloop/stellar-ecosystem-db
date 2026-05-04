@@ -18,12 +18,12 @@
 | description | 678/687 | 98.7% |
 | website | 679/687 | 98.8% |
 | blog | 247/687 | 36% |
-| x | 499/687 | 72.6% |
-| linkedin | 381/687 | 55.5% |
+| x | 498/687 | 72.5% |
+| linkedin | 380/687 | 55.3% |
 | discord | 207/687 | 30.1% |
 | telegram | 145/687 | 21.1% |
-| youtube | 163/687 | 23.7% |
-| instagram | 119/687 | 17.3% |
+| youtube | 162/687 | 23.6% |
+| instagram | 118/687 | 17.2% |
 | reddit | 14/687 | 2% |
 | tiktok | 29/687 | 4.2% |
 | linktree | 5/687 | 0.7% |
@@ -42,14 +42,14 @@ Per-project comparison of our **687** projects (incl. **110** community projects
 | description | +130 | 548 |
 | website | +149 | 530 |
 | github | +119 | 379 |
-| x | +215 | 284 |
-| linkedin | +177 | 204 |
+| x | +214 | 284 |
+| linkedin | +176 | 204 |
 | discord | +98 | 109 |
 | based_in | +108 | 476 |
 | blog | +247 | 0 |
 | telegram | +145 | 0 |
-| youtube | +163 | 0 |
-| instagram | +119 | 0 |
+| youtube | +162 | 0 |
+| instagram | +118 | 0 |
 | reddit | +14 | 0 |
 | tiktok | +29 | 0 |
 | linktree | +5 | 0 |
@@ -76,11 +76,11 @@ Of **577** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 451 | 465 |
-| Active last week | 127 | 209 |
-| Active last month | 177 | 269 |
-| Active last 3 months | 238 | 311 |
-| Active last year | 312 | 379 |
+| Tracked projects | 451 | 464 |
+| Active last week | 126 | 208 |
+| Active last month | 176 | 268 |
+| Active last 3 months | 238 | 310 |
+| Active last year | 312 | 378 |
 
 ## Audit Data
 
@@ -117,13 +117,13 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 564 |
-| website | 1596 |
+| website | 1595 |
 | airtable | 3357 |
-| crawler | 1098 |
-| schedule | 2 |
-| agent:conflict-resolver | 20 |
+| agent:conflict-resolver | 27 |
+| crawler | 1093 |
 | agent:content-linker:approved | 19 |
 | admin | 38 |
+| schedule | 2 |
 | agent:conflicts:approved | 4 |
 | agent:project-enricher | 46 |
 | agent:project-enricher:approved | 34 |
