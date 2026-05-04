@@ -119,17 +119,17 @@ Field-level provenance tracking:
 | submissions | 564 |
 | website | 1595 |
 | airtable | 3357 |
-| crawler | 1100 |
+| crawler | 1099 |
 | schedule | 2 |
-| agent:conflict-resolver | 19 |
-| agent:content-linker:approved | 19 |
+| agent:conflict-resolver | 20 |
 | admin | 38 |
-| agent:curator:approved | 2 |
-| agent:project-enricher:approved | 34 |
 | agent:conflicts:approved | 4 |
 | agent:project-enricher | 46 |
+| agent:project-enricher:approved | 34 |
+| agent:content-linker:approved | 19 |
 | agent:curator | 7 |
 | agent | 10 |
+| agent:curator:approved | 2 |
 | soroban_security | 67 |
 
 ## Needs Review
@@ -137,11 +137,11 @@ Field-level provenance tracking:
 17 items need attention.
 
 **description empty** (9):
-- xbid-ai
-- soropg
 - rehive
+- xbid-ai
 - velo
 - novatti
+- soropg
 - securrency
 - volta
 - kalien
