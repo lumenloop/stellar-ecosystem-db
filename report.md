@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-05-03
+> Auto-generated on 2026-05-04
 
 ## Summary
 
@@ -79,7 +79,7 @@ Of **577** SCF-funded projects:
 | Tracked projects | 451 | 465 |
 | Active last week | 127 | 209 |
 | Active last month | 177 | 269 |
-| Active last 3 months | 238 | 312 |
+| Active last 3 months | 238 | 311 |
 | Active last year | 312 | 379 |
 
 ## Audit Data
@@ -120,14 +120,14 @@ Field-level provenance tracking:
 | website | 1595 |
 | airtable | 3357 |
 | crawler | 1100 |
+| schedule | 2 |
+| agent:conflict-resolver | 19 |
+| agent:content-linker:approved | 19 |
 | admin | 38 |
 | agent:curator:approved | 2 |
 | agent:project-enricher:approved | 34 |
-| schedule | 2 |
-| agent:conflict-resolver | 19 |
 | agent:conflicts:approved | 4 |
 | agent:project-enricher | 46 |
-| agent:content-linker:approved | 19 |
 | agent:curator | 7 |
 | agent | 10 |
 | soroban_security | 67 |
@@ -137,11 +137,11 @@ Field-level provenance tracking:
 17 items need attention.
 
 **description empty** (9):
-- rehive
 - xbid-ai
+- soropg
+- rehive
 - velo
 - novatti
-- soropg
 - securrency
 - volta
 - kalien
