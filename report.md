@@ -117,16 +117,16 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 564 |
-| website | 1595 |
+| website | 1596 |
 | airtable | 3357 |
-| crawler | 1099 |
+| crawler | 1098 |
 | schedule | 2 |
 | agent:conflict-resolver | 20 |
+| agent:content-linker:approved | 19 |
 | admin | 38 |
 | agent:conflicts:approved | 4 |
 | agent:project-enricher | 46 |
 | agent:project-enricher:approved | 34 |
-| agent:content-linker:approved | 19 |
 | agent:curator | 7 |
 | agent | 10 |
 | agent:curator:approved | 2 |
@@ -140,8 +140,8 @@ Field-level provenance tracking:
 - rehive
 - xbid-ai
 - velo
-- novatti
 - soropg
+- novatti
 - securrency
 - volta
 - kalien
