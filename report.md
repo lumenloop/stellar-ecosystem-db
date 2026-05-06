@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-05-05
+> Auto-generated on 2026-05-06
 
 ## Summary
 
@@ -77,9 +77,9 @@ Of **577** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 451 | 466 |
-| Active last week | 125 | 207 |
+| Active last week | 116 | 204 |
 | Active last month | 177 | 270 |
-| Active last 3 months | 236 | 311 |
+| Active last 3 months | 235 | 311 |
 | Active last year | 312 | 380 |
 
 ## Audit Data
@@ -121,13 +121,13 @@ Field-level provenance tracking:
 | airtable | 3357 |
 | crawler | 1101 |
 | admin | 38 |
-| agent:conflict-resolver | 27 |
+| schedule | 2 |
 | agent:conflicts:approved | 4 |
-| agent:curator:approved | 2 |
-| agent:project-enricher:approved | 34 |
+| agent:conflict-resolver | 27 |
 | agent:content-linker:approved | 20 |
 | agent | 10 |
-| schedule | 2 |
+| agent:curator:approved | 2 |
+| agent:project-enricher:approved | 34 |
 | agent:project-enricher | 46 |
 | agent:curator | 7 |
 | soroban_security | 67 |
@@ -138,10 +138,10 @@ Field-level provenance tracking:
 
 **description empty** (10):
 - merkl
-- rehive
-- xbid-ai
 - soropg
+- rehive
 - novatti
+- xbid-ai
 - velo
 - securrency
 - volta
@@ -150,11 +150,11 @@ Field-level provenance tracking:
 
 **SCF project missing website** (8):
 - relax
-- frost-implementation
 - paysapp
 - crypto-link
 - timed-transactions-api
 - the-starship-soroban
+- frost-implementation
 - sendit
 - wally
 
