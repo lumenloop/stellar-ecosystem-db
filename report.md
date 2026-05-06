@@ -18,13 +18,13 @@
 | description | 678/688 | 98.5% |
 | website | 680/688 | 98.8% |
 | blog | 247/688 | 35.9% |
-| x | 499/688 | 72.5% |
-| linkedin | 381/688 | 55.4% |
-| discord | 207/688 | 30.1% |
+| x | 500/688 | 72.7% |
+| linkedin | 382/688 | 55.5% |
+| discord | 208/688 | 30.2% |
 | telegram | 145/688 | 21.1% |
 | youtube | 163/688 | 23.7% |
 | instagram | 119/688 | 17.3% |
-| reddit | 15/688 | 2.2% |
+| reddit | 16/688 | 2.3% |
 | tiktok | 30/688 | 4.4% |
 | linktree | 5/688 | 0.7% |
 | github | 498/688 | 72.4% |
@@ -42,15 +42,15 @@ Per-project comparison of our **688** projects (incl. **111** community projects
 | description | +678 | 0 |
 | website | +680 | 0 |
 | github | +498 | 0 |
-| x | +499 | 0 |
-| linkedin | +381 | 0 |
-| discord | +207 | 0 |
+| x | +500 | 0 |
+| linkedin | +382 | 0 |
+| discord | +208 | 0 |
 | based_in | +584 | 0 |
 | blog | +247 | 0 |
 | telegram | +145 | 0 |
 | youtube | +163 | 0 |
 | instagram | +119 | 0 |
-| reddit | +15 | 0 |
+| reddit | +16 | 0 |
 | tiktok | +30 | 0 |
 | linktree | +5 | 0 |
 
@@ -76,11 +76,11 @@ Of **577** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 451 | 466 |
+| Tracked projects | 451 | 467 |
 | Active last week | 116 | 204 |
 | Active last month | 177 | 270 |
 | Active last 3 months | 235 | 311 |
-| Active last year | 312 | 380 |
+| Active last year | 312 | 381 |
 
 ## Audit Data
 
@@ -99,8 +99,8 @@ Of **577** SCF-funded projects:
 | OpenZeppelin | 2 |
 | CoinFabrik | 2 |
 | Cantina | 1 |
-| Сoinspect | 1 |
 | Code4rena | 1 |
+| Сoinspect | 1 |
 
 ## Data Sources
 
@@ -119,15 +119,15 @@ Field-level provenance tracking:
 | submissions | 564 |
 | website | 1591 |
 | airtable | 3357 |
-| crawler | 1100 |
-| agent:conflict-resolver | 29 |
+| crawler | 1104 |
 | admin | 38 |
+| agent:conflict-resolver | 29 |
+| agent | 10 |
+| agent:content-linker:approved | 20 |
 | schedule | 2 |
 | agent:conflicts:approved | 4 |
 | agent:curator:approved | 2 |
 | agent:project-enricher:approved | 34 |
-| agent:content-linker:approved | 20 |
-| agent | 10 |
 | agent:project-enricher | 46 |
 | agent:curator | 7 |
 | soroban_security | 67 |
@@ -137,24 +137,24 @@ Field-level provenance tracking:
 18 items need attention.
 
 **description empty** (10):
-- merkl
 - xbid-ai
+- merkl
 - soropg
 - rehive
 - novatti
 - velo
+- kalien
 - securrency
 - volta
-- kalien
 - sendit
 
 **SCF project missing website** (8):
 - relax
-- paysapp
-- crypto-link
 - timed-transactions-api
 - the-starship-soroban
 - frost-implementation
+- paysapp
+- crypto-link
 - sendit
 - wally
 

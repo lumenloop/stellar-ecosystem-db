@@ -7,13 +7,16 @@ links:
   website:
     - posted.app
   blog: []
-  x: []
+  x:
+    - tryposted
   linkedin: []
-  discord: []
+  discord:
+    - discord.gg/ane3ppsegu
   telegram: []
   youtube: []
   instagram: []
-  reddit: []
+  reddit:
+    - r/posted
   tiktok: []
   linktree: []
   github: []
