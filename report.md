@@ -77,7 +77,7 @@ Of **577** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 451 | 467 |
-| Active last week | 116 | 204 |
+| Active last week | 122 | 209 |
 | Active last month | 177 | 270 |
 | Active last 3 months | 235 | 311 |
 | Active last year | 312 | 381 |
@@ -124,29 +124,17 @@ Field-level provenance tracking:
 | agent:conflict-resolver | 29 |
 | agent | 10 |
 | agent:content-linker:approved | 20 |
-| schedule | 2 |
-| agent:conflicts:approved | 4 |
 | agent:curator:approved | 2 |
 | agent:project-enricher:approved | 34 |
-| agent:project-enricher | 46 |
+| schedule | 2 |
+| agent:conflicts:approved | 4 |
 | agent:curator | 7 |
+| agent:project-enricher | 46 |
 | soroban_security | 67 |
 
 ## Needs Review
 
 18 items need attention.
-
-**description empty** (10):
-- xbid-ai
-- merkl
-- soropg
-- rehive
-- novatti
-- velo
-- kalien
-- securrency
-- volta
-- sendit
 
 **SCF project missing website** (8):
 - relax
@@ -157,4 +145,16 @@ Field-level provenance tracking:
 - crypto-link
 - sendit
 - wally
+
+**description empty** (10):
+- xbid-ai
+- merkl
+- soropg
+- novatti
+- rehive
+- velo
+- kalien
+- securrency
+- volta
+- sendit
 
