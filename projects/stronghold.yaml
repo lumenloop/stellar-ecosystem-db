@@ -8,7 +8,8 @@ links:
   blog: []
   x:
     - strongholdpay
-  linkedin: []
+  linkedin:
+    - linkedin.com/company/strongholdpay
   discord: []
   telegram: []
   youtube: []
@@ -23,7 +24,8 @@ attributes:
     - payment-gateway
     - b2b
     - merchant
-  operating_region: []
+  operating_region:
+    - North America
   based_in: United States
 images: null
 mainnet:

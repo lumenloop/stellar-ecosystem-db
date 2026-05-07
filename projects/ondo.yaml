@@ -1,0 +1,30 @@
+title: Ondo
+other_names: null
+parent: null
+description: ''
+links:
+  website:
+    - ondo.finance
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: null
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+mainnet:
+  audits: []
+  tokens:
+    - code: USDY
+      issuer: GAJMPX5NBOG6TQFPQGRABJEEB2YE7RFRLUKJDZAZGAD5GFX4J7TADAZ6
+      decimals: 7
