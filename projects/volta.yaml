@@ -6,8 +6,10 @@ links:
   website:
     - voltacircuit.com
   blog: []
-  x: []
-  linkedin: []
+  x:
+    - voltacircuit
+  linkedin:
+    - linkedin.com/company/volta-wallet
   discord: []
   telegram: []
   youtube: []

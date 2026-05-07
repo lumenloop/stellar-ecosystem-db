@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-05-06
+> Auto-generated on 2026-05-07
 
 ## Summary
 
@@ -18,10 +18,10 @@
 | description | 678/688 | 98.5% |
 | website | 680/688 | 98.8% |
 | blog | 247/688 | 35.9% |
-| x | 500/688 | 72.7% |
-| linkedin | 382/688 | 55.5% |
+| x | 501/688 | 72.8% |
+| linkedin | 383/688 | 55.7% |
 | discord | 208/688 | 30.2% |
-| telegram | 145/688 | 21.1% |
+| telegram | 146/688 | 21.2% |
 | youtube | 163/688 | 23.7% |
 | instagram | 119/688 | 17.3% |
 | reddit | 16/688 | 2.3% |
@@ -42,12 +42,12 @@ Per-project comparison of our **688** projects (incl. **111** community projects
 | description | +678 | 0 |
 | website | +680 | 0 |
 | github | +498 | 0 |
-| x | +500 | 0 |
-| linkedin | +382 | 0 |
+| x | +501 | 0 |
+| linkedin | +383 | 0 |
 | discord | +208 | 0 |
 | based_in | +584 | 0 |
 | blog | +247 | 0 |
-| telegram | +145 | 0 |
+| telegram | +146 | 0 |
 | youtube | +163 | 0 |
 | instagram | +119 | 0 |
 | reddit | +16 | 0 |
@@ -76,11 +76,11 @@ Of **577** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 451 | 467 |
-| Active last week | 122 | 209 |
-| Active last month | 177 | 270 |
-| Active last 3 months | 235 | 311 |
-| Active last year | 312 | 381 |
+| Tracked projects | 451 | 468 |
+| Active last week | 117 | 213 |
+| Active last month | 176 | 272 |
+| Active last 3 months | 235 | 312 |
+| Active last year | 312 | 382 |
 
 ## Audit Data
 
@@ -91,8 +91,8 @@ Of **577** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 22 |
-| certora | 10 |
 | OtterSec | 10 |
+| certora | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
@@ -118,16 +118,16 @@ Field-level provenance tracking:
 |--------|------:|
 | submissions | 564 |
 | website | 1591 |
-| airtable | 3357 |
-| crawler | 1104 |
+| airtable | 3356 |
+| crawler | 1108 |
 | admin | 38 |
 | agent:conflict-resolver | 29 |
+| agent:conflicts:approved | 4 |
 | agent | 10 |
 | agent:content-linker:approved | 20 |
 | agent:curator:approved | 2 |
 | agent:project-enricher:approved | 34 |
 | schedule | 2 |
-| agent:conflicts:approved | 4 |
 | agent:curator | 7 |
 | agent:project-enricher | 46 |
 | soroban_security | 67 |
@@ -138,13 +138,13 @@ Field-level provenance tracking:
 
 **SCF project missing website** (8):
 - relax
+- paysapp
+- crypto-link
+- wally
 - timed-transactions-api
 - the-starship-soroban
 - frost-implementation
-- paysapp
-- crypto-link
 - sendit
-- wally
 
 **description empty** (10):
 - xbid-ai
