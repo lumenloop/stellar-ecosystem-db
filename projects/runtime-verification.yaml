@@ -5,7 +5,7 @@ parent: Runtime Verification
 description: Open-source tool for Soroban smart contract developers, enabling them to perform robust formal verification.
 links:
   website:
-    - kasmer.runtimeverification.com
+    - runtimeverification.com
   blog:
     - runtimeverification.medium.com
   x:

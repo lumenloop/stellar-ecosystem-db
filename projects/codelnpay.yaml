@@ -23,7 +23,7 @@ links:
   github:
     - github.com/codelnghana/codelnpay-project
 attributes:
-  category: Applications
+  category: End-User Application
   tags:
     - B2C
     - Payroll
@@ -37,10 +37,12 @@ scf:
   awarded_round:
     - 25
     - 33
-  awarded_total: 128023
+    - 42
+  awarded_total: 147223
   submission_urls:
     - communityfund.stellar.org/submissions/reco3cXFlyDt53B0u
     - communityfund.stellar.org/submissions/rec5hY727ovjmxujE
+    - communityfund.stellar.org/submissions/recizcXIHuujAo1nU
 mainnet:
   audits: []
   tokens: []

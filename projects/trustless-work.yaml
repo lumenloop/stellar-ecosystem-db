@@ -40,9 +40,11 @@ images:
 scf:
   awarded_round:
     - 31
-  awarded_total: 70000
+    - 41
+  awarded_total: 150000
   submission_urls:
     - communityfund.stellar.org/submissions/recNs5mLS2K2GFKVu
+    - communityfund.stellar.org/submissions/rectq5U666PxPloNn
 mainnet:
   audits:
     - name: Trustless Work Smart Escrow Platform

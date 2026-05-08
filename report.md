@@ -1,15 +1,15 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-05-07
+> Auto-generated on 2026-05-08
 
 ## Summary
 
 | Metric | Count |
 |--------|------:|
 | Total projects | **694** |
-| SCF-funded projects | 577 |
-| Community projects | 117 |
-| Audited projects | 48 |
+| SCF-funded projects | 578 |
+| Community projects | 116 |
+| Audited projects | 49 |
 
 ## Data Coverage
 
@@ -28,24 +28,24 @@
 | tiktok | 30/694 | 4.3% |
 | linktree | 5/694 | 0.7% |
 | github | 498/694 | 71.8% |
-| category | 602/694 | 86.7% |
+| category | 603/694 | 86.9% |
 | tags | 679/694 | 97.8% |
 | operating_region | 673/694 | 97% |
 | based_in | 584/694 | 84.1% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **694** projects (incl. **117** community projects not in SCF) against **580** in SCF Airtable:
+Per-project comparison of our **694** projects (incl. **116** community projects not in SCF) against **633** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +678 | 0 |
-| website | +686 | 0 |
-| github | +498 | 0 |
-| x | +501 | 0 |
-| linkedin | +384 | 0 |
-| discord | +208 | 0 |
-| based_in | +584 | 0 |
+| description | +138 | 540 |
+| website | +164 | 522 |
+| github | +126 | 372 |
+| x | +221 | 280 |
+| linkedin | +183 | 201 |
+| discord | +100 | 108 |
+| based_in | +116 | 468 |
 | blog | +247 | 0 |
 | telegram | +146 | 0 |
 | youtube | +163 | 0 |
@@ -58,15 +58,15 @@ Per-project comparison of our **694** projects (incl. **117** community projects
 
 ## SCF Project Coverage
 
-Of **577** SCF-funded projects:
+Of **578** SCF-funded projects:
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| awarded_total | 522/577 | 90.5% |
-| awarded_round | 553/577 | 95.8% |
-| submission_urls | 553/577 | 95.8% |
-| website | 569/577 | 98.6% |
-| github | 442/577 | 76.6% |
+| awarded_total | 523/578 | 90.5% |
+| awarded_round | 555/578 | 96% |
+| submission_urls | 555/578 | 96% |
+| website | 570/578 | 98.6% |
+| github | 442/578 | 76.5% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -76,28 +76,28 @@ Of **577** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 451 | 467 |
-| Active last week | 113 | 209 |
-| Active last month | 176 | 271 |
-| Active last 3 months | 236 | 311 |
-| Active last year | 312 | 381 |
+| Tracked projects | 452 | 465 |
+| Active last week | 112 | 204 |
+| Active last month | 176 | 269 |
+| Active last 3 months | 236 | 309 |
+| Active last year | 312 | 380 |
 
 ## Audit Data
 
-**48** projects audited with **67** reports.
+**49** projects audited with **68** reports.
 
 *Audit data provided by [Soroban Security](https://sorobansecurity.com).*
 
 | Auditor | Reports |
 |---------|---------:|
-| Veridise | 22 |
-| OtterSec | 10 |
+| Veridise | 23 |
 | certora | 10 |
+| OtterSec | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
-| OpenZeppelin | 2 |
 | CoinFabrik | 2 |
+| OpenZeppelin | 2 |
 | Cantina | 1 |
 | Code4rena | 1 |
 | Сoinspect | 1 |
@@ -116,21 +116,21 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| submissions | 564 |
+| submissions | 567 |
 | website | 1589 |
-| airtable | 3356 |
+| airtable | 3360 |
+| crawler | 1101 |
 | agent:content-linker:approved | 26 |
-| crawler | 1108 |
 | agent:project-enricher | 46 |
 | agent:project-enricher:approved | 36 |
-| admin | 43 |
+| admin | 47 |
 | agent:conflict-resolver | 29 |
 | agent:conflicts:approved | 4 |
 | agent | 10 |
+| agent:curator | 7 |
 | schedule | 2 |
 | agent:curator:approved | 2 |
-| agent:curator | 7 |
-| soroban_security | 67 |
+| soroban_security | 68 |
 
 ## Needs Review
 
@@ -143,24 +143,24 @@ Field-level provenance tracking:
 - figure
 - coinme
 - pyth
+- xbid-ai
+- velo
 - merkl
 - soropg
 - novatti
 - rehive
-- xbid-ai
 - kalien
-- velo
+- sendit
 - securrency
 - volta
-- sendit
 
 **SCF project missing website** (8):
-- relax
-- crypto-link
-- paysapp
 - wally
+- crypto-link
+- relax
 - timed-transactions-api
-- the-starship-soroban
 - frost-implementation
 - sendit
+- paysapp
+- the-starship-soroban
 

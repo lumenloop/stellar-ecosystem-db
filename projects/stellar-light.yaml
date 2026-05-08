@@ -31,12 +31,14 @@ images:
 scf:
   awarded_round:
     - 22
+    - SCF Public Goods - Q2 '26
     - SCF Public Goods - Q3 '25
     - SCF Public Goods - Q4 '25
     - SCF Public Goods - Q1 '26
   awarded_total: 13000
   submission_urls:
     - communityfund.stellar.org/submissions/recvrlsJ7CvVR5aLv
+    - communityfund.stellar.org/submissions/recp9S7xkzWbRGoNL
     - communityfund.stellar.org/submissions/recYUJpLxBlezcEun
     - communityfund.stellar.org/submissions/recVMcWETwt1S4y8s
     - communityfund.stellar.org/submissions/recfG12GDWbAsWRUA
