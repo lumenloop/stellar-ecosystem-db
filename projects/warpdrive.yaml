@@ -1,0 +1,39 @@
+title: WarpDrive
+other_names:
+  - Warp Drive
+parent: null
+description: WarpDrive is a high-security execution framework that brings verifiable off-chain automation to the Stellar ecosystem. It integrates the proven WAVS execution model — a WASM runtime backed by Eigenlayer AVS operator set — with Stellar and Soroban. WarpDrive allows external services, bots, and demanding workloads such as cross-chain orchestration, custom oracles, and GPU-level computation to run with the same trust guarantees as on-chain logic. Use cases include prediction markets powered by custom oracles, automated treasury and trading strategies, and EVM bridge connectivity.
+links:
+  website:
+    - warp-drive.xyz
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/warp-driver
+attributes:
+  category: Developer Tooling
+  tags:
+    - automation
+    - cross-chain
+    - oracle
+  operating_region:
+    - Global
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 41
+  awarded_total: 150000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recrR44zQfuU2hign
+mainnet:
+  audits: []
+  tokens: []

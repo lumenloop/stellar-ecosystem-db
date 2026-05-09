@@ -1,0 +1,38 @@
+title: Tender
+other_names:
+  - Stellar Payouts for Real-World Merchants
+parent: null
+description: Tender empowers modern businesses to accept crypto payments effortlessly without needing to become crypto experts. Whether a physical store, digital platform, or global marketplace, Tender abstracts blockchain complexity and delivers a seamless payment experience. The platform enables businesses to accept crypto without managing wallets or technical infrastructure, provides seamless settlement and compliant off-ramps into local currency, supports global payouts and mass disbursement, and unifies multi-chain payments into one simple dashboard and API.
+links:
+  website:
+    - tender.cash
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Payments
+  tags:
+    - payment-gateway
+    - merchant
+    - cross-border-payments
+  operating_region:
+    - Global
+  based_in: Nigeria
+images: null
+scf:
+  awarded_round:
+    - 42
+  awarded_total: 120000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recfM1KACX9MAIkfb
+mainnet:
+  audits: []
+  tokens: []

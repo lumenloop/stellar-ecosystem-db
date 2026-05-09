@@ -1,0 +1,40 @@
+title: MPCVault
+other_names:
+  - MPCVault Stellar Integration
+  - Crypto Banking Platform for Stellar
+parent: null
+description: MPCVault is an institutional-grade MPC (Multi-Party Computation) wallet platform integrating natively with the Stellar Network. It brings enterprise-level custody infrastructure to the Stellar ecosystem, enabling organizations to securely manage XLM and Stellar-issued assets with institutional controls including policy gating, transaction simulation, Soroban smart contract support, and real-time price feeds. The platform processes $10B in weekly volume and is trusted by 1,000+ institutional clients including crypto funds, OTC desks, and enterprises.
+links:
+  website:
+    - mpcvault.com
+  blog: []
+  x:
+    - mpcvault
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Wallet
+  tags:
+    - mpc
+    - institutional
+    - software-wallet
+  operating_region:
+    - Global
+  based_in: United States
+images: null
+scf:
+  awarded_round:
+    - 41
+  awarded_total: 150000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recqthdtpf2npbyzy
+mainnet:
+  audits: []
+  tokens: []

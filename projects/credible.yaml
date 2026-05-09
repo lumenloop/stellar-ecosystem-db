@@ -1,0 +1,33 @@
+title: Credible
+other_names:
+  - Credible Finance Stellar Integration
+parent: null
+description: Credible Finance is a payment orchestration platform that enables US businesses and fintechs to collect and remit fiat from emerging markets with T+0 settlement, powered by stablecoin-based payment financing. It supports real-time INR, PHP, NGN, and BRL collection and payout settlements.
+links:
+  website:
+    - credible.finance
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Payments
+  tags:
+    - cross-border-payments
+    - stablecoins
+    - b2b
+  operating_region:
+    - United States
+    - Emerging Markets
+  based_in: null
+images: null
+mainnet:
+  audits: []
+  tokens: []

@@ -1,5 +1,6 @@
 title: Joona Pay
-other_names: null
+other_names:
+  - JoonaPay
 parent: null
 description: JoonaPay is a digital payment processor empowering UEMOA-based West African merchants with dashboard and API solutions. It offers versatile payment options, including stablecoins like USDC, cards, mobile money, bank transfers, digital checks, and POS, facilitating seamless transactions across the region.
 links:
@@ -19,7 +20,7 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
+  category: End-User Application
   tags:
     - Payment Gateway
     - Africa
@@ -28,6 +29,12 @@ attributes:
     - Sub-Saharan Africa
   based_in: Côte d'Ivoire
 images: null
+scf:
+  awarded_round:
+    - 41
+  awarded_total: 90000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recwPNpZYSpmNEEMY
 mainnet:
   audits: []
   tokens: []

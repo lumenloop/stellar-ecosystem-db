@@ -1,0 +1,40 @@
+title: Digitpay Finance
+other_names:
+  - Stellar Rails for African Payments
+parent: null
+description: Digitpay simplifies how individuals and businesses send, spend, receive, and manage money across borders. Built on Stellar, it enables users to receive crypto instantly into dedicated wallet addresses and spend it in their preferred local currency (including Nigerian Naira), with automatic and transparent currency settlement on the backend. The platform also enables merchants to accept cryptocurrency payments while receiving funds in their chosen fiat currency. Digitpay offers web and mobile apps designed for everyday use, with a focus on security, speed, and transparency.
+links:
+  website:
+    - digitpay.finance
+  blog: []
+  x:
+    - digitpayfinance
+  linkedin:
+    - linkedin.com/company/digitpayfinance
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: End-User Application
+  tags:
+    - cross-border-payments
+    - on-off-ramp
+    - merchant
+  operating_region:
+    - Africa
+  based_in: Nigeria
+images: null
+scf:
+  awarded_round:
+    - 42
+  awarded_total: 80000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recJabIedyseyR3lT
+mainnet:
+  audits: []
+  tokens: []

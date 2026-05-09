@@ -1,0 +1,42 @@
+title: Conomy
+other_names:
+  - Conomy_Payment4Platforms
+parent: null
+description: Conomy offers payment solutions for Latin American companies. They have developed a payment gateway for Latin American entities covering cross-border transactions (via crypto on/off ramps) and local transactions using traditional payment rails, with plans to integrate additional on/off ramp providers in the US, UK, and Hong Kong to extend global coverage.
+links:
+  website:
+    - conomyhq.com
+  blog: []
+  x:
+    - conomyhq
+  linkedin:
+    - linkedin.com/company/conomy-hq
+  discord:
+    - discord.gg/u2hjwaru
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Payments
+  tags:
+    - payment-gateway
+    - cross-border-payments
+    - on-off-ramp
+  operating_region:
+    - Latin America & Caribbean
+    - North America (without Mexico)
+  based_in: Chile
+images: null
+scf:
+  awarded_round:
+    - 41
+  awarded_total: 103000
+  submission_urls:
+    - communityfund.stellar.org/submissions/rec3vyNehOjmYB0L2
+mainnet:
+  audits: []
+  tokens: []

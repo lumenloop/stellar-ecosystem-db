@@ -1,0 +1,38 @@
+title: Latch
+other_names:
+  - 'Latch: C-Address Onboarding'
+parent: null
+description: 'Latch provides open-source C-address onboarding infrastructure for Stellar, enabling users to create and fund Soroban Smart Accounts without ever touching a traditional G-address. Built on OpenZeppelin''s Smart Account standard, it delivers three components: Latch Bridge (a proxy contract and relay service that routes funds from direct sends, CEX withdrawals, and fiat on-ramps to the user''s C-address automatically), Latch Wallet (a production-grade C-address reference wallet at feature parity with Freighter, including token display, transaction history, signer management, and policy controls), and Latch SDK (TypeScript and Rust libraries for wallet developers to add C-address support instantly, with cross-ecosystem sign-in from MetaMask, Phantom, and Rabby via OpenZeppelin verifier contracts).'
+links:
+  website:
+    - v0-latch-stellar.vercel.app
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Developer Tooling
+  tags:
+    - sdk
+    - wallet-infra
+    - developer-tools
+  operating_region:
+    - Global
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 41
+  awarded_total: 120000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recUrEbIUnLVTIbra
+mainnet:
+  audits: []
+  tokens: []

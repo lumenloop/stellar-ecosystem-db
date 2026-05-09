@@ -1,0 +1,32 @@
+title: Helix
+other_names:
+  - 'Helix: Cross-Chain Liquidity Protocol'
+parent: null
+description: Native multi-chain staking infrastructure connecting institutional DeFi liquidity across sovereign L1 ecosystems. Helix Labs operates validators on Cardano, ICP, BNB, Aptos, Sui, Solana, and Ethereum, enabling liquid staking without bridge risk. Its Canton Network integration brings privacy-preserving institutional settlement to Stellar's RWA ecosystem. Products include Helix UniRollup, Helix Vault, and OmniVM AVS.
+links:
+  website:
+    - helixlabs.org
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Financial Protocols
+  tags:
+    - cross-chain
+    - liquidity
+    - lst
+  operating_region:
+    - Global
+  based_in: null
+images: null
+mainnet:
+  audits: []
+  tokens: []

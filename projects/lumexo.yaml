@@ -1,0 +1,40 @@
+title: Lumexo
+other_names:
+  - Lumexo Android & iOS App
+parent: null
+description: Lumexo is a non-custodial financial interface built on the Stellar network that unifies decentralized finance tools into a single, accessible system while preserving full self-custody and direct on-chain interaction. The current implementation includes a browser-based Stellar wallet with native SDEX trading, asset management, liquidity pools, lending via Soroban smart contracts (Blend), and fiat on-ramp integration through Transak. Users can trade, manage liquidity, access lending, and perform payments in one coherent interface, reducing ecosystem fragmentation and lowering the barrier to entry. The next phase includes native iOS and Android apps and expanded Soroban integrations to support additional protocols.
+links:
+  website:
+    - lumexo.io
+  blog: []
+  x:
+    - lumexodapp
+  linkedin: []
+  discord:
+    - discord.gg/lumexodapp
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: End-User Application
+  tags:
+    - software-wallet
+    - defi
+    - lending-borrowing
+  operating_region:
+    - Global
+  based_in: Romania
+images: null
+scf:
+  awarded_round:
+    - 42
+  awarded_total: 140000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recEHSCEKUrvHarUu
+mainnet:
+  audits: []
+  tokens: []

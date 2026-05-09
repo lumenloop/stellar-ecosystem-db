@@ -1,6 +1,7 @@
 title: Utoken
 other_names:
   - Upesa (formerly utoken)
+  - Liquid by Upesa
 parent: null
 description: Utoken is a mobile app that enables users to pay for services like airtime, utilities, and subscriptions using stablecoins across multiple blockchain networks with instant settlement and no off-ramping fees.
 links:
@@ -46,10 +47,12 @@ scf:
   awarded_round:
     - 28
     - 35
-  awarded_total: 59979
+    - 42
+  awarded_total: 145979
   submission_urls:
     - communityfund.stellar.org/submissions/rechwhwWyyUgGgDlC
     - communityfund.stellar.org/submissions/rec4AtmuZ3tC2S6WP
+    - communityfund.stellar.org/submissions/recjh7svJ58hpDwNV
 mainnet:
   audits: []
   tokens: []

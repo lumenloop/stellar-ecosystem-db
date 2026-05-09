@@ -1,0 +1,38 @@
+title: Nectar Network
+other_names:
+  - DeFi Liquidation Protocol for Soroban
+parent: null
+description: Nectar Network is a generalized automation and liquidation layer for Soroban DeFi. Any protocol can register time-sensitive on-chain tasks — liquidations, auto-compounding, oracle updates, rebalancing — executed reliably by keepers competing for rewards. Supports Blend liquidations, FxDAO CDPs, DeFindex rebalancing, and oracle refreshes. Open-sourced as public-good infrastructure for the entire Stellar ecosystem.
+links:
+  website:
+    - nectarnetwork.fun
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Financial Protocols
+  tags:
+    - defi
+    - automation
+    - liquidity
+  operating_region:
+    - Global
+  based_in: India
+images: null
+scf:
+  awarded_round:
+    - 42
+  awarded_total: 75000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recwkEB0Fv7b0cGv2
+mainnet:
+  audits: []
+  tokens: []

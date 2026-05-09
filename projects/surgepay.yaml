@@ -1,0 +1,42 @@
+title: SurgePay
+other_names:
+  - surgepay
+  - Surge Pay
+parent: null
+description: SurgePay is a comprehensive fintech platform enabling seamless cross-border payments and financial services for users across Africa. Built on the Stellar blockchain, it provides instant, low-cost international transfers, multi-currency digital wallets, virtual dollar cards, and tag-based payments. The platform bridges traditional banking infrastructure and blockchain technology, supporting USDC stablecoin transfers, tiered KYC verification, and multiple fiat on/off ramps — making global money movement accessible, affordable, and instant for everyday users.
+links:
+  website:
+    - surgepay.tech
+  blog: []
+  x:
+    - surgepay_io
+  linkedin:
+    - linkedin.com/company/surgepay-technology-ltd
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: End-User Application
+  tags:
+    - cross-border-payments
+    - remittances
+    - stablecoins
+  operating_region:
+    - Africa
+    - North America (without Mexico)
+  based_in: United States
+images: null
+scf:
+  awarded_round:
+    - 41
+  awarded_total: 115000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recIyCITPca3Hacl2
+mainnet:
+  audits: []
+  tokens: []

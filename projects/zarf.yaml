@@ -1,0 +1,39 @@
+title: Zarf
+other_names:
+  - Zarf Protocol
+  - Zarf Protocol (zarf.to)
+  - Zarf - Private Token Distribution Engine
+parent: null
+description: Zarf is a non-custodial, privacy-preserving token distribution protocol on Stellar. It enables users to send payments and create vesting schedules to an email address instead of a wallet address, using Zero-Knowledge proofs for private, verifiable claims. Use cases include token distributions, payroll, and vesting on Soroban.
+links:
+  website:
+    - zarf.to
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Financial Protocols
+  tags:
+    - zk
+    - payments
+    - airdrop
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 42
+  awarded_total: 40000
+  submission_urls:
+    - communityfund.stellar.org/submissions/rec81hKwglu2sUT1N
+mainnet:
+  audits: []
+  tokens: []

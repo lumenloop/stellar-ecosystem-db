@@ -1,0 +1,40 @@
+title: Hatom Protocol
+other_names:
+  - Stellar Capital Efficiency Layer
+parent: null
+description: Hatom is a DeFi liquidity hub that turns idle capital into productive, composable liquidity. The protocol enables users to supply assets, borrow safely, and deploy capital through an over-collateralized lending system with transparent, on-chain risk parameters. Its liquid staking module allows staked assets to remain usable in DeFi while continuing to earn staking rewards. Hatom also expands liquidity beyond a single ecosystem, connecting MultiversX with Stellar through its Capital Efficiency Layer — and with Bittensor, bringing TAO holders into DeFi through native integrations. The stack is completed by USH, Hatom's decentralized stablecoin, designed to improve capital efficiency and strengthen on-chain liquidity.
+links:
+  website:
+    - hatom.com
+  blog: []
+  x:
+    - hatomprotocol
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/hatomprotocol
+attributes:
+  category: DeFi
+  tags:
+    - lending-borrowing
+    - liquidity
+    - lst
+  operating_region:
+    - Global
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 41
+  awarded_total: 135000
+  submission_urls:
+    - communityfund.stellar.org/submissions/rec4gKisx5fu7t8nO
+mainnet:
+  audits: []
+  tokens: []

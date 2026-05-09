@@ -1,0 +1,40 @@
+title: Simbolik
+other_names:
+  - Advanced Debugging for Soroban Contracts
+  - Intuitive WASM Debugger for Soroban
+parent: null
+description: Simbolik is an advanced debugger for Soroban smart contracts that lets developers step through execution at the WASM level, inspect VM state, observe host function interactions, and track storage and authorization. Built on Komet and WASM semantics, it implements a Debug Adapter Protocol (DAP) server with integrations for VS Code and Cursor, providing precise low-level visibility into Soroban runtime behavior that traditional simulation and logging cannot offer.
+links:
+  website:
+    - simbolik.dev
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/runtimeverification/simbolik-vscode
+attributes:
+  category: Developer Tooling
+  tags:
+    - developer-tools
+    - visual-studio-code
+    - security
+  operating_region:
+    - Global
+  based_in: United States
+images: null
+scf:
+  awarded_round:
+    - 41
+  awarded_total: 150000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recDYQJ63TqlNBacf
+mainnet:
+  audits: []
+  tokens: []

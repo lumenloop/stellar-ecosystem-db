@@ -1,6 +1,7 @@
 title: The Aha Company
 other_names:
   - Aha
+  - Smart Account Onboarding
 parent: null
 description: Blockchain development firm specializing in smart contract tooling and developer experience for the Stellar network.
 links:
@@ -32,6 +33,12 @@ images:
   avatar: https://media.lumenloop.com/projects/aha-labs/github_avatar.png
   logo: https://media.lumenloop.com/projects/aha-labs/logo.png
   og_image: https://media.lumenloop.com/projects/aha-labs/og.png
+scf:
+  awarded_round:
+    - 41
+  awarded_total: 150000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recoFPcf15Bm06ynq
 mainnet:
   audits: []
   tokens: []

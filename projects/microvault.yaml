@@ -1,0 +1,44 @@
+title: Microvault
+other_names:
+  - Microvault by Shamba Records
+  - Microvault — Microlending on Stellar
+  - Shamba Records
+parent: null
+description: Microvault is an on-chain microlending engine built on Stellar's Soroban smart contract platform, leveraging the ERC-4626 Vault Standard to deliver affordable credit to smallholder farmers. It provides direct access to credit for an existing 50,000-farmer base and enables financial institutions, cooperatives, and lending entities to deploy their own instances of the lending engine — expanding last-mile agricultural financing through low-cost, transparent on-chain transactions.
+links:
+  website:
+    - microvault.shambarecords.com
+  blog: []
+  x:
+    - recordsshamba
+  linkedin:
+    - linkedin.com/company/shamba-records
+  discord:
+    - discord.gg/crmpmc2mjw
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/shamba-records-limited/microvault
+attributes:
+  category: DeFi
+  tags:
+    - lending-borrowing
+    - defi
+    - unbanked
+  operating_region:
+    - Sub-Saharan Africa
+  based_in: Kenya
+images: null
+scf:
+  awarded_round:
+    - 42
+  awarded_total: 80000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recvNshb1L59hprMV
+mainnet:
+  audits: []
+  tokens: []

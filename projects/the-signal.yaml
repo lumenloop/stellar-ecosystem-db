@@ -1,0 +1,44 @@
+title: The Signal
+other_names:
+  - B2B Marketplace Payments on Stellar
+parent: null
+description: |-
+  The Signal is an open-source protocol that transforms Web3 business development into a permissionless, on-chain marketplace.
+
+  Today, service discovery and deal execution in Web3 are opaque and fragmented. Founders face trust and payment risks, service providers struggle to scale distribution, and business developers operate in informal networks with no enforceable compensation.
+
+  The Signal solves this coordination gap through verified discovery (ranking providers by execution performance), ServiceFi escrow (releasing funds only upon verified milestone completion), and permissionless distribution (enabling on-chain commission bounties with code-enforced revenue splits).
+
+  The result is transparent, trust-minimized hiring and scalable growth for Web3 services, without centralized intermediaries.
+links:
+  website:
+    - thesignal.directory
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: End-User Application
+  tags:
+    - marketplace
+    - b2b
+    - payments
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 42
+  awarded_total: 121001
+  submission_urls:
+    - communityfund.stellar.org/submissions/rectX3fTREh9Zt2zX
+mainnet:
+  audits: []
+  tokens: []
