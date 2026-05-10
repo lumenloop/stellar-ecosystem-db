@@ -1,0 +1,43 @@
+title: Vaquita
+other_names:
+  - 'Vaquita: Gamified Savings'
+  - 'Vaquita: First gamify Save2Earn DeFi platform'
+  - 'Vaquita: Gamified savings'
+parent: null
+description: Vaquita rewards committed savers with yield redistributed from early withdrawers — turning savings discipline into a competitive, gamified DeFi experience for LATAM users.
+links:
+  website:
+    - vaquita.fi
+  blog: []
+  x:
+    - vaquitaprotocol
+  linkedin:
+    - linkedin.com/company/vaquitaprotocol
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/vaquita-fi
+attributes:
+  category: Financial Protocols
+  tags:
+    - savings
+    - defi
+    - gaming
+  operating_region:
+    - Latin America & Caribbean
+  based_in: Bolivia
+images: null
+scf:
+  awarded_round:
+    - 42
+  awarded_total: 64900
+  submission_urls:
+    - communityfund.stellar.org/submissions/recf0kKLHyFBwSHmL
+mainnet:
+  audits: []
+  tokens: []

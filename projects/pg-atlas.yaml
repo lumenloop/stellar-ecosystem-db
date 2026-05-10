@@ -1,0 +1,42 @@
+title: PG Atlas
+other_names:
+  - 'Building the Backbone: SCF Public Goods'
+parent: null
+description: |-
+  PG Atlas is the objective, transparent metrics backbone for the SCF Public Goods Maintenance program. Its primary role is to shift public goods funding decisions from noisy, subjective signals to verifiable, data-driven insights by quantifying adoption, criticality, reliability, security/quality, and decentralization (risk) across open-source tools, libraries, explorers, RPC infrastructure, SDKs, and other foundational components in the Stellar/Soroban ecosystem.
+
+  By providing a live dependency graph, transitive impact scoring, pony factor analysis, and an active subgraph projection, PG Atlas directly powers the Metric Gate in the proposed funding decision stack and supplies off-chain context for NQG-weighted voting in the community-led Public Goods decentralization pilot.
+links:
+  website:
+    - scf-public-goods-maintenance.github.io/pg-atlas
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/scf-public-goods-maintenance
+attributes:
+  category: End-User Application
+  tags:
+    - analytics
+    - governance
+    - funding-allocation
+  operating_region:
+    - Global
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 41
+  awarded_total: 150000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recC2cGO6rZSYudtq
+mainnet:
+  audits: []
+  tokens: []
