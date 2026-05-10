@@ -76,11 +76,11 @@ Of **609** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 460 | 476 |
-| Active last week | 135 | 203 |
-| Active last month | 186 | 276 |
-| Active last 3 months | 247 | 318 |
-| Active last year | 319 | 389 |
+| Tracked projects | 460 | 477 |
+| Active last week | 143 | 202 |
+| Active last month | 184 | 277 |
+| Active last 3 months | 247 | 319 |
+| Active last year | 319 | 390 |
 
 ## Audit Data
 
@@ -116,11 +116,11 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| submissions | 599 |
-| agent:airtable-sync:approved | 267 |
 | website | 1569 |
+| submissions | 599 |
 | crawler | 1109 |
 | airtable | 3356 |
+| agent:airtable-sync:approved | 267 |
 | agent:conflicts:approved | 4 |
 | agent:conflict-resolver | 29 |
 | admin | 46 |
@@ -129,8 +129,8 @@ Field-level provenance tracking:
 | agent:project-enricher:approved | 36 |
 | schedule | 2 |
 | admin:scf_41_attribution | 1 |
-| agent:project-enricher | 46 |
 | agent:curator | 7 |
+| agent:project-enricher | 46 |
 | agent | 10 |
 | agent:curator:approved | 2 |
 | soroban_security | 68 |
@@ -141,9 +141,9 @@ Field-level provenance tracking:
 
 **SCF project missing website** (8):
 - wally
+- frost-implementation
 - relax
 - timed-transactions-api
-- frost-implementation
 - crypto-link
 - sendit
 - paysapp
@@ -152,19 +152,19 @@ Field-level provenance tracking:
 **description empty** (17):
 - figure
 - mesh
-- volta
 - coinme
+- kalien
+- volta
 - akuna
 - privy
 - ondo
 - merkl
 - pyth
-- kalien
+- velo
 - xbid-ai
 - novatti
 - rehive
-- velo
 - sendit
-- soropg
 - securrency
+- soropg
 
