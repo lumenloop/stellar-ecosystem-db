@@ -3,7 +3,7 @@ other_names:
   - AutoFi
   - 'AutoFi: No-Code DeFi Automation'
 parent: null
-description: ''
+description: Automated Finance is a live Web3 automation platform enabling DAOs, startups, businesses and individuals to manage on‑chain treasury operations automatically. Already active with early users on Celo, Polygon, and Base, it executes real financial workflows such as swaps, yield allocations, and payouts — delivering efficiency and transparency to decentralized finance. The platform's vision is to become the Zapier of Web3, providing low‑code modules for automating transactions and treasury logic across chains. By integrating Stellar USDC and anchors, Automated Finance will enable ultra‑low‑cost recurring payments and cross‑border automations for LATAM builders and organizations.
 links:
   website:
     - automated.finance
