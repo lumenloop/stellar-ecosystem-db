@@ -116,13 +116,13 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| submissions | 601 |
-| airtable | 3823 |
 | website | 1563 |
+| submissions | 601 |
+| airtable | 3822 |
 | crawler | 782 |
 | agent:airtable-sync:approved | 154 |
 | agent:conflicts:approved | 4 |
-| agent:conflict-resolver | 33 |
+| agent:conflict-resolver | 34 |
 | admin | 46 |
 | schedule | 2 |
 | agent:content-linker:approved | 27 |
@@ -162,8 +162,8 @@ Field-level provenance tracking:
 - novatti
 - rehive
 - pyth
+- ondo
 - soropg
 - volta
-- ondo
 - xbid-ai
 
