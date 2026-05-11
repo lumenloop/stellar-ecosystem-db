@@ -99,8 +99,8 @@ Of **610** SCF-funded projects:
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
 | Code4rena | 1 |
-| Сoinspect | 1 |
 | Cantina | 1 |
+| Сoinspect | 1 |
 
 ## Data Sources
 
@@ -117,21 +117,21 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 601 |
-| airtable | 3815 |
-| agent:conflict-resolver | 42 |
+| airtable | 3810 |
+| agent:conflict-resolver | 43 |
 | agent:airtable-sync:approved | 154 |
 | website | 1562 |
-| crawler | 782 |
+| crawler | 786 |
 | agent:content-linker:approved | 27 |
-| admin | 46 |
 | agent:conflicts:approved | 4 |
+| agent:curator | 7 |
+| agent:project-enricher | 46 |
+| agent:project-enricher:approved | 36 |
+| admin | 46 |
+| agent:curator:approved | 2 |
 | admin:scf_41_attribution | 1 |
 | agent | 10 |
-| agent:curator:approved | 2 |
-| agent:project-enricher:approved | 36 |
 | schedule | 2 |
-| agent:project-enricher | 46 |
-| agent:curator | 7 |
 | soroban_security | 68 |
 
 ## Needs Review
@@ -140,30 +140,30 @@ Field-level provenance tracking:
 
 **description empty** (17):
 - figure
+- kalien
 - mesh
+- velo
 - privy
+- securrency
+- soropg
 - rehive
 - coinme
-- kalien
-- velo
 - akuna
-- securrency
+- sendit
+- novatti
 - pyth
 - merkl
 - volta
-- soropg
 - ondo
-- sendit
-- novatti
 - xbid-ai
 
 **SCF project missing website** (8):
 - the-starship-soroban
-- crypto-link
-- wally
 - paysapp
+- crypto-link
 - timed-transactions-api
 - relax
+- wally
 - sendit
 - frost-implementation
 
