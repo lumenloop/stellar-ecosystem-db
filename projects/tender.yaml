@@ -18,7 +18,7 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
+  category: Payments
   tags:
     - payment-gateway
     - merchant
