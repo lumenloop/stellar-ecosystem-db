@@ -6,9 +6,10 @@ other_names:
   - 'RFP: Soroban (WASM) Specialized Reverse Engineering Tool'
   - Soroban Reverse Engineering Tool
 parent: null
-description: ''
+description: Allows writing Soroban contracts with Solidity, by integrating Soroban as a compilation target for Solang.
 links:
-  website: []
+  website:
+    - github.com/hyperledger/solang
   blog: []
   x: []
   linkedin: []
