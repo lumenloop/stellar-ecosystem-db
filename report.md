@@ -76,11 +76,11 @@ Of **610** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 461 | 477 |
-| Active last week | 143 | 204 |
-| Active last month | 184 | 277 |
-| Active last 3 months | 248 | 319 |
-| Active last year | 320 | 390 |
+| Tracked projects | 462 | 476 |
+| Active last week | 144 | 203 |
+| Active last month | 185 | 276 |
+| Active last 3 months | 249 | 318 |
+| Active last year | 321 | 389 |
 
 ## Audit Data
 
@@ -117,16 +117,16 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 601 |
-| crawler | 999 |
-| website | 1562 |
-| airtable | 3593 |
-| agent:airtable-sync:approved | 154 |
+| crawler | 1108 |
 | agent:conflict-resolver | 47 |
+| agent:airtable-sync:approved | 154 |
+| airtable | 3484 |
+| website | 1562 |
 | agent:content-linker:approved | 27 |
 | agent:curator:approved | 2 |
 | agent:project-enricher:approved | 36 |
-| schedule | 2 |
 | admin | 46 |
+| schedule | 2 |
 | agent:conflicts:approved | 4 |
 | agent:curator | 7 |
 | agent:project-enricher | 46 |
@@ -139,29 +139,29 @@ Field-level provenance tracking:
 25 items need attention.
 
 **description empty** (17):
-- figure
 - mesh
+- figure
 - securrency
-- kalien
 - soropg
-- privy
+- kalien
 - coinme
 - pyth
+- privy
 - merkl
 - velo
 - sendit
 - novatti
 - akuna
 - rehive
-- volta
 - ondo
+- volta
 - xbid-ai
 
 **SCF project missing website** (8):
 - timed-transactions-api
+- paysapp
 - relax
 - the-starship-soroban
-- paysapp
 - sendit
 - crypto-link
 - wally
