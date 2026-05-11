@@ -91,8 +91,8 @@ Of **610** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 23 |
-| OtterSec | 10 |
 | certora | 10 |
+| OtterSec | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
@@ -116,22 +116,22 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| website | 1562 |
 | submissions | 601 |
-| airtable | 3820 |
+| airtable | 3819 |
+| website | 1562 |
 | crawler | 782 |
 | agent:airtable-sync:approved | 154 |
 | admin | 46 |
 | agent:conflicts:approved | 4 |
-| agent:conflict-resolver | 37 |
+| agent:conflict-resolver | 38 |
 | schedule | 2 |
+| agent:project-enricher | 46 |
 | agent:content-linker:approved | 27 |
+| agent:curator | 7 |
+| agent:project-enricher:approved | 36 |
 | agent | 10 |
 | admin:scf_41_attribution | 1 |
-| agent:project-enricher | 46 |
 | agent:curator:approved | 2 |
-| agent:project-enricher:approved | 36 |
-| agent:curator | 7 |
 | soroban_security | 68 |
 
 ## Needs Review
@@ -140,30 +140,30 @@ Field-level provenance tracking:
 
 **SCF project missing website** (8):
 - wally
+- paysapp
 - timed-transactions-api
 - relax
-- crypto-link
-- paysapp
 - the-starship-soroban
+- crypto-link
 - sendit
 - frost-implementation
 
 **description empty** (17):
+- kalien
+- velo
 - securrency
 - figure
+- rehive
 - privy
 - coinme
 - mesh
+- soropg
+- pyth
 - merkl
 - akuna
-- kalien
-- velo
-- rehive
-- soropg
 - sendit
-- novatti
-- pyth
-- ondo
 - volta
+- novatti
+- ondo
 - xbid-ai
 

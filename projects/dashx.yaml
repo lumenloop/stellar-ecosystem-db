@@ -3,7 +3,11 @@ other_names:
   - Cross-border Export Payments Infra
   - DashX Payments
 parent: null
-description: ''
+description: |-
+  DashX is a technology platform that helps exporters and global contractors receive and manage crossborder payments smoothly. We provide APIs and workflow tools that connect businesses with licensed financial partners to move money across countries in a fast, structured, and compliant way.
+
+   
+  Our goal is to simplify export payments, reduce delays, and improve visibility for growing global businesses.
 links:
   website:
     - dashx.xyz
