@@ -91,16 +91,16 @@ Of **610** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 23 |
-| certora | 10 |
 | OtterSec | 10 |
+| certora | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
+| Cantina | 1 |
 | Code4rena | 1 |
 | Сoinspect | 1 |
-| Cantina | 1 |
 
 ## Data Sources
 
@@ -116,21 +116,21 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| website | 1562 |
-| submissions | 601 |
 | crawler | 1108 |
-| airtable | 3479 |
+| submissions | 601 |
+| website | 1562 |
+| airtable | 3478 |
+| agent:conflict-resolver | 53 |
 | agent:airtable-sync:approved | 154 |
+| admin | 46 |
 | agent:content-linker:approved | 27 |
-| agent:conflict-resolver | 52 |
+| agent:conflicts:approved | 4 |
 | agent:curator:approved | 2 |
 | agent:project-enricher:approved | 36 |
 | agent:project-enricher | 46 |
-| admin | 46 |
-| schedule | 2 |
-| agent:conflicts:approved | 4 |
-| agent:curator | 7 |
 | agent | 10 |
+| schedule | 2 |
+| agent:curator | 7 |
 | admin:scf_41_attribution | 1 |
 | soroban_security | 68 |
 
@@ -139,31 +139,31 @@ Field-level provenance tracking:
 25 items need attention.
 
 **description empty** (17):
+- xbid-ai
 - mesh
+- novatti
 - figure
 - securrency
 - kalien
 - privy
+- sendit
 - velo
 - coinme
 - pyth
+- rehive
 - merkl
 - akuna
 - ondo
 - volta
 - soropg
-- xbid-ai
-- novatti
-- sendit
-- rehive
 
 **SCF project missing website** (8):
+- sendit
+- crypto-link
 - relax
 - the-starship-soroban
+- frost-implementation
 - timed-transactions-api
 - paysapp
 - wally
-- sendit
-- crypto-link
-- frost-implementation
 
