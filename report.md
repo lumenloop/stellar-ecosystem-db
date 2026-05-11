@@ -117,11 +117,11 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 601 |
-| airtable | 3817 |
+| airtable | 3815 |
+| agent:conflict-resolver | 42 |
+| agent:airtable-sync:approved | 154 |
 | website | 1562 |
 | crawler | 782 |
-| agent:airtable-sync:approved | 154 |
-| agent:conflict-resolver | 40 |
 | agent:content-linker:approved | 27 |
 | admin | 46 |
 | agent:conflicts:approved | 4 |
@@ -142,19 +142,19 @@ Field-level provenance tracking:
 - figure
 - mesh
 - privy
+- rehive
 - coinme
 - kalien
 - velo
 - akuna
 - securrency
-- rehive
+- pyth
 - merkl
 - volta
 - soropg
-- pyth
+- ondo
 - sendit
 - novatti
-- ondo
 - xbid-ai
 
 **SCF project missing website** (8):
