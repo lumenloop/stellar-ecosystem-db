@@ -98,9 +98,9 @@ Of **610** SCF-funded projects:
 | Halborn | 4 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Cantina | 1 |
 | Code4rena | 1 |
 | Сoinspect | 1 |
+| Cantina | 1 |
 
 ## Data Sources
 
@@ -116,14 +116,14 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| website | 1563 |
 | submissions | 601 |
-| airtable | 3822 |
+| airtable | 3821 |
+| website | 1563 |
 | crawler | 782 |
 | agent:airtable-sync:approved | 154 |
-| agent:conflicts:approved | 4 |
-| agent:conflict-resolver | 34 |
 | admin | 46 |
+| agent:conflicts:approved | 4 |
+| agent:conflict-resolver | 35 |
 | schedule | 2 |
 | agent:content-linker:approved | 27 |
 | agent | 10 |
@@ -140,30 +140,30 @@ Field-level provenance tracking:
 
 **SCF project missing website** (8):
 - wally
-- relax
-- the-starship-soroban
 - timed-transactions-api
+- relax
 - crypto-link
-- sendit
 - paysapp
+- the-starship-soroban
+- sendit
 - frost-implementation
 
 **description empty** (17):
 - figure
 - mesh
-- merkl
-- coinme
-- kalien
-- sendit
 - securrency
+- merkl
 - akuna
 - privy
+- coinme
+- kalien
 - velo
-- novatti
 - rehive
+- soropg
+- sendit
+- novatti
 - pyth
 - ondo
-- soropg
 - volta
 - xbid-ai
 
