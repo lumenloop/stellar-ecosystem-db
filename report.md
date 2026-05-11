@@ -141,17 +141,17 @@ Field-level provenance tracking:
 **description empty** (17):
 - mesh
 - rehive
-- figure
 - coinme
-- sendit
+- figure
 - velo
-- pyth
-- securrency
 - novatti
+- sendit
+- pyth
+- xbid-ai
+- securrency
+- kalien
 - akuna
 - merkl
-- xbid-ai
-- kalien
 - privy
 - ondo
 - volta
