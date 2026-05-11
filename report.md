@@ -116,12 +116,12 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| website | 1562 |
-| crawler | 1108 |
 | submissions | 601 |
-| agent:conflict-resolver | 48 |
+| crawler | 1108 |
+| airtable | 3482 |
+| website | 1562 |
+| agent:conflict-resolver | 49 |
 | agent:airtable-sync:approved | 154 |
-| airtable | 3483 |
 | agent:content-linker:approved | 27 |
 | agent:curator:approved | 2 |
 | agent:project-enricher:approved | 36 |
@@ -141,17 +141,17 @@ Field-level provenance tracking:
 **description empty** (17):
 - mesh
 - figure
-- privy
 - securrency
+- privy
 - soropg
 - kalien
 - velo
-- novatti
 - coinme
 - pyth
+- novatti
 - merkl
-- sendit
 - akuna
+- sendit
 - rehive
 - ondo
 - volta
