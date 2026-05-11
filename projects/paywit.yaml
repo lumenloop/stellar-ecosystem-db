@@ -3,7 +3,7 @@ other_names:
   - Paywit – Wallet-Agnostic Stablecoin Payments on Stellar
   - Stellar Merchant Payments, Any Wallet
 parent: null
-description: Paywit is a wallet-agnostic payment layer enabling merchants to accept stablecoin payments on Stellar without integrating individual wallets or managing blockchain complexity. It provides hosted checkout and drop-in SDKs that abstract wallet complexity — merchants integrate once, users pay from any Stellar wallet via SEP-7, and funds settle directly to merchant wallets (fully non-custodial). Paywit verifies payments via Horizon and notifies merchants instantly.
+description: ''
 links:
   website:
     - paywit.xyz
@@ -19,7 +19,7 @@ links:
   linktree: []
   github: []
 attributes:
-  category: Payments
+  category: null
   tags:
     - payment-gateway
     - stablecoins

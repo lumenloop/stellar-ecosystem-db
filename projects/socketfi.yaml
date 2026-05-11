@@ -2,7 +2,7 @@ title: SocketFi
 other_names:
   - 'SocketFi: Soroban Smart Wallet Mobile App'
 parent: null
-description: SocketFi is a smart wallet and one-stop dApp built on the Stellar Lumen ecosystem and Soroban Blockchain. Designed to seamlessly connect millions of social media users to Web3, it provides access to hundreds of dApps and Web3 tools—all in one place.
+description: ''
 links:
   website:
     - socket.fi
@@ -21,7 +21,7 @@ links:
   github:
     - github.com/socket-fi
 attributes:
-  category: Applications
+  category: End-User Application
   tags:
     - Mobile
     - Web

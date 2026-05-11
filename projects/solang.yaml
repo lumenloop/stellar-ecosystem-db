@@ -6,10 +6,9 @@ other_names:
   - 'RFP: Soroban (WASM) Specialized Reverse Engineering Tool'
   - Soroban Reverse Engineering Tool
 parent: null
-description: Allows writing Soroban contracts with Solidity, by integrating Soroban as a compilation target for Solang.
+description: ''
 links:
-  website:
-    - github.com/hyperledger/solang
+  website: []
   blog: []
   x: []
   linkedin: []
@@ -20,8 +19,7 @@ links:
   reddit: []
   tiktok: []
   linktree: []
-  github:
-    - github.com/hyperledger/solang
+  github: []
 attributes:
   category: Developer Tooling
   tags:
@@ -30,22 +28,14 @@ attributes:
     - Multi-Chain
   operating_region:
     - Global
-  based_in: null
+  based_in: Egypt
 images: null
 scf:
   awarded_round:
-    - 20
-    - 23
-    - 33
     - 41
-    - SCF Public Goods - Q2 '26
-  awarded_total: 162000
+  awarded_total: 120000
   submission_urls:
-    - communityfund.stellar.org/submissions/recWWbmWDvFunh3xR
-    - communityfund.stellar.org/submissions/recKGeG7HDjxMYAaM
-    - communityfund.stellar.org/submissions/rec51IC0ycDCBWjDz
     - communityfund.stellar.org/submissions/recZfT9q0kYI6zjkE
-    - communityfund.stellar.org/submissions/recWFHiIn1FsHGJdB
 mainnet:
   audits: []
   tokens: []

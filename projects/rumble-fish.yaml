@@ -2,7 +2,7 @@ title: Rumble Fish
 other_names:
   - Rumble Fish Software Development
 parent: null
-description: A software development house specialising in blockchain, DeFi, and AWS cloud. Active in the Stellar and Soroban ecosystem, Rumble Fish built a Soroban-first block explorer and a Prices API for the network, and is also the creator of the Deva Wallet.
+description: ''
 links:
   website:
     - rumblefish.dev
@@ -20,7 +20,7 @@ links:
   github:
     - github.com/rumblefishdev
 attributes:
-  category: Developer Tooling
+  category: null
   tags:
     - block-explorer
     - api

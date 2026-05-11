@@ -4,10 +4,9 @@ other_names:
   - Regulated BRL Settlement on Stellar
   - PagCrypto
 parent: null
-description: BRLP is a regulated BRL settlement token issued on Stellar for institutional FX, institutional payments, and crypto-to-fiat reconciliation. Tokens are minted only after BRL is received in a regulated account, transferred exclusively between authorized institutional counterparts, and burned on exit — on-chain supply always matches real-world custody. PagFinance replaces bilateral reconciliation and delayed settlement with near-instant finality, deterministic auditability, and compliance-by-design, connecting Brazilian banking rails to modern on-chain coordination using Stellar's native asset controls.
+description: ''
 links:
-  website:
-    - pag.finance
+  website: []
   blog: []
   x: []
   linkedin: []

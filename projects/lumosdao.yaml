@@ -2,7 +2,7 @@ title: LumosDAO
 other_names:
   - LumosCore
 parent: null
-description: Decentralized Governance on Stellar Network. Create, manage, and participate in DAOs seamlessly, with transparency and efficiency.
+description: ''
 links:
   website:
     - lumoscore.com
@@ -22,7 +22,7 @@ links:
   github:
     - github.com/naveed-siddiqi/lumos-dao
 attributes:
-  category: Developer Tooling
+  category: End-User Application
   tags:
     - DAO Tool
     - Governance

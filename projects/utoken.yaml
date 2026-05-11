@@ -24,7 +24,7 @@ links:
   github:
     - github.com/utokens
 attributes:
-  category: Applications
+  category: End-User Application
   tags:
     - Stablecoins
     - USA
@@ -47,12 +47,10 @@ scf:
   awarded_round:
     - 28
     - 35
-    - 42
-  awarded_total: 145979
+  awarded_total: 59979
   submission_urls:
     - communityfund.stellar.org/submissions/rechwhwWyyUgGgDlC
     - communityfund.stellar.org/submissions/rec4AtmuZ3tC2S6WP
-    - communityfund.stellar.org/submissions/recjh7svJ58hpDwNV
 mainnet:
   audits: []
   tokens: []

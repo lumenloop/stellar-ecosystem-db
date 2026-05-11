@@ -24,7 +24,7 @@ links:
   github:
     - github.com/lobster-protocol
 attributes:
-  category: Financial Protocols
+  category: End-User Application
   tags:
     - DeFi
     - Liquidity
@@ -39,11 +39,9 @@ images:
 scf:
   awarded_round:
     - 36
-    - 42
-  awarded_total: 224000
+  awarded_total: 109000
   submission_urls:
     - communityfund.stellar.org/submissions/recJ8JRD0fUAuiZn6
-    - communityfund.stellar.org/submissions/recO8Z0J0DohwPyBm
 mainnet:
   audits: []
   tokens: []

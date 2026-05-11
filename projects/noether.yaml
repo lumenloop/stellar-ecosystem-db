@@ -2,7 +2,7 @@ title: Noether
 other_names:
   - From SDEX Spot to Soroban Perps
 parent: null
-description: Noether is a decentralized perpetual futures exchange built natively on Stellar/Soroban. It enables leveraged trading up to 10x on crypto assets with limit orders, stop-loss, and take-profit functionality. Liquidity providers earn yield through the NOE-token vault system. Currently live on testnet with a complete trading interface, automated keeper infrastructure, and four production-ready smart contracts.
+description: ''
 links:
   website:
     - noether.exchange

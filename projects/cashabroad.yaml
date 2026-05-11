@@ -2,7 +2,7 @@ title: CashAbroad
 other_names:
   - CashAbroad Smart Treasury
 parent: null
-description: Do Abroad business as easily as with locals for exporting and importing businesses in LATAM. CashAbroad facilitates cross-border payments with USDC and Fiat.
+description: ''
 links:
   website:
     - cashabroad.one
@@ -23,7 +23,7 @@ links:
   linktree: []
   github: []
 attributes:
-  category: Applications
+  category: End-User Application
   tags:
     - Payments
     - Cross-Border Payments
@@ -35,15 +35,9 @@ images:
   logo: https://media.lumenloop.com/projects/cashabroad/logo.png
 scf:
   awarded_round:
-    - 11
-    - 14
-    - 21
     - 41
-  awarded_total: 255025
+  awarded_total: 75000
   submission_urls:
-    - communityfund.stellar.org/submissions/recRhRDNW8zDJZBPA
-    - communityfund.stellar.org/submissions/recrIwocQMrQbXS41
-    - communityfund.stellar.org/submissions/recr6JGgzX8IHBgA5
     - communityfund.stellar.org/submissions/recB335vaGPt0v4xY
 mainnet:
   audits: []

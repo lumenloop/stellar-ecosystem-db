@@ -2,6 +2,7 @@ title: Soroban ELK
 other_names:
   - Stellar Command Insights
   - Soroban Command Insights
+  - Stellar Command Insights (SCI)
 parent: null
 description: A real-time monitoring and visualization system for Soroban CLI commands on the Stellar network, powered by the ELK stack.
 links:
@@ -30,9 +31,11 @@ attributes:
   based_in: Turkey
 images: null
 scf:
-  awarded_round: []
-  awarded_total: null
-  submission_urls: []
+  awarded_round:
+    - 29
+  awarded_total: 35000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recR4ULg6RudZEquX
 mainnet:
   audits: []
   tokens: []
