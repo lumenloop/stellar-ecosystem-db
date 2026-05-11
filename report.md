@@ -116,22 +116,22 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| submissions | 601 |
-| crawler | 1108 |
-| agent:conflict-resolver | 47 |
-| agent:airtable-sync:approved | 154 |
-| airtable | 3484 |
 | website | 1562 |
+| crawler | 1108 |
+| submissions | 601 |
+| agent:conflict-resolver | 48 |
+| agent:airtable-sync:approved | 154 |
+| airtable | 3483 |
 | agent:content-linker:approved | 27 |
 | agent:curator:approved | 2 |
 | agent:project-enricher:approved | 36 |
 | admin | 46 |
 | schedule | 2 |
+| agent:project-enricher | 46 |
 | agent:conflicts:approved | 4 |
 | agent:curator | 7 |
-| agent:project-enricher | 46 |
-| agent | 10 |
 | admin:scf_41_attribution | 1 |
+| agent | 10 |
 | soroban_security | 68 |
 
 ## Needs Review
@@ -141,16 +141,16 @@ Field-level provenance tracking:
 **description empty** (17):
 - mesh
 - figure
+- privy
 - securrency
 - soropg
 - kalien
+- velo
+- novatti
 - coinme
 - pyth
-- privy
 - merkl
-- velo
 - sendit
-- novatti
 - akuna
 - rehive
 - ondo
@@ -158,10 +158,10 @@ Field-level provenance tracking:
 - xbid-ai
 
 **SCF project missing website** (8):
+- the-starship-soroban
 - timed-transactions-api
 - paysapp
 - relax
-- the-starship-soroban
 - sendit
 - crypto-link
 - wally
