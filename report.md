@@ -116,14 +116,14 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
+| website | 1562 |
 | submissions | 601 |
-| airtable | 3821 |
-| website | 1563 |
+| airtable | 3820 |
 | crawler | 782 |
 | agent:airtable-sync:approved | 154 |
 | admin | 46 |
 | agent:conflicts:approved | 4 |
-| agent:conflict-resolver | 35 |
+| agent:conflict-resolver | 37 |
 | schedule | 2 |
 | agent:content-linker:approved | 27 |
 | agent | 10 |
@@ -149,13 +149,13 @@ Field-level provenance tracking:
 - frost-implementation
 
 **description empty** (17):
-- figure
-- mesh
 - securrency
-- merkl
-- akuna
+- figure
 - privy
 - coinme
+- mesh
+- merkl
+- akuna
 - kalien
 - velo
 - rehive
