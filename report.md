@@ -116,54 +116,54 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| website | 1562 |
 | submissions | 601 |
-| airtable | 3819 |
+| airtable | 3817 |
+| website | 1562 |
 | crawler | 782 |
 | agent:airtable-sync:approved | 154 |
+| agent:conflict-resolver | 40 |
+| agent:content-linker:approved | 27 |
 | admin | 46 |
 | agent:conflicts:approved | 4 |
-| agent:conflict-resolver | 38 |
+| admin:scf_41_attribution | 1 |
+| agent | 10 |
+| agent:curator:approved | 2 |
+| agent:project-enricher:approved | 36 |
 | schedule | 2 |
-| agent:content-linker:approved | 27 |
 | agent:project-enricher | 46 |
 | agent:curator | 7 |
-| agent:project-enricher:approved | 36 |
-| agent | 10 |
-| admin:scf_41_attribution | 1 |
-| agent:curator:approved | 2 |
 | soroban_security | 68 |
 
 ## Needs Review
 
 25 items need attention.
 
-**SCF project missing website** (8):
-- wally
-- paysapp
-- timed-transactions-api
-- relax
-- the-starship-soroban
-- crypto-link
-- sendit
-- frost-implementation
-
 **description empty** (17):
 - figure
+- mesh
 - privy
 - coinme
 - kalien
 - velo
+- akuna
 - securrency
 - rehive
 - merkl
-- mesh
+- volta
 - soropg
 - pyth
-- akuna
 - sendit
 - novatti
 - ondo
-- volta
 - xbid-ai
+
+**SCF project missing website** (8):
+- the-starship-soroban
+- crypto-link
+- wally
+- paysapp
+- timed-transactions-api
+- relax
+- sendit
+- frost-implementation
 
