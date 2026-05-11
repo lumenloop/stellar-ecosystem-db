@@ -5,7 +5,8 @@ other_names:
 parent: null
 description: Myaza enables Africans to seamlessly send, receive, save, spend, and swap foreign currencies without borders.
 links:
-  website: []
+  website:
+    - myaza.co
   blog:
     - myaza.co/blog
   x:

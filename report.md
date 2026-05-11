@@ -91,16 +91,16 @@ Of **610** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 23 |
-| OtterSec | 10 |
 | certora | 10 |
+| OtterSec | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Сoinspect | 1 |
 | Cantina | 1 |
 | Code4rena | 1 |
+| Сoinspect | 1 |
 
 ## Data Sources
 
@@ -117,21 +117,21 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 601 |
-| agent:conflict-resolver | 65 |
-| agent:airtable-sync:approved | 154 |
-| airtable | 3465 |
-| website | 1561 |
 | crawler | 1108 |
+| website | 1561 |
+| agent:airtable-sync:approved | 154 |
+| airtable | 3464 |
+| agent:conflicts:approved | 7 |
+| agent:conflict-resolver | 65 |
 | agent:content-linker:approved | 27 |
 | agent:project-enricher | 46 |
-| agent:curator:approved | 2 |
 | admin | 46 |
+| schedule | 2 |
 | agent:project-enricher:approved | 36 |
 | agent | 10 |
-| agent:curator | 7 |
-| agent:conflicts:approved | 6 |
-| schedule | 2 |
+| agent:curator:approved | 2 |
 | admin:scf_41_attribution | 1 |
+| agent:curator | 7 |
 | soroban_security | 68 |
 
 ## Needs Review
@@ -140,29 +140,29 @@ Field-level provenance tracking:
 
 **description empty** (17):
 - mesh
-- novatti
 - rehive
 - coinme
-- merkl
 - xbid-ai
 - figure
-- sendit
 - kalien
 - akuna
-- privy
 - velo
 - pyth
 - securrency
-- ondo
+- novatti
+- merkl
 - volta
+- sendit
+- privy
+- ondo
 - soropg
 
 **SCF project missing website** (8):
 - relax
-- paysapp
 - frost-implementation
-- the-starship-soroban
 - wally
+- paysapp
+- the-starship-soroban
 - sendit
 - timed-transactions-api
 - crypto-link
