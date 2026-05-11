@@ -3,7 +3,7 @@ other_names:
   - Advanced Debugging for Soroban Contracts
   - Intuitive WASM Debugger for Soroban
 parent: null
-description: ''
+description: Simbolik is a comprehensive Solidity debugging and development toolkit for Ethereum that brings professional-grade debugging capabilities to smart contract developers. It features a true source-level debugger enabling step-through execution of Solidity code, inspection of variables and VM state at any point in execution, and time-travel debugging to run code backwards and forwards. Built on Runtime Verification's formal verification expertise, Simbolik also includes a Foundry Test Explorer for managing and executing test suites, test coverage reporting to identify untested code paths, static analysis using Foundry's detectors, and integrations for both Visual Studio Code and Cursor IDEs.
 links:
   website:
     - simbolik.dev
