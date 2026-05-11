@@ -116,16 +116,16 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
+| website | 1561 |
 | submissions | 601 |
-| agent:conflict-resolver | 56 |
+| agent:conflict-resolver | 58 |
 | agent:airtable-sync:approved | 154 |
-| airtable | 3475 |
+| airtable | 3474 |
 | crawler | 1108 |
-| website | 1562 |
+| agent:content-linker:approved | 27 |
 | agent:project-enricher:approved | 36 |
 | agent:conflicts:approved | 4 |
 | admin | 46 |
-| agent:content-linker:approved | 27 |
 | schedule | 2 |
 | agent:project-enricher | 46 |
 | agent:curator | 7 |
@@ -149,14 +149,14 @@ Field-level provenance tracking:
 - paysapp
 
 **description empty** (17):
-- rehive
 - xbid-ai
 - securrency
+- rehive
+- coinme
+- pyth
 - mesh
 - novatti
 - figure
-- coinme
-- pyth
 - kalien
 - privy
 - sendit
