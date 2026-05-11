@@ -91,8 +91,8 @@ Of **610** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 23 |
-| certora | 10 |
 | OtterSec | 10 |
+| certora | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
@@ -116,19 +116,19 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| website | 1563 |
 | submissions | 601 |
-| airtable | 3826 |
+| airtable | 3823 |
+| website | 1563 |
 | crawler | 782 |
 | agent:airtable-sync:approved | 154 |
 | agent:conflicts:approved | 4 |
-| agent:conflict-resolver | 30 |
-| agent:content-linker:approved | 27 |
+| agent:conflict-resolver | 33 |
 | admin | 46 |
 | schedule | 2 |
+| agent:content-linker:approved | 27 |
+| agent | 10 |
 | admin:scf_41_attribution | 1 |
 | agent:project-enricher | 46 |
-| agent | 10 |
 | agent:curator:approved | 2 |
 | agent:project-enricher:approved | 36 |
 | agent:curator | 7 |
@@ -138,12 +138,24 @@ Field-level provenance tracking:
 
 25 items need attention.
 
+**SCF project missing website** (8):
+- wally
+- relax
+- the-starship-soroban
+- timed-transactions-api
+- crypto-link
+- sendit
+- paysapp
+- frost-implementation
+
 **description empty** (17):
 - figure
 - mesh
 - merkl
 - coinme
 - kalien
+- sendit
+- securrency
 - akuna
 - privy
 - velo
@@ -154,16 +166,4 @@ Field-level provenance tracking:
 - volta
 - ondo
 - xbid-ai
-- sendit
-- securrency
-
-**SCF project missing website** (8):
-- timed-transactions-api
-- crypto-link
-- wally
-- relax
-- the-starship-soroban
-- frost-implementation
-- sendit
-- paysapp
 
