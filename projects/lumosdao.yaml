@@ -2,7 +2,19 @@ title: LumosDAO
 other_names:
   - LumosCore
 parent: null
-description: ''
+description: |-
+  LumosCore is an all-in-one Web3 platform solving blockchain fragmentation and interoperability by bringing key infrastructure into a single multichain ecosystem.
+
+  It enables projects to launch tokens, access liquidity, and trade across networks through its Launchpad, Cross-chain bridge, AMMs, DEX, NFT marketplace, DAOs, explorer, and wallet. The platform is already live in Beta and gaining traction with early users and projects.
+
+  Live on: Stellar and XRPL
+
+  Resources:
+
+  Docs: https://lumoscore.com/docs
+
+  Incorporated in Estonia:
+  LumosCore OÜ - REG: 17336483.
 links:
   website:
     - lumoscore.com
@@ -28,7 +40,7 @@ attributes:
     - Governance
   operating_region:
     - Global
-  based_in: Azerbaijan
+  based_in: Estonia
 images:
   icon: https://media.lumenloop.com/projects/lumosdao/apple_touch.png
   logo: https://media.lumenloop.com/projects/lumosdao/logo.png
