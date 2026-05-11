@@ -116,17 +116,17 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
+| website | 1562 |
 | submissions | 601 |
 | airtable | 3819 |
-| website | 1562 |
 | crawler | 782 |
 | agent:airtable-sync:approved | 154 |
 | admin | 46 |
 | agent:conflicts:approved | 4 |
 | agent:conflict-resolver | 38 |
 | schedule | 2 |
-| agent:project-enricher | 46 |
 | agent:content-linker:approved | 27 |
+| agent:project-enricher | 46 |
 | agent:curator | 7 |
 | agent:project-enricher:approved | 36 |
 | agent | 10 |
@@ -149,21 +149,21 @@ Field-level provenance tracking:
 - frost-implementation
 
 **description empty** (17):
+- figure
+- privy
+- coinme
 - kalien
 - velo
 - securrency
-- figure
 - rehive
-- privy
-- coinme
+- merkl
 - mesh
 - soropg
 - pyth
-- merkl
 - akuna
 - sendit
-- volta
 - novatti
 - ondo
+- volta
 - xbid-ai
 
