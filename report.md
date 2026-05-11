@@ -116,11 +116,11 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| website | 1562 |
 | submissions | 601 |
 | crawler | 1108 |
-| airtable | 3481 |
-| agent:conflict-resolver | 50 |
+| website | 1562 |
+| airtable | 3480 |
+| agent:conflict-resolver | 51 |
 | agent:airtable-sync:approved | 154 |
 | agent:content-linker:approved | 27 |
 | schedule | 2 |
@@ -142,8 +142,8 @@ Field-level provenance tracking:
 - mesh
 - figure
 - soropg
-- kalien
 - securrency
+- kalien
 - privy
 - velo
 - coinme
