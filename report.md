@@ -98,9 +98,9 @@ Of **610** SCF-funded projects:
 | Halborn | 4 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Сoinspect | 1 |
 | Cantina | 1 |
 | Code4rena | 1 |
+| Сoinspect | 1 |
 
 ## Data Sources
 
@@ -117,20 +117,20 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 601 |
-| agent:conflict-resolver | 64 |
+| agent:conflict-resolver | 65 |
 | agent:airtable-sync:approved | 154 |
-| airtable | 3468 |
+| airtable | 3467 |
 | website | 1561 |
 | agent:content-linker:approved | 27 |
 | crawler | 1108 |
-| agent:project-enricher:approved | 36 |
-| agent:project-enricher | 46 |
 | admin | 46 |
 | agent | 10 |
 | agent:conflicts:approved | 4 |
+| agent:project-enricher | 46 |
+| agent:project-enricher:approved | 36 |
 | schedule | 2 |
-| agent:curator | 7 |
 | agent:curator:approved | 2 |
+| agent:curator | 7 |
 | admin:scf_41_attribution | 1 |
 | soroban_security | 68 |
 
@@ -141,17 +141,17 @@ Field-level provenance tracking:
 **description empty** (17):
 - mesh
 - rehive
+- xbid-ai
 - coinme
 - figure
+- kalien
+- akuna
 - velo
+- merkl
 - novatti
 - sendit
 - pyth
-- xbid-ai
 - securrency
-- kalien
-- akuna
-- merkl
 - privy
 - ondo
 - volta
@@ -160,10 +160,10 @@ Field-level provenance tracking:
 **SCF project missing website** (8):
 - relax
 - paysapp
-- sendit
 - frost-implementation
 - wally
+- the-starship-soroban
+- sendit
 - crypto-link
 - timed-transactions-api
-- the-starship-soroban
 
