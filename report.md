@@ -76,11 +76,11 @@ Of **610** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 462 | 476 |
-| Active last week | 144 | 203 |
-| Active last month | 185 | 276 |
-| Active last 3 months | 249 | 318 |
-| Active last year | 321 | 389 |
+| Tracked projects | 462 | 475 |
+| Active last week | 143 | 202 |
+| Active last month | 185 | 275 |
+| Active last 3 months | 249 | 317 |
+| Active last year | 321 | 388 |
 
 ## Audit Data
 
@@ -116,16 +116,16 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
+| website | 1561 |
 | submissions | 601 |
 | agent:conflict-resolver | 65 |
 | agent:airtable-sync:approved | 154 |
-| airtable | 3467 |
-| website | 1561 |
+| airtable | 3466 |
 | agent:content-linker:approved | 27 |
 | crawler | 1108 |
 | admin | 46 |
 | agent | 10 |
-| agent:conflicts:approved | 4 |
+| agent:conflicts:approved | 5 |
 | agent:project-enricher | 46 |
 | agent:project-enricher:approved | 36 |
 | schedule | 2 |
@@ -141,17 +141,17 @@ Field-level provenance tracking:
 **description empty** (17):
 - mesh
 - rehive
-- xbid-ai
 - coinme
+- xbid-ai
 - figure
+- novatti
 - kalien
 - akuna
 - velo
-- merkl
-- novatti
-- sendit
 - pyth
 - securrency
+- merkl
+- sendit
 - privy
 - ondo
 - volta
