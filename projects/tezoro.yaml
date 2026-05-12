@@ -2,7 +2,7 @@ title: Tezoro
 other_names:
   - Soroban-Native DeFi Yield Aggregator
 parent: null
-description: ''
+description: Tezoro is a DeFi yield aggregator that aggregates 2,000+ markets and automatically keeps user assets in the top-yielding positions, targeting 8.3% net APY. To reduce risk, users choose a risk level, assets are diversified across multiple markets, and AI monitors vaults 24/7. Tezoro aggregates Stellar-native protocols and bridges the highest yields from other chains to Stellar. It serves retail users, institutions, and DAOs seeking the best DeFi returns directly on Stellar.
 links:
   website:
     - tezoro.io
@@ -19,7 +19,7 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
+  category: End-User Application
   tags:
     - yield-aggregator
     - defi
