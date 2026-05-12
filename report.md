@@ -77,9 +77,9 @@ Of **610** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 462 | 476 |
-| Active last week | 136 | 211 |
-| Active last month | 184 | 275 |
-| Active last 3 months | 249 | 318 |
+| Active last week | 135 | 211 |
+| Active last month | 183 | 275 |
+| Active last 3 months | 248 | 318 |
 | Active last year | 321 | 388 |
 
 ## Audit Data
@@ -98,9 +98,9 @@ Of **610** SCF-funded projects:
 | Halborn | 4 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
+| Code4rena | 1 |
 | Cantina | 1 |
 | Сoinspect | 1 |
-| Code4rena | 1 |
 
 ## Data Sources
 
@@ -116,21 +116,21 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| submissions | 601 |
-| crawler | 1105 |
+| crawler | 1107 |
 | website | 1552 |
-| airtable | 3445 |
-| agent:airtable-sync:approved | 156 |
+| submissions | 601 |
+| airtable | 3443 |
 | agent:content-linker:approved | 27 |
-| admin | 69 |
 | agent:conflict-resolver | 62 |
-| agent:project-enricher | 44 |
-| agent:project-enricher:approved | 36 |
+| admin | 69 |
+| agent:airtable-sync:approved | 156 |
 | agent:conflicts:approved | 10 |
 | agent | 10 |
+| agent:project-enricher:approved | 36 |
 | schedule | 2 |
 | agent:curator:approved | 2 |
 | admin:scf_41_attribution | 1 |
+| agent:project-enricher | 44 |
 | agent:curator | 7 |
 | soroban_security | 68 |
 
@@ -140,32 +140,32 @@ Field-level provenance tracking:
 
 **description empty** (19):
 - mesh
-- figure
-- xbid-ai
-- sendit
-- merkl
 - securrency
 - velo
 - microvault
-- rehive
-- ibis
 - soropg
-- akuna
-- pyth
+- figure
+- xbid-ai
 - coinme
 - volta
-- privy
 - ondo
-- novatti
+- sendit
+- merkl
 - kalien
+- rehive
+- ibis
+- akuna
+- pyth
+- privy
+- novatti
 
 **SCF project missing website** (8):
-- the-starship-soroban
-- sendit
 - wally
 - paysapp
-- relax
 - timed-transactions-api
 - frost-implementation
+- the-starship-soroban
+- sendit
+- relax
 - crypto-link
 
