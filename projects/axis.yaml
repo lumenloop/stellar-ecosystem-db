@@ -3,7 +3,7 @@ other_names:
   - AXIS DEX
   - AXIS DEX - Launch
 parent: null
-description: ''
+description: AXIS is a smart contract limit orderbook for Stellar, backward-compatible with the Classic Stellar DEX. It combines off-chain matching with on-chain settlement for maximum efficiency and security. Key features include a completely trustless, non-upgradeable open-source contract with no admin access; allowance-based orders so funds never leave user accounts; an extendable indexer pluggable into any swap router or trading bot; a path-finding API that serves as a drop-in replacement for Horizon; no trading fees; and advanced trading APIs for a CEX-like experience. Built by the StellarExpert team.
 links:
   website:
     - axis.markets

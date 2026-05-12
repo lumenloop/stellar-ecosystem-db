@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-05-11
+> Auto-generated on 2026-05-12
 
 ## Summary
 
@@ -15,7 +15,7 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 711/728 | 97.7% |
+| description | 709/728 | 97.4% |
 | website | 720/728 | 98.9% |
 | blog | 247/728 | 33.9% |
 | x | 513/728 | 70.5% |
@@ -28,7 +28,7 @@
 | tiktok | 31/728 | 4.3% |
 | linktree | 5/728 | 0.7% |
 | github | 508/728 | 69.8% |
-| category | 638/728 | 87.6% |
+| category | 639/728 | 87.8% |
 | tags | 712/728 | 97.8% |
 | operating_region | 700/728 | 96.2% |
 | based_in | 605/728 | 83.1% |
@@ -39,7 +39,7 @@ Per-project comparison of our **728** projects (incl. **118** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +134 | 577 |
+| description | +134 | 575 |
 | website | +161 | 559 |
 | github | +130 | 378 |
 | x | +229 | 284 |
@@ -77,10 +77,10 @@ Of **610** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 462 | 476 |
-| Active last week | 143 | 203 |
-| Active last month | 185 | 276 |
+| Active last week | 136 | 211 |
+| Active last month | 184 | 275 |
 | Active last 3 months | 249 | 318 |
-| Active last year | 321 | 389 |
+| Active last year | 321 | 388 |
 
 ## Audit Data
 
@@ -98,9 +98,9 @@ Of **610** SCF-funded projects:
 | Halborn | 4 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
+| Сoinspect | 1 |
 | Cantina | 1 |
 | Code4rena | 1 |
-| Сoinspect | 1 |
 
 ## Data Sources
 
@@ -116,54 +116,56 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
+| website | 1552 |
 | submissions | 601 |
-| crawler | 1108 |
-| website | 1561 |
-| agent:airtable-sync:approved | 154 |
-| airtable | 3464 |
-| agent:conflicts:approved | 7 |
-| agent:conflict-resolver | 65 |
+| crawler | 1105 |
+| agent:airtable-sync:approved | 157 |
+| airtable | 3448 |
+| agent:conflicts:approved | 11 |
+| agent:conflict-resolver | 56 |
 | agent:content-linker:approved | 27 |
-| agent:project-enricher | 46 |
-| admin | 46 |
-| schedule | 2 |
-| agent:project-enricher:approved | 36 |
+| admin | 70 |
 | agent | 10 |
+| agent:project-enricher | 44 |
+| agent:project-enricher:approved | 36 |
+| agent:curator | 7 |
+| schedule | 2 |
 | agent:curator:approved | 2 |
 | admin:scf_41_attribution | 1 |
-| agent:curator | 7 |
 | soroban_security | 68 |
 
 ## Needs Review
 
-25 items need attention.
+27 items need attention.
 
-**description empty** (17):
+**description empty** (19):
+- microvault
 - mesh
 - rehive
+- ibis
 - coinme
+- merkl
 - xbid-ai
+- sendit
 - figure
+- soropg
 - kalien
 - akuna
 - velo
 - pyth
 - securrency
 - novatti
-- merkl
 - volta
-- sendit
 - privy
 - ondo
-- soropg
 
 **SCF project missing website** (8):
 - relax
-- frost-implementation
-- wally
 - paysapp
 - the-starship-soroban
 - sendit
 - timed-transactions-api
+- frost-implementation
+- wally
 - crypto-link
 

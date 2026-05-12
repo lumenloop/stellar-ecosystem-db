@@ -19,7 +19,7 @@ links:
   github:
     - github.com/noir-lang/noir
 attributes:
-  category: Infrastructure
+  category: Developer Tooling
   tags:
     - ZK
     - Developer Tools
@@ -31,4 +31,3 @@ images:
 mainnet:
   audits: []
   tokens: []
-  contracts: []
