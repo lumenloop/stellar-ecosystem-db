@@ -117,15 +117,15 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 601 |
-| agent:airtable-sync:approved | 158 |
-| agent:conflict-resolver | 58 |
+| agent:airtable-sync:approved | 157 |
+| agent:conflict-resolver | 60 |
 | airtable | 3446 |
 | website | 1552 |
-| crawler | 1105 |
-| agent:conflicts:approved | 11 |
-| agent | 10 |
 | agent:content-linker:approved | 27 |
 | admin | 69 |
+| crawler | 1105 |
+| agent:conflicts:approved | 10 |
+| agent | 10 |
 | agent:project-enricher | 44 |
 | agent:project-enricher:approved | 36 |
 | schedule | 2 |
@@ -141,21 +141,21 @@ Field-level provenance tracking:
 **description empty** (19):
 - mesh
 - rehive
-- sendit
-- securrency
-- microvault
 - figure
 - xbid-ai
+- sendit
+- merkl
+- securrency
+- microvault
+- velo
 - soropg
 - ibis
 - pyth
 - coinme
-- merkl
 - volta
-- velo
+- akuna
 - novatti
 - kalien
-- akuna
 - privy
 - ondo
 
