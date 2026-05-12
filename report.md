@@ -77,10 +77,10 @@ Of **610** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 462 | 476 |
-| Active last week | 135 | 211 |
-| Active last month | 183 | 275 |
-| Active last 3 months | 248 | 318 |
-| Active last year | 321 | 388 |
+| Active last week | 135 | 213 |
+| Active last month | 185 | 279 |
+| Active last 3 months | 248 | 319 |
+| Active last year | 320 | 389 |
 
 ## Audit Data
 
@@ -116,21 +116,21 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| crawler | 1107 |
+| agent:content-linker:approved | 27 |
 | website | 1552 |
+| crawler | 1107 |
 | submissions | 601 |
 | airtable | 3443 |
-| agent:content-linker:approved | 27 |
-| agent:conflict-resolver | 62 |
-| admin | 69 |
-| agent:airtable-sync:approved | 156 |
-| agent:conflicts:approved | 10 |
 | agent | 10 |
+| agent:conflict-resolver | 62 |
+| agent:airtable-sync:approved | 156 |
+| admin | 69 |
+| agent:conflicts:approved | 10 |
+| agent:project-enricher | 44 |
 | agent:project-enricher:approved | 36 |
 | schedule | 2 |
 | agent:curator:approved | 2 |
 | admin:scf_41_attribution | 1 |
-| agent:project-enricher | 44 |
 | agent:curator | 7 |
 | soroban_security | 68 |
 
@@ -139,31 +139,31 @@ Field-level provenance tracking:
 27 items need attention.
 
 **description empty** (19):
+- ondo
 - mesh
-- securrency
 - velo
-- microvault
-- soropg
 - figure
 - xbid-ai
-- coinme
-- volta
-- ondo
-- sendit
+- securrency
+- microvault
 - merkl
 - kalien
+- soropg
 - rehive
+- coinme
+- volta
+- sendit
+- pyth
 - ibis
 - akuna
-- pyth
 - privy
 - novatti
 
 **SCF project missing website** (8):
+- frost-implementation
 - wally
 - paysapp
 - timed-transactions-api
-- frost-implementation
 - the-starship-soroban
 - sendit
 - relax
