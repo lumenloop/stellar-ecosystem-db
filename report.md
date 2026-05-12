@@ -116,18 +116,18 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| website | 1552 |
 | submissions | 601 |
-| crawler | 1105 |
 | agent:airtable-sync:approved | 157 |
-| airtable | 3448 |
+| agent:conflict-resolver | 58 |
+| airtable | 3447 |
+| website | 1552 |
+| crawler | 1105 |
 | agent:conflicts:approved | 11 |
-| agent:conflict-resolver | 56 |
 | agent:content-linker:approved | 27 |
-| admin | 70 |
+| admin | 69 |
 | agent | 10 |
-| agent:project-enricher | 44 |
 | agent:project-enricher:approved | 36 |
+| agent:project-enricher | 44 |
 | agent:curator | 7 |
 | schedule | 2 |
 | agent:curator:approved | 2 |
@@ -139,22 +139,22 @@ Field-level provenance tracking:
 27 items need attention.
 
 **description empty** (19):
-- microvault
 - mesh
 - rehive
+- microvault
+- xbid-ai
 - ibis
 - coinme
 - merkl
-- xbid-ai
+- velo
 - sendit
+- securrency
+- novatti
 - figure
 - soropg
 - kalien
 - akuna
-- velo
 - pyth
-- securrency
-- novatti
 - volta
 - privy
 - ondo
