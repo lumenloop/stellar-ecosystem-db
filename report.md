@@ -76,9 +76,9 @@ Of **610** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 462 | 476 |
-| Active last week | 132 | 209 |
-| Active last month | 185 | 279 |
+| Tracked projects | 461 | 476 |
+| Active last week | 132 | 203 |
+| Active last month | 184 | 279 |
 | Active last 3 months | 248 | 319 |
 | Active last year | 320 | 389 |
 
@@ -116,14 +116,14 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
+| crawler | 1107 |
+| website | 1552 |
+| agent:content-linker:approved | 27 |
 | submissions | 601 |
+| airtable | 3443 |
 | agent:airtable-sync:approved | 156 |
 | agent:conflicts:approved | 10 |
-| airtable | 3443 |
 | agent:conflict-resolver | 62 |
-| agent:content-linker:approved | 27 |
-| website | 1552 |
-| crawler | 1107 |
 | admin | 69 |
 | schedule | 2 |
 | agent | 10 |
@@ -142,19 +142,19 @@ Field-level provenance tracking:
 - ondo
 - mesh
 - velo
-- soropg
-- volta
-- figure
 - xbid-ai
-- securrency
+- soropg
 - sendit
-- microvault
 - merkl
 - pyth
 - kalien
+- volta
+- figure
+- coinme
+- securrency
+- microvault
 - ibis
 - rehive
-- coinme
 - akuna
 - privy
 - novatti
@@ -162,10 +162,10 @@ Field-level provenance tracking:
 **SCF project missing website** (8):
 - wally
 - paysapp
-- timed-transactions-api
-- the-starship-soroban
 - frost-implementation
 - sendit
+- timed-transactions-api
+- the-starship-soroban
 - relax
 - crypto-link
 
