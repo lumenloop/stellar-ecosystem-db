@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-05-12
+> Auto-generated on 2026-05-13
 
 ## Summary
 
@@ -77,7 +77,7 @@ Of **610** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 462 | 476 |
-| Active last week | 135 | 213 |
+| Active last week | 132 | 209 |
 | Active last month | 185 | 279 |
 | Active last 3 months | 248 | 319 |
 | Active last year | 320 | 389 |
@@ -91,8 +91,8 @@ Of **610** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 23 |
-| certora | 10 |
 | OtterSec | 10 |
+| certora | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
@@ -116,22 +116,22 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
+| submissions | 601 |
+| agent:airtable-sync:approved | 156 |
+| agent:conflicts:approved | 10 |
+| airtable | 3443 |
+| agent:conflict-resolver | 62 |
 | agent:content-linker:approved | 27 |
 | website | 1552 |
 | crawler | 1107 |
-| submissions | 601 |
-| airtable | 3443 |
-| agent | 10 |
-| agent:conflict-resolver | 62 |
-| agent:airtable-sync:approved | 156 |
 | admin | 69 |
-| agent:conflicts:approved | 10 |
-| agent:project-enricher | 44 |
-| agent:project-enricher:approved | 36 |
 | schedule | 2 |
-| agent:curator:approved | 2 |
+| agent | 10 |
 | admin:scf_41_attribution | 1 |
 | agent:curator | 7 |
+| agent:project-enricher | 44 |
+| agent:project-enricher:approved | 36 |
+| agent:curator:approved | 2 |
 | soroban_security | 68 |
 
 ## Needs Review
@@ -142,29 +142,29 @@ Field-level provenance tracking:
 - ondo
 - mesh
 - velo
+- soropg
+- volta
 - figure
 - xbid-ai
 - securrency
+- sendit
 - microvault
 - merkl
+- pyth
 - kalien
-- soropg
+- ibis
 - rehive
 - coinme
-- volta
-- sendit
-- pyth
-- ibis
 - akuna
 - privy
 - novatti
 
 **SCF project missing website** (8):
-- frost-implementation
 - wally
 - paysapp
 - timed-transactions-api
 - the-starship-soroban
+- frost-implementation
 - sendit
 - relax
 - crypto-link
