@@ -77,9 +77,9 @@ Of **610** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 461 | 476 |
-| Active last week | 129 | 203 |
-| Active last month | 180 | 278 |
-| Active last 3 months | 247 | 319 |
+| Active last week | 128 | 200 |
+| Active last month | 179 | 277 |
+| Active last 3 months | 248 | 319 |
 | Active last year | 319 | 388 |
 
 ## Audit Data
@@ -98,9 +98,9 @@ Of **610** SCF-funded projects:
 | Halborn | 4 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
+| Сoinspect | 1 |
 | Code4rena | 1 |
 | Cantina | 1 |
-| Сoinspect | 1 |
 
 ## Data Sources
 
@@ -116,20 +116,20 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| submissions | 601 |
-| crawler | 1107 |
 | website | 1552 |
+| crawler | 1107 |
+| submissions | 601 |
 | airtable | 3443 |
 | agent:content-linker:approved | 27 |
 | agent:conflict-resolver | 62 |
-| agent:airtable-sync:approved | 156 |
 | admin | 69 |
-| agent:curator | 7 |
 | agent:project-enricher | 44 |
 | agent:project-enricher:approved | 36 |
+| agent:airtable-sync:approved | 156 |
 | agent:conflicts:approved | 10 |
-| agent | 10 |
 | schedule | 2 |
+| agent:curator | 7 |
+| agent | 10 |
 | agent:curator:approved | 2 |
 | admin:scf_41_attribution | 1 |
 | soroban_security | 68 |
@@ -139,19 +139,19 @@ Field-level provenance tracking:
 27 items need attention.
 
 **description empty** (19):
+- mesh
+- securrency
+- microvault
 - ondo
 - merkl
-- mesh
 - volta
 - velo
 - figure
+- pyth
 - xbid-ai
-- securrency
-- microvault
 - soropg
 - sendit
 - ibis
-- pyth
 - kalien
 - coinme
 - rehive
