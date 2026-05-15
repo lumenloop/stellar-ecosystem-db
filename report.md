@@ -77,10 +77,10 @@ Of **610** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 461 | 476 |
-| Active last week | 125 | 201 |
-| Active last month | 179 | 276 |
-| Active last 3 months | 248 | 319 |
-| Active last year | 319 | 388 |
+| Active last week | 123 | 200 |
+| Active last month | 179 | 275 |
+| Active last 3 months | 245 | 319 |
+| Active last year | 318 | 388 |
 
 ## Audit Data
 
@@ -117,14 +117,14 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 601 |
-| crawler | 1107 |
-| airtable | 3443 |
 | website | 1552 |
-| agent:content-linker:approved | 27 |
-| agent:project-enricher:approved | 36 |
-| agent:airtable-sync:approved | 156 |
+| airtable | 3443 |
+| crawler | 1107 |
 | admin | 69 |
 | agent:conflict-resolver | 62 |
+| agent:content-linker:approved | 27 |
+| agent:airtable-sync:approved | 156 |
+| agent:project-enricher:approved | 36 |
 | agent:conflicts:approved | 10 |
 | agent:project-enricher | 44 |
 | schedule | 2 |
@@ -138,27 +138,6 @@ Field-level provenance tracking:
 
 27 items need attention.
 
-**description empty** (19):
-- mesh
-- securrency
-- sendit
-- microvault
-- ibis
-- ondo
-- merkl
-- volta
-- kalien
-- velo
-- figure
-- pyth
-- rehive
-- xbid-ai
-- soropg
-- coinme
-- akuna
-- privy
-- novatti
-
 **SCF project missing website** (8):
 - the-starship-soroban
 - timed-transactions-api
@@ -168,4 +147,25 @@ Field-level provenance tracking:
 - relax
 - wally
 - crypto-link
+
+**description empty** (19):
+- securrency
+- mesh
+- kalien
+- figure
+- xbid-ai
+- sendit
+- microvault
+- ibis
+- ondo
+- merkl
+- volta
+- velo
+- pyth
+- rehive
+- coinme
+- soropg
+- akuna
+- privy
+- novatti
 
