@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-05-14
+> Auto-generated on 2026-05-15
 
 ## Summary
 
@@ -77,8 +77,8 @@ Of **610** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 461 | 476 |
-| Active last week | 128 | 200 |
-| Active last month | 179 | 277 |
+| Active last week | 125 | 201 |
+| Active last month | 179 | 276 |
 | Active last 3 months | 248 | 319 |
 | Active last year | 319 | 388 |
 
@@ -91,16 +91,16 @@ Of **610** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 23 |
-| certora | 10 |
 | OtterSec | 10 |
+| certora | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 4 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Сoinspect | 1 |
-| Code4rena | 1 |
 | Cantina | 1 |
+| Code4rena | 1 |
+| Сoinspect | 1 |
 
 ## Data Sources
 
@@ -116,22 +116,22 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| website | 1552 |
-| crawler | 1107 |
 | submissions | 601 |
+| crawler | 1107 |
 | airtable | 3443 |
+| website | 1552 |
 | agent:content-linker:approved | 27 |
-| agent:conflict-resolver | 62 |
-| admin | 69 |
-| agent:project-enricher | 44 |
 | agent:project-enricher:approved | 36 |
 | agent:airtable-sync:approved | 156 |
+| admin | 69 |
+| agent:conflict-resolver | 62 |
 | agent:conflicts:approved | 10 |
+| agent:project-enricher | 44 |
 | schedule | 2 |
-| agent:curator | 7 |
 | agent | 10 |
 | agent:curator:approved | 2 |
 | admin:scf_41_attribution | 1 |
+| agent:curator | 7 |
 | soroban_security | 68 |
 
 ## Needs Review
@@ -141,31 +141,31 @@ Field-level provenance tracking:
 **description empty** (19):
 - mesh
 - securrency
+- sendit
 - microvault
+- ibis
 - ondo
 - merkl
 - volta
+- kalien
 - velo
 - figure
 - pyth
+- rehive
 - xbid-ai
 - soropg
-- sendit
-- ibis
-- kalien
 - coinme
-- rehive
 - akuna
 - privy
 - novatti
 
 **SCF project missing website** (8):
-- timed-transactions-api
 - the-starship-soroban
-- wally
+- timed-transactions-api
 - paysapp
 - frost-implementation
 - sendit
 - relax
+- wally
 - crypto-link
 
