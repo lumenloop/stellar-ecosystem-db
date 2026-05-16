@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-05-15
+> Auto-generated on 2026-05-16
 
 ## Summary
 
@@ -77,9 +77,9 @@ Of **610** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 461 | 476 |
-| Active last week | 123 | 200 |
-| Active last month | 179 | 275 |
-| Active last 3 months | 245 | 319 |
+| Active last week | 121 | 201 |
+| Active last month | 179 | 274 |
+| Active last 3 months | 244 | 319 |
 | Active last year | 318 | 388 |
 
 ## Audit Data
@@ -117,16 +117,16 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 601 |
+| crawler | 1107 |
 | website | 1552 |
 | airtable | 3443 |
-| crawler | 1107 |
-| admin | 69 |
 | agent:conflict-resolver | 62 |
-| agent:content-linker:approved | 27 |
 | agent:airtable-sync:approved | 156 |
-| agent:project-enricher:approved | 36 |
 | agent:conflicts:approved | 10 |
 | agent:project-enricher | 44 |
+| agent:content-linker:approved | 27 |
+| admin | 69 |
+| agent:project-enricher:approved | 36 |
 | schedule | 2 |
 | agent | 10 |
 | agent:curator:approved | 2 |
@@ -140,28 +140,28 @@ Field-level provenance tracking:
 
 **SCF project missing website** (8):
 - the-starship-soroban
-- timed-transactions-api
 - paysapp
 - frost-implementation
 - sendit
-- relax
+- timed-transactions-api
 - wally
+- relax
 - crypto-link
 
 **description empty** (19):
-- securrency
-- mesh
-- kalien
-- figure
 - xbid-ai
 - sendit
 - microvault
-- ibis
 - ondo
 - merkl
+- securrency
+- mesh
+- pyth
+- kalien
+- figure
+- ibis
 - volta
 - velo
-- pyth
 - rehive
 - coinme
 - soropg
