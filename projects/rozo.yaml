@@ -43,5 +43,9 @@ scf:
   submission_urls:
     - communityfund.stellar.org/submissions/rec5Y2MKyAzTJ6flK
 mainnet:
-  audits: []
+  audits:
+    - name: Smart Contract Code Review and Security Analysis Report for Rozo
+      url: sorobansecurity.com/report/74
+      date: '2026-03-30T07:29:08.329Z'
+      auditor: Hacken
   tokens: []

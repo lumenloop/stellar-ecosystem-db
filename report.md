@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-05-16
+> Auto-generated on 2026-05-17
 
 ## Summary
 
@@ -9,7 +9,7 @@
 | Total projects | **728** |
 | SCF-funded projects | 610 |
 | Community projects | 118 |
-| Audited projects | 49 |
+| Audited projects | 52 |
 
 ## Data Coverage
 
@@ -18,7 +18,7 @@
 | description | 709/728 | 97.4% |
 | website | 720/728 | 98.9% |
 | blog | 247/728 | 33.9% |
-| x | 513/728 | 70.5% |
+| x | 514/728 | 70.6% |
 | linkedin | 388/728 | 53.3% |
 | discord | 211/728 | 29% |
 | telegram | 146/728 | 20.1% |
@@ -27,7 +27,7 @@
 | reddit | 16/728 | 2.2% |
 | tiktok | 31/728 | 4.3% |
 | linktree | 5/728 | 0.7% |
-| github | 508/728 | 69.8% |
+| github | 509/728 | 69.9% |
 | category | 639/728 | 87.8% |
 | tags | 712/728 | 97.8% |
 | operating_region | 700/728 | 96.2% |
@@ -41,8 +41,8 @@ Per-project comparison of our **728** projects (incl. **118** community projects
 |-------|------:|------:|
 | description | +134 | 575 |
 | website | +161 | 559 |
-| github | +130 | 378 |
-| x | +229 | 284 |
+| github | +131 | 378 |
+| x | +230 | 284 |
 | linkedin | +185 | 203 |
 | discord | +102 | 109 |
 | based_in | +128 | 477 |
@@ -66,7 +66,7 @@ Of **610** SCF-funded projects:
 | awarded_round | 589/610 | 96.6% |
 | submission_urls | 589/610 | 96.6% |
 | website | 602/610 | 98.7% |
-| github | 453/610 | 74.3% |
+| github | 454/610 | 74.4% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -76,30 +76,31 @@ Of **610** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 461 | 476 |
-| Active last week | 121 | 201 |
-| Active last month | 179 | 274 |
-| Active last 3 months | 244 | 319 |
-| Active last year | 318 | 388 |
+| Tracked projects | 462 | 476 |
+| Active last week | 139 | 203 |
+| Active last month | 187 | 270 |
+| Active last 3 months | 247 | 318 |
+| Active last year | 319 | 387 |
 
 ## Audit Data
 
-**49** projects audited with **68** reports.
+**52** projects audited with **72** reports.
 
 *Audit data provided by [Soroban Security](https://sorobansecurity.com).*
 
 | Auditor | Reports |
 |---------|---------:|
-| Veridise | 23 |
+| Veridise | 24 |
 | OtterSec | 10 |
 | certora | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
-| Halborn | 4 |
+| Halborn | 5 |
 | CoinFabrik | 2 |
+| Code4rena | 2 |
 | OpenZeppelin | 2 |
 | Cantina | 1 |
-| Code4rena | 1 |
+| Hacken | 1 |
 | Сoinspect | 1 |
 
 ## Data Sources
@@ -117,22 +118,22 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 601 |
-| crawler | 1107 |
-| website | 1552 |
-| airtable | 3443 |
+| agent:conflicts:approved | 11 |
+| agent:airtable-sync:approved | 155 |
 | agent:conflict-resolver | 62 |
-| agent:airtable-sync:approved | 156 |
-| agent:conflicts:approved | 10 |
-| agent:project-enricher | 44 |
+| airtable | 3440 |
+| crawler | 1111 |
+| admin | 70 |
+| website | 1552 |
 | agent:content-linker:approved | 27 |
-| admin | 69 |
+| agent:project-enricher | 44 |
 | agent:project-enricher:approved | 36 |
 | schedule | 2 |
 | agent | 10 |
 | agent:curator:approved | 2 |
 | admin:scf_41_attribution | 1 |
 | agent:curator | 7 |
-| soroban_security | 68 |
+| soroban_security | 72 |
 
 ## Needs Review
 
@@ -149,21 +150,21 @@ Field-level provenance tracking:
 - crypto-link
 
 **description empty** (19):
+- volta
+- securrency
+- kalien
 - xbid-ai
 - sendit
 - microvault
 - ondo
 - merkl
-- securrency
 - mesh
 - pyth
-- kalien
 - figure
-- ibis
-- volta
-- velo
 - rehive
+- ibis
 - coinme
+- velo
 - soropg
 - akuna
 - privy

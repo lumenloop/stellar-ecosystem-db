@@ -38,5 +38,9 @@ scf:
   submission_urls:
     - communityfund.stellar.org/submissions/rec4psH9A8FOTGwcv
 mainnet:
-  audits: []
+  audits:
+    - name: Smart Contracts - Alula Finance
+      url: sorobansecurity.com/report/70
+      date: '2026-04-06T03:00:38.218Z'
+      auditor: Halborn
   tokens: []

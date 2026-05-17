@@ -7,7 +7,8 @@ links:
   website:
     - nectarnetwork.fun
   blog: []
-  x: []
+  x:
+    - nectar_xlm
   linkedin: []
   discord: []
   telegram: []
@@ -16,7 +17,8 @@ links:
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/nectar-network/nectar-poc
 attributes:
   category: Financial Protocols
   tags:
