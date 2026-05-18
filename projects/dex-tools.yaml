@@ -15,11 +15,12 @@ links:
   discord: []
   telegram:
     - t.me/dextoolscommunity
-  youtube:
-    - youtube.com/c/dextoolsacademy
-  instagram: []
+  youtube: []
+  instagram:
+    - dextools_academy
   reddit: []
-  tiktok: []
+  tiktok:
+    - dextools
   linktree: []
   github:
     - github.com/dextools-io

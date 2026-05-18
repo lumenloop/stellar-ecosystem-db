@@ -23,9 +23,9 @@
 | discord | 211/728 | 29% |
 | telegram | 146/728 | 20.1% |
 | youtube | 163/728 | 22.4% |
-| instagram | 120/728 | 16.5% |
+| instagram | 121/728 | 16.6% |
 | reddit | 16/728 | 2.2% |
-| tiktok | 31/728 | 4.3% |
+| tiktok | 32/728 | 4.4% |
 | linktree | 5/728 | 0.7% |
 | github | 509/728 | 69.9% |
 | category | 639/728 | 87.8% |
@@ -49,9 +49,9 @@ Per-project comparison of our **728** projects (incl. **118** community projects
 | blog | +247 | 0 |
 | telegram | +146 | 0 |
 | youtube | +163 | 0 |
-| instagram | +120 | 0 |
+| instagram | +121 | 0 |
 | reddit | +16 | 0 |
-| tiktok | +31 | 0 |
+| tiktok | +32 | 0 |
 | linktree | +5 | 0 |
 
 *"Added" = we filled a field SCF didn't have. "Modified" = SCF had a value, we store a different one.*
@@ -117,19 +117,19 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
-| website | 1552 |
 | submissions | 601 |
-| crawler | 1111 |
-| airtable | 3440 |
 | agent:conflicts:approved | 11 |
 | agent:airtable-sync:approved | 155 |
 | agent:conflict-resolver | 62 |
-| admin | 70 |
+| airtable | 3440 |
+| crawler | 1116 |
+| website | 1549 |
 | agent:content-linker:approved | 27 |
-| agent:project-enricher | 44 |
-| agent | 10 |
-| agent:curator:approved | 2 |
+| admin | 70 |
 | agent:project-enricher:approved | 36 |
+| agent | 10 |
+| agent:project-enricher | 44 |
+| agent:curator:approved | 2 |
 | admin:scf_41_attribution | 1 |
 | agent:curator | 7 |
 | schedule | 2 |
@@ -162,11 +162,11 @@ Field-level provenance tracking:
 - microvault
 - rehive
 - mesh
+- soropg
+- akuna
 - ibis
 - coinme
 - velo
-- soropg
-- akuna
 - privy
 - novatti
 
