@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-05-17
+> Auto-generated on 2026-05-18
 
 ## Summary
 
@@ -35,7 +35,7 @@
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **728** projects (incl. **118** community projects not in SCF) against **633** in SCF Airtable:
+Per-project comparison of our **728** projects (incl. **118** community projects not in SCF) against **634** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
@@ -45,7 +45,7 @@ Per-project comparison of our **728** projects (incl. **118** community projects
 | x | +230 | 284 |
 | linkedin | +185 | 203 |
 | discord | +102 | 109 |
-| based_in | +128 | 477 |
+| based_in | +124 | 481 |
 | blog | +247 | 0 |
 | telegram | +146 | 0 |
 | youtube | +163 | 0 |
@@ -77,10 +77,10 @@ Of **610** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 462 | 476 |
-| Active last week | 139 | 203 |
-| Active last month | 187 | 270 |
-| Active last 3 months | 247 | 318 |
-| Active last year | 319 | 387 |
+| Active last week | 140 | 201 |
+| Active last month | 189 | 269 |
+| Active last 3 months | 250 | 317 |
+| Active last year | 321 | 387 |
 
 ## Audit Data
 
@@ -96,9 +96,9 @@ Of **610** SCF-funded projects:
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 5 |
-| CoinFabrik | 2 |
 | Code4rena | 2 |
 | OpenZeppelin | 2 |
+| CoinFabrik | 2 |
 | Cantina | 1 |
 | Hacken | 1 |
 | Сoinspect | 1 |
@@ -117,22 +117,22 @@ Field-level provenance tracking:
 
 | Source | Fields |
 |--------|------:|
+| website | 1552 |
 | submissions | 601 |
+| crawler | 1111 |
+| airtable | 3440 |
 | agent:conflicts:approved | 11 |
 | agent:airtable-sync:approved | 155 |
 | agent:conflict-resolver | 62 |
-| airtable | 3440 |
-| crawler | 1111 |
 | admin | 70 |
-| website | 1552 |
 | agent:content-linker:approved | 27 |
 | agent:project-enricher | 44 |
-| agent:project-enricher:approved | 36 |
-| schedule | 2 |
 | agent | 10 |
 | agent:curator:approved | 2 |
+| agent:project-enricher:approved | 36 |
 | admin:scf_41_attribution | 1 |
 | agent:curator | 7 |
+| schedule | 2 |
 | soroban_security | 72 |
 
 ## Needs Review
@@ -141,9 +141,9 @@ Field-level provenance tracking:
 
 **SCF project missing website** (8):
 - the-starship-soroban
+- sendit
 - paysapp
 - frost-implementation
-- sendit
 - timed-transactions-api
 - wally
 - relax
@@ -152,16 +152,16 @@ Field-level provenance tracking:
 **description empty** (19):
 - volta
 - securrency
-- kalien
-- xbid-ai
 - sendit
-- microvault
 - ondo
 - merkl
-- mesh
+- kalien
+- xbid-ai
 - pyth
 - figure
+- microvault
 - rehive
+- mesh
 - ibis
 - coinme
 - velo
