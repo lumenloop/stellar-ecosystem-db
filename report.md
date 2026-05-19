@@ -99,9 +99,9 @@ Of **610** SCF-funded projects:
 | Code4rena | 2 |
 | OpenZeppelin | 2 |
 | CoinFabrik | 2 |
+| Сoinspect | 1 |
 | Cantina | 1 |
 | Hacken | 1 |
-| Сoinspect | 1 |
 
 ## Data Sources
 
@@ -118,16 +118,16 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 601 |
-| website | 1549 |
-| airtable | 3440 |
 | crawler | 1115 |
-| admin | 70 |
+| airtable | 3440 |
+| website | 1549 |
 | agent:airtable-sync:approved | 155 |
+| admin | 70 |
 | agent:content-linker:approved | 27 |
 | agent:conflicts:approved | 11 |
 | agent:conflict-resolver | 63 |
-| agent | 10 |
 | agent:project-enricher:approved | 36 |
+| agent | 10 |
 | agent:project-enricher | 44 |
 | agent:curator:approved | 2 |
 | admin:scf_41_attribution | 1 |
@@ -138,6 +138,16 @@ Field-level provenance tracking:
 ## Needs Review
 
 27 items need attention.
+
+**SCF project missing website** (8):
+- the-starship-soroban
+- sendit
+- paysapp
+- frost-implementation
+- timed-transactions-api
+- relax
+- wally
+- crypto-link
 
 **description empty** (19):
 - volta
@@ -150,23 +160,13 @@ Field-level provenance tracking:
 - figure
 - pyth
 - microvault
+- soropg
+- ibis
 - rehive
+- coinme
 - mesh
 - akuna
-- soropg
 - velo
-- ibis
-- coinme
 - privy
 - novatti
-
-**SCF project missing website** (8):
-- the-starship-soroban
-- sendit
-- paysapp
-- frost-implementation
-- timed-transactions-api
-- wally
-- relax
-- crypto-link
 
