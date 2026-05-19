@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-05-18
+> Auto-generated on 2026-05-19
 
 ## Summary
 
@@ -77,9 +77,9 @@ Of **610** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 462 | 476 |
-| Active last week | 140 | 201 |
-| Active last month | 189 | 269 |
-| Active last 3 months | 250 | 317 |
+| Active last week | 134 | 201 |
+| Active last month | 191 | 269 |
+| Active last 3 months | 249 | 317 |
 | Active last year | 321 | 387 |
 
 ## Audit Data
@@ -118,16 +118,16 @@ Field-level provenance tracking:
 | Source | Fields |
 |--------|------:|
 | submissions | 601 |
-| agent:conflicts:approved | 11 |
-| agent:airtable-sync:approved | 155 |
-| agent:conflict-resolver | 62 |
-| airtable | 3440 |
-| crawler | 1116 |
 | website | 1549 |
-| agent:content-linker:approved | 27 |
+| airtable | 3440 |
+| crawler | 1115 |
 | admin | 70 |
-| agent:project-enricher:approved | 36 |
+| agent:airtable-sync:approved | 155 |
+| agent:content-linker:approved | 27 |
+| agent:conflicts:approved | 11 |
+| agent:conflict-resolver | 63 |
 | agent | 10 |
+| agent:project-enricher:approved | 36 |
 | agent:project-enricher | 44 |
 | agent:curator:approved | 2 |
 | admin:scf_41_attribution | 1 |
@@ -139,6 +139,27 @@ Field-level provenance tracking:
 
 27 items need attention.
 
+**description empty** (19):
+- volta
+- securrency
+- sendit
+- ondo
+- merkl
+- kalien
+- xbid-ai
+- figure
+- pyth
+- microvault
+- rehive
+- mesh
+- akuna
+- soropg
+- velo
+- ibis
+- coinme
+- privy
+- novatti
+
 **SCF project missing website** (8):
 - the-starship-soroban
 - sendit
@@ -148,25 +169,4 @@ Field-level provenance tracking:
 - wally
 - relax
 - crypto-link
-
-**description empty** (19):
-- volta
-- securrency
-- sendit
-- ondo
-- merkl
-- kalien
-- xbid-ai
-- pyth
-- figure
-- microvault
-- rehive
-- mesh
-- soropg
-- akuna
-- ibis
-- coinme
-- velo
-- privy
-- novatti
 
