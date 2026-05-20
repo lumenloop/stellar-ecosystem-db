@@ -5,7 +5,8 @@ description: Stellarbeat is a network explorer for the Stellar network, providin
 links:
   website:
     - stellarbeat.io
-  blog: []
+  blog:
+    - medium.com/stellarbeatio
   x: []
   linkedin: []
   discord: []

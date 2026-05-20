@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-05-19
+> Auto-generated on 2026-05-20
 
 ## Summary
 
@@ -15,10 +15,10 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 709/728 | 97.4% |
+| description | 715/728 | 98.2% |
 | website | 720/728 | 98.9% |
-| blog | 247/728 | 33.9% |
-| x | 514/728 | 70.6% |
+| blog | 248/728 | 34.1% |
+| x | 519/728 | 71.3% |
 | linkedin | 388/728 | 53.3% |
 | discord | 211/728 | 29% |
 | telegram | 146/728 | 20.1% |
@@ -28,10 +28,10 @@
 | tiktok | 32/728 | 4.4% |
 | linktree | 5/728 | 0.7% |
 | github | 509/728 | 69.9% |
-| category | 639/728 | 87.8% |
-| tags | 712/728 | 97.8% |
-| operating_region | 700/728 | 96.2% |
-| based_in | 605/728 | 83.1% |
+| category | 644/728 | 88.5% |
+| tags | 718/728 | 98.6% |
+| operating_region | 703/728 | 96.6% |
+| based_in | 607/728 | 83.4% |
 
 ## Enrichment vs SCF Airtable
 
@@ -39,14 +39,14 @@ Per-project comparison of our **728** projects (incl. **118** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +134 | 575 |
+| description | +140 | 575 |
 | website | +161 | 559 |
 | github | +131 | 378 |
-| x | +230 | 284 |
+| x | +235 | 284 |
 | linkedin | +185 | 203 |
 | discord | +102 | 109 |
-| based_in | +124 | 481 |
-| blog | +247 | 0 |
+| based_in | +126 | 481 |
+| blog | +248 | 0 |
 | telegram | +146 | 0 |
 | youtube | +163 | 0 |
 | instagram | +121 | 0 |
@@ -77,10 +77,10 @@ Of **610** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 462 | 476 |
-| Active last week | 134 | 201 |
-| Active last month | 191 | 269 |
-| Active last 3 months | 249 | 317 |
-| Active last year | 321 | 387 |
+| Active last week | 128 | 204 |
+| Active last month | 192 | 271 |
+| Active last 3 months | 248 | 317 |
+| Active last year | 322 | 387 |
 
 ## Audit Data
 
@@ -105,39 +105,42 @@ Of **610** SCF-funded projects:
 
 ## Data Sources
 
-- **projects**: Stellar Community Fund (SCF) Airtable + community contributions
-- **scf_submissions**: SCF submission records via communityfund.stellar.org
-- **github**: GitHub API — repository stats, commit activity, contributors
-- **twitter**: X/Twitter — account metadata, posting activity
-- **audits**: Soroban Security (sorobansecurity.com) — smart contract audit reports
+- **SCF**: Stellar Community Fund — Airtable directory + communityfund.stellar.org submission records
+- **Lumen Loop**: Lumen Loop ecosystem aggregation — project discovery, enrichment, and editorial curation
+- **Soroban Security**: Soroban Security (sorobansecurity.com) — smart contract audit reports
+- **DeFiLlama**: DeFiLlama — TVL and DeFi protocol metadata
+- **Stellar Expert**: Stellar Expert (stellar.expert) — Soroban contract directory
 
 ## Source Breakdown
 
-Field-level provenance tracking:
+How many data points each contributor provides across the directory:
 
-| Source | Fields |
+| Source | Contributions |
 |--------|------:|
-| submissions | 601 |
-| crawler | 1115 |
-| airtable | 3440 |
-| website | 1549 |
-| agent:airtable-sync:approved | 155 |
-| admin | 70 |
-| agent:content-linker:approved | 27 |
-| agent:conflicts:approved | 11 |
-| agent:conflict-resolver | 63 |
-| agent:project-enricher:approved | 36 |
-| agent | 10 |
-| agent:project-enricher | 44 |
-| agent:curator:approved | 2 |
-| admin:scf_41_attribution | 1 |
-| agent:curator | 7 |
-| schedule | 2 |
-| soroban_security | 72 |
+| SCF | 4039 |
+| Lumen Loop | 3122 |
+| Stellar Expert | 359 |
+| Soroban Security | 72 |
+| DeFiLlama | 19 |
 
 ## Needs Review
 
-27 items need attention.
+21 items need attention.
+
+**description empty** (13):
+- volta
+- securrency
+- merkl
+- sendit
+- kalien
+- pyth
+- microvault
+- soropg
+- ibis
+- rehive
+- mesh
+- velo
+- novatti
 
 **SCF project missing website** (8):
 - the-starship-soroban
@@ -148,25 +151,4 @@ Field-level provenance tracking:
 - relax
 - wally
 - crypto-link
-
-**description empty** (19):
-- volta
-- securrency
-- sendit
-- ondo
-- merkl
-- kalien
-- xbid-ai
-- figure
-- pyth
-- microvault
-- soropg
-- ibis
-- rehive
-- coinme
-- mesh
-- akuna
-- velo
-- privy
-- novatti
 

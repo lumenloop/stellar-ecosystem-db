@@ -1,12 +1,13 @@
 title: Akuna
 other_names: null
 parent: null
-description: ''
+description: Akuna Wallet is built for creators. Receive payments globally, withdraw locally, and grow your craft without borders.
 links:
   website:
     - akunawallet.com
   blog: []
-  x: []
+  x:
+    - akunawallet
   linkedin: []
   discord: []
   telegram: []
@@ -17,9 +18,13 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
-  operating_region: []
+  category: End-User Application
+  tags:
+    - software-wallet
+    - cross-border-payments
+    - on-off-ramp
+  operating_region:
+    - Africa
   based_in: null
 images: null
 mainnet:

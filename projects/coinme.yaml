@@ -1,7 +1,7 @@
 title: Coinme
 other_names: null
 parent: null
-description: ''
+description: Coinme is a licensed U.S. cryptocurrency cash exchange founded in 2014, enabling cash on/off-ramps via 21,000+ physical kiosk locations through Coinstar and MoneyGram partnerships. It powers USDC-based P2P payments and remittances on Stellar, and offers a B2B Crypto-as-a-Service API for financial institutions seeking white-label cash-to-crypto capabilities.
 links:
   website:
     - coinme.com
@@ -17,10 +17,13 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
+  category: Payments
+  tags:
+    - on-off-ramp
+    - remittances
+    - stablecoins
   operating_region: []
-  based_in: null
+  based_in: United States
 images: null
 mainnet:
   audits: []

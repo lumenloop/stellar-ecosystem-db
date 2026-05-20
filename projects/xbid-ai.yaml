@@ -1,12 +1,13 @@
 title: XBid AI
 other_names: null
 parent: null
-description: ''
+description: xbid.ai is a multi-LLM AI agent, staked onchain on Stellar. It autonomously executes real strategies across trading, yield loops, AMM hedging, and NFT auctions — using feedback loops and selection pressure to evolve its intelligence in real time.
 links:
   website:
     - xbid.ai
   blog: []
-  x: []
+  x:
+    - xbid_ai
   linkedin: []
   discord: []
   telegram: []
@@ -18,7 +19,10 @@ links:
   github: []
 attributes:
   category: null
-  tags: []
+  tags:
+    - ai
+    - trading
+    - defi
   operating_region: []
   based_in: null
 images: null

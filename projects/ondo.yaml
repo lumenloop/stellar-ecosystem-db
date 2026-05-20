@@ -1,12 +1,14 @@
 title: Ondo
 other_names: null
 parent: null
-description: ''
+description: Ondo Finance delivers institutional-grade tokenized real-world assets (RWAs) onchain. Products include USDY (a yield-bearing stablecoin backed by US Treasuries), OUSG (tokenized US Treasuries), and Ondo Global Markets (tokenized stocks and ETFs), available across multiple blockchains including Stellar.
 links:
   website:
     - ondo.finance
-  blog: []
-  x: []
+  blog:
+    - blog.ondo.finance
+  x:
+    - ondofinance
   linkedin: []
   discord: []
   telegram: []
@@ -17,9 +19,13 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
-  operating_region: []
+  category: Financial Protocols
+  tags:
+    - rwa
+    - tokenization
+    - stablecoins
+  operating_region:
+    - global
   based_in: null
 images: null
 mainnet:

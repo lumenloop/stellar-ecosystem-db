@@ -1,12 +1,13 @@
 title: Figure
 other_names: null
 parent: null
-description: ''
+description: 'Figure is America''s #1 non-bank HELOC lender, building the future of capital markets on blockchain. Built on Provenance Blockchain, Figure also issues YLDS — a yield-bearing stablecoin deployed on Stellar — enabling compliance-first real-world asset access for a global audience.'
 links:
   website:
     - figure.com
   blog: []
-  x: []
+  x:
+    - figure
   linkedin: []
   discord: []
   telegram: []
@@ -17,10 +18,14 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
-  operating_region: []
-  based_in: null
+  category: Financial Protocols
+  tags:
+    - rwa
+    - stablecoins
+    - lending-borrowing
+  operating_region:
+    - north_america
+  based_in: United States
 images: null
 mainnet:
   audits: []

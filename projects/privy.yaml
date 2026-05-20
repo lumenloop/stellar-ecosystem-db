@@ -1,12 +1,13 @@
 title: Privy
 other_names: null
 parent: null
-description: ''
+description: Wallet infrastructure platform providing low-level APIs for onboarding, authentication, and asset management. Privy powers 120M+ accounts with embedded wallets and multi-chain support — including Stellar Tier 2 — enabling developers to build seamless onchain payment and user management experiences.
 links:
   website:
     - privy.io
   blog: []
-  x: []
+  x:
+    - privy_io
   linkedin: []
   discord: []
   telegram: []
@@ -17,8 +18,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
+  category: Infrastructure & Services
+  tags:
+    - wallet-infra
+    - api
+    - developer-tools
   operating_region: []
   based_in: null
 images: null
