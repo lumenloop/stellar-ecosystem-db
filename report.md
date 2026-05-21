@@ -19,7 +19,7 @@
 | website | 720/728 | 98.9% |
 | blog | 248/728 | 34.1% |
 | x | 521/728 | 71.6% |
-| linkedin | 388/728 | 53.3% |
+| linkedin | 389/728 | 53.4% |
 | discord | 211/728 | 29% |
 | telegram | 146/728 | 20.1% |
 | youtube | 163/728 | 22.4% |
@@ -43,7 +43,7 @@ Per-project comparison of our **728** projects (incl. **118** community projects
 | website | +161 | 559 |
 | github | +131 | 378 |
 | x | +237 | 284 |
-| linkedin | +185 | 203 |
+| linkedin | +186 | 203 |
 | discord | +103 | 108 |
 | based_in | +127 | 481 |
 | blog | +248 | 0 |
@@ -76,11 +76,11 @@ Of **610** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 462 | 481 |
-| Active last week | 143 | 207 |
-| Active last month | 197 | 276 |
-| Active last 3 months | 250 | 320 |
-| Active last year | 324 | 391 |
+| Tracked projects | 462 | 483 |
+| Active last week | 143 | 209 |
+| Active last month | 197 | 278 |
+| Active last 3 months | 250 | 322 |
+| Active last year | 324 | 393 |
 
 ## Audit Data
 
@@ -118,7 +118,7 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4037 |
-| Lumen Loop | 3136 |
+| Lumen Loop | 3137 |
 | Stellar Expert | 359 |
 | Soroban Security | 72 |
 | DeFiLlama | 19 |
@@ -142,8 +142,8 @@ How many data points each contributor provides across the directory:
 - novatti
 
 **SCF project missing website** (8):
-- sendit
 - the-starship-soroban
+- sendit
 - paysapp
 - frost-implementation
 - timed-transactions-api
