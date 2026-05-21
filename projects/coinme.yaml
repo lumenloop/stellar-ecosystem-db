@@ -6,7 +6,8 @@ links:
   website:
     - coinme.com
   blog: []
-  x: []
+  x:
+    - coinme
   linkedin: []
   discord: []
   telegram: []
@@ -22,7 +23,9 @@ attributes:
     - on-off-ramp
     - remittances
     - stablecoins
-  operating_region: []
+  operating_region:
+    - North America
+    - LATAM
   based_in: United States
 images: null
 mainnet:

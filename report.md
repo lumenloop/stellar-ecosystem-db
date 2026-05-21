@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-05-20
+> Auto-generated on 2026-05-21
 
 ## Summary
 
@@ -15,10 +15,10 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 715/728 | 98.2% |
+| description | 716/728 | 98.4% |
 | website | 720/728 | 98.9% |
 | blog | 248/728 | 34.1% |
-| x | 519/728 | 71.3% |
+| x | 521/728 | 71.6% |
 | linkedin | 388/728 | 53.3% |
 | discord | 211/728 | 29% |
 | telegram | 146/728 | 20.1% |
@@ -28,10 +28,10 @@
 | tiktok | 32/728 | 4.4% |
 | linktree | 5/728 | 0.7% |
 | github | 509/728 | 69.9% |
-| category | 644/728 | 88.5% |
-| tags | 718/728 | 98.6% |
-| operating_region | 703/728 | 96.6% |
-| based_in | 607/728 | 83.4% |
+| category | 647/728 | 88.9% |
+| tags | 719/728 | 98.8% |
+| operating_region | 704/728 | 96.7% |
+| based_in | 608/728 | 83.5% |
 
 ## Enrichment vs SCF Airtable
 
@@ -39,13 +39,13 @@ Per-project comparison of our **728** projects (incl. **118** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +140 | 575 |
+| description | +141 | 575 |
 | website | +161 | 559 |
 | github | +131 | 378 |
-| x | +235 | 284 |
+| x | +237 | 284 |
 | linkedin | +185 | 203 |
-| discord | +102 | 109 |
-| based_in | +126 | 481 |
+| discord | +103 | 108 |
+| based_in | +127 | 481 |
 | blog | +248 | 0 |
 | telegram | +146 | 0 |
 | youtube | +163 | 0 |
@@ -76,11 +76,11 @@ Of **610** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 462 | 476 |
-| Active last week | 128 | 204 |
-| Active last month | 192 | 271 |
-| Active last 3 months | 248 | 317 |
-| Active last year | 322 | 387 |
+| Tracked projects | 462 | 481 |
+| Active last week | 143 | 207 |
+| Active last month | 197 | 276 |
+| Active last 3 months | 250 | 320 |
+| Active last year | 324 | 391 |
 
 ## Audit Data
 
@@ -117,26 +117,25 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4038 |
-| Lumen Loop | 3123 |
+| SCF | 4037 |
+| Lumen Loop | 3136 |
 | Stellar Expert | 359 |
 | Soroban Security | 72 |
 | DeFiLlama | 19 |
 
 ## Needs Review
 
-21 items need attention.
+20 items need attention.
 
-**description empty** (13):
+**description empty** (12):
+- securrency
 - volta
 - sendit
-- securrency
-- merkl
 - kalien
 - pyth
 - mesh
-- microvault
 - soropg
+- microvault
 - ibis
 - rehive
 - velo

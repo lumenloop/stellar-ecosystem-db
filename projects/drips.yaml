@@ -1,7 +1,7 @@
 title: Drips
 other_names: null
 parent: null
-description: Drips Wave — a project in the Stellar ecosystem.
+description: Drips is an open-source funding protocol offering continuous payment streams, dependency funding, Drip Lists, and RetroPGF distribution for software projects. On Stellar, Drips powers Drips Wave — a recurring monthly bounty cycle where developers compete to contribute to open-source Stellar ecosystem projects and earn on-chain rewards, while maintainers run transparent, time-bound funding rounds.
 links:
   website:
     - drips.network
@@ -20,9 +20,10 @@ links:
   github:
     - github.com/drips-network
 attributes:
-  category: null
+  category: Infrastructure & Services
   tags:
-    - DeFi
+    - funding-allocation
+    - payment-streaming
   operating_region:
     - Global
   based_in: null

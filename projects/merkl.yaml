@@ -1,12 +1,13 @@
 title: Merkl
 other_names: null
 parent: null
-description: ''
+description: Onchain distribution infrastructure used by 250+ companies including Circle, PayPal, and Coinbase to send yield, dividends, and rewards onchain.
 links:
   website:
     - merkl.xyz
   blog: []
-  x: []
+  x:
+    - merkl_xyz
   linkedin: []
   discord: []
   telegram: []
@@ -17,10 +18,13 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
+  category: Infrastructure & Services
+  tags:
+    - infrastructure
+    - liquidity
+    - b2b
   operating_region: []
-  based_in: null
+  based_in: France
 images: null
 mainnet:
   audits: []
