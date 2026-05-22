@@ -76,11 +76,11 @@ Of **610** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 464 | 484 |
-| Active last week | 138 | 214 |
-| Active last month | 198 | 281 |
-| Active last 3 months | 250 | 325 |
-| Active last year | 326 | 394 |
+| Tracked projects | 463 | 484 |
+| Active last week | 145 | 214 |
+| Active last month | 197 | 280 |
+| Active last 3 months | 249 | 325 |
+| Active last year | 325 | 394 |
 
 ## Audit Data
 
@@ -99,9 +99,9 @@ Of **610** SCF-funded projects:
 | OpenZeppelin | 2 |
 | CoinFabrik | 2 |
 | Code4rena | 2 |
+| Hacken | 1 |
 | Сoinspect | 1 |
 | Cantina | 1 |
-| Hacken | 1 |
 
 ## Data Sources
 
@@ -129,12 +129,12 @@ How many data points each contributor provides across the directory:
 
 **description empty** (8):
 - securrency
-- volta
 - sendit
+- volta
 - kalien
+- mesh
 - soropg
 - microvault
-- mesh
 - ibis
 
 **SCF project missing website** (8):
