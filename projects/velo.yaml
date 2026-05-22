@@ -1,12 +1,13 @@
 title: Velo
 other_names: null
 parent: null
-description: ''
+description: Velo is a Web3 financial protocol built on the Stellar network that bridges traditional finance and decentralized infrastructure. It operates the Federated Credit Exchange (FCX) for digital credit issuance, issues the USDV stablecoin backed by tokenized U.S. Treasury Bills, and enables cross-border payments, remittances, and merchant crypto acceptance through its Orbit platform.
 links:
   website:
     - velo.org
   blog: []
-  x: []
+  x:
+    - veloprotocol
   linkedin: []
   discord: []
   telegram: []
@@ -17,9 +18,13 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
-  operating_region: []
+  category: Financial Protocols
+  tags:
+    - stablecoins
+    - cross-border-payments
+    - rwa
+  operating_region:
+    - asia
   based_in: null
 images: null
 mainnet:

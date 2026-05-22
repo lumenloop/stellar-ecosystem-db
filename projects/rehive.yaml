@@ -1,7 +1,7 @@
 title: Rehive
 other_names: null
 parent: null
-description: ''
+description: A white-label fintech platform — the 'Shopify for fintech' — that enables founders to build, launch, and scale compliant financial apps without building from scratch. Built on Stellar, it provides modular ledger, user management, payments, currency conversion, and wallet infrastructure so early-stage fintechs, marketplaces, and anchors can go to market in weeks rather than months.
 links:
   website:
     - rehive.com
@@ -15,12 +15,17 @@ links:
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/rehive
 attributes:
-  category: null
-  tags: []
-  operating_region: []
-  based_in: null
+  category: Infrastructure & Services
+  tags:
+    - white-label
+    - wallet-infra
+    - b2b
+  operating_region:
+    - Global
+  based_in: South Africa
 images: null
 mainnet:
   audits: []

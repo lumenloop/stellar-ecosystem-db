@@ -1,7 +1,7 @@
 title: Novatti
 other_names: null
 parent: null
-description: ''
+description: 'Novatti is an Australian payments company (ASX: NOV) that delivers payment solutions enabling businesses to accept Visa, Mastercard, Amex, Apple Pay, Alipay, WeChat Pay and more. On Stellar, Novatti issued AUDD — an Australian Dollar stablecoin that surpassed $1 billion in on-chain transactions in 2025.'
 links:
   website:
     - novatti.com
@@ -17,10 +17,14 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
-  operating_region: []
-  based_in: null
+  category: Payments
+  tags:
+    - stablecoins
+    - payment-gateway
+    - b2b
+  operating_region:
+    - oceania
+  based_in: Australia
 images: null
 mainnet:
   audits: []

@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-05-21
+> Auto-generated on 2026-05-22
 
 ## Summary
 
@@ -15,10 +15,10 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 716/728 | 98.4% |
+| description | 720/728 | 98.9% |
 | website | 720/728 | 98.9% |
 | blog | 248/728 | 34.1% |
-| x | 521/728 | 71.6% |
+| x | 523/728 | 71.8% |
 | linkedin | 389/728 | 53.4% |
 | discord | 211/728 | 29% |
 | telegram | 146/728 | 20.1% |
@@ -27,11 +27,11 @@
 | reddit | 16/728 | 2.2% |
 | tiktok | 32/728 | 4.4% |
 | linktree | 5/728 | 0.7% |
-| github | 509/728 | 69.9% |
-| category | 647/728 | 88.9% |
-| tags | 719/728 | 98.8% |
-| operating_region | 704/728 | 96.7% |
-| based_in | 608/728 | 83.5% |
+| github | 510/728 | 70.1% |
+| category | 651/728 | 89.4% |
+| tags | 723/728 | 99.3% |
+| operating_region | 707/728 | 97.1% |
+| based_in | 610/728 | 83.8% |
 
 ## Enrichment vs SCF Airtable
 
@@ -39,13 +39,13 @@ Per-project comparison of our **728** projects (incl. **118** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +141 | 575 |
+| description | +145 | 575 |
 | website | +161 | 559 |
-| github | +131 | 378 |
-| x | +237 | 284 |
+| github | +132 | 378 |
+| x | +239 | 284 |
 | linkedin | +186 | 203 |
 | discord | +103 | 108 |
-| based_in | +127 | 481 |
+| based_in | +129 | 481 |
 | blog | +248 | 0 |
 | telegram | +146 | 0 |
 | youtube | +163 | 0 |
@@ -76,11 +76,11 @@ Of **610** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 463 | 483 |
-| Active last week | 141 | 209 |
-| Active last month | 197 | 278 |
-| Active last 3 months | 250 | 322 |
-| Active last year | 325 | 393 |
+| Tracked projects | 464 | 482 |
+| Active last week | 138 | 212 |
+| Active last month | 198 | 279 |
+| Active last 3 months | 250 | 323 |
+| Active last year | 326 | 392 |
 
 ## Audit Data
 
@@ -99,9 +99,9 @@ Of **610** SCF-funded projects:
 | OpenZeppelin | 2 |
 | CoinFabrik | 2 |
 | Code4rena | 2 |
-| Hacken | 1 |
 | Сoinspect | 1 |
 | Cantina | 1 |
+| Hacken | 1 |
 
 ## Data Sources
 
@@ -118,35 +118,31 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4037 |
-| Lumen Loop | 3137 |
+| Lumen Loop | 3157 |
 | Stellar Expert | 359 |
 | Soroban Security | 72 |
 | DeFiLlama | 19 |
 
 ## Needs Review
 
-20 items need attention.
+16 items need attention.
 
-**description empty** (12):
-- securrency
+**description empty** (8):
 - volta
 - sendit
+- securrency
 - kalien
-- pyth
-- mesh
 - soropg
 - microvault
+- mesh
 - ibis
-- rehive
-- velo
-- novatti
 
 **SCF project missing website** (8):
-- the-starship-soroban
 - sendit
+- the-starship-soroban
 - frost-implementation
-- paysapp
 - timed-transactions-api
+- paysapp
 - wally
 - relax
 - crypto-link

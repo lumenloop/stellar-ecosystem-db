@@ -1,12 +1,13 @@
 title: Pyth
 other_names: null
 parent: null
-description: ''
+description: Pyth Network is a decentralized oracle that delivers real-time price feeds for financial assets across multiple blockchains, including Stellar.
 links:
   website:
     - pyth.network
   blog: []
-  x: []
+  x:
+    - pythnetwork
   linkedin: []
   discord: []
   telegram: []
@@ -17,8 +18,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
+  category: Infrastructure & Services
+  tags:
+    - oracle
+    - infrastructure
+    - cross-chain
   operating_region: []
   based_in: null
 images: null
