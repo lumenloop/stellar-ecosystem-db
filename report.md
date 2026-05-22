@@ -76,11 +76,11 @@ Of **610** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 464 | 482 |
-| Active last week | 138 | 212 |
-| Active last month | 198 | 279 |
-| Active last 3 months | 250 | 323 |
-| Active last year | 326 | 392 |
+| Tracked projects | 464 | 484 |
+| Active last week | 138 | 214 |
+| Active last month | 198 | 281 |
+| Active last 3 months | 250 | 325 |
+| Active last year | 326 | 394 |
 
 ## Audit Data
 
@@ -128,9 +128,9 @@ How many data points each contributor provides across the directory:
 16 items need attention.
 
 **description empty** (8):
+- securrency
 - volta
 - sendit
-- securrency
 - kalien
 - soropg
 - microvault
