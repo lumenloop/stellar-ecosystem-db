@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-05-23
+> Auto-generated on 2026-05-24
 
 ## Summary
 
@@ -15,7 +15,7 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 720/728 | 98.9% |
+| description | 721/728 | 99% |
 | website | 720/728 | 98.9% |
 | blog | 248/728 | 34.1% |
 | x | 523/728 | 71.8% |
@@ -28,10 +28,10 @@
 | tiktok | 32/728 | 4.4% |
 | linktree | 5/728 | 0.7% |
 | github | 510/728 | 70.1% |
-| category | 651/728 | 89.4% |
-| tags | 723/728 | 99.3% |
+| category | 652/728 | 89.6% |
+| tags | 724/728 | 99.5% |
 | operating_region | 707/728 | 97.1% |
-| based_in | 610/728 | 83.8% |
+| based_in | 611/728 | 83.9% |
 
 ## Enrichment vs SCF Airtable
 
@@ -39,13 +39,13 @@ Per-project comparison of our **728** projects (incl. **118** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +145 | 575 |
+| description | +146 | 575 |
 | website | +161 | 559 |
 | github | +132 | 378 |
 | x | +239 | 284 |
 | linkedin | +186 | 203 |
 | discord | +103 | 108 |
-| based_in | +129 | 481 |
+| based_in | +130 | 481 |
 | blog | +248 | 0 |
 | telegram | +146 | 0 |
 | youtube | +163 | 0 |
@@ -78,7 +78,7 @@ Of **610** SCF-funded projects:
 |--------|------:|--------:|
 | Tracked projects | 463 | 484 |
 | Active last week | 139 | 213 |
-| Active last month | 194 | 275 |
+| Active last month | 193 | 275 |
 | Active last 3 months | 249 | 325 |
 | Active last year | 325 | 394 |
 
@@ -96,8 +96,8 @@ Of **610** SCF-funded projects:
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 5 |
-| OpenZeppelin | 2 |
 | CoinFabrik | 2 |
+| OpenZeppelin | 2 |
 | Code4rena | 2 |
 | Hacken | 1 |
 | Сoinspect | 1 |
@@ -118,32 +118,31 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4037 |
-| Lumen Loop | 3157 |
+| Lumen Loop | 3161 |
 | Stellar Expert | 359 |
 | Soroban Security | 72 |
 | DeFiLlama | 19 |
 
 ## Needs Review
 
-16 items need attention.
+15 items need attention.
 
-**description empty** (8):
+**description empty** (7):
 - securrency
 - sendit
-- volta
+- microvault
 - kalien
 - mesh
-- microvault
-- soropg
 - ibis
+- soropg
 
 **SCF project missing website** (8):
 - sendit
+- timed-transactions-api
 - the-starship-soroban
 - frost-implementation
 - paysapp
-- timed-transactions-api
-- wally
 - relax
+- wally
 - crypto-link
 

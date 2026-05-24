@@ -1,7 +1,7 @@
 title: Volta
 other_names: null
 parent: null
-description: ''
+description: Non-custodial smart contract multi-sig wallet and digital asset control panel for enterprises. Enables configurable governance, risk management, and treasury operations across any blockchain with zero counterparty risk.
 links:
   website:
     - voltacircuit.com
@@ -19,10 +19,13 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
+  category: Infrastructure & Services
+  tags:
+    - multi-signatures
+    - wallet-infra
+    - enterprise
   operating_region: []
-  based_in: null
+  based_in: United States
 images: null
 mainnet:
   audits: []
