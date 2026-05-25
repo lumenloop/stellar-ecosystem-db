@@ -1,7 +1,7 @@
 title: soropg
 other_names: null
 parent: null
-description: ''
+description: SoroPG (Soroban Playground) is a browser-based web IDE for writing, testing, and deploying Soroban smart contracts on Stellar — no local CLI required. Features include a Monaco code editor, WASM compilation, wallet generation, contract deployment, function invocation, multi-file workspaces, GitHub URL loading, and local testnet support.
 links:
   website:
     - soropg.com
@@ -15,12 +15,16 @@ links:
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/jamesbachini/soroban-playground
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - developer-tools
+    - ide
+    - rust
   operating_region: []
-  based_in: null
+  based_in: United Kingdom
 images: null
 scf:
   awarded_round:

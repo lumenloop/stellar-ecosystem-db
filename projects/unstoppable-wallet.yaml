@@ -1,5 +1,6 @@
 title: Unstoppable Wallet
-other_names: null
+other_names:
+  - Unstoppable Money
 parent: null
 description: Unstoppable Wallet is an open-source, non-custodial, cryptocurrency wallet that supports multiple blockchains, including Bitcoin, Ethereum, and others. It provides secure storage and management of assets, along with features like swapping and DeFi integration. Being open-source, its transparency and security can be verified by the community. Available for iOS and Android.
 links:
@@ -36,9 +37,11 @@ images:
 scf:
   awarded_round:
     - 34
-  awarded_total: 128900
+    - 42
+  awarded_total: 225900
   submission_urls:
     - communityfund.stellar.org/submissions/recGPKPvcFrv1MYwW
+    - communityfund.stellar.org/submissions/recr9Xro5FCtZngRX
 mainnet:
   audits: []
   tokens: []

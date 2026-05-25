@@ -1,6 +1,7 @@
 title: CTX
 other_names:
   - Prices API RFP - CTX
+  - CTX.com
 parent: null
 description: CTX is a platform that enables businesses to accept cryptocurrency payments both online and in-store, offering seamless integration and dedicated support. It provides daily settlements in local currencies, eliminating volatility risks, and offers hardware devices and POS integrations for in-store transactions.
 links:
@@ -31,9 +32,11 @@ images:
   logo: https://media.lumenloop.com/projects/ctx/logo.svg
 scf:
   awarded_round:
+    - 19
     - 41
-  awarded_total: 138000
+  awarded_total: 226200
   submission_urls:
+    - communityfund.stellar.org/submissions/recs3a3kKPgwjWT1Y
     - communityfund.stellar.org/submissions/recaJkqF1MOWhu3Z5
 mainnet:
   audits: []
