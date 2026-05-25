@@ -32,8 +32,8 @@ scf:
     - 8
   awarded_total: 20000
   submission_urls:
-    - communityfund.stellar.org/submissions/recgqIwRqnhPG0BD7
     - communityfund.stellar.org/submissions/recldMd7LbhGVEOB5
+    - communityfund.stellar.org/submissions/recgqIwRqnhPG0BD7
 mainnet:
   audits: []
   tokens: []

@@ -27,7 +27,7 @@ attributes:
     - security
   operating_region:
     - Global
-  based_in: United States
+  based_in: null
 images: null
 scf:
   awarded_round:

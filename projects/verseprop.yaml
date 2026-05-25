@@ -43,5 +43,9 @@ scf:
   submission_urls:
     - communityfund.stellar.org/submissions/recXjdDQL2sk7HNKx
 mainnet:
-  audits: []
+  audits:
+    - name: Verseprop Audit Report
+      url: sorobansecurity.com/report/72
+      date: '2025-12-05T03:51:01.594Z'
+      auditor: Veridise
   tokens: []

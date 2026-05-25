@@ -30,7 +30,7 @@ attributes:
     - SDK
   operating_region:
     - Japan
-  based_in: Japan
+  based_in: Brazil
 images:
   icon: https://media.lumenloop.com/projects/chainsatlas/apple_touch.png
   avatar: https://media.lumenloop.com/projects/chainsatlas/github_avatar.png

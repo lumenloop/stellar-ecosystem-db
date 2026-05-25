@@ -27,7 +27,7 @@ links:
     - github.com/untangledfinance
     - github.com/untangledfinance/soroban-vault-contract
 attributes:
-  category: Developer Tooling
+  category: Financial Protocols
   tags:
     - Yield Aggregator
     - DeFi
@@ -39,10 +39,12 @@ images:
   logo: https://media.lumenloop.com/projects/untangled/logo.svg
 scf:
   awarded_round:
-    - 41
-  awarded_total: 120000
+    - 31
+    - Liquidity Award - '25 Q3
+  awarded_total: 200000
   submission_urls:
-    - communityfund.stellar.org/submissions/recOh9tgSDRC3elBf
+    - communityfund.stellar.org/submissions/rec5hF8af5tfhSlT2
+    - communityfund.stellar.org/submissions/recd6Nbe9evnD4bAY
 mainnet:
   audits:
     - name: Veridise Auditing Report for Untangled Finance
