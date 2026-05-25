@@ -5,7 +5,8 @@ description: Stellarmint is a platform that simplifies the creation of tokens on
 links:
   website:
     - stellarmint.io
-  blog: []
+  blog:
+    - medium.com/stellar-community/a-guide-to-trustlines-on-stellar-8bc46091a86f
   x:
     - stellarmintio
   linkedin: []

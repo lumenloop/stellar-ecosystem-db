@@ -17,7 +17,7 @@
 |-------|------:|---------:|
 | description | 721/728 | 99% |
 | website | 720/728 | 98.9% |
-| blog | 248/728 | 34.1% |
+| blog | 249/728 | 34.2% |
 | x | 523/728 | 71.8% |
 | linkedin | 389/728 | 53.4% |
 | discord | 211/728 | 29% |
@@ -46,7 +46,7 @@ Per-project comparison of our **728** projects (incl. **118** community projects
 | linkedin | +186 | 203 |
 | discord | +103 | 108 |
 | based_in | +130 | 481 |
-| blog | +248 | 0 |
+| blog | +249 | 0 |
 | telegram | +146 | 0 |
 | youtube | +163 | 0 |
 | instagram | +121 | 0 |
@@ -76,11 +76,11 @@ Of **610** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 463 | 483 |
-| Active last week | 137 | 215 |
-| Active last month | 194 | 273 |
-| Active last 3 months | 247 | 324 |
-| Active last year | 325 | 393 |
+| Tracked projects | 463 | 484 |
+| Active last week | 137 | 216 |
+| Active last month | 194 | 274 |
+| Active last 3 months | 247 | 325 |
+| Active last year | 325 | 394 |
 
 ## Audit Data
 
@@ -91,17 +91,17 @@ Of **610** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 24 |
-| OtterSec | 10 |
 | certora | 10 |
+| OtterSec | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 5 |
-| CoinFabrik | 2 |
 | OpenZeppelin | 2 |
+| CoinFabrik | 2 |
 | Code4rena | 2 |
 | Hacken | 1 |
-| Сoinspect | 1 |
 | Cantina | 1 |
+| Сoinspect | 1 |
 
 ## Data Sources
 
@@ -117,8 +117,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4371 |
-| Lumen Loop | 2829 |
+| SCF | 4043 |
+| Lumen Loop | 3158 |
 | Stellar Expert | 359 |
 | Soroban Security | 72 |
 | DeFiLlama | 19 |
@@ -139,10 +139,10 @@ How many data points each contributor provides across the directory:
 **SCF project missing website** (8):
 - timed-transactions-api
 - sendit
+- wally
 - the-starship-soroban
 - frost-implementation
 - paysapp
 - relax
-- wally
 - crypto-link
 

@@ -24,7 +24,7 @@ links:
   github:
     - github.com/utokens
 attributes:
-  category: End-User Application
+  category: Applications
   tags:
     - Stablecoins
     - USA
@@ -45,10 +45,12 @@ images:
   logo: https://media.lumenloop.com/projects/utoken/utoken-logo-tdm8g1.webp
 scf:
   awarded_round:
-    - 42
-  awarded_total: 86000
+    - 28
+    - 35
+  awarded_total: 59979
   submission_urls:
-    - communityfund.stellar.org/submissions/recjh7svJ58hpDwNV
+    - communityfund.stellar.org/submissions/rechwhwWyyUgGgDlC
+    - communityfund.stellar.org/submissions/rec4AtmuZ3tC2S6WP
 mainnet:
   audits: []
   tokens: []
