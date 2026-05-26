@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-05-25
+> Auto-generated on 2026-05-26
 
 ## Summary
 
@@ -77,7 +77,7 @@ Of **611** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 464 | 484 |
-| Active last week | 126 | 215 |
+| Active last week | 125 | 219 |
 | Active last month | 195 | 274 |
 | Active last 3 months | 248 | 325 |
 | Active last year | 326 | 394 |
@@ -91,17 +91,17 @@ Of **611** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 24 |
-| certora | 10 |
 | OtterSec | 10 |
+| certora | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 5 |
 | OpenZeppelin | 2 |
 | Code4rena | 2 |
 | CoinFabrik | 2 |
+| Сoinspect | 1 |
 | Hacken | 1 |
 | Cantina | 1 |
-| Сoinspect | 1 |
 
 ## Data Sources
 
@@ -117,8 +117,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4044 |
-| Lumen Loop | 3173 |
+| SCF | 4041 |
+| Lumen Loop | 3176 |
 | Stellar Expert | 359 |
 | Soroban Security | 72 |
 | DeFiLlama | 19 |
@@ -128,10 +128,10 @@ How many data points each contributor provides across the directory:
 14 items need attention.
 
 **description empty** (6):
+- microvault
 - securrency
 - mesh
 - sendit
-- microvault
 - kalien
 - ibis
 
