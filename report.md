@@ -77,9 +77,9 @@ Of **611** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 464 | 485 |
-| Active last week | 129 | 214 |
-| Active last month | 198 | 277 |
-| Active last 3 months | 249 | 326 |
+| Active last week | 120 | 218 |
+| Active last month | 198 | 274 |
+| Active last 3 months | 248 | 326 |
 | Active last year | 326 | 396 |
 
 ## Audit Data
@@ -100,8 +100,8 @@ Of **611** SCF-funded projects:
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
 | Сoinspect | 1 |
-| Cantina | 1 |
 | Hacken | 1 |
+| Cantina | 1 |
 
 ## Data Sources
 
