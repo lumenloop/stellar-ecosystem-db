@@ -1,7 +1,7 @@
 title: Securrency
 other_names: null
 parent: null
-description: ''
+description: Blockchain-based fintech and regtech company that automates compliance, streamlines financial transactions, and interconnects financial markets with open infrastructure. Provides institutional-grade platforms for the issuance and management of digital securities and tokenized real-world assets, serving large financial institutions in a SaaS/PaaS model. Co-authored Stellar's CAP-35 (asset clawback) feature and works closely with the Stellar Development Foundation.
 links:
   website:
     - securrency.com
@@ -17,9 +17,13 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
-  operating_region: []
+  category: Infrastructure & Services
+  tags:
+    - tokenization
+    - institutional
+    - rwa
+  operating_region:
+    - Global
   based_in: null
 images: null
 mainnet:
