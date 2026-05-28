@@ -1,0 +1,36 @@
+title: DTCC
+other_names: null
+parent: null
+description: DTCC is the premier post-trade market infrastructure for the global financial services industry, with over 50 years of experience automating, centralizing, and standardizing the processing of financial transactions across clearing, settlement, asset servicing, and data services. Through its DTC subsidiary, DTCC is enabling the tokenization of custodied assets on the Stellar network — targeting real-world assets such as Russell 1000 equities, ETFs, and U.S. Treasuries — with availability expected in H1 2027.
+links:
+  website:
+    - dtcc.com
+  blog:
+    - dtcc.com/press-room
+    - dtcc.com/dtcc-connection
+  x:
+    - the_dtcc
+  linkedin:
+    - linkedin.com/company/dtcc
+  discord: []
+  telegram: []
+  youtube:
+    - youtube.com/c/thedtcc1973
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - tokenization
+    - institutional
+    - rwa
+  operating_region:
+    - Global
+  based_in: United States
+images: null
+mainnet:
+  audits: []
+  tokens: []

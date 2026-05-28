@@ -6,49 +6,49 @@
 
 | Metric | Count |
 |--------|------:|
-| Total projects | **729** |
+| Total projects | **730** |
 | SCF-funded projects | 611 |
-| Community projects | 118 |
+| Community projects | 119 |
 | Audited projects | 52 |
 
 ## Data Coverage
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 724/729 | 99.3% |
-| website | 721/729 | 98.9% |
-| blog | 249/729 | 34.2% |
-| x | 524/729 | 71.9% |
-| linkedin | 390/729 | 53.5% |
-| discord | 211/729 | 28.9% |
-| telegram | 147/729 | 20.2% |
-| youtube | 163/729 | 22.4% |
-| instagram | 121/729 | 16.6% |
-| reddit | 16/729 | 2.2% |
-| tiktok | 32/729 | 4.4% |
-| linktree | 5/729 | 0.7% |
-| github | 512/729 | 70.2% |
-| category | 654/729 | 89.7% |
-| tags | 727/729 | 99.7% |
-| operating_region | 709/729 | 97.3% |
-| based_in | 614/729 | 84.2% |
+| description | 725/730 | 99.3% |
+| website | 722/730 | 98.9% |
+| blog | 250/730 | 34.2% |
+| x | 525/730 | 71.9% |
+| linkedin | 391/730 | 53.6% |
+| discord | 211/730 | 28.9% |
+| telegram | 147/730 | 20.1% |
+| youtube | 164/730 | 22.5% |
+| instagram | 121/730 | 16.6% |
+| reddit | 16/730 | 2.2% |
+| tiktok | 32/730 | 4.4% |
+| linktree | 5/730 | 0.7% |
+| github | 512/730 | 70.1% |
+| category | 655/730 | 89.7% |
+| tags | 728/730 | 99.7% |
+| operating_region | 710/730 | 97.3% |
+| based_in | 615/730 | 84.2% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **729** projects (incl. **118** community projects not in SCF) against **634** in SCF Airtable:
+Per-project comparison of our **730** projects (incl. **119** community projects not in SCF) against **634** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +149 | 575 |
-| website | +162 | 559 |
+| description | +150 | 575 |
+| website | +163 | 559 |
 | github | +134 | 378 |
-| x | +240 | 284 |
-| linkedin | +187 | 203 |
+| x | +241 | 284 |
+| linkedin | +188 | 203 |
 | discord | +103 | 108 |
-| based_in | +133 | 481 |
-| blog | +249 | 0 |
+| based_in | +134 | 481 |
+| blog | +250 | 0 |
 | telegram | +147 | 0 |
-| youtube | +163 | 0 |
+| youtube | +164 | 0 |
 | instagram | +121 | 0 |
 | reddit | +16 | 0 |
 | tiktok | +32 | 0 |
@@ -77,7 +77,7 @@ Of **611** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 465 | 485 |
-| Active last week | 130 | 222 |
+| Active last week | 130 | 221 |
 | Active last month | 197 | 276 |
 | Active last 3 months | 250 | 327 |
 | Active last year | 327 | 396 |
@@ -118,10 +118,10 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4041 |
-| Lumen Loop | 3182 |
+| Lumen Loop | 3192 |
 | Stellar Expert | 360 |
 | Soroban Security | 72 |
-| DeFiLlama | 19 |
+| DeFiLlama | 20 |
 
 ## Needs Review
 
