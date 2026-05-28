@@ -1,0 +1,5 @@
+- id: CDK2LDSYUKPEFN3HNE7K7ETUT3VIOBHSOXAK5CTO4A4RKKZQUCAIWCJA
+  label: Moneygram - MGUSD
+  is_pool: false
+  tags:
+    - issuer

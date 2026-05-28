@@ -31,7 +31,7 @@
 | category | 654/729 | 89.7% |
 | tags | 727/729 | 99.7% |
 | operating_region | 709/729 | 97.3% |
-| based_in | 613/729 | 84.1% |
+| based_in | 614/729 | 84.2% |
 
 ## Enrichment vs SCF Airtable
 
@@ -45,7 +45,7 @@ Per-project comparison of our **729** projects (incl. **118** community projects
 | x | +240 | 284 |
 | linkedin | +187 | 203 |
 | discord | +103 | 108 |
-| based_in | +132 | 481 |
+| based_in | +133 | 481 |
 | blog | +249 | 0 |
 | telegram | +147 | 0 |
 | youtube | +163 | 0 |
@@ -91,8 +91,8 @@ Of **611** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 24 |
-| certora | 10 |
 | OtterSec | 10 |
+| certora | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 5 |
@@ -118,8 +118,8 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4041 |
-| Lumen Loop | 3181 |
-| Stellar Expert | 359 |
+| Lumen Loop | 3182 |
+| Stellar Expert | 360 |
 | Soroban Security | 72 |
 | DeFiLlama | 19 |
 
@@ -129,18 +129,18 @@ How many data points each contributor provides across the directory:
 
 **description empty** (5):
 - microvault
-- mesh
 - sendit
+- mesh
 - ibis
 - kalien
 
 **SCF project missing website** (8):
-- timed-transactions-api
-- paysapp
 - sendit
 - relax
+- timed-transactions-api
 - crypto-link
 - wally
+- paysapp
 - the-starship-soroban
 - frost-implementation
 
