@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-05-27
+> Auto-generated on 2026-05-28
 
 ## Summary
 
@@ -21,7 +21,7 @@
 | x | 524/729 | 71.9% |
 | linkedin | 390/729 | 53.5% |
 | discord | 211/729 | 28.9% |
-| telegram | 146/729 | 20% |
+| telegram | 147/729 | 20.2% |
 | youtube | 163/729 | 22.4% |
 | instagram | 121/729 | 16.6% |
 | reddit | 16/729 | 2.2% |
@@ -47,7 +47,7 @@ Per-project comparison of our **729** projects (incl. **118** community projects
 | discord | +103 | 108 |
 | based_in | +132 | 481 |
 | blog | +249 | 0 |
-| telegram | +146 | 0 |
+| telegram | +147 | 0 |
 | youtube | +163 | 0 |
 | instagram | +121 | 0 |
 | reddit | +16 | 0 |
@@ -77,8 +77,8 @@ Of **611** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 464 | 485 |
-| Active last week | 120 | 218 |
-| Active last month | 198 | 274 |
+| Active last week | 119 | 222 |
+| Active last month | 198 | 277 |
 | Active last 3 months | 248 | 326 |
 | Active last year | 326 | 396 |
 
@@ -96,9 +96,9 @@ Of **611** SCF-funded projects:
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 5 |
-| Code4rena | 2 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
+| Code4rena | 2 |
 | Сoinspect | 1 |
 | Hacken | 1 |
 | Cantina | 1 |
@@ -118,7 +118,7 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4041 |
-| Lumen Loop | 3180 |
+| Lumen Loop | 3181 |
 | Stellar Expert | 359 |
 | Soroban Security | 72 |
 | DeFiLlama | 19 |
