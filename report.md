@@ -30,7 +30,7 @@
 | github | 512/731 | 70% |
 | category | 657/731 | 89.9% |
 | tags | 730/731 | 99.9% |
-| operating_region | 710/731 | 97.1% |
+| operating_region | 712/731 | 97.4% |
 | based_in | 615/731 | 84.1% |
 
 ## Enrichment vs SCF Airtable
@@ -76,11 +76,11 @@ Of **611** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 465 | 485 |
-| Active last week | 128 | 220 |
-| Active last month | 197 | 276 |
-| Active last 3 months | 250 | 328 |
-| Active last year | 327 | 396 |
+| Tracked projects | 465 | 487 |
+| Active last week | 125 | 223 |
+| Active last month | 196 | 279 |
+| Active last 3 months | 249 | 331 |
+| Active last year | 327 | 398 |
 
 ## Audit Data
 
@@ -118,7 +118,7 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4040 |
-| Lumen Loop | 3202 |
+| Lumen Loop | 3204 |
 | Stellar Expert | 360 |
 | Soroban Security | 72 |
 | DeFiLlama | 20 |

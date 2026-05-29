@@ -22,7 +22,8 @@ attributes:
     - on-off-ramp
     - payments
     - b2b
-  operating_region: []
+  operating_region:
+    - global
   based_in: null
 images: null
 mainnet:
