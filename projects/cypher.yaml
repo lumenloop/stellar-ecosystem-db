@@ -1,0 +1,33 @@
+title: Cypher
+other_names: null
+parent: null
+description: Cypher is a crypto card and non-custodial wallet that lets users spend their crypto like cash anywhere in the world, with zero-fee USDC loading, global acceptance, and rewards on every transaction.
+links:
+  website:
+    - cypherhq.io
+  blog:
+    - cypherhq.io/blog
+  x:
+    - cypher_hq_
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Payments
+  tags:
+    - payments
+    - on-off-ramp
+    - software-wallet
+  operating_region: []
+  based_in: null
+images:
+  logo: https://media.lumenloop.com/projects/cypher/cypher-logo-tfrp7d.svg
+mainnet:
+  audits: []
+  tokens: []

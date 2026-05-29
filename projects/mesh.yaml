@@ -1,7 +1,7 @@
 title: Mesh
 other_names: null
 parent: null
-description: ''
+description: The first global crypto payments network, enabling merchants and digital wallets to accept crypto from 300+ exchanges and wallets (170M+ users) and settle in stablecoins or local currency. Integrates with Stellar via SEP-24 as anchor infrastructure for seamless on/off-ramps.
 links:
   website:
     - meshpay.com
@@ -17,8 +17,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
+  category: infrastructure-services
+  tags:
+    - on-off-ramp
+    - payments
+    - b2b
   operating_region: []
   based_in: null
 images: null
