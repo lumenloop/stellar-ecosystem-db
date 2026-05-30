@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-05-29
+> Auto-generated on 2026-05-30
 
 ## Summary
 
@@ -23,9 +23,9 @@
 | discord | 211/731 | 28.9% |
 | telegram | 147/731 | 20.1% |
 | youtube | 164/731 | 22.4% |
-| instagram | 121/731 | 16.6% |
+| instagram | 122/731 | 16.7% |
 | reddit | 16/731 | 2.2% |
-| tiktok | 32/731 | 4.4% |
+| tiktok | 33/731 | 4.5% |
 | linktree | 5/731 | 0.7% |
 | github | 512/731 | 70% |
 | category | 657/731 | 89.9% |
@@ -49,9 +49,9 @@ Per-project comparison of our **731** projects (incl. **120** community projects
 | blog | +251 | 0 |
 | telegram | +147 | 0 |
 | youtube | +164 | 0 |
-| instagram | +121 | 0 |
+| instagram | +122 | 0 |
 | reddit | +16 | 0 |
-| tiktok | +32 | 0 |
+| tiktok | +33 | 0 |
 | linktree | +5 | 0 |
 
 *"Added" = we filled a field SCF didn't have. "Modified" = SCF had a value, we store a different one.*
@@ -77,8 +77,8 @@ Of **611** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 465 | 487 |
-| Active last week | 125 | 223 |
-| Active last month | 196 | 279 |
+| Active last week | 124 | 224 |
+| Active last month | 193 | 280 |
 | Active last 3 months | 249 | 331 |
 | Active last year | 327 | 398 |
 
@@ -100,8 +100,8 @@ Of **611** SCF-funded projects:
 | Code4rena | 2 |
 | CoinFabrik | 2 |
 | Сoinspect | 1 |
-| Hacken | 1 |
 | Cantina | 1 |
+| Hacken | 1 |
 
 ## Data Sources
 
@@ -117,8 +117,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4040 |
-| Lumen Loop | 3204 |
+| SCF | 4038 |
+| Lumen Loop | 3208 |
 | Stellar Expert | 360 |
 | Soroban Security | 72 |
 | DeFiLlama | 20 |
@@ -126,12 +126,6 @@ How many data points each contributor provides across the directory:
 ## Needs Review
 
 12 items need attention.
-
-**description empty** (4):
-- microvault
-- sendit
-- ibis
-- kalien
 
 **SCF project missing website** (8):
 - relax
@@ -142,4 +136,10 @@ How many data points each contributor provides across the directory:
 - crypto-link
 - the-starship-soroban
 - frost-implementation
+
+**description empty** (4):
+- sendit
+- microvault
+- ibis
+- kalien
 

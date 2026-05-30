@@ -13,9 +13,11 @@ links:
   discord: []
   telegram: []
   youtube: []
-  instagram: []
+  instagram:
+    - seevcash
   reddit: []
-  tiktok: []
+  tiktok:
+    - seevcashapp
   linktree: []
   github: []
 attributes:
