@@ -76,11 +76,11 @@ Of **611** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 465 | 487 |
-| Active last week | 133 | 225 |
-| Active last month | 193 | 280 |
-| Active last 3 months | 248 | 331 |
-| Active last year | 327 | 398 |
+| Tracked projects | 465 | 488 |
+| Active last week | 133 | 226 |
+| Active last month | 193 | 281 |
+| Active last 3 months | 248 | 332 |
+| Active last year | 327 | 399 |
 
 ## Audit Data
 
@@ -100,8 +100,8 @@ Of **611** SCF-funded projects:
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
 | Сoinspect | 1 |
-| Cantina | 1 |
 | Hacken | 1 |
+| Cantina | 1 |
 
 ## Data Sources
 
@@ -117,8 +117,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4379 |
-| Lumen Loop | 2868 |
+| SCF | 4362 |
+| Lumen Loop | 2885 |
 | Stellar Expert | 360 |
 | Soroban Security | 72 |
 | DeFiLlama | 20 |
@@ -130,16 +130,16 @@ How many data points each contributor provides across the directory:
 **SCF project missing website** (8):
 - timed-transactions-api
 - wally
+- sendit
 - paysapp
 - relax
 - crypto-link
-- sendit
 - the-starship-soroban
 - frost-implementation
 
 **description empty** (4):
 - microvault
 - sendit
-- ibis
 - kalien
+- ibis
 
