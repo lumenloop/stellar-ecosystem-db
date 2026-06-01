@@ -117,8 +117,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4362 |
-| Lumen Loop | 2885 |
+| SCF | 4049 |
+| Lumen Loop | 3198 |
 | Stellar Expert | 360 |
 | Soroban Security | 72 |
 | DeFiLlama | 20 |
@@ -127,19 +127,19 @@ How many data points each contributor provides across the directory:
 
 12 items need attention.
 
-**SCF project missing website** (8):
-- timed-transactions-api
-- wally
-- sendit
-- paysapp
-- relax
-- crypto-link
-- the-starship-soroban
-- frost-implementation
-
 **description empty** (4):
 - microvault
 - sendit
 - kalien
 - ibis
+
+**SCF project missing website** (8):
+- timed-transactions-api
+- sendit
+- wally
+- paysapp
+- relax
+- crypto-link
+- the-starship-soroban
+- frost-implementation
 
