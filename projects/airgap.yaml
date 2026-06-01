@@ -1,7 +1,10 @@
 title: AirGap
 other_names: null
 parent: null
-description: AirGap offers a robust, cost-effective solution by turning any smartphone into a secure cold wallet. AirGap consists of Wallet (hot wallet for transactions) and Vault (cold wallet for offline signing). Vault can also be used as a standalone solution with MetaMask for enhanced security.
+description: |-
+  AirGap allows users to turn a spare smartphone into a fully offline cold wallet using a two-device architecture: AirGap Vault (offline) for key generation and transaction signing, and AirGap Wallet (online) for transaction creation and broadcasting. Communication between the two devices happens exclusively via QR codes, ensuring that private keys never touch an internet-connected device.
+
+  And, there's much more to it. Check out our docs to know all about AirGap and it's security features - support.airgap.it.
 links:
   website:
     - airgap.it
@@ -25,7 +28,7 @@ links:
   github:
     - github.com/airgap-it
 attributes:
-  category: Applications
+  category: End-User Application
   tags:
     - Software Wallet
     - Hardware Wallet

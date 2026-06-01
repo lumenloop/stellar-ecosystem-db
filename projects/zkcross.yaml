@@ -43,14 +43,14 @@ scf:
   awarded_round:
     - 25
     - 30
-    - Liquidity Award - '25 Q4
     - Liquidity Award - '24 Q1
+    - Liquidity Award - '25 Q4
   awarded_total: 250000
   submission_urls:
     - communityfund.stellar.org/submissions/recUhJNK7YD4XZNwm
     - communityfund.stellar.org/submissions/recYuJFv6edLrh6Bk
-    - communityfund.stellar.org/submissions/recxuRkvnvXjiF5Zw
     - communityfund.stellar.org/submissions/recsPsmxE2ttQIDzh
+    - communityfund.stellar.org/submissions/recxuRkvnvXjiF5Zw
 mainnet:
   audits:
     - name: Soroban zkCrossDex - ZKCross

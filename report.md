@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-05-31
+> Auto-generated on 2026-06-01
 
 ## Summary
 
@@ -35,17 +35,17 @@
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **731** projects (incl. **120** community projects not in SCF) against **634** in SCF Airtable:
+Per-project comparison of our **731** projects (incl. **120** community projects not in SCF) against **637** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +152 | 575 |
-| website | +164 | 559 |
-| github | +134 | 378 |
-| x | +242 | 284 |
-| linkedin | +188 | 203 |
-| discord | +103 | 108 |
-| based_in | +134 | 481 |
+| description | +151 | 576 |
+| website | +163 | 560 |
+| github | +132 | 380 |
+| x | +240 | 286 |
+| linkedin | +185 | 206 |
+| discord | +101 | 110 |
+| based_in | +132 | 483 |
 | blog | +251 | 0 |
 | telegram | +147 | 0 |
 | youtube | +164 | 0 |
@@ -77,8 +77,8 @@ Of **611** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 465 | 487 |
-| Active last week | 135 | 226 |
-| Active last month | 194 | 280 |
+| Active last week | 133 | 225 |
+| Active last month | 193 | 280 |
 | Active last 3 months | 248 | 331 |
 | Active last year | 327 | 398 |
 
@@ -91,17 +91,17 @@ Of **611** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 24 |
-| certora | 10 |
 | OtterSec | 10 |
+| certora | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 5 |
 | Code4rena | 2 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
+| Сoinspect | 1 |
 | Cantina | 1 |
 | Hacken | 1 |
-| Сoinspect | 1 |
 
 ## Data Sources
 
@@ -117,8 +117,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4038 |
-| Lumen Loop | 3208 |
+| SCF | 4379 |
+| Lumen Loop | 2868 |
 | Stellar Expert | 360 |
 | Soroban Security | 72 |
 | DeFiLlama | 20 |
@@ -127,19 +127,19 @@ How many data points each contributor provides across the directory:
 
 12 items need attention.
 
-**description empty** (4):
-- microvault
-- sendit
-- ibis
-- kalien
-
 **SCF project missing website** (8):
+- timed-transactions-api
 - wally
 - paysapp
 - relax
 - crypto-link
 - sendit
-- timed-transactions-api
 - the-starship-soroban
 - frost-implementation
+
+**description empty** (4):
+- microvault
+- sendit
+- ibis
+- kalien
 
