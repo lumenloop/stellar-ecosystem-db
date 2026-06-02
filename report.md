@@ -96,12 +96,12 @@ Of **611** SCF-funded projects:
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 5 |
-| Code4rena | 2 |
 | CoinFabrik | 2 |
+| Code4rena | 2 |
 | OpenZeppelin | 2 |
-| Сoinspect | 1 |
 | Hacken | 1 |
 | Cantina | 1 |
+| Сoinspect | 1 |
 
 ## Data Sources
 
@@ -127,19 +127,19 @@ How many data points each contributor provides across the directory:
 
 12 items need attention.
 
-**description empty** (4):
-- microvault
-- kalien
-- sendit
-- ibis
-
 **SCF project missing website** (8):
 - timed-transactions-api
 - paysapp
-- sendit
 - wally
+- sendit
+- frost-implementation
 - relax
 - crypto-link
 - the-starship-soroban
-- frost-implementation
+
+**description empty** (4):
+- kalien
+- microvault
+- sendit
+- ibis
 
