@@ -77,9 +77,9 @@ Of **611** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 465 | 488 |
-| Active last week | 132 | 225 |
-| Active last month | 194 | 282 |
-| Active last 3 months | 248 | 332 |
+| Active last week | 128 | 226 |
+| Active last month | 194 | 281 |
+| Active last 3 months | 248 | 331 |
 | Active last year | 327 | 398 |
 
 ## Audit Data
@@ -91,17 +91,17 @@ Of **611** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 24 |
-| OtterSec | 10 |
 | certora | 10 |
+| OtterSec | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 5 |
 | OpenZeppelin | 2 |
 | Code4rena | 2 |
 | CoinFabrik | 2 |
-| Hacken | 1 |
 | Cantina | 1 |
 | Сoinspect | 1 |
+| Hacken | 1 |
 
 ## Data Sources
 
@@ -127,6 +127,12 @@ How many data points each contributor provides across the directory:
 
 12 items need attention.
 
+**description empty** (4):
+- kalien
+- ibis
+- microvault
+- sendit
+
 **SCF project missing website** (8):
 - timed-transactions-api
 - the-starship-soroban
@@ -136,10 +142,4 @@ How many data points each contributor provides across the directory:
 - frost-implementation
 - relax
 - crypto-link
-
-**description empty** (4):
-- ibis
-- kalien
-- microvault
-- sendit
 
