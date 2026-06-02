@@ -5,15 +5,14 @@ description: Subs offers an SDK to help businesses manage blockchain subscriptio
 links:
   website:
     - stellar.subsprotocol.com
-  blog:
-    - medium.com/@subsprotocol
-  x:
-    - subsprotocol
+  blog: []
+  x: []
   linkedin:
     - linkedin.com/company/subsprotocol
   discord:
     - t.me/+5vrislxgm3ninjk0
-  telegram: []
+  telegram:
+    - t.me/subs_protocol
   youtube: []
   instagram: []
   reddit: []
