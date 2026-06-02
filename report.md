@@ -78,7 +78,7 @@ Of **611** SCF-funded projects:
 |--------|------:|--------:|
 | Tracked projects | 465 | 488 |
 | Active last week | 132 | 225 |
-| Active last month | 194 | 283 |
+| Active last month | 194 | 282 |
 | Active last 3 months | 248 | 332 |
 | Active last year | 327 | 398 |
 
@@ -117,8 +117,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4047 |
-| Lumen Loop | 3201 |
+| SCF | 4046 |
+| Lumen Loop | 3204 |
 | Stellar Expert | 360 |
 | Soroban Security | 72 |
 | DeFiLlama | 20 |
@@ -126,6 +126,12 @@ How many data points each contributor provides across the directory:
 ## Needs Review
 
 12 items need attention.
+
+**description empty** (4):
+- kalien
+- ibis
+- microvault
+- sendit
 
 **SCF project missing website** (8):
 - timed-transactions-api
@@ -136,10 +142,4 @@ How many data points each contributor provides across the directory:
 - frost-implementation
 - relax
 - crypto-link
-
-**description empty** (4):
-- ibis
-- kalien
-- microvault
-- sendit
 
