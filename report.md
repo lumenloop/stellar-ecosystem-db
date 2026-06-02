@@ -91,14 +91,14 @@ Of **611** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 24 |
-| certora | 10 |
 | OtterSec | 10 |
+| certora | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 5 |
 | OpenZeppelin | 2 |
-| CoinFabrik | 2 |
 | Code4rena | 2 |
+| CoinFabrik | 2 |
 | Hacken | 1 |
 | Cantina | 1 |
 | Сoinspect | 1 |
@@ -117,8 +117,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4046 |
-| Lumen Loop | 3204 |
+| SCF | 4045 |
+| Lumen Loop | 3205 |
 | Stellar Expert | 360 |
 | Soroban Security | 72 |
 | DeFiLlama | 20 |
@@ -127,19 +127,19 @@ How many data points each contributor provides across the directory:
 
 12 items need attention.
 
-**description empty** (4):
-- kalien
-- ibis
-- microvault
-- sendit
-
 **SCF project missing website** (8):
 - timed-transactions-api
-- paysapp
 - the-starship-soroban
 - wally
+- paysapp
 - sendit
 - frost-implementation
 - relax
 - crypto-link
+
+**description empty** (4):
+- ibis
+- kalien
+- microvault
+- sendit
 
