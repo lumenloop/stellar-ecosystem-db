@@ -26,7 +26,7 @@ links:
   github:
     - github.com/handlpay
 attributes:
-  category: null
+  category: Payments
   tags:
     - peer-to-peer
     - social
