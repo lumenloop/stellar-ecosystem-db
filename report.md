@@ -18,7 +18,7 @@
 | description | 731/736 | 99.3% |
 | website | 728/736 | 98.9% |
 | blog | 251/736 | 34.1% |
-| x | 527/736 | 71.6% |
+| x | 528/736 | 71.7% |
 | linkedin | 392/736 | 53.3% |
 | discord | 211/736 | 28.7% |
 | telegram | 148/736 | 20.1% |
@@ -31,7 +31,7 @@
 | category | 661/736 | 89.8% |
 | tags | 734/736 | 99.7% |
 | operating_region | 715/736 | 97.1% |
-| based_in | 617/736 | 83.8% |
+| based_in | 618/736 | 84% |
 
 ## Enrichment vs SCF Airtable
 
@@ -42,10 +42,10 @@ Per-project comparison of our **736** projects (incl. **123** community projects
 | description | +155 | 576 |
 | website | +168 | 560 |
 | github | +132 | 380 |
-| x | +241 | 286 |
+| x | +242 | 286 |
 | linkedin | +186 | 206 |
 | discord | +101 | 110 |
-| based_in | +134 | 483 |
+| based_in | +135 | 483 |
 | blog | +251 | 0 |
 | telegram | +148 | 0 |
 | youtube | +165 | 0 |
@@ -118,7 +118,7 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4046 |
-| Lumen Loop | 3238 |
+| Lumen Loop | 3240 |
 | Stellar Expert | 360 |
 | Soroban Security | 72 |
 | DeFiLlama | 20 |

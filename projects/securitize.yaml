@@ -6,7 +6,8 @@ links:
   website:
     - securitize.io
   blog: []
-  x: []
+  x:
+    - securitize
   linkedin: []
   discord: []
   telegram: []
@@ -23,7 +24,7 @@ attributes:
     - rwa
     - institutional
   operating_region: []
-  based_in: null
+  based_in: United States
 images: null
 mainnet:
   audits: []
