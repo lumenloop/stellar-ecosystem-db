@@ -1,5 +1,6 @@
-title: Digibank | SDP
-other_names: null
+title: Digibank
+other_names:
+  - Digibank | SDP
 parent: null
 description: Digital banking platform integrating Stellar Disbursement Platform (SDP) for efficient bulk payment distribution in emerging markets.
 links:
