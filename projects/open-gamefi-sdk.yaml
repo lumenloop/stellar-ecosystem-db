@@ -6,17 +6,21 @@ links:
   website:
     - github.com/yanis7774/stellar-gamefi-integration/tree/main
   blog: []
-  x: []
-  linkedin: []
+  x:
+    - github
+  linkedin:
+    - linkedin.com/company/github
   discord: []
   telegram: []
-  youtube: []
-  instagram: []
+  youtube:
+    - youtube.com/github
+  instagram:
+    - github
   reddit: []
-  tiktok: []
+  tiktok:
+    - github
   linktree: []
-  github:
-    - github.com/yanis7774/stellar-gamefi-integration
+  github: []
 attributes:
   category: Developer Tooling
   tags:
