@@ -1,12 +1,13 @@
 title: Upshift
 other_names: null
 parent: null
-description: ''
+description: Upshift is a multi-chain, institutional-grade vault infrastructure platform enabling wallets, exchanges, and neobanks to launch custom vaults spanning DeFi yield, RWAs, and PayFi. With TradFi-grade risk controls on 30+ chains, it reached $550M TVL at peak and is now expanding its vault standard to Stellar.
 links:
   website:
     - upshift.finance
   blog: []
-  x: []
+  x:
+    - upshift_fi
   linkedin: []
   discord: []
   telegram: []
@@ -17,8 +18,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
+  category: DeFi
+  tags:
+    - yield
+    - rwa
+    - institutional
   operating_region: []
   based_in: null
 images: null

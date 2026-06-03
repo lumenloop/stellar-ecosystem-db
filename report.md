@@ -15,10 +15,10 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 731/736 | 99.3% |
+| description | 732/736 | 99.5% |
 | website | 728/736 | 98.9% |
 | blog | 251/736 | 34.1% |
-| x | 528/736 | 71.7% |
+| x | 529/736 | 71.9% |
 | linkedin | 392/736 | 53.3% |
 | discord | 211/736 | 28.7% |
 | telegram | 148/736 | 20.1% |
@@ -28,8 +28,8 @@
 | tiktok | 34/736 | 4.6% |
 | linktree | 5/736 | 0.7% |
 | github | 512/736 | 69.6% |
-| category | 661/736 | 89.8% |
-| tags | 734/736 | 99.7% |
+| category | 662/736 | 89.9% |
+| tags | 735/736 | 99.9% |
 | operating_region | 715/736 | 97.1% |
 | based_in | 618/736 | 84% |
 
@@ -39,10 +39,10 @@ Per-project comparison of our **736** projects (incl. **123** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +155 | 576 |
+| description | +156 | 576 |
 | website | +168 | 560 |
 | github | +132 | 380 |
-| x | +242 | 286 |
+| x | +243 | 286 |
 | linkedin | +186 | 206 |
 | discord | +101 | 110 |
 | based_in | +135 | 483 |
@@ -118,29 +118,28 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4046 |
-| Lumen Loop | 3240 |
+| Lumen Loop | 3244 |
 | Stellar Expert | 360 |
 | Soroban Security | 72 |
 | DeFiLlama | 20 |
 
 ## Needs Review
 
-13 items need attention.
+12 items need attention.
 
-**description empty** (5):
-- upshift
+**SCF project missing website** (8):
+- paysapp
+- crypto-link
+- wally
+- sendit
+- the-starship-soroban
+- relax
+- timed-transactions-api
+- frost-implementation
+
+**description empty** (4):
 - ibis
 - kalien
 - microvault
 - sendit
-
-**SCF project missing website** (8):
-- paysapp
-- wally
-- sendit
-- the-starship-soroban
-- crypto-link
-- relax
-- timed-transactions-api
-- frost-implementation
 
