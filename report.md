@@ -6,41 +6,41 @@
 
 | Metric | Count |
 |--------|------:|
-| Total projects | **734** |
+| Total projects | **735** |
 | SCF-funded projects | 613 |
-| Community projects | 121 |
+| Community projects | 122 |
 | Audited projects | 52 |
 
 ## Data Coverage
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 730/734 | 99.5% |
-| website | 726/734 | 98.9% |
-| blog | 251/734 | 34.2% |
-| x | 527/734 | 71.8% |
-| linkedin | 392/734 | 53.4% |
-| discord | 211/734 | 28.7% |
-| telegram | 148/734 | 20.2% |
-| youtube | 165/734 | 22.5% |
-| instagram | 123/734 | 16.8% |
-| reddit | 16/734 | 2.2% |
-| tiktok | 34/734 | 4.6% |
-| linktree | 5/734 | 0.7% |
-| github | 512/734 | 69.8% |
-| category | 660/734 | 89.9% |
-| tags | 733/734 | 99.9% |
-| operating_region | 715/734 | 97.4% |
-| based_in | 617/734 | 84.1% |
+| description | 730/735 | 99.3% |
+| website | 727/735 | 98.9% |
+| blog | 251/735 | 34.1% |
+| x | 527/735 | 71.7% |
+| linkedin | 392/735 | 53.3% |
+| discord | 211/735 | 28.7% |
+| telegram | 148/735 | 20.1% |
+| youtube | 165/735 | 22.4% |
+| instagram | 123/735 | 16.7% |
+| reddit | 16/735 | 2.2% |
+| tiktok | 34/735 | 4.6% |
+| linktree | 5/735 | 0.7% |
+| github | 512/735 | 69.7% |
+| category | 660/735 | 89.8% |
+| tags | 733/735 | 99.7% |
+| operating_region | 715/735 | 97.3% |
+| based_in | 617/735 | 83.9% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **734** projects (incl. **121** community projects not in SCF) against **637** in SCF Airtable:
+Per-project comparison of our **735** projects (incl. **122** community projects not in SCF) against **637** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
 | description | +154 | 576 |
-| website | +166 | 560 |
+| website | +167 | 560 |
 | github | +132 | 380 |
 | x | +241 | 286 |
 | linkedin | +186 | 206 |
@@ -100,8 +100,8 @@ Of **613** SCF-funded projects:
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
 | Cantina | 1 |
-| Сoinspect | 1 |
 | Hacken | 1 |
+| Сoinspect | 1 |
 
 ## Data Sources
 
@@ -118,16 +118,17 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4046 |
-| Lumen Loop | 3231 |
+| Lumen Loop | 3232 |
 | Stellar Expert | 360 |
 | Soroban Security | 72 |
 | DeFiLlama | 20 |
 
 ## Needs Review
 
-12 items need attention.
+13 items need attention.
 
-**description empty** (4):
+**description empty** (5):
+- upshift
 - kalien
 - microvault
 - ibis
