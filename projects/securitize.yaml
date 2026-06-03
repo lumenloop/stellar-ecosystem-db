@@ -1,7 +1,7 @@
 title: Securitize
 other_names: null
 parent: null
-description: ''
+description: Securitize is the world's largest tokenization platform, unlocking broader access to alternative investments by enabling private businesses to raise capital from investors while providing liquidity. With $4B+ in assets across products including BUIDL, USDtb, and VBILL, it is backed by BlackRock and Morgan Stanley.
 links:
   website:
     - securitize.io
@@ -17,8 +17,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
+  category: Financial Protocols
+  tags:
+    - tokenization
+    - rwa
+    - institutional
   operating_region: []
   based_in: null
 images: null

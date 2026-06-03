@@ -15,7 +15,7 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 730/736 | 99.2% |
+| description | 731/736 | 99.3% |
 | website | 728/736 | 98.9% |
 | blog | 251/736 | 34.1% |
 | x | 527/736 | 71.6% |
@@ -28,8 +28,8 @@
 | tiktok | 34/736 | 4.6% |
 | linktree | 5/736 | 0.7% |
 | github | 512/736 | 69.6% |
-| category | 660/736 | 89.7% |
-| tags | 733/736 | 99.6% |
+| category | 661/736 | 89.8% |
+| tags | 734/736 | 99.7% |
 | operating_region | 715/736 | 97.1% |
 | based_in | 617/736 | 83.8% |
 
@@ -39,7 +39,7 @@ Per-project comparison of our **736** projects (incl. **123** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +154 | 576 |
+| description | +155 | 576 |
 | website | +168 | 560 |
 | github | +132 | 380 |
 | x | +241 | 286 |
@@ -91,17 +91,17 @@ Of **613** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 24 |
-| certora | 10 |
 | OtterSec | 10 |
+| certora | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 5 |
 | Code4rena | 2 |
-| CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Cantina | 1 |
+| CoinFabrik | 2 |
 | Hacken | 1 |
 | Сoinspect | 1 |
+| Cantina | 1 |
 
 ## Data Sources
 
@@ -118,30 +118,29 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4046 |
-| Lumen Loop | 3235 |
+| Lumen Loop | 3238 |
 | Stellar Expert | 360 |
 | Soroban Security | 72 |
 | DeFiLlama | 20 |
 
 ## Needs Review
 
-14 items need attention.
+13 items need attention.
 
-**description empty** (6):
+**description empty** (5):
 - upshift
+- ibis
 - kalien
 - microvault
-- ibis
 - sendit
-- securitize
 
 **SCF project missing website** (8):
 - paysapp
-- relax
-- timed-transactions-api
-- frost-implementation
 - wally
 - sendit
 - the-starship-soroban
 - crypto-link
+- relax
+- timed-transactions-api
+- frost-implementation
 
