@@ -15,7 +15,7 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 732/737 | 99.3% |
+| description | 733/737 | 99.5% |
 | website | 729/737 | 98.9% |
 | blog | 251/737 | 34.1% |
 | x | 530/737 | 71.9% |
@@ -30,8 +30,8 @@
 | github | 512/737 | 69.5% |
 | category | 663/737 | 90% |
 | tags | 736/737 | 99.9% |
-| operating_region | 715/737 | 97% |
-| based_in | 618/737 | 83.9% |
+| operating_region | 716/737 | 97.2% |
+| based_in | 619/737 | 84% |
 
 ## Enrichment vs SCF Airtable
 
@@ -39,13 +39,13 @@ Per-project comparison of our **737** projects (incl. **124** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +156 | 576 |
+| description | +157 | 576 |
 | website | +169 | 560 |
 | github | +132 | 380 |
 | x | +244 | 286 |
 | linkedin | +186 | 206 |
 | discord | +101 | 110 |
-| based_in | +135 | 483 |
+| based_in | +136 | 483 |
 | blog | +251 | 0 |
 | telegram | +148 | 0 |
 | youtube | +165 | 0 |
@@ -118,21 +118,14 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4045 |
-| Lumen Loop | 3255 |
+| Lumen Loop | 3258 |
 | Stellar Expert | 360 |
 | Soroban Security | 72 |
 | DeFiLlama | 20 |
 
 ## Needs Review
 
-13 items need attention.
-
-**description empty** (5):
-- arf
-- ibis
-- kalien
-- microvault
-- sendit
+12 items need attention.
 
 **SCF project missing website** (8):
 - wally
@@ -143,4 +136,10 @@ How many data points each contributor provides across the directory:
 - crypto-link
 - the-starship-soroban
 - frost-implementation
+
+**description empty** (4):
+- kalien
+- ibis
+- microvault
+- sendit
 
