@@ -18,14 +18,14 @@
 | description | 732/736 | 99.5% |
 | website | 728/736 | 98.9% |
 | blog | 251/736 | 34.1% |
-| x | 528/736 | 71.7% |
-| linkedin | 391/736 | 53.1% |
+| x | 529/736 | 71.9% |
+| linkedin | 392/736 | 53.3% |
 | discord | 211/736 | 28.7% |
 | telegram | 148/736 | 20.1% |
-| youtube | 164/736 | 22.3% |
-| instagram | 122/736 | 16.6% |
+| youtube | 165/736 | 22.4% |
+| instagram | 123/736 | 16.7% |
 | reddit | 16/736 | 2.2% |
-| tiktok | 33/736 | 4.5% |
+| tiktok | 34/736 | 4.6% |
 | linktree | 5/736 | 0.7% |
 | github | 512/736 | 69.6% |
 | category | 662/736 | 89.9% |
@@ -42,16 +42,16 @@ Per-project comparison of our **736** projects (incl. **123** community projects
 | description | +156 | 576 |
 | website | +168 | 560 |
 | github | +132 | 380 |
-| x | +242 | 286 |
-| linkedin | +185 | 206 |
+| x | +243 | 286 |
+| linkedin | +186 | 206 |
 | discord | +101 | 110 |
 | based_in | +135 | 483 |
 | blog | +251 | 0 |
 | telegram | +148 | 0 |
-| youtube | +164 | 0 |
-| instagram | +122 | 0 |
+| youtube | +165 | 0 |
+| instagram | +123 | 0 |
 | reddit | +16 | 0 |
-| tiktok | +33 | 0 |
+| tiktok | +34 | 0 |
 | linktree | +5 | 0 |
 
 *"Added" = we filled a field SCF didn't have. "Modified" = SCF had a value, we store a different one.*
@@ -76,11 +76,11 @@ Of **613** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 465 | 490 |
-| Active last week | 132 | 222 |
-| Active last month | 193 | 284 |
-| Active last 3 months | 248 | 333 |
-| Active last year | 326 | 400 |
+| Tracked projects | 465 | 491 |
+| Active last week | 132 | 223 |
+| Active last month | 193 | 285 |
+| Active last 3 months | 248 | 334 |
+| Active last year | 326 | 401 |
 
 ## Audit Data
 
@@ -91,17 +91,17 @@ Of **613** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 24 |
-| certora | 10 |
 | OtterSec | 10 |
+| certora | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 5 |
 | Code4rena | 2 |
 | OpenZeppelin | 2 |
 | CoinFabrik | 2 |
+| Hacken | 1 |
 | Сoinspect | 1 |
 | Cantina | 1 |
-| Hacken | 1 |
 
 ## Data Sources
 
@@ -117,8 +117,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4046 |
-| Lumen Loop | 3244 |
+| SCF | 4045 |
+| Lumen Loop | 3250 |
 | Stellar Expert | 360 |
 | Soroban Security | 72 |
 | DeFiLlama | 20 |
@@ -136,10 +136,10 @@ How many data points each contributor provides across the directory:
 **SCF project missing website** (8):
 - paysapp
 - wally
+- crypto-link
 - sendit
 - relax
 - timed-transactions-api
-- crypto-link
 - the-starship-soroban
 - frost-implementation
 
