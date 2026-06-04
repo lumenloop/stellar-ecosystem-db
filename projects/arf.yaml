@@ -6,7 +6,8 @@ links:
   website:
     - arf.one
   blog: []
-  x: []
+  x:
+    - arf_one
   linkedin: []
   discord: []
   telegram: []
@@ -17,8 +18,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
+  category: Payments
+  tags:
+    - cross-border-payments
+    - b2b
+    - liquidity
   operating_region: []
   based_in: null
 images: null

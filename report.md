@@ -18,7 +18,7 @@
 | description | 732/737 | 99.3% |
 | website | 729/737 | 98.9% |
 | blog | 251/737 | 34.1% |
-| x | 529/737 | 71.8% |
+| x | 530/737 | 71.9% |
 | linkedin | 392/737 | 53.2% |
 | discord | 211/737 | 28.6% |
 | telegram | 148/737 | 20.1% |
@@ -28,8 +28,8 @@
 | tiktok | 34/737 | 4.6% |
 | linktree | 5/737 | 0.7% |
 | github | 512/737 | 69.5% |
-| category | 662/737 | 89.8% |
-| tags | 735/737 | 99.7% |
+| category | 663/737 | 90% |
+| tags | 736/737 | 99.9% |
 | operating_region | 715/737 | 97% |
 | based_in | 618/737 | 83.9% |
 
@@ -42,7 +42,7 @@ Per-project comparison of our **737** projects (incl. **124** community projects
 | description | +156 | 576 |
 | website | +169 | 560 |
 | github | +132 | 380 |
-| x | +243 | 286 |
+| x | +244 | 286 |
 | linkedin | +186 | 206 |
 | discord | +101 | 110 |
 | based_in | +135 | 483 |
@@ -91,16 +91,16 @@ Of **613** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 24 |
-| OtterSec | 10 |
 | certora | 10 |
+| OtterSec | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 5 |
+| CoinFabrik | 2 |
 | Code4rena | 2 |
 | OpenZeppelin | 2 |
-| CoinFabrik | 2 |
-| Hacken | 1 |
 | Сoinspect | 1 |
+| Hacken | 1 |
 | Cantina | 1 |
 
 ## Data Sources
@@ -118,7 +118,7 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4045 |
-| Lumen Loop | 3252 |
+| Lumen Loop | 3255 |
 | Stellar Expert | 360 |
 | Soroban Security | 72 |
 | DeFiLlama | 20 |
@@ -129,9 +129,9 @@ How many data points each contributor provides across the directory:
 
 **description empty** (5):
 - arf
+- ibis
 - kalien
 - microvault
-- ibis
 - sendit
 
 **SCF project missing website** (8):
