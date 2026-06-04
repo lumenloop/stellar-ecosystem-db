@@ -118,7 +118,7 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4045 |
-| Lumen Loop | 3251 |
+| Lumen Loop | 3252 |
 | Stellar Expert | 360 |
 | Soroban Security | 72 |
 | DeFiLlama | 20 |
@@ -129,9 +129,9 @@ How many data points each contributor provides across the directory:
 
 **description empty** (5):
 - arf
+- kalien
 - microvault
 - ibis
-- kalien
 - sendit
 
 **SCF project missing website** (8):
