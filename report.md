@@ -127,6 +127,12 @@ How many data points each contributor provides across the directory:
 
 12 items need attention.
 
+**description empty** (4):
+- microvault
+- ibis
+- kalien
+- sendit
+
 **SCF project missing website** (8):
 - paysapp
 - wally
@@ -136,10 +142,4 @@ How many data points each contributor provides across the directory:
 - crypto-link
 - the-starship-soroban
 - frost-implementation
-
-**description empty** (4):
-- ibis
-- microvault
-- sendit
-- kalien
 
