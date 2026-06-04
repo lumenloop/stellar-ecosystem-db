@@ -77,9 +77,9 @@ Of **613** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 465 | 491 |
-| Active last week | 132 | 223 |
-| Active last month | 193 | 285 |
-| Active last 3 months | 248 | 334 |
+| Active last week | 128 | 225 |
+| Active last month | 193 | 284 |
+| Active last 3 months | 247 | 334 |
 | Active last year | 326 | 401 |
 
 ## Audit Data
@@ -136,9 +136,9 @@ How many data points each contributor provides across the directory:
 **SCF project missing website** (8):
 - paysapp
 - wally
+- relax
 - crypto-link
 - sendit
-- relax
 - timed-transactions-api
 - the-starship-soroban
 - frost-implementation
