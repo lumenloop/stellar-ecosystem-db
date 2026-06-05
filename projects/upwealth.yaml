@@ -26,8 +26,6 @@ attributes:
   tags:
     - AI
     - Web
-    - USA
-    - Europe
     - Trading
     - API
     - DEX
@@ -43,6 +41,8 @@ attributes:
     - Europe & Central Asia
     - North America (without Mexico)
     - East Asia & Pacific
+    - USA
+    - Europe
   based_in: France
 images:
   icon: https://media.lumenloop.com/projects/upwealth/favicon.ico

@@ -26,11 +26,11 @@ links:
   github:
     - github.com/handlpay
 attributes:
-  category: Payments
+  category: Applications
   tags:
-    - peer-to-peer
-    - social
-    - cross-border-payments
+    - P2P
+    - Social
+    - Cross-Border Payments
   operating_region:
     - Global
   based_in: Switzerland

@@ -24,11 +24,10 @@ links:
 attributes:
   category: Applications
   tags:
-    - Asia
     - Cross-Border Payments
-    - Philippines
   operating_region:
-    - East Asia & Pacific
+    - Asia
+    - Philippines
   based_in: Philippines
 images:
   icon: https://media.lumenloop.com/projects/ripe/apple_touch.png

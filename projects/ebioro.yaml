@@ -22,10 +22,9 @@ attributes:
     - Remittances
     - Stablecoins
     - Payments
+  operating_region:
     - Cuba
     - Caribbean
-  operating_region:
-    - Global
   based_in: Netherlands
 images: null
 scf:

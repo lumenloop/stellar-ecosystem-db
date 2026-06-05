@@ -17,11 +17,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: infrastructure-services
+  category: Infrastructure & Services
   tags:
-    - on-off-ramp
-    - payments
-    - b2b
+    - On-Off Ramp
+    - Payments
+    - B2B
   operating_region:
     - global
   based_in: null

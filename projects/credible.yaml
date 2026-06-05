@@ -18,11 +18,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: Payments
+  category: Applications
   tags:
-    - cross-border-payments
-    - stablecoins
-    - b2b
+    - Cross-Border Payments
+    - Stablecoins
+    - B2B
   operating_region:
     - United States
     - Emerging Markets

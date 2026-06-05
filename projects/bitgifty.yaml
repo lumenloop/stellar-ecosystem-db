@@ -23,12 +23,9 @@ links:
 attributes:
   category: Applications
   tags:
-    - Gift Cards
-    - Africa
-    - Bill Payment
     - Payments
   operating_region:
-    - Nigeria
+    - Africa
   based_in: Nigeria
 images:
   icon: https://media.lumenloop.com/projects/bitgifty/favicon.ico

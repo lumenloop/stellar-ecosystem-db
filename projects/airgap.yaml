@@ -28,10 +28,9 @@ links:
   github:
     - github.com/airgap-it
 attributes:
-  category: End-User Application
+  category: Applications
   tags:
     - Software Wallet
-    - Hardware Wallet
     - Security
     - SDK
     - Wallet Infra

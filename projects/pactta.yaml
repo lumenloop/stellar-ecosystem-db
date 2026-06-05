@@ -23,9 +23,9 @@ attributes:
   tags:
     - API
     - Anchor
-    - Latam
   operating_region:
     - Global
+    - Latam
   based_in: null
 images: null
 scf:

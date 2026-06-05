@@ -22,9 +22,9 @@ links:
 attributes:
   category: Developer Tooling
   tags:
-    - block-explorer
-    - api
-    - developer-tools
+    - Block Explorer
+    - API
+    - DevX
   operating_region:
     - Europe
   based_in: Poland

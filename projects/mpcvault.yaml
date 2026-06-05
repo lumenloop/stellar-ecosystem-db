@@ -20,11 +20,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: End-User Application
+  category: Applications
   tags:
-    - mpc
-    - institutional
-    - software-wallet
+    - MPC
+    - Institutional
+    - Software Wallet
   operating_region:
     - Global
   based_in: United States

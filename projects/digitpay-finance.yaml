@@ -20,11 +20,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: End-User Application
+  category: Applications
   tags:
-    - cross-border-payments
-    - on-off-ramp
-    - merchant
+    - Cross-Border Payments
+    - On-Off Ramp
+    - Merchant
   operating_region:
     - Africa
   based_in: Nigeria

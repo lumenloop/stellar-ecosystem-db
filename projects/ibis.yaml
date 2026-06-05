@@ -19,11 +19,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: End-User Application
+  category: Applications
   tags:
-    - stablecoins
-    - on-off-ramp
-    - remittances
+    - Stablecoins
+    - On-Off Ramp
+    - Remittances
   operating_region:
     - Venezuela
   based_in: Venezuela

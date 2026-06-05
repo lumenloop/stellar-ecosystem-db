@@ -26,10 +26,10 @@ attributes:
   category: null
   tags:
     - Payment Gateway
-    - Africa
     - B2B
   operating_region:
     - Global
+    - Africa
   based_in: Nigeria
 images:
   icon: https://media.lumenloop.com/projects/flutterwave/apple_touch.png

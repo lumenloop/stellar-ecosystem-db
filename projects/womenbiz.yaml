@@ -27,9 +27,9 @@ attributes:
   tags:
     - Community
     - e-learning
-    - Latam
   operating_region:
     - Peru
+    - Latam
   based_in: Peru
 images:
   icon: https://media.lumenloop.com/projects/womenbiz/favicon.png

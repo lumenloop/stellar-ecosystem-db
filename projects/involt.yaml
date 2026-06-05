@@ -24,7 +24,6 @@ attributes:
   tags:
     - Payments
     - Freelancers
-    - USD
   operating_region:
     - Global
   based_in: Argentina

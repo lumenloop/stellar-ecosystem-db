@@ -29,7 +29,7 @@
 | linktree | 5/737 | 0.7% |
 | github | 512/737 | 69.5% |
 | category | 663/737 | 90% |
-| tags | 736/737 | 99.9% |
+| tags | 733/737 | 99.5% |
 | operating_region | 716/737 | 97.2% |
 | based_in | 619/737 | 84% |
 
@@ -77,9 +77,9 @@ Of **613** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 465 | 492 |
-| Active last week | 125 | 224 |
-| Active last month | 193 | 284 |
-| Active last 3 months | 247 | 335 |
+| Active last week | 138 | 225 |
+| Active last month | 197 | 280 |
+| Active last 3 months | 248 | 334 |
 | Active last year | 326 | 401 |
 
 ## Audit Data
@@ -117,8 +117,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4043 |
-| Lumen Loop | 3261 |
+| SCF | 4074 |
+| Lumen Loop | 3256 |
 | Stellar Expert | 360 |
 | Soroban Security | 72 |
 | DeFiLlama | 20 |
@@ -129,17 +129,17 @@ How many data points each contributor provides across the directory:
 
 **description empty** (4):
 - microvault
+- ibis
 - kalien
 - sendit
-- ibis
 
 **SCF project missing website** (8):
-- sendit
-- paysapp
 - wally
 - relax
 - timed-transactions-api
 - crypto-link
+- sendit
+- paysapp
 - the-starship-soroban
 - frost-implementation
 

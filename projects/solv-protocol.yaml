@@ -19,11 +19,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: DeFi
+  category: Financial Protocols
   tags:
-    - yield
-    - tokenization
-    - collateral
+    - Yield
+    - Tokenization
+    - Lending & Borrowing
   operating_region: []
   based_in: null
 images: null

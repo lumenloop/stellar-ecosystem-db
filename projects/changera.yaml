@@ -24,10 +24,10 @@ attributes:
   tags:
     - Payments
     - Remittances
-    - Africa
     - Mobile
   operating_region:
     - Sub-Saharan Africa
+    - Africa
   based_in: United States
 images:
   icon: https://media.lumenloop.com/projects/changera/apple_touch.png
@@ -35,4 +35,3 @@ images:
 mainnet:
   audits: []
   tokens: []
-  contracts: []

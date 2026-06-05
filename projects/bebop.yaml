@@ -24,13 +24,13 @@ links:
 attributes:
   category: Applications
   tags:
-    - Africa
     - Software Wallet
     - Mobile
     - P2P
   operating_region:
     - North America (without Mexico)
     - Sub-Saharan Africa
+    - Africa
   based_in: United Kingdom
 images:
   icon: https://media.lumenloop.com/projects/bebop/apple_touch.png

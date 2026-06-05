@@ -20,14 +20,14 @@ links:
   linktree: []
   github: []
 attributes:
-  category: End-User Application
+  category: Applications
   tags:
     - Payments
     - Social
-    - Latam
     - Stablecoins
   operating_region:
     - Latin America & Caribbean
+    - Latam
   based_in: Venezuela
 images:
   icon: https://media.lumenloop.com/projects/tipper/favicon.svg

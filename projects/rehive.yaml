@@ -20,9 +20,8 @@ links:
 attributes:
   category: Infrastructure & Services
   tags:
-    - white-label
-    - wallet-infra
-    - b2b
+    - B2B
+    - Wallet Infra
   operating_region:
     - Global
   based_in: South Africa

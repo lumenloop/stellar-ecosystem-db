@@ -27,8 +27,6 @@ attributes:
     - On-Off Ramp
     - Merchant
     - Cross-Border Payments
-    - Africa
-    - Europe
     - Payments
     - DeFi
     - Ecosystem Discovery
@@ -36,6 +34,8 @@ attributes:
     - Middle East & North Africa
     - Sub-Saharan Africa
     - Europe & Central Asia
+    - Africa
+    - Europe
   based_in: United Kingdom
 images:
   icon: https://media.lumenloop.com/projects/globachain/apple_touch.png

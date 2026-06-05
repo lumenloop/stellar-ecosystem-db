@@ -22,9 +22,9 @@ attributes:
   category: Applications
   tags:
     - Supply-Chain
-    - Africa
   operating_region:
     - Global
+    - Africa
   based_in: null
 images:
   logo: https://media.lumenloop.com/projects/trak/logo.png

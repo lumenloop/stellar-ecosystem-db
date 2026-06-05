@@ -23,10 +23,10 @@ attributes:
   category: Applications
   tags:
     - Payments
-    - Latam
     - Mobile
   operating_region:
     - Global
+    - Latam
   based_in: null
 images:
   icon: https://media.lumenloop.com/projects/oinc/apple_touch.png

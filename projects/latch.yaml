@@ -20,9 +20,9 @@ links:
 attributes:
   category: Developer Tooling
   tags:
-    - sdk
-    - wallet-infra
-    - developer-tools
+    - SDK
+    - Wallet Infra
+    - DevX
   operating_region:
     - Global
   based_in: null

@@ -21,9 +21,8 @@ links:
 attributes:
   category: Developer Tooling
   tags:
-    - developer-tools
-    - devx
-    - cli
+    - DevX
+    - CLI
   operating_region: []
   based_in: null
 images: null

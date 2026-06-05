@@ -25,10 +25,10 @@ attributes:
   tags:
     - Software Wallet
     - Remittances
-    - Asia
     - Mobile
   operating_region:
     - Spain
+    - Asia
   based_in: Spain
 images: null
 scf:

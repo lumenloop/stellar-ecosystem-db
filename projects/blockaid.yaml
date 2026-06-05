@@ -22,9 +22,8 @@ links:
 attributes:
   category: Infrastructure & Services
   tags:
-    - security
-    - monitoring
-    - multi-chain
+    - Security
+    - Multi-Chain
   operating_region:
     - global
   based_in: United States

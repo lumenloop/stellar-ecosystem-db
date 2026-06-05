@@ -27,10 +27,10 @@ attributes:
   tags:
     - API
     - Payments
-    - Latam
   operating_region:
     - Latin America & Caribbean
     - East Asia & Pacific
+    - Latam
   based_in: Chile
 images:
   icon: https://media.lumenloop.com/projects/yativo/apple_touch.svg

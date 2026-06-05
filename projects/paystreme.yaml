@@ -24,8 +24,7 @@ links:
 attributes:
   category: Applications
   tags:
-    - Payment Streaming
-    - Latam
+    - Payments
     - Unbanked
     - Mobile
     - On-Off Ramp
@@ -33,6 +32,7 @@ attributes:
     - Anchor
   operating_region:
     - North America (without Mexico)
+    - Latam
   based_in: United States
 images: null
 scf:

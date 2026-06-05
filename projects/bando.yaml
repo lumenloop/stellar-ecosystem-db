@@ -23,11 +23,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: End-User Application
+  category: Applications
   tags:
-    - rwa
-    - b2b
-    - tokenization
+    - RWA
+    - B2B
+    - Tokenization
   operating_region:
     - Mexico
   based_in: Mexico

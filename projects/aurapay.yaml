@@ -22,9 +22,9 @@ attributes:
   tags:
     - Payments
     - Remittances
-    - Latam
   operating_region:
     - Madrid
+    - Latam
   based_in: Spain
 images: null
 scf:

@@ -28,9 +28,8 @@ attributes:
   category: Education & Community
   tags:
     - Community
-    - Latam
   operating_region:
-    - Brazil
+    - Latam
   based_in: Brazil
 images:
   icon: https://media.lumenloop.com/projects/nearx/apple_touch.svg

@@ -23,7 +23,6 @@ links:
 attributes:
   category: Applications
   tags:
-    - Africa
     - Cross-Border Payments
     - Payments
     - Unbanked
@@ -35,6 +34,7 @@ attributes:
     - Remittances
   operating_region:
     - Sub-Saharan Africa
+    - Africa
   based_in: Nigeria
 images:
   icon: https://media.lumenloop.com/projects/payrit/favicon.ico

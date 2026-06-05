@@ -23,13 +23,13 @@ attributes:
     - Remittances
     - Payments
     - Cross-Border Payments
-    - USA
-    - India
     - KYC
     - On-Off Ramp
     - Web
   operating_region:
     - East Asia & Pacific
+    - USA
+    - India
   based_in: India
 images: null
 scf:

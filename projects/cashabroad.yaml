@@ -30,13 +30,13 @@ links:
   linktree: []
   github: []
 attributes:
-  category: End-User Application
+  category: Applications
   tags:
     - Payments
     - Cross-Border Payments
-    - Latam
   operating_region:
     - Mexico
+    - Latam
   based_in: Mexico
 images:
   logo: https://media.lumenloop.com/projects/cashabroad/logo.png

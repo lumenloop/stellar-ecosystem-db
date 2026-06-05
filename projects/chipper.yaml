@@ -27,10 +27,10 @@ attributes:
   tags:
     - Payments
     - Cross-Border Payments
-    - Africa
     - Mobile
   operating_region:
     - Sub-Saharan Africa
+    - Africa
   based_in: Ghana
 images:
   icon: https://media.lumenloop.com/projects/chipper/apple_touch.png

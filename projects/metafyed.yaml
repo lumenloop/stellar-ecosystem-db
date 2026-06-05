@@ -23,10 +23,9 @@ attributes:
   category: Applications
   tags:
     - RWA
-    - Asia
     - Marketplace
   operating_region:
-    - Malaysia
+    - Asia
   based_in: Canada
 images:
   icon: https://media.lumenloop.com/projects/metafyed/apple_touch.png

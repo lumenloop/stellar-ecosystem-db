@@ -20,7 +20,6 @@ links:
 attributes:
   category: Applications
   tags:
-    - Europe
     - Tokenization
     - Marketplace
     - Governance
@@ -29,7 +28,7 @@ attributes:
     - Funding Allocation
     - NFT
   operating_region:
-    - Europe & Central Asia
+    - Europe
   based_in: Sweden
 images: null
 scf:

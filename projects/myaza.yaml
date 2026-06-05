@@ -24,15 +24,15 @@ links:
   github:
     - github.com/myazahq
 attributes:
-  category: End-User Application
+  category: Applications
   tags:
-    - Africa
     - Cross-Border Payments
     - Payments
     - AI
   operating_region:
     - Sub-Saharan Africa
     - Middle East & North Africa
+    - Africa
   based_in: Nigeria
 images:
   icon: https://media.lumenloop.com/projects/myaza/favicon.ico

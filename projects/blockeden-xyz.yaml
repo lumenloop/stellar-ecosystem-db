@@ -26,8 +26,8 @@ links:
 attributes:
   category: Infrastructure & Services
   tags:
-    - Indexer
-    - GraphQL
+    - Infrastructure
+    - API
     - Multi-Chain
   operating_region:
     - United States

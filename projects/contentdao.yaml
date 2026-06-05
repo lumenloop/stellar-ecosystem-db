@@ -30,11 +30,10 @@ attributes:
     - Social
     - Payments
     - API
-    - USD
     - Art
     - Database
     - AI
-    - Telegram Mini App
+    - Mobile
   operating_region:
     - Argentina
   based_in: Singapore

@@ -20,11 +20,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: End-User Application
+  category: Applications
   tags:
-    - software-wallet
-    - defi
-    - lending-borrowing
+    - Software Wallet
+    - DeFi
+    - Lending & Borrowing
   operating_region:
     - Global
   based_in: Romania

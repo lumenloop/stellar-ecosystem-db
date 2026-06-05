@@ -21,11 +21,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: End-User Application
+  category: Applications
   tags:
-    - cross-border-payments
-    - remittances
-    - stablecoins
+    - Cross-Border Payments
+    - Remittances
+    - Stablecoins
   operating_region:
     - Africa
     - North America (without Mexico)

@@ -22,15 +22,15 @@ links:
   github:
     - github.com/tucambioapp
 attributes:
-  category: End-User Application
+  category: Applications
   tags:
     - On-Off Ramp
     - API
-    - Latam
   operating_region:
     - Latin America & Caribbean
     - Europe & Central Asia
     - North America (without Mexico)
+    - Latam
   based_in: Chile
 images:
   icon: https://media.lumenloop.com/projects/tucambio/favicon.png

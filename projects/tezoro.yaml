@@ -19,11 +19,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: End-User Application
+  category: Applications
   tags:
-    - yield-aggregator
-    - defi
-    - cross-chain
+    - Yield
+    - DeFi
+    - Cross-Chain
   operating_region:
     - Global
   based_in: United States

@@ -22,8 +22,8 @@ links:
 attributes:
   category: Infrastructure & Services
   tags:
-    - funding-allocation
-    - payment-streaming
+    - Funding Allocation
+    - Payments
   operating_region:
     - Global
   based_in: null

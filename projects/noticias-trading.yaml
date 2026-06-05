@@ -25,9 +25,9 @@ attributes:
   tags:
     - e-learning
     - Community
-    - Latam
   operating_region:
     - Spain
+    - Latam
   based_in: Spain
 images:
   icon: https://media.lumenloop.com/projects/noticias-trading/apple_touch.png

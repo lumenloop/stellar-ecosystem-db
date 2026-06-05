@@ -20,9 +20,8 @@ links:
 attributes:
   category: Developer Tooling
   tags:
-    - developer-tools
-    - ide
-    - rust
+    - DevX
+    - Rust
   operating_region: []
   based_in: United Kingdom
 images: null

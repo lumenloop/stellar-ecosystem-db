@@ -19,11 +19,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: End-User Application
+  category: Applications
   tags:
-    - payment-gateway
-    - stablecoins
-    - merchant
+    - Payment Gateway
+    - Stablecoins
+    - Merchant
   operating_region: []
   based_in: null
 images: null

@@ -31,12 +31,11 @@ attributes:
     - Mobile
     - Software Wallet
     - Cross-Border Payments
-    - Africa
     - On-Off Ramp
     - Payments
     - Moneygram
   operating_region:
-    - Kenya
+    - Africa
   based_in: Kenya
 images:
   icon: https://media.lumenloop.com/projects/honeycoin/apple_touch.png

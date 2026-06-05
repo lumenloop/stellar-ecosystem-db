@@ -27,7 +27,6 @@ attributes:
     - Plugin
     - Security
     - Wallet Infra
-    - Extension
     - DeFi
     - Cross-Chain
   operating_region:

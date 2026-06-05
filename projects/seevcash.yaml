@@ -21,14 +21,14 @@ links:
   linktree: []
   github: []
 attributes:
-  category: End-User Application
+  category: Applications
   tags:
     - Payments
-    - Africa
     - Mobile
     - Stablecoins
   operating_region:
     - Sub-Saharan Africa
+    - Africa
   based_in: Ghana
 images: null
 scf:

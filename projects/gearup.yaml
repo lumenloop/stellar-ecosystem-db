@@ -26,9 +26,8 @@ links:
 attributes:
   category: Applications
   tags:
-    - Africa
     - Marketplace
-    - Peer-to-Peer
+    - P2P
     - Tokenization
     - Art
     - Payments
@@ -36,6 +35,7 @@ attributes:
   operating_region:
     - Sub-Saharan Africa
     - Middle East & North Africa
+    - Africa
   based_in: Nigeria
 images:
   icon: https://media.lumenloop.com/projects/gearup/favicon.png

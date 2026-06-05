@@ -24,15 +24,14 @@ attributes:
   category: null
   tags:
     - Payments
-    - Latam
     - B2B
     - Stablecoins
   operating_region:
     - Latin America & Caribbean
     - North America (without Mexico)
+    - Latam
   based_in: United States
 images: null
 mainnet:
   audits: []
   tokens: []
-  contracts: []

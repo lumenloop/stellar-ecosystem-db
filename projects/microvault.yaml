@@ -24,11 +24,11 @@ links:
   github:
     - github.com/shamba-records-limited/microvault
 attributes:
-  category: DeFi
+  category: Financial Protocols
   tags:
-    - lending-borrowing
-    - defi
-    - unbanked
+    - Lending & Borrowing
+    - DeFi
+    - Unbanked
   operating_region:
     - Sub-Saharan Africa
   based_in: Kenya

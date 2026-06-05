@@ -30,10 +30,10 @@ attributes:
   tags:
     - Payments
     - On-Off Ramp
-    - Asia
     - Mobile
   operating_region:
     - Philippines
+    - Asia
   based_in: Philippines
 images:
   icon: https://media.lumenloop.com/projects/coins-ph/favicon.ico

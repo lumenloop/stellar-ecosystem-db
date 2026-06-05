@@ -24,11 +24,9 @@ links:
     - github.com/qolaq
 attributes:
   category: Applications
-  tags:
-    - Insurance
-    - Asia
+  tags: []
   operating_region:
-    - Global
+    - Asia
   based_in: Indonesia
 images:
   avatar: https://media.lumenloop.com/projects/qolaq/github_avatar.jpg

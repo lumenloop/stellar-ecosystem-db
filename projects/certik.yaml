@@ -29,7 +29,6 @@ attributes:
   tags:
     - Security
     - Analytics
-    - Monitoring
   operating_region:
     - United States
   based_in: United States

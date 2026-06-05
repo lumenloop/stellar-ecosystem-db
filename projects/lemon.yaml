@@ -28,9 +28,9 @@ attributes:
   tags:
     - Software Wallet
     - On-Off Ramp
-    - Latam
   operating_region:
     - Global
+    - Latam
   based_in: Argentina
 images:
   icon: https://media.lumenloop.com/projects/lemon/apple_touch.png

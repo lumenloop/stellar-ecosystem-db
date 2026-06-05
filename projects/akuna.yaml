@@ -18,11 +18,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: End-User Application
+  category: Applications
   tags:
-    - software-wallet
-    - cross-border-payments
-    - on-off-ramp
+    - Software Wallet
+    - Cross-Border Payments
+    - On-Off Ramp
   operating_region:
     - Africa
   based_in: null

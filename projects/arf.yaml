@@ -19,11 +19,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: Payments
+  category: Applications
   tags:
-    - cross-border-payments
-    - b2b
-    - liquidity
+    - Cross-Border Payments
+    - B2B
+    - Liquidity
   operating_region:
     - global
   based_in: Turkey

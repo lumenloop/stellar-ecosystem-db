@@ -19,10 +19,9 @@ links:
   linktree: []
   github: []
 attributes:
-  category: Applications
+  category: Developer Tooling
   tags:
     - Payments
-    - Gift Cards
     - Merchant
   operating_region:
     - Global

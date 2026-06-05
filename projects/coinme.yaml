@@ -18,11 +18,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: Payments
+  category: Applications
   tags:
-    - on-off-ramp
-    - remittances
-    - stablecoins
+    - On-Off Ramp
+    - Remittances
+    - Stablecoins
   operating_region:
     - North America
     - LATAM

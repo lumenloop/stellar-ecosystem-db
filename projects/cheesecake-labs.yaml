@@ -22,9 +22,8 @@ links:
 attributes:
   category: Infrastructure & Services
   tags:
-    - b2b
-    - tokenization
-    - latam
+    - B2B
+    - Tokenization
   operating_region:
     - Brazil
     - United States

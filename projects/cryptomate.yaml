@@ -18,11 +18,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: End-User Application
+  category: Applications
   tags:
-    - moneygram
-    - unbanked
-    - white-label
+    - Moneygram
+    - Unbanked
+    - B2B
   operating_region:
     - LATAM
     - Africa

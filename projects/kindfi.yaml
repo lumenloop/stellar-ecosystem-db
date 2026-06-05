@@ -22,16 +22,16 @@ links:
 attributes:
   category: Applications
   tags:
-    - Latam
-    - Fundraising
+    - Funding Allocation
     - Governance
-    - NFTs
+    - NFT
     - KYC
     - AI
     - Community
     - Art
   operating_region:
     - Latin America & Caribbean
+    - Latam
   based_in: Costa Rica
 images:
   icon: https://media.lumenloop.com/projects/kindfi/favicon.ico

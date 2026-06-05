@@ -22,9 +22,8 @@ links:
 attributes:
   category: Developer Tooling
   tags:
-    - developer-tools
-    - visual-studio-code
-    - security
+    - DevX
+    - Security
   operating_region:
     - Global
   based_in: United States

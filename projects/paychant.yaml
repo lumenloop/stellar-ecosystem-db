@@ -25,13 +25,13 @@ links:
 attributes:
   category: Applications
   tags:
-    - Africa
     - B2B
     - Wallet Infra
     - Cross-Border Payments
     - Multi-Chain
   operating_region:
     - Sub-Saharan Africa
+    - Africa
   based_in: Nigeria
 images:
   icon: https://media.lumenloop.com/projects/paychant/favicon.ico

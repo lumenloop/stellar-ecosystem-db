@@ -30,12 +30,10 @@ attributes:
     - Mobile
     - Software Wallet
     - Cross-Border Payments
-    - Africa
     - On-Off Ramp
     - Payments
     - Moneygram
-  operating_region:
-    - Kenya
+  operating_region: []
   based_in: Kenya
 images:
   icon: https://media.lumenloop.com/projects/peer/apple_touch.png

@@ -28,9 +28,8 @@ attributes:
     - Community
     - Workshops
     - Hackathons
-    - India
   operating_region:
-    - Global
+    - India
   based_in: India
 images:
   og_image: https://media.lumenloop.com/projects/rise-in/og.png

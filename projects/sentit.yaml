@@ -24,12 +24,11 @@ links:
 attributes:
   category: Applications
   tags:
-    - Africa
     - Software Wallet
     - Mobile
     - P2P
   operating_region:
-    - United States
+    - Africa
   based_in: Nigeria
 images: null
 scf:

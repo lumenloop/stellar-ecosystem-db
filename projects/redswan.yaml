@@ -23,11 +23,12 @@ links:
 attributes:
   category: Financial Protocols
   tags:
-    - rwa
-    - real-estate
-    - tokenization
+    - RWA
+    - Real Estate
+    - Tokenization
   operating_region:
     - North America
+    - usa
   based_in: United States
 images: null
 mainnet:

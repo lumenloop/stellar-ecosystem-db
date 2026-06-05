@@ -24,10 +24,10 @@ attributes:
   tags:
     - Software Wallet
     - Payments
-    - Africa
     - Unbanked
   operating_region:
     - Sub-Saharan Africa
+    - Africa
   based_in: United Kingdom
 images: null
 scf:

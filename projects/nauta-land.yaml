@@ -23,10 +23,9 @@ attributes:
   tags:
     - Real Estate
     - Tokenization
-    - Latam
     - Fractional Ownership
   operating_region:
-    - Colombia
+    - Latam
   based_in: Colombia
 images:
   logo: https://media.lumenloop.com/projects/nauta-land/logo.png

@@ -24,13 +24,13 @@ links:
 attributes:
   category: Applications
   tags:
-    - Africa
     - Cross-Border Payments
     - Payments
     - P2P
   operating_region:
     - Sub-Saharan Africa
     - Latin America & Caribbean
+    - Africa
   based_in: Nigeria
 images:
   avatar: https://media.lumenloop.com/projects/bingtellar/github_avatar.jpg

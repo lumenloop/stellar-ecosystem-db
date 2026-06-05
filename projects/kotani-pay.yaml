@@ -22,12 +22,11 @@ links:
 attributes:
   category: Applications
   tags:
-    - Africa
     - Software Wallet
     - Mobile
     - P2P
   operating_region:
-    - Kenya
+    - Africa
   based_in: Ghana
 images: null
 scf:

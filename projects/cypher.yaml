@@ -19,11 +19,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: Payments
+  category: Applications
   tags:
-    - payments
-    - on-off-ramp
-    - software-wallet
+    - Payments
+    - On-Off Ramp
+    - Software Wallet
   operating_region:
     - Global
   based_in: null

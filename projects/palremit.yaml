@@ -31,12 +31,11 @@ attributes:
     - On-Off Ramp
     - Mobile
     - Web
-    - Peer-to-Peer
+    - P2P
     - Security
     - Infrastructure
     - DeFi
     - Wallet Infra
-    - USD
   operating_region:
     - Europe & Central Asia
     - Sub-Saharan Africa

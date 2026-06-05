@@ -17,11 +17,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: Payments
+  category: Applications
   tags:
-    - stablecoins
-    - payment-gateway
-    - b2b
+    - Stablecoins
+    - Payment Gateway
+    - B2B
   operating_region:
     - oceania
   based_in: Australia

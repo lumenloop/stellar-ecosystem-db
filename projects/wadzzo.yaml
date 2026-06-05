@@ -23,10 +23,9 @@ links:
 attributes:
   category: Applications
   tags:
-    - Geolocation
     - Marketplace
     - Mobile
-    - Collectibles
+    - NFT
   operating_region:
     - North America (without Mexico)
   based_in: United States

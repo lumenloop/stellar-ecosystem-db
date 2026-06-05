@@ -27,18 +27,18 @@ attributes:
   category: Applications
   tags:
     - Stablecoins
-    - USA
-    - Europe
     - Freelancers
     - Payments
     - Cross-Border Payments
-    - Peer-to-Peer
+    - P2P
     - DeFi
     - Lending & Borrowing
   operating_region:
     - Europe & Central Asia
     - Sub-Saharan Africa
     - North America (without Mexico)
+    - USA
+    - Europe
   based_in: Nigeria
 images:
   icon: https://media.lumenloop.com/projects/utoken/utoken-favicon-tdm8g2.ico

@@ -25,10 +25,8 @@ attributes:
   tags:
     - B2B
     - Wallet Infra
-    - Caribbean
   operating_region:
-    - Latin America & Caribbean
-    - North America (without Mexico)
+    - Caribbean
   based_in: Mexico
 images:
   icon: https://media.lumenloop.com/projects/alfred/apple_touch.png

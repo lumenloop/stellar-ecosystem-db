@@ -24,9 +24,9 @@ attributes:
   category: Applications
   tags:
     - On-Off Ramp
-    - Latam
   operating_region:
     - United States
+    - Latam
   based_in: United States
 images:
   icon: https://media.lumenloop.com/projects/blox/apple_touch.png

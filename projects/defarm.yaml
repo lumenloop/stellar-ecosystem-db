@@ -23,11 +23,11 @@ attributes:
   category: Developer Tooling
   tags:
     - Supply-Chain
-    - Latam
   operating_region:
     - Latin America & Caribbean
     - Middle East & North Africa
     - Europe & Central Asia
+    - Latam
   based_in: Brazil
 images:
   icon: https://media.lumenloop.com/projects/defarm/apple_touch.png

@@ -22,11 +22,11 @@ attributes:
   category: Applications
   tags:
     - Remittances
-    - Caribbean
     - On-Off Ramp
   operating_region:
     - Latin America & Caribbean
     - North America (without Mexico)
+    - Caribbean
   based_in: Argentina
 images:
   icon: https://media.lumenloop.com/projects/domipago/apple_touch.png

@@ -25,10 +25,9 @@ links:
   github:
     - github.com/peerpesa-dapp/peerpesa-web3
 attributes:
-  category: End-User Application
+  category: Applications
   tags:
-    - Africa
-    - Peer-to-Peer
+    - P2P
     - Cross-Border Payments
     - Mobile
     - DEX
@@ -36,6 +35,7 @@ attributes:
     - Payments
   operating_region:
     - Sub-Saharan Africa
+    - Africa
   based_in: Uganda
 images: null
 scf:

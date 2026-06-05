@@ -23,11 +23,11 @@ attributes:
   category: Applications
   tags:
     - Remittances
-    - Latam
     - Mobile
   operating_region:
     - Latin America & Caribbean
     - North America (without Mexico)
+    - Latam
   based_in: null
 images: null
 scf:

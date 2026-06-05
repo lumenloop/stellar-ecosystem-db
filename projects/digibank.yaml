@@ -26,7 +26,6 @@ attributes:
   category: Applications
   tags:
     - SDP
-    - MENA
     - Unbanked
     - Aid
     - Cross-Border Payments
@@ -34,6 +33,7 @@ attributes:
   operating_region:
     - Middle East & North Africa
     - Sub-Saharan Africa
+    - MENA
   based_in: Turkey
 images:
   icon: https://media.lumenloop.com/projects/digibank-sdp/favicon.png

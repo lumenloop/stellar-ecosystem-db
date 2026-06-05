@@ -24,11 +24,10 @@ links:
 attributes:
   category: Applications
   tags:
-    - Africa
     - B2B
     - Wallet Infra
   operating_region:
-    - Turkey
+    - Africa
   based_in: United Kingdom
 images:
   avatar: https://media.lumenloop.com/projects/link/github_avatar.png

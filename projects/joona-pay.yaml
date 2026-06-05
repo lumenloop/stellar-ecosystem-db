@@ -21,13 +21,13 @@ links:
   github:
     - github.com/bp-ventures
 attributes:
-  category: End-User Application
+  category: Applications
   tags:
     - Payment Gateway
-    - Africa
     - Merchant
   operating_region:
     - Sub-Saharan Africa
+    - Africa
   based_in: Côte d&#x27;Ivoire
 images: null
 scf:

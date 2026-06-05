@@ -22,12 +22,11 @@ links:
 attributes:
   category: Applications
   tags:
-    - Latam
     - Payments
     - P2P
     - Software Wallet
   operating_region:
-    - Global
+    - Latam
   based_in: Brazil
 images:
   icon: https://media.lumenloop.com/projects/emigro/apple_touch.png

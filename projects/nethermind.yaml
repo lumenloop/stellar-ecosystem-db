@@ -22,9 +22,9 @@ links:
 attributes:
   category: Infrastructure & Services
   tags:
-    - infrastructure
-    - zk
-    - cross-chain
+    - Infrastructure
+    - ZK
+    - Cross-Chain
   operating_region:
     - Global
   based_in: United Kingdom

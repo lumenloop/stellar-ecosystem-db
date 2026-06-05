@@ -25,11 +25,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: End-User Application
+  category: Applications
   tags:
-    - marketplace
-    - b2b
-    - payments
+    - Marketplace
+    - B2B
+    - Payments
   operating_region: []
   based_in: null
 images: null

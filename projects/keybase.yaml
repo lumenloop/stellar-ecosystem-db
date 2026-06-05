@@ -19,11 +19,11 @@ links:
   github:
     - github.com/keybase/client
 attributes:
-  category: End-User Application
+  category: Applications
   tags:
-    - identity
-    - security
-    - social
+    - Identity
+    - Security
+    - Social
   operating_region: []
   based_in: null
 images: null

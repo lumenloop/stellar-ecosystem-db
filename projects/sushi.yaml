@@ -20,11 +20,11 @@ links:
   github:
     - github.com/sushiswap
 attributes:
-  category: DeFi
+  category: Financial Protocols
   tags:
-    - defi
-    - dex
-    - multi-chain
+    - DeFi
+    - DEX
+    - Multi-Chain
   operating_region:
     - global
   based_in: Japan

@@ -23,10 +23,9 @@ attributes:
   category: Applications
   tags:
     - Cross-Border Payments
+  operating_region:
     - India
     - Asia
-  operating_region:
-    - South Asia
   based_in: India
 images:
   icon: https://media.lumenloop.com/projects/scopex/favicon.ico

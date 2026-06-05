@@ -22,10 +22,10 @@ attributes:
   category: null
   tags:
     - Payments
-    - Africa
     - DeFi
   operating_region:
     - Sub-Saharan Africa
+    - Africa
   based_in: United Kingdom
 images:
   icon: https://media.lumenloop.com/projects/shiga/favicon.png
@@ -34,4 +34,3 @@ images:
 mainnet:
   audits: []
   tokens: []
-  contracts: []

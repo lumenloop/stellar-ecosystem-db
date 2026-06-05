@@ -31,9 +31,9 @@ attributes:
   tags:
     - Payments
     - API
-    - Africa
   operating_region:
     - Sub-Saharan Africa
+    - Africa
   based_in: Kenya
 images:
   avatar: https://media.lumenloop.com/projects/benkiko/github_avatar.jpg

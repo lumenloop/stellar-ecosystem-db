@@ -22,9 +22,8 @@ links:
   github:
     - github.com/houseafrica/steller-blockchain-integration
 attributes:
-  category: End-User Application
+  category: Applications
   tags:
-    - Africa
     - NFT
     - Real Estate
     - Marketplace
@@ -32,6 +31,7 @@ attributes:
     - Cross-Border Payments
   operating_region:
     - Sub-Saharan Africa
+    - Africa
   based_in: Nigeria
 images:
   icon: https://media.lumenloop.com/projects/sytemap/apple_touch.png

@@ -26,10 +26,10 @@ attributes:
   category: null
   tags:
     - On-Off Ramp
-    - Latam
     - Mobile
   operating_region:
     - Latin America & Caribbean
+    - Latam
   based_in: Argentina
 images:
   icon: https://media.lumenloop.com/projects/ripio/apple_touch.webp
@@ -39,4 +39,3 @@ images:
 mainnet:
   audits: []
   tokens: []
-  contracts: []

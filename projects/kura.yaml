@@ -25,11 +25,11 @@ attributes:
   category: Applications
   tags:
     - B2B
-    - Caribbean
-    - Haiti
     - Cross-Border Payments
   operating_region:
     - North America (without Mexico)
+    - Caribbean
+    - Haiti
   based_in: United States
 images:
   icon: https://media.lumenloop.com/projects/kura/apple_touch.png

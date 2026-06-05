@@ -18,11 +18,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: DeFi
+  category: Financial Protocols
   tags:
-    - rwa
-    - tokenization
-    - institutional
+    - RWA
+    - Tokenization
+    - Institutional
   operating_region:
     - global
   based_in: null

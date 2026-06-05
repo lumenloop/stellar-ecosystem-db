@@ -24,10 +24,10 @@ attributes:
   category: Applications
   tags:
     - Supply-Chain
-    - Africa
     - Mobile
   operating_region:
     - Sub-Saharan Africa
+    - Africa
   based_in: Nigeria
 images: null
 scf:

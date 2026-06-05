@@ -26,10 +26,9 @@ attributes:
     - Social
     - Payment Gateway
     - On-Off Ramp
-    - Peer-to-Peer
+    - P2P
     - Cross-Border Payments
     - Freelancers
-    - USD
     - API
   operating_region:
     - Global

@@ -24,8 +24,6 @@ attributes:
     - Nodes
     - API
     - Infrastructure
-    - Nest
-    - Horizon
     - DevX
   operating_region:
     - Global

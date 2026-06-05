@@ -21,11 +21,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: End-User Application
+  category: Applications
   tags:
-    - payment-gateway
-    - cross-border-payments
-    - on-off-ramp
+    - Payment Gateway
+    - Cross-Border Payments
+    - On-Off Ramp
   operating_region:
     - Latin America & Caribbean
     - North America (without Mexico)

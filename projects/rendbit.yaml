@@ -25,11 +25,11 @@ attributes:
   tags:
     - Payments
     - Savings
-    - Africa
     - Mobile
     - Stablecoins
   operating_region:
     - Sub-Saharan Africa
+    - Africa
   based_in: Nigeria
 images:
   icon: https://media.lumenloop.com/projects/rendbit/apple_touch.png

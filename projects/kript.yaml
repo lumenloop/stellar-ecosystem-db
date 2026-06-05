@@ -28,11 +28,10 @@ attributes:
     - KYC
     - API
     - Infrastructure
-    - Africa
-    - USD
   operating_region:
     - Sub-Saharan Africa
     - Latin America & Caribbean
+    - Africa
   based_in: Nigeria
 images: null
 scf:

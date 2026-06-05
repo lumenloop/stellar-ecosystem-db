@@ -22,9 +22,9 @@ attributes:
   tags:
     - Payments
     - Unbanked
-    - Africa
   operating_region:
     - Global
+    - Africa
   based_in: Nigeria
 images: null
 scf:

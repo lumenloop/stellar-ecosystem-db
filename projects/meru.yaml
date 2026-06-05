@@ -29,14 +29,13 @@ attributes:
     - Software Wallet
     - Mobile
     - P2P
-    - Latam
     - Cross-Border Payments
     - DeFi
     - Savings
     - Freelancers
     - Moneygram
   operating_region:
-    - Latin America & Caribbean
+    - Latam
   based_in: Colombia
 images:
   icon: https://media.lumenloop.com/projects/meru/apple_touch.png

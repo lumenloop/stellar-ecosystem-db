@@ -26,10 +26,9 @@ links:
 attributes:
   category: Education & Community
   tags:
-    - Latam
     - Community
   operating_region:
-    - Chile
+    - Latam
   based_in: Chile
 images:
   icon: https://media.lumenloop.com/projects/tellus-cooperative/apple_touch.jpg

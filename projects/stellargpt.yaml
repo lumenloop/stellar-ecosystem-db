@@ -21,8 +21,6 @@ links:
 attributes:
   category: Developer Tooling
   tags:
-    - Africa
-    - Asia
     - Web
     - API
     - e-learning
@@ -31,6 +29,8 @@ attributes:
     - Community
   operating_region:
     - North America (without Mexico)
+    - Africa
+    - Asia
   based_in: United States
 images: null
 scf:

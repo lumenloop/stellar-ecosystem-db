@@ -21,10 +21,8 @@ attributes:
   category: Applications
   tags:
     - SDP
-    - MENA
   operating_region:
-    - Europe & Central Asia
-    - Middle East & North Africa
+    - MENA
   based_in: France
 images:
   icon: https://media.lumenloop.com/projects/tracee/favicon.svg

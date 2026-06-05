@@ -26,9 +26,9 @@ attributes:
   tags:
     - Payments
     - Cross-Border Payments
-    - Africa
   operating_region:
     - Sub-Saharan Africa
+    - Africa
   based_in: Kenya
 images:
   icon: https://media.lumenloop.com/projects/pretium/favicon.png

@@ -24,15 +24,14 @@ links:
 attributes:
   category: Applications
   tags:
-    - Africa
     - Savings
-    - Peer-to-Peer
+    - P2P
     - Lending & Borrowing
     - Unbanked
     - Payments
     - Art
   operating_region:
-    - Kenya
+    - Africa
   based_in: Kenya
 images:
   icon: https://media.lumenloop.com/projects/clixpesa/apple_touch.png

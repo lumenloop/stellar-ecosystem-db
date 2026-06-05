@@ -31,10 +31,7 @@ attributes:
     - Art
     - API
     - SDK
-    - GraphQL
     - Rust
-    - Python
-    - JS
     - Storage
     - Payments
   operating_region:

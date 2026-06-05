@@ -24,7 +24,7 @@ attributes:
   category: Infrastructure & Services
   tags:
     - API
-    - Indexer
+    - Infrastructure
     - Database
   operating_region:
     - Netherlands

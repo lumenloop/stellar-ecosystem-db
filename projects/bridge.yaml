@@ -18,11 +18,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: Payments
+  category: Applications
   tags:
-    - stablecoins
-    - cross-border-payments
-    - api
+    - Stablecoins
+    - Cross-Border Payments
+    - API
   operating_region:
     - global
   based_in: United States

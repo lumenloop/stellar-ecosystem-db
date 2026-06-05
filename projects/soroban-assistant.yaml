@@ -20,9 +20,7 @@ attributes:
   category: Developer Tooling
   tags:
     - AI
-    - Fuzz
     - Formal Verification
-    - Solidity
     - Security
     - Automation
   operating_region:

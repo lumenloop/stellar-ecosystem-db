@@ -20,9 +20,8 @@ links:
 attributes:
   category: Financial Protocols
   tags:
-    - derivatives
-    - defi
-    - trading
+    - DeFi
+    - Trading
   operating_region:
     - Global
   based_in: Turkey

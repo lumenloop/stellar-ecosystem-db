@@ -18,11 +18,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: End-User Application
+  category: Applications
   tags:
-    - savings
-    - stablecoins
-    - mobile
+    - Savings
+    - Stablecoins
+    - Mobile
   operating_region:
     - Turkey
   based_in: Turkey

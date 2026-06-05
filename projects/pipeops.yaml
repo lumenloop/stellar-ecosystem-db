@@ -28,10 +28,8 @@ attributes:
     - Infrastructure
     - API
     - Hosting
-    - Africa
-    - Horizon
   operating_region:
-    - Nigeria
+    - Africa
   based_in: Nigeria
 images:
   avatar: https://media.lumenloop.com/projects/pipeops/github_avatar.jpg

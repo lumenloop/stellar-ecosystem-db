@@ -22,11 +22,11 @@ links:
   github:
     - github.com/scf-public-goods-maintenance
 attributes:
-  category: End-User Application
+  category: Applications
   tags:
-    - analytics
-    - governance
-    - funding-allocation
+    - Analytics
+    - Governance
+    - Funding Allocation
   operating_region:
     - Global
   based_in: null

@@ -23,9 +23,8 @@ attributes:
   category: Financial Protocols
   tags:
     - Anchor
-    - Latam
   operating_region:
-    - Argentina
+    - Latam
   based_in: Argentina
 images:
   icon: https://media.lumenloop.com/projects/anclap/apple_touch.svg

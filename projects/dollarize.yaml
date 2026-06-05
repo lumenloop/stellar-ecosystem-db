@@ -24,7 +24,6 @@ attributes:
   tags:
     - Payments
     - Stablecoins
-    - USD
   operating_region:
     - Global
   based_in: Mexico

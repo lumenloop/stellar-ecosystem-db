@@ -20,11 +20,10 @@ links:
   linktree: []
   github: []
 attributes:
-  category: Payments
+  category: Applications
   tags:
-    - stablecoins
-    - on-off-ramp
-    - africa
+    - Stablecoins
+    - On-Off Ramp
   operating_region:
     - africa
     - latam

@@ -23,7 +23,6 @@ links:
 attributes:
   category: Infrastructure & Services
   tags:
-    - Credentials
     - Identity
   operating_region:
     - LATAM, USA

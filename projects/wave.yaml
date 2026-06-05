@@ -22,10 +22,10 @@ attributes:
   category: null
   tags:
     - Payments
-    - Africa
     - Mobile
   operating_region:
     - Sub-Saharan Africa
+    - Africa
   based_in: Uganda
 images:
   icon: https://media.lumenloop.com/projects/wave/favicon.png
@@ -33,4 +33,3 @@ images:
 mainnet:
   audits: []
   tokens: []
-  contracts: []

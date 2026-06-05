@@ -22,9 +22,7 @@ links:
 attributes:
   category: Applications
   tags:
-    - Geolocation
     - Payments
-    - Implementation
   operating_region:
     - Global
   based_in: United Kingdom

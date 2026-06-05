@@ -20,11 +20,11 @@ links:
   github:
     - github.com/hatomprotocol
 attributes:
-  category: DeFi
+  category: Financial Protocols
   tags:
-    - lending-borrowing
-    - liquidity
-    - lst
+    - Lending & Borrowing
+    - Liquidity
+    - Yield
   operating_region:
     - Global
   based_in: null

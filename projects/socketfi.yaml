@@ -26,7 +26,7 @@ links:
   github:
     - github.com/socket-fi
 attributes:
-  category: End-User Application
+  category: Applications
   tags:
     - Mobile
     - Web
@@ -36,7 +36,7 @@ attributes:
     - Ecosystem Discovery
     - Payments
     - Security
-    - ZK Proofs
+    - ZK
     - DeFi
   operating_region:
     - North America (without Mexico)

@@ -20,11 +20,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: Payments
+  category: Applications
   tags:
-    - cross-border-payments
-    - b2b
-    - api
+    - Cross-Border Payments
+    - B2B
+    - API
   operating_region:
     - Global
   based_in: null

@@ -31,10 +31,9 @@ attributes:
     - Mobile
     - P2P
     - Cross-Border Payments
-    - Latam
     - Multi-Chain
   operating_region:
-    - Mexico
+    - Latam
   based_in: Mexico
 images:
   avatar: https://media.lumenloop.com/projects/decaf/github_avatar.jpg

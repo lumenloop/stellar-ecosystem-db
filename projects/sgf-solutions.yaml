@@ -20,10 +20,9 @@ attributes:
   category: Applications
   tags:
     - On-Off Ramp
-    - Latam
-    - USD
   operating_region:
     - Global
+    - Latam
   based_in: Argentina
 images: null
 scf:

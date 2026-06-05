@@ -23,9 +23,9 @@ links:
 attributes:
   category: Infrastructure & Services
   tags:
-    - rpc
-    - developer-tools
-    - multi-chain
+    - RPC
+    - DevX
+    - Multi-Chain
   operating_region: []
   based_in: null
 images: null

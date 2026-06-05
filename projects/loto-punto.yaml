@@ -23,11 +23,10 @@ links:
 attributes:
   category: Applications
   tags:
-    - Latam
     - On-Off Ramp
     - Payment Gateway
     - Remittances
-    - Peer-to-Peer
+    - P2P
     - Unbanked
     - AI
     - Security
@@ -35,6 +34,7 @@ attributes:
     - Payments
   operating_region:
     - Latin America & Caribbean
+    - Latam
   based_in: Colombia
 images: null
 scf:

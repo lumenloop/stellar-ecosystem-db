@@ -18,11 +18,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: Payments
+  category: Applications
   tags:
-    - payment-gateway
-    - merchant
-    - cross-border-payments
+    - Payment Gateway
+    - Merchant
+    - Cross-Border Payments
   operating_region:
     - Global
   based_in: Nigeria

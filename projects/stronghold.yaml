@@ -19,11 +19,8 @@ links:
   linktree: []
   github: []
 attributes:
-  category: Payments
-  tags:
-    - payment-gateway
-    - b2b
-    - merchant
+  category: Applications
+  tags: []
   operating_region:
     - North America
   based_in: United States
