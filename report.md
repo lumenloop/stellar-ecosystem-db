@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-06-04
+> Auto-generated on 2026-06-05
 
 ## Summary
 
@@ -19,7 +19,7 @@
 | website | 729/737 | 98.9% |
 | blog | 251/737 | 34.1% |
 | x | 530/737 | 71.9% |
-| linkedin | 392/737 | 53.2% |
+| linkedin | 393/737 | 53.3% |
 | discord | 211/737 | 28.6% |
 | telegram | 148/737 | 20.1% |
 | youtube | 165/737 | 22.4% |
@@ -43,7 +43,7 @@ Per-project comparison of our **737** projects (incl. **124** community projects
 | website | +169 | 560 |
 | github | +132 | 380 |
 | x | +244 | 286 |
-| linkedin | +186 | 206 |
+| linkedin | +187 | 206 |
 | discord | +101 | 110 |
 | based_in | +136 | 483 |
 | blog | +251 | 0 |
@@ -76,10 +76,10 @@ Of **613** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 465 | 491 |
-| Active last week | 127 | 223 |
-| Active last month | 193 | 283 |
-| Active last 3 months | 247 | 334 |
+| Tracked projects | 465 | 492 |
+| Active last week | 125 | 224 |
+| Active last month | 193 | 284 |
+| Active last 3 months | 247 | 335 |
 | Active last year | 326 | 401 |
 
 ## Audit Data
@@ -96,9 +96,9 @@ Of **613** SCF-funded projects:
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 5 |
+| CoinFabrik | 2 |
 | Code4rena | 2 |
 | OpenZeppelin | 2 |
-| CoinFabrik | 2 |
 | Сoinspect | 1 |
 | Hacken | 1 |
 | Cantina | 1 |
@@ -117,8 +117,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4045 |
-| Lumen Loop | 3258 |
+| SCF | 4043 |
+| Lumen Loop | 3261 |
 | Stellar Expert | 360 |
 | Soroban Security | 72 |
 | DeFiLlama | 20 |
@@ -127,19 +127,19 @@ How many data points each contributor provides across the directory:
 
 12 items need attention.
 
+**description empty** (4):
+- microvault
+- kalien
+- sendit
+- ibis
+
 **SCF project missing website** (8):
+- sendit
 - paysapp
 - wally
 - relax
 - timed-transactions-api
 - crypto-link
-- sendit
 - the-starship-soroban
 - frost-implementation
-
-**description empty** (4):
-- ibis
-- microvault
-- kalien
-- sendit
 
