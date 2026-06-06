@@ -29,7 +29,6 @@ attributes:
     - Payment Gateway
   operating_region:
     - Sub-Saharan Africa
-    - Africa
   based_in: Nigeria
 images:
   icon: https://media.lumenloop.com/projects/centiiv/favicon.ico
