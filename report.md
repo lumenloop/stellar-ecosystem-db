@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-06-06
+> Auto-generated on 2026-06-07
 
 ## Summary
 
@@ -18,14 +18,14 @@
 | description | 733/737 | 99.5% |
 | website | 729/737 | 98.9% |
 | blog | 251/737 | 34.1% |
-| x | 531/737 | 72% |
-| linkedin | 394/737 | 53.5% |
+| x | 530/737 | 71.9% |
+| linkedin | 393/737 | 53.3% |
 | discord | 211/737 | 28.6% |
 | telegram | 148/737 | 20.1% |
-| youtube | 166/737 | 22.5% |
-| instagram | 124/737 | 16.8% |
+| youtube | 165/737 | 22.4% |
+| instagram | 123/737 | 16.7% |
 | reddit | 16/737 | 2.2% |
-| tiktok | 35/737 | 4.7% |
+| tiktok | 34/737 | 4.6% |
 | linktree | 5/737 | 0.7% |
 | github | 512/737 | 69.5% |
 | category | 663/737 | 90% |
@@ -42,16 +42,16 @@ Per-project comparison of our **737** projects (incl. **124** community projects
 | description | +157 | 576 |
 | website | +169 | 560 |
 | github | +132 | 380 |
-| x | +245 | 286 |
-| linkedin | +188 | 206 |
+| x | +244 | 286 |
+| linkedin | +187 | 206 |
 | discord | +101 | 110 |
 | based_in | +136 | 483 |
 | blog | +251 | 0 |
 | telegram | +148 | 0 |
-| youtube | +166 | 0 |
-| instagram | +124 | 0 |
+| youtube | +165 | 0 |
+| instagram | +123 | 0 |
 | reddit | +16 | 0 |
-| tiktok | +35 | 0 |
+| tiktok | +34 | 0 |
 | linktree | +5 | 0 |
 
 *"Added" = we filled a field SCF didn't have. "Modified" = SCF had a value, we store a different one.*
@@ -76,11 +76,11 @@ Of **613** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 465 | 493 |
-| Active last week | 138 | 223 |
-| Active last month | 197 | 281 |
-| Active last 3 months | 249 | 335 |
-| Active last year | 327 | 402 |
+| Tracked projects | 465 | 492 |
+| Active last week | 133 | 220 |
+| Active last month | 193 | 280 |
+| Active last 3 months | 248 | 334 |
+| Active last year | 326 | 401 |
 
 ## Audit Data
 
@@ -134,8 +134,8 @@ How many data points each contributor provides across the directory:
 - sendit
 
 **SCF project missing website** (8):
-- wally
 - relax
+- wally
 - timed-transactions-api
 - crypto-link
 - sendit
