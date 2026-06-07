@@ -6,41 +6,41 @@
 
 | Metric | Count |
 |--------|------:|
-| Total projects | **737** |
+| Total projects | **738** |
 | SCF-funded projects | 613 |
-| Community projects | 124 |
+| Community projects | 125 |
 | Audited projects | 52 |
 
 ## Data Coverage
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 733/737 | 99.5% |
-| website | 729/737 | 98.9% |
-| blog | 251/737 | 34.1% |
-| x | 531/737 | 72% |
-| linkedin | 394/737 | 53.5% |
-| discord | 211/737 | 28.6% |
-| telegram | 148/737 | 20.1% |
-| youtube | 166/737 | 22.5% |
-| instagram | 124/737 | 16.8% |
-| reddit | 16/737 | 2.2% |
-| tiktok | 35/737 | 4.7% |
-| linktree | 5/737 | 0.7% |
-| github | 512/737 | 69.5% |
-| category | 663/737 | 90% |
-| tags | 733/737 | 99.5% |
-| operating_region | 716/737 | 97.2% |
-| based_in | 619/737 | 84% |
+| description | 733/738 | 99.3% |
+| website | 730/738 | 98.9% |
+| blog | 251/738 | 34% |
+| x | 531/738 | 72% |
+| linkedin | 394/738 | 53.4% |
+| discord | 211/738 | 28.6% |
+| telegram | 148/738 | 20.1% |
+| youtube | 166/738 | 22.5% |
+| instagram | 124/738 | 16.8% |
+| reddit | 16/738 | 2.2% |
+| tiktok | 35/738 | 4.7% |
+| linktree | 5/738 | 0.7% |
+| github | 512/738 | 69.4% |
+| category | 663/738 | 89.8% |
+| tags | 733/738 | 99.3% |
+| operating_region | 716/738 | 97% |
+| based_in | 619/738 | 83.9% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **737** projects (incl. **124** community projects not in SCF) against **637** in SCF Airtable:
+Per-project comparison of our **738** projects (incl. **125** community projects not in SCF) against **637** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
 | description | +157 | 576 |
-| website | +169 | 560 |
+| website | +170 | 560 |
 | github | +132 | 380 |
 | x | +245 | 286 |
 | linkedin | +188 | 206 |
@@ -118,16 +118,17 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4068 |
-| Lumen Loop | 3272 |
+| Lumen Loop | 3273 |
 | Stellar Expert | 360 |
 | Soroban Security | 72 |
 | DeFiLlama | 20 |
 
 ## Needs Review
 
-12 items need attention.
+13 items need attention.
 
-**description empty** (4):
+**description empty** (5):
+- usdm1
 - microvault
 - ibis
 - kalien
