@@ -22,7 +22,7 @@ links:
   github:
     - github.com/code-423n4
 attributes:
-  category: null
+  category: Infrastructure & Services
   tags:
     - Security
     - Auditing
@@ -37,4 +37,3 @@ images:
 mainnet:
   audits: []
   tokens: []
-  contracts: []

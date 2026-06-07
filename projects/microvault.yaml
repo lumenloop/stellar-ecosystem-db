@@ -4,7 +4,7 @@ other_names:
   - Microvault — Microlending on Stellar
   - Shamba Records
 parent: null
-description: ''
+description: Microlending engine by Kenya-based Shamba Records that uses SEP-56 tokenized vaults on Stellar's Soroban platform to deliver undercollateralized credit to smallholder farmers in East Africa, with loans requested via USSD/SMS and disbursed in local currency.
 links:
   website:
     - microvault.shambarecords.com

@@ -20,7 +20,7 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
+  category: Applications
   tags:
     - Payments
     - Cross-Border Payments
@@ -35,4 +35,3 @@ images:
 mainnet:
   audits: []
   tokens: []
-  contracts: []

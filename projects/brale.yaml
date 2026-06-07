@@ -21,7 +21,7 @@ links:
   github:
     - github.com/brale-xyz
 attributes:
-  category: null
+  category: Financial Protocols
   tags:
     - Stablecoins
     - Tokenization
@@ -37,4 +37,3 @@ images:
 mainnet:
   audits: []
   tokens: []
-  contracts: []

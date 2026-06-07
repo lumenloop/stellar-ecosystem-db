@@ -22,7 +22,7 @@ links:
   github:
     - github.com/bitwage
 attributes:
-  category: null
+  category: Applications
   tags:
     - Payroll
     - Payments
@@ -38,4 +38,3 @@ images:
 mainnet:
   audits: []
   tokens: []
-  contracts: []

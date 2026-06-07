@@ -18,7 +18,7 @@ links:
   github:
     - github.com/stellar-expert/albedo
 attributes:
-  category: null
+  category: Applications
   tags:
     - Software Wallet
     - Security

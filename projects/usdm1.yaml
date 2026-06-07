@@ -1,7 +1,7 @@
 title: USDM1
 other_names: null
 parent: null
-description: ''
+description: USDM1 is a U.S. dollar-denominated digital sovereign bond issued by the Republic of the Marshall Islands on the Stellar network, backed 1:1 by short-term U.S. Treasuries and used to deliver on-chain disbursements for the country's universal basic income program.
 links:
   website:
     - usdm1.com
@@ -17,7 +17,7 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
+  category: Financial Protocols
   tags: []
   operating_region: []
   based_in: null

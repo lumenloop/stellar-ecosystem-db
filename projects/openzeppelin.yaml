@@ -22,7 +22,7 @@ links:
   github:
     - github.com/openzeppelin
 attributes:
-  category: null
+  category: Developer Tooling
   tags:
     - Security
     - DevX
@@ -46,4 +46,3 @@ mainnet:
       date: '2025-07-09T15:00:00Z'
       auditor: OpenZeppelin
   tokens: []
-  contracts: []

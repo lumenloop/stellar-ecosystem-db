@@ -22,7 +22,7 @@ links:
   github:
     - github.com/lobstrco
 attributes:
-  category: null
+  category: Applications
   tags:
     - Software Wallet
     - DEX

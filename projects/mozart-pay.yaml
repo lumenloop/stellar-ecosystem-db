@@ -21,7 +21,7 @@ links:
   github:
     - github.com/mozartpay
 attributes:
-  category: null
+  category: Applications
   tags:
     - Payment Gateway
     - B2B
@@ -32,4 +32,3 @@ images: null
 mainnet:
   audits: []
   tokens: []
-  contracts: []

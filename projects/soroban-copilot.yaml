@@ -18,7 +18,7 @@ links:
   github:
     - github.com/mootz12/soroban-copilot
 attributes:
-  category: null
+  category: Developer Tooling
   tags:
     - DevX
     - Rust
@@ -30,4 +30,3 @@ images: null
 mainnet:
   audits: []
   tokens: []
-  contracts: []

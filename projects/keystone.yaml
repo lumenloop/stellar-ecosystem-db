@@ -25,7 +25,7 @@ links:
   github:
     - github.com/keystonehq
 attributes:
-  category: null
+  category: Applications
   tags:
     - Security
     - Infrastructure

@@ -20,7 +20,7 @@ links:
     - github.com/stellar/freighter-mobile
     - github.com/stellar/freighter
 attributes:
-  category: null
+  category: Applications
   tags:
     - Software Wallet
     - Browser

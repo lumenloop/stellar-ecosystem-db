@@ -3,7 +3,7 @@ other_names:
   - 'Ibis: Stablecoin Neobank & Ramp API Infrastructure'
   - API for payments in Bolivares using USDC
 parent: null
-description: ''
+description: Stablecoin neobank and ramp infrastructure for Venezuela, combining a self-custody wallet app with an API that lets developers and businesses fund with USDC on Stellar and settle payouts in bolivares.
 links:
   website:
     - usaibis.com

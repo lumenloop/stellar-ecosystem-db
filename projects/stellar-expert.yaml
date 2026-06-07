@@ -19,7 +19,7 @@ links:
   github:
     - github.com/stellar-expert
 attributes:
-  category: null
+  category: Infrastructure & Services
   tags:
     - Block Explorer
     - Analytics

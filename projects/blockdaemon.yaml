@@ -21,7 +21,7 @@ links:
   github:
     - github.com/blockdaemon
 attributes:
-  category: null
+  category: Infrastructure & Services
   tags:
     - Infrastructure
     - Nodes
@@ -37,4 +37,3 @@ images:
 mainnet:
   audits: []
   tokens: []
-  contracts: []

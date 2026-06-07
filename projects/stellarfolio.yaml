@@ -17,7 +17,7 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
+  category: Applications
   tags:
     - Analytics
     - Software Wallet
@@ -29,4 +29,3 @@ images:
 mainnet:
   audits: []
   tokens: []
-  contracts: []

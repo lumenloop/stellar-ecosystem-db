@@ -26,7 +26,7 @@ links:
   github:
     - github.com/ledgerhq
 attributes:
-  category: null
+  category: Applications
   tags:
     - Security
     - Infrastructure

@@ -1,7 +1,7 @@
 title: KALIEN
 other_names: null
 parent: null
-description: ''
+description: 'Deterministic Asteroids arcade game demonstrating zero-knowledge proofs on Stellar: gameplay runs off-chain and a ZK proof of the final score is verified on-chain using Protocol 25''s cryptographic primitives.'
 links:
   website:
     - kalien.xyz
@@ -17,7 +17,7 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
+  category: Applications
   tags: []
   operating_region: []
   based_in: null

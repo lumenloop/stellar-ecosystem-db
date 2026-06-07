@@ -20,7 +20,7 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
+  category: Infrastructure & Services
   tags:
     - Infrastructure
     - Institutional
@@ -31,4 +31,3 @@ images: null
 mainnet:
   audits: []
   tokens: []
-  contracts: []

@@ -17,7 +17,7 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
+  category: Financial Protocols
   tags:
     - AI
     - Institutional
@@ -29,4 +29,3 @@ images: null
 mainnet:
   audits: []
   tokens: []
-  contracts: []

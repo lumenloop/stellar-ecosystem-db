@@ -21,7 +21,7 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
+  category: Education & Community
   tags:
     - e-learning
     - Community
@@ -32,4 +32,3 @@ images: null
 mainnet:
   audits: []
   tokens: []
-  contracts: []
