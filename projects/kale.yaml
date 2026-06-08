@@ -22,7 +22,9 @@ links:
     - github.com/kalepail/kale-sc
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Gaming
+    - Community
   operating_region: []
   based_in: null
 images: null

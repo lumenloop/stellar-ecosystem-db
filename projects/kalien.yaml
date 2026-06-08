@@ -18,7 +18,9 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Gaming
+    - ZK
   operating_region: []
   based_in: null
 images: null

@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-06-07
+> Auto-generated on 2026-06-08
 
 ## Summary
 
@@ -29,13 +29,13 @@
 | linktree | 5/737 | 0.7% |
 | github | 511/737 | 69.3% |
 | category | 737/737 | 100% |
-| tags | 732/737 | 99.3% |
+| tags | 737/737 | 100% |
 | operating_region | 715/737 | 97% |
 | based_in | 618/737 | 83.9% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **737** projects (incl. **125** community projects not in SCF) against **637** in SCF Airtable:
+Per-project comparison of our **737** projects (incl. **125** community projects not in SCF) against **653** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
@@ -77,9 +77,9 @@ Of **612** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 463 | 492 |
-| Active last week | 140 | 221 |
-| Active last month | 194 | 281 |
-| Active last 3 months | 246 | 334 |
+| Active last week | 138 | 220 |
+| Active last month | 192 | 281 |
+| Active last 3 months | 246 | 335 |
 | Active last year | 325 | 401 |
 
 ## Audit Data
@@ -97,8 +97,8 @@ Of **612** SCF-funded projects:
 | Quarkslab | 6 |
 | Halborn | 5 |
 | Code4rena | 2 |
-| CoinFabrik | 2 |
 | OpenZeppelin | 2 |
+| CoinFabrik | 2 |
 | Сoinspect | 1 |
 | Hacken | 1 |
 | Cantina | 1 |
@@ -117,8 +117,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4068 |
-| Lumen Loop | 3346 |
+| SCF | 4067 |
+| Lumen Loop | 3349 |
 | Stellar Expert | 360 |
 | Soroban Security | 72 |
 | DeFiLlama | 20 |

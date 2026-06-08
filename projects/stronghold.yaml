@@ -20,7 +20,10 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Payment Gateway
+    - B2B
+    - Merchant
   operating_region:
     - North America
   based_in: United States

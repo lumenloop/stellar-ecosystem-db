@@ -18,7 +18,11 @@ links:
   github: []
 attributes:
   category: Financial Protocols
-  tags: []
+  tags:
+    - RWA
+    - Tokenization
+    - Institutional
+    - Aid
   operating_region: []
   based_in: null
 images: null

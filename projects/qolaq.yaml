@@ -24,7 +24,9 @@ links:
     - github.com/qolaq
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Aid
+    - Community
   operating_region:
     - Asia
   based_in: Indonesia
