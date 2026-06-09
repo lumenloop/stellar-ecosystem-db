@@ -30,12 +30,10 @@ attributes:
     - Mobile
     - Cross-Border Payments
   operating_region:
-    - North America (without Mexico)
     - Latin America & Caribbean
     - Middle East & North Africa
+    - North America (without Mexico)
     - Sub-Saharan Africa
-    - Latam
-    - Africa
   based_in: United States
 images:
   avatar: https://media.lumenloop.com/projects/the-give-hub/github_avatar.png

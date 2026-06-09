@@ -24,8 +24,8 @@ attributes:
     - Unbanked
     - B2B
   operating_region:
-    - LATAM
-    - Africa
+    - Latin America & Caribbean
+    - Sub-Saharan Africa
   based_in: Argentina
 images: null
 scf:

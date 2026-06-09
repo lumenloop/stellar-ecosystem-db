@@ -23,8 +23,9 @@ attributes:
     - Oracle
     - Infrastructure
     - Cross-Chain
-  operating_region: []
-  based_in: null
+  operating_region:
+    - Global
+  based_in: Switzerland
 images: null
 mainnet:
   audits: []

@@ -27,8 +27,8 @@ attributes:
     - Payments
     - Plugin
   operating_region:
+    - Latin America & Caribbean
     - Mexico
-    - Latam
   based_in: Mexico
 images:
   icon: https://media.lumenloop.com/projects/syklo/apple_touch.png

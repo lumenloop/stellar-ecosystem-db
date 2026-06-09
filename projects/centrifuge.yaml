@@ -24,7 +24,7 @@ attributes:
     - Tokenization
     - Institutional
   operating_region:
-    - global
+    - Global
   based_in: null
 images: null
 mainnet:

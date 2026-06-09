@@ -22,7 +22,8 @@ attributes:
   tags:
     - DevX
     - Rust
-  operating_region: []
+  operating_region:
+    - Global
   based_in: United Kingdom
 images: null
 scf:

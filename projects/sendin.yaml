@@ -28,8 +28,8 @@ attributes:
     - Web
   operating_region:
     - East Asia & Pacific
-    - USA
     - India
+    - United States
   based_in: India
 images: null
 scf:

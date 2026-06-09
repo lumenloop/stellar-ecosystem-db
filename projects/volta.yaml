@@ -24,7 +24,8 @@ attributes:
     - Multi Signatures
     - Wallet Infra
     - B2B
-  operating_region: []
+  operating_region:
+    - Global
   based_in: United States
 images: null
 mainnet:

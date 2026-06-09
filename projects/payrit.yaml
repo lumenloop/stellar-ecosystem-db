@@ -34,7 +34,6 @@ attributes:
     - Remittances
   operating_region:
     - Sub-Saharan Africa
-    - Africa
   based_in: Nigeria
 images:
   icon: https://media.lumenloop.com/projects/payrit/favicon.ico

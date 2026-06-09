@@ -27,8 +27,8 @@ attributes:
     - Real Estate
     - Tokenization
   operating_region:
-    - North America
-    - usa
+    - North America (without Mexico)
+    - United States
   based_in: United States
 images: null
 mainnet:

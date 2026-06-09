@@ -27,8 +27,8 @@ attributes:
     - Remittances
     - Stablecoins
   operating_region:
-    - Africa
     - North America (without Mexico)
+    - Sub-Saharan Africa
   based_in: United States
 images: null
 scf:

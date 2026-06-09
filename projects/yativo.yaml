@@ -28,9 +28,8 @@ attributes:
     - API
     - Payments
   operating_region:
-    - Latin America & Caribbean
     - East Asia & Pacific
-    - Latam
+    - Latin America & Caribbean
   based_in: Chile
 images:
   icon: https://media.lumenloop.com/projects/yativo/apple_touch.svg

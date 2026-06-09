@@ -25,9 +25,9 @@ attributes:
     - Stablecoins
     - On-Off Ramp
   operating_region:
-    - africa
-    - latam
-    - asia
+    - East Asia & Pacific
+    - Latin America & Caribbean
+    - Sub-Saharan Africa
   based_in: United States
 images: null
 mainnet:

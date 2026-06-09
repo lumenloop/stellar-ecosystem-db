@@ -23,8 +23,8 @@ attributes:
     - Payments
     - B2B
   operating_region:
-    - global
-  based_in: null
+    - Global
+  based_in: United States
 images: null
 mainnet:
   audits: []

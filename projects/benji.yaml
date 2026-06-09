@@ -25,7 +25,7 @@ attributes:
     - RWA
   operating_region:
     - North America (without Mexico)
-  based_in: null
+  based_in: United States
 images:
   icon: https://media.lumenloop.com/projects/benji/apple_touch.png
 mainnet:

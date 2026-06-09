@@ -24,7 +24,7 @@ attributes:
     - Stablecoins
     - Lending & Borrowing
   operating_region:
-    - north_america
+    - North America (without Mexico)
   based_in: United States
 images: null
 mainnet:

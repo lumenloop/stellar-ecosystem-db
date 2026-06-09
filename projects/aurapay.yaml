@@ -23,8 +23,8 @@ attributes:
     - Payments
     - Remittances
   operating_region:
-    - Madrid
-    - Latam
+    - Latin America & Caribbean
+    - Spain
   based_in: Spain
 images: null
 scf:

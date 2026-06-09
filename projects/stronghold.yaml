@@ -25,7 +25,7 @@ attributes:
     - B2B
     - Merchant
   operating_region:
-    - North America
+    - North America (without Mexico)
   based_in: United States
 images: null
 mainnet:

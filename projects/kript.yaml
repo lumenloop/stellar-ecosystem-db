@@ -29,9 +29,8 @@ attributes:
     - API
     - Infrastructure
   operating_region:
-    - Sub-Saharan Africa
     - Latin America & Caribbean
-    - Africa
+    - Sub-Saharan Africa
   based_in: Nigeria
 images: null
 scf:

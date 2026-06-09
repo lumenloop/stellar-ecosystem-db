@@ -26,8 +26,8 @@ attributes:
     - Mobile
   operating_region:
     - Global
-    - Latam
-  based_in: null
+    - Latin America & Caribbean
+  based_in: Brazil
 images:
   icon: https://media.lumenloop.com/projects/oinc/apple_touch.png
   logo: https://media.lumenloop.com/projects/oinc/logo.png

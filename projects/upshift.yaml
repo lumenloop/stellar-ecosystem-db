@@ -23,8 +23,9 @@ attributes:
     - Yield
     - RWA
     - Institutional
-  operating_region: []
-  based_in: null
+  operating_region:
+    - Global
+  based_in: United Kingdom
 images: null
 mainnet:
   audits: []

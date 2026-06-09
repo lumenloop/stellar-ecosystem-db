@@ -21,7 +21,8 @@ attributes:
   category: Applications
   tags:
     - DeFi
-  operating_region: []
+  operating_region:
+    - Global
   based_in: null
 images: null
 mainnet:

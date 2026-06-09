@@ -23,7 +23,8 @@ attributes:
     - Tokenization
     - RWA
     - Institutional
-  operating_region: []
+  operating_region:
+    - Global
   based_in: United States
 images: null
 mainnet:

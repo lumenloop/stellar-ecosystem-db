@@ -35,10 +35,9 @@ attributes:
     - Lending & Borrowing
   operating_region:
     - Europe & Central Asia
-    - Sub-Saharan Africa
     - North America (without Mexico)
-    - USA
-    - Europe
+    - Sub-Saharan Africa
+    - United States
   based_in: Nigeria
 images:
   icon: https://media.lumenloop.com/projects/utoken/utoken-favicon-tdm8g2.ico

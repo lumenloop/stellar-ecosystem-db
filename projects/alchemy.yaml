@@ -26,8 +26,9 @@ attributes:
     - RPC
     - DevX
     - Multi-Chain
-  operating_region: []
-  based_in: null
+  operating_region:
+    - Global
+  based_in: United States
 images: null
 mainnet:
   audits: []

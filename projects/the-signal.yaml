@@ -30,8 +30,9 @@ attributes:
     - Marketplace
     - B2B
     - Payments
-  operating_region: []
-  based_in: null
+  operating_region:
+    - Global
+  based_in: France
 images: null
 scf:
   awarded_round:

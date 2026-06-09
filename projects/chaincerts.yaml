@@ -25,7 +25,7 @@ attributes:
   tags:
     - Identity
   operating_region:
-    - LATAM, USA
+    - Latin America & Caribbean
   based_in: Colombia
 images:
   icon: https://media.lumenloop.com/projects/chaincerts/favicon.ico

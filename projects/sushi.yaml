@@ -26,7 +26,7 @@ attributes:
     - DEX
     - Multi-Chain
   operating_region:
-    - global
+    - Global
   based_in: Japan
 images: null
 mainnet:

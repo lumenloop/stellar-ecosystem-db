@@ -24,8 +24,8 @@ attributes:
     - NFT
     - Mobile
   operating_region:
-    - global
-  based_in: Korea
+    - Global
+  based_in: South Korea
 images: null
 mainnet:
   audits: []

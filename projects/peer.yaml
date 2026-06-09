@@ -33,7 +33,9 @@ attributes:
     - On-Off Ramp
     - Payments
     - Moneygram
-  operating_region: []
+  operating_region:
+    - Kenya
+    - Sub-Saharan Africa
   based_in: Kenya
 images:
   icon: https://media.lumenloop.com/projects/peer/apple_touch.png

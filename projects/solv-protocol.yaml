@@ -24,8 +24,9 @@ attributes:
     - Yield
     - Tokenization
     - Lending & Borrowing
-  operating_region: []
-  based_in: null
+  operating_region:
+    - Global
+  based_in: Singapore
 images: null
 mainnet:
   audits: []

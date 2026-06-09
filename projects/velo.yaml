@@ -24,8 +24,8 @@ attributes:
     - Cross-Border Payments
     - RWA
   operating_region:
-    - asia
-  based_in: null
+    - East Asia & Pacific
+  based_in: Thailand
 images: null
 mainnet:
   audits: []

@@ -30,9 +30,8 @@ attributes:
     - Payments
     - AI
   operating_region:
-    - Sub-Saharan Africa
     - Middle East & North Africa
-    - Africa
+    - Sub-Saharan Africa
   based_in: Nigeria
 images:
   icon: https://media.lumenloop.com/projects/myaza/favicon.ico

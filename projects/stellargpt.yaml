@@ -28,9 +28,9 @@ attributes:
     - Identity
     - Community
   operating_region:
+    - East Asia & Pacific
     - North America (without Mexico)
-    - Africa
-    - Asia
+    - Sub-Saharan Africa
   based_in: United States
 images: null
 scf:

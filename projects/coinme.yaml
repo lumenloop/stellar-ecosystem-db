@@ -24,8 +24,8 @@ attributes:
     - Remittances
     - Stablecoins
   operating_region:
-    - North America
-    - LATAM
+    - Latin America & Caribbean
+    - North America (without Mexico)
   based_in: United States
 images: null
 mainnet:

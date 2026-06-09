@@ -21,7 +21,8 @@ attributes:
   tags:
     - Gaming
     - ZK
-  operating_region: []
+  operating_region:
+    - Global
   based_in: null
 images: null
 mainnet:

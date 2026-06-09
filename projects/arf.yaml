@@ -25,7 +25,7 @@ attributes:
     - B2B
     - Liquidity
   operating_region:
-    - global
+    - Global
   based_in: Turkey
 images: null
 mainnet:

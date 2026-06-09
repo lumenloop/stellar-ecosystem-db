@@ -28,7 +28,7 @@ attributes:
     - Database
   operating_region:
     - Global
-  based_in: null
+  based_in: United States
 images:
   avatar: https://media.lumenloop.com/projects/astrograph/github_avatar.png
   og_image: https://media.lumenloop.com/projects/astrograph/og.jpg

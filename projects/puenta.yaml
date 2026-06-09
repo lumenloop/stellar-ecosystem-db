@@ -27,8 +27,7 @@ attributes:
   operating_region:
     - Latin America & Caribbean
     - North America (without Mexico)
-    - Latam
-  based_in: null
+  based_in: United States
 images: null
 scf:
   awarded_round:

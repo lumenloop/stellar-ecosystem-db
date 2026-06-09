@@ -25,7 +25,7 @@ attributes:
     - Security
     - Multi-Chain
   operating_region:
-    - global
+    - Global
   based_in: United States
 images: null
 mainnet:

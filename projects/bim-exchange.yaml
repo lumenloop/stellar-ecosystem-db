@@ -28,7 +28,8 @@ attributes:
     - DeFi
     - Bridge
     - Yield
-  operating_region: []
+  operating_region:
+    - Global
   based_in: null
 images: null
 scf:

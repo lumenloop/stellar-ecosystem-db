@@ -32,8 +32,8 @@ attributes:
     - On-Off Ramp
     - Mobile
   operating_region:
+    - East Asia & Pacific
     - Philippines
-    - Asia
   based_in: Philippines
 images:
   icon: https://media.lumenloop.com/projects/coins-ph/favicon.ico

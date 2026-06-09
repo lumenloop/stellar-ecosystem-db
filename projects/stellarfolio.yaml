@@ -23,7 +23,7 @@ attributes:
     - Software Wallet
   operating_region:
     - Global
-  based_in: null
+  based_in: United States
 images:
   icon: https://media.lumenloop.com/projects/stellarfolio/favicon.ico
 mainnet:

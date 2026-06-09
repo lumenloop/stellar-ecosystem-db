@@ -27,7 +27,6 @@ attributes:
     - Infrastructure
   operating_region:
     - Europe & Central Asia
-    - Europe
   based_in: Poland
 images:
   icon: https://media.lumenloop.com/projects/dcm/apple_touch.png

@@ -25,7 +25,7 @@ attributes:
     - Institutional
   operating_region:
     - Global
-  based_in: null
+  based_in: France
 images:
   icon: https://media.lumenloop.com/projects/spiko/apple_touch.png
   logo: https://media.lumenloop.com/projects/spiko/logo.png

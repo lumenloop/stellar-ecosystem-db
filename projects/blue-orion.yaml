@@ -25,8 +25,8 @@ attributes:
     - e-learning
     - Workshops
   operating_region:
-    - Utting am Ammersee, Germany
-  based_in: Utting am Ammersee, Germany
+    - Germany
+  based_in: Germany
 images:
   avatar: https://media.lumenloop.com/projects/blue-orion/github_avatar.png
 scf:

@@ -24,7 +24,7 @@ attributes:
     - Payments
     - Remittances
   operating_region:
-    - Sydney, New South Wales
+    - Australia
   based_in: Australia
 images: null
 scf:

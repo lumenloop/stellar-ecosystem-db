@@ -30,7 +30,7 @@ attributes:
     - On-Off Ramp
   operating_region:
     - Global
-  based_in: null
+  based_in: United States
 images:
   icon: https://media.lumenloop.com/projects/vibrant/apple_touch.png
   og_image: https://media.lumenloop.com/projects/vibrant/og.png

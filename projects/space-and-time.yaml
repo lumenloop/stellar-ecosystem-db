@@ -32,7 +32,7 @@ attributes:
     - API
   operating_region:
     - Global
-  based_in: null
+  based_in: United States
 images:
   icon: https://media.lumenloop.com/projects/space-and-time/apple_touch.png
   avatar: https://media.lumenloop.com/projects/space-and-time/github_avatar.png

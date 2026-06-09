@@ -35,8 +35,8 @@ attributes:
     - Payments
     - Cross-Border Payments
   operating_region:
+    - Latin America & Caribbean
     - Mexico
-    - Latam
   based_in: Mexico
 images:
   logo: https://media.lumenloop.com/projects/cashabroad/logo.png

@@ -25,8 +25,9 @@ attributes:
     - ZK
     - Payments
     - Airdrop
-  operating_region: []
-  based_in: null
+  operating_region:
+    - Global
+  based_in: United Arab Emirates
 images: null
 scf:
   awarded_round:

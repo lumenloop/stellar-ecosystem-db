@@ -23,8 +23,9 @@ attributes:
   tags:
     - DevX
     - CLI
-  operating_region: []
-  based_in: null
+  operating_region:
+    - Global
+  based_in: United States
 images: null
 scf:
   awarded_round:

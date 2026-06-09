@@ -25,7 +25,7 @@ attributes:
     - e-learning
   operating_region:
     - Global
-  based_in: null
+  based_in: Brazil
 images:
   og_image: https://media.lumenloop.com/projects/web3dev/web3dev-og-te6lp7.webp
 scf:

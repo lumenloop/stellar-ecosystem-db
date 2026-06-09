@@ -25,8 +25,8 @@ attributes:
     - DEX
     - Anchor
   operating_region:
-    - Korea
-  based_in: Korea
+    - South Korea
+  based_in: South Korea
 images:
   icon: https://media.lumenloop.com/projects/stellarport/apple_touch.png
   avatar: https://media.lumenloop.com/projects/stellarport/github_avatar.png

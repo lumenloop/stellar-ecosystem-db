@@ -26,8 +26,8 @@ attributes:
     - Lending & Borrowing
     - Liquidity
   operating_region:
-    - Moon
-  based_in: Moon
+    - Global
+  based_in: null
 images:
   avatar: https://media.lumenloop.com/projects/assetdesk/github_avatar.png
 scf:

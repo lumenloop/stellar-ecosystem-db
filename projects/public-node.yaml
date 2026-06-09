@@ -25,7 +25,7 @@ attributes:
   tags:
     - Nodes
   operating_region:
-    - Everywhere
+    - Global
   based_in: United States
 images:
   icon: https://media.lumenloop.com/projects/public-node/apple_touch.png

@@ -34,7 +34,6 @@ attributes:
     - Payments
   operating_region:
     - Latin America & Caribbean
-    - Latam
   based_in: Colombia
 images: null
 scf:
