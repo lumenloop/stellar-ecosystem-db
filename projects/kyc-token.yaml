@@ -8,21 +8,17 @@ links:
     - github.com/tigerblocks/bbf
   blog:
     - bbf.tigerblocks.com/blog
-  x:
-    - github
-  linkedin:
-    - linkedin.com/company/github
+  x: []
+  linkedin: []
   discord: []
   telegram: []
-  youtube:
-    - youtube.com/github
-  instagram:
-    - github
+  youtube: []
+  instagram: []
   reddit: []
-  tiktok:
-    - github
+  tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/tigerblocks/bbf
 attributes:
   category: Infrastructure & Services
   tags:
