@@ -18,14 +18,14 @@
 | description | 737/737 | 100% |
 | website | 729/737 | 98.9% |
 | blog | 251/737 | 34.1% |
-| x | 529/737 | 71.8% |
-| linkedin | 393/737 | 53.3% |
+| x | 530/737 | 71.9% |
+| linkedin | 394/737 | 53.5% |
 | discord | 211/737 | 28.6% |
 | telegram | 148/737 | 20.1% |
-| youtube | 165/737 | 22.4% |
-| instagram | 123/737 | 16.7% |
+| youtube | 166/737 | 22.5% |
+| instagram | 124/737 | 16.8% |
 | reddit | 16/737 | 2.2% |
-| tiktok | 34/737 | 4.6% |
+| tiktok | 35/737 | 4.7% |
 | linktree | 5/737 | 0.7% |
 | github | 511/737 | 69.3% |
 | category | 737/737 | 100% |
@@ -42,16 +42,16 @@ Per-project comparison of our **737** projects (incl. **125** community projects
 | description | +160 | 577 |
 | website | +170 | 559 |
 | github | +132 | 379 |
-| x | +243 | 286 |
-| linkedin | +187 | 206 |
+| x | +244 | 286 |
+| linkedin | +188 | 206 |
 | discord | +101 | 110 |
 | based_in | +187 | 482 |
 | blog | +251 | 0 |
 | telegram | +148 | 0 |
-| youtube | +165 | 0 |
-| instagram | +123 | 0 |
+| youtube | +166 | 0 |
+| instagram | +124 | 0 |
 | reddit | +16 | 0 |
-| tiktok | +34 | 0 |
+| tiktok | +35 | 0 |
 | linktree | +5 | 0 |
 
 *"Added" = we filled a field SCF didn't have. "Modified" = SCF had a value, we store a different one.*
@@ -76,11 +76,11 @@ Of **612** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 463 | 491 |
-| Active last week | 130 | 216 |
-| Active last month | 191 | 281 |
-| Active last 3 months | 244 | 334 |
-| Active last year | 323 | 400 |
+| Tracked projects | 463 | 492 |
+| Active last week | 131 | 217 |
+| Active last month | 192 | 282 |
+| Active last 3 months | 245 | 335 |
+| Active last year | 324 | 401 |
 
 ## Audit Data
 
@@ -96,9 +96,9 @@ Of **612** SCF-funded projects:
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 5 |
+| CoinFabrik | 2 |
 | Code4rena | 2 |
 | OpenZeppelin | 2 |
-| CoinFabrik | 2 |
 | Сoinspect | 1 |
 | Hacken | 1 |
 | Cantina | 1 |
@@ -117,8 +117,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4007 |
-| Lumen Loop | 3540 |
+| SCF | 4006 |
+| Lumen Loop | 3546 |
 | Stellar Expert | 360 |
 | Soroban Security | 72 |
 | DeFiLlama | 20 |

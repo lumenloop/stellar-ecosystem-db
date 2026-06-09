@@ -6,17 +6,21 @@ links:
   website:
     - github.com/cometdex
   blog: []
-  x: []
-  linkedin: []
+  x:
+    - github
+  linkedin:
+    - linkedin.com/company/github
   discord: []
   telegram: []
-  youtube: []
-  instagram: []
+  youtube:
+    - youtube.com/github
+  instagram:
+    - github
   reddit: []
-  tiktok: []
+  tiktok:
+    - github
   linktree: []
-  github:
-    - github.com/cometdex
+  github: []
 attributes:
   category: Financial Protocols
   tags:
