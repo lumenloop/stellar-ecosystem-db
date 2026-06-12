@@ -49,4 +49,7 @@ mainnet:
       url: sorobansecurity.com/report/21
       date: '2024-05-02T15:00:00Z'
       auditor: Veridise
-  tokens: []
+  tokens:
+    - code: PHO
+      issuer: GAX5TXB5RYJNLBUR477PEXM4X75APK2PGMTN6KEFQSESGWFXEAKFSXJO
+      decimals: 7
