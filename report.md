@@ -15,10 +15,10 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 737/738 | 99.9% |
+| description | 738/738 | 100% |
 | website | 730/738 | 98.9% |
 | blog | 251/738 | 34% |
-| x | 529/738 | 71.7% |
+| x | 530/738 | 71.8% |
 | linkedin | 393/738 | 53.3% |
 | discord | 211/738 | 28.6% |
 | telegram | 148/738 | 20.1% |
@@ -39,10 +39,10 @@ Per-project comparison of our **738** projects (incl. **126** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +160 | 577 |
+| description | +161 | 577 |
 | website | +171 | 559 |
 | github | +132 | 378 |
-| x | +243 | 286 |
+| x | +244 | 286 |
 | linkedin | +187 | 206 |
 | discord | +101 | 110 |
 | based_in | +188 | 482 |
@@ -77,7 +77,7 @@ Of **612** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 464 | 491 |
-| Active last week | 125 | 202 |
+| Active last week | 125 | 203 |
 | Active last month | 188 | 281 |
 | Active last 3 months | 243 | 332 |
 | Active last year | 324 | 400 |
@@ -118,17 +118,14 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4004 |
-| Lumen Loop | 3563 |
+| Lumen Loop | 3565 |
 | Stellar Expert | 360 |
 | Soroban Security | 72 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-9 items need attention.
-
-**description empty** (1):
-- bitso
+8 items need attention.
 
 **SCF project missing website** (8):
 - relax

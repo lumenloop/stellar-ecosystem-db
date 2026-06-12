@@ -1,12 +1,13 @@
 title: Bitso
 other_names: null
 parent: null
-description: ''
+description: Bitso is a leading Latin American cryptocurrency exchange that enables trading, remittances, and cross-border payments. Integrated with the Stellar network, Bitso supports USDC-based international transfers — powering corridors like US-to-Mexico remittances and B2B cross-border payments across LatAm.
 links:
   website:
     - bitso.com
   blog: []
-  x: []
+  x:
+    - bitso
   linkedin: []
   discord: []
   telegram: []
