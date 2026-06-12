@@ -6,41 +6,41 @@
 
 | Metric | Count |
 |--------|------:|
-| Total projects | **737** |
+| Total projects | **738** |
 | SCF-funded projects | 612 |
-| Community projects | 125 |
+| Community projects | 126 |
 | Audited projects | 52 |
 
 ## Data Coverage
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 737/737 | 100% |
-| website | 729/737 | 98.9% |
-| blog | 251/737 | 34.1% |
-| x | 529/737 | 71.8% |
-| linkedin | 393/737 | 53.3% |
-| discord | 211/737 | 28.6% |
-| telegram | 148/737 | 20.1% |
-| youtube | 165/737 | 22.4% |
-| instagram | 123/737 | 16.7% |
-| reddit | 16/737 | 2.2% |
-| tiktok | 34/737 | 4.6% |
-| linktree | 5/737 | 0.7% |
-| github | 510/737 | 69.2% |
-| category | 737/737 | 100% |
-| tags | 737/737 | 100% |
-| operating_region | 737/737 | 100% |
-| based_in | 669/737 | 90.8% |
+| description | 737/738 | 99.9% |
+| website | 730/738 | 98.9% |
+| blog | 251/738 | 34% |
+| x | 529/738 | 71.7% |
+| linkedin | 393/738 | 53.3% |
+| discord | 211/738 | 28.6% |
+| telegram | 148/738 | 20.1% |
+| youtube | 165/738 | 22.4% |
+| instagram | 123/738 | 16.7% |
+| reddit | 16/738 | 2.2% |
+| tiktok | 34/738 | 4.6% |
+| linktree | 5/738 | 0.7% |
+| github | 510/738 | 69.1% |
+| category | 738/738 | 100% |
+| tags | 737/738 | 99.9% |
+| operating_region | 737/738 | 99.9% |
+| based_in | 669/738 | 90.7% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **737** projects (incl. **125** community projects not in SCF) against **653** in SCF Airtable:
+Per-project comparison of our **738** projects (incl. **126** community projects not in SCF) against **653** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
 | description | +160 | 577 |
-| website | +170 | 559 |
+| website | +171 | 559 |
 | github | +132 | 378 |
 | x | +243 | 286 |
 | linkedin | +187 | 206 |
@@ -77,8 +77,8 @@ Of **612** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 464 | 491 |
-| Active last week | 127 | 203 |
-| Active last month | 189 | 281 |
+| Active last week | 125 | 202 |
+| Active last month | 188 | 281 |
 | Active last 3 months | 243 | 332 |
 | Active last year | 324 | 400 |
 
@@ -118,14 +118,17 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4004 |
-| Lumen Loop | 3558 |
+| Lumen Loop | 3560 |
 | Stellar Expert | 360 |
 | Soroban Security | 72 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-8 items need attention.
+9 items need attention.
+
+**description empty** (1):
+- bitso
 
 **SCF project missing website** (8):
 - relax
