@@ -18,9 +18,13 @@ links:
   github: []
 attributes:
   category: Infrastructure & Services
-  tags: []
-  operating_region: []
-  based_in: null
+  tags:
+    - Cross-Border Payments
+    - Remittances
+    - On-Off Ramp
+  operating_region:
+    - latam
+  based_in: Mexico
 images: null
 mainnet:
   audits: []

@@ -29,9 +29,9 @@
 | linktree | 5/738 | 0.7% |
 | github | 510/738 | 69.1% |
 | category | 738/738 | 100% |
-| tags | 737/738 | 99.9% |
-| operating_region | 737/738 | 99.9% |
-| based_in | 669/738 | 90.7% |
+| tags | 738/738 | 100% |
+| operating_region | 738/738 | 100% |
+| based_in | 670/738 | 90.8% |
 
 ## Enrichment vs SCF Airtable
 
@@ -45,7 +45,7 @@ Per-project comparison of our **738** projects (incl. **126** community projects
 | x | +243 | 286 |
 | linkedin | +187 | 206 |
 | discord | +101 | 110 |
-| based_in | +187 | 482 |
+| based_in | +188 | 482 |
 | blog | +251 | 0 |
 | telegram | +148 | 0 |
 | youtube | +165 | 0 |
@@ -91,14 +91,14 @@ Of **612** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 24 |
-| certora | 10 |
 | OtterSec | 10 |
+| certora | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 5 |
 | Code4rena | 2 |
-| CoinFabrik | 2 |
 | OpenZeppelin | 2 |
+| CoinFabrik | 2 |
 | Hacken | 1 |
 | Сoinspect | 1 |
 | Cantina | 1 |
@@ -118,7 +118,7 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4004 |
-| Lumen Loop | 3560 |
+| Lumen Loop | 3563 |
 | Stellar Expert | 360 |
 | Soroban Security | 72 |
 | DeFiLlama | 21 |
@@ -133,8 +133,8 @@ How many data points each contributor provides across the directory:
 **SCF project missing website** (8):
 - relax
 - frost-implementation
-- paysapp
 - wally
+- paysapp
 - sendit
 - timed-transactions-api
 - crypto-link
