@@ -5,14 +5,19 @@ description: Bitso is a leading Latin American cryptocurrency exchange that enab
 links:
   website:
     - bitso.com
-  blog: []
+  blog:
+    - blog.bitso.com
   x:
     - bitso
-  linkedin: []
+  linkedin:
+    - linkedin.com/company/bitso
   discord: []
-  telegram: []
-  youtube: []
-  instagram: []
+  telegram:
+    - t.me/bitso_latam
+  youtube:
+    - youtube.com/bitso
+  instagram:
+    - bitso
   reddit: []
   tiktok: []
   linktree: []
