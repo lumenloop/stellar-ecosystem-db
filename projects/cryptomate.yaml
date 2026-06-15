@@ -2,7 +2,12 @@ title: CryptoMate
 other_names:
   - MoneyGram disposable International Cards
 parent: null
-description: ''
+description: |-
+  We believe every community leader and company will become a fintech, every transaction will be a financial product, and that real financial inclusion requires localized, customized, impactful solutions built bottoms-up and self-propelled in monetization. CryptoMate is the platform that makes this possible: a stack on which emerging fintechs, community leaders, entrepreneurs, and SMEs launch, run, and monetize their own financial services.
+
+  This grant funds a focused new service any of those clients can offer their users on day one: a person walks into any MoneyGram, deposits cash, and within minutes a virtual VISA card is push-provisioned into their Apple Pay or Google Wallet. Underneath, the cash settles as USDC on Stellar via MoneyGram Ramps. The user never sees a wallet address, never holds a stablecoin, never learns what a blockchain is. They just get a card.
+
+  The target: the 1.4 billion unbanked adults globally — and the cash-economy users in LATAM and African corridors where MoneyGram has dense coverage and CryptoMate's clients already operate.
 links:
   website:
     - cryptomate.me

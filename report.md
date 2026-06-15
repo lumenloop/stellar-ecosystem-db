@@ -78,7 +78,7 @@ Of **613** SCF-funded projects:
 |--------|------:|--------:|
 | Tracked projects | 464 | 492 |
 | Active last week | 128 | 210 |
-| Active last month | 186 | 282 |
+| Active last month | 185 | 282 |
 | Active last 3 months | 242 | 335 |
 | Active last year | 324 | 401 |
 
@@ -117,8 +117,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4346 |
-| Lumen Loop | 3228 |
+| SCF | 4345 |
+| Lumen Loop | 3229 |
 | Stellar Expert | 360 |
 | Soroban Security | 72 |
 | DeFiLlama | 21 |
