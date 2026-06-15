@@ -19,7 +19,7 @@ links:
   linktree: []
   github: []
 attributes:
-  category: Developer Tooling
+  category: Applications
   tags:
     - Payments
     - Merchant
@@ -31,10 +31,10 @@ images:
   logo: https://media.lumenloop.com/projects/ctx/logo.svg
 scf:
   awarded_round:
-    - 41
-  awarded_total: 138000
+    - 19
+  awarded_total: 88200
   submission_urls:
-    - communityfund.stellar.org/submissions/recaJkqF1MOWhu3Z5
+    - communityfund.stellar.org/submissions/recs3a3kKPgwjWT1Y
 mainnet:
   audits: []
   tokens: []

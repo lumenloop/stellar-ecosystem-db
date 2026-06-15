@@ -42,10 +42,14 @@ images:
   logo: https://media.lumenloop.com/projects/cashabroad/logo.png
 scf:
   awarded_round:
-    - 41
-  awarded_total: 75000
+    - 11
+    - 14
+    - 21
+  awarded_total: 180025
   submission_urls:
-    - communityfund.stellar.org/submissions/recB335vaGPt0v4xY
+    - communityfund.stellar.org/submissions/recRhRDNW8zDJZBPA
+    - communityfund.stellar.org/submissions/recrIwocQMrQbXS41
+    - communityfund.stellar.org/submissions/recr6JGgzX8IHBgA5
 mainnet:
   audits: []
   tokens: []
