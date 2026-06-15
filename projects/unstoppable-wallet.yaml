@@ -2,7 +2,14 @@ title: Unstoppable Wallet
 other_names:
   - Unstoppable Money
 parent: null
-description: Unstoppable Wallet is an open-source, non-custodial, cryptocurrency wallet that supports multiple blockchains, including Bitcoin, Ethereum, and others. It provides secure storage and management of assets, along with features like swapping and DeFi integration. Being open-source, its transparency and security can be verified by the community. Available for iOS and Android.
+description: |-
+  Unstoppable Wallet is an open-source, non-custodial mobile wallet built around user privacy and self-custody, with no tracking, analytics, or intermediaries by design.  
+
+  The wallet supports multiple blockchains, including Stellar, and allows users to securely manage assets, send and receive transactions, and interact with on-chain infrastructure directly from a mobile interface.  
+
+  In 2025, Unstoppable Wallet expanded its native Stellar integration, enabling seamless asset management and transaction support, as well as cross-chain bridging to improve interoperability between Stellar and other ecosystems.  
+
+  By offering a privacy-first, open-source wallet with native Stellar support, Unstoppable Wallet lowers the barrier to self-custody adoption and provides users with a trusted gateway to the Stellar network. Growth is entirely organic, driven by product quality and community trust, with a strong focus on long-term, open infrastructure rather than centralized distribution.
 links:
   website:
     - unstoppable.money
@@ -36,10 +43,10 @@ images:
   logo: https://media.lumenloop.com/projects/unstoppable-wallet/logo.svg
 scf:
   awarded_round:
-    - 34
-  awarded_total: 128900
+    - 42
+  awarded_total: 97000
   submission_urls:
-    - communityfund.stellar.org/submissions/recGPKPvcFrv1MYwW
+    - communityfund.stellar.org/submissions/recr9Xro5FCtZngRX
 mainnet:
   audits: []
   tokens: []
