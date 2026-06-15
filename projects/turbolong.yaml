@@ -2,7 +2,12 @@ title: Turbolong
 other_names:
   - Leveraged DeFi on Stellar
 parent: null
-description: ''
+description: |-
+  Turbolong is a one-click leveraged trading platform on Stellar. Users open amplified long positions on Blend Protocol pools through atomic recursive lending loops: no perpetual futures, no funding rates, just direct on-chain leverage with sub-5-second finality. The platform supports up to 12.9× leverage across 8+ assets and 3 Blend pools today, with a managed-vault version (auto-rebalancing) built on DeFindex.
+
+  Our vision is to make leveraged DeFi accessible on Stellar by combining (a) the speed and cost advantages of Soroban, (b) recursive lending strategies that earn BLND emissions on top of the underlying asset yield, and (c) one-click UX that hides multi-step DeFi complexity behind a single signed transaction.
+
+  We want Turbolong to be the default leverage venue on Stellar: for retail users seeking yield amplification, for vault depositors looking for managed leveraged real-world-yield products, and for cross-chain capital that has never had a reason to come to Stellar before.
 links:
   website:
     - turbolong.com
