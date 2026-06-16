@@ -129,8 +129,8 @@ How many data points each contributor provides across the directory:
 
 **SCF project missing website** (8):
 - frost-implementation
-- sendit
 - relax
+- sendit
 - timed-transactions-api
 - wally
 - crypto-link
