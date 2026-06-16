@@ -1,0 +1,40 @@
+title: Lend
+other_names:
+  - lend.xyz
+  - Lend - Tokenized real estate on Stellar
+parent: null
+description: Lend is building compliant infrastructure for tokenized real estate on-chain, connecting global digital capital with high-yielding real estate operations through legally structured, asset-backed tokens. Users can invest stablecoins into professionally originated deals targeting 8–15% APR, with programmable yield distribution and secondary market liquidity. By integrating with Stellar, Lend leverages its fast, low-cost settlement layer to issue and manage tokenized real estate assets efficiently, enabling DeFi composability, cross-border access, and scalable compliance.
+links:
+  website:
+    - app.lend.xyz
+  blog: []
+  x:
+    - lend_xyz
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Financial Protocols
+  tags:
+    - Real Estate
+    - RWA
+    - Tokenization
+  operating_region:
+    - Global
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 43
+  awarded_total: 120560
+  submission_urls:
+    - communityfund.stellar.org/submissions/rec2QeA1y7ln6D3Ii
+mainnet:
+  audits: []
+  tokens: []
