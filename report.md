@@ -15,7 +15,7 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 744/745 | 99.9% |
+| description | 745/745 | 100% |
 | website | 737/745 | 98.9% |
 | blog | 252/745 | 33.8% |
 | x | 533/745 | 71.5% |
@@ -28,7 +28,7 @@
 | tiktok | 34/745 | 4.6% |
 | linktree | 5/745 | 0.7% |
 | github | 512/745 | 68.7% |
-| category | 744/745 | 99.9% |
+| category | 745/745 | 100% |
 | tags | 745/745 | 100% |
 | operating_region | 743/745 | 99.7% |
 | based_in | 671/745 | 90.1% |
@@ -39,7 +39,7 @@ Per-project comparison of our **745** projects (incl. **126** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +164 | 580 |
+| description | +165 | 580 |
 | website | +175 | 562 |
 | github | +136 | 376 |
 | x | +249 | 284 |
@@ -77,8 +77,8 @@ Of **619** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 466 | 494 |
-| Active last week | 120 | 212 |
-| Active last month | 188 | 287 |
+| Active last week | 119 | 212 |
+| Active last month | 187 | 287 |
 | Active last 3 months | 242 | 339 |
 | Active last year | 325 | 403 |
 
@@ -96,12 +96,12 @@ Of **619** SCF-funded projects:
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 5 |
-| CoinFabrik | 2 |
 | Code4rena | 2 |
 | OpenZeppelin | 2 |
+| CoinFabrik | 2 |
 | Сoinspect | 1 |
-| Hacken | 1 |
 | Cantina | 1 |
+| Hacken | 1 |
 
 ## Data Sources
 
@@ -118,25 +118,22 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4022 |
-| Lumen Loop | 3602 |
+| Lumen Loop | 3604 |
 | Stellar Expert | 360 |
 | Soroban Security | 73 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-9 items need attention.
-
-**description empty** (1):
-- arcane
+8 items need attention.
 
 **SCF project missing website** (8):
 - paysapp
 - relax
-- sendit
 - the-starship-soroban
 - wally
 - timed-transactions-api
 - frost-implementation
+- sendit
 - crypto-link
 
