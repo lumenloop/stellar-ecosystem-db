@@ -1,0 +1,41 @@
+title: XCCY
+other_names:
+  - 'XCCY: Fixed-Rate Layer on Stellar'
+parent: null
+description: 'XCCY is a decentralized protocol enabling fixed income markets on Stellar (Soroban) and EVM chains, powered by on-chain interest rate swaps (IRS). It lets users lock deposit yields and loan costs, hedging variable rate volatility. Core products include Lock Yield (fixed-rate deposits and loans), IRS trading (move from floating to fixed with one swap), and XLP (vault-based liquidity layer). Live on Ethereum, Arbitrum, and Polygon since January 2026; Stellar/Soroban implementation underway via SCF #43 grant.'
+links:
+  website:
+    - xccy.finance
+  blog: []
+  x:
+    - xccy_finance
+  linkedin:
+    - linkedin.com/company/xccy-labs
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/xccy-labs
+attributes:
+  category: Financial Protocols
+  tags:
+    - Lending & Borrowing
+    - DeFi
+    - Yield
+  operating_region:
+    - Global
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 43
+  awarded_total: 141125
+  submission_urls:
+    - communityfund.stellar.org/submissions/recYG4H2aBA5lJSnG
+mainnet:
+  audits: []
+  tokens: []
