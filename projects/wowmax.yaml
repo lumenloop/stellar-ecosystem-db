@@ -1,0 +1,38 @@
+title: WOWMAX
+other_names:
+  - Stellar DeFi & Bridge Aggregator
+parent: null
+description: WOWMAX is a multi-chain DEX aggregator and cross-chain bridge aggregator expanding to Stellar. It routes swaps across Stellar's DEXes (SDEX, Soroswap, Phoenix, Aquarius) via a modified A* algorithm for best-execution pricing, and aggregates cross-chain bridges (Near Intents, Allbridge, Axelar) for Stellar↔Ethereum and Stellar↔EVM transfers. Already live across 20+ EVM chains with $2B+ trading volume and 336,000+ unique traders, WOWMAX brings unified DeFi access and cross-chain liquidity to the Stellar ecosystem.
+links:
+  website:
+    - wowmax.exchange
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags:
+    - Bridge
+    - DEX
+    - Cross-Chain
+  operating_region:
+    - Global
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 43
+  awarded_total: 98560
+  submission_urls:
+    - communityfund.stellar.org/submissions/recYYnklyzTFFvASl
+mainnet:
+  audits: []
+  tokens: []

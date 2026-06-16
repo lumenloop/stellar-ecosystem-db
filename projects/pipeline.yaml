@@ -1,0 +1,42 @@
+title: Pipeline
+other_names:
+  - Commodity Trade Finance Protocol
+parent: null
+description: Decentralized commodity trade finance platform that generates on-chain yield from asset-backed commodity financing trades. Pipeline targets the ~$2.5 trillion trade finance gap — widened by Basel III regulatory changes that made short-duration commodity-backed lending to mid-market traders uneconomic for banks — by providing institutional-grade rails for digital asset investors to access high, asset-backed yield with short duration (30–180 days). Built on Soroban/Stellar with institutional custody (BitGo), KYC/AML screening, and a 3-of-5 Risk Council multisig governance structure.
+links:
+  website:
+    - pipeline.one
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/eq-lab/pipeline
+attributes:
+  category: Financial Protocols
+  tags:
+    - DeFi
+    - RWA
+    - Yield
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 43
+  awarded_total: 140000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recBY9t2rdEv609rl
+mainnet:
+  audits:
+    - name: Slender Security Assessment Report
+      url: sorobansecurity.com/report/24
+      date: '2024-05-21T15:00:00Z'
+      auditor: certora
+  tokens: []
