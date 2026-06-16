@@ -2,7 +2,14 @@ title: Sava
 other_names:
   - 'Sava: Stablecoin Savings for Turkey'
 parent: null
-description: ''
+description: |-
+  Turkey has one of the highest crypto adoption rates in the world, over 25% of the population owns crypto, roughly 25M people and $200B+ in annual transactions. The Lira lost over 80% of its value against the dollar in 5 years, with inflation above 40%. Bank deposit rates don't keep up, so savings lose value every month. Millions already convert lira to stablecoins through exchanges like BtcTurk and Binance TR, but the process is fragmented, buy USDC on an exchange, move to a wallet, find a protocol, manage seed phrases. Most stop at the exchange and miss out on any returns.
+
+    
+  Sava removes that complexity. A non-custodial savings app built on Stellar where Turkish users deposit Lira, earn returns on USDC through Blend Protocol lending pools, and see everything in ₺. Users sign in with email — Privy creates a self-custodial Stellar wallet automatically, no seed phrases needed. Mercuryo handles TRY-to-USDC conversion inside the app. The experience is a savings account, not a DeFi dashboard.
+
+    
+  Turkey has zero Stellar-based consumer products today. Sava is the first.
 links:
   website:
     - getsava.app
