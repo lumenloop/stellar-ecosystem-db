@@ -1,0 +1,43 @@
+title: VANK
+other_names:
+  - VANK Anchor
+  - 'VANK Anchor: Colombia'
+  - 'VANK Anchor: USDC-COP On/Off Ramp for the Stellar Ecosystem'
+  - Vankcomex
+parent: null
+description: 'VANK is a multicurrency B2B payments platform for US-LatAm cross-border trade, processing over $115M in TPV across 40 enterprise clients. The company is building VANK Anchor: a Stellar-native USDC-COP on/off ramp for Colombia enabling COP deposits via PSE and USDC delivery to partner Stellar accounts (on-ramp), and USDC-to-COP disbursements via ACH/bank transfer with OFAC/PEP compliance screening (off-ramp), implemented via SEP-24, SEP-6, SEP-38, SEP-10, and SEP-1.'
+links:
+  website:
+    - thisisvank.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Financial Protocols
+  tags:
+    - Anchor
+    - On-Off Ramp
+    - Cross-Border Payments
+  operating_region:
+    - Colombia
+    - United States
+    - Latin America & Caribbean
+  based_in: Colombia
+images: null
+scf:
+  awarded_round:
+    - 43
+  awarded_total: 96800
+  submission_urls:
+    - communityfund.stellar.org/submissions/recZv0mHzFOod8c4t
+mainnet:
+  audits: []
+  tokens: []
