@@ -19,7 +19,10 @@ links:
   github: []
 attributes:
   category: null
-  tags: []
+  tags:
+    - ZK
+    - Infrastructure
+    - SDK
   operating_region: []
   based_in: null
 images: null

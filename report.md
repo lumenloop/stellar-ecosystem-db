@@ -29,7 +29,7 @@
 | linktree | 5/745 | 0.7% |
 | github | 512/745 | 68.7% |
 | category | 744/745 | 99.9% |
-| tags | 744/745 | 99.9% |
+| tags | 745/745 | 100% |
 | operating_region | 743/745 | 99.7% |
 | based_in | 671/745 | 90.1% |
 
@@ -76,11 +76,11 @@ Of **619** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 466 | 493 |
+| Tracked projects | 466 | 494 |
 | Active last week | 120 | 212 |
-| Active last month | 188 | 286 |
-| Active last 3 months | 242 | 338 |
-| Active last year | 326 | 402 |
+| Active last month | 188 | 287 |
+| Active last 3 months | 242 | 339 |
+| Active last year | 325 | 403 |
 
 ## Audit Data
 
@@ -118,7 +118,7 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4022 |
-| Lumen Loop | 3601 |
+| Lumen Loop | 3602 |
 | Stellar Expert | 360 |
 | Soroban Security | 73 |
 | DeFiLlama | 21 |
