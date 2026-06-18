@@ -1,7 +1,7 @@
 title: Archax
 other_names: null
 parent: null
-description: ''
+description: UK-regulated digital asset exchange, broker, and custodian targeting professional and institutional investors globally. Founded by traditional capital markets experts, Archax supports all types of digital assets — from cryptocurrencies to regulated tokenised real-world assets (RWAs). Covers the full digital lifecycle from token issuance and fundraising through to trading and custody.
 links:
   website:
     - archax.com
@@ -17,10 +17,14 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
-  operating_region: []
-  based_in: null
+  category: Applications
+  tags:
+    - RWA
+    - Institutional
+    - Tokenization
+  operating_region:
+    - Europe
+  based_in: United Kingdom
 images: null
 mainnet:
   audits: []

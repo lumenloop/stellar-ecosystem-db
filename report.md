@@ -15,7 +15,7 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 745/746 | 99.9% |
+| description | 746/746 | 100% |
 | website | 738/746 | 98.9% |
 | blog | 252/746 | 33.8% |
 | x | 533/746 | 71.4% |
@@ -28,10 +28,10 @@
 | tiktok | 34/746 | 4.6% |
 | linktree | 5/746 | 0.7% |
 | github | 512/746 | 68.6% |
-| category | 745/746 | 99.9% |
-| tags | 745/746 | 99.9% |
-| operating_region | 743/746 | 99.6% |
-| based_in | 671/746 | 89.9% |
+| category | 746/746 | 100% |
+| tags | 746/746 | 100% |
+| operating_region | 744/746 | 99.7% |
+| based_in | 672/746 | 90.1% |
 
 ## Enrichment vs SCF Airtable
 
@@ -39,13 +39,13 @@ Per-project comparison of our **746** projects (incl. **127** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +165 | 580 |
+| description | +166 | 580 |
 | website | +176 | 562 |
 | github | +136 | 376 |
 | x | +249 | 284 |
 | linkedin | +191 | 204 |
 | discord | +103 | 108 |
-| based_in | +191 | 480 |
+| based_in | +192 | 480 |
 | blog | +252 | 0 |
 | telegram | +149 | 0 |
 | youtube | +166 | 0 |
@@ -118,17 +118,14 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4020 |
-| Lumen Loop | 3607 |
+| Lumen Loop | 3612 |
 | Stellar Expert | 360 |
 | Soroban Security | 73 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-9 items need attention.
-
-**description empty** (1):
-- archax
+8 items need attention.
 
 **SCF project missing website** (8):
 - paysapp
