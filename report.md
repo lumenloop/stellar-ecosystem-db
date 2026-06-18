@@ -35,7 +35,7 @@
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **746** projects (incl. **127** community projects not in SCF) against **653** in SCF Airtable:
+Per-project comparison of our **746** projects (incl. **127** community projects not in SCF) against **656** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
@@ -77,7 +77,7 @@ Of **619** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 467 | 495 |
-| Active last week | 132 | 218 |
+| Active last week | 132 | 219 |
 | Active last month | 187 | 290 |
 | Active last 3 months | 244 | 341 |
 | Active last year | 326 | 402 |
@@ -96,8 +96,8 @@ Of **619** SCF-funded projects:
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 5 |
-| OpenZeppelin | 2 |
 | CoinFabrik | 2 |
+| OpenZeppelin | 2 |
 | Code4rena | 2 |
 | Cantina | 1 |
 | Сoinspect | 1 |
@@ -128,11 +128,11 @@ How many data points each contributor provides across the directory:
 8 items need attention.
 
 **SCF project missing website** (8):
-- paysapp
-- the-starship-soroban
 - timed-transactions-api
-- wally
+- paysapp
 - relax
+- the-starship-soroban
+- wally
 - frost-implementation
 - sendit
 - crypto-link
