@@ -8,7 +8,8 @@ links:
     - coins.ph
   blog:
     - coins.ph/blog
-  x: []
+  x:
+    - coinsph
   linkedin:
     - linkedin.com/company/coins-ph
   discord:
