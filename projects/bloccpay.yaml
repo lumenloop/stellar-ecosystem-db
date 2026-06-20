@@ -1,0 +1,33 @@
+title: Bloccpay
+other_names: null
+parent: null
+description: ''
+links:
+  website:
+    - bloccpay.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: null
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 43
+  awarded_total: 100000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recay7Oe3yuqGc0nn
+mainnet:
+  audits: []
+  tokens: []
