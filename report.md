@@ -129,8 +129,8 @@ How many data points each contributor provides across the directory:
 
 **SCF project missing website** (8):
 - timed-transactions-api
-- paysapp
 - relax
+- paysapp
 - the-starship-soroban
 - sendit
 - wally
