@@ -1,0 +1,33 @@
+title: ACTA
+other_names: null
+parent: null
+description: ''
+links:
+  website:
+    - dapp.acta.build
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: null
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 42
+  awarded_total: 75000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recUBbVLf5Vj8oEW0
+mainnet:
+  audits: []
+  tokens: []
