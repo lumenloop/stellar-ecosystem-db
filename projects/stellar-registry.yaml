@@ -1,0 +1,33 @@
+title: Stellar Registry
+other_names: null
+parent: null
+description: ''
+links:
+  website:
+    - rgstry.xyz
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: null
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - SCF Public Goods - Q2 '26
+  awarded_total: null
+  submission_urls:
+    - communityfund.stellar.org/submissions/recK2lxTCZhUINmak
+mainnet:
+  audits: []
+  tokens: []
