@@ -6,41 +6,41 @@
 
 | Metric | Count |
 |--------|------:|
-| Total projects | **752** |
+| Total projects | **753** |
 | SCF-funded projects | 622 |
-| Community projects | 130 |
+| Community projects | 131 |
 | Audited projects | 55 |
 
 ## Data Coverage
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 744/752 | 98.9% |
-| website | 743/752 | 98.8% |
-| blog | 252/752 | 33.5% |
-| x | 533/752 | 70.9% |
-| linkedin | 395/752 | 52.5% |
-| discord | 210/752 | 27.9% |
-| telegram | 148/752 | 19.7% |
-| youtube | 167/752 | 22.2% |
-| instagram | 125/752 | 16.6% |
-| reddit | 15/752 | 2% |
-| tiktok | 35/752 | 4.7% |
-| linktree | 5/752 | 0.7% |
-| github | 511/752 | 68% |
-| category | 744/752 | 98.9% |
-| tags | 744/752 | 98.9% |
-| operating_region | 742/752 | 98.7% |
-| based_in | 670/752 | 89.1% |
+| description | 744/753 | 98.8% |
+| website | 744/753 | 98.8% |
+| blog | 252/753 | 33.5% |
+| x | 533/753 | 70.8% |
+| linkedin | 395/753 | 52.5% |
+| discord | 210/753 | 27.9% |
+| telegram | 148/753 | 19.7% |
+| youtube | 167/753 | 22.2% |
+| instagram | 125/753 | 16.6% |
+| reddit | 15/753 | 2% |
+| tiktok | 35/753 | 4.6% |
+| linktree | 5/753 | 0.7% |
+| github | 511/753 | 67.9% |
+| category | 745/753 | 98.9% |
+| tags | 744/753 | 98.8% |
+| operating_region | 742/753 | 98.5% |
+| based_in | 670/753 | 89% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **752** projects (incl. **130** community projects not in SCF) against **656** in SCF Airtable:
+Per-project comparison of our **753** projects (incl. **131** community projects not in SCF) against **656** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
 | description | +166 | 578 |
-| website | +183 | 560 |
+| website | +184 | 560 |
 | github | +136 | 375 |
 | x | +250 | 283 |
 | linkedin | +192 | 203 |
@@ -96,8 +96,8 @@ Of **622** SCF-funded projects:
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 5 |
-| Code4rena | 2 |
 | Zellic | 2 |
+| Code4rena | 2 |
 | OpenZeppelin | 2 |
 | CoinFabrik | 2 |
 | Cantina | 1 |
@@ -119,19 +119,20 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4005 |
-| Lumen Loop | 3622 |
+| Lumen Loop | 3624 |
 | Stellar Expert | 360 |
 | Soroban Security | 75 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-17 items need attention.
+18 items need attention.
 
-**description empty** (8):
+**description empty** (9):
 - dcent
-- bexo
+- reapp
 - acta
+- bexo
 - linq
 - bloccpay
 - opengrants
