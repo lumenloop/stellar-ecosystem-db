@@ -1,13 +1,13 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-06-20
+> Auto-generated on 2026-06-21
 
 ## Summary
 
 | Metric | Count |
 |--------|------:|
-| Total projects | **751** |
-| SCF-funded projects | 621 |
+| Total projects | **752** |
+| SCF-funded projects | 622 |
 | Community projects | 130 |
 | Audited projects | 53 |
 
@@ -15,32 +15,32 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 744/751 | 99.1% |
-| website | 742/751 | 98.8% |
-| blog | 252/751 | 33.6% |
-| x | 532/751 | 70.8% |
-| linkedin | 394/751 | 52.5% |
-| discord | 210/751 | 28% |
-| telegram | 148/751 | 19.7% |
-| youtube | 166/751 | 22.1% |
-| instagram | 124/751 | 16.5% |
-| reddit | 15/751 | 2% |
-| tiktok | 34/751 | 4.5% |
-| linktree | 5/751 | 0.7% |
-| github | 511/751 | 68% |
-| category | 744/751 | 99.1% |
-| tags | 744/751 | 99.1% |
-| operating_region | 742/751 | 98.8% |
-| based_in | 670/751 | 89.2% |
+| description | 744/752 | 98.9% |
+| website | 743/752 | 98.8% |
+| blog | 252/752 | 33.5% |
+| x | 532/752 | 70.7% |
+| linkedin | 394/752 | 52.4% |
+| discord | 210/752 | 27.9% |
+| telegram | 148/752 | 19.7% |
+| youtube | 166/752 | 22.1% |
+| instagram | 124/752 | 16.5% |
+| reddit | 15/752 | 2% |
+| tiktok | 34/752 | 4.5% |
+| linktree | 5/752 | 0.7% |
+| github | 511/752 | 68% |
+| category | 744/752 | 98.9% |
+| tags | 744/752 | 98.9% |
+| operating_region | 742/752 | 98.7% |
+| based_in | 670/752 | 89.1% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **751** projects (incl. **130** community projects not in SCF) against **656** in SCF Airtable:
+Per-project comparison of our **752** projects (incl. **130** community projects not in SCF) against **656** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
 | description | +166 | 578 |
-| website | +182 | 560 |
+| website | +183 | 560 |
 | github | +136 | 375 |
 | x | +249 | 283 |
 | linkedin | +191 | 203 |
@@ -58,15 +58,15 @@ Per-project comparison of our **751** projects (incl. **130** community projects
 
 ## SCF Project Coverage
 
-Of **621** SCF-funded projects:
+Of **622** SCF-funded projects:
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| awarded_total | 566/621 | 91.1% |
-| awarded_round | 600/621 | 96.6% |
-| submission_urls | 600/621 | 96.6% |
-| website | 612/621 | 98.6% |
-| github | 455/621 | 73.3% |
+| awarded_total | 567/622 | 91.2% |
+| awarded_round | 601/622 | 96.6% |
+| submission_urls | 601/622 | 96.6% |
+| website | 613/622 | 98.6% |
+| github | 455/622 | 73.2% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -117,24 +117,25 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4006 |
-| Lumen Loop | 3614 |
+| SCF | 4007 |
+| Lumen Loop | 3615 |
 | Stellar Expert | 360 |
 | Soroban Security | 73 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-16 items need attention.
+17 items need attention.
 
-**description empty** (7):
+**description empty** (8):
 - dcent
 - bexo
 - acta
+- linq
 - bloccpay
 - opengrants
-- stellar-registry
 - cushion
+- stellar-registry
 
 **SCF project missing website** (9):
 - opengrants
