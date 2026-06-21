@@ -1,0 +1,33 @@
+title: Fewticket
+other_names: null
+parent: null
+description: Fewticket is a digital ticketing and access control platform designed to modernize event management across Africa and emerging markets. It enables organizers to issue digital tickets, verify attendance in real time using QR validation and WebSocket infrastructure, and monitor event performance through secure dashboards and APIs. Fewticket addresses ticket fraud, inefficient check-ins, limited payment integration, and lack of scalable monetization tools for hybrid events.
+links:
+  website:
+    - fewticket.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 43
+  awarded_total: 65000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recV2lnVEljSRjLjo
+mainnet:
+  audits: []
+  tokens: []
