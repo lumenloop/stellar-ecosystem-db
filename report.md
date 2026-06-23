@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-06-22
+> Auto-generated on 2026-06-23
 
 ## Summary
 
@@ -18,14 +18,14 @@
 | description | 745/754 | 98.8% |
 | website | 745/754 | 98.8% |
 | blog | 252/754 | 33.4% |
-| x | 533/754 | 70.7% |
-| linkedin | 395/754 | 52.4% |
+| x | 532/754 | 70.6% |
+| linkedin | 394/754 | 52.3% |
 | discord | 210/754 | 27.9% |
 | telegram | 148/754 | 19.6% |
-| youtube | 167/754 | 22.1% |
-| instagram | 125/754 | 16.6% |
+| youtube | 166/754 | 22% |
+| instagram | 124/754 | 16.4% |
 | reddit | 15/754 | 2% |
-| tiktok | 35/754 | 4.6% |
+| tiktok | 34/754 | 4.5% |
 | linktree | 5/754 | 0.7% |
 | github | 511/754 | 67.8% |
 | category | 746/754 | 98.9% |
@@ -42,16 +42,16 @@ Per-project comparison of our **754** projects (incl. **131** community projects
 | description | +167 | 578 |
 | website | +185 | 560 |
 | github | +136 | 375 |
-| x | +250 | 283 |
-| linkedin | +192 | 203 |
+| x | +249 | 283 |
+| linkedin | +191 | 203 |
 | discord | +102 | 108 |
 | based_in | +192 | 478 |
 | blog | +252 | 0 |
 | telegram | +148 | 0 |
-| youtube | +167 | 0 |
-| instagram | +125 | 0 |
+| youtube | +166 | 0 |
+| instagram | +124 | 0 |
 | reddit | +15 | 0 |
-| tiktok | +35 | 0 |
+| tiktok | +34 | 0 |
 | linktree | +5 | 0 |
 
 *"Added" = we filled a field SCF didn't have. "Modified" = SCF had a value, we store a different one.*
@@ -76,11 +76,11 @@ Of **623** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 467 | 495 |
-| Active last week | 149 | 219 |
-| Active last month | 190 | 283 |
-| Active last 3 months | 247 | 341 |
-| Active last year | 327 | 401 |
+| Tracked projects | 467 | 494 |
+| Active last week | 137 | 216 |
+| Active last month | 188 | 282 |
+| Active last 3 months | 246 | 338 |
+| Active last year | 326 | 400 |
 
 ## Audit Data
 
@@ -96,12 +96,12 @@ Of **623** SCF-funded projects:
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 5 |
-| Zellic | 2 |
 | Code4rena | 2 |
+| Zellic | 2 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Cantina | 1 |
 | Hacken | 1 |
+| Cantina | 1 |
 | Сoinspect | 1 |
 
 ## Data Sources
@@ -130,11 +130,11 @@ How many data points each contributor provides across the directory:
 
 **description empty** (9):
 - dcent
-- reapp
 - acta
 - bexo
-- bloccpay
 - opengrants
+- reapp
+- bloccpay
 - linq
 - stellar-registry
 - cushion
@@ -147,6 +147,6 @@ How many data points each contributor provides across the directory:
 - relax
 - sendit
 - paysapp
-- the-starship-soroban
 - wally
+- the-starship-soroban
 
