@@ -77,10 +77,10 @@ Of **623** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 468 | 495 |
-| Active last week | 138 | 217 |
-| Active last month | 189 | 283 |
-| Active last 3 months | 247 | 339 |
-| Active last year | 327 | 401 |
+| Active last week | 140 | 215 |
+| Active last month | 188 | 284 |
+| Active last 3 months | 246 | 339 |
+| Active last year | 326 | 401 |
 
 ## Audit Data
 
@@ -96,10 +96,10 @@ Of **623** SCF-funded projects:
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 5 |
-| Code4rena | 2 |
 | CoinFabrik | 2 |
-| Zellic | 2 |
+| Code4rena | 2 |
 | OpenZeppelin | 2 |
+| Zellic | 2 |
 | Hacken | 1 |
 | Cantina | 1 |
 | Сoinspect | 1 |
@@ -130,23 +130,23 @@ How many data points each contributor provides across the directory:
 
 **description empty** (9):
 - dcent
-- bexo
-- bloccpay
 - acta
 - opengrants
+- bexo
+- bloccpay
+- cushion
 - reapp
 - linq
-- cushion
 - stellar-registry
 
 **SCF project missing website** (9):
 - opengrants
+- timed-transactions-api
+- wally
 - frost-implementation
 - crypto-link
-- timed-transactions-api
 - relax
-- sendit
-- wally
-- paysapp
 - the-starship-soroban
+- sendit
+- paysapp
 
