@@ -43,5 +43,9 @@ scf:
   submission_urls:
     - communityfund.stellar.org/submissions/recXYqqyG4JF1Rrp3
 mainnet:
-  audits: []
+  audits:
+    - name: Volta Wallet - Zellic Audit Report
+      url: sorobansecurity.com/report/76
+      date: '2026-01-30T09:26:26.235Z'
+      auditor: Zellic
   tokens: []

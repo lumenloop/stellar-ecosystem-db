@@ -6,17 +6,21 @@ links:
   website:
     - github.com/stackman27/soroban-opt-oracle
   blog: []
-  x: []
-  linkedin: []
+  x:
+    - github
+  linkedin:
+    - linkedin.com/company/github
   discord: []
   telegram: []
-  youtube: []
-  instagram: []
+  youtube:
+    - youtube.com/github
+  instagram:
+    - github
   reddit: []
-  tiktok: []
+  tiktok:
+    - github
   linktree: []
-  github:
-    - github.com/stackman27/soo (private repo, can share if needed)
+  github: []
 attributes:
   category: Applications
   tags:
