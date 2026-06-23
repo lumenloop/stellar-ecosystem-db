@@ -31,7 +31,7 @@
 | category | 746/754 | 98.9% |
 | tags | 744/754 | 98.7% |
 | operating_region | 742/754 | 98.4% |
-| based_in | 670/754 | 88.9% |
+| based_in | 671/754 | 89% |
 
 ## Enrichment vs SCF Airtable
 
@@ -45,7 +45,7 @@ Per-project comparison of our **754** projects (incl. **131** community projects
 | x | +250 | 283 |
 | linkedin | +192 | 203 |
 | discord | +102 | 108 |
-| based_in | +192 | 478 |
+| based_in | +193 | 478 |
 | blog | +252 | 0 |
 | telegram | +148 | 0 |
 | youtube | +167 | 0 |
@@ -119,7 +119,7 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4005 |
-| Lumen Loop | 3638 |
+| Lumen Loop | 3639 |
 | Stellar Expert | 360 |
 | Soroban Security | 75 |
 | DeFiLlama | 21 |
@@ -130,14 +130,14 @@ How many data points each contributor provides across the directory:
 
 **description empty** (9):
 - dcent
-- acta
 - bexo
 - bloccpay
+- acta
 - opengrants
 - reapp
 - linq
-- stellar-registry
 - cushion
+- stellar-registry
 
 **SCF project missing website** (9):
 - opengrants
@@ -146,7 +146,7 @@ How many data points each contributor provides across the directory:
 - timed-transactions-api
 - relax
 - sendit
-- paysapp
 - wally
+- paysapp
 - the-starship-soroban
 
