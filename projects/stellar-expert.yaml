@@ -25,7 +25,7 @@ attributes:
     - Analytics
   operating_region:
     - Global
-  based_in: null
+  based_in: Portugal
 images:
   icon: https://media.lumenloop.com/projects/stellar-expert/favicon.png
   logo: https://media.lumenloop.com/projects/stellar-expert/logo.svg

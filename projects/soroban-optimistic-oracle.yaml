@@ -3,24 +3,19 @@ other_names: null
 parent: null
 description: SOO is a decentralized arbitration system for resolving on-chain disputes. It serves as an oracle for projects like prediction markets, insurance protocols, derivatives, and cross-chain bridges, providing data ranging from cryptocurrency prices to sports and political events.
 links:
-  website:
-    - github.com/stackman27/soroban-opt-oracle
+  website: []
   blog: []
-  x:
-    - github
-  linkedin:
-    - linkedin.com/company/github
+  x: []
+  linkedin: []
   discord: []
   telegram: []
-  youtube:
-    - youtube.com/github
-  instagram:
-    - github
+  youtube: []
+  instagram: []
   reddit: []
-  tiktok:
-    - github
+  tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/stackman27/soo
 attributes:
   category: Applications
   tags:

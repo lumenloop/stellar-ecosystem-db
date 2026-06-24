@@ -27,7 +27,7 @@ attributes:
     - Tokenization
   operating_region:
     - Global
-  based_in: null
+  based_in: France
 images: null
 scf:
   awarded_round:

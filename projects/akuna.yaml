@@ -25,7 +25,7 @@ attributes:
     - On-Off Ramp
   operating_region:
     - Sub-Saharan Africa
-  based_in: null
+  based_in: Ghana
 images: null
 mainnet:
   audits: []

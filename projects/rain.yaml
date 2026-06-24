@@ -27,7 +27,7 @@ attributes:
     - Mobile
   operating_region:
     - Global
-  based_in: null
+  based_in: Bahrain
 images:
   icon: https://media.lumenloop.com/projects/rain/favicon.svg
   logo: https://media.lumenloop.com/projects/rain/logo.svg

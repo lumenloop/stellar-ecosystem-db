@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-06-23
+> Auto-generated on 2026-06-24
 
 ## Summary
 
@@ -16,22 +16,22 @@
 | Field | Count | Coverage |
 |-------|------:|---------:|
 | description | 745/754 | 98.8% |
-| website | 745/754 | 98.8% |
+| website | 744/754 | 98.7% |
 | blog | 252/754 | 33.4% |
-| x | 533/754 | 70.7% |
-| linkedin | 395/754 | 52.4% |
+| x | 532/754 | 70.6% |
+| linkedin | 394/754 | 52.3% |
 | discord | 210/754 | 27.9% |
 | telegram | 148/754 | 19.6% |
-| youtube | 167/754 | 22.1% |
-| instagram | 125/754 | 16.6% |
+| youtube | 166/754 | 22% |
+| instagram | 124/754 | 16.4% |
 | reddit | 15/754 | 2% |
-| tiktok | 35/754 | 4.6% |
+| tiktok | 34/754 | 4.5% |
 | linktree | 5/754 | 0.7% |
 | github | 511/754 | 67.8% |
 | category | 746/754 | 98.9% |
 | tags | 744/754 | 98.7% |
 | operating_region | 742/754 | 98.4% |
-| based_in | 671/754 | 89% |
+| based_in | 688/754 | 91.2% |
 
 ## Enrichment vs SCF Airtable
 
@@ -40,18 +40,18 @@ Per-project comparison of our **754** projects (incl. **131** community projects
 | Field | We Added | We Modified |
 |-------|------:|------:|
 | description | +167 | 578 |
-| website | +185 | 560 |
+| website | +185 | 559 |
 | github | +136 | 375 |
-| x | +250 | 283 |
-| linkedin | +192 | 203 |
+| x | +249 | 283 |
+| linkedin | +191 | 203 |
 | discord | +102 | 108 |
-| based_in | +193 | 478 |
+| based_in | +210 | 478 |
 | blog | +252 | 0 |
 | telegram | +148 | 0 |
-| youtube | +167 | 0 |
-| instagram | +125 | 0 |
+| youtube | +166 | 0 |
+| instagram | +124 | 0 |
 | reddit | +15 | 0 |
-| tiktok | +35 | 0 |
+| tiktok | +34 | 0 |
 | linktree | +5 | 0 |
 
 *"Added" = we filled a field SCF didn't have. "Modified" = SCF had a value, we store a different one.*
@@ -65,7 +65,7 @@ Of **623** SCF-funded projects:
 | awarded_total | 568/623 | 91.2% |
 | awarded_round | 602/623 | 96.6% |
 | submission_urls | 602/623 | 96.6% |
-| website | 614/623 | 98.6% |
+| website | 613/623 | 98.4% |
 | github | 455/623 | 73% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
@@ -76,11 +76,11 @@ Of **623** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 468 | 495 |
-| Active last week | 140 | 215 |
-| Active last month | 188 | 284 |
-| Active last 3 months | 246 | 339 |
-| Active last year | 326 | 401 |
+| Tracked projects | 468 | 493 |
+| Active last week | 137 | 213 |
+| Active last month | 186 | 282 |
+| Active last 3 months | 245 | 337 |
+| Active last year | 325 | 398 |
 
 ## Audit Data
 
@@ -118,35 +118,36 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4005 |
-| Lumen Loop | 3639 |
+| SCF | 4004 |
+| Lumen Loop | 3655 |
 | Stellar Expert | 360 |
 | Soroban Security | 75 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-18 items need attention.
+19 items need attention.
 
 **description empty** (9):
 - dcent
 - acta
-- opengrants
 - bexo
-- bloccpay
+- opengrants
 - cushion
+- bloccpay
 - reapp
 - linq
 - stellar-registry
 
-**SCF project missing website** (9):
+**SCF project missing website** (10):
+- soroban-optimistic-oracle
 - opengrants
 - timed-transactions-api
 - wally
 - frost-implementation
+- the-starship-soroban
 - crypto-link
 - relax
-- the-starship-soroban
 - sendit
 - paysapp
 

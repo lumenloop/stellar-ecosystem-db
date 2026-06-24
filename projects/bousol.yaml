@@ -30,7 +30,7 @@ attributes:
   operating_region:
     - Latin America & Caribbean
     - North America (without Mexico)
-  based_in: null
+  based_in: United States
 images: null
 mainnet:
   audits: []
