@@ -77,7 +77,7 @@ Of **623** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 468 | 494 |
-| Active last week | 138 | 214 |
+| Active last week | 138 | 212 |
 | Active last month | 187 | 283 |
 | Active last 3 months | 245 | 338 |
 | Active last year | 325 | 399 |
@@ -130,11 +130,11 @@ How many data points each contributor provides across the directory:
 
 **description empty** (9):
 - dcent
-- opengrants
-- acta
 - bloccpay
 - bexo
 - reapp
+- opengrants
+- acta
 - cushion
 - linq
 - stellar-registry
@@ -142,9 +142,9 @@ How many data points each contributor provides across the directory:
 **SCF project missing website** (10):
 - soroban-optimistic-oracle
 - opengrants
+- crypto-link
 - wally
 - timed-transactions-api
-- crypto-link
 - frost-implementation
 - relax
 - the-starship-soroban
