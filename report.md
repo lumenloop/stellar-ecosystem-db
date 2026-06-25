@@ -77,10 +77,10 @@ Of **623** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 468 | 494 |
-| Active last week | 128 | 212 |
-| Active last month | 186 | 281 |
-| Active last 3 months | 244 | 338 |
-| Active last year | 326 | 399 |
+| Active last week | 133 | 209 |
+| Active last month | 192 | 281 |
+| Active last 3 months | 244 | 337 |
+| Active last year | 326 | 398 |
 
 ## Audit Data
 
@@ -132,8 +132,8 @@ How many data points each contributor provides across the directory:
 - cashlink
 - matrixdock
 - dcent
-- bexo
 - cushion
+- bexo
 - opengrants
 - bloccpay
 - stellar-registry
