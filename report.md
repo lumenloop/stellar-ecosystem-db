@@ -6,41 +6,41 @@
 
 | Metric | Count |
 |--------|------:|
-| Total projects | **755** |
+| Total projects | **756** |
 | SCF-funded projects | 623 |
-| Community projects | 132 |
+| Community projects | 133 |
 | Audited projects | 55 |
 
 ## Data Coverage
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 745/755 | 98.7% |
-| website | 745/755 | 98.7% |
-| blog | 252/755 | 33.4% |
-| x | 533/755 | 70.6% |
-| linkedin | 395/755 | 52.3% |
-| discord | 210/755 | 27.8% |
-| telegram | 148/755 | 19.6% |
-| youtube | 167/755 | 22.1% |
-| instagram | 125/755 | 16.6% |
-| reddit | 15/755 | 2% |
-| tiktok | 35/755 | 4.6% |
-| linktree | 5/755 | 0.7% |
-| github | 511/755 | 67.7% |
-| category | 746/755 | 98.8% |
-| tags | 744/755 | 98.5% |
-| operating_region | 742/755 | 98.3% |
-| based_in | 688/755 | 91.1% |
+| description | 745/756 | 98.5% |
+| website | 746/756 | 98.7% |
+| blog | 252/756 | 33.3% |
+| x | 533/756 | 70.5% |
+| linkedin | 395/756 | 52.2% |
+| discord | 210/756 | 27.8% |
+| telegram | 148/756 | 19.6% |
+| youtube | 167/756 | 22.1% |
+| instagram | 125/756 | 16.5% |
+| reddit | 15/756 | 2% |
+| tiktok | 35/756 | 4.6% |
+| linktree | 5/756 | 0.7% |
+| github | 511/756 | 67.6% |
+| category | 746/756 | 98.7% |
+| tags | 744/756 | 98.4% |
+| operating_region | 742/756 | 98.1% |
+| based_in | 688/756 | 91% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **755** projects (incl. **132** community projects not in SCF) against **656** in SCF Airtable:
+Per-project comparison of our **756** projects (incl. **133** community projects not in SCF) against **656** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
 | description | +167 | 578 |
-| website | +186 | 559 |
+| website | +187 | 559 |
 | github | +136 | 375 |
 | x | +250 | 283 |
 | linkedin | +192 | 203 |
@@ -119,21 +119,22 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4003 |
-| Lumen Loop | 3662 |
+| Lumen Loop | 3663 |
 | Stellar Expert | 360 |
 | Soroban Security | 75 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-20 items need attention.
+21 items need attention.
 
-**description empty** (10):
+**description empty** (11):
+- cashlink
 - matrixdock
 - dcent
+- bexo
 - cushion
 - bloccpay
-- bexo
 - reapp
 - linq
 - opengrants
