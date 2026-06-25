@@ -18,14 +18,14 @@
 | description | 745/756 | 98.5% |
 | website | 746/756 | 98.7% |
 | blog | 252/756 | 33.3% |
-| x | 533/756 | 70.5% |
-| linkedin | 395/756 | 52.2% |
+| x | 532/756 | 70.4% |
+| linkedin | 394/756 | 52.1% |
 | discord | 210/756 | 27.8% |
 | telegram | 148/756 | 19.6% |
-| youtube | 167/756 | 22.1% |
-| instagram | 125/756 | 16.5% |
+| youtube | 166/756 | 22% |
+| instagram | 124/756 | 16.4% |
 | reddit | 15/756 | 2% |
-| tiktok | 35/756 | 4.6% |
+| tiktok | 34/756 | 4.5% |
 | linktree | 5/756 | 0.7% |
 | github | 511/756 | 67.6% |
 | category | 746/756 | 98.7% |
@@ -42,16 +42,16 @@ Per-project comparison of our **756** projects (incl. **133** community projects
 | description | +167 | 578 |
 | website | +187 | 559 |
 | github | +136 | 375 |
-| x | +250 | 283 |
-| linkedin | +192 | 203 |
+| x | +249 | 283 |
+| linkedin | +191 | 203 |
 | discord | +102 | 108 |
 | based_in | +210 | 478 |
 | blog | +252 | 0 |
 | telegram | +148 | 0 |
-| youtube | +167 | 0 |
-| instagram | +125 | 0 |
+| youtube | +166 | 0 |
+| instagram | +124 | 0 |
 | reddit | +15 | 0 |
-| tiktok | +35 | 0 |
+| tiktok | +34 | 0 |
 | linktree | +5 | 0 |
 
 *"Added" = we filled a field SCF didn't have. "Modified" = SCF had a value, we store a different one.*
@@ -76,11 +76,11 @@ Of **623** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 468 | 494 |
-| Active last week | 128 | 211 |
-| Active last month | 186 | 281 |
-| Active last 3 months | 243 | 338 |
-| Active last year | 325 | 399 |
+| Tracked projects | 468 | 493 |
+| Active last week | 127 | 210 |
+| Active last month | 185 | 280 |
+| Active last 3 months | 243 | 337 |
+| Active last year | 325 | 398 |
 
 ## Audit Data
 
@@ -96,13 +96,13 @@ Of **623** SCF-funded projects:
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 5 |
-| Zellic | 2 |
 | Code4rena | 2 |
 | OpenZeppelin | 2 |
 | CoinFabrik | 2 |
+| Zellic | 2 |
 | Hacken | 1 |
-| Сoinspect | 1 |
 | Cantina | 1 |
+| Сoinspect | 1 |
 
 ## Data Sources
 
@@ -132,24 +132,24 @@ How many data points each contributor provides across the directory:
 - cashlink
 - matrixdock
 - dcent
-- bexo
 - cushion
 - bloccpay
+- bexo
+- opengrants
+- stellar-registry
 - reapp
 - linq
-- opengrants
 - acta
-- stellar-registry
 
 **SCF project missing website** (10):
 - wally
 - soroban-optimistic-oracle
-- timed-transactions-api
 - frost-implementation
-- relax
-- the-starship-soroban
 - opengrants
 - sendit
 - crypto-link
 - paysapp
+- timed-transactions-api
+- relax
+- the-starship-soroban
 

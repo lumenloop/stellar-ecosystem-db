@@ -6,21 +6,17 @@ links:
   website:
     - github.com/soneso/stellar_wallet_flutter_sdk
   blog: []
-  x:
-    - github
-  linkedin:
-    - linkedin.com/company/github
+  x: []
+  linkedin: []
   discord: []
   telegram: []
-  youtube:
-    - youtube.com/github
-  instagram:
-    - github
+  youtube: []
+  instagram: []
   reddit: []
-  tiktok:
-    - github
+  tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/soneso/stellar_wallet_flutter_sdk
 attributes:
   category: Developer Tooling
   tags:
