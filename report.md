@@ -1,46 +1,46 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-06-24
+> Auto-generated on 2026-06-25
 
 ## Summary
 
 | Metric | Count |
 |--------|------:|
-| Total projects | **754** |
+| Total projects | **755** |
 | SCF-funded projects | 623 |
-| Community projects | 131 |
+| Community projects | 132 |
 | Audited projects | 55 |
 
 ## Data Coverage
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 745/754 | 98.8% |
-| website | 744/754 | 98.7% |
-| blog | 252/754 | 33.4% |
-| x | 533/754 | 70.7% |
-| linkedin | 395/754 | 52.4% |
-| discord | 210/754 | 27.9% |
-| telegram | 148/754 | 19.6% |
-| youtube | 167/754 | 22.1% |
-| instagram | 125/754 | 16.6% |
-| reddit | 15/754 | 2% |
-| tiktok | 35/754 | 4.6% |
-| linktree | 5/754 | 0.7% |
-| github | 511/754 | 67.8% |
-| category | 746/754 | 98.9% |
-| tags | 744/754 | 98.7% |
-| operating_region | 742/754 | 98.4% |
-| based_in | 688/754 | 91.2% |
+| description | 745/755 | 98.7% |
+| website | 745/755 | 98.7% |
+| blog | 252/755 | 33.4% |
+| x | 533/755 | 70.6% |
+| linkedin | 395/755 | 52.3% |
+| discord | 210/755 | 27.8% |
+| telegram | 148/755 | 19.6% |
+| youtube | 167/755 | 22.1% |
+| instagram | 125/755 | 16.6% |
+| reddit | 15/755 | 2% |
+| tiktok | 35/755 | 4.6% |
+| linktree | 5/755 | 0.7% |
+| github | 511/755 | 67.7% |
+| category | 746/755 | 98.8% |
+| tags | 744/755 | 98.5% |
+| operating_region | 742/755 | 98.3% |
+| based_in | 688/755 | 91.1% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **754** projects (incl. **131** community projects not in SCF) against **656** in SCF Airtable:
+Per-project comparison of our **755** projects (incl. **132** community projects not in SCF) against **656** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
 | description | +167 | 578 |
-| website | +185 | 559 |
+| website | +186 | 559 |
 | github | +136 | 375 |
 | x | +250 | 283 |
 | linkedin | +192 | 203 |
@@ -77,9 +77,9 @@ Of **623** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 468 | 494 |
-| Active last week | 138 | 212 |
-| Active last month | 187 | 283 |
-| Active last 3 months | 245 | 338 |
+| Active last week | 128 | 211 |
+| Active last month | 186 | 281 |
+| Active last 3 months | 243 | 338 |
 | Active last year | 325 | 399 |
 
 ## Audit Data
@@ -96,13 +96,13 @@ Of **623** SCF-funded projects:
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 5 |
-| CoinFabrik | 2 |
 | Zellic | 2 |
 | Code4rena | 2 |
 | OpenZeppelin | 2 |
+| CoinFabrik | 2 |
 | Hacken | 1 |
-| Cantina | 1 |
 | Сoinspect | 1 |
+| Cantina | 1 |
 
 ## Data Sources
 
@@ -119,35 +119,36 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4003 |
-| Lumen Loop | 3661 |
+| Lumen Loop | 3662 |
 | Stellar Expert | 360 |
 | Soroban Security | 75 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-19 items need attention.
+20 items need attention.
 
-**description empty** (9):
+**description empty** (10):
+- matrixdock
 - dcent
+- cushion
 - bloccpay
 - bexo
 - reapp
+- linq
 - opengrants
 - acta
-- cushion
-- linq
 - stellar-registry
 
 **SCF project missing website** (10):
-- soroban-optimistic-oracle
-- opengrants
-- crypto-link
 - wally
+- soroban-optimistic-oracle
 - timed-transactions-api
 - frost-implementation
 - relax
 - the-starship-soroban
+- opengrants
 - sendit
+- crypto-link
 - paysapp
 
