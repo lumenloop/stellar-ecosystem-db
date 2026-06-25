@@ -15,10 +15,10 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 745/756 | 98.5% |
-| website | 746/756 | 98.7% |
+| description | 746/756 | 98.7% |
+| website | 747/756 | 98.8% |
 | blog | 252/756 | 33.3% |
-| x | 533/756 | 70.5% |
+| x | 534/756 | 70.6% |
 | linkedin | 395/756 | 52.2% |
 | discord | 210/756 | 27.8% |
 | telegram | 148/756 | 19.6% |
@@ -27,10 +27,10 @@
 | reddit | 15/756 | 2% |
 | tiktok | 35/756 | 4.6% |
 | linktree | 5/756 | 0.7% |
-| github | 511/756 | 67.6% |
-| category | 746/756 | 98.7% |
-| tags | 744/756 | 98.4% |
-| operating_region | 742/756 | 98.1% |
+| github | 512/756 | 67.7% |
+| category | 748/756 | 98.9% |
+| tags | 746/756 | 98.7% |
+| operating_region | 743/756 | 98.3% |
 | based_in | 688/756 | 91% |
 
 ## Enrichment vs SCF Airtable
@@ -39,10 +39,10 @@ Per-project comparison of our **756** projects (incl. **133** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +167 | 578 |
-| website | +187 | 559 |
-| github | +136 | 375 |
-| x | +250 | 283 |
+| description | +168 | 578 |
+| website | +188 | 559 |
+| github | +137 | 375 |
+| x | +251 | 283 |
 | linkedin | +192 | 203 |
 | discord | +102 | 108 |
 | based_in | +210 | 478 |
@@ -65,8 +65,8 @@ Of **623** SCF-funded projects:
 | awarded_total | 568/623 | 91.2% |
 | awarded_round | 602/623 | 96.6% |
 | submission_urls | 602/623 | 96.6% |
-| website | 613/623 | 98.4% |
-| github | 455/623 | 73% |
+| website | 614/623 | 98.6% |
+| github | 456/623 | 73.2% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -76,9 +76,9 @@ Of **623** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 468 | 494 |
-| Active last week | 133 | 209 |
-| Active last month | 192 | 281 |
+| Tracked projects | 469 | 494 |
+| Active last week | 133 | 205 |
+| Active last month | 193 | 280 |
 | Active last 3 months | 244 | 337 |
 | Active last year | 326 | 398 |
 
@@ -119,16 +119,16 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4002 |
-| Lumen Loop | 3669 |
+| Lumen Loop | 3678 |
 | Stellar Expert | 360 |
 | Soroban Security | 75 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-21 items need attention.
+19 items need attention.
 
-**description empty** (11):
+**description empty** (10):
 - cashlink
 - matrixdock
 - dcent
@@ -139,12 +139,10 @@ How many data points each contributor provides across the directory:
 - stellar-registry
 - reapp
 - linq
-- acta
 
-**SCF project missing website** (10):
-- wally
+**SCF project missing website** (9):
 - frost-implementation
-- opengrants
+- wally
 - sendit
 - soroban-optimistic-oracle
 - crypto-link

@@ -3,7 +3,9 @@ other_names: null
 parent: null
 description: ''
 links:
-  website: []
+  website:
+    - opengrants.net
+    - opengrants.daostar.org
   blog: []
   x: []
   linkedin: []
@@ -16,8 +18,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
+  category: Infrastructure & Services
+  tags:
+    - Funding Allocation
+    - Analytics
+    - DAO Tool
   operating_region: []
   based_in: null
 images: null
