@@ -37,6 +37,7 @@ attributes:
     - Global
   based_in: Canada
 images:
+  icon: https://media.lumenloop.com/projects/lumen-loop/lumen-loop-apple_touch-th7tuw.webp
   logo: https://media.lumenloop.com/projects/lumen-loop/lumen-loop-logo-tfen8m.webp
 scf:
   awarded_round:
