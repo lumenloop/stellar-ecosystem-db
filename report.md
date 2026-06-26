@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-06-25
+> Auto-generated on 2026-06-26
 
 ## Summary
 
@@ -15,7 +15,7 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 746/756 | 98.7% |
+| description | 747/756 | 98.8% |
 | website | 747/756 | 98.8% |
 | blog | 252/756 | 33.3% |
 | x | 534/756 | 70.6% |
@@ -27,11 +27,11 @@
 | reddit | 15/756 | 2% |
 | tiktok | 35/756 | 4.6% |
 | linktree | 5/756 | 0.7% |
-| github | 512/756 | 67.7% |
+| github | 513/756 | 67.9% |
 | category | 748/756 | 98.9% |
 | tags | 746/756 | 98.7% |
 | operating_region | 743/756 | 98.3% |
-| based_in | 688/756 | 91% |
+| based_in | 689/756 | 91.1% |
 
 ## Enrichment vs SCF Airtable
 
@@ -39,13 +39,13 @@ Per-project comparison of our **756** projects (incl. **133** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +168 | 578 |
+| description | +169 | 578 |
 | website | +188 | 559 |
-| github | +137 | 375 |
+| github | +138 | 375 |
 | x | +251 | 283 |
 | linkedin | +192 | 203 |
 | discord | +102 | 108 |
-| based_in | +210 | 478 |
+| based_in | +211 | 478 |
 | blog | +252 | 0 |
 | telegram | +148 | 0 |
 | youtube | +167 | 0 |
@@ -66,7 +66,7 @@ Of **623** SCF-funded projects:
 | awarded_round | 602/623 | 96.6% |
 | submission_urls | 602/623 | 96.6% |
 | website | 614/623 | 98.6% |
-| github | 456/623 | 73.2% |
+| github | 457/623 | 73.4% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -76,11 +76,11 @@ Of **623** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 469 | 494 |
-| Active last week | 133 | 205 |
-| Active last month | 193 | 280 |
-| Active last 3 months | 244 | 337 |
-| Active last year | 326 | 398 |
+| Tracked projects | 470 | 495 |
+| Active last week | 132 | 207 |
+| Active last month | 193 | 281 |
+| Active last 3 months | 244 | 338 |
+| Active last year | 327 | 399 |
 
 ## Audit Data
 
@@ -101,8 +101,8 @@ Of **623** SCF-funded projects:
 | CoinFabrik | 2 |
 | Zellic | 2 |
 | Hacken | 1 |
-| Cantina | 1 |
 | Сoinspect | 1 |
+| Cantina | 1 |
 
 ## Data Sources
 
@@ -119,25 +119,24 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4002 |
-| Lumen Loop | 3678 |
+| Lumen Loop | 3681 |
 | Stellar Expert | 360 |
 | Soroban Security | 75 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-19 items need attention.
+18 items need attention.
 
-**description empty** (10):
+**description empty** (9):
 - cashlink
 - matrixdock
 - dcent
 - cushion
 - bexo
-- opengrants
 - bloccpay
-- stellar-registry
 - reapp
+- stellar-registry
 - linq
 
 **SCF project missing website** (9):

@@ -1,7 +1,7 @@
 title: OpenGrants
 other_names: null
 parent: null
-description: ''
+description: OpenGrants is the open-source grants data stack — an intelligence layer for Web3 grant programs that unlocks real-time analytics, streamlines reporting, reduces risk, and improves decision-making and coordination across the broader funding ecosystem. Built by DAOstar.
 links:
   website:
     - opengrants.net
@@ -16,7 +16,8 @@ links:
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/metagov/daostar
 attributes:
   category: Infrastructure & Services
   tags:
