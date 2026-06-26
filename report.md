@@ -18,14 +18,14 @@
 | description | 747/756 | 98.8% |
 | website | 747/756 | 98.8% |
 | blog | 252/756 | 33.3% |
-| x | 534/756 | 70.6% |
-| linkedin | 395/756 | 52.2% |
+| x | 533/756 | 70.5% |
+| linkedin | 394/756 | 52.1% |
 | discord | 210/756 | 27.8% |
 | telegram | 148/756 | 19.6% |
-| youtube | 167/756 | 22.1% |
+| youtube | 166/756 | 22% |
 | instagram | 125/756 | 16.5% |
 | reddit | 15/756 | 2% |
-| tiktok | 35/756 | 4.6% |
+| tiktok | 34/756 | 4.5% |
 | linktree | 5/756 | 0.7% |
 | github | 513/756 | 67.9% |
 | category | 748/756 | 98.9% |
@@ -42,16 +42,16 @@ Per-project comparison of our **756** projects (incl. **133** community projects
 | description | +169 | 578 |
 | website | +188 | 559 |
 | github | +138 | 375 |
-| x | +251 | 283 |
-| linkedin | +192 | 203 |
+| x | +250 | 283 |
+| linkedin | +191 | 203 |
 | discord | +102 | 108 |
 | based_in | +211 | 478 |
 | blog | +252 | 0 |
 | telegram | +148 | 0 |
-| youtube | +167 | 0 |
+| youtube | +166 | 0 |
 | instagram | +125 | 0 |
 | reddit | +15 | 0 |
-| tiktok | +35 | 0 |
+| tiktok | +34 | 0 |
 | linktree | +5 | 0 |
 
 *"Added" = we filled a field SCF didn't have. "Modified" = SCF had a value, we store a different one.*
@@ -76,11 +76,11 @@ Of **623** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 470 | 495 |
-| Active last week | 132 | 207 |
-| Active last month | 193 | 281 |
-| Active last 3 months | 244 | 338 |
-| Active last year | 327 | 399 |
+| Tracked projects | 470 | 494 |
+| Active last week | 131 | 205 |
+| Active last month | 192 | 280 |
+| Active last 3 months | 243 | 337 |
+| Active last year | 326 | 398 |
 
 ## Audit Data
 
@@ -97,8 +97,8 @@ Of **623** SCF-funded projects:
 | Quarkslab | 6 |
 | Halborn | 5 |
 | Code4rena | 2 |
-| OpenZeppelin | 2 |
 | CoinFabrik | 2 |
+| OpenZeppelin | 2 |
 | Zellic | 2 |
 | Hacken | 1 |
 | Сoinspect | 1 |
@@ -134,15 +134,15 @@ How many data points each contributor provides across the directory:
 - dcent
 - bexo
 - cushion
-- bloccpay
 - stellar-registry
 - reapp
+- bloccpay
 - linq
 
 **SCF project missing website** (9):
+- sendit
 - frost-implementation
 - wally
-- sendit
 - soroban-optimistic-oracle
 - crypto-link
 - the-starship-soroban
