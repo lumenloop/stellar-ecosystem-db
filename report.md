@@ -118,8 +118,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4002 |
-| Lumen Loop | 3681 |
+| SCF | 4000 |
+| Lumen Loop | 3683 |
 | Stellar Expert | 360 |
 | Soroban Security | 75 |
 | DeFiLlama | 21 |
@@ -132,11 +132,11 @@ How many data points each contributor provides across the directory:
 - cashlink
 - matrixdock
 - dcent
-- cushion
 - bexo
+- cushion
 - bloccpay
-- reapp
 - stellar-registry
+- reapp
 - linq
 
 **SCF project missing website** (9):
@@ -146,7 +146,7 @@ How many data points each contributor provides across the directory:
 - soroban-optimistic-oracle
 - crypto-link
 - the-starship-soroban
-- paysapp
 - timed-transactions-api
+- paysapp
 - relax
 

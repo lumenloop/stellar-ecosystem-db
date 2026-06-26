@@ -34,8 +34,8 @@ attributes:
     - Social
     - Identity
   operating_region:
-    - North America (without Mexico)
-  based_in: United States
+    - Global
+  based_in: Canada
 images:
   logo: https://media.lumenloop.com/projects/lumen-loop/lumen-loop-logo-tfen8m.webp
 scf:
