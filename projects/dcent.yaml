@@ -1,12 +1,13 @@
 title: D'CENT
 other_names: null
 parent: null
-description: ''
+description: D'CENT by IoTrust is a hardware and biometric crypto wallet serving 1M+ users across 220 countries. Built around an EAL5+ certified secure element, it supports hundreds of assets including XLM, XRP, BTC, and ETH. On Stellar, D'CENT is integrating a native Soroban dApp browser, hardware-level smart contract signing, and cross-chain swap access via SushiSwap — enabling its existing user base to participate in Stellar DeFi and RWA opportunities for the first time.
 links:
   website:
     - dcentwallet.com/en
   blog: []
-  x: []
+  x:
+    - dcentwallets
   linkedin: []
   discord: []
   telegram: []
@@ -17,10 +18,14 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
-  operating_region: []
-  based_in: null
+  category: Applications
+  tags:
+    - Security
+    - Multi-Chain
+    - Mobile
+  operating_region:
+    - Global
+  based_in: South Korea
 images: null
 mainnet:
   audits: []
