@@ -1,12 +1,13 @@
 title: Matrixdock
 other_names: null
 parent: null
-description: ''
+description: Matrixdock is Asia's leading real-world asset (RWA) tokenization platform, bringing institutional-grade assets on-chain through fully allocated, transparent, and verifiable structures. Products include XAUm (tokenized gold) and XAGm (tokenized silver), each backed 1:1 by LBMA-accredited bullion, and STBT, a tokenized short-term U.S. Treasury Bill designed for on-chain liquidity and collateral use. Matrixdock is building the reserve layer for on-chain capital markets.
 links:
   website:
     - matrixdock.com
   blog: []
-  x: []
+  x:
+    - matrixdock
   linkedin: []
   discord: []
   telegram: []
@@ -17,8 +18,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
+  category: Financial Protocols
+  tags:
+    - RWA
+    - Tokenization
+    - Institutional
   operating_region: []
   based_in: null
 images: null

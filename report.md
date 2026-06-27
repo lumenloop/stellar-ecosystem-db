@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-06-26
+> Auto-generated on 2026-06-27
 
 ## Summary
 
@@ -15,10 +15,10 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 747/756 | 98.8% |
+| description | 748/756 | 98.9% |
 | website | 747/756 | 98.8% |
 | blog | 252/756 | 33.3% |
-| x | 533/756 | 70.5% |
+| x | 534/756 | 70.6% |
 | linkedin | 394/756 | 52.1% |
 | discord | 210/756 | 27.8% |
 | telegram | 148/756 | 19.6% |
@@ -28,8 +28,8 @@
 | tiktok | 34/756 | 4.5% |
 | linktree | 5/756 | 0.7% |
 | github | 513/756 | 67.9% |
-| category | 748/756 | 98.9% |
-| tags | 746/756 | 98.7% |
+| category | 749/756 | 99.1% |
+| tags | 747/756 | 98.8% |
 | operating_region | 743/756 | 98.3% |
 | based_in | 689/756 | 91.1% |
 
@@ -39,10 +39,10 @@ Per-project comparison of our **756** projects (incl. **133** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +169 | 578 |
+| description | +170 | 578 |
 | website | +188 | 559 |
 | github | +138 | 375 |
-| x | +250 | 283 |
+| x | +251 | 283 |
 | linkedin | +191 | 203 |
 | discord | +102 | 108 |
 | based_in | +211 | 478 |
@@ -77,8 +77,8 @@ Of **623** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 470 | 494 |
-| Active last week | 124 | 204 |
-| Active last month | 191 | 278 |
+| Active last week | 124 | 205 |
+| Active last month | 191 | 277 |
 | Active last 3 months | 243 | 337 |
 | Active last year | 325 | 396 |
 
@@ -119,18 +119,17 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4000 |
-| Lumen Loop | 3684 |
+| Lumen Loop | 3688 |
 | Stellar Expert | 360 |
 | Soroban Security | 75 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-18 items need attention.
+17 items need attention.
 
-**description empty** (9):
+**description empty** (8):
 - cashlink
-- matrixdock
 - dcent
 - bexo
 - stellar-registry
