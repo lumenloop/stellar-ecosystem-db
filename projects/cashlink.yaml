@@ -1,7 +1,7 @@
 title: Cashlink
 other_names: null
 parent: null
-description: ''
+description: Cashlink Technologies is a regulated European provider of token-based capital market infrastructure. It offers end-to-end issuance and settlement services for token-based securities, operating as a licensed crypto securities registrar and custodian. The company serves major financial institutions including Deutsche Bank, KfW, DZ Bank, and Helaba, with over €850 million in transaction volume and 300+ live issuances.
 links:
   website:
     - cashlink.de
@@ -17,10 +17,14 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
-  operating_region: []
-  based_in: null
+  category: Infrastructure & Services
+  tags:
+    - Tokenization
+    - RWA
+    - Institutional
+  operating_region:
+    - Europe
+  based_in: Germany
 images: null
 mainnet:
   audits: []

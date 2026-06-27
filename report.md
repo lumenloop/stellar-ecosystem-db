@@ -15,7 +15,7 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 749/756 | 99.1% |
+| description | 750/756 | 99.2% |
 | website | 747/756 | 98.8% |
 | blog | 252/756 | 33.3% |
 | x | 535/756 | 70.8% |
@@ -28,10 +28,10 @@
 | tiktok | 34/756 | 4.5% |
 | linktree | 5/756 | 0.7% |
 | github | 513/756 | 67.9% |
-| category | 750/756 | 99.2% |
-| tags | 748/756 | 98.9% |
-| operating_region | 745/756 | 98.5% |
-| based_in | 691/756 | 91.4% |
+| category | 751/756 | 99.3% |
+| tags | 749/756 | 99.1% |
+| operating_region | 746/756 | 98.7% |
+| based_in | 692/756 | 91.5% |
 
 ## Enrichment vs SCF Airtable
 
@@ -39,13 +39,13 @@ Per-project comparison of our **756** projects (incl. **133** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +171 | 578 |
+| description | +172 | 578 |
 | website | +188 | 559 |
 | github | +138 | 375 |
 | x | +252 | 283 |
 | linkedin | +191 | 203 |
 | discord | +102 | 108 |
-| based_in | +213 | 478 |
+| based_in | +214 | 478 |
 | blog | +252 | 0 |
 | telegram | +148 | 0 |
 | youtube | +166 | 0 |
@@ -96,13 +96,13 @@ Of **623** SCF-funded projects:
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 5 |
-| Code4rena | 2 |
 | CoinFabrik | 2 |
 | Zellic | 2 |
+| Code4rena | 2 |
 | OpenZeppelin | 2 |
+| Cantina | 1 |
 | Hacken | 1 |
 | Сoinspect | 1 |
-| Cantina | 1 |
 
 ## Data Sources
 
@@ -119,32 +119,31 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4000 |
-| Lumen Loop | 3696 |
+| Lumen Loop | 3701 |
 | Stellar Expert | 360 |
 | Soroban Security | 75 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-16 items need attention.
+15 items need attention.
 
-**description empty** (7):
-- cashlink
-- cushion
+**description empty** (6):
 - bexo
 - stellar-registry
+- cushion
 - bloccpay
 - reapp
 - linq
 
 **SCF project missing website** (9):
+- paysapp
 - sendit
 - soroban-optimistic-oracle
-- crypto-link
-- paysapp
-- the-starship-soroban
 - relax
-- wally
 - timed-transactions-api
+- crypto-link
 - frost-implementation
+- the-starship-soroban
+- wally
 
