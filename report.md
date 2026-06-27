@@ -30,8 +30,8 @@
 | github | 513/756 | 67.9% |
 | category | 749/756 | 99.1% |
 | tags | 747/756 | 98.8% |
-| operating_region | 743/756 | 98.3% |
-| based_in | 689/756 | 91.1% |
+| operating_region | 744/756 | 98.4% |
+| based_in | 690/756 | 91.3% |
 
 ## Enrichment vs SCF Airtable
 
@@ -45,7 +45,7 @@ Per-project comparison of our **756** projects (incl. **133** community projects
 | x | +251 | 283 |
 | linkedin | +191 | 203 |
 | discord | +102 | 108 |
-| based_in | +211 | 478 |
+| based_in | +212 | 478 |
 | blog | +252 | 0 |
 | telegram | +148 | 0 |
 | youtube | +166 | 0 |
@@ -77,10 +77,10 @@ Of **623** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 470 | 495 |
-| Active last week | 123 | 206 |
+| Active last week | 131 | 206 |
 | Active last month | 190 | 278 |
-| Active last 3 months | 243 | 338 |
-| Active last year | 325 | 397 |
+| Active last 3 months | 242 | 338 |
+| Active last year | 324 | 397 |
 
 ## Audit Data
 
@@ -119,7 +119,7 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4000 |
-| Lumen Loop | 3688 |
+| Lumen Loop | 3690 |
 | Stellar Expert | 360 |
 | Soroban Security | 75 |
 | DeFiLlama | 21 |
@@ -140,12 +140,12 @@ How many data points each contributor provides across the directory:
 
 **SCF project missing website** (9):
 - sendit
-- wally
 - soroban-optimistic-oracle
-- timed-transactions-api
 - crypto-link
-- frost-implementation
 - paysapp
 - the-starship-soroban
 - relax
+- wally
+- timed-transactions-api
+- frost-implementation
 

@@ -23,8 +23,9 @@ attributes:
     - RWA
     - Tokenization
     - Institutional
-  operating_region: []
-  based_in: null
+  operating_region:
+    - Asia
+  based_in: Singapore
 images: null
 mainnet:
   audits: []
