@@ -132,8 +132,8 @@ How many data points each contributor provides across the directory:
 - cashlink
 - dcent
 - bexo
-- stellar-registry
 - cushion
+- stellar-registry
 - bloccpay
 - reapp
 - linq
