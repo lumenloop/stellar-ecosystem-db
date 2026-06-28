@@ -6,8 +6,8 @@
 
 | Metric | Count |
 |--------|------:|
-| Total projects | **770** |
-| SCF-funded projects | 643 |
+| Total projects | **771** |
+| SCF-funded projects | 644 |
 | Community projects | 127 |
 | Audited projects | 55 |
 
@@ -15,33 +15,33 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 753/770 | 97.8% |
-| website | 759/770 | 98.6% |
-| blog | 252/770 | 32.7% |
-| x | 539/770 | 70% |
-| linkedin | 396/770 | 51.4% |
-| discord | 211/770 | 27.4% |
-| telegram | 148/770 | 19.2% |
-| youtube | 166/770 | 21.6% |
-| instagram | 125/770 | 16.2% |
-| reddit | 15/770 | 1.9% |
-| tiktok | 34/770 | 4.4% |
-| linktree | 5/770 | 0.6% |
-| github | 525/770 | 68.2% |
-| category | 767/770 | 99.6% |
-| tags | 752/770 | 97.7% |
-| operating_region | 749/770 | 97.3% |
-| based_in | 696/770 | 90.4% |
+| description | 753/771 | 97.7% |
+| website | 759/771 | 98.4% |
+| blog | 252/771 | 32.7% |
+| x | 539/771 | 69.9% |
+| linkedin | 396/771 | 51.4% |
+| discord | 211/771 | 27.4% |
+| telegram | 148/771 | 19.2% |
+| youtube | 166/771 | 21.5% |
+| instagram | 125/771 | 16.2% |
+| reddit | 15/771 | 1.9% |
+| tiktok | 34/771 | 4.4% |
+| linktree | 5/771 | 0.6% |
+| github | 526/771 | 68.2% |
+| category | 768/771 | 99.6% |
+| tags | 752/771 | 97.5% |
+| operating_region | 749/771 | 97.1% |
+| based_in | 696/771 | 90.3% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **770** projects (incl. **127** community projects not in SCF) against **656** in SCF Airtable:
+Per-project comparison of our **771** projects (incl. **127** community projects not in SCF) against **656** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
 | description | +175 | 578 |
 | website | +200 | 559 |
-| github | +150 | 375 |
+| github | +151 | 375 |
 | x | +256 | 283 |
 | linkedin | +193 | 203 |
 | discord | +103 | 108 |
@@ -58,15 +58,15 @@ Per-project comparison of our **770** projects (incl. **127** community projects
 
 ## SCF Project Coverage
 
-Of **643** SCF-funded projects:
+Of **644** SCF-funded projects:
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| awarded_total | 600/643 | 93.3% |
-| awarded_round | 637/643 | 99.1% |
-| submission_urls | 637/643 | 99.1% |
-| website | 633/643 | 98.4% |
-| github | 469/643 | 72.9% |
+| awarded_total | 600/644 | 93.2% |
+| awarded_round | 638/644 | 99.1% |
+| submission_urls | 638/644 | 99.1% |
+| website | 633/644 | 98.3% |
+| github | 470/644 | 73% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -76,11 +76,11 @@ Of **643** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 482 | 499 |
-| Active last week | 131 | 211 |
-| Active last month | 195 | 275 |
-| Active last 3 months | 249 | 339 |
-| Active last year | 336 | 401 |
+| Tracked projects | 483 | 499 |
+| Active last week | 132 | 211 |
+| Active last month | 196 | 275 |
+| Active last 3 months | 250 | 339 |
+| Active last year | 337 | 401 |
 
 ## Audit Data
 
@@ -96,9 +96,9 @@ Of **643** SCF-funded projects:
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 5 |
-| CoinFabrik | 2 |
 | Code4rena | 2 |
 | Zellic | 2 |
+| CoinFabrik | 2 |
 | OpenZeppelin | 2 |
 | Cantina | 1 |
 | Hacken | 1 |
@@ -118,43 +118,45 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4037 |
-| Lumen Loop | 3763 |
+| SCF | 4038 |
+| Lumen Loop | 3765 |
 | Stellar Expert | 360 |
 | Soroban Security | 75 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-27 items need attention.
+29 items need attention.
 
-**description empty** (17):
+**description empty** (18):
 - investar
+- net-sdk
 - ios-mac-stellar-sdk
+- talwex
 - java-stellar-sdk
+- terwa
 - stabble
 - payala
-- fundable
-- fiatsend
-- talwex
-- terwa
 - figo
 - dig
 - reapp
-- bexo
 - refractor
-- proofbridge
 - stellar-registry
+- fundable
+- fiatsend
+- bexo
+- proofbridge
 - linq
 
-**SCF project missing website** (10):
+**SCF project missing website** (11):
+- net-sdk
 - java-stellar-sdk
-- crypto-link
 - paysapp
-- relax
 - timed-transactions-api
 - the-starship-soroban
 - frost-implementation
+- crypto-link
+- relax
 - soroban-optimistic-oracle
 - sendit
 - wally
