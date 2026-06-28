@@ -24,7 +24,8 @@ attributes:
     - DeFi
     - Risk Management
     - Yield
-  operating_region: []
+  operating_region:
+    - Europe
   based_in: France
 images: null
 scf:

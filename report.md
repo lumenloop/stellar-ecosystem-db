@@ -30,7 +30,7 @@
 | github | 527/771 | 68.4% |
 | category | 768/771 | 99.6% |
 | tags | 752/771 | 97.5% |
-| operating_region | 749/771 | 97.1% |
+| operating_region | 750/771 | 97.3% |
 | based_in | 696/771 | 90.3% |
 
 ## Enrichment vs SCF Airtable
@@ -119,7 +119,7 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4038 |
-| Lumen Loop | 3766 |
+| Lumen Loop | 3767 |
 | Stellar Expert | 360 |
 | Soroban Security | 75 |
 | DeFiLlama | 21 |
@@ -135,23 +135,23 @@ How many data points each contributor provides across the directory:
 - talwex
 - java-stellar-sdk
 - terwa
+- reapp
 - stabble
 - payala
-- figo
-- dig
-- reapp
 - refractor
+- figo
 - stellar-registry
 - fundable
 - fiatsend
+- dig
 - bexo
 - proofbridge
 - linq
 
 **SCF project missing website** (11):
 - net-sdk
-- java-stellar-sdk
 - paysapp
+- java-stellar-sdk
 - timed-transactions-api
 - the-starship-soroban
 - frost-implementation
