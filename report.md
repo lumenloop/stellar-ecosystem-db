@@ -6,42 +6,42 @@
 
 | Metric | Count |
 |--------|------:|
-| Total projects | **761** |
-| SCF-funded projects | 630 |
-| Community projects | 131 |
+| Total projects | **762** |
+| SCF-funded projects | 635 |
+| Community projects | 127 |
 | Audited projects | 55 |
 
 ## Data Coverage
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 753/761 | 98.9% |
-| website | 751/761 | 98.7% |
-| blog | 252/761 | 33.1% |
-| x | 538/761 | 70.7% |
-| linkedin | 394/761 | 51.8% |
-| discord | 210/761 | 27.6% |
-| telegram | 148/761 | 19.4% |
-| youtube | 166/761 | 21.8% |
-| instagram | 125/761 | 16.4% |
-| reddit | 15/761 | 2% |
-| tiktok | 34/761 | 4.5% |
-| linktree | 5/761 | 0.7% |
-| github | 516/761 | 67.8% |
-| category | 758/761 | 99.6% |
-| tags | 752/761 | 98.8% |
-| operating_region | 748/761 | 98.3% |
-| based_in | 694/761 | 91.2% |
+| description | 753/762 | 98.8% |
+| website | 752/762 | 98.7% |
+| blog | 252/762 | 33.1% |
+| x | 538/762 | 70.6% |
+| linkedin | 394/762 | 51.7% |
+| discord | 210/762 | 27.6% |
+| telegram | 148/762 | 19.4% |
+| youtube | 166/762 | 21.8% |
+| instagram | 125/762 | 16.4% |
+| reddit | 15/762 | 2% |
+| tiktok | 34/762 | 4.5% |
+| linktree | 5/762 | 0.7% |
+| github | 517/762 | 67.8% |
+| category | 759/762 | 99.6% |
+| tags | 752/762 | 98.7% |
+| operating_region | 748/762 | 98.2% |
+| based_in | 694/762 | 91.1% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **761** projects (incl. **131** community projects not in SCF) against **656** in SCF Airtable:
+Per-project comparison of our **762** projects (incl. **127** community projects not in SCF) against **656** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
 | description | +175 | 578 |
-| website | +192 | 559 |
-| github | +141 | 375 |
+| website | +193 | 559 |
+| github | +142 | 375 |
 | x | +255 | 283 |
 | linkedin | +191 | 203 |
 | discord | +102 | 108 |
@@ -58,15 +58,15 @@ Per-project comparison of our **761** projects (incl. **131** community projects
 
 ## SCF Project Coverage
 
-Of **630** SCF-funded projects:
+Of **635** SCF-funded projects:
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| awarded_total | 589/630 | 93.5% |
-| awarded_round | 623/630 | 98.9% |
-| submission_urls | 623/630 | 98.9% |
-| website | 621/630 | 98.6% |
-| github | 460/630 | 73% |
+| awarded_total | 594/635 | 93.5% |
+| awarded_round | 628/635 | 98.9% |
+| submission_urls | 628/635 | 98.9% |
+| website | 626/635 | 98.6% |
+| github | 461/635 | 72.6% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -76,11 +76,11 @@ Of **630** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 473 | 498 |
-| Active last week | 129 | 211 |
-| Active last month | 189 | 274 |
-| Active last 3 months | 241 | 340 |
-| Active last year | 327 | 400 |
+| Tracked projects | 474 | 498 |
+| Active last week | 130 | 211 |
+| Active last month | 190 | 274 |
+| Active last 3 months | 242 | 340 |
+| Active last year | 328 | 400 |
 
 ## Audit Data
 
@@ -97,8 +97,8 @@ Of **630** SCF-funded projects:
 | Quarkslab | 6 |
 | Halborn | 5 |
 | Code4rena | 2 |
-| CoinFabrik | 2 |
 | Zellic | 2 |
+| CoinFabrik | 2 |
 | OpenZeppelin | 2 |
 | Cantina | 1 |
 | Hacken | 1 |
@@ -118,18 +118,19 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4023 |
-| Lumen Loop | 3729 |
+| SCF | 4028 |
+| Lumen Loop | 3732 |
 | Stellar Expert | 360 |
 | Soroban Security | 75 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-17 items need attention.
+18 items need attention.
 
-**description empty** (8):
+**description empty** (9):
 - investar
+- stabble
 - figo
 - dig
 - fundable
@@ -139,10 +140,10 @@ How many data points each contributor provides across the directory:
 - linq
 
 **SCF project missing website** (9):
-- soroban-optimistic-oracle
 - paysapp
-- frost-implementation
+- soroban-optimistic-oracle
 - the-starship-soroban
+- frost-implementation
 - wally
 - sendit
 - relax

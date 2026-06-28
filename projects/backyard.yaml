@@ -28,6 +28,12 @@ attributes:
     - Global
   based_in: Poland
 images: null
+scf:
+  awarded_round:
+    - 42
+  awarded_total: 100000
+  submission_urls:
+    - communityfund.stellar.org/submissions/rec82KrT17FqBpntt
 mainnet:
   audits: []
   tokens: []

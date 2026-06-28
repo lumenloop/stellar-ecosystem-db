@@ -26,6 +26,12 @@ attributes:
   operating_region: []
   based_in: Indonesia
 images: null
+scf:
+  awarded_round:
+    - 42
+  awarded_total: 150000
+  submission_urls:
+    - communityfund.stellar.org/submissions/reccH830ZyGpt6aR1
 mainnet:
   audits: []
   tokens: []
