@@ -16,7 +16,8 @@ links:
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/cushyon
 attributes:
   category: Financial Protocols
   tags:
