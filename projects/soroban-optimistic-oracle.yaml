@@ -29,7 +29,12 @@ attributes:
     - North America (without Mexico)
   based_in: United States
 images: null
-scf: {}
+scf:
+  awarded_round:
+    - 33
+  awarded_total: 30000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recP2KIZz7r2yBrkG
 mainnet:
   audits: []
   tokens: []

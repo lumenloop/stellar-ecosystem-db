@@ -6,42 +6,42 @@
 
 | Metric | Count |
 |--------|------:|
-| Total projects | **757** |
-| SCF-funded projects | 623 |
-| Community projects | 134 |
+| Total projects | **758** |
+| SCF-funded projects | 627 |
+| Community projects | 131 |
 | Audited projects | 55 |
 
 ## Data Coverage
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 753/757 | 99.5% |
-| website | 747/757 | 98.7% |
-| blog | 252/757 | 33.3% |
-| x | 538/757 | 71.1% |
-| linkedin | 394/757 | 52% |
-| discord | 210/757 | 27.7% |
-| telegram | 148/757 | 19.6% |
-| youtube | 166/757 | 21.9% |
-| instagram | 125/757 | 16.5% |
-| reddit | 15/757 | 2% |
-| tiktok | 34/757 | 4.5% |
-| linktree | 5/757 | 0.7% |
-| github | 513/757 | 67.8% |
-| category | 754/757 | 99.6% |
-| tags | 752/757 | 99.3% |
-| operating_region | 748/757 | 98.8% |
-| based_in | 694/757 | 91.7% |
+| description | 753/758 | 99.3% |
+| website | 748/758 | 98.7% |
+| blog | 252/758 | 33.2% |
+| x | 538/758 | 71% |
+| linkedin | 394/758 | 52% |
+| discord | 210/758 | 27.7% |
+| telegram | 148/758 | 19.5% |
+| youtube | 166/758 | 21.9% |
+| instagram | 125/758 | 16.5% |
+| reddit | 15/758 | 2% |
+| tiktok | 34/758 | 4.5% |
+| linktree | 5/758 | 0.7% |
+| github | 514/758 | 67.8% |
+| category | 755/758 | 99.6% |
+| tags | 752/758 | 99.2% |
+| operating_region | 748/758 | 98.7% |
+| based_in | 694/758 | 91.6% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **757** projects (incl. **134** community projects not in SCF) against **656** in SCF Airtable:
+Per-project comparison of our **758** projects (incl. **131** community projects not in SCF) against **656** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
 | description | +175 | 578 |
-| website | +188 | 559 |
-| github | +138 | 375 |
+| website | +189 | 559 |
+| github | +139 | 375 |
 | x | +255 | 283 |
 | linkedin | +191 | 203 |
 | discord | +102 | 108 |
@@ -58,15 +58,15 @@ Per-project comparison of our **757** projects (incl. **134** community projects
 
 ## SCF Project Coverage
 
-Of **623** SCF-funded projects:
+Of **627** SCF-funded projects:
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| awarded_total | 568/623 | 91.2% |
-| awarded_round | 602/623 | 96.6% |
-| submission_urls | 602/623 | 96.6% |
-| website | 614/623 | 98.6% |
-| github | 457/623 | 73.4% |
+| awarded_total | 586/627 | 93.5% |
+| awarded_round | 620/627 | 98.9% |
+| submission_urls | 620/627 | 98.9% |
+| website | 618/627 | 98.6% |
+| github | 458/627 | 73% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -76,11 +76,11 @@ Of **623** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 470 | 497 |
-| Active last week | 130 | 211 |
-| Active last month | 189 | 274 |
-| Active last 3 months | 240 | 340 |
-| Active last year | 324 | 399 |
+| Tracked projects | 471 | 498 |
+| Active last week | 129 | 211 |
+| Active last month | 188 | 274 |
+| Active last 3 months | 239 | 341 |
+| Active last year | 325 | 400 |
 
 ## Audit Data
 
@@ -96,9 +96,9 @@ Of **623** SCF-funded projects:
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 5 |
+| Code4rena | 2 |
 | CoinFabrik | 2 |
 | Zellic | 2 |
-| Code4rena | 2 |
 | OpenZeppelin | 2 |
 | Cantina | 1 |
 | Hacken | 1 |
@@ -118,19 +118,26 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4000 |
-| Lumen Loop | 3718 |
+| SCF | 4020 |
+| Lumen Loop | 3721 |
 | Stellar Expert | 360 |
 | Soroban Security | 75 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-13 items need attention.
+14 items need attention.
+
+**description empty** (5):
+- fundable
+- stellar-registry
+- reapp
+- bexo
+- linq
 
 **SCF project missing website** (9):
-- soroban-optimistic-oracle
 - frost-implementation
+- soroban-optimistic-oracle
 - the-starship-soroban
 - paysapp
 - wally
@@ -138,10 +145,4 @@ How many data points each contributor provides across the directory:
 - relax
 - timed-transactions-api
 - crypto-link
-
-**description empty** (4):
-- stellar-registry
-- reapp
-- bexo
-- linq
 

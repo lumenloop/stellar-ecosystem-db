@@ -40,9 +40,11 @@ images:
   avatar: https://media.lumenloop.com/projects/via-labs/github_avatar.png
   logo: https://media.lumenloop.com/projects/via-labs/logo.svg
 scf:
-  awarded_round: []
-  awarded_total: null
-  submission_urls: []
+  awarded_round:
+    - 35
+  awarded_total: 95000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recyt2rmej0PJKJkL
 mainnet:
   audits: []
   tokens: []

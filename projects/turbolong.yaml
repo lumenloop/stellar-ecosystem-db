@@ -32,7 +32,12 @@ attributes:
     - Global
   based_in: null
 images: null
-scf: {}
+scf:
+  awarded_round:
+    - 43
+  awarded_total: 99000
+  submission_urls:
+    - communityfund.stellar.org/submissions/rec3XPXsjkWBdR107
 mainnet:
   audits: []
   tokens: []

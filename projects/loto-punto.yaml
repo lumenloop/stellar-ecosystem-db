@@ -37,9 +37,11 @@ attributes:
   based_in: Colombia
 images: null
 scf:
-  awarded_round: []
-  awarded_total: null
-  submission_urls: []
+  awarded_round:
+    - 34
+  awarded_total: 75975
+  submission_urls:
+    - communityfund.stellar.org/submissions/recDxUmYAHp872SMJ
 mainnet:
   audits: []
   tokens: []

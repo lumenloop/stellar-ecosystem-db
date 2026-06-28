@@ -39,13 +39,11 @@ scf:
     - 17
     - 23
     - 27
-    - Liquidity Award - '24 Q1
-  awarded_total: 391000
+  awarded_total: 291000
   submission_urls:
     - communityfund.stellar.org/submissions/recRUJxeF1PdlM6aV
     - communityfund.stellar.org/submissions/recmDHN0X0EQoxVWw
     - communityfund.stellar.org/submissions/recn8gHxphN9KtVXj
-    - communityfund.stellar.org/submissions/recm4zmZ0RJah7TLa
 mainnet:
   audits:
     - name: Aquarius AMM Security Report by Certora

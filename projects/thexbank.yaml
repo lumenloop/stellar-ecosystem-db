@@ -37,9 +37,11 @@ images:
   logo: https://media.lumenloop.com/projects/thexbank/logo.svg
   og_image: https://media.lumenloop.com/projects/thexbank/og.png
 scf:
-  awarded_round: []
-  awarded_total: null
-  submission_urls: []
+  awarded_round:
+    - 40
+  awarded_total: 89500
+  submission_urls:
+    - communityfund.stellar.org/submissions/recebybRass3Bc982
 mainnet:
   audits: []
   tokens: []

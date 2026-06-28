@@ -31,9 +31,11 @@ images:
   logo: https://media.lumenloop.com/projects/ben-wallet/logo.png
   og_image: https://media.lumenloop.com/projects/ben-wallet/og.png
 scf:
-  awarded_round: []
-  awarded_total: null
-  submission_urls: []
+  awarded_round:
+    - 37
+  awarded_total: 77910
+  submission_urls:
+    - communityfund.stellar.org/submissions/recx2M8AL5dqIGmdn
 mainnet:
   audits: []
   tokens: []

@@ -40,10 +40,12 @@ images:
 scf:
   awarded_round:
     - 31
+    - 41
     - Liquidity Award - '25 Q3
-  awarded_total: 200000
+  awarded_total: 320000
   submission_urls:
     - communityfund.stellar.org/submissions/rec5hF8af5tfhSlT2
+    - communityfund.stellar.org/submissions/recOh9tgSDRC3elBf
     - communityfund.stellar.org/submissions/recd6Nbe9evnD4bAY
 mainnet:
   audits:

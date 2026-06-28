@@ -30,9 +30,11 @@ attributes:
   based_in: United Kingdom
 images: null
 scf:
-  awarded_round: []
-  awarded_total: null
-  submission_urls: []
+  awarded_round:
+    - 40
+  awarded_total: 139600
+  submission_urls:
+    - communityfund.stellar.org/submissions/rec4yuZebxnpWKXcl
 mainnet:
   audits: []
   tokens: []

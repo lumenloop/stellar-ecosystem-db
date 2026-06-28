@@ -44,9 +44,11 @@ images:
   logo: https://media.lumenloop.com/projects/wirex-pay/wirex-pay-logo-tdetnk.webp
   og_image: https://media.lumenloop.com/projects/wirex-pay/wirex-pay-og-tdetnl.webp
 scf:
-  awarded_round: []
-  awarded_total: null
-  submission_urls: []
+  awarded_round:
+    - 35
+  awarded_total: 150000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recGd7ymV1OwMMtHr
 mainnet:
   audits: []
   tokens: []

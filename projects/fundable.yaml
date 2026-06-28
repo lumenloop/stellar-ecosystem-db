@@ -1,10 +1,10 @@
-title: Linq
+title: Fundable
 other_names: null
 parent: null
 description: ''
 links:
   website:
-    - uselinq.xyz
+    - fundable.finance
   blog: []
   x: []
   linkedin: []
@@ -15,17 +15,20 @@ links:
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/fundable-protocol
 attributes:
-  category: null
+  category: Applications
   tags: []
   operating_region: []
   based_in: null
 images: null
 scf:
-  awarded_round: []
-  awarded_total: null
-  submission_urls: []
+  awarded_round:
+    - 43
+  awarded_total: 96499
+  submission_urls:
+    - communityfund.stellar.org/submissions/recHZ7GEbLlpy6ZHb
 mainnet:
   audits: []
   tokens: []

@@ -40,7 +40,14 @@ attributes:
 images:
   icon: https://media.lumenloop.com/projects/peer/apple_touch.png
   logo: https://media.lumenloop.com/projects/peer/logo.png
-scf: {}
+scf:
+  awarded_round:
+    - 22
+    - 26
+  awarded_total: 145000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recUT585587cLfVlX
+    - communityfund.stellar.org/submissions/recQmFbAAi5u83EE5
 mainnet:
   audits: []
   tokens: []

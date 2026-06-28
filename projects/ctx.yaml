@@ -19,7 +19,7 @@ links:
   linktree: []
   github: []
 attributes:
-  category: Applications
+  category: Developer Tooling
   tags:
     - Payments
     - Merchant
@@ -32,9 +32,11 @@ images:
 scf:
   awarded_round:
     - 19
-  awarded_total: 88200
+    - 41
+  awarded_total: 226200
   submission_urls:
     - communityfund.stellar.org/submissions/recs3a3kKPgwjWT1Y
+    - communityfund.stellar.org/submissions/recaJkqF1MOWhu3Z5
 mainnet:
   audits: []
   tokens: []

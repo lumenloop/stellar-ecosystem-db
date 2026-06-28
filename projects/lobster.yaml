@@ -38,9 +38,11 @@ images:
   logo: https://media.lumenloop.com/projects/lobster/logo.png
 scf:
   awarded_round:
+    - 36
     - 42
-  awarded_total: 115000
+  awarded_total: 224000
   submission_urls:
+    - communityfund.stellar.org/submissions/recJ8JRD0fUAuiZn6
     - communityfund.stellar.org/submissions/recO8Z0J0DohwPyBm
 mainnet:
   audits: []
