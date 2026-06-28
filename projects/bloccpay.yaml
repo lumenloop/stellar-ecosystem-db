@@ -1,12 +1,13 @@
 title: Bloccpay
 other_names: null
 parent: null
-description: ''
+description: Bloccpay is a global payroll and payments platform that enables businesses to pay remote contractors worldwide—with a focus on Africa—in USDC on Stellar. It offers automated batch payroll via the Stellar Disbursement Platform (SDP), contractor invoicing payable through Stellar Wallets Kit, and local fiat off-ramp to bank accounts and mobile money in Nigeria, Kenya, and Ghana.
 links:
   website:
     - bloccpay.com
   blog: []
-  x: []
+  x:
+    - twitter.com
   linkedin: []
   discord: []
   telegram: []
@@ -17,9 +18,13 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
-  operating_region: []
+  category: Applications
+  tags:
+    - Payroll
+    - Cross-Border Payments
+    - On-Off Ramp
+  operating_region:
+    - africa
   based_in: null
 images: null
 scf:
