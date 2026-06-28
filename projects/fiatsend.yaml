@@ -1,0 +1,38 @@
+title: Fiatsend
+other_names: null
+parent: null
+description: ''
+links:
+  website:
+    - fiatsend.com
+  blog: []
+  x:
+    - fiatsend
+  linkedin:
+    - linkedin.com/company/fiatsend
+  discord:
+    - discord.gg/tdz2cgfu
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/fiatsend
+attributes:
+  category: Financial Protocols
+  tags: []
+  operating_region:
+    - Sub-Saharan Africa
+  based_in: Ghana
+images: null
+scf:
+  awarded_round:
+    - 43
+  awarded_total: 92000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recZ23IC37puouoSd
+mainnet:
+  audits: []
+  tokens: []
