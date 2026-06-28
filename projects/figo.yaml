@@ -1,0 +1,33 @@
+title: Figo
+other_names: null
+parent: null
+description: ''
+links:
+  website:
+    - spendfigo.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 43
+  awarded_total: 75000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recP5ymj034BApy8s
+mainnet:
+  audits: []
+  tokens: []
