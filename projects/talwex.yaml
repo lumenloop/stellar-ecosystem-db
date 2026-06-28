@@ -1,0 +1,34 @@
+title: Talwex
+other_names: null
+parent: null
+description: ''
+links:
+  website:
+    - talwex.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/talwex-inc/stellar-vault
+attributes:
+  category: Financial Protocols
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 43
+  awarded_total: 150000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recK1Xh6hgHosxmbt
+mainnet:
+  audits: []
+  tokens: []
