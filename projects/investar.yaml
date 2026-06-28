@@ -1,0 +1,34 @@
+title: InveStar
+other_names: null
+parent: null
+description: ''
+links:
+  website:
+    - investarbd.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/farihanrahman/investar
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 43
+  awarded_total: 141325
+  submission_urls:
+    - communityfund.stellar.org/submissions/recIJ6oxiU1Oy1fxn
+mainnet:
+  audits: []
+  tokens: []
