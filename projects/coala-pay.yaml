@@ -37,9 +37,11 @@ images:
   icon: https://media.lumenloop.com/projects/coala-pay/favicon.svg
 scf:
   awarded_round:
+    - 22
     - 35
-  awarded_total: 60000
+  awarded_total: 110000
   submission_urls:
+    - communityfund.stellar.org/submissions/recVeAOrdY2HNMbY3
     - communityfund.stellar.org/submissions/recGwDCJwC2pPUGKh
 mainnet:
   audits: []

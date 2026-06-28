@@ -40,9 +40,11 @@ images:
   og_image: https://media.lumenloop.com/projects/raumfi/og.svg
 scf:
   awarded_round:
+    - 27
     - 29
-  awarded_total: 49040
+  awarded_total: 99040
   submission_urls:
+    - communityfund.stellar.org/submissions/recE9g5g3dHHxuMjq
     - communityfund.stellar.org/submissions/reclPkvuD4iqLs6E5
 mainnet:
   audits: []
