@@ -1,0 +1,35 @@
+title: Payala
+other_names: null
+parent: null
+description: ''
+links:
+  website:
+    - payala.com
+  blog: []
+  x: []
+  linkedin:
+    - linkedin.com/company/financial-empowerment-partners
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/financial-empowerment-partners/impala
+attributes:
+  category: Financial Protocols
+  tags: []
+  operating_region: []
+  based_in: Germany
+images: null
+scf:
+  awarded_round:
+    - 41
+  awarded_total: 150000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recEO66YTfib58cnc
+mainnet:
+  audits: []
+  tokens: []
