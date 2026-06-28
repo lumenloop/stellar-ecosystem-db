@@ -128,6 +128,14 @@ How many data points each contributor provides across the directory:
 
 15 items need attention.
 
+**description empty** (6):
+- cushion
+- stellar-registry
+- bloccpay
+- reapp
+- bexo
+- linq
+
 **SCF project missing website** (9):
 - paysapp
 - soroban-optimistic-oracle
@@ -138,12 +146,4 @@ How many data points each contributor provides across the directory:
 - relax
 - timed-transactions-api
 - crypto-link
-
-**description empty** (6):
-- stellar-registry
-- cushion
-- bloccpay
-- reapp
-- bexo
-- linq
 
