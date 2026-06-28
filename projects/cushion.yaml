@@ -1,12 +1,13 @@
 title: Cushion
 other_names: null
 parent: null
-description: ''
+description: Non-custodial capital protection strategies on Stellar, implemented as SEP-56 tokenized vaults built on Soroban smart contracts. Cushion dynamically rebalances between risky Stellar assets (including digital assets and RWAs) and stablecoins using a CPPI (Constant Proportion Portfolio Insurance) model, preserving a predefined downside protection floor while optimizing performance.
 links:
   website:
     - cushion.trade
   blog: []
-  x: []
+  x:
+    - cushiondottrade
   linkedin: []
   discord: []
   telegram: []
@@ -17,10 +18,13 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
+  category: Financial Protocols
+  tags:
+    - DeFi
+    - Risk Management
+    - Yield
   operating_region: []
-  based_in: null
+  based_in: France
 images: null
 mainnet:
   audits: []

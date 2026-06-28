@@ -15,10 +15,10 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 752/757 | 99.3% |
+| description | 753/757 | 99.5% |
 | website | 747/757 | 98.7% |
 | blog | 252/757 | 33.3% |
-| x | 537/757 | 70.9% |
+| x | 538/757 | 71.1% |
 | linkedin | 394/757 | 52% |
 | discord | 210/757 | 27.7% |
 | telegram | 148/757 | 19.6% |
@@ -28,10 +28,10 @@
 | tiktok | 34/757 | 4.5% |
 | linktree | 5/757 | 0.7% |
 | github | 513/757 | 67.8% |
-| category | 753/757 | 99.5% |
-| tags | 751/757 | 99.2% |
+| category | 754/757 | 99.6% |
+| tags | 752/757 | 99.3% |
 | operating_region | 748/757 | 98.8% |
-| based_in | 693/757 | 91.5% |
+| based_in | 694/757 | 91.7% |
 
 ## Enrichment vs SCF Airtable
 
@@ -39,13 +39,13 @@ Per-project comparison of our **757** projects (incl. **134** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +174 | 578 |
+| description | +175 | 578 |
 | website | +188 | 559 |
 | github | +138 | 375 |
-| x | +254 | 283 |
+| x | +255 | 283 |
 | linkedin | +191 | 203 |
 | discord | +102 | 108 |
-| based_in | +215 | 478 |
+| based_in | +216 | 478 |
 | blog | +252 | 0 |
 | telegram | +148 | 0 |
 | youtube | +166 | 0 |
@@ -119,14 +119,14 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4000 |
-| Lumen Loop | 3713 |
+| Lumen Loop | 3718 |
 | Stellar Expert | 360 |
 | Soroban Security | 75 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-14 items need attention.
+13 items need attention.
 
 **SCF project missing website** (9):
 - soroban-optimistic-oracle
@@ -139,9 +139,8 @@ How many data points each contributor provides across the directory:
 - timed-transactions-api
 - crypto-link
 
-**description empty** (5):
+**description empty** (4):
 - stellar-registry
-- cushion
 - reapp
 - bexo
 - linq
