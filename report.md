@@ -91,17 +91,17 @@ Of **654** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 24 |
-| OtterSec | 10 |
 | certora | 10 |
+| OtterSec | 10 |
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
 | Zellic | 2 |
 | OpenZeppelin | 2 |
-| CoinFabrik | 2 |
 | Code4rena | 2 |
-| Hacken | 1 |
+| CoinFabrik | 2 |
 | Сoinspect | 1 |
+| Hacken | 1 |
 | Cantina | 1 |
 
 ## Data Sources
@@ -130,38 +130,38 @@ How many data points each contributor provides across the directory:
 
 **SCF project missing website** (11):
 - the-starship-soroban
-- wally
 - java-stellar-sdk
 - frost-implementation
-- crypto-link
 - net-sdk
 - soroban-optimistic-oracle
+- wally
 - relax
 - sendit
 - timed-transactions-api
 - paysapp
+- crypto-link
 
 **description empty** (22):
-- fundable
 - java-stellar-sdk
+- fundable
 - wellspring
 - blockroll
 - net-sdk
 - fiatsend
-- terwa
 - neon-wallet
 - providencia-onchain
-- dig
 - reapp
 - refractor
-- merkle-science
-- talwex
 - figo
-- ios-mac-stellar-sdk
 - stabble
 - investar
 - payala
 - stellar-oracle-shield
+- terwa
+- dig
+- merkle-science
+- talwex
+- ios-mac-stellar-sdk
 - proofbridge
 - linq
 
