@@ -15,10 +15,10 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 754/778 | 96.9% |
+| description | 755/778 | 97% |
 | website | 766/778 | 98.5% |
 | blog | 250/778 | 32.1% |
-| x | 540/778 | 69.4% |
+| x | 541/778 | 69.5% |
 | linkedin | 398/778 | 51.2% |
 | discord | 210/778 | 27% |
 | telegram | 147/778 | 18.9% |
@@ -28,10 +28,10 @@
 | tiktok | 35/778 | 4.5% |
 | linktree | 5/778 | 0.6% |
 | github | 530/778 | 68.1% |
-| category | 775/778 | 99.6% |
-| tags | 750/778 | 96.4% |
-| operating_region | 750/778 | 96.4% |
-| based_in | 696/778 | 89.5% |
+| category | 776/778 | 99.7% |
+| tags | 751/778 | 96.5% |
+| operating_region | 751/778 | 96.5% |
+| based_in | 697/778 | 89.6% |
 
 ## Enrichment vs SCF Airtable
 
@@ -39,13 +39,13 @@ Per-project comparison of our **778** projects (incl. **124** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +177 | 577 |
+| description | +178 | 577 |
 | website | +208 | 558 |
 | github | +156 | 374 |
-| x | +257 | 283 |
+| x | +258 | 283 |
 | linkedin | +195 | 203 |
 | discord | +103 | 107 |
-| based_in | +219 | 477 |
+| based_in | +220 | 477 |
 | blog | +250 | 0 |
 | telegram | +147 | 0 |
 | youtube | +167 | 0 |
@@ -91,8 +91,8 @@ Of **654** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 24 |
-| certora | 10 |
 | OtterSec | 10 |
+| certora | 10 |
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
@@ -100,9 +100,9 @@ Of **654** SCF-funded projects:
 | OpenZeppelin | 2 |
 | CoinFabrik | 2 |
 | Code4rena | 2 |
-| Сoinspect | 1 |
 | Hacken | 1 |
 | Cantina | 1 |
+| Сoinspect | 1 |
 
 ## Data Sources
 
@@ -119,45 +119,16 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4044 |
-| Lumen Loop | 3836 |
+| Lumen Loop | 3842 |
 | Stellar Expert | 360 |
 | Soroban Security | 71 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-35 items need attention.
-
-**description empty** (24):
-- fiatsend
-- stellar-oracle-shield
-- wellspring
-- net-sdk
-- talwex
-- terwa
-- providencia-onchain
-- ios-mac-stellar-sdk
-- stabble
-- neon-wallet
-- figo
-- fundable
-- java-stellar-sdk
-- payala
-- blockroll
-- bexo
-- dig
-- reapp
-- refractor
-- investar
-- merkle-science
-- blink
-- proofbridge
-- linq
+34 items need attention.
 
 **SCF project missing website** (11):
-- frost-implementation
-- net-sdk
-- relax
 - wally
 - crypto-link
 - sendit
@@ -165,5 +136,33 @@ How many data points each contributor provides across the directory:
 - the-starship-soroban
 - paysapp
 - java-stellar-sdk
+- frost-implementation
+- net-sdk
+- relax
 - timed-transactions-api
+
+**description empty** (23):
+- terwa
+- providencia-onchain
+- ios-mac-stellar-sdk
+- stabble
+- fiatsend
+- neon-wallet
+- figo
+- fundable
+- stellar-oracle-shield
+- java-stellar-sdk
+- payala
+- wellspring
+- blockroll
+- net-sdk
+- dig
+- reapp
+- refractor
+- investar
+- merkle-science
+- talwex
+- blink
+- proofbridge
+- linq
 
