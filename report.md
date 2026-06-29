@@ -17,7 +17,7 @@
 |-------|------:|---------:|
 | description | 753/774 | 97.3% |
 | website | 762/774 | 98.4% |
-| blog | 252/774 | 32.6% |
+| blog | 251/774 | 32.4% |
 | x | 539/774 | 69.6% |
 | linkedin | 396/774 | 51.2% |
 | discord | 211/774 | 27.3% |
@@ -46,7 +46,7 @@ Per-project comparison of our **774** projects (incl. **126** community projects
 | linkedin | +193 | 203 |
 | discord | +103 | 108 |
 | based_in | +218 | 478 |
-| blog | +252 | 0 |
+| blog | +251 | 0 |
 | telegram | +148 | 0 |
 | youtube | +166 | 0 |
 | instagram | +125 | 0 |
@@ -96,10 +96,10 @@ Of **648** SCF-funded projects:
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 5 |
-| Zellic | 2 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
 | Code4rena | 2 |
+| Zellic | 2 |
 | Hacken | 1 |
 | Сoinspect | 1 |
 | Cantina | 1 |
@@ -129,22 +129,22 @@ How many data points each contributor provides across the directory:
 32 items need attention.
 
 **description empty** (21):
-- providencia-onchain
-- blockroll
-- investar
-- stabble
 - neon-wallet
 - payala
+- providencia-onchain
+- blockroll
 - figo
 - java-stellar-sdk
 - dig
 - ios-mac-stellar-sdk
 - reapp
-- talwex
 - stellar-registry
 - terwa
 - refractor
+- investar
+- stabble
 - net-sdk
+- talwex
 - fundable
 - bexo
 - fiatsend
@@ -152,13 +152,13 @@ How many data points each contributor provides across the directory:
 - linq
 
 **SCF project missing website** (11):
-- timed-transactions-api
 - frost-implementation
 - java-stellar-sdk
 - relax
 - soroban-optimistic-oracle
 - wally
 - paysapp
+- timed-transactions-api
 - the-starship-soroban
 - net-sdk
 - crypto-link
