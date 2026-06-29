@@ -29,8 +29,8 @@
 | linktree | 5/778 | 0.6% |
 | github | 534/778 | 68.6% |
 | category | 778/778 | 100% |
-| tags | 761/778 | 97.8% |
-| operating_region | 758/778 | 97.4% |
+| tags | 762/778 | 97.9% |
+| operating_region | 759/778 | 97.6% |
 | based_in | 703/778 | 90.4% |
 
 ## Enrichment vs SCF Airtable
@@ -118,8 +118,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4040 |
-| Lumen Loop | 3884 |
+| SCF | 4039 |
+| Lumen Loop | 3886 |
 | Stellar Expert | 360 |
 | Soroban Security | 71 |
 | DeFiLlama | 21 |
@@ -146,7 +146,6 @@ How many data points each contributor provides across the directory:
 - neon-wallet
 - ios-mac-stellar-sdk
 - stabble
-- providencia-onchain
 - blockroll
 - payala
 - talwex
@@ -156,4 +155,5 @@ How many data points each contributor provides across the directory:
 - java-stellar-sdk
 - terwa
 - net-sdk
+- providencia-onchain
 
