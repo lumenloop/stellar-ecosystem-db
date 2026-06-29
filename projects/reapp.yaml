@@ -1,7 +1,7 @@
 title: REAPP
 other_names: null
 parent: null
-description: ''
+description: REAPP (Real Agentic Payment Protocol) is the authorization layer for agentic commerce on Stellar. It composes x402 HTTP settlement, Soroban policy enforcement, and AP2 mandate authorization into a single TypeScript SDK, enabling AI agents to make user-authorized payments on-chain.
 links:
   website:
     - reapprotocol.com
@@ -15,10 +15,14 @@ links:
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/mks044/reapp-poc
 attributes:
   category: Financial Protocols
-  tags: []
+  tags:
+    - AI
+    - Payments
+    - SDK
   operating_region: []
   based_in: null
 images: null
