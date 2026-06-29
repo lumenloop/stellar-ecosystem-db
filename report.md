@@ -7,8 +7,8 @@
 | Metric | Count |
 |--------|------:|
 | Total projects | **777** |
-| SCF-funded projects | 651 |
-| Community projects | 126 |
+| SCF-funded projects | 652 |
+| Community projects | 125 |
 | Audited projects | 53 |
 
 ## Data Coverage
@@ -35,7 +35,7 @@
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **777** projects (incl. **126** community projects not in SCF) against **656** in SCF Airtable:
+Per-project comparison of our **777** projects (incl. **125** community projects not in SCF) against **656** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
@@ -58,15 +58,15 @@ Per-project comparison of our **777** projects (incl. **126** community projects
 
 ## SCF Project Coverage
 
-Of **651** SCF-funded projects:
+Of **652** SCF-funded projects:
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| awarded_total | 606/651 | 93.1% |
-| awarded_round | 645/651 | 99.1% |
-| submission_urls | 645/651 | 99.1% |
-| website | 640/651 | 98.3% |
-| github | 475/651 | 73% |
+| awarded_total | 608/652 | 93.3% |
+| awarded_round | 647/652 | 99.2% |
+| submission_urls | 647/652 | 99.2% |
+| website | 641/652 | 98.3% |
+| github | 476/652 | 73% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -118,8 +118,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4040 |
-| Lumen Loop | 3823 |
+| SCF | 4042 |
+| Lumen Loop | 3824 |
 | Stellar Expert | 360 |
 | Soroban Security | 71 |
 | DeFiLlama | 21 |
@@ -128,42 +128,42 @@ How many data points each contributor provides across the directory:
 
 35 items need attention.
 
-**description empty** (24):
-- wellspring
-- fiatsend
-- fundable
-- net-sdk
-- terwa
-- bexo
-- merkle-science
-- neon-wallet
-- payala
-- stellar-registry
-- ios-mac-stellar-sdk
-- investar
-- stabble
-- reapp
-- figo
-- blockroll
-- providencia-onchain
-- stellar-oracle-shield
-- talwex
-- refractor
-- java-stellar-sdk
-- dig
-- proofbridge
-- linq
-
 **SCF project missing website** (11):
+- crypto-link
+- frost-implementation
 - net-sdk
 - the-starship-soroban
 - relax
-- timed-transactions-api
-- crypto-link
-- paysapp
-- frost-implementation
 - wally
 - sendit
 - soroban-optimistic-oracle
+- timed-transactions-api
+- paysapp
 - java-stellar-sdk
+
+**description empty** (24):
+- neon-wallet
+- payala
+- wellspring
+- stellar-registry
+- ios-mac-stellar-sdk
+- investar
+- fiatsend
+- stabble
+- fundable
+- net-sdk
+- terwa
+- figo
+- blockroll
+- bexo
+- providencia-onchain
+- stellar-oracle-shield
+- talwex
+- merkle-science
+- reapp
+- java-stellar-sdk
+- dig
+- refractor
+- proofbridge
+- linq
 
