@@ -118,8 +118,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4042 |
-| Lumen Loop | 3824 |
+| SCF | 4043 |
+| Lumen Loop | 3826 |
 | Stellar Expert | 360 |
 | Soroban Security | 71 |
 | DeFiLlama | 21 |
@@ -142,13 +142,13 @@ How many data points each contributor provides across the directory:
 - java-stellar-sdk
 
 **description empty** (24):
+- fiatsend
 - neon-wallet
 - payala
 - wellspring
 - stellar-registry
 - ios-mac-stellar-sdk
 - investar
-- fiatsend
 - stabble
 - fundable
 - net-sdk
