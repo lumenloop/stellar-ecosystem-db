@@ -18,7 +18,10 @@ links:
   github: []
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - DevX
+    - SDK
+    - Infrastructure
   operating_region: []
   based_in: null
 images: null
