@@ -7,8 +7,8 @@
 | Metric | Count |
 |--------|------:|
 | Total projects | **772** |
-| SCF-funded projects | 644 |
-| Community projects | 128 |
+| SCF-funded projects | 645 |
+| Community projects | 127 |
 | Audited projects | 55 |
 
 ## Data Coverage
@@ -35,7 +35,7 @@
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **772** projects (incl. **128** community projects not in SCF) against **656** in SCF Airtable:
+Per-project comparison of our **772** projects (incl. **127** community projects not in SCF) against **656** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
@@ -58,15 +58,15 @@ Per-project comparison of our **772** projects (incl. **128** community projects
 
 ## SCF Project Coverage
 
-Of **644** SCF-funded projects:
+Of **645** SCF-funded projects:
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| awarded_total | 600/644 | 93.2% |
-| awarded_round | 638/644 | 99.1% |
-| submission_urls | 638/644 | 99.1% |
-| website | 633/644 | 98.3% |
-| github | 471/644 | 73.1% |
+| awarded_total | 600/645 | 93% |
+| awarded_round | 639/645 | 99.1% |
+| submission_urls | 639/645 | 99.1% |
+| website | 634/645 | 98.3% |
+| github | 471/645 | 73% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -118,8 +118,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4038 |
-| Lumen Loop | 3771 |
+| SCF | 4039 |
+| Lumen Loop | 3773 |
 | Stellar Expert | 360 |
 | Soroban Security | 75 |
 | DeFiLlama | 21 |
