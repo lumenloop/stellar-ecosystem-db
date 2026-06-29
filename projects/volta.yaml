@@ -29,6 +29,12 @@ attributes:
     - Global
   based_in: United States
 images: null
+scf:
+  awarded_round:
+    - 35
+  awarded_total: 150000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recXYqqyG4JF1Rrp3
 mainnet:
   audits:
     - name: Volta Wallet - Zellic Audit Report
