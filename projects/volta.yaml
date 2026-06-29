@@ -1,5 +1,6 @@
 title: Volta
-other_names: null
+other_names:
+  - Volta Circuit
 parent: null
 description: Non-custodial smart contract multi-sig wallet and digital asset control panel for enterprises. Enables configurable governance, risk management, and treasury operations across any blockchain with zero counterparty risk.
 links:
