@@ -1,7 +1,8 @@
-title: ZKLiquid
+title: LiquidsFi
 other_names:
   - 'LiquidsFi: EVM - Soroban Bridge'
   - 'LiquidsFi: Bridge and Cross-chain Oracle'
+  - ZKLiquid
 parent: null
 description: LiquidsFi is a decentralized liquidity protocol and interoperability oracle network connecting liquidity and onchain data across siloed blockchains.
 links:

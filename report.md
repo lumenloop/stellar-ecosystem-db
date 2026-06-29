@@ -119,7 +119,7 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4041 |
-| Lumen Loop | 3784 |
+| Lumen Loop | 3785 |
 | Stellar Expert | 360 |
 | Soroban Security | 74 |
 | DeFiLlama | 21 |
@@ -129,38 +129,38 @@ How many data points each contributor provides across the directory:
 32 items need attention.
 
 **description empty** (21):
-- blockroll
-- stabble
-- neon-wallet
-- payala
 - providencia-onchain
-- figo
-- java-stellar-sdk
+- blockroll
 - dig
-- bexo
-- fiatsend
 - ios-mac-stellar-sdk
 - reapp
-- proofbridge
 - stellar-registry
 - terwa
 - refractor
 - investar
 - net-sdk
+- stabble
 - talwex
 - fundable
+- neon-wallet
+- payala
+- figo
+- java-stellar-sdk
+- bexo
+- fiatsend
+- proofbridge
 - linq
 
 **SCF project missing website** (11):
-- frost-implementation
-- java-stellar-sdk
 - relax
 - soroban-optimistic-oracle
-- wally
 - paysapp
 - timed-transactions-api
 - the-starship-soroban
 - net-sdk
 - crypto-link
 - sendit
+- frost-implementation
+- java-stellar-sdk
+- wally
 
