@@ -31,7 +31,7 @@
 | category | 777/778 | 99.9% |
 | tags | 753/778 | 96.8% |
 | operating_region | 753/778 | 96.8% |
-| based_in | 697/778 | 89.6% |
+| based_in | 699/778 | 89.8% |
 
 ## Enrichment vs SCF Airtable
 
@@ -45,7 +45,7 @@ Per-project comparison of our **778** projects (incl. **124** community projects
 | x | +258 | 283 |
 | linkedin | +195 | 203 |
 | discord | +103 | 107 |
-| based_in | +220 | 477 |
+| based_in | +222 | 477 |
 | blog | +250 | 0 |
 | telegram | +147 | 0 |
 | youtube | +167 | 0 |
@@ -76,11 +76,11 @@ Of **654** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 487 | 500 |
-| Active last week | 132 | 212 |
-| Active last month | 198 | 276 |
-| Active last 3 months | 252 | 341 |
-| Active last year | 342 | 403 |
+| Tracked projects | 487 | 501 |
+| Active last week | 132 | 213 |
+| Active last month | 198 | 277 |
+| Active last 3 months | 252 | 342 |
+| Active last year | 342 | 404 |
 
 ## Audit Data
 
@@ -119,7 +119,7 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4044 |
-| Lumen Loop | 3848 |
+| Lumen Loop | 3850 |
 | Stellar Expert | 360 |
 | Soroban Security | 71 |
 | DeFiLlama | 21 |
@@ -127,6 +127,30 @@ How many data points each contributor provides across the directory:
 ## Needs Review
 
 33 items need attention.
+
+**description empty** (22):
+- investar
+- java-stellar-sdk
+- fundable
+- wellspring
+- blockroll
+- net-sdk
+- fiatsend
+- neon-wallet
+- providencia-onchain
+- reapp
+- refractor
+- figo
+- stabble
+- payala
+- stellar-oracle-shield
+- terwa
+- dig
+- merkle-science
+- talwex
+- ios-mac-stellar-sdk
+- proofbridge
+- linq
 
 **SCF project missing website** (11):
 - the-starship-soroban
@@ -140,28 +164,4 @@ How many data points each contributor provides across the directory:
 - timed-transactions-api
 - paysapp
 - crypto-link
-
-**description empty** (22):
-- java-stellar-sdk
-- fundable
-- wellspring
-- blockroll
-- net-sdk
-- fiatsend
-- neon-wallet
-- providencia-onchain
-- reapp
-- refractor
-- figo
-- stabble
-- investar
-- payala
-- stellar-oracle-shield
-- terwa
-- dig
-- merkle-science
-- talwex
-- ios-mac-stellar-sdk
-- proofbridge
-- linq
 
