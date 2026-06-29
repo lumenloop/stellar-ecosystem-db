@@ -1,7 +1,7 @@
 title: ProofBridge
 other_names: null
 parent: null
-description: ''
+description: ProofBridge is a peer-to-peer cross-chain bridge secured by zero-knowledge proofs, connecting Stellar and Ethereum. Makers (liquidity providers) and bridgers (users) are matched directly on each trade, with funds held in protocol-controlled escrow on each chain and released only when an on-chain ZK proof confirms the counterpart deposit. The protocol uses Merkle Mountain Ranges and Noir UltraHonk circuits to replace trusted validators with cryptographic proof, enabling trustless, permissionless cross-chain transfers — launching with USDC ↔ USDC on Stellar Mainnet and Ethereum Mainnet.
 links:
   website:
     - pfbridge.xyz
@@ -19,7 +19,10 @@ links:
     - github.com/explore-beyond-innovations/proofbridge
 attributes:
   category: Financial Protocols
-  tags: []
+  tags:
+    - Bridge
+    - ZK
+    - Cross-Chain
   operating_region: []
   based_in: null
 images: null
