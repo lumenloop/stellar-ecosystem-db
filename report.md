@@ -15,7 +15,7 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 763/778 | 98.1% |
+| description | 764/778 | 98.2% |
 | website | 766/778 | 98.5% |
 | blog | 250/778 | 32.1% |
 | x | 544/778 | 69.9% |
@@ -29,7 +29,7 @@
 | linktree | 5/778 | 0.6% |
 | github | 534/778 | 68.6% |
 | category | 778/778 | 100% |
-| tags | 760/778 | 97.7% |
+| tags | 761/778 | 97.8% |
 | operating_region | 758/778 | 97.4% |
 | based_in | 703/778 | 90.4% |
 
@@ -39,7 +39,7 @@ Per-project comparison of our **778** projects (incl. **129** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +186 | 577 |
+| description | +187 | 577 |
 | website | +208 | 558 |
 | github | +160 | 374 |
 | x | +261 | 283 |
@@ -96,12 +96,12 @@ Of **643** SCF-funded projects:
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
-| OpenZeppelin | 2 |
 | CoinFabrik | 2 |
+| OpenZeppelin | 2 |
 | Zellic | 2 |
 | Code4rena | 2 |
-| Hacken | 1 |
 | Cantina | 1 |
+| Hacken | 1 |
 | Сoinspect | 1 |
 
 ## Data Sources
@@ -118,43 +118,42 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4041 |
-| Lumen Loop | 3882 |
+| SCF | 4040 |
+| Lumen Loop | 3884 |
 | Stellar Expert | 360 |
 | Soroban Security | 71 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-26 items need attention.
+25 items need attention.
 
-**description empty** (15):
-- stabble
+**SCF project missing website** (11):
+- soroban-optimistic-oracle
+- timed-transactions-api
+- relax
+- wally
+- sendit
+- crypto-link
+- frost-implementation
+- java-stellar-sdk
+- paysapp
+- the-starship-soroban
+- net-sdk
+
+**description empty** (14):
 - refractor
-- merkle-science
 - neon-wallet
 - ios-mac-stellar-sdk
+- stabble
 - providencia-onchain
 - blockroll
 - payala
 - talwex
-- terwa
-- net-sdk
 - stellar-oracle-shield
 - fiatsend
 - wellspring
 - java-stellar-sdk
-
-**SCF project missing website** (11):
-- wally
-- sendit
-- soroban-optimistic-oracle
-- timed-transactions-api
-- relax
-- frost-implementation
-- paysapp
-- the-starship-soroban
+- terwa
 - net-sdk
-- crypto-link
-- java-stellar-sdk
 
