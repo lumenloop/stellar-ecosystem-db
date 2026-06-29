@@ -91,13 +91,13 @@ Of **651** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 24 |
-| certora | 10 |
 | OtterSec | 10 |
+| certora | 10 |
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
-| OpenZeppelin | 2 |
 | Zellic | 2 |
+| OpenZeppelin | 2 |
 | Code4rena | 2 |
 | CoinFabrik | 2 |
 | Сoinspect | 1 |
@@ -119,7 +119,7 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4040 |
-| Lumen Loop | 3820 |
+| Lumen Loop | 3822 |
 | Stellar Expert | 360 |
 | Soroban Security | 71 |
 | DeFiLlama | 21 |
@@ -129,26 +129,26 @@ How many data points each contributor provides across the directory:
 35 items need attention.
 
 **description empty** (24):
-- merkle-science
-- fiatsend
-- ios-mac-stellar-sdk
-- bexo
-- blockroll
-- providencia-onchain
 - wellspring
 - fundable
 - net-sdk
 - terwa
+- merkle-science
+- fiatsend
 - neon-wallet
-- refractor
 - payala
 - stellar-registry
+- ios-mac-stellar-sdk
 - investar
 - stabble
 - reapp
+- bexo
 - figo
+- blockroll
+- providencia-onchain
 - stellar-oracle-shield
 - talwex
+- refractor
 - java-stellar-sdk
 - dig
 - proofbridge
