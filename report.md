@@ -15,7 +15,7 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 753/772 | 97.5% |
+| description | 754/772 | 97.7% |
 | website | 760/772 | 98.4% |
 | blog | 252/772 | 32.6% |
 | x | 539/772 | 69.8% |
@@ -28,7 +28,7 @@
 | tiktok | 34/772 | 4.4% |
 | linktree | 5/772 | 0.6% |
 | github | 527/772 | 68.3% |
-| category | 768/772 | 99.5% |
+| category | 769/772 | 99.6% |
 | tags | 752/772 | 97.4% |
 | operating_region | 750/772 | 97.2% |
 | based_in | 696/772 | 90.2% |
@@ -39,7 +39,7 @@ Per-project comparison of our **772** projects (incl. **128** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +175 | 578 |
+| description | +176 | 578 |
 | website | +201 | 559 |
 | github | +152 | 375 |
 | x | +256 | 283 |
@@ -119,46 +119,45 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4038 |
-| Lumen Loop | 3768 |
+| Lumen Loop | 3771 |
 | Stellar Expert | 360 |
 | Soroban Security | 75 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-30 items need attention.
+29 items need attention.
 
-**description empty** (19):
-- lightsail
+**description empty** (18):
 - investar
 - talwex
 - java-stellar-sdk
-- terwa
-- net-sdk
-- ios-mac-stellar-sdk
 - reapp
+- terwa
 - stabble
 - payala
 - refractor
 - figo
+- dig
+- net-sdk
+- ios-mac-stellar-sdk
 - stellar-registry
 - fundable
 - bexo
 - fiatsend
-- dig
 - proofbridge
 - linq
 
 **SCF project missing website** (11):
 - java-stellar-sdk
-- net-sdk
-- paysapp
 - timed-transactions-api
 - the-starship-soroban
 - frost-implementation
-- crypto-link
 - relax
+- net-sdk
 - soroban-optimistic-oracle
-- sendit
 - wally
+- paysapp
+- crypto-link
+- sendit
 

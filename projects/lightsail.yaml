@@ -1,7 +1,7 @@
 title: Lightsail
 other_names: null
 parent: null
-description: ''
+description: Parent entity of a variety of Stellar subservices like xlm.sh, Lumensigner, Quasar RPC, Cross Mesh and maintainer of Ledger and Trezor intergrations.
 links:
   website:
     - lightsail.network
@@ -17,7 +17,7 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
+  category: Infrastructure & Services
   tags: []
   operating_region: []
   based_in: null
