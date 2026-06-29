@@ -25,7 +25,8 @@ attributes:
   operating_region:
     - East Asia & Pacific
   based_in: Australia
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/novatti/novatti-apple_touch-tgb2nz.webp
 mainnet:
   audits: []
   tokens: []

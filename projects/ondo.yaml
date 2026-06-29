@@ -27,7 +27,9 @@ attributes:
   operating_region:
     - Global
   based_in: United States
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/ondo/ondo-favicon-tgb2o1.ico
+  og_image: https://media.lumenloop.com/projects/ondo/ondo-og-tgb2o0.webp
 mainnet:
   audits: []
   tokens:

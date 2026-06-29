@@ -25,7 +25,9 @@ attributes:
   operating_region:
     - Global
   based_in: United States
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/owny/owny-favicon-tgb1iw.svg
+  logo: https://media.lumenloop.com/projects/owny/owny-logo-tgb1iv.svg
 mainnet:
   audits: []
   tokens: []

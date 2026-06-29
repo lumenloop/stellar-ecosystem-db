@@ -30,7 +30,9 @@ attributes:
     - North America (without Mexico)
     - United States
   based_in: United States
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/redswan/redswan-apple_touch-tgg3re.webp
+  logo: https://media.lumenloop.com/projects/redswan/redswan-logo-tgg3rd.webp
 mainnet:
   audits: []
   tokens: []

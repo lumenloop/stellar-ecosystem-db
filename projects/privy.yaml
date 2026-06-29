@@ -26,7 +26,9 @@ attributes:
   operating_region:
     - Global
   based_in: United States
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/privy/privy-favicon-tgb2o3.webp
+  og_image: https://media.lumenloop.com/projects/privy/privy-og-tgb2o2.webp
 mainnet:
   audits: []
   tokens: []
