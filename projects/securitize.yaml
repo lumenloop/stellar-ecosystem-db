@@ -26,7 +26,9 @@ attributes:
   operating_region:
     - Global
   based_in: United States
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/securitize/securitize-apple_touch-tgb2o5.webp
+  logo: https://media.lumenloop.com/projects/securitize/securitize-logo-tgb2o4.svg
 mainnet:
   audits: []
   tokens: []

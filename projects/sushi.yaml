@@ -28,7 +28,8 @@ attributes:
   operating_region:
     - Global
   based_in: Japan
-images: null
+images:
+  avatar: https://media.lumenloop.com/projects/sushi/sushi-github_avatar-tgb1j2.webp
 mainnet:
   audits: []
   tokens: []

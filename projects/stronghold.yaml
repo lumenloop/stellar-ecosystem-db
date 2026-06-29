@@ -27,7 +27,10 @@ attributes:
   operating_region:
     - North America (without Mexico)
   based_in: United States
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/stronghold/stronghold-apple_touch-tgb2ob.webp
+  logo: https://media.lumenloop.com/projects/stronghold/stronghold-logo-tgb2o9.svg
+  og_image: https://media.lumenloop.com/projects/stronghold/stronghold-og-tgb2oa.webp
 mainnet:
   audits: []
   tokens:
