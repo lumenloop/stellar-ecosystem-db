@@ -30,8 +30,8 @@
 | github | 533/778 | 68.5% |
 | category | 778/778 | 100% |
 | tags | 758/778 | 97.4% |
-| operating_region | 755/778 | 97% |
-| based_in | 701/778 | 90.1% |
+| operating_region | 756/778 | 97.2% |
+| based_in | 702/778 | 90.2% |
 
 ## Enrichment vs SCF Airtable
 
@@ -45,7 +45,7 @@ Per-project comparison of our **778** projects (incl. **124** community projects
 | x | +260 | 283 |
 | linkedin | +195 | 203 |
 | discord | +103 | 107 |
-| based_in | +224 | 477 |
+| based_in | +225 | 477 |
 | blog | +250 | 0 |
 | telegram | +147 | 0 |
 | youtube | +167 | 0 |
@@ -76,11 +76,11 @@ Of **654** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 490 | 502 |
-| Active last week | 133 | 214 |
-| Active last month | 199 | 278 |
-| Active last 3 months | 254 | 343 |
-| Active last year | 345 | 405 |
+| Tracked projects | 490 | 503 |
+| Active last week | 136 | 216 |
+| Active last month | 200 | 279 |
+| Active last 3 months | 254 | 344 |
+| Active last year | 345 | 406 |
 
 ## Audit Data
 
@@ -91,8 +91,8 @@ Of **654** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 24 |
-| certora | 10 |
 | OtterSec | 10 |
+| certora | 10 |
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
@@ -119,7 +119,7 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4044 |
-| Lumen Loop | 3870 |
+| Lumen Loop | 3872 |
 | Stellar Expert | 360 |
 | Soroban Security | 71 |
 | DeFiLlama | 21 |
@@ -129,34 +129,34 @@ How many data points each contributor provides across the directory:
 28 items need attention.
 
 **description empty** (17):
-- java-stellar-sdk
-- providencia-onchain
 - neon-wallet
 - reapp
 - refractor
-- proofbridge
 - blockroll
 - stabble
 - payala
 - stellar-oracle-shield
 - talwex
 - ios-mac-stellar-sdk
-- terwa
 - merkle-science
 - net-sdk
 - fiatsend
 - wellspring
+- java-stellar-sdk
+- providencia-onchain
+- proofbridge
+- terwa
 
 **SCF project missing website** (11):
-- java-stellar-sdk
-- the-starship-soroban
 - sendit
 - timed-transactions-api
 - crypto-link
 - wally
 - frost-implementation
 - net-sdk
-- soroban-optimistic-oracle
 - relax
+- java-stellar-sdk
 - paysapp
+- the-starship-soroban
+- soroban-optimistic-oracle
 
