@@ -1,5 +1,6 @@
-title: Diameter Pay
-other_names: null
+title: Diameter
+other_names:
+  - Diameter Pay
 parent: null
 description: Regulated payments platform providing API-driven cross-border payment processing on Stellar, enabling businesses to send and receive funds across currencies with compliance built in.
 links:
