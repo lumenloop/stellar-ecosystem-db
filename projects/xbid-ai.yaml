@@ -26,7 +26,10 @@ attributes:
   operating_region:
     - Global
   based_in: South Korea
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/xbid-ai/xbid-ai-favicon-tgb2oj.svg
+  logo: https://media.lumenloop.com/projects/xbid-ai/xbid-ai-logo-tgb2oi.svg
+  og_image: https://media.lumenloop.com/projects/xbid-ai/xbid-ai-og-tgb2oi.webp
 mainnet:
   audits: []
   tokens: []

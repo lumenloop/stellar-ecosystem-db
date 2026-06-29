@@ -25,7 +25,8 @@ attributes:
   operating_region:
     - Global
   based_in: Canada
-images: null
+images:
+  avatar: https://media.lumenloop.com/projects/yieldback-cash/yieldback-cash-github_avatar-thdfjy.webp
 scf:
   awarded_round:
     - 38

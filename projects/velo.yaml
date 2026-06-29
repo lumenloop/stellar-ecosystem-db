@@ -26,7 +26,9 @@ attributes:
   operating_region:
     - East Asia & Pacific
   based_in: Thailand
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/velo/velo-apple_touch-tgb2og.webp
+  logo: https://media.lumenloop.com/projects/velo/velo-logo-tgb2og.svg
 mainnet:
   audits: []
   tokens:

@@ -29,7 +29,9 @@ attributes:
     - Latin America & Caribbean
     - Sub-Saharan Africa
   based_in: United States
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/yellowcard/yellowcard-apple_touch-tgb1j7.webp
+  og_image: https://media.lumenloop.com/projects/yellowcard/yellowcard-og-tgb1j6.webp
 mainnet:
   audits: []
   tokens: []
