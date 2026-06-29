@@ -91,14 +91,14 @@ Of **652** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 24 |
-| OtterSec | 10 |
 | certora | 10 |
+| OtterSec | 10 |
 | Runtime Verification | 8 |
 | Quarkslab | 6 |
 | Halborn | 5 |
+| OpenZeppelin | 2 |
 | Zellic | 2 |
 | CoinFabrik | 2 |
-| OpenZeppelin | 2 |
 | Code4rena | 2 |
 | Cantina | 1 |
 | Сoinspect | 1 |
@@ -118,8 +118,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4042 |
-| Lumen Loop | 3812 |
+| SCF | 4041 |
+| Lumen Loop | 3815 |
 | Stellar Expert | 360 |
 | Soroban Security | 74 |
 | DeFiLlama | 21 |
@@ -129,26 +129,26 @@ How many data points each contributor provides across the directory:
 35 items need attention.
 
 **description empty** (24):
+- ios-mac-stellar-sdk
 - wellspring
+- fundable
+- neon-wallet
+- payala
 - investar
 - blockroll
+- reapp
+- figo
 - merkle-science
 - bexo
 - providencia-onchain
 - net-sdk
-- ios-mac-stellar-sdk
-- fundable
-- neon-wallet
-- payala
-- reapp
-- figo
-- java-stellar-sdk
-- dig
 - terwa
 - refractor
 - stellar-registry
 - stabble
 - stellar-oracle-shield
+- java-stellar-sdk
+- dig
 - fiatsend
 - talwex
 - proofbridge
@@ -156,14 +156,14 @@ How many data points each contributor provides across the directory:
 
 **SCF project missing website** (11):
 - relax
-- net-sdk
 - crypto-link
-- soroban-optimistic-oracle
 - frost-implementation
-- java-stellar-sdk
+- net-sdk
 - timed-transactions-api
 - paysapp
 - the-starship-soroban
 - sendit
+- soroban-optimistic-oracle
+- java-stellar-sdk
 - wally
 
