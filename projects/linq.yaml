@@ -1,12 +1,13 @@
 title: Linq
 other_names: null
 parent: null
-description: ''
+description: Linq is a stablecoin payments app that lets users spend USDC and other stablecoins like cash directly from their crypto wallet, with real-time settlement to Nigerian bank accounts. Its B2B merchant gateway enables businesses to accept crypto payments via QR code — settling instantly in NGN — across Stellar, Sui, Solana, Base, BSC, and Aptos, requiring no crypto knowledge from merchants.
 links:
   website:
     - uselinq.xyz
   blog: []
-  x: []
+  x:
+    - uselinq
   linkedin: []
   discord: []
   telegram: []
@@ -15,12 +16,17 @@ links:
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/rinku-labs/linqb2b
 attributes:
-  category: null
-  tags: []
-  operating_region: []
-  based_in: null
+  category: Applications
+  tags:
+    - On-Off Ramp
+    - Payments
+    - Merchant
+  operating_region:
+    - africa
+  based_in: Nigeria
 images: null
 scf:
   awarded_round: []
