@@ -119,7 +119,7 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4040 |
-| Lumen Loop | 3822 |
+| Lumen Loop | 3823 |
 | Stellar Expert | 360 |
 | Soroban Security | 71 |
 | DeFiLlama | 21 |
@@ -130,11 +130,12 @@ How many data points each contributor provides across the directory:
 
 **description empty** (24):
 - wellspring
+- fiatsend
 - fundable
 - net-sdk
 - terwa
+- bexo
 - merkle-science
-- fiatsend
 - neon-wallet
 - payala
 - stellar-registry
@@ -142,7 +143,6 @@ How many data points each contributor provides across the directory:
 - investar
 - stabble
 - reapp
-- bexo
 - figo
 - blockroll
 - providencia-onchain
@@ -156,11 +156,11 @@ How many data points each contributor provides across the directory:
 
 **SCF project missing website** (11):
 - net-sdk
+- the-starship-soroban
 - relax
 - timed-transactions-api
 - crypto-link
 - paysapp
-- the-starship-soroban
 - frost-implementation
 - wally
 - sendit
