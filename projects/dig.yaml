@@ -1,7 +1,7 @@
 title: Dig
 other_names: null
 parent: null
-description: ''
+description: Dig is an AI-powered on-chain analytics and trading terminal for Stellar DeFi. It provides a unified dashboard to explore protocol metrics (TVL, volume, APY) across Blend, Aquarius, Soroswap, and DeFindex, aggregate multi-wallet portfolios, receive smart on-chain alerts, and execute non-custodial swaps, deposits, and rebalances directly from the interface.
 links:
   website:
     - getdig.ai
@@ -19,7 +19,10 @@ links:
     - github.com/mael-wnb/dig-stellar
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - DeFi
+    - Analytics
+    - AI
   operating_region: []
   based_in: null
 images: null

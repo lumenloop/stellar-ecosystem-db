@@ -15,7 +15,7 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 760/778 | 97.7% |
+| description | 761/778 | 97.8% |
 | website | 766/778 | 98.5% |
 | blog | 250/778 | 32.1% |
 | x | 543/778 | 69.8% |
@@ -29,7 +29,7 @@
 | linktree | 5/778 | 0.6% |
 | github | 533/778 | 68.5% |
 | category | 778/778 | 100% |
-| tags | 757/778 | 97.3% |
+| tags | 758/778 | 97.4% |
 | operating_region | 755/778 | 97% |
 | based_in | 701/778 | 90.1% |
 
@@ -39,7 +39,7 @@ Per-project comparison of our **778** projects (incl. **124** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +183 | 577 |
+| description | +184 | 577 |
 | website | +208 | 558 |
 | github | +159 | 374 |
 | x | +260 | 283 |
@@ -91,8 +91,8 @@ Of **654** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 24 |
-| OtterSec | 10 |
 | certora | 10 |
+| OtterSec | 10 |
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
@@ -119,20 +119,22 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4044 |
-| Lumen Loop | 3868 |
+| Lumen Loop | 3870 |
 | Stellar Expert | 360 |
 | Soroban Security | 71 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-29 items need attention.
+28 items need attention.
 
-**description empty** (18):
+**description empty** (17):
 - java-stellar-sdk
+- providencia-onchain
 - neon-wallet
 - reapp
 - refractor
+- proofbridge
 - blockroll
 - stabble
 - payala
@@ -140,13 +142,10 @@ How many data points each contributor provides across the directory:
 - talwex
 - ios-mac-stellar-sdk
 - terwa
-- dig
 - merkle-science
 - net-sdk
 - fiatsend
-- providencia-onchain
 - wellspring
-- proofbridge
 
 **SCF project missing website** (11):
 - java-stellar-sdk
