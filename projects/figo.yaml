@@ -1,7 +1,7 @@
 title: Figo
 other_names: null
 parent: null
-description: ''
+description: Fintech platform providing a free virtual Visa card and US dollar account (routing number + IBAN) for global workers, freelancers, and creators across 50+ countries. Built on Stellar for settlement with USDC stablecoins, fiat on/off-ramp via SEP-24 and MoneyGram cash pickup at 350,000+ locations worldwide, and DeFi yield on idle balances through Soroban smart contract integrations.
 links:
   website:
     - spendfigo.com
@@ -18,9 +18,12 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Payments
+    - On-Off Ramp
+    - Unbanked
   operating_region: []
-  based_in: null
+  based_in: Nigeria
 images: null
 scf:
   awarded_round:
