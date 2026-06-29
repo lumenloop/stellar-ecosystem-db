@@ -31,7 +31,7 @@
 | category | 778/778 | 100% |
 | tags | 758/778 | 97.4% |
 | operating_region | 756/778 | 97.2% |
-| based_in | 702/778 | 90.2% |
+| based_in | 703/778 | 90.4% |
 
 ## Enrichment vs SCF Airtable
 
@@ -45,7 +45,7 @@ Per-project comparison of our **778** projects (incl. **124** community projects
 | x | +261 | 283 |
 | linkedin | +195 | 203 |
 | discord | +103 | 107 |
-| based_in | +225 | 477 |
+| based_in | +226 | 477 |
 | blog | +250 | 0 |
 | telegram | +147 | 0 |
 | youtube | +167 | 0 |
@@ -96,12 +96,12 @@ Of **654** SCF-funded projects:
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
-| Zellic | 2 |
 | Code4rena | 2 |
-| OpenZeppelin | 2 |
 | CoinFabrik | 2 |
-| Сoinspect | 1 |
+| Zellic | 2 |
+| OpenZeppelin | 2 |
 | Hacken | 1 |
+| Сoinspect | 1 |
 | Cantina | 1 |
 
 ## Data Sources
@@ -119,7 +119,7 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4044 |
-| Lumen Loop | 3873 |
+| Lumen Loop | 3874 |
 | Stellar Expert | 360 |
 | Soroban Security | 71 |
 | DeFiLlama | 21 |
@@ -132,30 +132,30 @@ How many data points each contributor provides across the directory:
 - neon-wallet
 - reapp
 - refractor
-- blockroll
-- stabble
-- payala
 - stellar-oracle-shield
-- talwex
-- ios-mac-stellar-sdk
 - merkle-science
-- net-sdk
 - fiatsend
 - wellspring
 - java-stellar-sdk
 - providencia-onchain
+- blockroll
 - proofbridge
+- stabble
+- payala
+- talwex
+- ios-mac-stellar-sdk
+- net-sdk
 - terwa
 
 **SCF project missing website** (11):
+- wally
+- relax
+- java-stellar-sdk
 - sendit
 - timed-transactions-api
 - crypto-link
-- wally
 - frost-implementation
 - net-sdk
-- relax
-- java-stellar-sdk
 - paysapp
 - the-starship-soroban
 - soroban-optimistic-oracle
