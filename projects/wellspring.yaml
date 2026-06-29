@@ -23,6 +23,14 @@ attributes:
   operating_region: []
   based_in: null
 images: null
+scf:
+  awarded_round:
+    - 30
+    - 41
+  awarded_total: 250000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recu5pymuQTqCQDZ2
+    - communityfund.stellar.org/submissions/reckcG3KUCoXafOFL
 mainnet:
   audits: []
   tokens: []
