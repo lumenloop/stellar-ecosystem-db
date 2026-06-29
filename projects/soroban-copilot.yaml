@@ -1,22 +1,26 @@
 title: Soroban Copilot
 other_names: null
-parent: null
+parent: Script3
 description: Collection of no_std Rust packages focused on making Soroban development easier.
 links:
   website:
     - github.com/mootz12/soroban-copilot
   blog: []
-  x: []
-  linkedin: []
+  x:
+    - github
+  linkedin:
+    - linkedin.com/company/github
   discord: []
   telegram: []
-  youtube: []
-  instagram: []
+  youtube:
+    - youtube.com/github
+  instagram:
+    - github
   reddit: []
-  tiktok: []
+  tiktok:
+    - github
   linktree: []
-  github:
-    - github.com/mootz12/soroban-copilot
+  github: []
 attributes:
   category: Developer Tooling
   tags:
