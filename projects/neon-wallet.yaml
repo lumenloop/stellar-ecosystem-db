@@ -1,0 +1,34 @@
+title: Neon Wallet
+other_names: null
+parent: null
+description: ''
+links:
+  website:
+    - coz.io/neon-wallet
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/cityofzion/neon-wallet-desktop
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: Brazil
+images: null
+scf:
+  awarded_round:
+    - 41
+  awarded_total: 129000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recAWuToMsPa2Fops
+mainnet:
+  audits: []
+  tokens: []
