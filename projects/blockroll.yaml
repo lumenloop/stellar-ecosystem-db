@@ -1,0 +1,37 @@
+title: Blockroll
+other_names: null
+parent: null
+description: ''
+links:
+  website:
+    - blockroll.app
+  blog: []
+  x:
+    - ourblockroll
+  linkedin:
+    - linkedin.com/company/blockroll
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/blockroll-tech
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - Sub-Saharan Africa
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 43
+  awarded_total: 125000
+  submission_urls:
+    - communityfund.stellar.org/submissions/reczawpuNBUaBwxSa
+mainnet:
+  audits: []
+  tokens: []
