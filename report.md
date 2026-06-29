@@ -18,7 +18,7 @@
 | description | 764/778 | 98.2% |
 | website | 766/778 | 98.5% |
 | blog | 250/778 | 32.1% |
-| x | 544/778 | 69.9% |
+| x | 545/778 | 70.1% |
 | linkedin | 398/778 | 51.2% |
 | discord | 210/778 | 27% |
 | telegram | 147/778 | 18.9% |
@@ -29,7 +29,7 @@
 | linktree | 5/778 | 0.6% |
 | github | 534/778 | 68.6% |
 | category | 778/778 | 100% |
-| tags | 762/778 | 97.9% |
+| tags | 763/778 | 98.1% |
 | operating_region | 759/778 | 97.6% |
 | based_in | 703/778 | 90.4% |
 
@@ -42,7 +42,7 @@ Per-project comparison of our **778** projects (incl. **129** community projects
 | description | +187 | 577 |
 | website | +208 | 558 |
 | github | +160 | 374 |
-| x | +261 | 283 |
+| x | +262 | 283 |
 | linkedin | +195 | 203 |
 | discord | +103 | 107 |
 | based_in | +226 | 477 |
@@ -100,9 +100,9 @@ Of **643** SCF-funded projects:
 | OpenZeppelin | 2 |
 | Zellic | 2 |
 | Code4rena | 2 |
+| Сoinspect | 1 |
 | Cantina | 1 |
 | Hacken | 1 |
-| Сoinspect | 1 |
 
 ## Data Sources
 
@@ -118,8 +118,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4039 |
-| Lumen Loop | 3886 |
+| SCF | 4038 |
+| Lumen Loop | 3888 |
 | Stellar Expert | 360 |
 | Soroban Security | 71 |
 | DeFiLlama | 21 |
@@ -129,31 +129,31 @@ How many data points each contributor provides across the directory:
 25 items need attention.
 
 **SCF project missing website** (11):
-- soroban-optimistic-oracle
-- timed-transactions-api
 - relax
-- wally
-- sendit
 - crypto-link
 - frost-implementation
 - java-stellar-sdk
-- paysapp
 - the-starship-soroban
+- soroban-optimistic-oracle
+- timed-transactions-api
+- wally
+- sendit
+- paysapp
 - net-sdk
 
 **description empty** (14):
-- refractor
-- neon-wallet
-- ios-mac-stellar-sdk
-- stabble
 - blockroll
 - payala
 - talwex
 - stellar-oracle-shield
 - fiatsend
-- wellspring
 - java-stellar-sdk
+- providencia-onchain
+- refractor
+- neon-wallet
+- ios-mac-stellar-sdk
+- wellspring
 - terwa
 - net-sdk
-- providencia-onchain
+- stabble
 

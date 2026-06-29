@@ -6,7 +6,8 @@ links:
   website:
     - stabble.org
   blog: []
-  x: []
+  x:
+    - stabbleorg
   linkedin: []
   discord: []
   telegram: []
@@ -18,8 +19,11 @@ links:
   github:
     - github.com/stabbleorg
 attributes:
-  category: Applications
-  tags: []
+  category: Financial Protocols
+  tags:
+    - DeFi
+    - DEX
+    - Stablecoins
   operating_region: []
   based_in: null
 images: null
