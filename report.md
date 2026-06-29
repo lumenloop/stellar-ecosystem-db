@@ -15,7 +15,7 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 753/778 | 96.8% |
+| description | 754/778 | 96.9% |
 | website | 766/778 | 98.5% |
 | blog | 250/778 | 32.1% |
 | x | 540/778 | 69.4% |
@@ -28,7 +28,7 @@
 | tiktok | 35/778 | 4.5% |
 | linktree | 5/778 | 0.6% |
 | github | 530/778 | 68.1% |
-| category | 774/778 | 99.5% |
+| category | 775/778 | 99.6% |
 | tags | 750/778 | 96.4% |
 | operating_region | 750/778 | 96.4% |
 | based_in | 696/778 | 89.5% |
@@ -39,7 +39,7 @@ Per-project comparison of our **778** projects (incl. **124** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +176 | 577 |
+| description | +177 | 577 |
 | website | +208 | 558 |
 | github | +156 | 374 |
 | x | +257 | 283 |
@@ -119,16 +119,16 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4044 |
-| Lumen Loop | 3834 |
+| Lumen Loop | 3836 |
 | Stellar Expert | 360 |
 | Soroban Security | 71 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-36 items need attention.
+35 items need attention.
 
-**description empty** (25):
+**description empty** (24):
 - fiatsend
 - stellar-oracle-shield
 - wellspring
@@ -139,7 +139,6 @@ How many data points each contributor provides across the directory:
 - ios-mac-stellar-sdk
 - stabble
 - neon-wallet
-- stellar-registry
 - figo
 - fundable
 - java-stellar-sdk

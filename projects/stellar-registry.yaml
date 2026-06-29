@@ -1,7 +1,7 @@
 title: Stellar Registry
 other_names: null
 parent: null
-description: ''
+description: A naming and discovery system for deployed smart contracts on the Stellar network. Lets developers browse WebAssembly modules (WASMs) and live contract instances by name, and import contract clients directly in Soroban projects via a Rust crate (`cargo add stellar-registry`).
 links:
   website:
     - rgstry.xyz
@@ -17,7 +17,7 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
+  category: Developer Tooling
   tags: []
   operating_region: []
   based_in: null

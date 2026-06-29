@@ -27,7 +27,10 @@ attributes:
   operating_region:
     - Global
   based_in: Turkey
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/arf/arf-apple_touch-thdfk9.webp
+  logo: https://media.lumenloop.com/projects/arf/arf-logo-thdfk7.svg
+  og_image: https://media.lumenloop.com/projects/arf/arf-og-thdfk8.webp
 mainnet:
   audits: []
   tokens: []

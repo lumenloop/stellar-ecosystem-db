@@ -31,7 +31,9 @@ attributes:
   operating_region:
     - latam
   based_in: Mexico
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/bitso/bitso-apple_touch-tgjt1t.webp
+  logo: https://media.lumenloop.com/projects/bitso/bitso-logo-tgjt1t.svg
 mainnet:
   audits: []
   tokens: []

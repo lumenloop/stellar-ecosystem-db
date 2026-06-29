@@ -26,7 +26,10 @@ attributes:
   operating_region:
     - Sub-Saharan Africa
   based_in: Ghana
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/akuna/akuna-favicon-tgb2mu.webp
+  logo: https://media.lumenloop.com/projects/akuna/akuna-logo-tgb2mt.svg
+  og_image: https://media.lumenloop.com/projects/akuna/akuna-og-tgb2mu.webp
 mainnet:
   audits: []
   tokens: []
