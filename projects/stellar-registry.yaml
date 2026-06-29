@@ -15,7 +15,8 @@ links:
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/theahaco/scaffold-stellar
 attributes:
   category: Developer Tooling
   tags:

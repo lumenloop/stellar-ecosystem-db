@@ -15,7 +15,8 @@ links:
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/bingtellar
 attributes:
   category: Applications
   tags:
