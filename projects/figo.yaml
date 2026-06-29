@@ -6,7 +6,8 @@ links:
   website:
     - spendfigo.com
   blog: []
-  x: []
+  x:
+    - spendfigo
   linkedin: []
   discord: []
   telegram: []
@@ -22,7 +23,11 @@ attributes:
     - Payments
     - On-Off Ramp
     - Unbanked
-  operating_region: []
+  operating_region:
+    - africa
+    - asia
+    - latam
+    - mena
   based_in: Nigeria
 images: null
 scf:
