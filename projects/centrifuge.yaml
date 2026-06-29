@@ -26,7 +26,10 @@ attributes:
   operating_region:
     - Global
   based_in: Italy
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/centrifuge/centrifuge-apple_touch-tgb2n5.webp
+  logo: https://media.lumenloop.com/projects/centrifuge/centrifuge-logo-tgb2n3.svg
+  og_image: https://media.lumenloop.com/projects/centrifuge/centrifuge-og-tgb2n4.webp
 mainnet:
   audits: []
   tokens: []

@@ -28,7 +28,8 @@ attributes:
     - Brazil
     - United States
   based_in: Brazil
-images: null
+images:
+  avatar: https://media.lumenloop.com/projects/cheesecake-labs/cheesecake-labs-github_avatar-tgb1ip.webp
 mainnet:
   audits: []
   tokens: []

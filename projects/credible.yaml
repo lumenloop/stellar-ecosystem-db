@@ -26,7 +26,10 @@ attributes:
   operating_region:
     - United States
   based_in: null
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/credible/credible-apple_touch-tgb2nf.svg
+  logo: https://media.lumenloop.com/projects/credible/credible-logo-tgb2nc.svg
+  og_image: https://media.lumenloop.com/projects/credible/credible-og-tgb2nd.webp
 scf:
   awarded_round:
     - 41

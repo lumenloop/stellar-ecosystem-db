@@ -26,7 +26,10 @@ attributes:
   operating_region:
     - Global
   based_in: United States
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/circle/circle-apple_touch-tgb2n7.svg
+  logo: https://media.lumenloop.com/projects/circle/circle-logo-tgb2n6.avif
+  og_image: https://media.lumenloop.com/projects/circle/circle-og-tgb2n6.webp
 mainnet:
   audits: []
   tokens:

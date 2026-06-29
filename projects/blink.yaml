@@ -1,7 +1,7 @@
 title: Blink
 other_names: null
 parent: null
-description: ''
+description: Soroban-native yield-bearing payment protocol built by Bingtellar. Blink holds USDC in programmable escrow smart contracts where it earns DeFi yield (via Blend Capital and DeFindex) while in transit, then settles to recipients via email claim link, mobile money, or bank transfer — no public key required. Designed for remittances, NGO disbursements, payroll, and B2B payments across Africa, LatAm, and SE Asia.
 links:
   website:
     - ourblink.cash
@@ -17,9 +17,15 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
-  operating_region: []
+  category: Applications
+  tags:
+    - Yield
+    - Cross-Border Payments
+    - On-Off Ramp
+  operating_region:
+    - africa
+    - latam
+    - asia
   based_in: null
 images: null
 scf:

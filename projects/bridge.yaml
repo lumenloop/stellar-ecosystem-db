@@ -26,7 +26,10 @@ attributes:
   operating_region:
     - Global
   based_in: United States
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/bridge/bridge-apple_touch-tgb2n2.webp
+  logo: https://media.lumenloop.com/projects/bridge/bridge-logo-tgb2n0.svg
+  og_image: https://media.lumenloop.com/projects/bridge/bridge-og-tgb2n1.webp
 mainnet:
   audits: []
   tokens: []

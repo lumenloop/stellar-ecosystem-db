@@ -15,7 +15,7 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 755/778 | 97% |
+| description | 756/778 | 97.2% |
 | website | 766/778 | 98.5% |
 | blog | 250/778 | 32.1% |
 | x | 541/778 | 69.5% |
@@ -28,9 +28,9 @@
 | tiktok | 35/778 | 4.5% |
 | linktree | 5/778 | 0.6% |
 | github | 530/778 | 68.1% |
-| category | 776/778 | 99.7% |
-| tags | 751/778 | 96.5% |
-| operating_region | 751/778 | 96.5% |
+| category | 777/778 | 99.9% |
+| tags | 753/778 | 96.8% |
+| operating_region | 753/778 | 96.8% |
 | based_in | 697/778 | 89.6% |
 
 ## Enrichment vs SCF Airtable
@@ -39,7 +39,7 @@ Per-project comparison of our **778** projects (incl. **124** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +178 | 577 |
+| description | +179 | 577 |
 | website | +208 | 558 |
 | github | +156 | 374 |
 | x | +258 | 283 |
@@ -119,14 +119,14 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4044 |
-| Lumen Loop | 3842 |
+| Lumen Loop | 3848 |
 | Stellar Expert | 360 |
 | Soroban Security | 71 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-34 items need attention.
+33 items need attention.
 
 **SCF project missing website** (11):
 - wally
@@ -141,12 +141,12 @@ How many data points each contributor provides across the directory:
 - relax
 - timed-transactions-api
 
-**description empty** (23):
+**description empty** (22):
+- fiatsend
 - terwa
 - providencia-onchain
 - ios-mac-stellar-sdk
 - stabble
-- fiatsend
 - neon-wallet
 - figo
 - fundable
@@ -162,7 +162,6 @@ How many data points each contributor provides across the directory:
 - investar
 - merkle-science
 - talwex
-- blink
 - proofbridge
 - linq
 

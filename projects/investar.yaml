@@ -19,8 +19,14 @@ links:
     - github.com/farihanrahman/investar
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - Remittances
+    - On-Off Ramp
+    - Trading
+  operating_region:
+    - Bangladesh
+    - United States
+    - MENA
   based_in: null
 images: null
 scf:

@@ -28,6 +28,7 @@ attributes:
     - Austria
   based_in: Austria
 images:
+  icon: https://media.lumenloop.com/projects/edunode/favicon.ico
   avatar: https://media.lumenloop.com/projects/edunode/github_avatar.png
 scf:
   awarded_round:
