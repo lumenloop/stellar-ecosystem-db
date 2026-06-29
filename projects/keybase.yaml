@@ -27,7 +27,8 @@ attributes:
   operating_region:
     - Global
   based_in: United States
-images: null
+images:
+  avatar: https://media.lumenloop.com/projects/keybase/keybase-github_avatar-tgb1is.webp
 mainnet:
   audits: []
   tokens: []

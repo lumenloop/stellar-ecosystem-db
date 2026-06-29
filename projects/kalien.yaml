@@ -24,7 +24,9 @@ attributes:
   operating_region:
     - Global
   based_in: null
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/kalien/kalien-favicon-tgb2nr.webp
+  og_image: https://media.lumenloop.com/projects/kalien/kalien-og-tgb2nq.webp
 mainnet:
   audits: []
   tokens: []
