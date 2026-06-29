@@ -25,7 +25,10 @@ attributes:
   operating_region:
     - Global
   based_in: United States
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/mesh/mesh-apple_touch-tgb2ny.webp
+  logo: https://media.lumenloop.com/projects/mesh/mesh-logo-tgb2nw.svg
+  og_image: https://media.lumenloop.com/projects/mesh/mesh-og-tgb2nx.webp
 mainnet:
   audits: []
   tokens: []

@@ -32,7 +32,8 @@ attributes:
     - Latin America & Caribbean
     - Sub-Saharan Africa
   based_in: Nigeria
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/kript/favicon.png
 scf:
   awarded_round:
     - 27

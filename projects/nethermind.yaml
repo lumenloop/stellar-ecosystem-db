@@ -28,7 +28,8 @@ attributes:
   operating_region:
     - Global
   based_in: United Kingdom
-images: null
+images:
+  avatar: https://media.lumenloop.com/projects/nethermind/nethermind-github_avatar-tgb1iu.webp
 mainnet:
   audits: []
   tokens: []

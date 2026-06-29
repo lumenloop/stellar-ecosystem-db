@@ -26,7 +26,10 @@ attributes:
   operating_region:
     - Global
   based_in: France
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/merkl/merkl-favicon-tgb2nv.webp
+  logo: https://media.lumenloop.com/projects/merkl/merkl-logo-tgb2nt.svg
+  og_image: https://media.lumenloop.com/projects/merkl/merkl-og-tgb2nt.webp
 mainnet:
   audits: []
   tokens: []

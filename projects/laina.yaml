@@ -28,7 +28,8 @@ attributes:
   operating_region:
     - Finland
   based_in: Finland
-images: null
+images:
+  avatar: https://media.lumenloop.com/projects/laina/laina-github_avatar-thdfmb.webp
 scf:
   awarded_round:
     - 34
