@@ -1,12 +1,13 @@
 title: Fundable
 other_names: null
 parent: null
-description: ''
+description: Onchain financial operations platform for global teams, enabling automated payouts, payment streaming, and seamless crypto-to-fiat offramping across emerging markets. Built for Web3 organizations and DAOs, Fundable replaces fragmented treasury workflows with a unified, transparent system for managing contributor payments at scale.
 links:
   website:
     - fundable.finance
   blog: []
-  x: []
+  x:
+    - fundablehq
   linkedin: []
   discord: []
   telegram: []
@@ -19,8 +20,12 @@ links:
     - github.com/fundable-protocol
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - Payroll
+    - On-Off Ramp
+    - DAO Tool
+  operating_region:
+    - Africa
   based_in: null
 images: null
 scf:

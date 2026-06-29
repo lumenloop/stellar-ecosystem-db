@@ -15,10 +15,10 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 758/778 | 97.4% |
+| description | 759/778 | 97.6% |
 | website | 766/778 | 98.5% |
 | blog | 250/778 | 32.1% |
-| x | 542/778 | 69.7% |
+| x | 543/778 | 69.8% |
 | linkedin | 398/778 | 51.2% |
 | discord | 210/778 | 27% |
 | telegram | 147/778 | 18.9% |
@@ -29,8 +29,8 @@
 | linktree | 5/778 | 0.6% |
 | github | 533/778 | 68.5% |
 | category | 778/778 | 100% |
-| tags | 755/778 | 97% |
-| operating_region | 754/778 | 96.9% |
+| tags | 756/778 | 97.2% |
+| operating_region | 755/778 | 97% |
 | based_in | 700/778 | 90% |
 
 ## Enrichment vs SCF Airtable
@@ -39,10 +39,10 @@ Per-project comparison of our **778** projects (incl. **124** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +181 | 577 |
+| description | +182 | 577 |
 | website | +208 | 558 |
 | github | +159 | 374 |
-| x | +259 | 283 |
+| x | +260 | 283 |
 | linkedin | +195 | 203 |
 | discord | +103 | 107 |
 | based_in | +223 | 477 |
@@ -119,38 +119,23 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4044 |
-| Lumen Loop | 3861 |
+| Lumen Loop | 3865 |
 | Stellar Expert | 360 |
 | Soroban Security | 71 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-31 items need attention.
+30 items need attention.
 
-**SCF project missing website** (11):
-- the-starship-soroban
-- java-stellar-sdk
-- sendit
-- timed-transactions-api
-- crypto-link
-- wally
-- frost-implementation
-- net-sdk
-- soroban-optimistic-oracle
-- relax
-- paysapp
-
-**description empty** (20):
+**description empty** (19):
 - java-stellar-sdk
 - neon-wallet
-- fundable
 - reapp
 - refractor
 - figo
 - blockroll
 - stabble
-- wellspring
 - payala
 - stellar-oracle-shield
 - talwex
@@ -161,5 +146,19 @@ How many data points each contributor provides across the directory:
 - net-sdk
 - fiatsend
 - providencia-onchain
+- wellspring
 - proofbridge
+
+**SCF project missing website** (11):
+- java-stellar-sdk
+- the-starship-soroban
+- sendit
+- timed-transactions-api
+- crypto-link
+- wally
+- frost-implementation
+- net-sdk
+- soroban-optimistic-oracle
+- relax
+- paysapp
 
