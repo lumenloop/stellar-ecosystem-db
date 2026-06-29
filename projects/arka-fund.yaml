@@ -1,5 +1,6 @@
-title: Arka.fund
-other_names: null
+title: Arka Fund
+other_names:
+  - Arka.fund
 parent: null
 description: On-chain asset management protocol on Soroban, enabling non-custodial investment vehicles with multi-AMM routing, customizable fee structures, and DAO governance.
 links:

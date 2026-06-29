@@ -98,8 +98,8 @@ Of **652** SCF-funded projects:
 | Quarkslab | 3 |
 | Zellic | 2 |
 | OpenZeppelin | 2 |
-| Code4rena | 2 |
 | CoinFabrik | 2 |
+| Code4rena | 2 |
 | Сoinspect | 1 |
 | Hacken | 1 |
 | Cantina | 1 |
@@ -119,7 +119,7 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4043 |
-| Lumen Loop | 3826 |
+| Lumen Loop | 3828 |
 | Stellar Expert | 360 |
 | Soroban Security | 71 |
 | DeFiLlama | 21 |
@@ -128,10 +128,36 @@ How many data points each contributor provides across the directory:
 
 35 items need attention.
 
+**description empty** (24):
+- stabble
+- fundable
+- net-sdk
+- terwa
+- figo
+- blockroll
+- fiatsend
+- providencia-onchain
+- neon-wallet
+- payala
+- stellar-oracle-shield
+- wellspring
+- talwex
+- stellar-registry
+- ios-mac-stellar-sdk
+- investar
+- merkle-science
+- java-stellar-sdk
+- dig
+- bexo
+- reapp
+- refractor
+- proofbridge
+- linq
+
 **SCF project missing website** (11):
-- crypto-link
 - frost-implementation
 - net-sdk
+- crypto-link
 - the-starship-soroban
 - relax
 - wally
@@ -140,30 +166,4 @@ How many data points each contributor provides across the directory:
 - timed-transactions-api
 - paysapp
 - java-stellar-sdk
-
-**description empty** (24):
-- fiatsend
-- neon-wallet
-- payala
-- wellspring
-- stellar-registry
-- ios-mac-stellar-sdk
-- investar
-- stabble
-- fundable
-- net-sdk
-- terwa
-- figo
-- blockroll
-- bexo
-- providencia-onchain
-- stellar-oracle-shield
-- talwex
-- merkle-science
-- reapp
-- java-stellar-sdk
-- dig
-- refractor
-- proofbridge
-- linq
 
