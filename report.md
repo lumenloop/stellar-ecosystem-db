@@ -1,46 +1,46 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-06-28
+> Auto-generated on 2026-06-29
 
 ## Summary
 
 | Metric | Count |
 |--------|------:|
-| Total projects | **771** |
+| Total projects | **772** |
 | SCF-funded projects | 644 |
-| Community projects | 127 |
+| Community projects | 128 |
 | Audited projects | 55 |
 
 ## Data Coverage
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 753/771 | 97.7% |
-| website | 759/771 | 98.4% |
-| blog | 252/771 | 32.7% |
-| x | 539/771 | 69.9% |
-| linkedin | 396/771 | 51.4% |
-| discord | 211/771 | 27.4% |
-| telegram | 148/771 | 19.2% |
-| youtube | 166/771 | 21.5% |
-| instagram | 125/771 | 16.2% |
-| reddit | 15/771 | 1.9% |
-| tiktok | 34/771 | 4.4% |
-| linktree | 5/771 | 0.6% |
-| github | 527/771 | 68.4% |
-| category | 768/771 | 99.6% |
-| tags | 752/771 | 97.5% |
-| operating_region | 750/771 | 97.3% |
-| based_in | 696/771 | 90.3% |
+| description | 753/772 | 97.5% |
+| website | 760/772 | 98.4% |
+| blog | 252/772 | 32.6% |
+| x | 539/772 | 69.8% |
+| linkedin | 396/772 | 51.3% |
+| discord | 211/772 | 27.3% |
+| telegram | 148/772 | 19.2% |
+| youtube | 166/772 | 21.5% |
+| instagram | 125/772 | 16.2% |
+| reddit | 15/772 | 1.9% |
+| tiktok | 34/772 | 4.4% |
+| linktree | 5/772 | 0.6% |
+| github | 527/772 | 68.3% |
+| category | 768/772 | 99.5% |
+| tags | 752/772 | 97.4% |
+| operating_region | 750/772 | 97.2% |
+| based_in | 696/772 | 90.2% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **771** projects (incl. **127** community projects not in SCF) against **656** in SCF Airtable:
+Per-project comparison of our **772** projects (incl. **128** community projects not in SCF) against **656** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
 | description | +175 | 578 |
-| website | +200 | 559 |
+| website | +201 | 559 |
 | github | +152 | 375 |
 | x | +256 | 283 |
 | linkedin | +193 | 203 |
@@ -78,7 +78,7 @@ Of **644** SCF-funded projects:
 |--------|------:|--------:|
 | Tracked projects | 484 | 499 |
 | Active last week | 132 | 211 |
-| Active last month | 196 | 275 |
+| Active last month | 196 | 274 |
 | Active last 3 months | 250 | 339 |
 | Active last year | 338 | 401 |
 
@@ -119,22 +119,23 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4038 |
-| Lumen Loop | 3767 |
+| Lumen Loop | 3768 |
 | Stellar Expert | 360 |
 | Soroban Security | 75 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-29 items need attention.
+30 items need attention.
 
-**description empty** (18):
+**description empty** (19):
+- lightsail
 - investar
-- net-sdk
-- ios-mac-stellar-sdk
 - talwex
 - java-stellar-sdk
 - terwa
+- net-sdk
+- ios-mac-stellar-sdk
 - reapp
 - stabble
 - payala
@@ -142,16 +143,16 @@ How many data points each contributor provides across the directory:
 - figo
 - stellar-registry
 - fundable
+- bexo
 - fiatsend
 - dig
-- bexo
 - proofbridge
 - linq
 
 **SCF project missing website** (11):
+- java-stellar-sdk
 - net-sdk
 - paysapp
-- java-stellar-sdk
 - timed-transactions-api
 - the-starship-soroban
 - frost-implementation
