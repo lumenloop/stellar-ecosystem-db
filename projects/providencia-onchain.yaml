@@ -1,0 +1,34 @@
+title: Providencia Onchain
+other_names: null
+parent: null
+description: ''
+links:
+  website:
+    - viio.me
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/itrmachines/viio_poc
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 42
+  awarded_total: 37500
+  submission_urls:
+    - communityfund.stellar.org/submissions/rec5Ik60UdtpHvLfE
+mainnet:
+  audits: []
+  tokens: []
