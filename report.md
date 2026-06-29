@@ -7,8 +7,8 @@
 | Metric | Count |
 |--------|------:|
 | Total projects | **778** |
-| SCF-funded projects | 654 |
-| Community projects | 124 |
+| SCF-funded projects | 643 |
+| Community projects | 135 |
 | Audited projects | 53 |
 
 ## Data Coverage
@@ -35,7 +35,7 @@
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **778** projects (incl. **124** community projects not in SCF) against **656** in SCF Airtable:
+Per-project comparison of our **778** projects (incl. **129** community projects not in SCF) against **656** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
@@ -58,15 +58,15 @@ Per-project comparison of our **778** projects (incl. **124** community projects
 
 ## SCF Project Coverage
 
-Of **654** SCF-funded projects:
+Of **643** SCF-funded projects:
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| awarded_total | 610/654 | 93.3% |
-| awarded_round | 649/654 | 99.2% |
-| submission_urls | 649/654 | 99.2% |
-| website | 643/654 | 98.3% |
-| github | 479/654 | 73.2% |
+| awarded_total | 640/643 | 99.5% |
+| awarded_round | 643/643 | 100% |
+| submission_urls | 643/643 | 100% |
+| website | 632/643 | 98.3% |
+| github | 470/643 | 73.1% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -76,11 +76,11 @@ Of **654** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 490 | 503 |
-| Active last week | 136 | 216 |
-| Active last month | 200 | 279 |
-| Active last 3 months | 254 | 344 |
-| Active last year | 345 | 406 |
+| Tracked projects | 490 | 504 |
+| Active last week | 132 | 219 |
+| Active last month | 200 | 281 |
+| Active last 3 months | 254 | 346 |
+| Active last year | 345 | 407 |
 
 ## Audit Data
 
@@ -96,13 +96,13 @@ Of **654** SCF-funded projects:
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
-| Code4rena | 2 |
-| Zellic | 2 |
-| OpenZeppelin | 2 |
 | CoinFabrik | 2 |
-| Сoinspect | 1 |
-| Cantina | 1 |
+| OpenZeppelin | 2 |
+| Zellic | 2 |
+| Code4rena | 2 |
 | Hacken | 1 |
+| Cantina | 1 |
+| Сoinspect | 1 |
 
 ## Data Sources
 
@@ -118,8 +118,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4044 |
-| Lumen Loop | 3877 |
+| SCF | 4043 |
+| Lumen Loop | 3878 |
 | Stellar Expert | 360 |
 | Soroban Security | 71 |
 | DeFiLlama | 21 |
@@ -128,34 +128,34 @@ How many data points each contributor provides across the directory:
 
 27 items need attention.
 
+**SCF project missing website** (11):
+- wally
+- sendit
+- soroban-optimistic-oracle
+- timed-transactions-api
+- relax
+- frost-implementation
+- paysapp
+- the-starship-soroban
+- net-sdk
+- crypto-link
+- java-stellar-sdk
+
 **description empty** (16):
-- neon-wallet
-- reapp
-- refractor
-- blockroll
 - stabble
-- payala
-- stellar-oracle-shield
-- talwex
+- refractor
+- merkle-science
+- neon-wallet
 - ios-mac-stellar-sdk
+- providencia-onchain
+- blockroll
+- payala
+- talwex
+- terwa
+- net-sdk
+- reapp
+- stellar-oracle-shield
 - fiatsend
 - wellspring
 - java-stellar-sdk
-- terwa
-- merkle-science
-- providencia-onchain
-- net-sdk
-
-**SCF project missing website** (11):
-- soroban-optimistic-oracle
-- sendit
-- timed-transactions-api
-- crypto-link
-- wally
-- frost-implementation
-- java-stellar-sdk
-- paysapp
-- the-starship-soroban
-- relax
-- net-sdk
 

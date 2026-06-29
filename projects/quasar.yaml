@@ -31,10 +31,6 @@ attributes:
     - Finland
   based_in: Finland
 images: null
-scf:
-  awarded_round: []
-  awarded_total: null
-  submission_urls: []
 mainnet:
   audits: []
   tokens: []

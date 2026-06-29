@@ -35,12 +35,6 @@ images:
   icon: https://media.lumenloop.com/projects/boundlessxyz/favicon.svg
   avatar: https://media.lumenloop.com/projects/boundlessxyz/github_avatar.png
   logo: https://media.lumenloop.com/projects/boundlessxyz/logo.svg
-scf:
-  awarded_round:
-    - 40
-  awarded_total: 110000
-  submission_urls:
-    - communityfund.stellar.org/submissions/recfC78Xt0enJyMa3
 mainnet:
   audits: []
   tokens: []

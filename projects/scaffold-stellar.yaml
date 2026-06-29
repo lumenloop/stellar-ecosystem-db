@@ -29,12 +29,12 @@ attributes:
 images: null
 scf:
   awarded_round:
-    - SCF Public Goods - Q2 '26
     - SCF Public Goods - Q1 '26
-  awarded_total: null
+    - SCF Public Goods - Q2 '26
+  awarded_total: 75000
   submission_urls:
-    - communityfund.stellar.org/submissions/recujfzJGp1pibGg2
     - communityfund.stellar.org/submissions/rec001LAtfWVkNsYK
+    - communityfund.stellar.org/submissions/recujfzJGp1pibGg2
 mainnet:
   audits:
     - name: Scaffold Registry Audit Report

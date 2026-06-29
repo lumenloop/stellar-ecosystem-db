@@ -28,10 +28,6 @@ attributes:
     - africa
   based_in: Nigeria
 images: null
-scf:
-  awarded_round: []
-  awarded_total: null
-  submission_urls: []
 mainnet:
   audits: []
   tokens: []

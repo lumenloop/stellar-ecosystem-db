@@ -1,7 +1,7 @@
 title: InveStar
 other_names: null
 parent: null
-description: ''
+description: InveStar is a mobile-first remittance-to-investment platform built on Stellar that connects cross-border USDC transfers directly to brokerage accounts. Targeting the US/MENA–Bangladesh corridor, it enables diaspora users and freelancers to send money home via MoneyGram Ramps (SEP-24) while optionally routing a portion into Dhaka Stock Exchange (DSE) equities or US securities via Alpaca. Custodial Stellar USDC wallets, Horizon SSE event streaming, and a licensed tri-party DSE OMS integration power the remit-to-invest flywheel.
 links:
   website:
     - investarbd.com
@@ -32,7 +32,7 @@ images: null
 scf:
   awarded_round:
     - 43
-  awarded_total: 141325
+  awarded_total: 14133
   submission_urls:
     - communityfund.stellar.org/submissions/recIJ6oxiU1Oy1fxn
 mainnet:

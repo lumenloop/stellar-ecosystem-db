@@ -32,10 +32,6 @@ attributes:
   based_in: Netherlands Antilles
 images:
   icon: https://media.lumenloop.com/projects/coopstable-v2-yield-sharing-stablecoin/favicon.ico
-scf:
-  awarded_round: []
-  awarded_total: null
-  submission_urls: []
 mainnet:
   audits: []
   tokens: []

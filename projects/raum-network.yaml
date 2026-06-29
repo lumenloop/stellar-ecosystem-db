@@ -28,12 +28,6 @@ attributes:
   based_in: India
 images:
   avatar: https://media.lumenloop.com/projects/raum-network/github_avatar.jpg
-scf:
-  awarded_round:
-    - 27
-  awarded_total: 50000
-  submission_urls:
-    - communityfund.stellar.org/submissions/recE9g5g3dHHxuMjq
 mainnet:
   audits: []
   tokens: []

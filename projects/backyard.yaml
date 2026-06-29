@@ -27,11 +27,14 @@ attributes:
   operating_region:
     - Global
   based_in: Poland
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/backyard/backyard-favicon-tgb2mz.svg
+  logo: https://media.lumenloop.com/projects/backyard/backyard-logo-tgb2mv.svg
+  og_image: https://media.lumenloop.com/projects/backyard/backyard-og-tgb2mw.webp
 scf:
   awarded_round:
     - 42
-  awarded_total: 100000
+  awarded_total: 10000
   submission_urls:
     - communityfund.stellar.org/submissions/rec82KrT17FqBpntt
 mainnet:

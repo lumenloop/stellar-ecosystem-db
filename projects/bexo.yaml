@@ -1,12 +1,13 @@
 title: Bexo
 other_names: null
 parent: null
-description: ''
+description: Bexo is a self-custodial USDC wallet and payments super app for Latin America. Users can pay at any QR merchant with pesos or crypto, swap between ARS and USDC at competitive rates, send crypto to other users via $bexotag nickname transfers, and earn yield on USDC through Blend Protocol on Soroban.
 links:
   website:
     - bexo.app
   blog: []
-  x: []
+  x:
+    - bexowallet
   linkedin: []
   discord: []
   telegram: []
@@ -17,10 +18,14 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
-  operating_region: []
-  based_in: null
+  category: Applications
+  tags:
+    - Software Wallet
+    - On-Off Ramp
+    - Stablecoins
+  operating_region:
+    - latam
+  based_in: Argentina
 images: null
 mainnet:
   audits: []
