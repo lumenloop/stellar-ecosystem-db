@@ -101,8 +101,8 @@ Of **654** SCF-funded projects:
 | CoinFabrik | 2 |
 | Code4rena | 2 |
 | Hacken | 1 |
-| Cantina | 1 |
 | Сoinspect | 1 |
+| Cantina | 1 |
 
 ## Data Sources
 
@@ -129,39 +129,39 @@ How many data points each contributor provides across the directory:
 33 items need attention.
 
 **SCF project missing website** (11):
-- wally
-- crypto-link
-- sendit
 - soroban-optimistic-oracle
 - the-starship-soroban
-- paysapp
+- wally
 - java-stellar-sdk
+- crypto-link
 - frost-implementation
 - net-sdk
 - relax
+- sendit
 - timed-transactions-api
+- paysapp
 
 **description empty** (22):
-- fiatsend
-- terwa
-- providencia-onchain
-- ios-mac-stellar-sdk
-- stabble
 - neon-wallet
 - figo
 - fundable
 - stellar-oracle-shield
+- fiatsend
 - java-stellar-sdk
-- payala
 - wellspring
 - blockroll
+- terwa
+- providencia-onchain
 - net-sdk
+- ios-mac-stellar-sdk
 - dig
 - reapp
 - refractor
-- investar
 - merkle-science
 - talwex
+- stabble
+- payala
+- investar
 - proofbridge
 - linq
 

@@ -26,7 +26,9 @@ attributes:
   operating_region:
     - Global
   based_in: null
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/helix/helix-favicon-tgb2no.ico
+  logo: https://media.lumenloop.com/projects/helix/helix-logo-tgb2nm.webp
 scf:
   awarded_round:
     - 41

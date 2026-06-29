@@ -26,7 +26,10 @@ attributes:
   operating_region:
     - North America (without Mexico)
   based_in: United States
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/figure/figure-apple_touch-tgb2nl.webp
+  logo: https://media.lumenloop.com/projects/figure/figure-logo-tgb2nk.webp
+  og_image: https://media.lumenloop.com/projects/figure/figure-og-tgb2nk.webp
 mainnet:
   audits: []
   tokens: []

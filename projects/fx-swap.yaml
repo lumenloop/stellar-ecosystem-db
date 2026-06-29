@@ -25,7 +25,10 @@ attributes:
   operating_region:
     - Global
   based_in: Australia
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/fx-swap/favicon.webp
+  logo: https://media.lumenloop.com/projects/fx-swap/logo.webp
+  og_image: https://media.lumenloop.com/projects/fx-swap/og.webp
 scf:
   awarded_round:
     - 21
