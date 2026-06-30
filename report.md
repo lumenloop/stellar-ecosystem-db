@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-06-29
+> Auto-generated on 2026-06-30
 
 ## Summary
 
@@ -30,8 +30,8 @@
 | github | 534/778 | 68.6% |
 | category | 778/778 | 100% |
 | tags | 763/778 | 98.1% |
-| operating_region | 759/778 | 97.6% |
-| based_in | 703/778 | 90.4% |
+| operating_region | 760/778 | 97.7% |
+| based_in | 704/778 | 90.5% |
 
 ## Enrichment vs SCF Airtable
 
@@ -45,7 +45,7 @@ Per-project comparison of our **778** projects (incl. **129** community projects
 | x | +262 | 283 |
 | linkedin | +195 | 203 |
 | discord | +103 | 107 |
-| based_in | +226 | 477 |
+| based_in | +227 | 477 |
 | blog | +250 | 0 |
 | telegram | +147 | 0 |
 | youtube | +167 | 0 |
@@ -76,11 +76,11 @@ Of **643** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 491 | 504 |
-| Active last week | 132 | 219 |
+| Tracked projects | 491 | 505 |
+| Active last week | 132 | 217 |
 | Active last month | 200 | 281 |
-| Active last 3 months | 255 | 346 |
-| Active last year | 346 | 407 |
+| Active last 3 months | 255 | 347 |
+| Active last year | 346 | 408 |
 
 ## Audit Data
 
@@ -119,7 +119,7 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4038 |
-| Lumen Loop | 3888 |
+| Lumen Loop | 3890 |
 | Stellar Expert | 360 |
 | Soroban Security | 71 |
 | DeFiLlama | 21 |
@@ -128,32 +128,32 @@ How many data points each contributor provides across the directory:
 
 25 items need attention.
 
-**SCF project missing website** (11):
-- relax
-- crypto-link
-- frost-implementation
-- java-stellar-sdk
-- the-starship-soroban
-- soroban-optimistic-oracle
-- timed-transactions-api
-- wally
-- sendit
-- paysapp
-- net-sdk
-
 **description empty** (14):
+- stabble
 - blockroll
-- payala
 - talwex
-- stellar-oracle-shield
 - fiatsend
 - java-stellar-sdk
 - providencia-onchain
+- payala
+- stellar-oracle-shield
 - refractor
 - neon-wallet
 - ios-mac-stellar-sdk
 - wellspring
 - terwa
 - net-sdk
-- stabble
+
+**SCF project missing website** (11):
+- frost-implementation
+- java-stellar-sdk
+- the-starship-soroban
+- relax
+- crypto-link
+- soroban-optimistic-oracle
+- timed-transactions-api
+- wally
+- sendit
+- paysapp
+- net-sdk
 

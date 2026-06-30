@@ -24,8 +24,9 @@ attributes:
     - DeFi
     - DEX
     - Stablecoins
-  operating_region: []
-  based_in: null
+  operating_region:
+    - global
+  based_in: Germany
 images: null
 scf:
   awarded_round:
