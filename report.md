@@ -91,15 +91,15 @@ Of **643** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 24 |
-| OtterSec | 10 |
 | certora | 10 |
+| OtterSec | 10 |
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
 | CoinFabrik | 2 |
-| OpenZeppelin | 2 |
 | Zellic | 2 |
 | Code4rena | 2 |
+| OpenZeppelin | 2 |
 | Cantina | 1 |
 | Hacken | 1 |
 | Сoinspect | 1 |
@@ -118,7 +118,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4036 |
+| SCF | 4035 |
 | Lumen Loop | 3897 |
 | Stellar Expert | 360 |
 | Soroban Security | 71 |
@@ -128,29 +128,29 @@ How many data points each contributor provides across the directory:
 
 22 items need attention.
 
-**SCF project missing website** (11):
-- relax
-- crypto-link
-- soroban-optimistic-oracle
-- timed-transactions-api
-- wally
-- sendit
-- paysapp
-- net-sdk
-- frost-implementation
-- java-stellar-sdk
-- the-starship-soroban
-
 **description empty** (11):
 - stellar-oracle-shield
 - refractor
 - neon-wallet
-- ios-mac-stellar-sdk
 - terwa
-- net-sdk
 - blockroll
 - talwex
 - fiatsend
 - java-stellar-sdk
+- ios-mac-stellar-sdk
+- net-sdk
 - payala
+
+**SCF project missing website** (11):
+- crypto-link
+- soroban-optimistic-oracle
+- relax
+- wally
+- sendit
+- paysapp
+- java-stellar-sdk
+- timed-transactions-api
+- net-sdk
+- frost-implementation
+- the-starship-soroban
 
