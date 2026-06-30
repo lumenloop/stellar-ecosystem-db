@@ -98,11 +98,11 @@ Of **643** SCF-funded projects:
 | Quarkslab | 3 |
 | Code4rena | 2 |
 | Zellic | 2 |
-| OpenZeppelin | 2 |
 | CoinFabrik | 2 |
+| OpenZeppelin | 2 |
 | Сoinspect | 1 |
-| Cantina | 1 |
 | Hacken | 1 |
+| Cantina | 1 |
 
 ## Data Sources
 
@@ -128,24 +128,9 @@ How many data points each contributor provides across the directory:
 
 22 items need attention.
 
-**description empty** (11):
-- blockroll
-- payala
-- terwa
-- neon-wallet
-- ios-mac-stellar-sdk
-- refractor
-- stellar-oracle-shield
-- fiatsend
-- net-sdk
-- talwex
-- java-stellar-sdk
-
 **SCF project missing website** (11):
 - wally
 - relax
-- timed-transactions-api
-- paysapp
 - sendit
 - crypto-link
 - soroban-optimistic-oracle
@@ -153,4 +138,19 @@ How many data points each contributor provides across the directory:
 - frost-implementation
 - net-sdk
 - java-stellar-sdk
+- timed-transactions-api
+- paysapp
+
+**description empty** (11):
+- blockroll
+- neon-wallet
+- ios-mac-stellar-sdk
+- refractor
+- stellar-oracle-shield
+- fiatsend
+- net-sdk
+- payala
+- talwex
+- java-stellar-sdk
+- terwa
 
