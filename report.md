@@ -18,14 +18,14 @@
 | description | 767/778 | 98.6% |
 | website | 766/778 | 98.5% |
 | blog | 251/778 | 32.3% |
-| x | 546/778 | 70.2% |
-| linkedin | 399/778 | 51.3% |
+| x | 545/778 | 70.1% |
+| linkedin | 398/778 | 51.2% |
 | discord | 210/778 | 27% |
 | telegram | 148/778 | 19% |
-| youtube | 168/778 | 21.6% |
-| instagram | 128/778 | 16.5% |
+| youtube | 167/778 | 21.5% |
+| instagram | 127/778 | 16.3% |
 | reddit | 14/778 | 1.8% |
-| tiktok | 36/778 | 4.6% |
+| tiktok | 35/778 | 4.5% |
 | linktree | 5/778 | 0.6% |
 | github | 532/778 | 68.4% |
 | category | 778/778 | 100% |
@@ -42,16 +42,16 @@ Per-project comparison of our **778** projects (incl. **129** community projects
 | description | +190 | 577 |
 | website | +208 | 558 |
 | github | +159 | 373 |
-| x | +263 | 283 |
-| linkedin | +196 | 203 |
+| x | +262 | 283 |
+| linkedin | +195 | 203 |
 | discord | +103 | 107 |
 | based_in | +229 | 477 |
 | blog | +251 | 0 |
 | telegram | +148 | 0 |
-| youtube | +168 | 0 |
-| instagram | +128 | 0 |
+| youtube | +167 | 0 |
+| instagram | +127 | 0 |
 | reddit | +14 | 0 |
-| tiktok | +36 | 0 |
+| tiktok | +35 | 0 |
 | linktree | +5 | 0 |
 
 *"Added" = we filled a field SCF didn't have. "Modified" = SCF had a value, we store a different one.*
@@ -76,11 +76,11 @@ Of **643** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 489 | 505 |
-| Active last week | 133 | 218 |
-| Active last month | 200 | 281 |
-| Active last 3 months | 255 | 347 |
-| Active last year | 346 | 408 |
+| Tracked projects | 489 | 504 |
+| Active last week | 132 | 217 |
+| Active last month | 199 | 280 |
+| Active last 3 months | 254 | 346 |
+| Active last year | 345 | 407 |
 
 ## Audit Data
 
