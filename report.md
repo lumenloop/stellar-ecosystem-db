@@ -17,11 +17,11 @@
 |-------|------:|---------:|
 | description | 767/778 | 98.6% |
 | website | 766/778 | 98.5% |
-| blog | 250/778 | 32.1% |
+| blog | 251/778 | 32.3% |
 | x | 545/778 | 70.1% |
 | linkedin | 398/778 | 51.2% |
 | discord | 210/778 | 27% |
-| telegram | 147/778 | 18.9% |
+| telegram | 148/778 | 19% |
 | youtube | 167/778 | 21.5% |
 | instagram | 127/778 | 16.3% |
 | reddit | 14/778 | 1.8% |
@@ -46,8 +46,8 @@ Per-project comparison of our **778** projects (incl. **129** community projects
 | linkedin | +195 | 203 |
 | discord | +103 | 107 |
 | based_in | +229 | 477 |
-| blog | +250 | 0 |
-| telegram | +147 | 0 |
+| blog | +251 | 0 |
+| telegram | +148 | 0 |
 | youtube | +167 | 0 |
 | instagram | +127 | 0 |
 | reddit | +14 | 0 |
@@ -76,11 +76,11 @@ Of **643** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 489 | 505 |
+| Tracked projects | 489 | 504 |
 | Active last week | 132 | 217 |
-| Active last month | 199 | 281 |
-| Active last 3 months | 254 | 347 |
-| Active last year | 345 | 408 |
+| Active last month | 199 | 280 |
+| Active last 3 months | 254 | 346 |
+| Active last year | 345 | 407 |
 
 ## Audit Data
 
@@ -91,17 +91,17 @@ Of **643** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 24 |
-| OtterSec | 10 |
 | certora | 10 |
+| OtterSec | 10 |
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
+| Code4rena | 2 |
 | CoinFabrik | 2 |
 | Zellic | 2 |
 | OpenZeppelin | 2 |
-| Code4rena | 2 |
-| Cantina | 1 |
 | Hacken | 1 |
+| Cantina | 1 |
 | Сoinspect | 1 |
 
 ## Data Sources
@@ -118,8 +118,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4026 |
-| Lumen Loop | 3898 |
+| Lumen Loop | 3900 |
+| SCF | 3887 |
 | Stellar Expert | 360 |
 | Soroban Security | 71 |
 | DeFiLlama | 21 |
@@ -128,29 +128,29 @@ How many data points each contributor provides across the directory:
 
 22 items need attention.
 
-**SCF project missing website** (11):
-- soroban-optimistic-oracle
-- java-stellar-sdk
-- crypto-link
-- relax
-- wally
-- sendit
-- net-sdk
-- the-starship-soroban
-- paysapp
-- timed-transactions-api
-- frost-implementation
-
 **description empty** (11):
+- neon-wallet
 - fiatsend
 - java-stellar-sdk
-- neon-wallet
 - blockroll
 - ios-mac-stellar-sdk
 - net-sdk
 - payala
-- stellar-oracle-shield
 - terwa
-- refractor
 - talwex
+- stellar-oracle-shield
+- refractor
+
+**SCF project missing website** (11):
+- sendit
+- soroban-optimistic-oracle
+- java-stellar-sdk
+- crypto-link
+- net-sdk
+- the-starship-soroban
+- relax
+- wally
+- paysapp
+- timed-transactions-api
+- frost-implementation
 

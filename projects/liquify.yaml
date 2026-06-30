@@ -2,7 +2,7 @@ title: Liquify
 other_names:
   - Infrastructure Support Liquify
 parent: null
-description: Provide Stellar & Soroban with long-term public RPC endpoints and archival support.
+description: UK-based bare-metal blockchain infrastructure provider focused on performance, decentralisation, uptime, and security.
 links:
   website:
     - liquify.com
@@ -13,7 +13,8 @@ links:
   linkedin: []
   discord: []
   telegram: []
-  youtube: []
+  youtube:
+    - youtube.com/@liquifyltd
   instagram: []
   reddit: []
   tiktok: []
