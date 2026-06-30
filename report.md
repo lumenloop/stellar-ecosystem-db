@@ -15,7 +15,7 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 766/778 | 98.5% |
+| description | 767/778 | 98.6% |
 | website | 766/778 | 98.5% |
 | blog | 250/778 | 32.1% |
 | x | 545/778 | 70.1% |
@@ -29,9 +29,9 @@
 | linktree | 5/778 | 0.6% |
 | github | 534/778 | 68.6% |
 | category | 778/778 | 100% |
-| tags | 763/778 | 98.1% |
+| tags | 765/778 | 98.3% |
 | operating_region | 760/778 | 97.7% |
-| based_in | 705/778 | 90.6% |
+| based_in | 706/778 | 90.7% |
 
 ## Enrichment vs SCF Airtable
 
@@ -39,13 +39,13 @@ Per-project comparison of our **778** projects (incl. **129** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +189 | 577 |
+| description | +190 | 577 |
 | website | +208 | 558 |
 | github | +160 | 374 |
 | x | +262 | 283 |
 | linkedin | +195 | 203 |
 | discord | +103 | 107 |
-| based_in | +228 | 477 |
+| based_in | +229 | 477 |
 | blog | +250 | 0 |
 | telegram | +147 | 0 |
 | youtube | +167 | 0 |
@@ -118,15 +118,15 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4038 |
-| Lumen Loop | 3893 |
+| SCF | 4036 |
+| Lumen Loop | 3897 |
 | Stellar Expert | 360 |
 | Soroban Security | 71 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-23 items need attention.
+22 items need attention.
 
 **SCF project missing website** (11):
 - relax
@@ -141,12 +141,11 @@ How many data points each contributor provides across the directory:
 - java-stellar-sdk
 - the-starship-soroban
 
-**description empty** (12):
+**description empty** (11):
 - stellar-oracle-shield
 - refractor
 - neon-wallet
 - ios-mac-stellar-sdk
-- wellspring
 - terwa
 - net-sdk
 - blockroll

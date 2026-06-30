@@ -21,7 +21,10 @@ links:
     - github.com/blockroll-tech
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Stablecoins
+    - On-Off Ramp
+    - Savings
   operating_region:
     - Sub-Saharan Africa
   based_in: null

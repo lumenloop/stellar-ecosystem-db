@@ -1,7 +1,7 @@
 title: Wellspring
 other_names: null
 parent: null
-description: ''
+description: Wellspring is an institutional treasury management and payments platform enabling businesses to receive fiat and stablecoin payments, custody funds, earn yield (up to 12% APY), and move money globally from a single dashboard. Built on Stellar, it integrates USDC.xlm custody via Turnkey, fiat on/off-ramps through Bridge (a US-regulated Stellar Anchor), and on-chain yield generation via Blend's lending protocol.
 links:
   website:
     - wellspring.money
@@ -19,9 +19,12 @@ links:
     - github.com/trustek-io/wellspring-mvp-treasurymanagement
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Institutional
+    - Stablecoins
+    - Yield
   operating_region: []
-  based_in: null
+  based_in: United States
 images: null
 scf:
   awarded_round:
