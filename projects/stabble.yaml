@@ -1,7 +1,7 @@
 title: Stabble
 other_names: null
 parent: null
-description: ''
+description: Institutional stablecoin liquidity layer, featuring StableSwap invariant curves for near-zero slippage swaps, composable multi-token vaults supporting up to 5 assets, and Soroban-native atomic multi-hop routing.
 links:
   website:
     - stabble.org

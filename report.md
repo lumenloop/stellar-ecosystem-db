@@ -15,7 +15,7 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 764/778 | 98.2% |
+| description | 766/778 | 98.5% |
 | website | 766/778 | 98.5% |
 | blog | 250/778 | 32.1% |
 | x | 545/778 | 70.1% |
@@ -31,7 +31,7 @@
 | category | 778/778 | 100% |
 | tags | 763/778 | 98.1% |
 | operating_region | 760/778 | 97.7% |
-| based_in | 704/778 | 90.5% |
+| based_in | 705/778 | 90.6% |
 
 ## Enrichment vs SCF Airtable
 
@@ -39,13 +39,13 @@ Per-project comparison of our **778** projects (incl. **129** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +187 | 577 |
+| description | +189 | 577 |
 | website | +208 | 558 |
 | github | +160 | 374 |
 | x | +262 | 283 |
 | linkedin | +195 | 203 |
 | discord | +103 | 107 |
-| based_in | +227 | 477 |
+| based_in | +228 | 477 |
 | blog | +250 | 0 |
 | telegram | +147 | 0 |
 | youtube | +167 | 0 |
@@ -100,9 +100,9 @@ Of **643** SCF-funded projects:
 | OpenZeppelin | 2 |
 | Zellic | 2 |
 | Code4rena | 2 |
-| Сoinspect | 1 |
 | Cantina | 1 |
 | Hacken | 1 |
+| Сoinspect | 1 |
 
 ## Data Sources
 
@@ -119,35 +119,16 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 4038 |
-| Lumen Loop | 3890 |
+| Lumen Loop | 3893 |
 | Stellar Expert | 360 |
 | Soroban Security | 71 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-25 items need attention.
-
-**description empty** (14):
-- stabble
-- blockroll
-- talwex
-- fiatsend
-- java-stellar-sdk
-- providencia-onchain
-- payala
-- stellar-oracle-shield
-- refractor
-- neon-wallet
-- ios-mac-stellar-sdk
-- wellspring
-- terwa
-- net-sdk
+23 items need attention.
 
 **SCF project missing website** (11):
-- frost-implementation
-- java-stellar-sdk
-- the-starship-soroban
 - relax
 - crypto-link
 - soroban-optimistic-oracle
@@ -156,4 +137,21 @@ How many data points each contributor provides across the directory:
 - sendit
 - paysapp
 - net-sdk
+- frost-implementation
+- java-stellar-sdk
+- the-starship-soroban
+
+**description empty** (12):
+- stellar-oracle-shield
+- refractor
+- neon-wallet
+- ios-mac-stellar-sdk
+- wellspring
+- terwa
+- net-sdk
+- blockroll
+- talwex
+- fiatsend
+- java-stellar-sdk
+- payala
 

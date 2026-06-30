@@ -1,7 +1,7 @@
 title: Providencia Onchain
 other_names: null
 parent: null
-description: ''
+description: A public transparency and accountability platform bringing Providencia Island's (Colombia) sponsor-funded conservation investments on-chain via the Stellar Disbursement Platform. A joint venture between VIIO (payment infrastructure) and Climate Future (field operations), the platform features a live transparency dashboard, track attribution registry, and reconciliation proof pack — linking every disbursement to its on-chain Stellar transaction hash so sponsors, auditors, and community members can independently verify where each peso went.
 links:
   website:
     - viio.me
@@ -25,7 +25,7 @@ attributes:
     - Eco-Friendly
   operating_region:
     - latam
-  based_in: null
+  based_in: Colombia
 images: null
 scf:
   awarded_round:
