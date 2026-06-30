@@ -1,7 +1,7 @@
 title: TERWA
 other_names: null
 parent: null
-description: ''
+description: TERWA is a Soroban-native RWA vault developed by BTC-WINE, a Bordeaux-based wine merchant active in crypto-native wine trading since 2018. It tokenizes premium wine assets on Stellar, issuing vault participation tokens that represent rights to fine wine production across multiple vintages. Token holders choose between a USDC cash redemption at floor price or physical wine delivery. On-chain appraisals provide transparent, immutable valuation history. The reusable vault template is designed as a repeatable framework for onboarding additional real-world assets onto Stellar.
 links:
   website:
     - btc-wine.com
@@ -19,9 +19,13 @@ links:
     - github.com/btc-wine/terwa-rwa-vault
 attributes:
   category: Financial Protocols
-  tags: []
-  operating_region: []
-  based_in: null
+  tags:
+    - RWA
+    - Tokenization
+    - Fractional Ownership
+  operating_region:
+    - global
+  based_in: France
 images: null
 scf:
   awarded_round:

@@ -1,7 +1,7 @@
 title: Blockroll
 other_names: null
 parent: null
-description: ''
+description: Blockroll is Nigeria's first stablecoin wealth platform on Stellar, combining USDC payments, on-chain yield via DeFindex vaults, and a Visa card funded from Stellar USDC balances. Nigerian freelancers can receive international fiat (USD, EUR, GBP) directly into USDC via Bridge virtual accounts, earn yield on idle savings, and off-ramp to NGN via SEP-24 anchors (Linkio). All user wallets are Stellar-native MPC accounts provisioned via DFNS.
 links:
   website:
     - blockroll.app
@@ -27,7 +27,7 @@ attributes:
     - Savings
   operating_region:
     - Sub-Saharan Africa
-  based_in: null
+  based_in: Nigeria
 images: null
 scf:
   awarded_round:

@@ -9,13 +9,13 @@
 | Total projects | **778** |
 | SCF-funded projects | 643 |
 | Community projects | 135 |
-| Audited projects | 53 |
+| Audited projects | 52 |
 
 ## Data Coverage
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 767/778 | 98.6% |
+| description | 769/778 | 98.8% |
 | website | 766/778 | 98.5% |
 | blog | 251/778 | 32.3% |
 | x | 545/778 | 70.1% |
@@ -29,9 +29,9 @@
 | linktree | 5/778 | 0.6% |
 | github | 532/778 | 68.4% |
 | category | 778/778 | 100% |
-| tags | 765/778 | 98.3% |
-| operating_region | 760/778 | 97.7% |
-| based_in | 706/778 | 90.7% |
+| tags | 766/778 | 98.5% |
+| operating_region | 762/778 | 97.9% |
+| based_in | 708/778 | 91% |
 
 ## Enrichment vs SCF Airtable
 
@@ -39,13 +39,13 @@ Per-project comparison of our **778** projects (incl. **129** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +190 | 577 |
+| description | +192 | 577 |
 | website | +208 | 558 |
 | github | +159 | 373 |
 | x | +262 | 283 |
 | linkedin | +195 | 203 |
 | discord | +103 | 107 |
-| based_in | +229 | 477 |
+| based_in | +231 | 477 |
 | blog | +251 | 0 |
 | telegram | +148 | 0 |
 | youtube | +167 | 0 |
@@ -84,7 +84,7 @@ Of **643** SCF-funded projects:
 
 ## Audit Data
 
-**53** projects audited with **71** reports.
+**52** projects audited with **69** reports.
 
 *Audit data provided by [Soroban Security](https://sorobansecurity.com).*
 
@@ -92,17 +92,16 @@ Of **643** SCF-funded projects:
 |---------|---------:|
 | Veridise | 24 |
 | OtterSec | 10 |
-| certora | 10 |
+| certora | 9 |
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
-| Code4rena | 2 |
-| Zellic | 2 |
-| CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Сoinspect | 1 |
+| Zellic | 2 |
+| Code4rena | 2 |
+| CoinFabrik | 2 |
 | Hacken | 1 |
-| Cantina | 1 |
+| Сoinspect | 1 |
 
 ## Data Sources
 
@@ -118,17 +117,18 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 3906 |
-| SCF | 3707 |
+| Lumen Loop | 3913 |
+| SCF | 3706 |
 | Stellar Expert | 360 |
-| Soroban Security | 71 |
+| Soroban Security | 69 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-22 items need attention.
+20 items need attention.
 
 **SCF project missing website** (11):
+- timed-transactions-api
 - wally
 - relax
 - sendit
@@ -138,11 +138,9 @@ How many data points each contributor provides across the directory:
 - frost-implementation
 - net-sdk
 - java-stellar-sdk
-- timed-transactions-api
 - paysapp
 
-**description empty** (11):
-- blockroll
+**description empty** (9):
 - neon-wallet
 - ios-mac-stellar-sdk
 - refractor
@@ -152,5 +150,4 @@ How many data points each contributor provides across the directory:
 - payala
 - talwex
 - java-stellar-sdk
-- terwa
 
