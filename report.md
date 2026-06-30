@@ -27,7 +27,7 @@
 | reddit | 14/778 | 1.8% |
 | tiktok | 35/778 | 4.5% |
 | linktree | 5/778 | 0.6% |
-| github | 534/778 | 68.6% |
+| github | 533/778 | 68.5% |
 | category | 778/778 | 100% |
 | tags | 765/778 | 98.3% |
 | operating_region | 760/778 | 97.7% |
@@ -41,7 +41,7 @@ Per-project comparison of our **778** projects (incl. **129** community projects
 |-------|------:|------:|
 | description | +190 | 577 |
 | website | +208 | 558 |
-| github | +160 | 374 |
+| github | +159 | 374 |
 | x | +262 | 283 |
 | linkedin | +195 | 203 |
 | discord | +103 | 107 |
@@ -66,7 +66,7 @@ Of **643** SCF-funded projects:
 | awarded_round | 643/643 | 100% |
 | submission_urls | 643/643 | 100% |
 | website | 632/643 | 98.3% |
-| github | 471/643 | 73.3% |
+| github | 470/643 | 73.1% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -76,11 +76,11 @@ Of **643** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 491 | 505 |
+| Tracked projects | 490 | 505 |
 | Active last week | 132 | 217 |
-| Active last month | 200 | 281 |
-| Active last 3 months | 255 | 347 |
-| Active last year | 346 | 408 |
+| Active last month | 199 | 281 |
+| Active last 3 months | 254 | 347 |
+| Active last year | 345 | 408 |
 
 ## Audit Data
 
@@ -91,15 +91,15 @@ Of **643** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 24 |
-| OtterSec | 10 |
 | certora | 10 |
+| OtterSec | 10 |
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
-| OpenZeppelin | 2 |
 | CoinFabrik | 2 |
 | Zellic | 2 |
 | Code4rena | 2 |
+| OpenZeppelin | 2 |
 | Cantina | 1 |
 | Hacken | 1 |
 | Сoinspect | 1 |
@@ -118,7 +118,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4032 |
+| SCF | 4031 |
 | Lumen Loop | 3897 |
 | Stellar Expert | 360 |
 | Soroban Security | 71 |
@@ -129,28 +129,28 @@ How many data points each contributor provides across the directory:
 22 items need attention.
 
 **SCF project missing website** (11):
-- soroban-optimistic-oracle
-- sendit
-- the-starship-soroban
 - wally
+- soroban-optimistic-oracle
 - java-stellar-sdk
 - crypto-link
 - relax
+- net-sdk
+- sendit
+- the-starship-soroban
 - paysapp
 - timed-transactions-api
-- net-sdk
 - frost-implementation
 
 **description empty** (11):
-- neon-wallet
-- terwa
-- refractor
 - blockroll
 - talwex
 - stellar-oracle-shield
 - fiatsend
 - java-stellar-sdk
+- neon-wallet
 - ios-mac-stellar-sdk
 - net-sdk
 - payala
+- terwa
+- refractor
 

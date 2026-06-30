@@ -13,14 +13,14 @@ links:
     - linkedin.com/company/codeln
   discord: []
   telegram: []
-  youtube: []
+  youtube:
+    - youtube.com/channel/UCJc8rd10wkhX2c1Htg4aF0Q
   instagram:
     - codeln_spaces
   reddit: []
   tiktok: []
   linktree: []
-  github:
-    - github.com/codelnghana/codelnpay-project
+  github: []
 attributes:
   category: Applications
   tags:
