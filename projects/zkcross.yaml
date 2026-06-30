@@ -17,14 +17,14 @@ links:
     - discord.zkcross.network
   telegram:
     - t.me/zkcrossnetwork
-  youtube: []
+  youtube:
+    - youtube.com/@zkcrossnetwork
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
   github:
     - github.com/zkcross-network
-    - github.com/dev-zkcross/sorobancontract_stellar_zkcrossdex
 attributes:
   category: Financial Protocols
   tags:
