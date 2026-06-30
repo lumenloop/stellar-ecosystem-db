@@ -38,9 +38,11 @@ images:
   logo: https://media.lumenloop.com/projects/inference/logo.svg
 scf:
   awarded_round:
+    - 39
     - 41
-  awarded_total: 60000
+  awarded_total: 209730
   submission_urls:
+    - communityfund.stellar.org/submissions/recXo2i8gaESnXd2Y
     - communityfund.stellar.org/submissions/recNoycw142XsaEvq
 mainnet:
   audits: []
