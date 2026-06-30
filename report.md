@@ -96,10 +96,10 @@ Of **643** SCF-funded projects:
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
-| OpenZeppelin | 2 |
 | CoinFabrik | 2 |
-| Zellic | 2 |
 | Code4rena | 2 |
+| Zellic | 2 |
+| OpenZeppelin | 2 |
 | Сoinspect | 1 |
 | Cantina | 1 |
 | Hacken | 1 |
@@ -128,23 +128,9 @@ How many data points each contributor provides across the directory:
 
 22 items need attention.
 
-**SCF project missing website** (11):
-- soroban-optimistic-oracle
-- net-sdk
-- wally
-- relax
-- timed-transactions-api
-- paysapp
-- sendit
-- java-stellar-sdk
-- crypto-link
-- the-starship-soroban
-- frost-implementation
-
 **description empty** (11):
 - fiatsend
 - blockroll
-- net-sdk
 - payala
 - terwa
 - talwex
@@ -153,4 +139,18 @@ How many data points each contributor provides across the directory:
 - ios-mac-stellar-sdk
 - refractor
 - stellar-oracle-shield
+- net-sdk
+
+**SCF project missing website** (11):
+- wally
+- relax
+- timed-transactions-api
+- paysapp
+- sendit
+- java-stellar-sdk
+- crypto-link
+- soroban-optimistic-oracle
+- the-starship-soroban
+- frost-implementation
+- net-sdk
 
