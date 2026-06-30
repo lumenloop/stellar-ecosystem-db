@@ -129,28 +129,28 @@ How many data points each contributor provides across the directory:
 22 items need attention.
 
 **SCF project missing website** (11):
-- soroban-optimistic-oracle
 - crypto-link
+- the-starship-soroban
+- frost-implementation
+- soroban-optimistic-oracle
 - net-sdk
 - wally
-- the-starship-soroban
 - relax
 - timed-transactions-api
 - paysapp
-- frost-implementation
 - sendit
 - java-stellar-sdk
 
 **description empty** (11):
+- refractor
+- stellar-oracle-shield
 - fiatsend
 - blockroll
 - net-sdk
 - payala
 - terwa
 - talwex
-- refractor
 - neon-wallet
 - java-stellar-sdk
 - ios-mac-stellar-sdk
-- stellar-oracle-shield
 
