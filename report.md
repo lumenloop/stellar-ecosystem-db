@@ -76,8 +76,8 @@ Of **643** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 489 | 504 |
-| Active last week | 132 | 217 |
+| Tracked projects | 489 | 505 |
+| Active last week | 131 | 215 |
 | Active last month | 199 | 280 |
 | Active last 3 months | 254 | 346 |
 | Active last year | 345 | 407 |
@@ -96,10 +96,10 @@ Of **643** SCF-funded projects:
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
-| CoinFabrik | 2 |
 | Code4rena | 2 |
 | Zellic | 2 |
 | OpenZeppelin | 2 |
+| CoinFabrik | 2 |
 | Сoinspect | 1 |
 | Cantina | 1 |
 | Hacken | 1 |
@@ -129,17 +129,17 @@ How many data points each contributor provides across the directory:
 22 items need attention.
 
 **description empty** (11):
-- fiatsend
 - blockroll
 - payala
 - terwa
-- talwex
 - neon-wallet
-- java-stellar-sdk
 - ios-mac-stellar-sdk
 - refractor
 - stellar-oracle-shield
+- fiatsend
 - net-sdk
+- talwex
+- java-stellar-sdk
 
 **SCF project missing website** (11):
 - wally
@@ -147,10 +147,10 @@ How many data points each contributor provides across the directory:
 - timed-transactions-api
 - paysapp
 - sendit
-- java-stellar-sdk
 - crypto-link
 - soroban-optimistic-oracle
 - the-starship-soroban
 - frost-implementation
 - net-sdk
+- java-stellar-sdk
 
