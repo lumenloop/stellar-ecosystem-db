@@ -15,10 +15,10 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 771/778 | 99.1% |
+| description | 772/778 | 99.2% |
 | website | 766/778 | 98.5% |
 | blog | 251/778 | 32.3% |
-| x | 546/778 | 70.2% |
+| x | 547/778 | 70.3% |
 | linkedin | 398/778 | 51.2% |
 | discord | 210/778 | 27% |
 | telegram | 148/778 | 19% |
@@ -29,7 +29,7 @@
 | linktree | 5/778 | 0.6% |
 | github | 532/778 | 68.4% |
 | category | 778/778 | 100% |
-| tags | 768/778 | 98.7% |
+| tags | 769/778 | 98.8% |
 | operating_region | 762/778 | 97.9% |
 | based_in | 708/778 | 91% |
 
@@ -39,10 +39,10 @@ Per-project comparison of our **778** projects (incl. **129** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +194 | 577 |
+| description | +195 | 577 |
 | website | +208 | 558 |
 | github | +159 | 373 |
-| x | +263 | 283 |
+| x | +264 | 283 |
 | linkedin | +195 | 203 |
 | discord | +103 | 107 |
 | based_in | +231 | 477 |
@@ -117,15 +117,15 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 3918 |
-| SCF | 3704 |
+| Lumen Loop | 3921 |
+| SCF | 3703 |
 | Stellar Expert | 360 |
 | Soroban Security | 69 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-18 items need attention.
+17 items need attention.
 
 **SCF project missing website** (11):
 - wally
@@ -140,8 +140,7 @@ How many data points each contributor provides across the directory:
 - paysapp
 - timed-transactions-api
 
-**description empty** (7):
-- neon-wallet
+**description empty** (6):
 - ios-mac-stellar-sdk
 - stellar-oracle-shield
 - fiatsend

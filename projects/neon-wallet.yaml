@@ -1,12 +1,13 @@
 title: Neon Wallet
 other_names: null
 parent: null
-description: ''
+description: Neon Wallet is a fast, secure, and open-source self-custody desktop wallet by City of Zion (COZ), enabling users to manage digital assets across multiple blockchains including Stellar, Ethereum, and NEO. Available on Windows, macOS, and Linux.
 links:
   website:
     - coz.io/neon-wallet
   blog: []
-  x: []
+  x:
+    - coz_official
   linkedin: []
   discord: []
   telegram: []
@@ -19,7 +20,9 @@ links:
     - github.com/cityofzion/neon-wallet-desktop
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Software Wallet
+    - Multi-Chain
   operating_region: []
   based_in: Brazil
 images: null
