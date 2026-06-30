@@ -15,7 +15,7 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 772/778 | 99.2% |
+| description | 773/778 | 99.4% |
 | website | 766/778 | 98.5% |
 | blog | 251/778 | 32.3% |
 | x | 547/778 | 70.3% |
@@ -29,8 +29,8 @@
 | linktree | 5/778 | 0.6% |
 | github | 532/778 | 68.4% |
 | category | 778/778 | 100% |
-| tags | 769/778 | 98.8% |
-| operating_region | 762/778 | 97.9% |
+| tags | 770/778 | 99% |
+| operating_region | 763/778 | 98.1% |
 | based_in | 708/778 | 91% |
 
 ## Enrichment vs SCF Airtable
@@ -39,7 +39,7 @@ Per-project comparison of our **778** projects (incl. **129** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +195 | 577 |
+| description | +196 | 577 |
 | website | +208 | 558 |
 | github | +159 | 373 |
 | x | +264 | 283 |
@@ -117,21 +117,20 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 3921 |
-| SCF | 3703 |
+| Lumen Loop | 3924 |
+| SCF | 3702 |
 | Stellar Expert | 360 |
 | Soroban Security | 69 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-17 items need attention.
+16 items need attention.
 
 **SCF project missing website** (11):
 - wally
 - relax
 - sendit
-- crypto-link
 - soroban-optimistic-oracle
 - the-starship-soroban
 - frost-implementation
@@ -139,12 +138,12 @@ How many data points each contributor provides across the directory:
 - java-stellar-sdk
 - paysapp
 - timed-transactions-api
+- crypto-link
 
-**description empty** (6):
+**description empty** (5):
 - ios-mac-stellar-sdk
 - stellar-oracle-shield
 - fiatsend
 - net-sdk
-- payala
 - java-stellar-sdk
 

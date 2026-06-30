@@ -1,7 +1,7 @@
 title: Payala
 other_names: null
 parent: null
-description: ''
+description: Payala enables secure digital payments without internet connectivity, using Smart Cards and NFC-enabled smartphones with a patented cryptographic protocol (US10885519B1) that prevents double-spending. Integrated with Stellar via SEP-10 and Soroban smart contracts, it extends financial access to unbanked and underserved populations in rural and low-connectivity environments across the developing world.
 links:
   website:
     - payala.com
@@ -20,8 +20,15 @@ links:
     - github.com/financial-empowerment-partners/impala
 attributes:
   category: Financial Protocols
-  tags: []
-  operating_region: []
+  tags:
+    - Payments
+    - Unbanked
+    - Mobile
+  operating_region:
+    - South Pacific
+    - Central Africa
+    - Middle East
+    - South Asia
   based_in: Germany
 images: null
 scf:
