@@ -91,18 +91,18 @@ Of **643** SCF-funded projects:
 | Auditor | Reports |
 |---------|---------:|
 | Veridise | 24 |
-| certora | 10 |
 | OtterSec | 10 |
+| certora | 10 |
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
 | Code4rena | 2 |
-| Zellic | 2 |
 | OpenZeppelin | 2 |
 | CoinFabrik | 2 |
+| Zellic | 2 |
 | Hacken | 1 |
-| Cantina | 1 |
 | Сoinspect | 1 |
+| Cantina | 1 |
 
 ## Data Sources
 
@@ -130,8 +130,6 @@ How many data points each contributor provides across the directory:
 
 **SCF project missing website** (11):
 - soroban-optimistic-oracle
-- sendit
-- java-stellar-sdk
 - crypto-link
 - net-sdk
 - wally
@@ -140,12 +138,10 @@ How many data points each contributor provides across the directory:
 - timed-transactions-api
 - paysapp
 - frost-implementation
+- sendit
+- java-stellar-sdk
 
 **description empty** (11):
-- neon-wallet
-- java-stellar-sdk
-- ios-mac-stellar-sdk
-- stellar-oracle-shield
 - fiatsend
 - blockroll
 - net-sdk
@@ -153,4 +149,8 @@ How many data points each contributor provides across the directory:
 - terwa
 - talwex
 - refractor
+- neon-wallet
+- java-stellar-sdk
+- ios-mac-stellar-sdk
+- stellar-oracle-shield
 
