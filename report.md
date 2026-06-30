@@ -118,7 +118,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4035 |
+| SCF | 4034 |
 | Lumen Loop | 3897 |
 | Stellar Expert | 360 |
 | Soroban Security | 71 |
