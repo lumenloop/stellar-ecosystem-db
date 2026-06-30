@@ -27,7 +27,7 @@
 | reddit | 14/778 | 1.8% |
 | tiktok | 35/778 | 4.5% |
 | linktree | 5/778 | 0.6% |
-| github | 533/778 | 68.5% |
+| github | 532/778 | 68.4% |
 | category | 778/778 | 100% |
 | tags | 765/778 | 98.3% |
 | operating_region | 760/778 | 97.7% |
@@ -41,7 +41,7 @@ Per-project comparison of our **778** projects (incl. **129** community projects
 |-------|------:|------:|
 | description | +190 | 577 |
 | website | +208 | 558 |
-| github | +159 | 374 |
+| github | +159 | 373 |
 | x | +262 | 283 |
 | linkedin | +195 | 203 |
 | discord | +103 | 107 |
@@ -66,7 +66,7 @@ Of **643** SCF-funded projects:
 | awarded_round | 643/643 | 100% |
 | submission_urls | 643/643 | 100% |
 | website | 632/643 | 98.3% |
-| github | 470/643 | 73.1% |
+| github | 469/643 | 72.9% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -76,7 +76,7 @@ Of **643** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 490 | 505 |
+| Tracked projects | 489 | 505 |
 | Active last week | 132 | 217 |
 | Active last month | 199 | 281 |
 | Active last 3 months | 254 | 347 |
@@ -118,8 +118,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| SCF | 4031 |
-| Lumen Loop | 3897 |
+| SCF | 4029 |
+| Lumen Loop | 3898 |
 | Stellar Expert | 360 |
 | Soroban Security | 71 |
 | DeFiLlama | 21 |

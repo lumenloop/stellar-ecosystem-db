@@ -15,15 +15,15 @@ links:
     - discord.gg/ktpp9ebxxr
   telegram:
     - t.me/community_coinsender
-  youtube: []
+  youtube:
+    - youtube.com/@coinsender
   instagram:
     - coin_sender
   reddit:
     - r/coinsender
   tiktok: []
   linktree: []
-  github:
-    - github.com/megadev-ou/cs-payments
+  github: []
 attributes:
   category: Applications
   tags:
