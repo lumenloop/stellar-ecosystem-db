@@ -1,7 +1,7 @@
 title: Refractor
 other_names: null
 parent: null
-description: ''
+description: Pending transaction storage and multisig signature aggregator for Stellar Network. Stores unsigned or partially-signed transactions and coordinates multiple signers to meet signing thresholds, with auto-submit and callback support. Useful for escrow, derivatives, P2P lending, and other multisig-based workflows on Stellar.
 links:
   website:
     - refractor.space
@@ -19,7 +19,10 @@ links:
     - github.com/stellar-expert/refractor
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - Multi Signatures
+    - Storage
+    - Infrastructure
   operating_region: []
   based_in: null
 images: null

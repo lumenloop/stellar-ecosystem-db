@@ -1,12 +1,13 @@
 title: Talwex
 other_names: null
 parent: null
-description: ''
+description: Bond infrastructure platform built on Stellar and Soroban. Talwex enables institutions to issue, operate, trade, and earn yield from real-world corporate bonds — with regulatory-grade KYC/AML compliance, automated coupon distribution in USDC, proof-of-reserve attestation, and a secondary market for tokenized bonds.
 links:
   website:
     - talwex.com
   blog: []
-  x: []
+  x:
+    - x.com
   linkedin: []
   discord: []
   telegram: []
@@ -19,7 +20,10 @@ links:
     - github.com/talwex-inc/stellar-vault
 attributes:
   category: Financial Protocols
-  tags: []
+  tags:
+    - RWA
+    - Tokenization
+    - Institutional
   operating_region: []
   based_in: null
 images: null

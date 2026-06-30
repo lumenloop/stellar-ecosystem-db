@@ -15,10 +15,10 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 769/778 | 98.8% |
+| description | 771/778 | 99.1% |
 | website | 766/778 | 98.5% |
 | blog | 251/778 | 32.3% |
-| x | 545/778 | 70.1% |
+| x | 546/778 | 70.2% |
 | linkedin | 398/778 | 51.2% |
 | discord | 210/778 | 27% |
 | telegram | 148/778 | 19% |
@@ -29,7 +29,7 @@
 | linktree | 5/778 | 0.6% |
 | github | 532/778 | 68.4% |
 | category | 778/778 | 100% |
-| tags | 766/778 | 98.5% |
+| tags | 768/778 | 98.7% |
 | operating_region | 762/778 | 97.9% |
 | based_in | 708/778 | 91% |
 
@@ -39,10 +39,10 @@ Per-project comparison of our **778** projects (incl. **129** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +192 | 577 |
+| description | +194 | 577 |
 | website | +208 | 558 |
 | github | +159 | 373 |
-| x | +262 | 283 |
+| x | +263 | 283 |
 | linkedin | +195 | 203 |
 | discord | +103 | 107 |
 | based_in | +231 | 477 |
@@ -96,12 +96,12 @@ Of **643** SCF-funded projects:
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
-| OpenZeppelin | 2 |
-| Zellic | 2 |
 | Code4rena | 2 |
+| Zellic | 2 |
 | CoinFabrik | 2 |
-| Hacken | 1 |
+| OpenZeppelin | 2 |
 | Сoinspect | 1 |
+| Hacken | 1 |
 
 ## Data Sources
 
@@ -117,18 +117,17 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 3913 |
-| SCF | 3706 |
+| Lumen Loop | 3918 |
+| SCF | 3704 |
 | Stellar Expert | 360 |
 | Soroban Security | 69 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-20 items need attention.
+18 items need attention.
 
 **SCF project missing website** (11):
-- timed-transactions-api
 - wally
 - relax
 - sendit
@@ -139,15 +138,14 @@ How many data points each contributor provides across the directory:
 - net-sdk
 - java-stellar-sdk
 - paysapp
+- timed-transactions-api
 
-**description empty** (9):
+**description empty** (7):
 - neon-wallet
 - ios-mac-stellar-sdk
-- refractor
 - stellar-oracle-shield
 - fiatsend
 - net-sdk
 - payala
-- talwex
 - java-stellar-sdk
 
