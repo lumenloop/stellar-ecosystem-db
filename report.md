@@ -18,7 +18,7 @@
 | description | 778/778 | 100% |
 | website | 767/778 | 98.6% |
 | blog | 251/778 | 32.3% |
-| x | 547/778 | 70.3% |
+| x | 548/778 | 70.4% |
 | linkedin | 400/778 | 51.4% |
 | discord | 211/778 | 27.1% |
 | telegram | 148/778 | 19% |
@@ -29,7 +29,7 @@
 | linktree | 5/778 | 0.6% |
 | github | 534/778 | 68.6% |
 | category | 778/778 | 100% |
-| tags | 775/778 | 99.6% |
+| tags | 776/778 | 99.7% |
 | operating_region | 768/778 | 98.7% |
 | based_in | 713/778 | 91.6% |
 
@@ -42,7 +42,7 @@ Per-project comparison of our **778** projects (incl. **129** community projects
 | description | +201 | 577 |
 | website | +209 | 558 |
 | github | +161 | 373 |
-| x | +264 | 283 |
+| x | +265 | 283 |
 | linkedin | +197 | 203 |
 | discord | +104 | 107 |
 | based_in | +236 | 477 |
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 3956 |
+| Lumen Loop | 3958 |
 | SCF | 3690 |
 | Stellar Expert | 360 |
 | Soroban Security | 69 |

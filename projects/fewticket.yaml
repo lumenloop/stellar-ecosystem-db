@@ -6,7 +6,8 @@ links:
   website:
     - fewticket.com
   blog: []
-  x: []
+  x:
+    - fewticket
   linkedin:
     - linkedin.com/company/fewticket
   discord: []
@@ -20,7 +21,10 @@ links:
     - github.com/few-digital-services/fewticket-stellar-bridge
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Payments
+    - Mobile
+    - Marketplace
   operating_region:
     - Africa
   based_in: Nigeria
