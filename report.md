@@ -30,8 +30,8 @@
 | github | 535/778 | 68.8% |
 | category | 778/778 | 100% |
 | tags | 778/778 | 100% |
-| operating_region | 768/778 | 98.7% |
-| based_in | 713/778 | 91.6% |
+| operating_region | 769/778 | 98.8% |
+| based_in | 714/778 | 91.8% |
 
 ## Enrichment vs SCF Airtable
 
@@ -45,7 +45,7 @@ Per-project comparison of our **778** projects (incl. **129** community projects
 | x | +266 | 283 |
 | linkedin | +197 | 203 |
 | discord | +104 | 107 |
-| based_in | +236 | 477 |
+| based_in | +237 | 477 |
 | blog | +251 | 0 |
 | telegram | +148 | 0 |
 | youtube | +167 | 0 |
@@ -76,11 +76,11 @@ Of **643** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 491 | 506 |
-| Active last week | 137 | 229 |
-| Active last month | 201 | 284 |
-| Active last 3 months | 256 | 347 |
-| Active last year | 347 | 407 |
+| Tracked projects | 491 | 507 |
+| Active last week | 137 | 230 |
+| Active last month | 201 | 285 |
+| Active last 3 months | 256 | 348 |
+| Active last year | 347 | 408 |
 
 ## Audit Data
 
@@ -96,12 +96,12 @@ Of **643** SCF-funded projects:
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
-| Zellic | 2 |
-| CoinFabrik | 2 |
 | Code4rena | 2 |
 | OpenZeppelin | 2 |
-| Сoinspect | 1 |
+| Zellic | 2 |
+| CoinFabrik | 2 |
 | Hacken | 1 |
+| Сoinspect | 1 |
 
 ## Data Sources
 
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 3962 |
+| Lumen Loop | 3964 |
 | SCF | 3688 |
 | Stellar Expert | 360 |
 | Soroban Security | 69 |
@@ -128,8 +128,6 @@ How many data points each contributor provides across the directory:
 10 items need attention.
 
 **SCF project missing website** (10):
-- the-starship-soroban
-- frost-implementation
 - timed-transactions-api
 - sendit
 - wally
@@ -138,4 +136,6 @@ How many data points each contributor provides across the directory:
 - relax
 - crypto-link
 - paysapp
+- the-starship-soroban
+- frost-implementation
 

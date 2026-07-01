@@ -24,8 +24,9 @@ attributes:
     - Tokenization
     - RWA
     - Institutional
-  operating_region: []
-  based_in: null
+  operating_region:
+    - global
+  based_in: Austria
 images: null
 scf:
   awarded_round:
