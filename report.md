@@ -15,7 +15,7 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 774/778 | 99.5% |
+| description | 775/778 | 99.6% |
 | website | 766/778 | 98.5% |
 | blog | 251/778 | 32.3% |
 | x | 547/778 | 70.3% |
@@ -29,7 +29,7 @@
 | linktree | 5/778 | 0.6% |
 | github | 533/778 | 68.5% |
 | category | 778/778 | 100% |
-| tags | 771/778 | 99.1% |
+| tags | 772/778 | 99.2% |
 | operating_region | 763/778 | 98.1% |
 | based_in | 708/778 | 91% |
 
@@ -39,7 +39,7 @@ Per-project comparison of our **778** projects (incl. **129** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +197 | 577 |
+| description | +198 | 577 |
 | website | +208 | 558 |
 | github | +160 | 373 |
 | x | +264 | 283 |
@@ -96,12 +96,12 @@ Of **643** SCF-funded projects:
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
+| CoinFabrik | 2 |
 | Zellic | 2 |
 | Code4rena | 2 |
-| CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Сoinspect | 1 |
 | Hacken | 1 |
+| Сoinspect | 1 |
 
 ## Data Sources
 
@@ -117,32 +117,31 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 3933 |
-| SCF | 3695 |
+| Lumen Loop | 3935 |
+| SCF | 3694 |
 | Stellar Expert | 360 |
 | Soroban Security | 69 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-15 items need attention.
+14 items need attention.
 
 **SCF project missing website** (11):
-- sendit
 - the-starship-soroban
 - frost-implementation
 - net-sdk
 - java-stellar-sdk
 - timed-transactions-api
-- relax
+- sendit
 - wally
 - soroban-optimistic-oracle
+- relax
 - paysapp
 - crypto-link
 
-**description empty** (4):
+**description empty** (3):
 - stellar-oracle-shield
 - net-sdk
 - java-stellar-sdk
-- ios-mac-stellar-sdk
 
