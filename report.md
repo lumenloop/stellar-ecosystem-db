@@ -16,7 +16,7 @@
 | Field | Count | Coverage |
 |-------|------:|---------:|
 | description | 775/778 | 99.6% |
-| website | 766/778 | 98.5% |
+| website | 767/778 | 98.6% |
 | blog | 251/778 | 32.3% |
 | x | 547/778 | 70.3% |
 | linkedin | 398/778 | 51.2% |
@@ -29,7 +29,7 @@
 | linktree | 5/778 | 0.6% |
 | github | 533/778 | 68.5% |
 | category | 778/778 | 100% |
-| tags | 772/778 | 99.2% |
+| tags | 773/778 | 99.4% |
 | operating_region | 763/778 | 98.1% |
 | based_in | 708/778 | 91% |
 
@@ -40,7 +40,7 @@ Per-project comparison of our **778** projects (incl. **129** community projects
 | Field | We Added | We Modified |
 |-------|------:|------:|
 | description | +198 | 577 |
-| website | +208 | 558 |
+| website | +209 | 558 |
 | github | +160 | 373 |
 | x | +264 | 283 |
 | linkedin | +195 | 203 |
@@ -65,7 +65,7 @@ Of **643** SCF-funded projects:
 | awarded_total | 640/643 | 99.5% |
 | awarded_round | 643/643 | 100% |
 | submission_urls | 643/643 | 100% |
-| website | 632/643 | 98.3% |
+| website | 633/643 | 98.4% |
 | github | 470/643 | 73.1% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
@@ -96,12 +96,12 @@ Of **643** SCF-funded projects:
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
-| CoinFabrik | 2 |
-| Zellic | 2 |
 | Code4rena | 2 |
+| Zellic | 2 |
+| CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Hacken | 1 |
 | Сoinspect | 1 |
+| Hacken | 1 |
 
 ## Data Sources
 
@@ -117,31 +117,30 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 3935 |
-| SCF | 3694 |
+| Lumen Loop | 3937 |
+| SCF | 3693 |
 | Stellar Expert | 360 |
 | Soroban Security | 69 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-14 items need attention.
+13 items need attention.
 
-**SCF project missing website** (11):
+**description empty** (3):
+- java-stellar-sdk
+- stellar-oracle-shield
+- net-sdk
+
+**SCF project missing website** (10):
+- relax
+- paysapp
+- crypto-link
 - the-starship-soroban
 - frost-implementation
 - net-sdk
-- java-stellar-sdk
 - timed-transactions-api
 - sendit
 - wally
 - soroban-optimistic-oracle
-- relax
-- paysapp
-- crypto-link
-
-**description empty** (3):
-- stellar-oracle-shield
-- net-sdk
-- java-stellar-sdk
 

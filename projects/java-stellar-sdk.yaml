@@ -3,7 +3,8 @@ other_names: null
 parent: null
 description: ''
 links:
-  website: []
+  website:
+    - lightsail.network
   blog: []
   x: []
   linkedin: []
@@ -18,7 +19,10 @@ links:
     - github.com/lightsail-network/java-stellar-sdk
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - SDK
+    - Library
+    - API
   operating_region: []
   based_in: null
 images: null
