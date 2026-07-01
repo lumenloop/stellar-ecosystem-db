@@ -15,10 +15,14 @@ links:
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/lightsail-network
 attributes:
   category: Infrastructure & Services
-  tags: []
+  tags:
+    - Wallet Infra
+    - SDK
+    - Infrastructure
   operating_region: []
   based_in: null
 images: null

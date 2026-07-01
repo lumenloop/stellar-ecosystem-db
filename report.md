@@ -18,7 +18,7 @@
 | description | 778/778 | 100% |
 | website | 767/778 | 98.6% |
 | blog | 251/778 | 32.3% |
-| x | 548/778 | 70.4% |
+| x | 549/778 | 70.6% |
 | linkedin | 400/778 | 51.4% |
 | discord | 211/778 | 27.1% |
 | telegram | 148/778 | 19% |
@@ -27,9 +27,9 @@
 | reddit | 14/778 | 1.8% |
 | tiktok | 35/778 | 4.5% |
 | linktree | 5/778 | 0.6% |
-| github | 534/778 | 68.6% |
+| github | 535/778 | 68.8% |
 | category | 778/778 | 100% |
-| tags | 776/778 | 99.7% |
+| tags | 778/778 | 100% |
 | operating_region | 768/778 | 98.7% |
 | based_in | 713/778 | 91.6% |
 
@@ -41,8 +41,8 @@ Per-project comparison of our **778** projects (incl. **129** community projects
 |-------|------:|------:|
 | description | +201 | 577 |
 | website | +209 | 558 |
-| github | +161 | 373 |
-| x | +265 | 283 |
+| github | +162 | 373 |
+| x | +266 | 283 |
 | linkedin | +197 | 203 |
 | discord | +104 | 107 |
 | based_in | +236 | 477 |
@@ -66,7 +66,7 @@ Of **643** SCF-funded projects:
 | awarded_round | 643/643 | 100% |
 | submission_urls | 643/643 | 100% |
 | website | 633/643 | 98.4% |
-| github | 471/643 | 73.3% |
+| github | 472/643 | 73.4% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -76,11 +76,11 @@ Of **643** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 490 | 506 |
-| Active last week | 136 | 229 |
-| Active last month | 200 | 284 |
-| Active last 3 months | 255 | 347 |
-| Active last year | 346 | 407 |
+| Tracked projects | 491 | 506 |
+| Active last week | 137 | 229 |
+| Active last month | 201 | 284 |
+| Active last 3 months | 256 | 347 |
+| Active last year | 347 | 407 |
 
 ## Audit Data
 
@@ -117,8 +117,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 3958 |
-| SCF | 3690 |
+| Lumen Loop | 3962 |
+| SCF | 3688 |
 | Stellar Expert | 360 |
 | Soroban Security | 69 |
 | DeFiLlama | 21 |
@@ -128,10 +128,10 @@ How many data points each contributor provides across the directory:
 10 items need attention.
 
 **SCF project missing website** (10):
-- timed-transactions-api
-- sendit
 - the-starship-soroban
 - frost-implementation
+- timed-transactions-api
+- sendit
 - wally
 - soroban-optimistic-oracle
 - net-sdk
