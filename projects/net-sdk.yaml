@@ -1,7 +1,7 @@
 title: .NET SDK
 other_names: null
 parent: null
-description: ''
+description: A .NET/C# SDK for building applications on the Stellar network. Enables C# and .NET developers to interact with the Stellar blockchain, manage accounts, submit transactions, work with Stellar assets, and integrate Stellar and Soroban smart contract functionality into .NET applications.
 links:
   website: []
   blog: []
@@ -18,9 +18,12 @@ links:
     - github.com/beans-bv/dotnet-stellar-sdk
 attributes:
   category: Infrastructure & Services
-  tags: []
+  tags:
+    - SDK
+    - Library
+    - DevX
   operating_region: []
-  based_in: null
+  based_in: Netherlands
 images: null
 scf:
   awarded_round:

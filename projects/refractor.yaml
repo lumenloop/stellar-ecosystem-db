@@ -23,8 +23,9 @@ attributes:
     - Multi Signatures
     - Storage
     - Infrastructure
-  operating_region: []
-  based_in: null
+  operating_region:
+    - global
+  based_in: Portugal
 images: null
 scf:
   awarded_round:

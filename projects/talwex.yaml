@@ -8,7 +8,8 @@ links:
   blog: []
   x:
     - x.com
-  linkedin: []
+  linkedin:
+    - linkedin.com/company/talwex
   discord: []
   telegram: []
   youtube: []
@@ -24,8 +25,9 @@ attributes:
     - RWA
     - Tokenization
     - Institutional
-  operating_region: []
-  based_in: null
+  operating_region:
+    - global
+  based_in: United States
 images: null
 scf:
   awarded_round:

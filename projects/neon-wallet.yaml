@@ -9,7 +9,8 @@ links:
   x:
     - coz_official
   linkedin: []
-  discord: []
+  discord:
+    - discord.gg/m7jgtepjh4
   telegram: []
   youtube: []
   instagram: []
@@ -23,7 +24,8 @@ attributes:
   tags:
     - Software Wallet
     - Multi-Chain
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Brazil
 images: null
 scf:

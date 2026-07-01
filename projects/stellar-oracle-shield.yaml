@@ -1,7 +1,7 @@
 title: Stellar Oracle Shield
 other_names: null
 parent: null
-description: ''
+description: An oracle monitoring and protection tool for the Stellar network, built by Sun Zu Lab. Applies data analytics and AI-powered detection to identify price feed anomalies and manipulation attempts in real time, helping Soroban DeFi developers shield their protocols from oracle-based attacks.
 links:
   website:
     - sunzulab.com
@@ -18,7 +18,10 @@ links:
   github: []
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - Oracle
+    - Security
+    - DeFi
   operating_region: []
   based_in: null
 images: null

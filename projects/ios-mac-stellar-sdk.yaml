@@ -1,7 +1,7 @@
 title: iOS Mac Stellar SDK
 other_names: null
 parent: null
-description: ''
+description: A native Swift SDK for building Stellar-powered iOS and macOS applications. Enables developers to interact with the Stellar network, manage accounts, submit transactions, and build on Soroban smart contracts. Developed and maintained by Soneso (Christian Rogobete), it won first place in the 2018 Stellar Build Challenge and is supported by the SCF Public Goods program.
 links:
   website:
     - github.com/soneso/stellar-ios-mac-sdk
@@ -19,9 +19,13 @@ links:
     - github.com/soneso/stellar-ios-mac-sdk
 attributes:
   category: Developer Tooling
-  tags: []
-  operating_region: []
-  based_in: null
+  tags:
+    - SDK
+    - Mobile
+    - Library
+  operating_region:
+    - global
+  based_in: Spain
 images: null
 scf:
   awarded_round:

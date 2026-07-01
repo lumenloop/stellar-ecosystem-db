@@ -1,7 +1,7 @@
 title: Java Stellar SDK
 other_names: null
 parent: null
-description: ''
+description: A Java SDK for building applications on the Stellar network, maintained by Lightsail Network. It provides Java developers with tools to interact with the Stellar blockchain, including Horizon API and Soroban RPC support.
 links:
   website:
     - lightsail.network

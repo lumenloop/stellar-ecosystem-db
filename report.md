@@ -15,12 +15,12 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 775/778 | 99.6% |
+| description | 778/778 | 100% |
 | website | 767/778 | 98.6% |
 | blog | 251/778 | 32.3% |
 | x | 547/778 | 70.3% |
-| linkedin | 398/778 | 51.2% |
-| discord | 210/778 | 27% |
+| linkedin | 399/778 | 51.3% |
+| discord | 211/778 | 27.1% |
 | telegram | 148/778 | 19% |
 | youtube | 167/778 | 21.5% |
 | instagram | 127/778 | 16.3% |
@@ -29,9 +29,9 @@
 | linktree | 5/778 | 0.6% |
 | github | 533/778 | 68.5% |
 | category | 778/778 | 100% |
-| tags | 773/778 | 99.4% |
-| operating_region | 763/778 | 98.1% |
-| based_in | 708/778 | 91% |
+| tags | 775/778 | 99.6% |
+| operating_region | 767/778 | 98.6% |
+| based_in | 712/778 | 91.5% |
 
 ## Enrichment vs SCF Airtable
 
@@ -39,13 +39,13 @@ Per-project comparison of our **778** projects (incl. **129** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +198 | 577 |
+| description | +201 | 577 |
 | website | +209 | 558 |
 | github | +160 | 373 |
 | x | +264 | 283 |
-| linkedin | +195 | 203 |
-| discord | +103 | 107 |
-| based_in | +231 | 477 |
+| linkedin | +196 | 203 |
+| discord | +104 | 107 |
+| based_in | +235 | 477 |
 | blog | +251 | 0 |
 | telegram | +148 | 0 |
 | youtube | +167 | 0 |
@@ -96,12 +96,12 @@ Of **643** SCF-funded projects:
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
-| Code4rena | 2 |
-| Zellic | 2 |
 | CoinFabrik | 2 |
+| Zellic | 2 |
+| Code4rena | 2 |
 | OpenZeppelin | 2 |
-| Сoinspect | 1 |
 | Hacken | 1 |
+| Сoinspect | 1 |
 
 ## Data Sources
 
@@ -117,30 +117,25 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 3937 |
-| SCF | 3693 |
+| Lumen Loop | 3952 |
+| SCF | 3691 |
 | Stellar Expert | 360 |
 | Soroban Security | 69 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-13 items need attention.
-
-**description empty** (3):
-- java-stellar-sdk
-- stellar-oracle-shield
-- net-sdk
+10 items need attention.
 
 **SCF project missing website** (10):
-- relax
-- paysapp
-- crypto-link
 - the-starship-soroban
 - frost-implementation
-- net-sdk
 - timed-transactions-api
 - sendit
 - wally
 - soroban-optimistic-oracle
+- net-sdk
+- relax
+- paysapp
+- crypto-link
 
