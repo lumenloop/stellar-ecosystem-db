@@ -15,12 +15,14 @@ links:
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/few-digital-services/fewticket-stellar-bridge
 attributes:
   category: Applications
   tags: []
-  operating_region: []
-  based_in: null
+  operating_region:
+    - Africa
+  based_in: Nigeria
 images: null
 scf:
   awarded_round:
