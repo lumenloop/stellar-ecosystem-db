@@ -21,7 +21,8 @@ links:
   tiktok:
     - github
   linktree: []
-  github: []
+  github:
+    - github.com/frankszendzielarz/sorobanrpcsdk
 attributes:
   category: Developer Tooling
   tags:
