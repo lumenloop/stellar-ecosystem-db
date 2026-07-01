@@ -15,7 +15,7 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 773/778 | 99.4% |
+| description | 774/778 | 99.5% |
 | website | 766/778 | 98.5% |
 | blog | 251/778 | 32.3% |
 | x | 547/778 | 70.3% |
@@ -29,7 +29,7 @@
 | linktree | 5/778 | 0.6% |
 | github | 533/778 | 68.5% |
 | category | 778/778 | 100% |
-| tags | 770/778 | 99% |
+| tags | 771/778 | 99.1% |
 | operating_region | 763/778 | 98.1% |
 | based_in | 708/778 | 91% |
 
@@ -39,7 +39,7 @@ Per-project comparison of our **778** projects (incl. **129** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +196 | 577 |
+| description | +197 | 577 |
 | website | +208 | 558 |
 | github | +160 | 373 |
 | x | +264 | 283 |
@@ -117,15 +117,15 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 3931 |
-| SCF | 3696 |
+| Lumen Loop | 3933 |
+| SCF | 3695 |
 | Stellar Expert | 360 |
 | Soroban Security | 69 |
 | DeFiLlama | 21 |
 
 ## Needs Review
 
-16 items need attention.
+15 items need attention.
 
 **SCF project missing website** (11):
 - sendit
@@ -140,9 +140,8 @@ How many data points each contributor provides across the directory:
 - paysapp
 - crypto-link
 
-**description empty** (5):
+**description empty** (4):
 - stellar-oracle-shield
-- fiatsend
 - net-sdk
 - java-stellar-sdk
 - ios-mac-stellar-sdk

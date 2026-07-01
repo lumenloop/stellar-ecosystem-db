@@ -1,7 +1,7 @@
 title: Fiatsend
 other_names: null
 parent: null
-description: ''
+description: Fiatsend is a Stellar-powered payment infrastructure platform for Africa's digital economy. It provides a B2B console for merchants to create payment links, generate QR codes, and execute bulk payouts via the Stellar Disbursement Platform, alongside a consumer app enabling payments in local currency or stablecoins. Built for platforms disbursing at scale, Fiatsend settles USDC payments to local currencies through African anchors in under 10 seconds.
 links:
   website:
     - fiatsend.com
@@ -22,7 +22,10 @@ links:
     - github.com/fiatsend
 attributes:
   category: Financial Protocols
-  tags: []
+  tags:
+    - B2B
+    - Merchant
+    - Cross-Border Payments
   operating_region:
     - Sub-Saharan Africa
   based_in: Ghana
