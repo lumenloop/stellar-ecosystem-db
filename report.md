@@ -19,7 +19,7 @@
 | website | 767/778 | 98.6% |
 | blog | 251/778 | 32.3% |
 | x | 547/778 | 70.3% |
-| linkedin | 399/778 | 51.3% |
+| linkedin | 400/778 | 51.4% |
 | discord | 211/778 | 27.1% |
 | telegram | 148/778 | 19% |
 | youtube | 167/778 | 21.5% |
@@ -43,7 +43,7 @@ Per-project comparison of our **778** projects (incl. **129** community projects
 | website | +209 | 558 |
 | github | +161 | 373 |
 | x | +264 | 283 |
-| linkedin | +196 | 203 |
+| linkedin | +197 | 203 |
 | discord | +104 | 107 |
 | based_in | +236 | 477 |
 | blog | +251 | 0 |
@@ -77,7 +77,7 @@ Of **643** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 490 | 506 |
-| Active last week | 139 | 229 |
+| Active last week | 136 | 229 |
 | Active last month | 200 | 284 |
 | Active last 3 months | 255 | 347 |
 | Active last year | 346 | 407 |
@@ -96,12 +96,12 @@ Of **643** SCF-funded projects:
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
-| CoinFabrik | 2 |
 | Zellic | 2 |
+| CoinFabrik | 2 |
 | Code4rena | 2 |
 | OpenZeppelin | 2 |
-| Hacken | 1 |
 | Сoinspect | 1 |
+| Hacken | 1 |
 
 ## Data Sources
 
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 3955 |
+| Lumen Loop | 3956 |
 | SCF | 3690 |
 | Stellar Expert | 360 |
 | Soroban Security | 69 |
@@ -128,14 +128,14 @@ How many data points each contributor provides across the directory:
 10 items need attention.
 
 **SCF project missing website** (10):
-- the-starship-soroban
-- frost-implementation
 - timed-transactions-api
 - sendit
+- the-starship-soroban
+- frost-implementation
 - wally
 - soroban-optimistic-oracle
 - net-sdk
 - relax
-- paysapp
 - crypto-link
+- paysapp
 
