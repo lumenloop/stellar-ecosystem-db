@@ -128,6 +128,8 @@ How many data points each contributor provides across the directory:
 16 items need attention.
 
 **SCF project missing website** (11):
+- relax
+- wally
 - sendit
 - soroban-optimistic-oracle
 - the-starship-soroban
@@ -135,8 +137,6 @@ How many data points each contributor provides across the directory:
 - net-sdk
 - java-stellar-sdk
 - timed-transactions-api
-- relax
-- wally
 - paysapp
 - crypto-link
 
