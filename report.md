@@ -18,16 +18,16 @@
 | description | 773/778 | 99.4% |
 | website | 766/778 | 98.5% |
 | blog | 251/778 | 32.3% |
-| x | 546/778 | 70.2% |
-| linkedin | 397/778 | 51% |
+| x | 547/778 | 70.3% |
+| linkedin | 398/778 | 51.2% |
 | discord | 210/778 | 27% |
 | telegram | 148/778 | 19% |
-| youtube | 166/778 | 21.3% |
-| instagram | 126/778 | 16.2% |
+| youtube | 167/778 | 21.5% |
+| instagram | 127/778 | 16.3% |
 | reddit | 14/778 | 1.8% |
-| tiktok | 34/778 | 4.4% |
+| tiktok | 35/778 | 4.5% |
 | linktree | 5/778 | 0.6% |
-| github | 532/778 | 68.4% |
+| github | 533/778 | 68.5% |
 | category | 778/778 | 100% |
 | tags | 770/778 | 99% |
 | operating_region | 763/778 | 98.1% |
@@ -41,17 +41,17 @@ Per-project comparison of our **778** projects (incl. **129** community projects
 |-------|------:|------:|
 | description | +196 | 577 |
 | website | +208 | 558 |
-| github | +159 | 373 |
-| x | +263 | 283 |
-| linkedin | +194 | 203 |
+| github | +160 | 373 |
+| x | +264 | 283 |
+| linkedin | +195 | 203 |
 | discord | +103 | 107 |
 | based_in | +231 | 477 |
 | blog | +251 | 0 |
 | telegram | +148 | 0 |
-| youtube | +166 | 0 |
-| instagram | +126 | 0 |
+| youtube | +167 | 0 |
+| instagram | +127 | 0 |
 | reddit | +14 | 0 |
-| tiktok | +34 | 0 |
+| tiktok | +35 | 0 |
 | linktree | +5 | 0 |
 
 *"Added" = we filled a field SCF didn't have. "Modified" = SCF had a value, we store a different one.*
@@ -66,7 +66,7 @@ Of **643** SCF-funded projects:
 | awarded_round | 643/643 | 100% |
 | submission_urls | 643/643 | 100% |
 | website | 632/643 | 98.3% |
-| github | 469/643 | 72.9% |
+| github | 470/643 | 73.1% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -76,11 +76,11 @@ Of **643** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 489 | 505 |
-| Active last week | 125 | 226 |
-| Active last month | 198 | 283 |
-| Active last 3 months | 252 | 346 |
-| Active last year | 344 | 406 |
+| Tracked projects | 489 | 506 |
+| Active last week | 126 | 227 |
+| Active last month | 199 | 284 |
+| Active last 3 months | 253 | 347 |
+| Active last year | 345 | 407 |
 
 ## Audit Data
 
@@ -96,8 +96,8 @@ Of **643** SCF-funded projects:
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
-| Code4rena | 2 |
 | Zellic | 2 |
+| Code4rena | 2 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
 | Сoinspect | 1 |
@@ -117,8 +117,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 3924 |
-| SCF | 3702 |
+| Lumen Loop | 3931 |
+| SCF | 3696 |
 | Stellar Expert | 360 |
 | Soroban Security | 69 |
 | DeFiLlama | 21 |
@@ -128,17 +128,17 @@ How many data points each contributor provides across the directory:
 16 items need attention.
 
 **SCF project missing website** (11):
-- wally
 - sendit
 - soroban-optimistic-oracle
 - the-starship-soroban
 - frost-implementation
 - net-sdk
 - java-stellar-sdk
-- paysapp
 - timed-transactions-api
-- crypto-link
 - relax
+- wally
+- paysapp
+- crypto-link
 
 **description empty** (5):
 - stellar-oracle-shield
