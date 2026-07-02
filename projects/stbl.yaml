@@ -1,12 +1,13 @@
 title: STBL
 other_names: null
 parent: null
-description: ''
+description: Empowering ecosystems globally to issue their own money & manage yield. Every ecosystem is unique, its currency should be too. With Stablecoin 2.0, this becomes reality.
 links:
   website:
     - stbl.com
   blog: []
-  x: []
+  x:
+    - stbl_official
   linkedin: []
   discord: []
   telegram: []
@@ -17,8 +18,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
+  category: Financial Protocols
+  tags:
+    - Stablecoins
+    - RWA
+    - Yield
   operating_region: []
   based_in: null
 images:

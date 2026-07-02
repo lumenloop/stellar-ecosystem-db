@@ -15,10 +15,10 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 778/779 | 99.9% |
+| description | 779/779 | 100% |
 | website | 768/779 | 98.6% |
 | blog | 251/779 | 32.2% |
-| x | 549/779 | 70.5% |
+| x | 550/779 | 70.6% |
 | linkedin | 400/779 | 51.3% |
 | discord | 211/779 | 27.1% |
 | telegram | 148/779 | 19% |
@@ -28,8 +28,8 @@
 | tiktok | 35/779 | 4.5% |
 | linktree | 5/779 | 0.6% |
 | github | 535/779 | 68.7% |
-| category | 778/779 | 99.9% |
-| tags | 778/779 | 99.9% |
+| category | 779/779 | 100% |
+| tags | 779/779 | 100% |
 | operating_region | 769/779 | 98.7% |
 | based_in | 714/779 | 91.7% |
 
@@ -39,10 +39,10 @@ Per-project comparison of our **779** projects (incl. **130** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +201 | 577 |
+| description | +202 | 577 |
 | website | +210 | 558 |
 | github | +162 | 373 |
-| x | +266 | 283 |
+| x | +267 | 283 |
 | linkedin | +197 | 203 |
 | discord | +104 | 107 |
 | based_in | +237 | 477 |
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 3965 |
+| Lumen Loop | 3969 |
 | SCF | 3683 |
 | Stellar Expert | 360 |
 | Soroban Security | 69 |
@@ -125,10 +125,7 @@ How many data points each contributor provides across the directory:
 
 ## Needs Review
 
-11 items need attention.
-
-**description empty** (1):
-- stbl
+10 items need attention.
 
 **SCF project missing website** (10):
 - sendit
