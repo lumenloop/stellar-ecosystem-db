@@ -23,7 +23,8 @@ attributes:
     - Stablecoins
     - RWA
     - Yield
-  operating_region: []
+  operating_region:
+    - global
   based_in: null
 images:
   icon: https://media.lumenloop.com/projects/stbl/stbl-apple_touch-thjbp9.webp
