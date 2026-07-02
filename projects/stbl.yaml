@@ -21,7 +21,9 @@ attributes:
   tags: []
   operating_region: []
   based_in: null
-images: null
+images:
+  icon: https://media.lumenloop.com/projects/stbl/stbl-apple_touch-thjbp9.webp
+  og_image: https://media.lumenloop.com/projects/stbl/stbl-og-thjbp8.webp
 mainnet:
   audits: []
   tokens: []
