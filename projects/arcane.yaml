@@ -23,7 +23,8 @@ attributes:
     - ZK
     - Infrastructure
     - SDK
-  operating_region: []
+  operating_region:
+    - Global
   based_in: Indonesia
 images: null
 scf:

@@ -30,7 +30,7 @@
 | github | 535/779 | 68.7% |
 | category | 779/779 | 100% |
 | tags | 779/779 | 100% |
-| operating_region | 770/779 | 98.8% |
+| operating_region | 771/779 | 99% |
 | based_in | 714/779 | 91.7% |
 
 ## Enrichment vs SCF Airtable
@@ -76,11 +76,11 @@ Of **643** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 491 | 507 |
-| Active last week | 136 | 234 |
-| Active last month | 201 | 285 |
-| Active last 3 months | 256 | 348 |
-| Active last year | 347 | 408 |
+| Tracked projects | 489 | 507 |
+| Active last week | 139 | 234 |
+| Active last month | 204 | 286 |
+| Active last 3 months | 256 | 349 |
+| Active last year | 346 | 409 |
 
 ## Audit Data
 
@@ -117,8 +117,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 3970 |
-| SCF | 3682 |
+| Lumen Loop | 3971 |
+| SCF | 3681 |
 | Stellar Expert | 360 |
 | Soroban Security | 69 |
 | DeFiLlama | 21 |
@@ -136,6 +136,6 @@ How many data points each contributor provides across the directory:
 - frost-implementation
 - timed-transactions-api
 - relax
-- soroban-optimistic-oracle
 - paysapp
+- soroban-optimistic-oracle
 
