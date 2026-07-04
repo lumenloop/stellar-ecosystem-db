@@ -78,9 +78,9 @@ Of **643** SCF-funded projects:
 |--------|------:|--------:|
 | Tracked projects | 489 | 507 |
 | Active last week | 139 | 234 |
-| Active last month | 204 | 287 |
+| Active last month | 204 | 286 |
 | Active last 3 months | 256 | 349 |
-| Active last year | 346 | 409 |
+| Active last year | 346 | 408 |
 
 ## Audit Data
 
