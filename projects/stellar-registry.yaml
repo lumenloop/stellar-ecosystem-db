@@ -24,7 +24,7 @@ attributes:
     - SDK
     - Infrastructure
   operating_region: []
-  based_in: null
+  based_in: France
 images: null
 scf:
   awarded_round:
