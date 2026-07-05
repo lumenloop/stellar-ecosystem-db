@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-07-04
+> Auto-generated on 2026-07-05
 
 ## Summary
 
@@ -78,7 +78,7 @@ Of **643** SCF-funded projects:
 |--------|------:|--------:|
 | Tracked projects | 489 | 507 |
 | Active last week | 141 | 236 |
-| Active last month | 203 | 285 |
+| Active last month | 203 | 284 |
 | Active last 3 months | 256 | 349 |
 | Active last year | 346 | 408 |
 
@@ -100,8 +100,8 @@ Of **643** SCF-funded projects:
 | CoinFabrik | 2 |
 | Zellic | 2 |
 | OpenZeppelin | 2 |
-| Hacken | 1 |
 | Сoinspect | 1 |
+| Hacken | 1 |
 
 ## Data Sources
 
