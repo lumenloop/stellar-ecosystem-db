@@ -78,8 +78,8 @@ Of **643** SCF-funded projects:
 |--------|------:|--------:|
 | Tracked projects | 489 | 506 |
 | Active last week | 140 | 238 |
-| Active last month | 205 | 286 |
-| Active last 3 months | 257 | 344 |
+| Active last month | 204 | 286 |
+| Active last 3 months | 256 | 344 |
 | Active last year | 346 | 407 |
 
 ## Audit Data
@@ -131,9 +131,9 @@ How many data points each contributor provides across the directory:
 - crypto-link
 - net-sdk
 - sendit
+- frost-implementation
 - soroban-optimistic-oracle
 - wally
-- frost-implementation
 - timed-transactions-api
 - the-starship-soroban
 - relax
