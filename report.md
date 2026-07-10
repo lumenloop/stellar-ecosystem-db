@@ -6,41 +6,41 @@
 
 | Metric | Count |
 |--------|------:|
-| Total projects | **779** |
+| Total projects | **780** |
 | SCF-funded projects | 643 |
-| Community projects | 136 |
+| Community projects | 137 |
 | Audited projects | 52 |
 
 ## Data Coverage
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 779/779 | 100% |
-| website | 768/779 | 98.6% |
-| blog | 251/779 | 32.2% |
-| x | 550/779 | 70.6% |
-| linkedin | 400/779 | 51.3% |
-| discord | 211/779 | 27.1% |
-| telegram | 148/779 | 19% |
-| youtube | 167/779 | 21.4% |
-| instagram | 127/779 | 16.3% |
-| reddit | 14/779 | 1.8% |
-| tiktok | 35/779 | 4.5% |
-| linktree | 5/779 | 0.6% |
-| github | 535/779 | 68.7% |
-| category | 779/779 | 100% |
-| tags | 779/779 | 100% |
-| operating_region | 771/779 | 99% |
-| based_in | 715/779 | 91.8% |
+| description | 779/780 | 99.9% |
+| website | 769/780 | 98.6% |
+| blog | 251/780 | 32.2% |
+| x | 550/780 | 70.5% |
+| linkedin | 400/780 | 51.3% |
+| discord | 211/780 | 27.1% |
+| telegram | 148/780 | 19% |
+| youtube | 167/780 | 21.4% |
+| instagram | 127/780 | 16.3% |
+| reddit | 14/780 | 1.8% |
+| tiktok | 35/780 | 4.5% |
+| linktree | 5/780 | 0.6% |
+| github | 535/780 | 68.6% |
+| category | 779/780 | 99.9% |
+| tags | 779/780 | 99.9% |
+| operating_region | 771/780 | 98.8% |
+| based_in | 715/780 | 91.7% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **779** projects (incl. **130** community projects not in SCF) against **656** in SCF Airtable:
+Per-project comparison of our **780** projects (incl. **131** community projects not in SCF) against **656** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
 | description | +202 | 577 |
-| website | +210 | 558 |
+| website | +211 | 558 |
 | github | +162 | 373 |
 | x | +267 | 283 |
 | linkedin | +197 | 203 |
@@ -77,10 +77,10 @@ Of **643** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 487 | 506 |
-| Active last week | 140 | 231 |
+| Active last week | 137 | 229 |
 | Active last month | 202 | 287 |
-| Active last 3 months | 253 | 344 |
-| Active last year | 343 | 407 |
+| Active last 3 months | 254 | 343 |
+| Active last year | 342 | 407 |
 
 ## Audit Data
 
@@ -97,9 +97,9 @@ Of **643** SCF-funded projects:
 | Halborn | 5 |
 | Quarkslab | 3 |
 | Zellic | 2 |
+| OpenZeppelin | 2 |
 | CoinFabrik | 2 |
 | Code4rena | 2 |
-| OpenZeppelin | 2 |
 | Сoinspect | 1 |
 | Hacken | 1 |
 
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 3972 |
+| Lumen Loop | 3973 |
 | SCF | 3680 |
 | Stellar Expert | 360 |
 | Soroban Security | 69 |
@@ -125,17 +125,20 @@ How many data points each contributor provides across the directory:
 
 ## Needs Review
 
-10 items need attention.
+11 items need attention.
+
+**description empty** (1):
+- raven
 
 **SCF project missing website** (10):
+- relax
+- paysapp
 - sendit
 - crypto-link
 - net-sdk
-- frost-implementation
-- relax
-- paysapp
-- soroban-optimistic-oracle
-- wally
 - timed-transactions-api
 - the-starship-soroban
+- frost-implementation
+- soroban-optimistic-oracle
+- wally
 
