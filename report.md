@@ -137,8 +137,8 @@ How many data points each contributor provides across the directory:
 - sendit
 - crypto-link
 - net-sdk
-- the-starship-soroban
-- frost-implementation
 - wally
+- the-starship-soroban
 - soroban-optimistic-oracle
+- frost-implementation
 
