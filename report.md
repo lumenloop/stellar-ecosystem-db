@@ -15,7 +15,7 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 779/780 | 99.9% |
+| description | 780/780 | 100% |
 | website | 769/780 | 98.6% |
 | blog | 251/780 | 32.2% |
 | x | 550/780 | 70.5% |
@@ -27,9 +27,9 @@
 | reddit | 14/780 | 1.8% |
 | tiktok | 35/780 | 4.5% |
 | linktree | 5/780 | 0.6% |
-| github | 535/780 | 68.6% |
-| category | 779/780 | 99.9% |
-| tags | 779/780 | 99.9% |
+| github | 536/780 | 68.7% |
+| category | 780/780 | 100% |
+| tags | 780/780 | 100% |
 | operating_region | 771/780 | 98.8% |
 | based_in | 715/780 | 91.7% |
 
@@ -39,9 +39,9 @@ Per-project comparison of our **780** projects (incl. **131** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +202 | 577 |
+| description | +203 | 577 |
 | website | +211 | 558 |
-| github | +162 | 373 |
+| github | +163 | 373 |
 | x | +267 | 283 |
 | linkedin | +197 | 203 |
 | discord | +104 | 107 |
@@ -76,11 +76,11 @@ Of **643** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 487 | 506 |
-| Active last week | 135 | 227 |
-| Active last month | 202 | 285 |
-| Active last 3 months | 252 | 342 |
-| Active last year | 343 | 407 |
+| Tracked projects | 488 | 506 |
+| Active last week | 134 | 229 |
+| Active last month | 204 | 286 |
+| Active last 3 months | 252 | 340 |
+| Active last year | 344 | 407 |
 
 ## Audit Data
 
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 3973 |
+| Lumen Loop | 3977 |
 | SCF | 3680 |
 | Stellar Expert | 360 |
 | Soroban Security | 69 |
@@ -125,19 +125,16 @@ How many data points each contributor provides across the directory:
 
 ## Needs Review
 
-11 items need attention.
-
-**description empty** (1):
-- raven
+10 items need attention.
 
 **SCF project missing website** (10):
-- paysapp
 - timed-transactions-api
 - relax
+- paysapp
+- wally
 - sendit
 - crypto-link
 - net-sdk
-- wally
 - the-starship-soroban
 - soroban-optimistic-oracle
 - frost-implementation

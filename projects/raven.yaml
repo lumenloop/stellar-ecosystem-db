@@ -1,7 +1,7 @@
 title: Raven
 other_names: null
 parent: null
-description: ''
+description: Stellar Raven is a remote MCP (Model Context Protocol) server that connects AI agents and builders to the Stellar ecosystem through a single entry point, aggregating official documentation, ecosystem data, community intelligence, playbooks, and tools.
 links:
   website:
     - raven.stellar.buzz
@@ -15,10 +15,14 @@ links:
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/kalepail/stellar-raven
 attributes:
-  category: null
-  tags: []
+  category: Developer Tooling
+  tags:
+    - AI
+    - DevX
+    - Ecosystem Discovery
   operating_region: []
   based_in: null
 images: null
