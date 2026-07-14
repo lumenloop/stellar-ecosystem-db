@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-07-13
+> Auto-generated on 2026-07-14
 
 ## Summary
 
@@ -77,10 +77,10 @@ Of **643** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 488 | 506 |
-| Active last week | 134 | 229 |
-| Active last month | 204 | 286 |
-| Active last 3 months | 252 | 340 |
-| Active last year | 344 | 407 |
+| Active last week | 133 | 229 |
+| Active last month | 204 | 287 |
+| Active last 3 months | 252 | 341 |
+| Active last year | 344 | 408 |
 
 ## Audit Data
 
@@ -118,7 +118,7 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | Lumen Loop | 3977 |
-| SCF | 3680 |
+| SCF | 3679 |
 | Stellar Expert | 360 |
 | Soroban Security | 69 |
 | DeFiLlama | 21 |
