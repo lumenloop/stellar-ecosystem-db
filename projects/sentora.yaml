@@ -1,12 +1,13 @@
 title: Sentora
 other_names: null
 parent: null
-description: ''
+description: Sentora is the leading institutional DeFi platform providing curated vault infrastructure, risk management, and capital deployment tools for professional allocators. Non-custodial vaults with real-time analytics and $3B+ deployed across DeFi and real-world assets.
 links:
   website:
     - sentora.com
   blog: []
-  x: []
+  x:
+    - sentorahq
   linkedin: []
   discord: []
   telegram: []
@@ -17,8 +18,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
+  category: Financial Protocols
+  tags:
+    - DeFi
+    - Institutional
+    - Yield
   operating_region: []
   based_in: null
 images: null

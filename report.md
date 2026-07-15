@@ -15,10 +15,10 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 780/781 | 99.9% |
+| description | 781/781 | 100% |
 | website | 770/781 | 98.6% |
 | blog | 251/781 | 32.1% |
-| x | 550/781 | 70.4% |
+| x | 551/781 | 70.6% |
 | linkedin | 400/781 | 51.2% |
 | discord | 211/781 | 27% |
 | telegram | 148/781 | 19% |
@@ -28,8 +28,8 @@
 | tiktok | 35/781 | 4.5% |
 | linktree | 5/781 | 0.6% |
 | github | 536/781 | 68.6% |
-| category | 780/781 | 99.9% |
-| tags | 780/781 | 99.9% |
+| category | 781/781 | 100% |
+| tags | 781/781 | 100% |
 | operating_region | 771/781 | 98.7% |
 | based_in | 716/781 | 91.7% |
 
@@ -39,10 +39,10 @@ Per-project comparison of our **781** projects (incl. **132** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +203 | 577 |
+| description | +204 | 577 |
 | website | +212 | 558 |
 | github | +163 | 373 |
-| x | +267 | 283 |
+| x | +268 | 283 |
 | linkedin | +197 | 203 |
 | discord | +104 | 107 |
 | based_in | +239 | 477 |
@@ -77,7 +77,7 @@ Of **643** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 488 | 506 |
-| Active last week | 129 | 222 |
+| Active last week | 129 | 220 |
 | Active last month | 203 | 285 |
 | Active last 3 months | 251 | 339 |
 | Active last year | 344 | 408 |
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 3979 |
+| Lumen Loop | 3983 |
 | SCF | 3679 |
 | Stellar Expert | 360 |
 | Soroban Security | 69 |
@@ -125,10 +125,7 @@ How many data points each contributor provides across the directory:
 
 ## Needs Review
 
-11 items need attention.
-
-**description empty** (1):
-- sentora
+10 items need attention.
 
 **SCF project missing website** (10):
 - timed-transactions-api
