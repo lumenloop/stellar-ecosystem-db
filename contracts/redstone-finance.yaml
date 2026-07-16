@@ -1,0 +1,5 @@
+- id: CA526Y2NQWGWVVQ7RFFPGAZMU66PSYJ3UC2MTVAV4ZU7OM5BOPHDXUSG
+  label: Redstone Oracle
+  is_pool: false
+  tags:
+    - infra

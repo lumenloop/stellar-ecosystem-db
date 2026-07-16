@@ -77,9 +77,9 @@ Of **643** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 488 | 507 |
-| Active last week | 126 | 223 |
-| Active last month | 202 | 284 |
-| Active last 3 months | 251 | 338 |
+| Active last week | 124 | 218 |
+| Active last month | 201 | 282 |
+| Active last 3 months | 251 | 337 |
 | Active last year | 344 | 409 |
 
 ## Audit Data
@@ -96,10 +96,10 @@ Of **643** SCF-funded projects:
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
+| CoinFabrik | 2 |
 | Zellic | 2 |
 | Code4rena | 2 |
 | OpenZeppelin | 2 |
-| CoinFabrik | 2 |
 | Сoinspect | 1 |
 | Hacken | 1 |
 
@@ -119,7 +119,7 @@ How many data points each contributor provides across the directory:
 |--------|------:|
 | Lumen Loop | 3983 |
 | SCF | 3679 |
-| Stellar Expert | 360 |
+| Stellar Expert | 362 |
 | Soroban Security | 69 |
 | DeFiLlama | 22 |
 
@@ -128,11 +128,11 @@ How many data points each contributor provides across the directory:
 10 items need attention.
 
 **SCF project missing website** (10):
+- soroban-optimistic-oracle
+- crypto-link
 - timed-transactions-api
 - paysapp
 - net-sdk
-- soroban-optimistic-oracle
-- crypto-link
 - relax
 - the-starship-soroban
 - wally
