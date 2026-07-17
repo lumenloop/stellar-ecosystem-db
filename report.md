@@ -128,11 +128,11 @@ How many data points each contributor provides across the directory:
 10 items need attention.
 
 **SCF project missing website** (10):
-- soroban-optimistic-oracle
 - crypto-link
+- soroban-optimistic-oracle
+- net-sdk
 - timed-transactions-api
 - paysapp
-- net-sdk
 - relax
 - the-starship-soroban
 - wally
