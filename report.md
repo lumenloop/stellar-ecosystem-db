@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-07-16
+> Auto-generated on 2026-07-17
 
 ## Summary
 
@@ -22,7 +22,7 @@
 | linkedin | 400/781 | 51.2% |
 | discord | 211/781 | 27% |
 | telegram | 148/781 | 19% |
-| youtube | 167/781 | 21.4% |
+| youtube | 168/781 | 21.5% |
 | instagram | 127/781 | 16.3% |
 | reddit | 14/781 | 1.8% |
 | tiktok | 35/781 | 4.5% |
@@ -30,8 +30,8 @@
 | github | 536/781 | 68.6% |
 | category | 781/781 | 100% |
 | tags | 781/781 | 100% |
-| operating_region | 771/781 | 98.7% |
-| based_in | 716/781 | 91.7% |
+| operating_region | 772/781 | 98.8% |
+| based_in | 717/781 | 91.8% |
 
 ## Enrichment vs SCF Airtable
 
@@ -45,10 +45,10 @@ Per-project comparison of our **781** projects (incl. **132** community projects
 | x | +268 | 283 |
 | linkedin | +197 | 203 |
 | discord | +104 | 107 |
-| based_in | +239 | 477 |
+| based_in | +240 | 477 |
 | blog | +251 | 0 |
 | telegram | +148 | 0 |
-| youtube | +167 | 0 |
+| youtube | +168 | 0 |
 | instagram | +127 | 0 |
 | reddit | +14 | 0 |
 | tiktok | +35 | 0 |
@@ -77,8 +77,8 @@ Of **643** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 488 | 507 |
-| Active last week | 124 | 218 |
-| Active last month | 201 | 282 |
+| Active last week | 121 | 217 |
+| Active last month | 200 | 282 |
 | Active last 3 months | 251 | 337 |
 | Active last year | 344 | 409 |
 
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 3983 |
+| Lumen Loop | 3986 |
 | SCF | 3679 |
 | Stellar Expert | 362 |
 | Soroban Security | 69 |

@@ -23,8 +23,9 @@ attributes:
     - DeFi
     - Institutional
     - Yield
-  operating_region: []
-  based_in: null
+  operating_region:
+    - global
+  based_in: United States
 images: null
 mainnet:
   audits: []
