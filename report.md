@@ -76,11 +76,11 @@ Of **643** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 488 | 507 |
-| Active last week | 121 | 217 |
-| Active last month | 200 | 282 |
-| Active last 3 months | 251 | 337 |
-| Active last year | 344 | 409 |
+| Tracked projects | 489 | 507 |
+| Active last week | 128 | 215 |
+| Active last month | 199 | 281 |
+| Active last 3 months | 253 | 338 |
+| Active last year | 345 | 410 |
 
 ## Audit Data
 
@@ -133,9 +133,9 @@ How many data points each contributor provides across the directory:
 - net-sdk
 - timed-transactions-api
 - paysapp
+- frost-implementation
 - relax
 - the-starship-soroban
 - wally
-- frost-implementation
 - sendit
 
