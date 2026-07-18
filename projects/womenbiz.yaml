@@ -6,7 +6,9 @@ description: WomenBiz is a community that empowers Latin American women through 
 links:
   website:
     - hiwomenbiz.com
-  blog: []
+  blog:
+    - hiwomenbiz.com/blog
+    - womenbiz.substack.com/embed
   x:
     - hiwomenbiz
   linkedin:
