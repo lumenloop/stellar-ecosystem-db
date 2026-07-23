@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-07-22
+> Auto-generated on 2026-07-23
 
 ## Summary
 
@@ -77,10 +77,10 @@ Of **643** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 488 | 506 |
-| Active last week | 134 | 211 |
-| Active last month | 193 | 281 |
-| Active last 3 months | 252 | 332 |
-| Active last year | 343 | 409 |
+| Active last week | 130 | 212 |
+| Active last month | 193 | 282 |
+| Active last 3 months | 250 | 332 |
+| Active last year | 343 | 408 |
 
 ## Audit Data
 
@@ -96,10 +96,10 @@ Of **643** SCF-funded projects:
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
-| CoinFabrik | 2 |
 | Code4rena | 2 |
-| Zellic | 2 |
+| CoinFabrik | 2 |
 | OpenZeppelin | 2 |
+| Zellic | 2 |
 | Hacken | 1 |
 | Сoinspect | 1 |
 
@@ -128,11 +128,11 @@ How many data points each contributor provides across the directory:
 10 items need attention.
 
 **SCF project missing website** (10):
+- crypto-link
+- paysapp
 - timed-transactions-api
 - the-starship-soroban
 - wally
-- crypto-link
-- paysapp
 - frost-implementation
 - net-sdk
 - soroban-optimistic-oracle
