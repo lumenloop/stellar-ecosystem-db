@@ -77,7 +77,7 @@ Of **643** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 488 | 507 |
-| Active last week | 130 | 214 |
+| Active last week | 129 | 212 |
 | Active last month | 196 | 283 |
 | Active last 3 months | 251 | 334 |
 | Active last year | 343 | 409 |
@@ -100,8 +100,8 @@ Of **643** SCF-funded projects:
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
 | Zellic | 2 |
-| Hacken | 1 |
 | Сoinspect | 1 |
+| Hacken | 1 |
 
 ## Data Sources
 
@@ -129,8 +129,8 @@ How many data points each contributor provides across the directory:
 
 **SCF project missing website** (10):
 - paysapp
-- timed-transactions-api
 - wally
+- timed-transactions-api
 - crypto-link
 - the-starship-soroban
 - frost-implementation
