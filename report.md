@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-07-25
+> Auto-generated on 2026-07-26
 
 ## Summary
 
@@ -77,9 +77,9 @@ Of **643** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 489 | 507 |
-| Active last week | 128 | 214 |
-| Active last month | 194 | 284 |
-| Active last 3 months | 252 | 335 |
+| Active last week | 137 | 216 |
+| Active last month | 196 | 282 |
+| Active last 3 months | 253 | 334 |
 | Active last year | 344 | 409 |
 
 ## Audit Data
@@ -133,9 +133,9 @@ How many data points each contributor provides across the directory:
 - timed-transactions-api
 - crypto-link
 - the-starship-soroban
+- sendit
 - frost-implementation
 - net-sdk
 - soroban-optimistic-oracle
-- sendit
 - relax
 
