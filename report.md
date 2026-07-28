@@ -9,7 +9,7 @@
 | Total projects | **781** |
 | SCF-funded projects | 643 |
 | Community projects | 138 |
-| Audited projects | 52 |
+| Audited projects | 53 |
 
 ## Data Coverage
 
@@ -17,13 +17,13 @@
 |-------|------:|---------:|
 | description | 781/781 | 100% |
 | website | 770/781 | 98.6% |
-| blog | 251/781 | 32.1% |
+| blog | 250/781 | 32% |
 | x | 551/781 | 70.6% |
-| linkedin | 400/781 | 51.2% |
+| linkedin | 401/781 | 51.3% |
 | discord | 211/781 | 27% |
 | telegram | 148/781 | 19% |
 | youtube | 168/781 | 21.5% |
-| instagram | 127/781 | 16.3% |
+| instagram | 128/781 | 16.4% |
 | reddit | 14/781 | 1.8% |
 | tiktok | 35/781 | 4.5% |
 | linktree | 5/781 | 0.6% |
@@ -43,13 +43,13 @@ Per-project comparison of our **781** projects (incl. **132** community projects
 | website | +212 | 558 |
 | github | +163 | 373 |
 | x | +268 | 283 |
-| linkedin | +197 | 203 |
+| linkedin | +198 | 203 |
 | discord | +104 | 107 |
 | based_in | +240 | 477 |
-| blog | +251 | 0 |
+| blog | +250 | 0 |
 | telegram | +148 | 0 |
 | youtube | +168 | 0 |
-| instagram | +127 | 0 |
+| instagram | +128 | 0 |
 | reddit | +14 | 0 |
 | tiktok | +35 | 0 |
 | linktree | +5 | 0 |
@@ -77,14 +77,14 @@ Of **643** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 489 | 507 |
-| Active last week | 128 | 211 |
+| Active last week | 129 | 211 |
 | Active last month | 194 | 282 |
 | Active last 3 months | 252 | 332 |
 | Active last year | 344 | 409 |
 
 ## Audit Data
 
-**52** projects audited with **69** reports.
+**53** projects audited with **70** reports.
 
 *Audit data provided by [Soroban Security](https://sorobansecurity.com).*
 
@@ -100,8 +100,8 @@ Of **643** SCF-funded projects:
 | Zellic | 2 |
 | OpenZeppelin | 2 |
 | CoinFabrik | 2 |
+| Сoinspect | 2 |
 | Hacken | 1 |
-| Сoinspect | 1 |
 
 ## Data Sources
 
@@ -117,10 +117,10 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 3987 |
-| SCF | 3679 |
+| Lumen Loop | 3991 |
+| SCF | 3677 |
 | Stellar Expert | 362 |
-| Soroban Security | 69 |
+| Soroban Security | 70 |
 | DeFiLlama | 23 |
 
 ## Needs Review

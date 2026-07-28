@@ -3,26 +3,27 @@ other_names:
   - Connecting Balanced to Stellar
   - Balanced
 parent: null
-description: "Balanced is a cross-chain DEX and stablecoin that enables\_native cross-chain DeFi primitives for any ecosystem."
+description: "Sodax is a cross-chain DEX and stablecoin that enables\_native cross-chain DeFi primitives for any ecosystem."
 links:
   website:
-    - balanced.network
-  blog:
-    - blog.balanced.network
+    - sodax.com
+  blog: []
   x:
     - balanceddefi
-  linkedin: []
+  linkedin:
+    - linkedin.com/company/gosodax
   discord:
-    - discord.gg/xyw5z5n9pw
+    - sodax.com/discord
   telegram: []
   youtube: []
-  instagram: []
+  instagram:
+    - gosodax
   reddit:
     - r/balancednetwork
   tiktok: []
   linktree: []
   github:
-    - github.com/balancednetwork
+    - github.com/icon-project/sodax-sdks
 attributes:
   category: Financial Protocols
   tags:
@@ -45,5 +46,9 @@ scf:
     - communityfund.stellar.org/submissions/recQKKkneN4Bw49s9
     - communityfund.stellar.org/submissions/recsdvsPQ2rnhYmtS
 mainnet:
-  audits: []
+  audits:
+    - name: Smart Contract Audit xCall Soroban Implementation
+      url: sorobansecurity.com/report/11
+      date: '2024-09-30T15:00:00Z'
+      auditor: Сoinspect
   tokens: []
