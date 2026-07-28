@@ -77,7 +77,7 @@ Of **643** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 489 | 507 |
-| Active last week | 129 | 211 |
+| Active last week | 129 | 209 |
 | Active last month | 194 | 282 |
 | Active last 3 months | 252 | 332 |
 | Active last year | 344 | 409 |
@@ -96,10 +96,10 @@ Of **643** SCF-funded projects:
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
-| Code4rena | 2 |
 | Zellic | 2 |
-| OpenZeppelin | 2 |
+| Code4rena | 2 |
 | CoinFabrik | 2 |
+| OpenZeppelin | 2 |
 | Сoinspect | 2 |
 | Hacken | 1 |
 
@@ -128,13 +128,13 @@ How many data points each contributor provides across the directory:
 10 items need attention.
 
 **SCF project missing website** (10):
-- sendit
 - paysapp
 - crypto-link
+- sendit
+- frost-implementation
 - wally
 - the-starship-soroban
 - timed-transactions-api
-- frost-implementation
 - relax
 - net-sdk
 - soroban-optimistic-oracle
