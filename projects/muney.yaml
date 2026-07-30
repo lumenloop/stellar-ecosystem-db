@@ -1,0 +1,33 @@
+title: Muney
+other_names: null
+parent: null
+description: Muney is B2B stablecoin payment infrastructure for emerging markets. We help fintechs, wallets, remittance companies, payment processors, and businesses convert Stablecoins such as USDC into local value through merchant cash-out, local payouts, remittance payouts, and B2B settlement — without building their own liquidity network, compliance workflows, or last-mile payout infrastructure.
+links:
+  website:
+    - muney.app
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 44
+  awarded_total: 9500
+  submission_urls:
+    - communityfund.stellar.org/submissions/recnd9hYmEgcp2vB2
+mainnet:
+  audits: []
+  tokens: []
