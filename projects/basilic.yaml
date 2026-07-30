@@ -1,0 +1,33 @@
+title: Basilic
+other_names: null
+parent: null
+description: Basilic is a B2B payment infrastructure layer for Latin American businesses, operating as a routing layer between traditional banking rails and stablecoin settlement.
+links:
+  website:
+    - getbasilic.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 44
+  awarded_total: 10000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recBuXZtPYjOQNSWn
+mainnet:
+  audits: []
+  tokens: []
