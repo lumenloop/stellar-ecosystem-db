@@ -1,0 +1,37 @@
+title: TroqPay
+other_names: null
+parent: null
+description: |-
+  TroqPay helps Brazilian merchants sell locally, receive in USD and pay globally. Merchants can accept Pix online or in person through payment links, API, checkout, and POS, while managing payments, balances, digital-dollar access, and AI-assisted merchant analytics in one platform.
+
+  For this SCF build, we want to bring Stellar into TroqPay’s merchant flow as the digital-dollar balance layer. We plan to use Privy for embedded wallet onboarding and DeFindex as an optional non-custodial savings/yield module for merchants who choose to hold digital dollars.
+links:
+  website:
+    - troqpay.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/troqpay
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 44
+  awarded_total: 6000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recidiiEnQNycc3LA
+mainnet:
+  audits: []
+  tokens: []
