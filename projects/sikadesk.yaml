@@ -1,0 +1,34 @@
+title: Sikadesk
+other_names: null
+parent: null
+description: Sikadesk is a stablecoin liquidity and modern OTC infrastructure platform built to enable high volume access to stablecoins across Africa.
+links:
+  website:
+    - sikadesk.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/sikadesk
+attributes:
+  category: Financial Protocols
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 44
+  awarded_total: 11200
+  submission_urls:
+    - communityfund.stellar.org/submissions/recqGOOjzFp6WU5iX
+mainnet:
+  audits: []
+  tokens: []
