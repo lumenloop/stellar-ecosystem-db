@@ -6,8 +6,8 @@
 
 | Metric | Count |
 |--------|------:|
-| Total projects | **808** |
-| SCF-funded projects | 671 |
+| Total projects | **809** |
+| SCF-funded projects | 672 |
 | Community projects | 137 |
 | Audited projects | 53 |
 
@@ -15,33 +15,33 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 790/808 | 97.8% |
-| website | 797/808 | 98.6% |
-| blog | 250/808 | 30.9% |
-| x | 554/808 | 68.6% |
-| linkedin | 403/808 | 49.9% |
-| discord | 212/808 | 26.2% |
-| telegram | 148/808 | 18.3% |
-| youtube | 168/808 | 20.8% |
-| instagram | 128/808 | 15.8% |
-| reddit | 14/808 | 1.7% |
-| tiktok | 35/808 | 4.3% |
-| linktree | 5/808 | 0.6% |
-| github | 553/808 | 68.4% |
-| category | 808/808 | 100% |
-| tags | 781/808 | 96.7% |
-| operating_region | 772/808 | 95.5% |
-| based_in | 718/808 | 88.9% |
+| description | 791/809 | 97.8% |
+| website | 798/809 | 98.6% |
+| blog | 250/809 | 30.9% |
+| x | 554/809 | 68.5% |
+| linkedin | 403/809 | 49.8% |
+| discord | 212/809 | 26.2% |
+| telegram | 148/809 | 18.3% |
+| youtube | 168/809 | 20.8% |
+| instagram | 128/809 | 15.8% |
+| reddit | 14/809 | 1.7% |
+| tiktok | 35/809 | 4.3% |
+| linktree | 5/809 | 0.6% |
+| github | 554/809 | 68.5% |
+| category | 809/809 | 100% |
+| tags | 781/809 | 96.5% |
+| operating_region | 772/809 | 95.4% |
+| based_in | 718/809 | 88.8% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **808** projects (incl. **131** community projects not in SCF) against **704** in SCF Airtable:
+Per-project comparison of our **809** projects (incl. **131** community projects not in SCF) against **704** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +192 | 598 |
-| website | +218 | 579 |
-| github | +176 | 377 |
+| description | +193 | 598 |
+| website | +219 | 579 |
+| github | +177 | 377 |
 | x | +267 | 287 |
 | linkedin | +196 | 207 |
 | discord | +102 | 110 |
@@ -58,15 +58,15 @@ Per-project comparison of our **808** projects (incl. **131** community projects
 
 ## SCF Project Coverage
 
-Of **671** SCF-funded projects:
+Of **672** SCF-funded projects:
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| awarded_total | 667/671 | 99.4% |
-| awarded_round | 671/671 | 100% |
-| submission_urls | 671/671 | 100% |
-| website | 661/671 | 98.5% |
-| github | 490/671 | 73% |
+| awarded_total | 668/672 | 99.4% |
+| awarded_round | 672/672 | 100% |
+| submission_urls | 672/672 | 100% |
+| website | 662/672 | 98.5% |
+| github | 491/672 | 73.1% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -76,11 +76,11 @@ Of **671** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 505 | 509 |
+| Tracked projects | 506 | 509 |
 | Active last week | 142 | 213 |
 | Active last month | 203 | 285 |
 | Active last 3 months | 267 | 334 |
-| Active last year | 359 | 409 |
+| Active last year | 360 | 409 |
 
 ## Audit Data
 
@@ -96,10 +96,10 @@ Of **671** SCF-funded projects:
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
-| Code4rena | 2 |
 | Zellic | 2 |
-| Сoinspect | 2 |
 | CoinFabrik | 2 |
+| Code4rena | 2 |
+| Сoinspect | 2 |
 | OpenZeppelin | 2 |
 | Hacken | 1 |
 
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 3751 |
+| Lumen Loop | 3756 |
 | SCF | 3749 |
 | Stellar Expert | 362 |
 | Soroban Security | 70 |
@@ -130,12 +130,8 @@ How many data points each contributor provides across the directory:
 **description empty** (18):
 - safu
 - bluechip
-- ballast-re
-- scopuly
-- amulets
 - octarine
 - lucent
-- trustline
 - jumpa
 - remi
 - authline
@@ -143,19 +139,23 @@ How many data points each contributor provides across the directory:
 - lumenwipe
 - fuul
 - soropass
+- ballast-re
 - chainless
 - elementpay
+- scopuly
+- amulets
+- trustline
 - smart-treasury
 
 **SCF project missing website** (10):
 - crypto-link
-- soroban-optimistic-oracle
-- the-starship-soroban
 - frost-implementation
 - net-sdk
-- wally
 - timed-transactions-api
-- paysapp
 - relax
+- soroban-optimistic-oracle
+- the-starship-soroban
+- wally
+- paysapp
 - sendit
 
