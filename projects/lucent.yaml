@@ -1,0 +1,33 @@
+title: Lucent
+other_names: null
+parent: null
+description: ''
+links:
+  website:
+    - starusd.xyz
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Financial Protocols
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 44
+  awarded_total: 13500
+  submission_urls:
+    - communityfund.stellar.org/submissions/recZeITw6WJDXb0u8
+mainnet:
+  audits: []
+  tokens: []
