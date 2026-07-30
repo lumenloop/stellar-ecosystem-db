@@ -1,0 +1,37 @@
+title: Offer Hub
+other_names: null
+parent: null
+description: Offer Hub is a decentralized freelancing platform that revolutionizes the freelance job market through blockchain technology, cryptocurrency payments, and smart contracts. Our platform eliminates traditional intermediaries, significantly reduces commissions, and empowers both freelancers and clients with secure and transparent tools to collaborate in areas such as design, programming, writing, consulting, and more.
+links:
+  website:
+    - offer-hub.org
+  blog: []
+  x:
+    - offerhub_
+  linkedin:
+    - linkedin.com/in/offer-hub-bb797a389
+  discord:
+    - discord.gg/nfabhwue
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/offer-hub
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: Costa Rica
+images: null
+scf:
+  awarded_round:
+    - 44
+  awarded_total: 7400
+  submission_urls:
+    - communityfund.stellar.org/submissions/recQJGuWgzvNmv2sM
+mainnet:
+  audits: []
+  tokens: []
