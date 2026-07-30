@@ -6,8 +6,8 @@
 
 | Metric | Count |
 |--------|------:|
-| Total projects | **784** |
-| SCF-funded projects | 647 |
+| Total projects | **785** |
+| SCF-funded projects | 648 |
 | Community projects | 137 |
 | Audited projects | 53 |
 
@@ -15,33 +15,33 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 783/784 | 99.9% |
-| website | 773/784 | 98.6% |
-| blog | 250/784 | 31.9% |
-| x | 553/784 | 70.5% |
-| linkedin | 402/784 | 51.3% |
-| discord | 211/784 | 26.9% |
-| telegram | 148/784 | 18.9% |
-| youtube | 168/784 | 21.4% |
-| instagram | 128/784 | 16.3% |
-| reddit | 14/784 | 1.8% |
-| tiktok | 35/784 | 4.5% |
-| linktree | 5/784 | 0.6% |
-| github | 537/784 | 68.5% |
-| category | 784/784 | 100% |
-| tags | 781/784 | 99.6% |
-| operating_region | 772/784 | 98.5% |
-| based_in | 717/784 | 91.5% |
+| description | 783/785 | 99.7% |
+| website | 774/785 | 98.6% |
+| blog | 250/785 | 31.8% |
+| x | 553/785 | 70.4% |
+| linkedin | 402/785 | 51.2% |
+| discord | 211/785 | 26.9% |
+| telegram | 148/785 | 18.9% |
+| youtube | 168/785 | 21.4% |
+| instagram | 128/785 | 16.3% |
+| reddit | 14/785 | 1.8% |
+| tiktok | 35/785 | 4.5% |
+| linktree | 5/785 | 0.6% |
+| github | 538/785 | 68.5% |
+| category | 785/785 | 100% |
+| tags | 781/785 | 99.5% |
+| operating_region | 772/785 | 98.3% |
+| based_in | 717/785 | 91.3% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **784** projects (incl. **131** community projects not in SCF) against **704** in SCF Airtable:
+Per-project comparison of our **785** projects (incl. **131** community projects not in SCF) against **704** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
 | description | +185 | 598 |
-| website | +194 | 579 |
-| github | +160 | 377 |
+| website | +195 | 579 |
+| github | +161 | 377 |
 | x | +266 | 287 |
 | linkedin | +195 | 207 |
 | discord | +101 | 110 |
@@ -58,15 +58,15 @@ Per-project comparison of our **784** projects (incl. **131** community projects
 
 ## SCF Project Coverage
 
-Of **647** SCF-funded projects:
+Of **648** SCF-funded projects:
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| awarded_total | 646/647 | 99.8% |
-| awarded_round | 647/647 | 100% |
-| submission_urls | 647/647 | 100% |
-| website | 637/647 | 98.5% |
-| github | 474/647 | 73.3% |
+| awarded_total | 647/648 | 99.8% |
+| awarded_round | 648/648 | 100% |
+| submission_urls | 648/648 | 100% |
+| website | 638/648 | 98.5% |
+| github | 475/648 | 73.3% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -76,11 +76,11 @@ Of **647** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 490 | 507 |
-| Active last week | 135 | 212 |
-| Active last month | 193 | 283 |
-| Active last 3 months | 252 | 332 |
-| Active last year | 344 | 407 |
+| Tracked projects | 491 | 507 |
+| Active last week | 136 | 211 |
+| Active last month | 194 | 283 |
+| Active last 3 months | 253 | 332 |
+| Active last year | 345 | 407 |
 
 ## Audit Data
 
@@ -96,10 +96,10 @@ Of **647** SCF-funded projects:
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
+| Zellic | 2 |
 | Code4rena | 2 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Zellic | 2 |
 | Сoinspect | 2 |
 | Hacken | 1 |
 
@@ -118,19 +118,23 @@ How many data points each contributor provides across the directory:
 | Source | Contributions |
 |--------|------:|
 | SCF | 3749 |
-| Lumen Loop | 3652 |
+| Lumen Loop | 3656 |
 | Stellar Expert | 362 |
 | Soroban Security | 70 |
 | DeFiLlama | 23 |
 
 ## Needs Review
 
-11 items need attention.
+12 items need attention.
+
+**description empty** (2):
+- lusty
+- remi
 
 **SCF project missing website** (10):
 - crypto-link
-- sendit
 - paysapp
+- sendit
 - net-sdk
 - frost-implementation
 - the-starship-soroban
@@ -138,7 +142,4 @@ How many data points each contributor provides across the directory:
 - soroban-optimistic-oracle
 - wally
 - timed-transactions-api
-
-**description empty** (1):
-- remi
 
