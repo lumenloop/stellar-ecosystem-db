@@ -1,0 +1,33 @@
+title: Amulets
+other_names: null
+parent: null
+description: ''
+links:
+  website:
+    - amulets.io
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 44
+  awarded_total: null
+  submission_urls:
+    - communityfund.stellar.org/submissions/recL4xKNl5sGo9F7A
+mainnet:
+  audits: []
+  tokens: []
