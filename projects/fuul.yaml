@@ -1,0 +1,34 @@
+title: Fuul
+other_names: null
+parent: null
+description: ''
+links:
+  website:
+    - fuul.xyz
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/fuul-protocol
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 44
+  awarded_total: 10500
+  submission_urls:
+    - communityfund.stellar.org/submissions/recTKSLmfcHgAn3X2
+mainnet:
+  audits: []
+  tokens: []
