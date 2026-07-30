@@ -1,0 +1,34 @@
+title: LumAgg
+other_names: null
+parent: null
+description: LumAgg is a liquidity aggregator for Stellar’s Soroban DEX ecosystem. It discovers prices across Soroswap, Aquarius (volatile, stable, and CLMM), Phoenix, Sushi V3, Comet, and Stellar Classic DEX, then returns the best route—including split execution across multiple venues in a single atomic swap.
+links:
+  website:
+    - lumagg.xyz
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/lum-agg/stellar-dex-agg
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 44
+  awarded_total: 9000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recFRG56TbGtuXbMt
+mainnet:
+  audits: []
+  tokens: []
