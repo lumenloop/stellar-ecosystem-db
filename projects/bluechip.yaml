@@ -1,0 +1,33 @@
+title: Bluechip
+other_names: null
+parent: null
+description: ''
+links:
+  website:
+    - bluechip.org
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 44
+  awarded_total: 13650
+  submission_urls:
+    - communityfund.stellar.org/submissions/recbX8pYYdcArFEPe
+mainnet:
+  audits: []
+  tokens: []
