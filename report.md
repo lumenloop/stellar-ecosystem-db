@@ -23,7 +23,7 @@
 | discord | 212/811 | 26.1% |
 | telegram | 148/811 | 18.2% |
 | youtube | 168/811 | 20.7% |
-| instagram | 128/811 | 15.8% |
+| instagram | 129/811 | 15.9% |
 | reddit | 14/811 | 1.7% |
 | tiktok | 35/811 | 4.3% |
 | linktree | 5/811 | 0.6% |
@@ -49,7 +49,7 @@ Per-project comparison of our **811** projects (incl. **131** community projects
 | blog | +250 | 0 |
 | telegram | +148 | 0 |
 | youtube | +168 | 0 |
-| instagram | +128 | 0 |
+| instagram | +129 | 0 |
 | reddit | +14 | 0 |
 | tiktok | +35 | 0 |
 | linktree | +5 | 0 |
@@ -96,11 +96,11 @@ Of **674** SCF-funded projects:
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
-| CoinFabrik | 2 |
 | Code4rena | 2 |
-| OpenZeppelin | 2 |
+| CoinFabrik | 2 |
 | Сoinspect | 2 |
 | Zellic | 2 |
+| OpenZeppelin | 2 |
 | Hacken | 1 |
 
 ## Data Sources
@@ -117,8 +117,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 3766 |
-| SCF | 3748 |
+| Lumen Loop | 4095 |
+| SCF | 3420 |
 | Stellar Expert | 362 |
 | Soroban Security | 70 |
 | DeFiLlama | 23 |
@@ -130,29 +130,29 @@ How many data points each contributor provides across the directory:
 **description empty** (19):
 - for-yield
 - safu
-- lucent
 - jumpa
-- remi
 - authline
+- lucent
 - lusty
-- lumenwipe
 - fuul
 - soropass
-- ballast-re
 - bluechip
 - chainless
 - elementpay
 - octarine
 - scopuly
+- trustline
+- remi
+- lumenwipe
+- ballast-re
 - amulets
 - smart-treasury
-- trustline
 
 **SCF project missing website** (10):
-- crypto-link
 - frost-implementation
 - net-sdk
 - timed-transactions-api
+- crypto-link
 - wally
 - paysapp
 - relax
