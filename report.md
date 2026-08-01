@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-07-31
+> Auto-generated on 2026-08-01
 
 ## Summary
 
@@ -77,10 +77,10 @@ Of **674** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 508 | 510 |
-| Active last week | 140 | 214 |
-| Active last month | 203 | 285 |
-| Active last 3 months | 270 | 335 |
-| Active last year | 362 | 410 |
+| Active last week | 138 | 211 |
+| Active last month | 202 | 286 |
+| Active last 3 months | 269 | 336 |
+| Active last year | 361 | 410 |
 
 ## Audit Data
 
@@ -96,11 +96,11 @@ Of **674** SCF-funded projects:
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
-| Code4rena | 2 |
 | CoinFabrik | 2 |
 | Сoinspect | 2 |
-| Zellic | 2 |
+| Code4rena | 2 |
 | OpenZeppelin | 2 |
+| Zellic | 2 |
 | Hacken | 1 |
 
 ## Data Sources
@@ -128,6 +128,7 @@ How many data points each contributor provides across the directory:
 29 items need attention.
 
 **description empty** (19):
+- octarine
 - for-yield
 - safu
 - jumpa
@@ -139,24 +140,23 @@ How many data points each contributor provides across the directory:
 - bluechip
 - chainless
 - elementpay
-- octarine
-- scopuly
-- trustline
 - remi
-- lumenwipe
 - ballast-re
 - amulets
 - smart-treasury
+- scopuly
+- trustline
+- lumenwipe
 
 **SCF project missing website** (10):
-- frost-implementation
-- net-sdk
 - timed-transactions-api
 - crypto-link
+- frost-implementation
 - wally
 - paysapp
 - relax
-- soroban-optimistic-oracle
 - the-starship-soroban
 - sendit
+- net-sdk
+- soroban-optimistic-oracle
 

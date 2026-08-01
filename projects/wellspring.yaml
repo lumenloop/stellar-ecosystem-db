@@ -15,7 +15,8 @@ links:
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/trustek-io/rampmedaddy-frontend
 attributes:
   category: Applications
   tags:
