@@ -16,6 +16,7 @@ links:
   tiktok: []
   linktree: []
   github:
+    - github.com/trustek-io/wellspring-mvp-treasurymanagement
     - github.com/trustek-io/rampmedaddy-frontend
 attributes:
   category: Applications
