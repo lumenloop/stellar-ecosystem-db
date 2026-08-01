@@ -77,8 +77,8 @@ Of **674** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 508 | 510 |
-| Active last week | 138 | 211 |
-| Active last month | 202 | 286 |
+| Active last week | 138 | 213 |
+| Active last month | 201 | 286 |
 | Active last 3 months | 269 | 336 |
 | Active last year | 362 | 410 |
 
@@ -128,35 +128,35 @@ How many data points each contributor provides across the directory:
 29 items need attention.
 
 **description empty** (19):
-- octarine
 - for-yield
+- octarine
 - safu
 - jumpa
+- soropass
+- ballast-re
+- smart-treasury
+- lumenwipe
 - authline
 - lucent
 - lusty
 - scopuly
 - trustline
 - fuul
-- soropass
 - bluechip
 - chainless
 - elementpay
 - remi
-- ballast-re
 - amulets
-- smart-treasury
-- lumenwipe
 
 **SCF project missing website** (10):
 - timed-transactions-api
 - crypto-link
-- frost-implementation
-- sendit
-- soroban-optimistic-oracle
-- wally
 - paysapp
+- frost-implementation
 - relax
 - the-starship-soroban
 - net-sdk
+- sendit
+- soroban-optimistic-oracle
+- wally
 
