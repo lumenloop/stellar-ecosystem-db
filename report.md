@@ -99,8 +99,8 @@ Of **674** SCF-funded projects:
 | CoinFabrik | 2 |
 | Сoinspect | 2 |
 | Code4rena | 2 |
-| OpenZeppelin | 2 |
 | Zellic | 2 |
+| OpenZeppelin | 2 |
 | Hacken | 1 |
 
 ## Data Sources
@@ -135,6 +135,8 @@ How many data points each contributor provides across the directory:
 - authline
 - lucent
 - lusty
+- scopuly
+- trustline
 - fuul
 - soropass
 - bluechip
@@ -144,19 +146,17 @@ How many data points each contributor provides across the directory:
 - ballast-re
 - amulets
 - smart-treasury
-- scopuly
-- trustline
 - lumenwipe
 
 **SCF project missing website** (10):
 - timed-transactions-api
 - crypto-link
 - frost-implementation
+- sendit
+- soroban-optimistic-oracle
 - wally
 - paysapp
 - relax
 - the-starship-soroban
-- sendit
 - net-sdk
-- soroban-optimistic-oracle
 
