@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-08-01
+> Auto-generated on 2026-08-02
 
 ## Summary
 
@@ -18,14 +18,14 @@
 | description | 792/811 | 97.7% |
 | website | 800/811 | 98.6% |
 | blog | 250/811 | 30.8% |
-| x | 554/811 | 68.3% |
-| linkedin | 403/811 | 49.7% |
+| x | 555/811 | 68.4% |
+| linkedin | 404/811 | 49.8% |
 | discord | 212/811 | 26.1% |
 | telegram | 148/811 | 18.2% |
-| youtube | 168/811 | 20.7% |
-| instagram | 129/811 | 15.9% |
+| youtube | 169/811 | 20.8% |
+| instagram | 130/811 | 16% |
 | reddit | 14/811 | 1.7% |
-| tiktok | 35/811 | 4.3% |
+| tiktok | 36/811 | 4.4% |
 | linktree | 5/811 | 0.6% |
 | github | 556/811 | 68.6% |
 | category | 811/811 | 100% |
@@ -42,16 +42,16 @@ Per-project comparison of our **811** projects (incl. **131** community projects
 | description | +194 | 598 |
 | website | +221 | 579 |
 | github | +179 | 377 |
-| x | +267 | 287 |
-| linkedin | +196 | 207 |
+| x | +268 | 287 |
+| linkedin | +197 | 207 |
 | discord | +102 | 110 |
 | based_in | +238 | 480 |
 | blog | +250 | 0 |
 | telegram | +148 | 0 |
-| youtube | +168 | 0 |
-| instagram | +129 | 0 |
+| youtube | +169 | 0 |
+| instagram | +130 | 0 |
 | reddit | +14 | 0 |
-| tiktok | +35 | 0 |
+| tiktok | +36 | 0 |
 | linktree | +5 | 0 |
 
 *"Added" = we filled a field SCF didn't have. "Modified" = SCF had a value, we store a different one.*
@@ -76,11 +76,11 @@ Of **674** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 508 | 510 |
-| Active last week | 138 | 213 |
-| Active last month | 201 | 286 |
-| Active last 3 months | 269 | 336 |
-| Active last year | 362 | 410 |
+| Tracked projects | 508 | 511 |
+| Active last week | 138 | 217 |
+| Active last month | 201 | 282 |
+| Active last 3 months | 270 | 336 |
+| Active last year | 363 | 411 |
 
 ## Audit Data
 
@@ -97,8 +97,8 @@ Of **674** SCF-funded projects:
 | Halborn | 5 |
 | Quarkslab | 3 |
 | CoinFabrik | 2 |
-| Сoinspect | 2 |
 | Code4rena | 2 |
+| Сoinspect | 2 |
 | Zellic | 2 |
 | OpenZeppelin | 2 |
 | Hacken | 1 |
@@ -117,8 +117,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4096 |
-| SCF | 3419 |
+| Lumen Loop | 4104 |
+| SCF | 3416 |
 | Stellar Expert | 362 |
 | Soroban Security | 70 |
 | DeFiLlama | 23 |
@@ -128,8 +128,8 @@ How many data points each contributor provides across the directory:
 29 items need attention.
 
 **description empty** (19):
-- for-yield
 - octarine
+- for-yield
 - safu
 - jumpa
 - soropass
