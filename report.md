@@ -77,7 +77,7 @@ Of **674** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 508 | 511 |
-| Active last week | 138 | 217 |
+| Active last week | 138 | 216 |
 | Active last month | 201 | 282 |
 | Active last 3 months | 270 | 336 |
 | Active last year | 363 | 411 |
@@ -131,12 +131,12 @@ How many data points each contributor provides across the directory:
 - octarine
 - for-yield
 - safu
-- jumpa
-- soropass
 - ballast-re
+- jumpa
+- authline
+- soropass
 - smart-treasury
 - lumenwipe
-- authline
 - lucent
 - lusty
 - scopuly
@@ -154,8 +154,8 @@ How many data points each contributor provides across the directory:
 - paysapp
 - frost-implementation
 - relax
-- the-starship-soroban
 - net-sdk
+- the-starship-soroban
 - sendit
 - soroban-optimistic-oracle
 - wally
