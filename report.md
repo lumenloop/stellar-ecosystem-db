@@ -117,8 +117,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 3773 |
-| SCF | 3758 |
+| Lumen Loop | 3774 |
+| SCF | 3757 |
 | Stellar Expert | 362 |
 | Soroban Security | 70 |
 | DeFiLlama | 23 |
@@ -129,18 +129,18 @@ How many data points each contributor provides across the directory:
 
 **description empty** (8):
 - safu
-- authline
 - soropass
 - smart-treasury
 - lusty
+- authline
 - scopuly
 - chainless
 - remi
 
 **SCF project missing website** (10):
+- timed-transactions-api
 - frost-implementation
 - relax
-- timed-transactions-api
 - net-sdk
 - crypto-link
 - paysapp

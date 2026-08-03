@@ -3,7 +3,9 @@ other_names: null
 parent: null
 description: ACTA is a decentralized identity and verifiable credentials platform built on Stellar. It enables organizations and individuals to issue, share, and verify W3C-compliant credentials on-chain via Soroban smart contracts — no programming knowledge required. ACTA also implements the did:stellar DID method standard for portable, resolvable identity across the Stellar ecosystem.
 links:
-  website: []
+  website:
+    - acta.build
+    - dapp.acta.build
   blog: []
   x:
     - actaxyz
