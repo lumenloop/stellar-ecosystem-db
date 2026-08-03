@@ -30,8 +30,8 @@
 | github | 556/811 | 68.6% |
 | category | 811/811 | 100% |
 | tags | 787/811 | 97% |
-| operating_region | 775/811 | 95.6% |
-| based_in | 723/811 | 89.1% |
+| operating_region | 776/811 | 95.7% |
+| based_in | 724/811 | 89.3% |
 
 ## Enrichment vs SCF Airtable
 
@@ -45,7 +45,7 @@ Per-project comparison of our **811** projects (incl. **131** community projects
 | x | +269 | 289 |
 | linkedin | +196 | 207 |
 | discord | +102 | 110 |
-| based_in | +243 | 480 |
+| based_in | +244 | 480 |
 | blog | +250 | 0 |
 | telegram | +149 | 0 |
 | youtube | +168 | 0 |
@@ -97,9 +97,9 @@ Of **674** SCF-funded projects:
 | Halborn | 5 |
 | Quarkslab | 3 |
 | Сoinspect | 2 |
-| CoinFabrik | 2 |
 | Code4rena | 2 |
 | Zellic | 2 |
+| CoinFabrik | 2 |
 | OpenZeppelin | 2 |
 | Hacken | 1 |
 
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4127 |
+| Lumen Loop | 4129 |
 | SCF | 3429 |
 | Stellar Expert | 363 |
 | Soroban Security | 70 |
@@ -130,11 +130,11 @@ How many data points each contributor provides across the directory:
 **SCF project missing website** (10):
 - timed-transactions-api
 - the-starship-soroban
-- sendit
 - soroban-optimistic-oracle
 - wally
-- frost-implementation
 - relax
+- sendit
+- frost-implementation
 - net-sdk
 - paysapp
 - crypto-link

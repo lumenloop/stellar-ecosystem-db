@@ -23,8 +23,9 @@ attributes:
     - SDK
     - Stablecoins
     - RWA
-  operating_region: []
-  based_in: null
+  operating_region:
+    - Global
+  based_in: France
 images: null
 scf:
   awarded_round:
