@@ -18,14 +18,14 @@
 | description | 803/811 | 99% |
 | website | 800/811 | 98.6% |
 | blog | 250/811 | 30.8% |
-| x | 555/811 | 68.4% |
-| linkedin | 404/811 | 49.8% |
+| x | 554/811 | 68.3% |
+| linkedin | 403/811 | 49.7% |
 | discord | 212/811 | 26.1% |
 | telegram | 148/811 | 18.2% |
-| youtube | 169/811 | 20.8% |
-| instagram | 130/811 | 16% |
+| youtube | 168/811 | 20.7% |
+| instagram | 129/811 | 15.9% |
 | reddit | 14/811 | 1.7% |
-| tiktok | 36/811 | 4.4% |
+| tiktok | 35/811 | 4.3% |
 | linktree | 5/811 | 0.6% |
 | github | 556/811 | 68.6% |
 | category | 811/811 | 100% |
@@ -42,16 +42,16 @@ Per-project comparison of our **811** projects (incl. **131** community projects
 | description | +188 | 615 |
 | website | +203 | 597 |
 | github | +179 | 377 |
-| x | +266 | 289 |
-| linkedin | +197 | 207 |
+| x | +265 | 289 |
+| linkedin | +196 | 207 |
 | discord | +102 | 110 |
 | based_in | +238 | 480 |
 | blog | +250 | 0 |
 | telegram | +148 | 0 |
-| youtube | +169 | 0 |
-| instagram | +130 | 0 |
+| youtube | +168 | 0 |
+| instagram | +129 | 0 |
 | reddit | +14 | 0 |
-| tiktok | +36 | 0 |
+| tiktok | +35 | 0 |
 | linktree | +5 | 0 |
 
 *"Added" = we filled a field SCF didn't have. "Modified" = SCF had a value, we store a different one.*
@@ -76,11 +76,11 @@ Of **674** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 508 | 511 |
-| Active last week | 142 | 215 |
-| Active last month | 197 | 278 |
-| Active last 3 months | 269 | 336 |
-| Active last year | 363 | 411 |
+| Tracked projects | 508 | 510 |
+| Active last week | 141 | 214 |
+| Active last month | 196 | 277 |
+| Active last 3 months | 268 | 335 |
+| Active last year | 362 | 410 |
 
 ## Audit Data
 
@@ -97,9 +97,9 @@ Of **674** SCF-funded projects:
 | Halborn | 5 |
 | Quarkslab | 3 |
 | Code4rena | 2 |
-| CoinFabrik | 2 |
 | Сoinspect | 2 |
 | Zellic | 2 |
+| CoinFabrik | 2 |
 | OpenZeppelin | 2 |
 | Hacken | 1 |
 
@@ -117,8 +117,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 3774 |
-| SCF | 3757 |
+| Lumen Loop | 3789 |
+| SCF | 3742 |
 | Stellar Expert | 362 |
 | Soroban Security | 70 |
 | DeFiLlama | 23 |
@@ -127,25 +127,25 @@ How many data points each contributor provides across the directory:
 
 18 items need attention.
 
-**description empty** (8):
-- safu
-- soropass
-- smart-treasury
-- lusty
-- authline
-- scopuly
-- chainless
-- remi
-
 **SCF project missing website** (10):
-- timed-transactions-api
-- frost-implementation
-- relax
 - net-sdk
 - crypto-link
-- paysapp
+- timed-transactions-api
 - the-starship-soroban
 - sendit
 - soroban-optimistic-oracle
 - wally
+- frost-implementation
+- relax
+- paysapp
+
+**description empty** (8):
+- safu
+- authline
+- scopuly
+- soropass
+- smart-treasury
+- lusty
+- chainless
+- remi
 

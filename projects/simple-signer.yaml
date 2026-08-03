@@ -6,21 +6,17 @@ links:
   website:
     - github.com/fsodano/simple-stellar-signer
   blog: []
-  x:
-    - github
-  linkedin:
-    - linkedin.com/company/github
+  x: []
+  linkedin: []
   discord: []
   telegram: []
-  youtube:
-    - youtube.com/github
-  instagram:
-    - github
+  youtube: []
+  instagram: []
   reddit: []
-  tiktok:
-    - github
+  tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/fsodano/simple-stellar-signer
 attributes:
   category: Developer Tooling
   tags:
