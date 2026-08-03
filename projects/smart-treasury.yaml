@@ -1,7 +1,7 @@
 title: Smart Treasury
 other_names: null
 parent: null
-description: ''
+description: A programmable treasury account on Stellar that helps organizations automate payments, approvals, scheduled operations, and recovery workflows through policy-driven Soroban smart contracts.
 links:
   website:
     - smarttreasury.io
@@ -19,7 +19,10 @@ links:
     - github.com/smart-treasury-account-sta
 attributes:
   category: Financial Protocols
-  tags: []
+  tags:
+    - Stablecoins
+    - Automation
+    - Multi Signatures
   operating_region: []
   based_in: null
 images: null

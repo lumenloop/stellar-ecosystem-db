@@ -1,7 +1,7 @@
 title: Soropass
 other_names: null
 parent: null
-description: ''
+description: A minimal passkey SDK and drop-in create / sign / recover components for Stellar smart accounts, built to plug into stellar-wallets-kit. ES256-only, always low-S, proven on testnet.
 links:
   website:
     - soropass.dev
@@ -19,7 +19,10 @@ links:
     - github.com/justmert/soropass
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - SDK
+    - Wallet Infra
+    - Security
   operating_region: []
   based_in: null
 images: null

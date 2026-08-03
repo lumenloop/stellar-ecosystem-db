@@ -15,7 +15,7 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 809/811 | 99.8% |
+| description | 811/811 | 100% |
 | website | 800/811 | 98.6% |
 | blog | 250/811 | 30.8% |
 | x | 558/811 | 68.8% |
@@ -29,7 +29,7 @@
 | linktree | 5/811 | 0.6% |
 | github | 556/811 | 68.6% |
 | category | 811/811 | 100% |
-| tags | 787/811 | 97% |
+| tags | 789/811 | 97.3% |
 | operating_region | 776/811 | 95.7% |
 | based_in | 724/811 | 89.3% |
 
@@ -39,7 +39,7 @@ Per-project comparison of our **811** projects (incl. **131** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +194 | 615 |
+| description | +196 | 615 |
 | website | +203 | 597 |
 | github | +179 | 377 |
 | x | +269 | 289 |
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4129 |
+| Lumen Loop | 4133 |
 | SCF | 3429 |
 | Stellar Expert | 363 |
 | Soroban Security | 70 |
@@ -125,7 +125,7 @@ How many data points each contributor provides across the directory:
 
 ## Needs Review
 
-12 items need attention.
+10 items need attention.
 
 **SCF project missing website** (10):
 - timed-transactions-api
@@ -138,8 +138,4 @@ How many data points each contributor provides across the directory:
 - net-sdk
 - paysapp
 - crypto-link
-
-**description empty** (2):
-- soropass
-- smart-treasury
 
