@@ -1,0 +1,6 @@
+- id: CAE2G5Z77UP7GYPYGFOWFGW7C7J6I4YP2AFGSADRKQY62SYUFLPNFTXL
+  label: Decaf
+  is_pool: false
+  tags:
+    - application
+    - anchor

@@ -77,8 +77,8 @@ Of **674** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 508 | 510 |
-| Active last week | 138 | 213 |
-| Active last month | 196 | 277 |
+| Active last week | 138 | 212 |
+| Active last month | 196 | 278 |
 | Active last 3 months | 268 | 333 |
 | Active last year | 362 | 410 |
 
@@ -97,8 +97,8 @@ Of **674** SCF-funded projects:
 | Halborn | 5 |
 | Quarkslab | 3 |
 | Сoinspect | 2 |
-| CoinFabrik | 2 |
 | Code4rena | 2 |
+| CoinFabrik | 2 |
 | Zellic | 2 |
 | OpenZeppelin | 2 |
 | Hacken | 1 |
@@ -119,7 +119,7 @@ How many data points each contributor provides across the directory:
 |--------|------:|
 | Lumen Loop | 4113 |
 | SCF | 3429 |
-| Stellar Expert | 362 |
+| Stellar Expert | 363 |
 | Soroban Security | 70 |
 | DeFiLlama | 23 |
 
@@ -128,6 +128,8 @@ How many data points each contributor provides across the directory:
 15 items need attention.
 
 **SCF project missing website** (10):
+- net-sdk
+- paysapp
 - timed-transactions-api
 - the-starship-soroban
 - sendit
@@ -136,13 +138,11 @@ How many data points each contributor provides across the directory:
 - crypto-link
 - frost-implementation
 - relax
-- net-sdk
-- paysapp
 
 **description empty** (5):
-- safu
 - scopuly
 - soropass
 - smart-treasury
+- safu
 - remi
 
