@@ -1,7 +1,14 @@
 title: Amulets
 other_names: null
 parent: null
-description: ''
+description: |-
+  Amulets is a live stablecoin banking app for LatAm users.  
+
+  We give crypto users a simple dollar account to hold stablecoins, swap assets, spend globally with a Visa card, and earn crypto rewards.  
+
+  The product is already live, has real users and is generating revenue.  
+
+  Our goal is to become the primary dollar account for crypto-native users in LatAm.
 links:
   website:
     - amulets.io
@@ -25,7 +32,7 @@ images: null
 scf:
   awarded_round:
     - 44
-  awarded_total: null
+  awarded_total: 11000
   submission_urls:
     - communityfund.stellar.org/submissions/recL4xKNl5sGo9F7A
 mainnet:

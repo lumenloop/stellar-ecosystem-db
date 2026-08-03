@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-08-02
+> Auto-generated on 2026-08-03
 
 ## Summary
 
@@ -15,7 +15,7 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 792/811 | 97.7% |
+| description | 803/811 | 99% |
 | website | 800/811 | 98.6% |
 | blog | 250/811 | 30.8% |
 | x | 555/811 | 68.4% |
@@ -39,10 +39,10 @@ Per-project comparison of our **811** projects (incl. **131** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +194 | 598 |
-| website | +221 | 579 |
+| description | +188 | 615 |
+| website | +203 | 597 |
 | github | +179 | 377 |
-| x | +268 | 287 |
+| x | +266 | 289 |
 | linkedin | +197 | 207 |
 | discord | +102 | 110 |
 | based_in | +238 | 480 |
@@ -62,7 +62,7 @@ Of **674** SCF-funded projects:
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| awarded_total | 669/674 | 99.3% |
+| awarded_total | 673/674 | 99.9% |
 | awarded_round | 674/674 | 100% |
 | submission_urls | 674/674 | 100% |
 | website | 664/674 | 98.5% |
@@ -77,9 +77,9 @@ Of **674** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 508 | 511 |
-| Active last week | 138 | 216 |
-| Active last month | 201 | 282 |
-| Active last 3 months | 270 | 336 |
+| Active last week | 142 | 215 |
+| Active last month | 197 | 278 |
+| Active last 3 months | 269 | 336 |
 | Active last year | 363 | 411 |
 
 ## Audit Data
@@ -96,8 +96,8 @@ Of **674** SCF-funded projects:
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
-| CoinFabrik | 2 |
 | Code4rena | 2 |
+| CoinFabrik | 2 |
 | Сoinspect | 2 |
 | Zellic | 2 |
 | OpenZeppelin | 2 |
@@ -117,44 +117,33 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4104 |
-| SCF | 3416 |
+| Lumen Loop | 3773 |
+| SCF | 3758 |
 | Stellar Expert | 362 |
 | Soroban Security | 70 |
 | DeFiLlama | 23 |
 
 ## Needs Review
 
-29 items need attention.
+18 items need attention.
 
-**description empty** (19):
-- octarine
-- for-yield
+**description empty** (8):
 - safu
-- ballast-re
-- jumpa
 - authline
 - soropass
 - smart-treasury
-- lumenwipe
-- lucent
 - lusty
 - scopuly
-- trustline
-- fuul
-- bluechip
 - chainless
-- elementpay
 - remi
-- amulets
 
 **SCF project missing website** (10):
-- timed-transactions-api
-- crypto-link
-- paysapp
 - frost-implementation
 - relax
+- timed-transactions-api
 - net-sdk
+- crypto-link
+- paysapp
 - the-starship-soroban
 - sendit
 - soroban-optimistic-oracle

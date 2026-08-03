@@ -1,7 +1,12 @@
 title: Octarine
 other_names: null
 parent: null
-description: ''
+description: |-
+  Tokenized RWAs, such as funds, T-Bills or private credit products, are difficult to trade on traditional DEXs because they are regulated, fragmented and often include redemption periods. This lack of instant liquidity limits their use in DeFi, especially for lending market liquidations, margin calls or fast exits from a RWA into a stablecoin.
+
+  Octarine solves this problem through RFQ-based auctions. When a user or protocol needs liquidity, selected liquidity providers compete to offer the best executable price. The winning LP takes the asset, waits for its redemption period and earns a premium, while the user receives immediate liquidity. Octarine can also accept bids from third-party protocols and structure dedicated liquidity facilities, increasing available depth and price quality without leaving capital idle.
+
+  On Stellar, Octarine aims to deploy this liquidity layer for tokenized assets and enable faster and deeper secondary RWA markets.
 links:
   website:
     - octarine.finance

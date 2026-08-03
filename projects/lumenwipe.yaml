@@ -1,7 +1,14 @@
 title: LumenWipe
 other_names: null
 parent: null
-description: ''
+description: |-
+  LumenWipe closes a Stellar account and recovers its locked XLM reserves. It handles every step automatically: signer normalization, data entry removal, DEX offer cancellation, LP withdrawal, DeFi position exits (Blend, Aquarius, Soroswap, Phoenix, FxDAO), asset conversion, trustline removal, and the final account merge.
+
+  The project responds to the Account Demolisher RFP. It extends the public-domain stellar.expert/demolisher/public by Orbit Lens with the piece that tool lacks: full Soroban and DeFi parity. Any account with a Blend loan, an Aquarius LP position, or a Soroswap pair share cannot be closed with any existing tool today.
+
+  All transactions are built and signed in the browser. The backend is read-only and stateless, never in the signing path. A transparent mediator account handles CEX destinations, since no major exchange supports ACCOUNT_MERGE. A read-only allowance inspector lets users revoke token approvals without closing their account.
+
+  The classic wind-down runs on testnet and mainnet today.
 links:
   website:
     - lumenwipe.com

@@ -1,7 +1,12 @@
 title: Ballast Re
 other_names: null
 parent: null
-description: ''
+description: |-
+  Ballast Re is an RWA yield-bearing stablecoin vault backed by real-world reinsurance contracts. Reinsurance (insurance for insurers) is a $750B+ industry starved for capital. Ballast Re opens this closed market onchain with sustainable, uncorrelated, safe 6%+ yields. Team: 30+ years across insurance and DeFi, incl. fmr CEO of a major reinsurer plus AXA Ventures and Goldman Sachs alumni. $30M LP and 10+ vault partners committed.
+
+  How it works:
+
+  We issue baUSD, a yield-bearing stablecoin backed by regulated US casualty specialty reinsurance treaties, targeting 6%+ APY with zero crypto, equity, or rate correlation. $300B+ in stablecoins sits idle while casualty reinsurance faces its tight capacity with prices rising 5-10%/quarter. Ballast Re connects the two: depositors get baUSD, capital flows to our Bermuda Class 3A SAC reinsurer, and underwriting profit flows back to holders. Unlike T-bill or lending yield (2-4%), baUSD yield comes from insurance premium: no cat exposure, modeled attritional losses, principal protected by a collateral waterfall incl. Reg 114 Trust reserves.
 links:
   website:
     - ballastre.xyz

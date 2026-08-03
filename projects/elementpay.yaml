@@ -1,7 +1,10 @@
 title: ElementPay
 other_names: null
 parent: null
-description: ''
+description: |-
+  ElementPay is building stablecoin payment infrastructure for the Global South. Our vision is to make global payments faster, cheaper, and easier for businesses and everyday users by connecting stablecoins to local financial rails. Today, many businesses struggle with fragmented providers for collections, payouts, FX, settlement, and reconciliation. ElementPay solves this by providing one platform for invoicing, collections, payouts, mobile money and bank settlement, API integrations, transaction tracking, and reconciliation.
+
+  Our objective is to scale ElementPay into a full-stack payment network that serves both enterprises and consumers. Businesses can use our infrastructure to manage cross-border payments, payroll, merchant collections, supplier payouts, and remittances, while users can receive, hold, send, and withdraw stablecoins through familiar local payment channels.
 links:
   website:
     - elementpay.net

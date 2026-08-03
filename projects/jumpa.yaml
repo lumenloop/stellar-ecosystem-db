@@ -1,7 +1,14 @@
 title: Jumpa
 other_names: null
 parent: null
-description: ''
+description: |-
+  Jumpa is an automated payment platform designed to make cross-border transactions simple, fast, and accessible for users in emerging markets. Today, payments across regions like Africa, Francophone countries, and Southeast Asia are often slow, expensive, and difficult to use. Many people are excluded from modern financial systems due to lack of smartphones, language barriers, or complex banking interfaces.
+
+  Jumpa solves this by enabling users to send and receive money seamlessly without needing a bank account or advanced devices. Through chat-based interfaces and USSD,
+
+  Beyond payment, Jumpa also (partnered with companies) provides stable yield by letting users invest small amounts in tokenized real-world assets like commercial paper, offering more predictable returns than traditional DeFi (Aave) models.
+
+  By combining accessible payments with real-world asset-backed investments, Jumpa helps users not only move money but also preserve and grow their wealth, especially in regions facing inflation and currency devaluation.
 links:
   website:
     - jumpa.xyz

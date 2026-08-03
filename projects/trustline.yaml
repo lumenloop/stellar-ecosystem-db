@@ -1,7 +1,7 @@
 title: Trustline
 other_names: null
 parent: null
-description: ''
+description: Trustline unlocks institutional onchain finance. Hacks like Bybit on Ethereum and Drift on Solana are an urgent reminder that blockchain works, but isn't yet safe to use even for native users. Trustline is offering the missing security and insurance layer for institutional adoption. Since 2025, stablecoin adoption has enabled institutions to manage wallets and hold digital assets. They now seek institutional-grade yield. At the same time, proven onchain lending and trading protocols want institutional users, but their permissionless design and the $4B lost to fraud and hacks in 2025 remain major barriers. Trustline bridges this gap. It adds institutional access controls, stronger security standards, and smart contract insurance to any protocol. This helps onchain services offer a best-in-class approach to security and client fund protection, with insurance coverage if unforeseen events occur. Trustline supports asset managers and hedge funds, RWA issuers, and intermediaries or brokers matching institutional trading and lending flows. We've build a first live protected vault for algorithmic trading hedge fund on Hyperliquid, and this grant will support Trustline’s implementation on Stellar and Soroban, opening Stellar-based onchain services with institutional investors as NAV products.
 links:
   website:
     - trustline.id
@@ -26,7 +26,7 @@ images: null
 scf:
   awarded_round:
     - 44
-  awarded_total: null
+  awarded_total: 13360
   submission_urls:
     - communityfund.stellar.org/submissions/recv4jiNRbePUJRQI
 mainnet:

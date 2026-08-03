@@ -1,7 +1,16 @@
 title: Lucent
 other_names: null
 parent: null
-description: ''
+description: |-
+  A Liquity v2-style CDP protocol on Stellar lets users mint ☆USD (placeholder), a decentralized overcollateralized stablecoin, using XLM and other blue-chip assets as collateral.  
+
+  For borrowers, it offers fixed-rate, open-term USD credit. Rates are set by the user or via interest rate managers; they can be changed anytime. If a rate is too low, positions can be redeemed using collateral value, with no loss to the borrower. Historically, this model delivers cheaper fixed rates than dynamic-rate markets, Morpho-style fixed-rate orderbooks, and rate swaps, without repayment deadlines.
+
+    
+  For yield seekers, returns come from borrower interest and liquidation gains. The Stability Pool earns a share of interest and buys collateral at a discount during liquidations. DEX LPs earn interest share, trading fees, and incentives.
+
+    
+  For Stellar, this unlocks yield on XLM by enabling carry trades by borrowing ☆USD and deploying into Stability/DEX pools, making idle XLM productive. ☆USD acts as native liquidity for future lending, trading use cases, and scalable collateral expansion.
 links:
   website:
     - starusd.xyz

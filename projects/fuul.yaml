@@ -1,7 +1,16 @@
 title: Fuul
 other_names: null
 parent: null
-description: ''
+description: |-
+  Fuul is the incentives engine for the digital asset industry, powering rewards, affiliates, and loyalty programs across blockchains, DeFi, and fintech. Teams use Fuul to launch faster, iterate continuously, and scale their own incentive systems as their products and communities grow.
+
+  The platform tracks user conversion events, supports complex incentive structures, and automates rewards payouts in tokens, stablecoins, or points. Built-in analytics and compliance tooling allow teams to measure performance, prevent abuse, and operate incentive programs reliably at scale.
+
+    
+  Fuul was accelerated by a16z Crypto CSX and used by leading blockchain players, including Coinbase, Kraken, Morpho, dYdX, and others.
+
+    
+  Our objective is to deploy Fuul natively on Stellar, building Soroban smart contracts and pre-built connectors for the ecosystem's key protocols, giving the 239+ projects building on Stellar access to the same growth infrastructure that drives adoption on competing ecosystems, and accelerating user onboarding into everyday financial services on Stellar.
 links:
   website:
     - fuul.xyz

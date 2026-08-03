@@ -1,7 +1,7 @@
 title: Bluechip
 other_names: null
 parent: null
-description: ''
+description: 'Bluechip is an independent, stablecoin rating agency. Our SMIDGE framework is the first publicly available, factor-based risk model for rating stablecoin safety. We score six factors (Stability, Management, Implementation, Decentralization, Governance, and Externals) and assign letter-grade ratings (from A+ to F). These factors cover what actually matters for stablecoins: reserve composition, redemption rights, smart contract risk, and more. All ratings are publicly available on our website, alongside our rating framework.'
 links:
   website:
     - bluechip.org

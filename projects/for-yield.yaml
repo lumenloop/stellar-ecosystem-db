@@ -1,7 +1,22 @@
 title: For Yield
 other_names: null
 parent: null
-description: ''
+description: |-
+  For Yield is building one of the first French MiCA-regulated DeFi yield products on Stellar. PSCA dossier filed with AMF April 2026, agrement targeted October 2026. EP simplifie license (ACPR L.522-11-1 CMF) filed in parallel; dual-licence setup unique in France. 50 HNW clients, ~€7-8M AUM.
+
+  Why Stellar wins:
+
+  1 Regulated EU access layer Soroban DeFi lacks, routing EU capital into Blend v2, Aquarius, Soroswap via DeFindex (all on SCF Integration List).
+
+  2 EURC-first: deposits, fees, redemptions in EURC, driving Circle's Stellar adoption (aligned with SDF's 2026 EU push).
+
+  3 €25M Y1 to €100M Y3 of regulated EU capital (AMF-validated plan, profitable Y1 in every stress scenario).
+
+  4 Three open-source Soroban primitives (YieldVault, Performance Fee Module, EURC SAC wrapper) any EU operator can fork.
+
+  5 Built on 7 SCF Integration List components (DeFindex, Blend v2, Aquarius, Soroswap, Allbridge, DFNS, Stellar Wallets Kit), no new dependency.
+
+  Distribution Day 1: 35,000+ subscribers via Crypto & Macro (Saturnin Paulet's Swiss media) and signed LOIs with French wealth managers (May 2026).
 links:
   website:
     - for-yield.com
@@ -26,7 +41,7 @@ images: null
 scf:
   awarded_round:
     - 44
-  awarded_total: null
+  awarded_total: 14400
   submission_urls:
     - communityfund.stellar.org/submissions/recDqMIZnhmuWnq2f
 mainnet:
