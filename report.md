@@ -15,10 +15,10 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 804/811 | 99.1% |
+| description | 806/811 | 99.4% |
 | website | 800/811 | 98.6% |
 | blog | 250/811 | 30.8% |
-| x | 555/811 | 68.4% |
+| x | 556/811 | 68.6% |
 | linkedin | 403/811 | 49.7% |
 | discord | 212/811 | 26.1% |
 | telegram | 148/811 | 18.2% |
@@ -29,9 +29,9 @@
 | linktree | 5/811 | 0.6% |
 | github | 556/811 | 68.6% |
 | category | 811/811 | 100% |
-| tags | 782/811 | 96.4% |
-| operating_region | 772/811 | 95.2% |
-| based_in | 719/811 | 88.7% |
+| tags | 784/811 | 96.7% |
+| operating_region | 773/811 | 95.3% |
+| based_in | 720/811 | 88.8% |
 
 ## Enrichment vs SCF Airtable
 
@@ -39,13 +39,13 @@ Per-project comparison of our **811** projects (incl. **131** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +189 | 615 |
+| description | +191 | 615 |
 | website | +203 | 597 |
 | github | +179 | 377 |
-| x | +266 | 289 |
+| x | +267 | 289 |
 | linkedin | +196 | 207 |
 | discord | +102 | 110 |
-| based_in | +239 | 480 |
+| based_in | +240 | 480 |
 | blog | +250 | 0 |
 | telegram | +148 | 0 |
 | youtube | +168 | 0 |
@@ -97,9 +97,9 @@ Of **674** SCF-funded projects:
 | Halborn | 5 |
 | Quarkslab | 3 |
 | Сoinspect | 2 |
-| Zellic | 2 |
-| Code4rena | 2 |
 | CoinFabrik | 2 |
+| Code4rena | 2 |
+| Zellic | 2 |
 | OpenZeppelin | 2 |
 | Hacken | 1 |
 
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4106 |
+| Lumen Loop | 4113 |
 | SCF | 3429 |
 | Stellar Expert | 362 |
 | Soroban Security | 70 |
@@ -125,26 +125,24 @@ How many data points each contributor provides across the directory:
 
 ## Needs Review
 
-17 items need attention.
+15 items need attention.
 
 **SCF project missing website** (10):
 - timed-transactions-api
 - the-starship-soroban
-- net-sdk
 - sendit
 - soroban-optimistic-oracle
 - wally
 - crypto-link
 - frost-implementation
 - relax
+- net-sdk
 - paysapp
 
-**description empty** (7):
-- authline
-- scopuly
+**description empty** (5):
 - safu
+- scopuly
 - soropass
 - smart-treasury
-- chainless
 - remi
 

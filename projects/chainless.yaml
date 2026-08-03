@@ -1,12 +1,13 @@
 title: Chainless
 other_names: null
 parent: null
-description: ''
+description: Chainless is a chain-abstracted, self-custody investment app live in Brazil. Users sign in with Google or Apple — no seed phrase — and get an MPC-secured wallet (via Web3Auth) to buy/sell crypto with Pix, earn dollar savings yield, hold assets across chains, and spend with a card. Gas is fully sponsored and there is no network selector; assets appear in one unified portfolio regardless of the underlying chain.
 links:
   website:
     - chainless.finance
   blog: []
-  x: []
+  x:
+    - chainlessapp
   linkedin: []
   discord: []
   telegram: []
@@ -18,9 +19,13 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
-  based_in: null
+  tags:
+    - Mobile
+    - Savings
+    - On-Off Ramp
+  operating_region:
+    - Brazil
+  based_in: Brazil
 images: null
 scf:
   awarded_round:

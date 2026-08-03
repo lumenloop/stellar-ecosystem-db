@@ -1,7 +1,7 @@
 title: Authline
 other_names: null
 parent: null
-description: ''
+description: Trustline onboarding protocol and SDK for Stellar. Bundles trustline creation and authorization into a single on-chain transaction (CAP-73 + Soroban), enabling wallets and exchanges to onboard users to any Stellar asset — including regulated AUTH_REQUIRED tokens — with one wallet signature. Ships a TypeScript SDK (@theaha/authline), Soroban router + authorizer contracts, a self-hostable relayer, and a multi-asset activation dApp at authline.io.
 links:
   website:
     - authline.io
@@ -19,7 +19,10 @@ links:
     - github.com/theahaco/authline
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - SDK
+    - Stablecoins
+    - RWA
   operating_region: []
   based_in: null
 images: null
