@@ -1,7 +1,7 @@
 title: Remi
 other_names: null
 parent: null
-description: ''
+description: Borderless settlement infrastructure connecting network operators and participants for instant, transparent and compliant global money movement.
 links:
   website:
     - remi.ae
@@ -19,7 +19,10 @@ links:
   github: []
 attributes:
   category: Financial Protocols
-  tags: []
+  tags:
+    - Infrastructure
+    - Cross-Border Payments
+    - Payments
   operating_region: []
   based_in: null
 images: null

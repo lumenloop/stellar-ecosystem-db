@@ -1,12 +1,13 @@
 title: SAFU
 other_names: null
 parent: null
-description: ''
+description: SAFU is a community-owned wallet protection pool being built on Stellar's Soroban. Members deposit XLM into a shared pool and receive automatic payouts if their wallet is drained — verified by a deterministic on-chain oracle with no committee or governance vote. Idle pool capital earns yield via DeFindex and Blend. A live, audited version already runs on Ethereum mainnet.
 links:
   website:
     - safustaking.com
   blog: []
-  x: []
+  x:
+    - x.com
   linkedin: []
   discord: []
   telegram: []
@@ -19,7 +20,10 @@ links:
     - github.com/mrkanchwala/safu-protocol
 attributes:
   category: Financial Protocols
-  tags: []
+  tags:
+    - Security
+    - DeFi
+    - Risk Management
   operating_region: []
   based_in: null
 images: null

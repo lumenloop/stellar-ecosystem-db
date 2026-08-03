@@ -15,10 +15,10 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 806/811 | 99.4% |
+| description | 809/811 | 99.8% |
 | website | 800/811 | 98.6% |
 | blog | 250/811 | 30.8% |
-| x | 556/811 | 68.6% |
+| x | 558/811 | 68.8% |
 | linkedin | 403/811 | 49.7% |
 | discord | 212/811 | 26.1% |
 | telegram | 148/811 | 18.2% |
@@ -29,7 +29,7 @@
 | linktree | 5/811 | 0.6% |
 | github | 556/811 | 68.6% |
 | category | 811/811 | 100% |
-| tags | 784/811 | 96.7% |
+| tags | 787/811 | 97% |
 | operating_region | 773/811 | 95.3% |
 | based_in | 720/811 | 88.8% |
 
@@ -39,10 +39,10 @@ Per-project comparison of our **811** projects (incl. **131** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +191 | 615 |
+| description | +194 | 615 |
 | website | +203 | 597 |
 | github | +179 | 377 |
-| x | +267 | 289 |
+| x | +269 | 289 |
 | linkedin | +196 | 207 |
 | discord | +102 | 110 |
 | based_in | +240 | 480 |
@@ -77,10 +77,10 @@ Of **674** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 508 | 510 |
-| Active last week | 138 | 212 |
-| Active last month | 196 | 278 |
+| Active last week | 136 | 213 |
+| Active last month | 195 | 278 |
 | Active last 3 months | 268 | 333 |
-| Active last year | 362 | 410 |
+| Active last year | 361 | 410 |
 
 ## Audit Data
 
@@ -97,8 +97,8 @@ Of **674** SCF-funded projects:
 | Halborn | 5 |
 | Quarkslab | 3 |
 | Сoinspect | 2 |
-| Code4rena | 2 |
 | CoinFabrik | 2 |
+| Code4rena | 2 |
 | Zellic | 2 |
 | OpenZeppelin | 2 |
 | Hacken | 1 |
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4113 |
+| Lumen Loop | 4121 |
 | SCF | 3429 |
 | Stellar Expert | 363 |
 | Soroban Security | 70 |
@@ -125,24 +125,21 @@ How many data points each contributor provides across the directory:
 
 ## Needs Review
 
-15 items need attention.
+12 items need attention.
 
 **SCF project missing website** (10):
-- net-sdk
-- paysapp
 - timed-transactions-api
 - the-starship-soroban
 - sendit
 - soroban-optimistic-oracle
 - wally
-- crypto-link
 - frost-implementation
 - relax
+- net-sdk
+- paysapp
+- crypto-link
 
-**description empty** (5):
-- scopuly
+**description empty** (2):
 - soropass
 - smart-treasury
-- safu
-- remi
 

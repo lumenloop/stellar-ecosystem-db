@@ -1,12 +1,13 @@
 title: Scopuly
 other_names: null
 parent: null
-description: ''
+description: Non-custodial Stellar wallet available across iOS, Android, macOS, Web, and Telegram. Supports asset management, payments, swaps, Stellar DEX trading, liquidity pools, multi-signature flows, and fiat on/off-ramps via MoneyGram and CCTP. Features over 19,800 wallets and 73,000+ tracked Stellar assets.
 links:
   website:
     - scopuly.com
   blog: []
-  x: []
+  x:
+    - twitter.com
   linkedin: []
   discord: []
   telegram: []
@@ -19,7 +20,10 @@ links:
     - github.com/scopuly
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Software Wallet
+    - DEX
+    - On-Off Ramp
   operating_region: []
   based_in: null
 images: null
