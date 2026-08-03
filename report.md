@@ -15,10 +15,10 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 803/811 | 99% |
+| description | 804/811 | 99.1% |
 | website | 800/811 | 98.6% |
 | blog | 250/811 | 30.8% |
-| x | 554/811 | 68.3% |
+| x | 555/811 | 68.4% |
 | linkedin | 403/811 | 49.7% |
 | discord | 212/811 | 26.1% |
 | telegram | 148/811 | 18.2% |
@@ -29,9 +29,9 @@
 | linktree | 5/811 | 0.6% |
 | github | 556/811 | 68.6% |
 | category | 811/811 | 100% |
-| tags | 781/811 | 96.3% |
+| tags | 782/811 | 96.4% |
 | operating_region | 772/811 | 95.2% |
-| based_in | 718/811 | 88.5% |
+| based_in | 719/811 | 88.7% |
 
 ## Enrichment vs SCF Airtable
 
@@ -39,13 +39,13 @@ Per-project comparison of our **811** projects (incl. **131** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +188 | 615 |
+| description | +189 | 615 |
 | website | +203 | 597 |
 | github | +179 | 377 |
-| x | +265 | 289 |
+| x | +266 | 289 |
 | linkedin | +196 | 207 |
 | discord | +102 | 110 |
-| based_in | +238 | 480 |
+| based_in | +239 | 480 |
 | blog | +250 | 0 |
 | telegram | +148 | 0 |
 | youtube | +168 | 0 |
@@ -77,9 +77,9 @@ Of **674** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 508 | 510 |
-| Active last week | 140 | 214 |
+| Active last week | 138 | 213 |
 | Active last month | 196 | 277 |
-| Active last 3 months | 268 | 335 |
+| Active last 3 months | 268 | 333 |
 | Active last year | 362 | 410 |
 
 ## Audit Data
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4102 |
+| Lumen Loop | 4106 |
 | SCF | 3429 |
 | Stellar Expert | 362 |
 | Soroban Security | 70 |
@@ -125,7 +125,7 @@ How many data points each contributor provides across the directory:
 
 ## Needs Review
 
-18 items need attention.
+17 items need attention.
 
 **SCF project missing website** (10):
 - timed-transactions-api
@@ -139,13 +139,12 @@ How many data points each contributor provides across the directory:
 - relax
 - paysapp
 
-**description empty** (8):
+**description empty** (7):
 - authline
 - scopuly
 - safu
 - soropass
 - smart-treasury
-- lusty
 - chainless
 - remi
 

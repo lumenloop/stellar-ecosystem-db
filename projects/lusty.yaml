@@ -1,12 +1,13 @@
 title: Lusty
 other_names: null
 parent: null
-description: ''
+description: Options yield venue on Stellar. Sell covered calls and cash-secured puts, receive premium upfront. Server-settled today; trustless Soroban rebuild on the roadmap.
 links:
   website:
     - lusty.finance
   blog: []
-  x: []
+  x:
+    - x.com
   linkedin: []
   discord: []
   telegram: []
@@ -19,9 +20,12 @@ links:
     - github.com/utkurock/lusty
 attributes:
   category: Financial Protocols
-  tags: []
+  tags:
+    - DeFi
+    - Yield
+    - Trading
   operating_region: []
-  based_in: null
+  based_in: Turkey
 images: null
 scf:
   awarded_round:
