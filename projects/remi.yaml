@@ -23,8 +23,9 @@ attributes:
     - Infrastructure
     - Cross-Border Payments
     - Payments
-  operating_region: []
-  based_in: null
+  operating_region:
+    - global
+  based_in: Egypt
 images: null
 scf:
   awarded_round:
