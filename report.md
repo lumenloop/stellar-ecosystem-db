@@ -18,7 +18,7 @@
 | description | 811/811 | 100% |
 | website | 800/811 | 98.6% |
 | blog | 250/811 | 30.8% |
-| x | 559/811 | 68.9% |
+| x | 560/811 | 69.1% |
 | linkedin | 403/811 | 49.7% |
 | discord | 212/811 | 26.1% |
 | telegram | 149/811 | 18.4% |
@@ -29,9 +29,9 @@
 | linktree | 5/811 | 0.6% |
 | github | 556/811 | 68.6% |
 | category | 811/811 | 100% |
-| tags | 789/811 | 97.3% |
-| operating_region | 776/811 | 95.7% |
-| based_in | 724/811 | 89.3% |
+| tags | 791/811 | 97.5% |
+| operating_region | 778/811 | 95.9% |
+| based_in | 725/811 | 89.4% |
 
 ## Enrichment vs SCF Airtable
 
@@ -42,10 +42,10 @@ Per-project comparison of our **811** projects (incl. **131** community projects
 | description | +196 | 615 |
 | website | +203 | 597 |
 | github | +179 | 377 |
-| x | +270 | 289 |
+| x | +271 | 289 |
 | linkedin | +196 | 207 |
 | discord | +102 | 110 |
-| based_in | +244 | 480 |
+| based_in | +245 | 480 |
 | blog | +250 | 0 |
 | telegram | +149 | 0 |
 | youtube | +168 | 0 |
@@ -77,7 +77,7 @@ Of **674** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 508 | 512 |
-| Active last week | 132 | 213 |
+| Active last week | 131 | 214 |
 | Active last month | 195 | 279 |
 | Active last 3 months | 268 | 334 |
 | Active last year | 361 | 412 |
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4136 |
+| Lumen Loop | 4142 |
 | SCF | 3427 |
 | Stellar Expert | 363 |
 | Soroban Security | 70 |

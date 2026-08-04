@@ -19,8 +19,12 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - Stablecoins
+    - Cross-Border Payments
+    - On-Off Ramp
+  operating_region:
+    - Africa
   based_in: null
 images: null
 scf:

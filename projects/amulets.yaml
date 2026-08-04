@@ -13,7 +13,8 @@ links:
   website:
     - amulets.io
   blog: []
-  x: []
+  x:
+    - amuletslabs
   linkedin: []
   discord: []
   telegram: []
@@ -25,9 +26,13 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
-  based_in: null
+  tags:
+    - Stablecoins
+    - On-Off Ramp
+    - Mobile
+  operating_region:
+    - latam
+  based_in: Brazil
 images: null
 scf:
   awarded_round:
