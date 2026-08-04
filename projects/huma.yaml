@@ -11,7 +11,8 @@ links:
     - humafinance
   linkedin:
     - linkedin.com/company/huma-finance
-  discord: []
+  discord:
+    - discord.gg/humafinance
   telegram: []
   youtube:
     - youtube.com/@humafinance
@@ -20,7 +21,6 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/00labs/huma-contracts-v2
     - github.com/00labs
 attributes:
   category: Financial Protocols
