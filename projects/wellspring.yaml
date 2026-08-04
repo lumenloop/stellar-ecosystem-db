@@ -5,9 +5,9 @@ description: Wellspring is an institutional treasury management and payments pla
 links:
   website:
     - wellspring.money
-    - rampmedaddy.com
   blog: []
-  x: []
+  x:
+    - rmd_wallet
   linkedin: []
   discord: []
   telegram: []
