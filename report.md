@@ -31,7 +31,7 @@
 | category | 811/812 | 99.9% |
 | tags | 791/812 | 97.4% |
 | operating_region | 778/812 | 95.8% |
-| based_in | 725/812 | 89.3% |
+| based_in | 726/812 | 89.4% |
 
 ## Enrichment vs SCF Airtable
 
@@ -45,7 +45,7 @@ Per-project comparison of our **812** projects (incl. **132** community projects
 | x | +271 | 289 |
 | linkedin | +196 | 207 |
 | discord | +102 | 110 |
-| based_in | +245 | 480 |
+| based_in | +246 | 480 |
 | blog | +250 | 0 |
 | telegram | +149 | 0 |
 | youtube | +168 | 0 |
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4143 |
+| Lumen Loop | 4144 |
 | SCF | 3427 |
 | Stellar Expert | 363 |
 | Soroban Security | 70 |
