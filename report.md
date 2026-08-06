@@ -29,7 +29,7 @@
 | linktree | 5/812 | 0.6% |
 | github | 556/812 | 68.5% |
 | category | 811/812 | 99.9% |
-| tags | 791/812 | 97.4% |
+| tags | 792/812 | 97.5% |
 | operating_region | 778/812 | 95.8% |
 | based_in | 726/812 | 89.4% |
 
@@ -77,8 +77,8 @@ Of **674** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 508 | 511 |
-| Active last week | 126 | 211 |
-| Active last month | 193 | 278 |
+| Active last week | 133 | 214 |
+| Active last month | 195 | 278 |
 | Active last 3 months | 268 | 335 |
 | Active last year | 361 | 411 |
 
@@ -96,10 +96,10 @@ Of **674** SCF-funded projects:
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
-| CoinFabrik | 2 |
 | Code4rena | 2 |
-| Сoinspect | 2 |
 | Zellic | 2 |
+| CoinFabrik | 2 |
+| Сoinspect | 2 |
 | OpenZeppelin | 2 |
 | Hacken | 1 |
 
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4146 |
+| Lumen Loop | 4147 |
 | SCF | 3425 |
 | Stellar Expert | 363 |
 | Soroban Security | 70 |
@@ -127,18 +127,18 @@ How many data points each contributor provides across the directory:
 
 11 items need attention.
 
-**description empty** (1):
-- para
-
 **SCF project missing website** (10):
-- sendit
 - wally
-- the-starship-soroban
-- soroban-optimistic-oracle
 - net-sdk
+- sendit
 - paysapp
 - relax
+- the-starship-soroban
+- soroban-optimistic-oracle
 - frost-implementation
 - timed-transactions-api
 - crypto-link
+
+**description empty** (1):
+- para
 
