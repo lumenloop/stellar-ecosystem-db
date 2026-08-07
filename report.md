@@ -133,10 +133,10 @@ How many data points each contributor provides across the directory:
 - paysapp
 - relax
 - net-sdk
-- the-starship-soroban
-- soroban-optimistic-oracle
 - frost-implementation
 - timed-transactions-api
+- the-starship-soroban
+- soroban-optimistic-oracle
 - crypto-link
 
 **description empty** (1):
