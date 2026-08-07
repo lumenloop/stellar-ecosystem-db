@@ -31,7 +31,7 @@
 | category | 811/812 | 99.9% |
 | tags | 792/812 | 97.5% |
 | operating_region | 778/812 | 95.8% |
-| based_in | 726/812 | 89.4% |
+| based_in | 727/812 | 89.5% |
 
 ## Enrichment vs SCF Airtable
 
@@ -45,7 +45,7 @@ Per-project comparison of our **812** projects (incl. **132** community projects
 | x | +271 | 289 |
 | linkedin | +196 | 207 |
 | discord | +102 | 110 |
-| based_in | +246 | 480 |
+| based_in | +247 | 480 |
 | blog | +250 | 0 |
 | telegram | +149 | 0 |
 | youtube | +168 | 0 |
@@ -77,7 +77,7 @@ Of **674** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 508 | 511 |
-| Active last week | 132 | 213 |
+| Active last week | 132 | 214 |
 | Active last month | 195 | 278 |
 | Active last 3 months | 268 | 335 |
 | Active last year | 361 | 411 |
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4147 |
+| Lumen Loop | 4148 |
 | SCF | 3425 |
 | Stellar Expert | 363 |
 | Soroban Security | 70 |
@@ -129,10 +129,10 @@ How many data points each contributor provides across the directory:
 
 **SCF project missing website** (10):
 - wally
-- net-sdk
 - sendit
 - paysapp
 - relax
+- net-sdk
 - the-starship-soroban
 - soroban-optimistic-oracle
 - frost-implementation
