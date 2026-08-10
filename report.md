@@ -76,11 +76,11 @@ Of **674** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 508 | 511 |
-| Active last week | 136 | 213 |
-| Active last month | 189 | 274 |
-| Active last 3 months | 267 | 337 |
-| Active last year | 361 | 411 |
+| Tracked projects | 507 | 511 |
+| Active last week | 138 | 214 |
+| Active last month | 192 | 271 |
+| Active last 3 months | 266 | 337 |
+| Active last year | 360 | 411 |
 
 ## Audit Data
 
@@ -127,6 +127,9 @@ How many data points each contributor provides across the directory:
 
 11 items need attention.
 
+**description empty** (1):
+- para
+
 **SCF project missing website** (10):
 - wally
 - net-sdk
@@ -138,7 +141,4 @@ How many data points each contributor provides across the directory:
 - crypto-link
 - relax
 - timed-transactions-api
-
-**description empty** (1):
-- para
 
