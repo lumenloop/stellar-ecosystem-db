@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-08-09
+> Auto-generated on 2026-08-10
 
 ## Summary
 
@@ -35,7 +35,7 @@
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **812** projects (incl. **132** community projects not in SCF) against **704** in SCF Airtable:
+Per-project comparison of our **812** projects (incl. **132** community projects not in SCF) against **705** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
@@ -62,7 +62,7 @@ Of **674** SCF-funded projects:
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| awarded_total | 673/674 | 99.9% |
+| awarded_total | 674/674 | 100% |
 | awarded_round | 674/674 | 100% |
 | submission_urls | 674/674 | 100% |
 | website | 664/674 | 98.5% |
@@ -77,9 +77,9 @@ Of **674** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 508 | 511 |
-| Active last week | 132 | 214 |
-| Active last month | 193 | 278 |
-| Active last 3 months | 268 | 337 |
+| Active last week | 137 | 213 |
+| Active last month | 189 | 274 |
+| Active last 3 months | 267 | 337 |
 | Active last year | 361 | 411 |
 
 ## Audit Data
@@ -117,8 +117,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4148 |
-| SCF | 3425 |
+| Lumen Loop | 3817 |
+| SCF | 3756 |
 | Stellar Expert | 363 |
 | Soroban Security | 70 |
 | DeFiLlama | 24 |
@@ -128,8 +128,8 @@ How many data points each contributor provides across the directory:
 11 items need attention.
 
 **SCF project missing website** (10):
-- wally
 - relax
+- wally
 - net-sdk
 - sendit
 - paysapp

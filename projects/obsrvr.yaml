@@ -25,7 +25,7 @@ links:
     - github.com/withobsrvr/nomad-pack-web3-registry
     - github.com/withobsrvr/flowctl
 attributes:
-  category: Applications
+  category: Infrastructure & Services
   tags:
     - SDK
     - CLI
@@ -48,7 +48,7 @@ scf:
   awarded_round:
     - 35
     - 41
-  awarded_total: 88000
+  awarded_total: 104000
   submission_urls:
     - communityfund.stellar.org/submissions/recC5hC2vie4iOctB
     - communityfund.stellar.org/submissions/rec9LrTdf5QkebmWt
