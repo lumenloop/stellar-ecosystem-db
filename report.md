@@ -15,9 +15,9 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 811/812 | 99.9% |
+| description | 812/812 | 100% |
 | website | 801/812 | 98.6% |
-| blog | 250/812 | 30.8% |
+| blog | 251/812 | 30.9% |
 | x | 560/812 | 69% |
 | linkedin | 403/812 | 49.6% |
 | discord | 212/812 | 26.1% |
@@ -28,8 +28,8 @@
 | tiktok | 35/812 | 4.3% |
 | linktree | 5/812 | 0.6% |
 | github | 557/812 | 68.6% |
-| category | 811/812 | 99.9% |
-| tags | 792/812 | 97.5% |
+| category | 812/812 | 100% |
+| tags | 793/812 | 97.7% |
 | operating_region | 778/812 | 95.8% |
 | based_in | 727/812 | 89.5% |
 
@@ -39,14 +39,14 @@ Per-project comparison of our **812** projects (incl. **132** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +196 | 615 |
+| description | +197 | 615 |
 | website | +204 | 597 |
 | github | +180 | 377 |
 | x | +271 | 289 |
 | linkedin | +196 | 207 |
 | discord | +102 | 110 |
 | based_in | +247 | 480 |
-| blog | +250 | 0 |
+| blog | +251 | 0 |
 | telegram | +150 | 0 |
 | youtube | +168 | 0 |
 | instagram | +129 | 0 |
@@ -77,10 +77,10 @@ Of **674** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 508 | 512 |
-| Active last week | 136 | 215 |
-| Active last month | 193 | 273 |
-| Active last 3 months | 266 | 338 |
-| Active last year | 361 | 412 |
+| Active last week | 135 | 216 |
+| Active last month | 192 | 274 |
+| Active last 3 months | 264 | 337 |
+| Active last year | 361 | 411 |
 
 ## Audit Data
 
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4151 |
+| Lumen Loop | 4155 |
 | SCF | 3424 |
 | Stellar Expert | 363 |
 | Soroban Security | 70 |
@@ -125,7 +125,7 @@ How many data points each contributor provides across the directory:
 
 ## Needs Review
 
-11 items need attention.
+10 items need attention.
 
 **SCF project missing website** (10):
 - net-sdk
@@ -138,7 +138,4 @@ How many data points each contributor provides across the directory:
 - the-starship-soroban
 - relax
 - timed-transactions-api
-
-**description empty** (1):
-- para
 

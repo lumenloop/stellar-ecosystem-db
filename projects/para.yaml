@@ -1,11 +1,12 @@
 title: Para
 other_names: null
 parent: null
-description: ''
+description: Para is an embedded wallet infrastructure platform that lets fintech developers integrate secure, MPC-powered wallets directly into their apps — enabling remittances, stablecoin payouts, and cross-border payment products on Stellar with no seed phrases or separate downloads required.
 links:
   website:
     - getpara.com
-  blog: []
+  blog:
+    - blog.getpara.com
   x: []
   linkedin: []
   discord: []
@@ -17,8 +18,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
+  category: Infrastructure & Services
+  tags:
+    - Wallet Infra
+    - SDK
+    - MPC
   operating_region: []
   based_in: null
 images: null
