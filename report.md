@@ -29,8 +29,8 @@
 | linktree | 5/812 | 0.6% |
 | github | 557/812 | 68.6% |
 | category | 812/812 | 100% |
-| tags | 794/812 | 97.8% |
-| operating_region | 778/812 | 95.8% |
+| tags | 795/812 | 97.9% |
+| operating_region | 779/812 | 95.9% |
 | based_in | 728/812 | 89.7% |
 
 ## Enrichment vs SCF Airtable
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4158 |
+| Lumen Loop | 4160 |
 | SCF | 3424 |
 | Stellar Expert | 363 |
 | Soroban Security | 70 |
