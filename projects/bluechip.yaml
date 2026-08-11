@@ -6,7 +6,8 @@ links:
   website:
     - bluechip.org
   blog: []
-  x: []
+  x:
+    - bluechip_org
   linkedin: []
   discord: []
   telegram: []
@@ -18,9 +19,12 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Stablecoins
+    - Risk Management
+    - Analytics
   operating_region: []
-  based_in: null
+  based_in: Austria
 images: null
 scf:
   awarded_round:

@@ -18,7 +18,7 @@
 | description | 812/812 | 100% |
 | website | 801/812 | 98.6% |
 | blog | 251/812 | 30.9% |
-| x | 560/812 | 69% |
+| x | 561/812 | 69.1% |
 | linkedin | 403/812 | 49.6% |
 | discord | 212/812 | 26.1% |
 | telegram | 150/812 | 18.5% |
@@ -29,9 +29,9 @@
 | linktree | 5/812 | 0.6% |
 | github | 557/812 | 68.6% |
 | category | 812/812 | 100% |
-| tags | 793/812 | 97.7% |
+| tags | 794/812 | 97.8% |
 | operating_region | 778/812 | 95.8% |
-| based_in | 727/812 | 89.5% |
+| based_in | 728/812 | 89.7% |
 
 ## Enrichment vs SCF Airtable
 
@@ -42,10 +42,10 @@ Per-project comparison of our **812** projects (incl. **132** community projects
 | description | +197 | 615 |
 | website | +204 | 597 |
 | github | +180 | 377 |
-| x | +271 | 289 |
+| x | +272 | 289 |
 | linkedin | +196 | 207 |
 | discord | +102 | 110 |
-| based_in | +247 | 480 |
+| based_in | +248 | 480 |
 | blog | +251 | 0 |
 | telegram | +150 | 0 |
 | youtube | +168 | 0 |
@@ -97,9 +97,9 @@ Of **674** SCF-funded projects:
 | Halborn | 5 |
 | Quarkslab | 3 |
 | Code4rena | 2 |
-| CoinFabrik | 2 |
 | Сoinspect | 2 |
 | Zellic | 2 |
+| CoinFabrik | 2 |
 | OpenZeppelin | 2 |
 | Hacken | 1 |
 
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4155 |
+| Lumen Loop | 4158 |
 | SCF | 3424 |
 | Stellar Expert | 363 |
 | Soroban Security | 70 |
@@ -130,9 +130,9 @@ How many data points each contributor provides across the directory:
 **SCF project missing website** (10):
 - net-sdk
 - sendit
+- soroban-optimistic-oracle
 - frost-implementation
 - wally
-- soroban-optimistic-oracle
 - paysapp
 - crypto-link
 - the-starship-soroban
