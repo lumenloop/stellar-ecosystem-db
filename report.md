@@ -29,7 +29,7 @@
 | linktree | 5/812 | 0.6% |
 | github | 557/812 | 68.6% |
 | category | 812/812 | 100% |
-| tags | 795/812 | 97.9% |
+| tags | 796/812 | 98% |
 | operating_region | 779/812 | 95.9% |
 | based_in | 728/812 | 89.7% |
 
@@ -97,9 +97,9 @@ Of **674** SCF-funded projects:
 | Halborn | 5 |
 | Quarkslab | 3 |
 | Code4rena | 2 |
-| Сoinspect | 2 |
 | Zellic | 2 |
 | CoinFabrik | 2 |
+| Сoinspect | 2 |
 | OpenZeppelin | 2 |
 | Hacken | 1 |
 
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4160 |
+| Lumen Loop | 4161 |
 | SCF | 3424 |
 | Stellar Expert | 363 |
 | Soroban Security | 70 |
@@ -128,14 +128,14 @@ How many data points each contributor provides across the directory:
 10 items need attention.
 
 **SCF project missing website** (10):
+- soroban-optimistic-oracle
 - net-sdk
 - sendit
-- soroban-optimistic-oracle
-- frost-implementation
 - wally
 - paysapp
 - crypto-link
 - the-starship-soroban
+- frost-implementation
 - relax
 - timed-transactions-api
 

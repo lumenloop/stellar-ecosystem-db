@@ -23,7 +23,10 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - RWA
+    - Stablecoins
+    - Yield
   operating_region: []
   based_in: null
 images: null
