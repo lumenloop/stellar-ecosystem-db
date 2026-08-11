@@ -8,10 +8,8 @@ links:
     - dfslab.net
   blog:
     - dfslab.net/blog
-  x:
-    - thedfslab
-  linkedin:
-    - linkedin.com/company/dfslab
+  x: []
+  linkedin: []
   discord: []
   telegram: []
   youtube: []
@@ -19,7 +17,8 @@ links:
   reddit: []
   tiktok: []
   linktree: []
-  github: []
+  github:
+    - github.com/dfsventures
 attributes:
   category: Education & Community
   tags:

@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-08-10
+> Auto-generated on 2026-08-11
 
 ## Summary
 
@@ -21,13 +21,13 @@
 | x | 560/812 | 69% |
 | linkedin | 403/812 | 49.6% |
 | discord | 212/812 | 26.1% |
-| telegram | 149/812 | 18.3% |
+| telegram | 150/812 | 18.5% |
 | youtube | 168/812 | 20.7% |
 | instagram | 129/812 | 15.9% |
 | reddit | 14/812 | 1.7% |
 | tiktok | 35/812 | 4.3% |
 | linktree | 5/812 | 0.6% |
-| github | 556/812 | 68.5% |
+| github | 557/812 | 68.6% |
 | category | 811/812 | 99.9% |
 | tags | 792/812 | 97.5% |
 | operating_region | 778/812 | 95.8% |
@@ -41,13 +41,13 @@ Per-project comparison of our **812** projects (incl. **132** community projects
 |-------|------:|------:|
 | description | +196 | 615 |
 | website | +204 | 597 |
-| github | +179 | 377 |
+| github | +180 | 377 |
 | x | +271 | 289 |
 | linkedin | +196 | 207 |
 | discord | +102 | 110 |
 | based_in | +247 | 480 |
 | blog | +250 | 0 |
-| telegram | +149 | 0 |
+| telegram | +150 | 0 |
 | youtube | +168 | 0 |
 | instagram | +129 | 0 |
 | reddit | +14 | 0 |
@@ -66,7 +66,7 @@ Of **674** SCF-funded projects:
 | awarded_round | 674/674 | 100% |
 | submission_urls | 674/674 | 100% |
 | website | 664/674 | 98.5% |
-| github | 493/674 | 73.1% |
+| github | 494/674 | 73.3% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -76,11 +76,11 @@ Of **674** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 507 | 511 |
-| Active last week | 138 | 214 |
-| Active last month | 192 | 271 |
-| Active last 3 months | 266 | 337 |
-| Active last year | 360 | 411 |
+| Tracked projects | 508 | 512 |
+| Active last week | 135 | 215 |
+| Active last month | 193 | 272 |
+| Active last 3 months | 267 | 338 |
+| Active last year | 361 | 412 |
 
 ## Audit Data
 
@@ -117,8 +117,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4145 |
-| SCF | 3428 |
+| Lumen Loop | 4151 |
+| SCF | 3424 |
 | Stellar Expert | 363 |
 | Soroban Security | 70 |
 | DeFiLlama | 24 |
@@ -127,18 +127,18 @@ How many data points each contributor provides across the directory:
 
 11 items need attention.
 
-**description empty** (1):
-- para
-
 **SCF project missing website** (10):
 - wally
 - net-sdk
 - sendit
 - paysapp
 - frost-implementation
+- crypto-link
 - the-starship-soroban
 - soroban-optimistic-oracle
-- crypto-link
 - relax
 - timed-transactions-api
+
+**description empty** (1):
+- para
 
