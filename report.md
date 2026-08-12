@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-08-11
+> Auto-generated on 2026-08-12
 
 ## Summary
 
@@ -23,7 +23,7 @@
 | discord | 212/812 | 26.1% |
 | telegram | 150/812 | 18.5% |
 | youtube | 168/812 | 20.7% |
-| instagram | 129/812 | 15.9% |
+| instagram | 128/812 | 15.8% |
 | reddit | 14/812 | 1.7% |
 | tiktok | 35/812 | 4.3% |
 | linktree | 5/812 | 0.6% |
@@ -49,7 +49,7 @@ Per-project comparison of our **812** projects (incl. **132** community projects
 | blog | +251 | 0 |
 | telegram | +150 | 0 |
 | youtube | +168 | 0 |
-| instagram | +129 | 0 |
+| instagram | +128 | 0 |
 | reddit | +14 | 0 |
 | tiktok | +35 | 0 |
 | linktree | +5 | 0 |
@@ -76,11 +76,11 @@ Of **674** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 508 | 512 |
-| Active last week | 135 | 216 |
-| Active last month | 192 | 274 |
-| Active last 3 months | 264 | 337 |
-| Active last year | 361 | 411 |
+| Tracked projects | 508 | 513 |
+| Active last week | 133 | 213 |
+| Active last month | 192 | 275 |
+| Active last 3 months | 264 | 338 |
+| Active last year | 360 | 411 |
 
 ## Audit Data
 
