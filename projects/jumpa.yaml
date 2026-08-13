@@ -26,9 +26,14 @@ links:
     - github.com/official-jumpa
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
-  based_in: null
+  tags:
+    - Cross-Border Payments
+    - Stablecoins
+    - Unbanked
+  operating_region:
+    - Africa
+    - Southeast Asia
+  based_in: Nigeria
 images: null
 scf:
   awarded_round:

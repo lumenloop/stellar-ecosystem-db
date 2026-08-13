@@ -18,7 +18,7 @@
 | description | 812/812 | 100% |
 | website | 801/812 | 98.6% |
 | blog | 251/812 | 30.9% |
-| x | 561/812 | 69.1% |
+| x | 562/812 | 69.2% |
 | linkedin | 403/812 | 49.6% |
 | discord | 212/812 | 26.1% |
 | telegram | 150/812 | 18.5% |
@@ -31,7 +31,7 @@
 | category | 812/812 | 100% |
 | tags | 800/812 | 98.5% |
 | operating_region | 783/812 | 96.4% |
-| based_in | 730/812 | 89.9% |
+| based_in | 732/812 | 90.1% |
 
 ## Enrichment vs SCF Airtable
 
@@ -42,10 +42,10 @@ Per-project comparison of our **812** projects (incl. **132** community projects
 | description | +197 | 615 |
 | website | +204 | 597 |
 | github | +180 | 377 |
-| x | +272 | 289 |
+| x | +273 | 289 |
 | linkedin | +196 | 207 |
 | discord | +102 | 110 |
-| based_in | +250 | 480 |
+| based_in | +252 | 480 |
 | blog | +251 | 0 |
 | telegram | +150 | 0 |
 | youtube | +168 | 0 |
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4171 |
+| Lumen Loop | 4174 |
 | SCF | 3424 |
 | Stellar Expert | 363 |
 | Soroban Security | 70 |
