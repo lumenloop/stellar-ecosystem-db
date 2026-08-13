@@ -28,9 +28,13 @@ links:
     - github.com/fuul-protocol
 attributes:
   category: Developer Tooling
-  tags: []
-  operating_region: []
-  based_in: null
+  tags:
+    - DeFi
+    - B2B
+    - Analytics
+  operating_region:
+    - global
+  based_in: Argentina
 images: null
 scf:
   awarded_round:
