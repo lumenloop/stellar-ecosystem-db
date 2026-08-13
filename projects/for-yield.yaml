@@ -34,9 +34,13 @@ links:
     - github.com/foryield
 attributes:
   category: Financial Protocols
-  tags: []
-  operating_region: []
-  based_in: null
+  tags:
+    - Yield
+    - DeFi
+    - Institutional
+  operating_region:
+    - Europe
+  based_in: France
 images: null
 scf:
   awarded_round:

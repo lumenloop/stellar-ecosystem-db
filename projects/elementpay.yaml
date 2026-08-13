@@ -22,8 +22,12 @@ links:
     - github.com/elementpayhq
 attributes:
   category: Financial Protocols
-  tags: []
-  operating_region: []
+  tags:
+    - Stablecoins
+    - Cross-Border Payments
+    - On-Off Ramp
+  operating_region:
+    - africa
   based_in: null
 images: null
 scf:
