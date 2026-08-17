@@ -96,10 +96,10 @@ Of **674** SCF-funded projects:
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
+| CoinFabrik | 2 |
 | Zellic | 2 |
 | Code4rena | 2 |
 | Сoinspect | 2 |
-| CoinFabrik | 2 |
 | OpenZeppelin | 2 |
 | Hacken | 1 |
 
@@ -129,13 +129,13 @@ How many data points each contributor provides across the directory:
 
 **SCF project missing website** (10):
 - net-sdk
+- crypto-link
 - frost-implementation
 - paysapp
-- crypto-link
 - sendit
 - soroban-optimistic-oracle
-- wally
 - relax
+- wally
 - the-starship-soroban
 - timed-transactions-api
 
