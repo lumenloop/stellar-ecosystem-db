@@ -18,8 +18,12 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - B2B
+    - Cross-Border Payments
+    - Stablecoins
+  operating_region:
+    - LATAM
   based_in: null
 images: null
 scf:
