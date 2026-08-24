@@ -96,9 +96,9 @@ Of **674** SCF-funded projects:
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
+| Zellic | 2 |
 | Code4rena | 2 |
 | CoinFabrik | 2 |
-| Zellic | 2 |
 | Сoinspect | 2 |
 | OpenZeppelin | 2 |
 | Hacken | 1 |
@@ -117,8 +117,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 3855 |
-| SCF | 3747 |
+| Lumen Loop | 4169 |
+| SCF | 3433 |
 | Stellar Expert | 363 |
 | Soroban Security | 70 |
 | DeFiLlama | 24 |
@@ -128,14 +128,14 @@ How many data points each contributor provides across the directory:
 10 items need attention.
 
 **SCF project missing website** (10):
-- net-sdk
-- crypto-link
 - soroban-optimistic-oracle
-- paysapp
 - frost-implementation
+- net-sdk
+- relax
+- timed-transactions-api
+- crypto-link
+- paysapp
 - wally
 - sendit
-- relax
 - the-starship-soroban
-- timed-transactions-api
 
