@@ -1,3 +1,9 @@
+- id: CCLWL5NYSV2WJQ3VBU44AMDHEVKEPA45N2QP2LL62O3JVKPGWWAQUVAG
+  label: Allbridge
+  is_pool: false
+  tags:
+    - malicious
+    - unsafe
 - id: CAWGFKEL4XSE7JHVZLFIXSDVK7HNI57VFU4OPVRV7NHECRXCZ3ZNDNTR
   label: AllBridge
   is_pool: false
