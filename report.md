@@ -17,7 +17,7 @@
 |-------|------:|---------:|
 | description | 812/812 | 100% |
 | website | 801/812 | 98.6% |
-| blog | 251/812 | 30.9% |
+| blog | 252/812 | 31% |
 | x | 562/812 | 69.2% |
 | linkedin | 403/812 | 49.6% |
 | discord | 212/812 | 26.1% |
@@ -46,7 +46,7 @@ Per-project comparison of our **812** projects (incl. **132** community projects
 | linkedin | +196 | 207 |
 | discord | +102 | 110 |
 | based_in | +252 | 480 |
-| blog | +251 | 0 |
+| blog | +252 | 0 |
 | telegram | +150 | 0 |
 | youtube | +168 | 0 |
 | instagram | +128 | 0 |
@@ -76,11 +76,11 @@ Of **674** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 509 | 514 |
-| Active last week | 149 | 207 |
-| Active last month | 195 | 272 |
-| Active last 3 months | 258 | 320 |
-| Active last year | 358 | 407 |
+| Tracked projects | 509 | 513 |
+| Active last week | 149 | 206 |
+| Active last month | 195 | 271 |
+| Active last 3 months | 258 | 319 |
+| Active last year | 358 | 406 |
 
 ## Audit Data
 
@@ -128,14 +128,14 @@ How many data points each contributor provides across the directory:
 10 items need attention.
 
 **SCF project missing website** (10):
-- crypto-link
 - relax
-- frost-implementation
 - wally
+- net-sdk
+- crypto-link
+- sendit
+- frost-implementation
 - timed-transactions-api
 - soroban-optimistic-oracle
-- net-sdk
 - paysapp
-- sendit
 - the-starship-soroban
 

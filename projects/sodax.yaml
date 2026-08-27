@@ -7,9 +7,10 @@ description: A cross-network execution and liquidity system spanning 20 networks
 links:
   website:
     - sodax.com
-  blog: []
+  blog:
+    - sodax.com/news
   x:
-    - balanceddefi
+    - gosodax
   linkedin:
     - linkedin.com/company/gosodax
   discord:
@@ -19,7 +20,7 @@ links:
   instagram:
     - gosodax
   reddit:
-    - r/balancednetwork
+    - r/sodax
   tiktok: []
   linktree: []
   github:
@@ -37,6 +38,9 @@ attributes:
     - Lending & Borrowing
     - Cross-Chain
     - Yield
+    - Liquidity
+    - Trading
+    - Bridge
   operating_region:
     - New Zealand
   based_in: New Zealand
