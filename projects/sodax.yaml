@@ -3,7 +3,7 @@ other_names:
   - Connecting Balanced to Stellar
   - Balanced
 parent: null
-description: "Sodax is a cross-chain DEX and stablecoin that enables\_native cross-chain DeFi primitives for any ecosystem."
+description: A cross-network execution and liquidity system spanning 20 networks, including native Bitcoin and tokenized equities (xStocks). Wallets, DEXs, and lending protocols integrate SODAX to ship cross-network features faster and extend their reach to every network SODAX touches. SODAX is infrastructure for modern money.
 links:
   website:
     - sodax.com
@@ -29,6 +29,14 @@ attributes:
   tags:
     - DEX
     - DeFi
+    - Infrastructure
+    - SDK
+    - API
+    - Multi-Chain
+    - RWA
+    - Lending & Borrowing
+    - Cross-Chain
+    - Yield
   operating_region:
     - New Zealand
   based_in: New Zealand
