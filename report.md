@@ -96,8 +96,8 @@ Of **674** SCF-funded projects:
 | Runtime Verification | 8 |
 | Halborn | 5 |
 | Quarkslab | 3 |
-| CoinFabrik | 2 |
 | Сoinspect | 2 |
+| CoinFabrik | 2 |
 | Zellic | 2 |
 | Code4rena | 2 |
 | OpenZeppelin | 2 |
