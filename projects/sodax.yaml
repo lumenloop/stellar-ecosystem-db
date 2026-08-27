@@ -45,10 +45,9 @@ attributes:
     - New Zealand
   based_in: New Zealand
 images:
-  icon: https://media.lumenloop.com/projects/balanced/apple_touch.png
-  avatar: https://media.lumenloop.com/projects/balanced/github_avatar.png
-  logo: https://media.lumenloop.com/projects/balanced/logo.svg
-  og_image: https://media.lumenloop.com/projects/balanced/og.png
+  avatar: https://media.lumenloop.com/projects/sodax/sodax-avatar-tkfxn5.svg
+  icon: https://media.lumenloop.com/projects/sodax/sodax-icon-tkfxmy.svg
+  logo: https://media.lumenloop.com/projects/sodax/sodax-logo-tkfxmu.svg
 scf:
   awarded_round:
     - 25
