@@ -8,8 +8,10 @@ links:
     - dfslab.net
   blog:
     - dfslab.net/blog
-  x: []
-  linkedin: []
+  x:
+    - dfsventures
+  linkedin:
+    - linkedin.com/company/dfsventures
   discord: []
   telegram: []
   youtube: []
