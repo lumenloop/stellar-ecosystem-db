@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-08-29
+> Auto-generated on 2026-08-30
 
 ## Summary
 
@@ -77,7 +77,7 @@ Of **674** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 509 | 514 |
-| Active last week | 146 | 205 |
+| Active last week | 157 | 202 |
 | Active last month | 201 | 275 |
 | Active last 3 months | 260 | 322 |
 | Active last year | 358 | 407 |
@@ -133,8 +133,8 @@ How many data points each contributor provides across the directory:
 - wally
 - crypto-link
 - relax
-- net-sdk
 - frost-implementation
+- net-sdk
 - sendit
 - paysapp
 - the-starship-soroban
