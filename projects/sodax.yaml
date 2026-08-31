@@ -62,4 +62,7 @@ mainnet:
       url: sorobansecurity.com/report/11
       date: '2024-09-30T15:00:00Z'
       auditor: Сoinspect
-  tokens: []
+  tokens:
+    - code: SODA
+      issuer: GDYUTHY75A7WUZJQDPOP66FB32BOYGZRXHWTWO4Q6LQTANT5X3V5HNFA
+      decimals: 7

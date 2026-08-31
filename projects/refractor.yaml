@@ -30,9 +30,11 @@ images: null
 scf:
   awarded_round:
     - SCF Public Goods - Q2 '26
-  awarded_total: 18000
+    - SCF Public Goods - Q3 '26
+  awarded_total: 27000
   submission_urls:
     - communityfund.stellar.org/submissions/recUThu8QMsZjnR54
+    - communityfund.stellar.org/submissions/reccH7QkvUnTR1ORM
 mainnet:
   audits: []
   tokens: []
