@@ -1,0 +1,30 @@
+- id: CAUCMIN5KSXEVZ7NMXR3LZATGD5EFIEUI5XWTFLYRO2R5OTXI22WE5JX
+  label: XOXNO - Controller
+  is_pool: false
+  tags:
+    - defi
+    - application
+- id: CC44PEQW7HSEPKAZ5ZRPH2JS5M5KVJXCUBLJ2ZX4E3WCDKMNFILHC2AD
+  label: XOXNO - Governance
+  is_pool: false
+  tags:
+    - application
+    - defi
+- id: CAWCSG77AY2W24QZ6ZXLHZU4UXEFHZBM6EI4A4IF7JB5CTY4XND3TI6C
+  label: XOXNO - Position NFT
+  is_pool: false
+  tags:
+    - defi
+    - application
+- id: CBGUF2G2Q7HCVCWYISDXBHPVBGMYNXA7PG2VET66YBZX6IKOOV27NSMV
+  label: XOXNO - Price Aggregator
+  is_pool: false
+  tags:
+    - application
+    - defi
+- id: CBXRNDQMAJFG4VUKMKFEMFS75UUXE2SPSNV4LEEFCSNBCN66PYRWBKXO
+  label: XOXNO - Central Pool
+  is_pool: true
+  tags:
+    - application
+    - defi
