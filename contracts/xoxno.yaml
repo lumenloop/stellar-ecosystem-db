@@ -10,6 +10,12 @@
   tags:
     - application
     - defi
+- id: CDA3XS2HETVCW5GSRN3FH4X3YJ45IA6DNVSZTEOYDFGOCXQK4ZJG22JM
+  label: XOXNO - Oracle Adapter
+  is_pool: false
+  tags:
+    - defi
+    - application
 - id: CAWCSG77AY2W24QZ6ZXLHZU4UXEFHZBM6EI4A4IF7JB5CTY4XND3TI6C
   label: XOXNO - Position NFT
   is_pool: false
@@ -18,6 +24,12 @@
     - application
 - id: CBGUF2G2Q7HCVCWYISDXBHPVBGMYNXA7PG2VET66YBZX6IKOOV27NSMV
   label: XOXNO - Price Aggregator
+  is_pool: false
+  tags:
+    - application
+    - defi
+- id: CCVENFSVCBYDHVOACFZXMNNYVOZ3LKXPZYU5LUI4N7KTXOKRVYD7F3TR
+  label: XOXNO - Swap Aggregator
   is_pool: false
   tags:
     - application
