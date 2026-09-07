@@ -117,8 +117,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 3849 |
-| SCF | 3756 |
+| Lumen Loop | 4172 |
+| SCF | 3433 |
 | Stellar Expert | 373 |
 | Soroban Security | 70 |
 | DeFiLlama | 26 |
