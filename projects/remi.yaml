@@ -30,7 +30,7 @@ images: null
 scf:
   awarded_round:
     - 44
-  awarded_total: 13370
+  awarded_total: 40110
   submission_urls:
     - communityfund.stellar.org/submissions/recCJsvZpqeNpRztT
 mainnet:
