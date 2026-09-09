@@ -133,9 +133,9 @@ How many data points each contributor provides across the directory:
 - wally
 - frost-implementation
 - timed-transactions-api
+- the-starship-soroban
 - relax
 - paysapp
-- the-starship-soroban
 - sendit
 - net-sdk
 
