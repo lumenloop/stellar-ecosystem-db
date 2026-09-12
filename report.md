@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-09-11
+> Auto-generated on 2026-09-12
 
 ## Summary
 
@@ -77,10 +77,10 @@ Of **674** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 508 | 515 |
-| Active last week | 140 | 212 |
-| Active last month | 210 | 273 |
-| Active last 3 months | 257 | 325 |
-| Active last year | 354 | 408 |
+| Active last week | 138 | 205 |
+| Active last month | 212 | 273 |
+| Active last 3 months | 259 | 326 |
+| Active last year | 354 | 407 |
 
 ## Audit Data
 
@@ -98,8 +98,8 @@ Of **674** SCF-funded projects:
 | Quarkslab | 3 |
 | Code4rena | 2 |
 | Zellic | 2 |
-| CoinFabrik | 2 |
 | Сoinspect | 2 |
+| CoinFabrik | 2 |
 | OpenZeppelin | 2 |
 | Hacken | 1 |
 
