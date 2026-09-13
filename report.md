@@ -98,8 +98,8 @@ Of **674** SCF-funded projects:
 | Quarkslab | 3 |
 | CoinFabrik | 2 |
 | Code4rena | 2 |
-| Zellic | 2 |
 | Сoinspect | 2 |
+| Zellic | 2 |
 | OpenZeppelin | 2 |
 | Hacken | 1 |
 
