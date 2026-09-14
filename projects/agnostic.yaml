@@ -21,7 +21,7 @@ links:
   github:
     - github.com/agnosticeng/ch-stellar
 attributes:
-  category: Infrastructure & Services
+  category: Developer Tooling
   tags:
     - Analytics
     - Multi-Chain
