@@ -8,14 +8,19 @@ links:
     - github.com/zkbricks/mpc-zexe
     - github.com/zkbricks/sanctum
   blog: []
-  x: []
-  linkedin: []
+  x:
+    - github
+  linkedin:
+    - linkedin.com/company/github
   discord: []
   telegram: []
-  youtube: []
-  instagram: []
+  youtube:
+    - youtube.com/github
+  instagram:
+    - github
   reddit: []
-  tiktok: []
+  tiktok:
+    - github
   linktree: []
   github:
     - github.com/zkbricks/mpc-zexe

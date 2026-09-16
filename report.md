@@ -18,14 +18,14 @@
 | description | 812/812 | 100% |
 | website | 801/812 | 98.6% |
 | blog | 252/812 | 31% |
-| x | 562/812 | 69.2% |
-| linkedin | 403/812 | 49.6% |
+| x | 563/812 | 69.3% |
+| linkedin | 404/812 | 49.8% |
 | discord | 213/812 | 26.2% |
 | telegram | 150/812 | 18.5% |
-| youtube | 168/812 | 20.7% |
-| instagram | 128/812 | 15.8% |
+| youtube | 169/812 | 20.8% |
+| instagram | 129/812 | 15.9% |
 | reddit | 14/812 | 1.7% |
-| tiktok | 35/812 | 4.3% |
+| tiktok | 36/812 | 4.4% |
 | linktree | 5/812 | 0.6% |
 | github | 557/812 | 68.6% |
 | category | 812/812 | 100% |
@@ -42,16 +42,16 @@ Per-project comparison of our **812** projects (incl. **132** community projects
 | description | +197 | 615 |
 | website | +204 | 597 |
 | github | +180 | 377 |
-| x | +273 | 289 |
-| linkedin | +196 | 207 |
+| x | +274 | 289 |
+| linkedin | +197 | 207 |
 | discord | +103 | 110 |
 | based_in | +252 | 480 |
 | blog | +252 | 0 |
 | telegram | +150 | 0 |
-| youtube | +168 | 0 |
-| instagram | +128 | 0 |
+| youtube | +169 | 0 |
+| instagram | +129 | 0 |
 | reddit | +14 | 0 |
-| tiktok | +35 | 0 |
+| tiktok | +36 | 0 |
 | linktree | +5 | 0 |
 
 *"Added" = we filled a field SCF didn't have. "Modified" = SCF had a value, we store a different one.*
@@ -76,11 +76,11 @@ Of **674** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 508 | 514 |
-| Active last week | 128 | 206 |
-| Active last month | 211 | 274 |
-| Active last 3 months | 254 | 322 |
-| Active last year | 352 | 406 |
+| Tracked projects | 508 | 515 |
+| Active last week | 128 | 208 |
+| Active last month | 211 | 275 |
+| Active last 3 months | 254 | 323 |
+| Active last year | 352 | 407 |
 
 ## Audit Data
 
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4180 |
+| Lumen Loop | 4185 |
 | SCF | 3434 |
 | Stellar Expert | 373 |
 | Soroban Security | 70 |
@@ -131,8 +131,8 @@ How many data points each contributor provides across the directory:
 - crypto-link
 - paysapp
 - relax
-- the-starship-soroban
 - sendit
+- the-starship-soroban
 - frost-implementation
 - wally
 - soroban-optimistic-oracle
