@@ -1,6 +1,89 @@
+- id: CCMJUJW6Z7I3TYDCJFGTI3A7QA3ASMYAZ5PSRRWBBIJQPKI2GXL5DW5D
+  label: Defindex - Aqua/Yieldblox
+  is_pool: false
+  tags:
+    - unsafe
+    - application
+    - defi
+- id: CBWD2EKIMVG6PM6VZEOCFJ3HPRZ2MDOIT3JCCK6WX2JURISQ3LWWBUIT
+  label: Defindex - CETES/Orbit
+  is_pool: false
+  tags:
+    - application
+    - defi
+    - unsafe
+- id: CBTSRJLN5CVVOWLTH2FY5KNQ47KW5KKU3VWGASDN72STGMXLRRNHPRIL
+  label: Defindex - CETES/Yieldblox
+  is_pool: false
+  tags:
+    - application
+    - defi
+    - unsafe
+- id: CA33NXYN7H3EBDSA3U2FPSULGJTTL3FQRHD2ADAAPTKS3FUJOE73735A
+  label: Defindex - EURC/Yieldblox
+  is_pool: false
+  tags:
+    - unsafe
+    - application
+    - defi
 - id: CDKFHFJIET3A73A2YN4KV7NSV32S6YGQMUFH3DNJXLBWL4SKEGVRNFKI
   label: Defindex - Factory
   is_pool: false
   tags:
     - application
     - defi
+- id: CDXZESX452QH2NIINQDTJ2S7G2CF2QCL43Q3K2VN3VAVKIE4QRS43GHC
+  label: Defindex - OUSD/Orbit
+  is_pool: false
+  tags:
+    - application
+    - defi
+    - unsafe
+- id: CCFWKCD52JNSQLN5OS4F7EG6BPDT4IRJV6KODIEIZLWPM35IKHOKT6S2
+  label: Defindex - Palta Vault
+  is_pool: false
+  tags:
+    - unsafe
+    - defi
+    - application
+- id: CCSRX5E4337QMCMC3KO3RDFYI57T5NZV5XB3W3TWE4USCASKGL5URKJL
+  label: Defindex - USDC/Yieldblox
+  is_pool: false
+  tags:
+    - application
+    - defi
+    - unsafe
+- id: CCTLQXYSIUN3OSZLZ7O7MIJC6YCU3QLLS6TUM3P2CD6DAVELMWC3QV4E
+  label: Defindex - USDGLO/YieldBlox
+  is_pool: false
+  tags:
+    - unsafe
+    - application
+    - defi
+- id: CB5FP32DQKDA7Z7SJ7DGP2FRJRQLPXBSRMSK2KNLGC3V4SXWIIWLJWKM
+  label: Defindex - USTRY/Orbit
+  is_pool: false
+  tags:
+    - application
+    - defi
+    - unsafe
+- id: CDDXPBOF727FDVTNV4I3G4LL4BHTJHE5BBC4W6WZAHMUPFDPBQBL6K7Y
+  label: Defindex - USTRY/YieldBlox
+  is_pool: false
+  tags:
+    - unsafe
+    - application
+    - defi
+- id: CCY2V6WZDC7UZL225KHUE6YZOM44XCU3CNE5WYQGTDKP67QQ6U6W46UD
+  label: Defindex - XLM/Orbit
+  is_pool: false
+  tags:
+    - defi
+    - application
+- id: CBDOIGFO2QOOZTWQZ7AFPH5JOUS2SBN5CTTXR665NHV6GOCM6OUGI5KP
+  label: Defindex - XLM/Yieldblox
+  is_pool: false
+  tags:
+    - application
+    - defi
+    - unsafe
