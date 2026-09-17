@@ -1,0 +1,35 @@
+title: Local402
+other_names: null
+parent: null
+description: x402 payments on Stellar priced in local currencies. Sellers price API routes in CLP, EUR or UF using the Reflector oracle and receive the exact USDC amount, while payers settle in USDC, XLM or EURC through the FxPay Soroban contract.
+links:
+  website:
+    - local402.vercel.app
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/DiegoPoveda01/local402
+attributes:
+  category: Developer Tooling
+  tags:
+    - Payments
+    - AI
+    - API
+    - SDK
+    - Stablecoins
+  operating_region:
+    - Latin America & Caribbean
+  based_in: Chile
+images: null
+scf: null
+mainnet:
+  audits: []
+  tokens: []
