@@ -5,6 +5,12 @@
     - unsafe
     - application
     - defi
+- id: CAZ3LLLKPWEOVK6K4G5NCQ2VXWABLFIPKKNMN5GLKMZKEN7JSKTEMIKN
+  label: Defindex - Cetes/Etherfuse
+  is_pool: false
+  tags:
+    - application
+    - defi
 - id: CBWD2EKIMVG6PM6VZEOCFJ3HPRZ2MDOIT3JCCK6WX2JURISQ3LWWBUIT
   label: Defindex - CETES/Orbit
   is_pool: false
@@ -19,6 +25,12 @@
     - application
     - defi
     - unsafe
+- id: CC5CE6MWISDXT3MLNQ7R3FVILFVFEIH3COWGH45GJKL6BD2ZHF7F7JVI
+  label: Defindex - Eurc/Blend
+  is_pool: false
+  tags:
+    - application
+    - defi
 - id: CA33NXYN7H3EBDSA3U2FPSULGJTTL3FQRHD2ADAAPTKS3FUJOE73735A
   label: Defindex - EURC/Yieldblox
   is_pool: false
@@ -46,6 +58,24 @@
     - unsafe
     - defi
     - application
+- id: CDSCVJHJWUZQMR64FVK3XMND5NKSN7Z23KPRCHKFHVGOEJBWPVH5B5XA
+  label: Defindex - Tesouro/Etherfuse
+  is_pool: false
+  tags:
+    - application
+    - defi
+- id: CDB2WMKQQNVZMEBY7Q7GZ5C7E7IAFSNMZ7GGVD6WKTCEWK7XOIAVZSAP
+  label: Defindex - USDC/Blend
+  is_pool: false
+  tags:
+    - defi
+    - application
+- id: CCBTSHPUVNKCT5V675AAVYNANHXBU26PTZK2QLS7ZLFNYRJZT5HW3VL6
+  label: Defindex - USDC/Etherfuse
+  is_pool: false
+  tags:
+    - application
+    - defi
 - id: CCSRX5E4337QMCMC3KO3RDFYI57T5NZV5XB3W3TWE4USCASKGL5URKJL
   label: Defindex - USDC/Yieldblox
   is_pool: false
@@ -58,6 +88,12 @@
   is_pool: false
   tags:
     - unsafe
+    - application
+    - defi
+- id: CA3SO5RRKOONAPWVR5XY6CMOYZGN4M4QKVIGX5DFRIIJUJW2SFSELBXL
+  label: Defindex - USTRY/Etherfuse
+  is_pool: false
+  tags:
     - application
     - defi
 - id: CB5FP32DQKDA7Z7SJ7DGP2FRJRQLPXBSRMSK2KNLGC3V4SXWIIWLJWKM
@@ -74,6 +110,12 @@
     - unsafe
     - application
     - defi
+- id: CDPWNUW7UMCSVO36VAJSQHQECISPJLCVPDASKHRC5SEROAAZDUQ5DG2Z
+  label: Defindex - XLM/Blend
+  is_pool: false
+  tags:
+    - defi
+    - application
 - id: CCY2V6WZDC7UZL225KHUE6YZOM44XCU3CNE5WYQGTDKP67QQ6U6W46UD
   label: Defindex - XLM/Orbit
   is_pool: false

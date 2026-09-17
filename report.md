@@ -76,11 +76,11 @@ Of **674** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 509 | 515 |
-| Active last week | 134 | 213 |
-| Active last month | 212 | 277 |
-| Active last 3 months | 254 | 322 |
-| Active last year | 353 | 407 |
+| Tracked projects | 509 | 514 |
+| Active last week | 143 | 209 |
+| Active last month | 212 | 276 |
+| Active last 3 months | 255 | 322 |
+| Active last year | 353 | 406 |
 
 ## Audit Data
 
@@ -119,7 +119,7 @@ How many data points each contributor provides across the directory:
 |--------|------:|
 | Lumen Loop | 4185 |
 | SCF | 3434 |
-| Stellar Expert | 385 |
+| Stellar Expert | 392 |
 | Soroban Security | 70 |
 | DeFiLlama | 26 |
 
