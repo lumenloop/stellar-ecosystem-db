@@ -1,0 +1,5 @@
+- id: CBMWKVMFEBBSN2VS7VD3AYNDLHAIPW4WYP5ZAOAEXKT4NCG2OPGYRSCV
+  label: Local402 FxPay
+  is_pool: false
+  tags:
+    - application
