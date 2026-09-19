@@ -1,11 +1,11 @@
 # Stellar Ecosystem Database
 
-An open, structured dataset of **646 projects** building on the [Stellar](https://stellar.org) network — aggregated from multiple sources into a single, organized repository.
+An open, structured dataset of **812 projects** building on the [Stellar](https://stellar.org) network — aggregated from multiple sources into a single, organized repository.
 
 ## What's Inside
 
 ```
-projects/              # One YAML file per project (646 files)
+projects/              # One YAML file per project (812 files)
 report.md              # Auto-generated data completeness report
 ```
 
@@ -55,14 +55,14 @@ See [report.md](report.md) for the full auto-generated report. Key highlights:
 
 | Field | Coverage |
 |-------|----------|
-| Description | 99.7% |
+| Description | 100% |
 | Website | 98.6% |
-| GitHub | 73.5% |
-| X/Twitter | 67.2% |
-| Category | 88.4% |
-| Based in | 87.0% |
+| GitHub | 68.6% |
+| X/Twitter | 69.3% |
+| Category | 100% |
+| Based in | 90.1% |
 
-**577** projects are SCF-funded, **69** are community-contributed.
+**674** projects are SCF-funded, **138** are community-contributed.
 
 ## Data Sources
 
