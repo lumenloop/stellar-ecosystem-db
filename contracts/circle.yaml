@@ -1,3 +1,8 @@
+- id: CBZL2IH7F6BIDAA3WBNXYKIXSATJGMSW7K5P5MJ6STX5RXN47TZJDF5T
+  label: Circle CCTP
+  is_pool: false
+  tags:
+    - infra
 - id: CAE2G5Z77UP7GYPYGFOWFGW7C7J6I4YP2AFGSADRKQY62SYUFLPNFTXL
   label: Circle CCTP
   is_pool: false
@@ -5,11 +10,6 @@
     - application
     - anchor
 - id: CACMENFFJPJMSDAJQLX4R7K3SFZIW2LJSE3R2UMLGSWHFHS353FVXAZV
-  label: Circle CCTP
-  is_pool: false
-  tags:
-    - infra
-- id: CBZL2IH7F6BIDAA3WBNXYKIXSATJGMSW7K5P5MJ6STX5RXN47TZJDF5T
   label: Circle CCTP
   is_pool: false
   tags:
