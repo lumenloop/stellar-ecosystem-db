@@ -128,12 +128,12 @@ How many data points each contributor provides across the directory:
 10 items need attention.
 
 **SCF project missing website** (10):
-- relax
 - frost-implementation
 - paysapp
-- crypto-link
+- relax
 - the-starship-soroban
 - sendit
+- crypto-link
 - wally
 - soroban-optimistic-oracle
 - timed-transactions-api
