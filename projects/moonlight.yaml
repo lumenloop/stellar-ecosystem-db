@@ -36,5 +36,9 @@ scf:
   submission_urls:
     - communityfund.stellar.org/submissions/recNF9qwGZwrMlDfu
 mainnet:
-  audits: []
+  audits:
+    - name: Moonlight core
+      url: sorobansecurity.com/report/78
+      date: '2026-07-24T21:06:47.502Z'
+      auditor: Runtime Verification
   tokens: []

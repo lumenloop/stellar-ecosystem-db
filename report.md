@@ -1,14 +1,14 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-09-20
+> Auto-generated on 2026-09-21
 
 ## Summary
 
 | Metric | Count |
 |--------|------:|
 | Total projects | **812** |
-| SCF-funded projects | 674 |
-| Community projects | 138 |
+| SCF-funded projects | 675 |
+| Community projects | 137 |
 | Audited projects | 54 |
 
 ## Data Coverage
@@ -35,7 +35,7 @@
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **812** projects (incl. **132** community projects not in SCF) against **709** in SCF Airtable:
+Per-project comparison of our **812** projects (incl. **131** community projects not in SCF) against **709** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
@@ -58,15 +58,15 @@ Per-project comparison of our **812** projects (incl. **132** community projects
 
 ## SCF Project Coverage
 
-Of **674** SCF-funded projects:
+Of **675** SCF-funded projects:
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| awarded_total | 674/674 | 100% |
-| awarded_round | 674/674 | 100% |
-| submission_urls | 674/674 | 100% |
-| website | 664/674 | 98.5% |
-| github | 494/674 | 73.3% |
+| awarded_total | 674/675 | 99.9% |
+| awarded_round | 675/675 | 100% |
+| submission_urls | 675/675 | 100% |
+| website | 665/675 | 98.5% |
+| github | 494/675 | 73.2% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -77,8 +77,8 @@ Of **674** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 509 | 514 |
-| Active last week | 142 | 213 |
-| Active last month | 215 | 277 |
+| Active last week | 142 | 214 |
+| Active last month | 217 | 273 |
 | Active last 3 months | 256 | 323 |
 | Active last year | 353 | 406 |
 
