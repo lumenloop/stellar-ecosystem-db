@@ -6,7 +6,8 @@ links:
   website:
     - swiftexchange.io
   blog: []
-  x: []
+  x:
+    - swiftex_wallet
   linkedin:
     - linkedin.com/company/swiftex-wallet
   discord:
