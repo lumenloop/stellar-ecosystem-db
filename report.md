@@ -92,8 +92,8 @@ Of **675** SCF-funded projects:
 |---------|---------:|
 | Veridise | 24 |
 | OtterSec | 10 |
-| certora | 9 |
 | Runtime Verification | 9 |
+| certora | 9 |
 | Halborn | 5 |
 | Quarkslab | 3 |
 | CoinFabrik | 2 |
