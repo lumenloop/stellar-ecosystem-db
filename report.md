@@ -6,8 +6,8 @@
 
 | Metric | Count |
 |--------|------:|
-| Total projects | **821** |
-| SCF-funded projects | 684 |
+| Total projects | **822** |
+| SCF-funded projects | 685 |
 | Community projects | 137 |
 | Audited projects | 54 |
 
@@ -15,33 +15,33 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 812/821 | 98.9% |
-| website | 810/821 | 98.7% |
-| blog | 253/821 | 30.8% |
-| x | 564/821 | 68.7% |
-| linkedin | 405/821 | 49.3% |
-| discord | 214/821 | 26.1% |
-| telegram | 151/821 | 18.4% |
-| youtube | 171/821 | 20.8% |
-| instagram | 129/821 | 15.7% |
-| reddit | 15/821 | 1.8% |
-| tiktok | 37/821 | 4.5% |
-| linktree | 6/821 | 0.7% |
-| github | 567/821 | 69.1% |
-| category | 821/821 | 100% |
-| tags | 800/821 | 97.4% |
-| operating_region | 783/821 | 95.4% |
-| based_in | 733/821 | 89.3% |
+| description | 812/822 | 98.8% |
+| website | 811/822 | 98.7% |
+| blog | 253/822 | 30.8% |
+| x | 564/822 | 68.6% |
+| linkedin | 405/822 | 49.3% |
+| discord | 214/822 | 26% |
+| telegram | 151/822 | 18.4% |
+| youtube | 171/822 | 20.8% |
+| instagram | 129/822 | 15.7% |
+| reddit | 15/822 | 1.8% |
+| tiktok | 37/822 | 4.5% |
+| linktree | 6/822 | 0.7% |
+| github | 568/822 | 69.1% |
+| category | 822/822 | 100% |
+| tags | 800/822 | 97.3% |
+| operating_region | 783/822 | 95.3% |
+| based_in | 733/822 | 89.2% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **821** projects (incl. **131** community projects not in SCF) against **709** in SCF Airtable:
+Per-project comparison of our **822** projects (incl. **131** community projects not in SCF) against **709** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
 | description | +197 | 615 |
-| website | +213 | 597 |
-| github | +190 | 377 |
+| website | +214 | 597 |
+| github | +191 | 377 |
 | x | +275 | 289 |
 | linkedin | +198 | 207 |
 | discord | +104 | 110 |
@@ -58,15 +58,15 @@ Per-project comparison of our **821** projects (incl. **131** community projects
 
 ## SCF Project Coverage
 
-Of **684** SCF-funded projects:
+Of **685** SCF-funded projects:
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| awarded_total | 674/684 | 98.5% |
-| awarded_round | 684/684 | 100% |
-| submission_urls | 684/684 | 100% |
-| website | 674/684 | 98.5% |
-| github | 504/684 | 73.7% |
+| awarded_total | 674/685 | 98.4% |
+| awarded_round | 685/685 | 100% |
+| submission_urls | 685/685 | 100% |
+| website | 675/685 | 98.5% |
+| github | 505/685 | 73.7% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -76,11 +76,11 @@ Of **684** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 518 | 514 |
-| Active last week | 145 | 205 |
-| Active last month | 219 | 276 |
-| Active last 3 months | 263 | 323 |
-| Active last year | 362 | 406 |
+| Tracked projects | 519 | 514 |
+| Active last week | 146 | 205 |
+| Active last month | 220 | 276 |
+| Active last 3 months | 264 | 323 |
+| Active last year | 363 | 406 |
 
 ## Audit Data
 
@@ -92,13 +92,13 @@ Of **684** SCF-funded projects:
 |---------|---------:|
 | Veridise | 24 |
 | OtterSec | 10 |
-| certora | 9 |
 | Runtime Verification | 9 |
+| certora | 9 |
 | Halborn | 5 |
 | Quarkslab | 3 |
-| OpenZeppelin | 2 |
-| Сoinspect | 2 |
 | CoinFabrik | 2 |
+| Сoinspect | 2 |
+| OpenZeppelin | 2 |
 | Code4rena | 2 |
 | Zellic | 2 |
 | Hacken | 1 |
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4235 |
+| Lumen Loop | 4239 |
 | SCF | 3434 |
 | Stellar Expert | 392 |
 | Soroban Security | 71 |
@@ -125,25 +125,26 @@ How many data points each contributor provides across the directory:
 
 ## Needs Review
 
-19 items need attention.
+20 items need attention.
 
-**description empty** (9):
+**description empty** (10):
 - pigfi
 - catlog
-- lendwise
 - lendoor
-- agama
 - lunar-finance
+- lendwise
+- agama
 - bwb
 - tilt-pay
 - slimepay
+- rail402
 
 **SCF project missing website** (10):
+- relax
 - wally
 - crypto-link
 - frost-implementation
 - the-starship-soroban
-- relax
 - soroban-optimistic-oracle
 - paysapp
 - timed-transactions-api
