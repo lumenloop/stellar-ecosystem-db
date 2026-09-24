@@ -1,0 +1,34 @@
+title: BWB
+other_names: null
+parent: null
+description: ''
+links:
+  website:
+    - bwbi.com.br
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/techlibs/bwb-stellar
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: null
+  submission_urls:
+    - communityfund.stellar.org/submissions/rec8bhUAafIcSJUzA
+mainnet:
+  audits: []
+  tokens: []
