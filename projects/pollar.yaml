@@ -1,0 +1,32 @@
+title: Pollar
+other_names: null
+parent: null
+description: An SDK giving Stellar apps embedded wallets and USDC charging via Google or email login, plus a unified fiat on/off-ramp API across seven anchors in six Latin American countries, with webhooks, reconciliation, and KYC tiers.
+links:
+  website:
+    - pollar.xyz
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: 89500
+  submission_urls: []
+mainnet:
+  audits: []
+  tokens: []

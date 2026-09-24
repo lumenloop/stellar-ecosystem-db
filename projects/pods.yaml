@@ -1,0 +1,32 @@
+title: Pods
+other_names: null
+parent: null
+description: A request-for-quote settlement primitive on Soroban where allowlisted market makers compete to fill signed buyer requests that settle atomically on-chain, enabling distribution of tokenized real-world assets on Stellar with built-in compliance controls.
+links:
+  website:
+    - deframe.io
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: 125000
+  submission_urls: []
+mainnet:
+  audits: []
+  tokens: []

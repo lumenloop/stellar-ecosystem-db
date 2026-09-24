@@ -1,0 +1,32 @@
+title: Fermah Pay
+other_names: null
+parent: null
+description: 'Seller-side agentic-payments infrastructure on Soroban: a prepaid multi-tenant billing ledger contract, time-bounded recurring USDC charges via the Stellar Asset Contract, a batching settlement daemon with an x402-compatible interface, and an open-source SDK.'
+links:
+  website:
+    - fermah.xyz
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Financial Protocols
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: 65000
+  submission_urls: []
+mainnet:
+  audits: []
+  tokens: []

@@ -1,0 +1,32 @@
+title: Strata
+other_names: null
+parent: null
+description: 'A white-label Soroban vault kit for real-world-asset projects: asynchronous tokenized-vault contracts, a guarded valuation oracle, notice-period redemptions, allowlist compliance, and an LP dApp that teams configure and deploy under Apache-2.0.'
+links:
+  website:
+    - bootnode.dev
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: 69000
+  submission_urls: []
+mainnet:
+  audits: []
+  tokens: []

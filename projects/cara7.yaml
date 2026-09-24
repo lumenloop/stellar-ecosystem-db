@@ -1,0 +1,32 @@
+title: Cara7
+other_names: null
+parent: null
+description: Institutional infrastructure for tokenizing auto-loan receivableson Stellar, with a configurable Soroban payment-waterfall contract, EURC distributions via the Stellar Asset Contract, MPC custody and fiat ramp integration, and issuer/investor dashboards.
+links:
+  website:
+    - cara7.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: 127900
+  submission_urls: []
+mainnet:
+  audits: []
+  tokens: []
