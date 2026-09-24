@@ -1,0 +1,34 @@
+title: HumanityLink
+other_names: null
+parent: null
+description: ''
+links:
+  website:
+    - enable-zk.humanity.link
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/humanitylink
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: null
+  submission_urls:
+    - communityfund.stellar.org/submissions/recZeBSnr1JqjPt4C
+mainnet:
+  audits: []
+  tokens: []
