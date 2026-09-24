@@ -6,8 +6,8 @@
 
 | Metric | Count |
 |--------|------:|
-| Total projects | **833** |
-| SCF-funded projects | 696 |
+| Total projects | **834** |
+| SCF-funded projects | 697 |
 | Community projects | 137 |
 | Audited projects | 54 |
 
@@ -15,33 +15,33 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 813/833 | 97.6% |
-| website | 822/833 | 98.7% |
-| blog | 253/833 | 30.4% |
-| x | 567/833 | 68.1% |
-| linkedin | 405/833 | 48.6% |
-| discord | 214/833 | 25.7% |
-| telegram | 151/833 | 18.1% |
-| youtube | 171/833 | 20.5% |
-| instagram | 129/833 | 15.5% |
-| reddit | 15/833 | 1.8% |
-| tiktok | 37/833 | 4.4% |
-| linktree | 6/833 | 0.7% |
-| github | 576/833 | 69.1% |
-| category | 833/833 | 100% |
-| tags | 800/833 | 96% |
-| operating_region | 784/833 | 94.1% |
-| based_in | 734/833 | 88.1% |
+| description | 813/834 | 97.5% |
+| website | 823/834 | 98.7% |
+| blog | 253/834 | 30.3% |
+| x | 567/834 | 68% |
+| linkedin | 405/834 | 48.6% |
+| discord | 214/834 | 25.7% |
+| telegram | 151/834 | 18.1% |
+| youtube | 171/834 | 20.5% |
+| instagram | 129/834 | 15.5% |
+| reddit | 15/834 | 1.8% |
+| tiktok | 37/834 | 4.4% |
+| linktree | 6/834 | 0.7% |
+| github | 577/834 | 69.2% |
+| category | 834/834 | 100% |
+| tags | 800/834 | 95.9% |
+| operating_region | 784/834 | 94% |
+| based_in | 734/834 | 88% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **833** projects (incl. **131** community projects not in SCF) against **709** in SCF Airtable:
+Per-project comparison of our **834** projects (incl. **131** community projects not in SCF) against **709** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
 | description | +198 | 615 |
-| website | +225 | 597 |
-| github | +199 | 377 |
+| website | +226 | 597 |
+| github | +200 | 377 |
 | x | +278 | 289 |
 | linkedin | +198 | 207 |
 | discord | +104 | 110 |
@@ -58,15 +58,15 @@ Per-project comparison of our **833** projects (incl. **131** community projects
 
 ## SCF Project Coverage
 
-Of **696** SCF-funded projects:
+Of **697** SCF-funded projects:
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| awarded_total | 682/696 | 98% |
-| awarded_round | 696/696 | 100% |
-| submission_urls | 696/696 | 100% |
-| website | 686/696 | 98.6% |
-| github | 513/696 | 73.7% |
+| awarded_total | 683/697 | 98% |
+| awarded_round | 697/697 | 100% |
+| submission_urls | 697/697 | 100% |
+| website | 687/697 | 98.6% |
+| github | 514/697 | 73.7% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -76,11 +76,11 @@ Of **696** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 526 | 518 |
+| Tracked projects | 527 | 518 |
 | Active last week | 150 | 209 |
 | Active last month | 226 | 280 |
-| Active last 3 months | 270 | 327 |
-| Active last year | 370 | 410 |
+| Active last 3 months | 271 | 327 |
+| Active last year | 371 | 410 |
 
 ## Audit Data
 
@@ -92,13 +92,13 @@ Of **696** SCF-funded projects:
 |---------|---------:|
 | Veridise | 24 |
 | OtterSec | 10 |
-| certora | 9 |
 | Runtime Verification | 9 |
+| certora | 9 |
 | Halborn | 5 |
 | Quarkslab | 3 |
-| Code4rena | 2 |
 | Zellic | 2 |
 | Сoinspect | 2 |
+| Code4rena | 2 |
 | OpenZeppelin | 2 |
 | CoinFabrik | 2 |
 | Hacken | 1 |
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4286 |
+| Lumen Loop | 4290 |
 | SCF | 3434 |
 | Stellar Expert | 392 |
 | Soroban Security | 71 |
@@ -125,9 +125,9 @@ How many data points each contributor provides across the directory:
 
 ## Needs Review
 
-30 items need attention.
+31 items need attention.
 
-**description empty** (20):
+**description empty** (21):
 - pigfi
 - nouns
 - stellar-vrf
@@ -143,6 +143,7 @@ How many data points each contributor provides across the directory:
 - lendwise
 - rail402
 - lunar-finance
+- account-demolisher
 - kutana
 - janus
 - tilt-pay
