@@ -1,0 +1,32 @@
+title: Rail402
+other_names: null
+parent: null
+description: An Apache-2.0 suite for discovering, purchasing, settling, and inspecting x402 services on Stellar, built on the @x402/stellar flow, providing standard supported/verify/settle facilitator endpoints and multiple settlement schemes.
+links:
+  website:
+    - rail402.dev
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: 125000
+  submission_urls: []
+mainnet:
+  audits: []
+  tokens: []

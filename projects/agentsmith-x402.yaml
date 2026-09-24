@@ -1,0 +1,32 @@
+title: AgentSmith x402
+other_names: null
+parent: null
+description: An Apache-2.0 x402 payment facilitator and Bazaar discovery layer for Stellar (testnet and pubnet) with non-custodial verify/settle and sponsored fees, letting AI agents discover and pay for services per request.
+links:
+  website:
+    - 57blocks.com/blockchain
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: 122000
+  submission_urls: []
+mainnet:
+  audits: []
+  tokens: []

@@ -1,0 +1,32 @@
+title: Canary Protocol
+other_names: null
+parent: null
+description: Extending Canary’s production LayerZero DVN to Stellar, giving cross-chain apps a second independent verifier with multi-VM message decoding (EVM, SVM, Move), Stellar-native signing, and TEE-isolated execution.
+links:
+  website:
+    - canaryprotocol.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: 120000
+  submission_urls: []
+mainnet:
+  audits: []
+  tokens: []
