@@ -1,0 +1,34 @@
+title: PigFi
+other_names: null
+parent: null
+description: ''
+links:
+  website:
+    - pigfi.app
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/chatpay-go-labs-oficial/smartpig_stellar-37o
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: null
+  submission_urls:
+    - communityfund.stellar.org/submissions/recRUU7pHhSV0zsxl
+mainnet:
+  audits: []
+  tokens: []
