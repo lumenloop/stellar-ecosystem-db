@@ -78,7 +78,7 @@ Of **675** SCF-funded projects:
 |--------|------:|--------:|
 | Tracked projects | 510 | 514 |
 | Active last week | 147 | 202 |
-| Active last month | 215 | 272 |
+| Active last month | 215 | 273 |
 | Active last 3 months | 255 | 323 |
 | Active last year | 354 | 406 |
 
@@ -96,8 +96,8 @@ Of **675** SCF-funded projects:
 | Runtime Verification | 9 |
 | Halborn | 5 |
 | Quarkslab | 3 |
-| CoinFabrik | 2 |
 | Code4rena | 2 |
+| CoinFabrik | 2 |
 | Zellic | 2 |
 | Сoinspect | 2 |
 | OpenZeppelin | 2 |
