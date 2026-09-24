@@ -6,8 +6,8 @@
 
 | Metric | Count |
 |--------|------:|
-| Total projects | **834** |
-| SCF-funded projects | 697 |
+| Total projects | **835** |
+| SCF-funded projects | 698 |
 | Community projects | 137 |
 | Audited projects | 54 |
 
@@ -15,33 +15,33 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 813/834 | 97.5% |
-| website | 823/834 | 98.7% |
-| blog | 253/834 | 30.3% |
-| x | 567/834 | 68% |
-| linkedin | 405/834 | 48.6% |
-| discord | 214/834 | 25.7% |
-| telegram | 151/834 | 18.1% |
-| youtube | 171/834 | 20.5% |
-| instagram | 129/834 | 15.5% |
-| reddit | 15/834 | 1.8% |
-| tiktok | 37/834 | 4.4% |
-| linktree | 6/834 | 0.7% |
-| github | 577/834 | 69.2% |
-| category | 834/834 | 100% |
-| tags | 800/834 | 95.9% |
-| operating_region | 784/834 | 94% |
-| based_in | 734/834 | 88% |
+| description | 813/835 | 97.4% |
+| website | 824/835 | 98.7% |
+| blog | 253/835 | 30.3% |
+| x | 567/835 | 67.9% |
+| linkedin | 405/835 | 48.5% |
+| discord | 214/835 | 25.6% |
+| telegram | 151/835 | 18.1% |
+| youtube | 171/835 | 20.5% |
+| instagram | 129/835 | 15.4% |
+| reddit | 15/835 | 1.8% |
+| tiktok | 37/835 | 4.4% |
+| linktree | 6/835 | 0.7% |
+| github | 578/835 | 69.2% |
+| category | 835/835 | 100% |
+| tags | 800/835 | 95.8% |
+| operating_region | 784/835 | 93.9% |
+| based_in | 734/835 | 87.9% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **834** projects (incl. **131** community projects not in SCF) against **709** in SCF Airtable:
+Per-project comparison of our **835** projects (incl. **131** community projects not in SCF) against **709** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
 | description | +198 | 615 |
-| website | +226 | 597 |
-| github | +200 | 377 |
+| website | +227 | 597 |
+| github | +201 | 377 |
 | x | +278 | 289 |
 | linkedin | +198 | 207 |
 | discord | +104 | 110 |
@@ -58,15 +58,15 @@ Per-project comparison of our **834** projects (incl. **131** community projects
 
 ## SCF Project Coverage
 
-Of **697** SCF-funded projects:
+Of **698** SCF-funded projects:
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| awarded_total | 683/697 | 98% |
-| awarded_round | 697/697 | 100% |
-| submission_urls | 697/697 | 100% |
-| website | 687/697 | 98.6% |
-| github | 514/697 | 73.7% |
+| awarded_total | 684/698 | 98% |
+| awarded_round | 698/698 | 100% |
+| submission_urls | 698/698 | 100% |
+| website | 688/698 | 98.6% |
+| github | 515/698 | 73.8% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -76,11 +76,11 @@ Of **697** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 527 | 518 |
+| Tracked projects | 528 | 518 |
 | Active last week | 150 | 209 |
 | Active last month | 226 | 280 |
 | Active last 3 months | 271 | 327 |
-| Active last year | 371 | 410 |
+| Active last year | 372 | 410 |
 
 ## Audit Data
 
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4290 |
+| Lumen Loop | 4294 |
 | SCF | 3434 |
 | Stellar Expert | 392 |
 | Soroban Security | 71 |
@@ -125,15 +125,16 @@ How many data points each contributor provides across the directory:
 
 ## Needs Review
 
-31 items need attention.
+32 items need attention.
 
-**description empty** (21):
+**description empty** (22):
 - pigfi
 - nouns
+- neko
 - stellar-vrf
 - catlog
+- escala
 - policywright
-- neko
 - crebit-pay
 - lendoor
 - bwb
