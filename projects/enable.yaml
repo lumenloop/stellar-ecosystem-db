@@ -1,0 +1,32 @@
+title: Enable
+other_names: null
+parent: null
+description: Migrating a group-payments product to Stellar, building a Soroban group-wallet contract for shared, non-custodial pooled-USDC accounts with m-of-n approval and contribution/disbursement logic.
+links:
+  website:
+    - humanity.link
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: 76000
+  submission_urls: []
+mainnet:
+  audits: []
+  tokens: []

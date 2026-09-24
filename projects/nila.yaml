@@ -1,0 +1,32 @@
+title: Nila
+other_names: null
+parent: null
+description: A stablecoin lending facility for smallholder agricultural credit in Tamil Nadu, India, porting its member cash ramp (Anchor Platform), member wallets (Privy), and USDC capital path (CCTP) onto Stellar, with remote-sensing crop verification replacing the field agent.
+links:
+  website:
+    - nila.land
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: 95000
+  submission_urls: []
+mainnet:
+  audits: []
+  tokens: []

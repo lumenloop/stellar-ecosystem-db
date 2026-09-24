@@ -1,0 +1,32 @@
+title: Neko
+other_names: null
+parent: null
+description: A non-custodial consumer web app giving Latin American users access to real-world-asset and stablecoin protocols on Stellar. by composing audited building blocks (DeFindex, xBull Swap Kit) via their SDKs.
+links:
+  website:
+    - nekoprotocol.xyz
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: 126710
+  submission_urls: []
+mainnet:
+  audits: []
+  tokens: []

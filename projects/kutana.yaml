@@ -1,0 +1,32 @@
+title: Kutana
+other_names: null
+parent: null
+description: A B2B cross-border trade platform for African SMEs moving its milestone-based escrow with embedded coverage mechanism, holding escrow in USDC on Stellar via Trustless Work’s audited contracts with milestone-based releases.
+links:
+  website:
+    - kutanapay.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: 97000
+  submission_urls: []
+mainnet:
+  audits: []
+  tokens: []

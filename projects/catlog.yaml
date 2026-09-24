@@ -1,0 +1,32 @@
+title: Catlog
+other_names: null
+parent: null
+description: Integrating Stellar as the core settlement and payout layer of its payment infrastructure with Stellar USDC as the settlement asset, routing multi-chain stablecoin checkout payments into Stellar via NEAR Intents and Circle CCTP.
+links:
+  website:
+    - catlog.shop
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: 97000
+  submission_urls: []
+mainnet:
+  audits: []
+  tokens: []

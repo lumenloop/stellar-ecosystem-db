@@ -1,0 +1,32 @@
+title: PigFi
+other_names: null
+parent: null
+description: A mobile savings app expanding its DeFindex integration into a configuration-driven multi-vault experience, adding a reusable backend vault registry and adapter, normalized transaction-state handling, and mobile vault discovery screens.
+links:
+  website:
+    - use.pigfi.app
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: 96060
+  submission_urls: []
+mainnet:
+  audits: []
+  tokens: []

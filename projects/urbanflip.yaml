@@ -1,0 +1,32 @@
+title: Urbanflip
+other_names: null
+parent: null
+description: Tokenizing Madrid real-estate projects on Stellar with per-project subscription contracts and compliance-integrated onboarding.
+links:
+  website:
+    - urbanflip.io
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: 120000
+  submission_urls: []
+mainnet:
+  audits: []
+  tokens: []

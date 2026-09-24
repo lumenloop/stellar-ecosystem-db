@@ -1,0 +1,33 @@
+title: lomi.
+other_names: null
+parent: null
+description: A Stellar bridge and anchor for XOF/USDC for lomi., a live francophone West African (UEMOA) payment processor, connecting its mobile-money and card checkout to Stellar-based settlement.
+links:
+  website:
+    - lomi.africa
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/lomiafrica/stellar
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: 95000
+  submission_urls: []
+mainnet:
+  audits: []
+  tokens: []

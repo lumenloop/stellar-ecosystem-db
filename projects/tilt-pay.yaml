@@ -1,0 +1,32 @@
+title: Tilt Pay
+other_names: null
+parent: null
+description: A live mobile payment app migrating its settlement infrastructure to Stellar, moving existing user flows to native USDC settlement with DeFi integrations and in-app swaps.
+links:
+  website:
+    - tilt-pay.com
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: 124000
+  submission_urls: []
+mainnet:
+  audits: []
+  tokens: []

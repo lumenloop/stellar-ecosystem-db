@@ -1,0 +1,33 @@
+title: Sorted
+other_names: null
+parent: null
+description: A stablecoin banking app on Stellar for users on Android Go, older, or basic phones with intermittent connectivity in Africa and South Asia, providing digital-dollar access without crypto-native wallet, gas, or bridging complexity.
+links:
+  website:
+    - sorted.io
+  blog: []
+  x:
+    - sortedwallet
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: 150000
+  submission_urls: []
+mainnet:
+  audits: []
+  tokens: []

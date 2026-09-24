@@ -1,0 +1,32 @@
+title: Minisend
+other_names: null
+parent: null
+description: A Stellar anchor and settlement rail letting users send USDC and receive local currency via M-Pesa, Airtel Money, or bank in Africa, using SEP standards and Circle CCTP liquidity.
+links:
+  website:
+    - minisend.xyz
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: 100000
+  submission_urls: []
+mainnet:
+  audits: []
+  tokens: []

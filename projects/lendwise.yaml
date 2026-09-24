@@ -1,0 +1,33 @@
+title: LendWise
+other_names: null
+parent: null
+description: A DeFi lending aggregator standardizing lending-rate data and centralizing cross-protocol position monitoring, with optimization and execution tools, integrating Stellar lending markets into a unified interface.
+links:
+  website:
+    - lendwise.fi
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/cedricmagne/lendwise
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: 66670
+  submission_urls: []
+mainnet:
+  audits: []
+  tokens: []

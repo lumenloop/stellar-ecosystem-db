@@ -1,0 +1,32 @@
+title: BWB
+other_names: null
+parent: null
+description: A Brazilian real-estate tokenizationplatform using Stellar as its rail, with Privy embedded wallets, Soroban offering and eligibility contracts, Circle CCTP Base-Stellar liquidity, BRL settlement via Avenia, and DeFindex integrations.
+links:
+  website:
+    - bwbi.com.br
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: 150000
+  submission_urls: []
+mainnet:
+  audits: []
+  tokens: []

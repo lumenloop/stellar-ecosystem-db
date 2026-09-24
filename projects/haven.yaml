@@ -1,0 +1,32 @@
+title: Haven
+other_names: null
+parent: null
+description: A privacy-first crypto neobank running natively on Stellar, built on Soroban smart-account wallets with passkey (secp256r1) auth and on-chain recovery, integrating six SCF building blocks for everyday banking.
+links:
+  website:
+    - haven.hn
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: 97000
+  submission_urls: []
+mainnet:
+  audits: []
+  tokens: []

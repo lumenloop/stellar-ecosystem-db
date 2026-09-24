@@ -1,0 +1,32 @@
+title: Onboard
+other_names: null
+parent: null
+description: A cross-border payments platform integrating Stellar as a settlement network for its consumer app, business product, and API, paying out local currency alongside its existing EVM, Tron, and Solana rails.
+links:
+  website:
+    - onboard.xyz
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: 89000
+  submission_urls: []
+mainnet:
+  audits: []
+  tokens: []

@@ -1,0 +1,33 @@
+title: Janus
+other_names: null
+parent: null
+description: Payment and settlement infrastructure for freight forwarders, bringing cross-border carrier payments and customer invoicing onto Stellar to replace slow, costly correspondent-banking rails.
+links:
+  website:
+    - janus.solutions
+  blog: []
+  x:
+    - JanusFreight
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: 110376
+  submission_urls: []
+mainnet:
+  audits: []
+  tokens: []

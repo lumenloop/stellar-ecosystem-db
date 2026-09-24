@@ -1,0 +1,32 @@
+title: Balance
+other_names: null
+parent: null
+description: Extending Balance’s production institutional custody for XLM and USDC by integrating the Stellar Anchor Platform and Stellar Disbursement Platform, adding anchor and SDP adapters to its existing custody API.
+links:
+  website:
+    - balance.ca
+  blog: []
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Developer Tooling
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: 125000
+  submission_urls: []
+mainnet:
+  audits: []
+  tokens: []

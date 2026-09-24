@@ -1,0 +1,33 @@
+title: Crebit Rate Locks
+other_names: null
+parent: null
+description: An API-first layer for short-duration, USDC-settled FX rate locks, letting payment providers and market makers manage exchange-rate exposure with on-chain settlement..
+links:
+  website:
+    - crebitpay.com
+  blog: []
+  x:
+    - crebitpay
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Financial Protocols
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: 100000
+  submission_urls: []
+mainnet:
+  audits: []
+  tokens: []

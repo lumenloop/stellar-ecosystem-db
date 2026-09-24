@@ -1,0 +1,33 @@
+title: Sendana
+other_names: null
+parent: null
+description: A borderless banking platform built on Stellar using USDC rails for freelancers and remote workers across the Global South (starting in the Caribbean), adding bank-transfer offramps via Visa Direct push-to-card and business banking.
+links:
+  website:
+    - usesendana.com
+  blog: []
+  x:
+    - sendanaglobal
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region: []
+  based_in: null
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: 100000
+  submission_urls: []
+mainnet:
+  audits: []
+  tokens: []
