@@ -6,8 +6,8 @@
 
 | Metric | Count |
 |--------|------:|
-| Total projects | **835** |
-| SCF-funded projects | 698 |
+| Total projects | **836** |
+| SCF-funded projects | 699 |
 | Community projects | 137 |
 | Audited projects | 54 |
 
@@ -15,33 +15,33 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 813/835 | 97.4% |
-| website | 824/835 | 98.7% |
-| blog | 253/835 | 30.3% |
-| x | 567/835 | 67.9% |
-| linkedin | 405/835 | 48.5% |
-| discord | 214/835 | 25.6% |
-| telegram | 151/835 | 18.1% |
-| youtube | 171/835 | 20.5% |
-| instagram | 129/835 | 15.4% |
-| reddit | 15/835 | 1.8% |
-| tiktok | 37/835 | 4.4% |
-| linktree | 6/835 | 0.7% |
-| github | 578/835 | 69.2% |
-| category | 835/835 | 100% |
-| tags | 800/835 | 95.8% |
-| operating_region | 784/835 | 93.9% |
-| based_in | 734/835 | 87.9% |
+| description | 813/836 | 97.2% |
+| website | 825/836 | 98.7% |
+| blog | 253/836 | 30.3% |
+| x | 567/836 | 67.8% |
+| linkedin | 405/836 | 48.4% |
+| discord | 214/836 | 25.6% |
+| telegram | 151/836 | 18.1% |
+| youtube | 171/836 | 20.5% |
+| instagram | 129/836 | 15.4% |
+| reddit | 15/836 | 1.8% |
+| tiktok | 37/836 | 4.4% |
+| linktree | 6/836 | 0.7% |
+| github | 579/836 | 69.3% |
+| category | 836/836 | 100% |
+| tags | 800/836 | 95.7% |
+| operating_region | 784/836 | 93.8% |
+| based_in | 734/836 | 87.8% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **835** projects (incl. **131** community projects not in SCF) against **709** in SCF Airtable:
+Per-project comparison of our **836** projects (incl. **131** community projects not in SCF) against **709** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
 | description | +198 | 615 |
-| website | +227 | 597 |
-| github | +201 | 377 |
+| website | +228 | 597 |
+| github | +202 | 377 |
 | x | +278 | 289 |
 | linkedin | +198 | 207 |
 | discord | +104 | 110 |
@@ -58,15 +58,15 @@ Per-project comparison of our **835** projects (incl. **131** community projects
 
 ## SCF Project Coverage
 
-Of **698** SCF-funded projects:
+Of **699** SCF-funded projects:
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| awarded_total | 684/698 | 98% |
-| awarded_round | 698/698 | 100% |
-| submission_urls | 698/698 | 100% |
-| website | 688/698 | 98.6% |
-| github | 515/698 | 73.8% |
+| awarded_total | 685/699 | 98% |
+| awarded_round | 699/699 | 100% |
+| submission_urls | 699/699 | 100% |
+| website | 689/699 | 98.6% |
+| github | 516/699 | 73.8% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -76,11 +76,11 @@ Of **698** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 528 | 518 |
-| Active last week | 150 | 209 |
-| Active last month | 226 | 280 |
-| Active last 3 months | 271 | 327 |
-| Active last year | 372 | 410 |
+| Tracked projects | 529 | 518 |
+| Active last week | 151 | 209 |
+| Active last month | 227 | 280 |
+| Active last 3 months | 272 | 327 |
+| Active last year | 373 | 410 |
 
 ## Audit Data
 
@@ -96,11 +96,11 @@ Of **698** SCF-funded projects:
 | certora | 9 |
 | Halborn | 5 |
 | Quarkslab | 3 |
-| Zellic | 2 |
 | Сoinspect | 2 |
 | Code4rena | 2 |
-| OpenZeppelin | 2 |
+| Zellic | 2 |
 | CoinFabrik | 2 |
+| OpenZeppelin | 2 |
 | Hacken | 1 |
 
 ## Data Sources
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4294 |
+| Lumen Loop | 4298 |
 | SCF | 3434 |
 | Stellar Expert | 392 |
 | Soroban Security | 71 |
@@ -125,25 +125,26 @@ How many data points each contributor provides across the directory:
 
 ## Needs Review
 
-32 items need attention.
+33 items need attention.
 
-**description empty** (22):
+**description empty** (23):
 - pigfi
+- etesia
 - nouns
 - neko
 - stellar-vrf
 - catlog
 - escala
 - policywright
-- crebit-pay
-- lendoor
 - bwb
-- humanitylink
+- crebit-pay
 - agama
+- lendoor
 - sorted
 - lendwise
 - rail402
 - lunar-finance
+- humanitylink
 - account-demolisher
 - kutana
 - janus
