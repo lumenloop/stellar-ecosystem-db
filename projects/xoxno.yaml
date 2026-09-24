@@ -7,27 +7,41 @@ description: XOXNO is an enterprise-grade decentralized lending protocol built o
 links:
   website:
     - xoxno.com
-  blog: []
-  x: []
-  linkedin: []
-  discord: []
-  telegram: []
-  youtube: []
-  instagram: []
-  reddit: []
-  tiktok: []
-  linktree: []
-  github: []
+  blog:
+    - xoxno.com/blog
+  x:
+    - xoxnonetwork
+  linkedin:
+    - linkedin.com/company/xoxno
+  discord:
+    - discord.gg/JV3qcK4HME
+  telegram:
+    - t.me/xoxno
+    - t.me/xoxnonews
+  youtube:
+    - youtube.com/channel/UCeknNkwBJZhrHcPPEMHAYrg
+  instagram:
+    - xoxnonetwork
+  reddit:
+    - r/xoxno
+  tiktok:
+    - xoxnonft
+  linktree:
+    - xoxnonetwork
+  github:
+    - github.com/xoxno
 attributes:
   category: Financial Protocols
   tags:
     - DeFi
     - Lending & Borrowing
-    - RWA
+    - Bridge
+    - Yield
   operating_region:
     - Global
-  based_in: null
-images: null
+  based_in: Liechtenstein
+images:
+  logo: https://media.lumenloop.com/projects/xoxno/xoxno-logo-tluu78.webp
 scf:
   awarded_round:
     - 43
