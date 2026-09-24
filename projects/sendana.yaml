@@ -1,0 +1,36 @@
+title: Sendana
+other_names: null
+parent: null
+description: Sendana is a stablecoin-powered global banking platform that enables freelance professionals, remote workers, and content creators across the Global South to earn globally and spend locally with ease.
+links:
+  website:
+    - usesendana.com
+  blog: []
+  x:
+    - sendanaglobal
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github: []
+attributes:
+  category: Applications
+  tags: []
+  operating_region:
+    - Latin America & Caribbean
+    - Sub-Saharan Africa
+  based_in: Jamaica
+images: null
+scf:
+  awarded_round:
+    - 45
+  awarded_total: 10000
+  submission_urls:
+    - communityfund.stellar.org/submissions/recCdCU3fL28whRZW
+mainnet:
+  audits: []
+  tokens: []
