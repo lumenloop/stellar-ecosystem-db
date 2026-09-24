@@ -1,13 +1,13 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-09-24
+> Auto-generated on 2026-09-25
 
 ## Summary
 
 | Metric | Count |
 |--------|------:|
-| Total projects | **812** |
-| SCF-funded projects | 675 |
+| Total projects | **847** |
+| SCF-funded projects | 710 |
 | Community projects | 137 |
 | Audited projects | 54 |
 
@@ -15,23 +15,23 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 812/812 | 100% |
-| website | 801/812 | 98.6% |
-| blog | 253/812 | 31.2% |
-| x | 564/812 | 69.5% |
-| linkedin | 405/812 | 49.9% |
-| discord | 214/812 | 26.4% |
-| telegram | 151/812 | 18.6% |
-| youtube | 171/812 | 21.1% |
-| instagram | 129/812 | 15.9% |
-| reddit | 15/812 | 1.8% |
-| tiktok | 37/812 | 4.6% |
-| linktree | 6/812 | 0.7% |
-| github | 558/812 | 68.7% |
-| category | 812/812 | 100% |
-| tags | 800/812 | 98.5% |
-| operating_region | 783/812 | 96.4% |
-| based_in | 733/812 | 90.3% |
+| description | 847/847 | 100% |
+| website | 836/847 | 98.7% |
+| blog | 253/847 | 29.9% |
+| x | 568/847 | 67.1% |
+| linkedin | 405/847 | 47.8% |
+| discord | 214/847 | 25.3% |
+| telegram | 151/847 | 17.8% |
+| youtube | 171/847 | 20.2% |
+| instagram | 129/847 | 15.2% |
+| reddit | 15/847 | 1.8% |
+| tiktok | 37/847 | 4.4% |
+| linktree | 6/847 | 0.7% |
+| github | 560/847 | 66.1% |
+| category | 847/847 | 100% |
+| tags | 800/847 | 94.5% |
+| operating_region | 783/847 | 92.4% |
+| based_in | 733/847 | 86.5% |
 
 ## Enrichment vs SCF Airtable
 
@@ -58,17 +58,17 @@ Per-project comparison of our **812** projects (incl. **131** community projects
 
 ## SCF Project Coverage
 
-Of **675** SCF-funded projects:
+Of **710** SCF-funded projects:
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| awarded_total | 674/675 | 99.9% |
-| awarded_round | 675/675 | 100% |
-| submission_urls | 675/675 | 100% |
-| website | 665/675 | 98.5% |
-| github | 495/675 | 73.3% |
+| awarded_total | 709/710 | 99.9% |
+| awarded_round | 710/710 | 100% |
+| submission_urls | 675/710 | 95.1% |
+| website | 700/710 | 98.6% |
+| github | 497/710 | 70% |
 
-*Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
+*Gaps are early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable, plus SCF #45 projects whose submission records are not yet marked awarded in the SCF directory.*
 
 ## Ecosystem Activity
 
