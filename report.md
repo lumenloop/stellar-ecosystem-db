@@ -18,14 +18,14 @@
 | description | 826/839 | 98.5% |
 | website | 828/839 | 98.7% |
 | blog | 253/839 | 30.2% |
-| x | 575/839 | 68.5% |
-| linkedin | 406/839 | 48.4% |
+| x | 576/839 | 68.7% |
+| linkedin | 407/839 | 48.5% |
 | discord | 214/839 | 25.5% |
 | telegram | 151/839 | 18% |
-| youtube | 171/839 | 20.4% |
-| instagram | 129/839 | 15.4% |
+| youtube | 172/839 | 20.5% |
+| instagram | 130/839 | 15.5% |
 | reddit | 15/839 | 1.8% |
-| tiktok | 37/839 | 4.4% |
+| tiktok | 38/839 | 4.5% |
 | linktree | 6/839 | 0.7% |
 | github | 579/839 | 69% |
 | category | 839/839 | 100% |
@@ -42,16 +42,16 @@ Per-project comparison of our **839** projects (incl. **132** community projects
 | description | +211 | 615 |
 | website | +231 | 597 |
 | github | +202 | 377 |
-| x | +286 | 289 |
-| linkedin | +199 | 207 |
+| x | +287 | 289 |
+| linkedin | +200 | 207 |
 | discord | +104 | 110 |
 | based_in | +261 | 480 |
 | blog | +253 | 0 |
 | telegram | +151 | 0 |
-| youtube | +171 | 0 |
-| instagram | +129 | 0 |
+| youtube | +172 | 0 |
+| instagram | +130 | 0 |
 | reddit | +15 | 0 |
-| tiktok | +37 | 0 |
+| tiktok | +38 | 0 |
 | linktree | +6 | 0 |
 
 *"Added" = we filled a field SCF didn't have. "Modified" = SCF had a value, we store a different one.*
@@ -76,11 +76,11 @@ Of **701** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 529 | 521 |
-| Active last week | 150 | 210 |
-| Active last month | 227 | 282 |
-| Active last 3 months | 272 | 329 |
-| Active last year | 373 | 413 |
+| Tracked projects | 529 | 524 |
+| Active last week | 149 | 213 |
+| Active last month | 227 | 285 |
+| Active last 3 months | 272 | 332 |
+| Active last year | 373 | 416 |
 
 ## Audit Data
 
@@ -98,9 +98,9 @@ Of **701** SCF-funded projects:
 | Quarkslab | 3 |
 | Code4rena | 2 |
 | CoinFabrik | 2 |
-| OpenZeppelin | 2 |
 | Zellic | 2 |
 | Сoinspect | 2 |
+| OpenZeppelin | 2 |
 | Hacken | 1 |
 
 ## Data Sources
@@ -117,8 +117,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4355 |
-| SCF | 3434 |
+| Lumen Loop | 4360 |
+| SCF | 3433 |
 | Stellar Expert | 392 |
 | Soroban Security | 71 |
 | DeFiLlama | 27 |
