@@ -1,7 +1,7 @@
 title: Etesia
 other_names: null
 parent: null
-description: ''
+description: Non-custodial systematic asset management platform on Stellar. Etesia builds risk parity vaults and trend-following (CTA) strategies integrated with Soroswap, Blend v2, Reflector, and DeFindex, plus a Portfolio Builder tool for constructing diversified, risk-balanced portfolios across Stellar assets.
 links:
   website:
     - etesiar.com
@@ -23,7 +23,8 @@ attributes:
     - DeFi
     - Trading
     - Yield
-  operating_region: []
+  operating_region:
+    - global
   based_in: null
 images: null
 scf:
