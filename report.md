@@ -15,7 +15,7 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 817/837 | 97.6% |
+| description | 818/837 | 97.7% |
 | website | 826/837 | 98.7% |
 | blog | 253/837 | 30.2% |
 | x | 568/837 | 67.9% |
@@ -29,9 +29,9 @@
 | linktree | 6/837 | 0.7% |
 | github | 579/837 | 69.2% |
 | category | 837/837 | 100% |
-| tags | 808/837 | 96.5% |
-| operating_region | 788/837 | 94.1% |
-| based_in | 735/837 | 87.8% |
+| tags | 809/837 | 96.7% |
+| operating_region | 789/837 | 94.3% |
+| based_in | 736/837 | 87.9% |
 
 ## Enrichment vs SCF Airtable
 
@@ -39,13 +39,13 @@ Per-project comparison of our **837** projects (incl. **130** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +202 | 615 |
+| description | +203 | 615 |
 | website | +229 | 597 |
 | github | +202 | 377 |
 | x | +279 | 289 |
 | linkedin | +198 | 207 |
 | discord | +104 | 110 |
-| based_in | +255 | 480 |
+| based_in | +256 | 480 |
 | blog | +253 | 0 |
 | telegram | +151 | 0 |
 | youtube | +171 | 0 |
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4319 |
+| Lumen Loop | 4323 |
 | SCF | 3434 |
 | Stellar Expert | 392 |
 | Soroban Security | 71 |
@@ -125,37 +125,36 @@ How many data points each contributor provides across the directory:
 
 ## Needs Review
 
-30 items need attention.
+29 items need attention.
 
-**description empty** (20):
+**description empty** (19):
+- nouns
 - yolat
+- neko
 - humanitylink
+- stellar-vrf
 - pigfi
 - policywright
-- etesia
-- agama
-- nouns
-- neko
-- stellar-vrf
 - lendoor
+- etesia
 - sorted
 - lendwise
 - rail402
 - lunar-finance
-- slimepay
 - account-demolisher
 - crebit-pay
-- kutana
 - tilt-pay
 - verso
+- agama
+- slimepay
 
 **SCF project missing website** (10):
-- paysapp
 - wally
 - timed-transactions-api
 - sendit
 - the-starship-soroban
 - relax
+- paysapp
 - frost-implementation
 - crypto-link
 - soroban-optimistic-oracle

@@ -1,7 +1,7 @@
 title: Kutana
 other_names: null
 parent: null
-description: ''
+description: Kutana is a B2B cross-border trade platform for African SMEs. Its Trade Secure product provides milestone-based escrow with embedded insurance for import and export deals — funds are held in USDC on Stellar, released per milestone on attested trade events, and underwritten by insurance partners. KYB attestations and deal records are anchored on-chain via Soroban contracts.
 links:
   website:
     - kutanapay.com
@@ -19,9 +19,13 @@ links:
     - github.com/kutana-technologies
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
-  based_in: null
+  tags:
+    - B2B
+    - Cross-Border Payments
+    - Supply-Chain
+  operating_region:
+    - Africa
+  based_in: United Kingdom
 images: null
 scf:
   awarded_round:
