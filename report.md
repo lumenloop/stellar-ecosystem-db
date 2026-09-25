@@ -77,10 +77,10 @@ Of **701** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 529 | 525 |
-| Active last week | 148 | 214 |
-| Active last month | 227 | 286 |
-| Active last 3 months | 272 | 333 |
-| Active last year | 373 | 417 |
+| Active last week | 154 | 216 |
+| Active last month | 225 | 283 |
+| Active last 3 months | 271 | 334 |
+| Active last year | 373 | 418 |
 
 ## Audit Data
 
@@ -119,7 +119,7 @@ How many data points each contributor provides across the directory:
 |--------|------:|
 | Lumen Loop | 4374 |
 | SCF | 3433 |
-| Stellar Expert | 392 |
+| Stellar Expert | 393 |
 | Soroban Security | 71 |
 | DeFiLlama | 27 |
 
@@ -128,8 +128,8 @@ How many data points each contributor provides across the directory:
 20 items need attention.
 
 **description empty** (10):
-- yolat
 - lunar-finance
+- yolat
 - policywright
 - sorted
 - rail402

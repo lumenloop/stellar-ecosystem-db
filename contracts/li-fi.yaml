@@ -1,0 +1,5 @@
+- id: CDCNXZHYWRDHNAQEY5EX3WCF7BCWVJBS64ZBVUGRTQBFTHUKG6NAXFTR
+  label: LI.FI Router
+  is_pool: false
+  tags:
+    - application
