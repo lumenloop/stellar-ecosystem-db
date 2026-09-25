@@ -29,7 +29,7 @@
 | linktree | 6/837 | 0.7% |
 | github | 579/837 | 69.2% |
 | category | 837/837 | 100% |
-| tags | 801/837 | 95.7% |
+| tags | 803/837 | 95.9% |
 | operating_region | 785/837 | 93.8% |
 | based_in | 735/837 | 87.8% |
 
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4306 |
+| Lumen Loop | 4308 |
 | SCF | 3434 |
 | Stellar Expert | 392 |
 | Soroban Security | 71 |
@@ -137,8 +137,6 @@ How many data points each contributor provides across the directory:
 - catlog
 - escala
 - policywright
-- crebit-pay
-- agama
 - lendoor
 - sorted
 - lendwise
@@ -146,6 +144,8 @@ How many data points each contributor provides across the directory:
 - lunar-finance
 - humanitylink
 - account-demolisher
+- crebit-pay
+- agama
 - kutana
 - janus
 - tilt-pay

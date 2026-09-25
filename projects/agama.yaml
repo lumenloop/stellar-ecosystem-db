@@ -19,7 +19,10 @@ links:
     - github.com/agamafinance
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Yield
+    - RWA
+    - DeFi
   operating_region: []
   based_in: null
 images: null
