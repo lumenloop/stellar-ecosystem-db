@@ -1,12 +1,13 @@
 title: BVNK
 other_names: null
 parent: null
-description: ''
+description: Enterprise stablecoin payments infrastructure, now part of Mastercard. Build financial products, unlock new markets, and move money across 130+ countries.
 links:
   website:
     - bvnk.com
   blog: []
-  x: []
+  x:
+    - bvnkfinance
   linkedin: []
   discord: []
   telegram: []
@@ -17,9 +18,13 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
-  operating_region: []
+  category: Infrastructure & Services
+  tags:
+    - Stablecoins
+    - Cross-Border Payments
+    - B2B
+  operating_region:
+    - global
   based_in: null
 images: null
 mainnet:

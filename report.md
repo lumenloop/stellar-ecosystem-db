@@ -15,10 +15,10 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 824/839 | 98.2% |
+| description | 825/839 | 98.3% |
 | website | 828/839 | 98.7% |
 | blog | 253/839 | 30.2% |
-| x | 573/839 | 68.3% |
+| x | 574/839 | 68.4% |
 | linkedin | 406/839 | 48.4% |
 | discord | 214/839 | 25.5% |
 | telegram | 151/839 | 18% |
@@ -28,9 +28,9 @@
 | tiktok | 37/839 | 4.4% |
 | linktree | 6/839 | 0.7% |
 | github | 579/839 | 69% |
-| category | 837/839 | 99.8% |
-| tags | 811/839 | 96.7% |
-| operating_region | 791/839 | 94.3% |
+| category | 838/839 | 99.9% |
+| tags | 812/839 | 96.8% |
+| operating_region | 792/839 | 94.4% |
 | based_in | 741/839 | 88.3% |
 
 ## Enrichment vs SCF Airtable
@@ -39,10 +39,10 @@ Per-project comparison of our **839** projects (incl. **132** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +209 | 615 |
+| description | +210 | 615 |
 | website | +231 | 597 |
 | github | +202 | 377 |
-| x | +284 | 289 |
+| x | +285 | 289 |
 | linkedin | +199 | 207 |
 | discord | +104 | 110 |
 | based_in | +261 | 480 |
@@ -76,11 +76,11 @@ Of **701** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 529 | 519 |
+| Tracked projects | 529 | 521 |
 | Active last week | 150 | 210 |
-| Active last month | 227 | 281 |
-| Active last 3 months | 272 | 328 |
-| Active last year | 373 | 411 |
+| Active last month | 227 | 282 |
+| Active last 3 months | 272 | 329 |
+| Active last year | 373 | 413 |
 
 ## Audit Data
 
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4346 |
+| Lumen Loop | 4351 |
 | SCF | 3434 |
 | Stellar Expert | 392 |
 | Soroban Security | 71 |
@@ -125,14 +125,12 @@ How many data points each contributor provides across the directory:
 
 ## Needs Review
 
-25 items need attention.
+24 items need attention.
 
-**description empty** (15):
-- pigfi
-- nouns
-- bvnk
+**description empty** (14):
 - yolat
 - policywright
+- pigfi
 - sorted
 - lendwise
 - rail402
@@ -142,6 +140,7 @@ How many data points each contributor provides across the directory:
 - verso
 - slimepay
 - stellar-vrf
+- nouns
 - li-fi
 
 **SCF project missing website** (10):
