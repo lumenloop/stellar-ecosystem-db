@@ -1,12 +1,13 @@
 title: Neko
 other_names: null
 parent: null
-description: ''
+description: Discover, access, and put tokenized real-world assets to work, all in one place.
 links:
   website:
     - nekoprotocol.xyz
   blog: []
-  x: []
+  x:
+    - x.com
   linkedin: []
   discord: []
   telegram: []
@@ -19,7 +20,10 @@ links:
     - github.com/neko-protocol
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - RWA
+    - Tokenization
+    - DeFi
   operating_region: []
   based_in: null
 images: null

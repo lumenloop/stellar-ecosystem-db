@@ -15,10 +15,10 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 818/837 | 97.7% |
+| description | 819/837 | 97.8% |
 | website | 826/837 | 98.7% |
 | blog | 253/837 | 30.2% |
-| x | 568/837 | 67.9% |
+| x | 569/837 | 68% |
 | linkedin | 405/837 | 48.4% |
 | discord | 214/837 | 25.6% |
 | telegram | 151/837 | 18% |
@@ -29,7 +29,7 @@
 | linktree | 6/837 | 0.7% |
 | github | 579/837 | 69.2% |
 | category | 837/837 | 100% |
-| tags | 809/837 | 96.7% |
+| tags | 810/837 | 96.8% |
 | operating_region | 789/837 | 94.3% |
 | based_in | 736/837 | 87.9% |
 
@@ -39,10 +39,10 @@ Per-project comparison of our **837** projects (incl. **130** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +203 | 615 |
+| description | +204 | 615 |
 | website | +229 | 597 |
 | github | +202 | 377 |
-| x | +279 | 289 |
+| x | +280 | 289 |
 | linkedin | +198 | 207 |
 | discord | +104 | 110 |
 | based_in | +256 | 480 |
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4323 |
+| Lumen Loop | 4326 |
 | SCF | 3434 |
 | Stellar Expert | 392 |
 | Soroban Security | 71 |
@@ -125,27 +125,26 @@ How many data points each contributor provides across the directory:
 
 ## Needs Review
 
-29 items need attention.
+28 items need attention.
 
-**description empty** (19):
+**description empty** (18):
+- humanitylink
+- pigfi
+- etesia
 - nouns
 - yolat
-- neko
-- humanitylink
 - stellar-vrf
-- pigfi
 - policywright
 - lendoor
-- etesia
 - sorted
 - lendwise
 - rail402
 - lunar-finance
 - account-demolisher
+- agama
 - crebit-pay
 - tilt-pay
 - verso
-- agama
 - slimepay
 
 **SCF project missing website** (10):
