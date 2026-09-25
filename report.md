@@ -6,41 +6,41 @@
 
 | Metric | Count |
 |--------|------:|
-| Total projects | **838** |
+| Total projects | **839** |
 | SCF-funded projects | 701 |
-| Community projects | 137 |
+| Community projects | 138 |
 | Audited projects | 54 |
 
 ## Data Coverage
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 824/838 | 98.3% |
-| website | 827/838 | 98.7% |
-| blog | 253/838 | 30.2% |
-| x | 573/838 | 68.4% |
-| linkedin | 406/838 | 48.4% |
-| discord | 214/838 | 25.5% |
-| telegram | 151/838 | 18% |
-| youtube | 171/838 | 20.4% |
-| instagram | 129/838 | 15.4% |
-| reddit | 15/838 | 1.8% |
-| tiktok | 37/838 | 4.4% |
-| linktree | 6/838 | 0.7% |
-| github | 579/838 | 69.1% |
-| category | 837/838 | 99.9% |
-| tags | 811/838 | 96.8% |
-| operating_region | 791/838 | 94.4% |
-| based_in | 741/838 | 88.4% |
+| description | 824/839 | 98.2% |
+| website | 828/839 | 98.7% |
+| blog | 253/839 | 30.2% |
+| x | 573/839 | 68.3% |
+| linkedin | 406/839 | 48.4% |
+| discord | 214/839 | 25.5% |
+| telegram | 151/839 | 18% |
+| youtube | 171/839 | 20.4% |
+| instagram | 129/839 | 15.4% |
+| reddit | 15/839 | 1.8% |
+| tiktok | 37/839 | 4.4% |
+| linktree | 6/839 | 0.7% |
+| github | 579/839 | 69% |
+| category | 837/839 | 99.8% |
+| tags | 811/839 | 96.7% |
+| operating_region | 791/839 | 94.3% |
+| based_in | 741/839 | 88.3% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **838** projects (incl. **131** community projects not in SCF) against **709** in SCF Airtable:
+Per-project comparison of our **839** projects (incl. **132** community projects not in SCF) against **709** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
 | description | +209 | 615 |
-| website | +230 | 597 |
+| website | +231 | 597 |
 | github | +202 | 377 |
 | x | +284 | 289 |
 | linkedin | +199 | 207 |
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4345 |
+| Lumen Loop | 4346 |
 | SCF | 3434 |
 | Stellar Expert | 392 |
 | Soroban Security | 71 |
@@ -125,12 +125,14 @@ How many data points each contributor provides across the directory:
 
 ## Needs Review
 
-24 items need attention.
+25 items need attention.
 
-**description empty** (14):
-- nouns
-- policywright
+**description empty** (15):
 - pigfi
+- nouns
+- bvnk
+- yolat
+- policywright
 - sorted
 - lendwise
 - rail402
@@ -140,8 +142,7 @@ How many data points each contributor provides across the directory:
 - verso
 - slimepay
 - stellar-vrf
-- bvnk
-- yolat
+- li-fi
 
 **SCF project missing website** (10):
 - wally
