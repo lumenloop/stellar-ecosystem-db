@@ -1,12 +1,13 @@
 title: Agama
 other_names: null
 parent: null
-description: ''
+description: Agama is yield infrastructure for real-world assets onchain, offering private credit yield vaults built on Soroban (Stellar's smart contract platform). The protocol enables on-chain access to private credit returns backed by real-world assets.
 links:
   website:
     - agama.finance
   blog: []
-  x: []
+  x:
+    - agamafinance
   linkedin: []
   discord: []
   telegram: []
@@ -24,7 +25,7 @@ attributes:
     - RWA
     - DeFi
   operating_region: []
-  based_in: null
+  based_in: France
 images: null
 scf:
   awarded_round:
