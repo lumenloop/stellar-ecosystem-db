@@ -15,7 +15,7 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 815/837 | 97.4% |
+| description | 816/837 | 97.5% |
 | website | 826/837 | 98.7% |
 | blog | 253/837 | 30.2% |
 | x | 568/837 | 67.9% |
@@ -29,8 +29,8 @@
 | linktree | 6/837 | 0.7% |
 | github | 579/837 | 69.2% |
 | category | 837/837 | 100% |
-| tags | 806/837 | 96.3% |
-| operating_region | 786/837 | 93.9% |
+| tags | 807/837 | 96.4% |
+| operating_region | 787/837 | 94% |
 | based_in | 735/837 | 87.8% |
 
 ## Enrichment vs SCF Airtable
@@ -39,7 +39,7 @@ Per-project comparison of our **837** projects (incl. **130** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +200 | 615 |
+| description | +201 | 615 |
 | website | +229 | 597 |
 | github | +202 | 377 |
 | x | +279 | 289 |
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4313 |
+| Lumen Loop | 4316 |
 | SCF | 3434 |
 | Stellar Expert | 392 |
 | Soroban Security | 71 |
@@ -125,13 +125,12 @@ How many data points each contributor provides across the directory:
 
 ## Needs Review
 
-32 items need attention.
+31 items need attention.
 
-**description empty** (22):
+**description empty** (21):
 - yolat
 - humanitylink
 - pigfi
-- escala
 - policywright
 - etesia
 - nouns
