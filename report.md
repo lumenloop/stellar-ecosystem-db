@@ -1,21 +1,21 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-09-24
+> Auto-generated on 2026-09-25
 
 ## Summary
 
 | Metric | Count |
 |--------|------:|
 | Total projects | **837** |
-| SCF-funded projects | 700 |
-| Community projects | 137 |
+| SCF-funded projects | 701 |
+| Community projects | 136 |
 | Audited projects | 54 |
 
 ## Data Coverage
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 813/837 | 97.1% |
+| description | 814/837 | 97.3% |
 | website | 826/837 | 98.7% |
 | blog | 253/837 | 30.2% |
 | x | 568/837 | 67.9% |
@@ -29,23 +29,23 @@
 | linktree | 6/837 | 0.7% |
 | github | 579/837 | 69.2% |
 | category | 837/837 | 100% |
-| tags | 800/837 | 95.6% |
-| operating_region | 784/837 | 93.7% |
-| based_in | 734/837 | 87.7% |
+| tags | 801/837 | 95.7% |
+| operating_region | 785/837 | 93.8% |
+| based_in | 735/837 | 87.8% |
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **837** projects (incl. **131** community projects not in SCF) against **709** in SCF Airtable:
+Per-project comparison of our **837** projects (incl. **130** community projects not in SCF) against **709** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +198 | 615 |
+| description | +199 | 615 |
 | website | +229 | 597 |
 | github | +202 | 377 |
 | x | +279 | 289 |
 | linkedin | +198 | 207 |
 | discord | +104 | 110 |
-| based_in | +254 | 480 |
+| based_in | +255 | 480 |
 | blog | +253 | 0 |
 | telegram | +151 | 0 |
 | youtube | +171 | 0 |
@@ -58,15 +58,15 @@ Per-project comparison of our **837** projects (incl. **131** community projects
 
 ## SCF Project Coverage
 
-Of **700** SCF-funded projects:
+Of **701** SCF-funded projects:
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| awarded_total | 686/700 | 98% |
-| awarded_round | 700/700 | 100% |
-| submission_urls | 700/700 | 100% |
-| website | 690/700 | 98.6% |
-| github | 516/700 | 73.7% |
+| awarded_total | 687/701 | 98% |
+| awarded_round | 701/701 | 100% |
+| submission_urls | 701/701 | 100% |
+| website | 691/701 | 98.6% |
+| github | 517/701 | 73.8% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4302 |
+| Lumen Loop | 4306 |
 | SCF | 3434 |
 | Stellar Expert | 392 |
 | Soroban Security | 71 |
@@ -125,9 +125,9 @@ How many data points each contributor provides across the directory:
 
 ## Needs Review
 
-34 items need attention.
+33 items need attention.
 
-**description empty** (24):
+**description empty** (23):
 - yolat
 - pigfi
 - etesia
@@ -137,7 +137,6 @@ How many data points each contributor provides across the directory:
 - catlog
 - escala
 - policywright
-- bwb
 - crebit-pay
 - agama
 - lendoor
@@ -160,8 +159,8 @@ How many data points each contributor provides across the directory:
 - sendit
 - crypto-link
 - the-starship-soroban
-- frost-implementation
 - soroban-optimistic-oracle
 - relax
+- frost-implementation
 - net-sdk
 

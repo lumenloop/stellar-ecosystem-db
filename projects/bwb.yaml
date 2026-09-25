@@ -1,7 +1,7 @@
 title: BWB
 other_names: null
 parent: null
-description: ''
+description: BWB Digital Assets is a CVM-regulated investment platform on Stellar that tokenizes Brazilian real estate assets, enabling investors to access fractional real estate opportunities with audited yields, transparency, and liquidity.
 links:
   website:
     - bwbi.com.br
@@ -19,9 +19,13 @@ links:
     - github.com/techlibs/bwb-stellar
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
-  based_in: null
+  tags:
+    - Real Estate
+    - RWA
+    - Tokenization
+  operating_region:
+    - latam
+  based_in: Brazil
 images: null
 scf:
   awarded_round:
