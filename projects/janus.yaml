@@ -1,7 +1,7 @@
 title: Janus
 other_names: null
 parent: null
-description: ''
+description: Janus is the financial operating system for global freight. It uses AI to extract and structure freight documents in real time, enabling stablecoin-powered cross-border payments and working capital financing for freight forwarders.
 links:
   website:
     - janus.solutions
@@ -19,8 +19,14 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - Cross-Border Payments
+    - Supply-Chain
+    - AI
+  operating_region:
+    - europe
+    - mena
+    - latam
   based_in: null
 images: null
 scf:
