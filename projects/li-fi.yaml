@@ -1,12 +1,13 @@
 title: LI.FI
 other_names: null
 parent: null
-description: ''
+description: LI.FI is a cross-chain bridge and DEX aggregation protocol providing a unified API for swaps and cross-chain transfers across 60+ blockchains, including Stellar. Integrated by Robinhood Wallet, MetaMask, Phantom, and 1,000+ partners, it lets apps and wallets enable seamless multichain liquidity through a single integration.
 links:
   website:
     - li.fi
   blog: []
-  x: []
+  x:
+    - lifiprotocol
   linkedin: []
   discord: []
   telegram: []
@@ -17,8 +18,11 @@ links:
   linktree: []
   github: []
 attributes:
-  category: null
-  tags: []
+  category: Infrastructure & Services
+  tags:
+    - Bridge
+    - Cross-Chain
+    - DEX
   operating_region: []
   based_in: null
 images: null

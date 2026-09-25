@@ -15,10 +15,10 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 825/839 | 98.3% |
+| description | 826/839 | 98.5% |
 | website | 828/839 | 98.7% |
 | blog | 253/839 | 30.2% |
-| x | 574/839 | 68.4% |
+| x | 575/839 | 68.5% |
 | linkedin | 406/839 | 48.4% |
 | discord | 214/839 | 25.5% |
 | telegram | 151/839 | 18% |
@@ -28,8 +28,8 @@
 | tiktok | 37/839 | 4.4% |
 | linktree | 6/839 | 0.7% |
 | github | 579/839 | 69% |
-| category | 838/839 | 99.9% |
-| tags | 812/839 | 96.8% |
+| category | 839/839 | 100% |
+| tags | 813/839 | 96.9% |
 | operating_region | 792/839 | 94.4% |
 | based_in | 741/839 | 88.3% |
 
@@ -39,10 +39,10 @@ Per-project comparison of our **839** projects (incl. **132** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +210 | 615 |
+| description | +211 | 615 |
 | website | +231 | 597 |
 | github | +202 | 377 |
-| x | +285 | 289 |
+| x | +286 | 289 |
 | linkedin | +199 | 207 |
 | discord | +104 | 110 |
 | based_in | +261 | 480 |
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4351 |
+| Lumen Loop | 4355 |
 | SCF | 3434 |
 | Stellar Expert | 392 |
 | Soroban Security | 71 |
@@ -125,9 +125,9 @@ How many data points each contributor provides across the directory:
 
 ## Needs Review
 
-24 items need attention.
+23 items need attention.
 
-**description empty** (14):
+**description empty** (13):
 - yolat
 - policywright
 - pigfi
@@ -141,7 +141,6 @@ How many data points each contributor provides across the directory:
 - slimepay
 - stellar-vrf
 - nouns
-- li-fi
 
 **SCF project missing website** (10):
 - wally
