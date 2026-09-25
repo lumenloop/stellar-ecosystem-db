@@ -1,7 +1,7 @@
 title: HumanityLink
 other_names: null
 parent: null
-description: ''
+description: A Stellar-based platform enabling humanitarian aid payments using zero-knowledge (ZK) technology.
 links:
   website:
     - enable-zk.humanity.link

@@ -6,7 +6,8 @@ links:
   website:
     - catlog.shop
   blog: []
-  x: []
+  x:
+    - myshopcatlog
   linkedin: []
   discord: []
   telegram: []

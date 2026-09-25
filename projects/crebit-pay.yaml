@@ -1,7 +1,7 @@
 title: Crebit Pay
 other_names: null
 parent: null
-description: ''
+description: Stablecoin-powered FX infrastructure on Stellar, offering rate locks that protect businesses and users from foreign exchange volatility in cross-border payments. Backed by a16z speedrun.
 links:
   website:
     - crebitpay.com
@@ -24,7 +24,7 @@ attributes:
     - Payments
     - Cross-Border Payments
   operating_region: []
-  based_in: null
+  based_in: United States
 images: null
 scf:
   awarded_round:

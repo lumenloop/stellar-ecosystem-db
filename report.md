@@ -15,10 +15,10 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 821/837 | 98.1% |
+| description | 823/837 | 98.3% |
 | website | 826/837 | 98.7% |
 | blog | 253/837 | 30.2% |
-| x | 570/837 | 68.1% |
+| x | 571/837 | 68.2% |
 | linkedin | 405/837 | 48.4% |
 | discord | 214/837 | 25.6% |
 | telegram | 151/837 | 18% |
@@ -31,7 +31,7 @@
 | category | 837/837 | 100% |
 | tags | 811/837 | 96.9% |
 | operating_region | 791/837 | 94.5% |
-| based_in | 739/837 | 88.3% |
+| based_in | 740/837 | 88.4% |
 
 ## Enrichment vs SCF Airtable
 
@@ -39,13 +39,13 @@ Per-project comparison of our **837** projects (incl. **130** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +206 | 615 |
+| description | +208 | 615 |
 | website | +229 | 597 |
 | github | +202 | 377 |
-| x | +281 | 289 |
+| x | +282 | 289 |
 | linkedin | +198 | 207 |
 | discord | +104 | 110 |
-| based_in | +259 | 480 |
+| based_in | +260 | 480 |
 | blog | +253 | 0 |
 | telegram | +151 | 0 |
 | youtube | +171 | 0 |
@@ -96,11 +96,11 @@ Of **701** SCF-funded projects:
 | certora | 9 |
 | Halborn | 5 |
 | Quarkslab | 3 |
-| Сoinspect | 2 |
 | Code4rena | 2 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
 | Zellic | 2 |
+| Сoinspect | 2 |
 | Hacken | 1 |
 
 ## Data Sources
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4335 |
+| Lumen Loop | 4339 |
 | SCF | 3434 |
 | Stellar Expert | 392 |
 | Soroban Security | 71 |
@@ -125,35 +125,33 @@ How many data points each contributor provides across the directory:
 
 ## Needs Review
 
-26 items need attention.
+24 items need attention.
 
-**description empty** (16):
-- humanitylink
-- pigfi
+**description empty** (14):
 - nouns
-- yolat
-- stellar-vrf
 - policywright
+- pigfi
 - sorted
 - lendwise
 - rail402
 - lunar-finance
 - account-demolisher
-- crebit-pay
 - tilt-pay
 - verso
 - slimepay
 - agama
+- yolat
+- stellar-vrf
 
 **SCF project missing website** (10):
 - wally
 - timed-transactions-api
-- sendit
 - the-starship-soroban
 - relax
 - paysapp
 - frost-implementation
 - crypto-link
 - net-sdk
+- sendit
 - soroban-optimistic-oracle
 
