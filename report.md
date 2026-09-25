@@ -31,7 +31,7 @@
 | category | 839/839 | 100% |
 | tags | 813/839 | 96.9% |
 | operating_region | 792/839 | 94.4% |
-| based_in | 741/839 | 88.3% |
+| based_in | 743/839 | 88.6% |
 
 ## Enrichment vs SCF Airtable
 
@@ -45,7 +45,7 @@ Per-project comparison of our **839** projects (incl. **132** community projects
 | x | +287 | 289 |
 | linkedin | +200 | 207 |
 | discord | +104 | 110 |
-| based_in | +261 | 480 |
+| based_in | +263 | 480 |
 | blog | +253 | 0 |
 | telegram | +151 | 0 |
 | youtube | +172 | 0 |
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4360 |
+| Lumen Loop | 4362 |
 | SCF | 3433 |
 | Stellar Expert | 392 |
 | Soroban Security | 71 |
@@ -132,25 +132,25 @@ How many data points each contributor provides across the directory:
 - policywright
 - pigfi
 - sorted
-- lendwise
 - rail402
 - lunar-finance
 - account-demolisher
 - tilt-pay
-- verso
-- slimepay
 - stellar-vrf
 - nouns
+- lendwise
+- verso
+- slimepay
 
 **SCF project missing website** (10):
-- wally
-- timed-transactions-api
-- the-starship-soroban
 - relax
 - paysapp
+- wally
 - frost-implementation
-- crypto-link
 - net-sdk
+- timed-transactions-api
+- the-starship-soroban
+- crypto-link
 - sendit
 - soroban-optimistic-oracle
 
