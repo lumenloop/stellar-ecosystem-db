@@ -15,10 +15,10 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 826/839 | 98.5% |
+| description | 829/839 | 98.8% |
 | website | 828/839 | 98.7% |
 | blog | 253/839 | 30.2% |
-| x | 576/839 | 68.7% |
+| x | 578/839 | 68.9% |
 | linkedin | 407/839 | 48.5% |
 | discord | 214/839 | 25.5% |
 | telegram | 151/839 | 18% |
@@ -29,9 +29,9 @@
 | linktree | 6/839 | 0.7% |
 | github | 579/839 | 69% |
 | category | 839/839 | 100% |
-| tags | 813/839 | 96.9% |
-| operating_region | 792/839 | 94.4% |
-| based_in | 743/839 | 88.6% |
+| tags | 817/839 | 97.4% |
+| operating_region | 794/839 | 94.6% |
+| based_in | 744/839 | 88.7% |
 
 ## Enrichment vs SCF Airtable
 
@@ -39,13 +39,13 @@ Per-project comparison of our **839** projects (incl. **132** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +211 | 615 |
+| description | +214 | 615 |
 | website | +231 | 597 |
 | github | +202 | 377 |
-| x | +287 | 289 |
+| x | +289 | 289 |
 | linkedin | +200 | 207 |
 | discord | +104 | 110 |
-| based_in | +263 | 480 |
+| based_in | +264 | 480 |
 | blog | +253 | 0 |
 | telegram | +151 | 0 |
 | youtube | +172 | 0 |
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4362 |
+| Lumen Loop | 4374 |
 | SCF | 3433 |
 | Stellar Expert | 392 |
 | Soroban Security | 71 |
@@ -125,22 +125,19 @@ How many data points each contributor provides across the directory:
 
 ## Needs Review
 
-23 items need attention.
+20 items need attention.
 
-**description empty** (13):
+**description empty** (10):
 - yolat
+- lunar-finance
 - policywright
-- pigfi
 - sorted
 - rail402
-- lunar-finance
 - account-demolisher
 - tilt-pay
 - stellar-vrf
-- nouns
 - lendwise
 - verso
-- slimepay
 
 **SCF project missing website** (10):
 - relax

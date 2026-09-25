@@ -1,12 +1,13 @@
 title: Nouns
 other_names: null
 parent: null
-description: ''
+description: A Soroban-native DAO launchpad bringing the Nounish model to Stellar. Communities deploy DAOs with NFT-style governance tokens via recurring auctions (SEP-50), manage on-chain treasuries, and vote on proposals through token-weighted governance — all built on modular Soroban smart contracts.
 links:
   website:
     - nouns.build
   blog: []
-  x: []
+  x:
+    - x.com
   linkedin: []
   discord: []
   telegram: []
@@ -19,7 +20,10 @@ links:
     - github.com/buildeross
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - DAO Tool
+    - Governance
+    - NFT
   operating_region: []
   based_in: null
 images: null

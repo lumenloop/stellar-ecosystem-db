@@ -1,7 +1,7 @@
 title: Slimepay
 other_names: null
 parent: null
-description: ''
+description: Slimepay is a regulated fiat-to-Stellar anchor and merchant settlement rail for Africa. It bridges customer accounts to the Stellar network via SEP-6, SEP-24, and SEP-31, enabling USDC-to-NGN cross-border B2B payments with full KYC, interactive deposits, and programmatic withdrawals.
 links:
   website:
     - slimepay.com
@@ -19,8 +19,12 @@ links:
     - github.com/slimepay
 attributes:
   category: Financial Protocols
-  tags: []
-  operating_region: []
+  tags:
+    - Anchor
+    - Cross-Border Payments
+    - Merchant
+  operating_region:
+    - Africa
   based_in: null
 images: null
 scf:

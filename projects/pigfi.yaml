@@ -1,12 +1,13 @@
 title: PigFi
 other_names: null
 parent: null
-description: ''
+description: PigFi is a mobile savings app for families in Latin America that lets users save in US dollars (USDC) on Stellar, built around a gamified piggy bank experience. Yield is powered by DeFindex infrastructure running quietly in the background.
 links:
   website:
     - pigfi.app
   blog: []
-  x: []
+  x:
+    - pigfiapp
   linkedin: []
   discord: []
   telegram: []
@@ -19,9 +20,13 @@ links:
     - github.com/chatpay-go-labs-oficial/smartpig_stellar-37o
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
-  based_in: null
+  tags:
+    - Savings
+    - Stablecoins
+    - Mobile
+  operating_region:
+    - LATAM
+  based_in: Brazil
 images: null
 scf:
   awarded_round:
