@@ -1,7 +1,7 @@
 title: Catlog
 other_names: null
 parent: null
-description: ''
+description: Catlog gives African businesses the tools to set up an online store, manage orders & records easily, and collect payments locally & internationally without hassle.
 links:
   website:
     - catlog.shop
@@ -19,8 +19,12 @@ links:
     - github.com/catlog-shop
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - Merchant
+    - Payments
+    - B2B
+  operating_region:
+    - africa
   based_in: null
 images: null
 scf:

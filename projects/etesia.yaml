@@ -19,7 +19,10 @@ links:
     - github.com/etesia-research
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - DeFi
+    - Trading
+    - Yield
   operating_region: []
   based_in: null
 images: null

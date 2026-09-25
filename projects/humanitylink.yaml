@@ -19,7 +19,10 @@ links:
     - github.com/humanitylink
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Aid
+    - Payments
+    - ZK
   operating_region: []
   based_in: null
 images: null

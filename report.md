@@ -15,7 +15,7 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 814/837 | 97.3% |
+| description | 815/837 | 97.4% |
 | website | 826/837 | 98.7% |
 | blog | 253/837 | 30.2% |
 | x | 568/837 | 67.9% |
@@ -29,8 +29,8 @@
 | linktree | 6/837 | 0.7% |
 | github | 579/837 | 69.2% |
 | category | 837/837 | 100% |
-| tags | 803/837 | 95.9% |
-| operating_region | 785/837 | 93.8% |
+| tags | 806/837 | 96.3% |
+| operating_region | 786/837 | 93.9% |
 | based_in | 735/837 | 87.8% |
 
 ## Enrichment vs SCF Airtable
@@ -39,7 +39,7 @@ Per-project comparison of our **837** projects (incl. **130** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +199 | 615 |
+| description | +200 | 615 |
 | website | +229 | 597 |
 | github | +202 | 377 |
 | x | +279 | 289 |
@@ -98,9 +98,9 @@ Of **701** SCF-funded projects:
 | Quarkslab | 3 |
 | Сoinspect | 2 |
 | Code4rena | 2 |
-| Zellic | 2 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
+| Zellic | 2 |
 | Hacken | 1 |
 
 ## Data Sources
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4308 |
+| Lumen Loop | 4313 |
 | SCF | 3434 |
 | Stellar Expert | 392 |
 | Soroban Security | 71 |
@@ -125,24 +125,23 @@ How many data points each contributor provides across the directory:
 
 ## Needs Review
 
-33 items need attention.
+32 items need attention.
 
-**description empty** (23):
+**description empty** (22):
 - yolat
+- humanitylink
 - pigfi
+- escala
+- policywright
 - etesia
 - nouns
 - neko
 - stellar-vrf
-- catlog
-- escala
-- policywright
 - lendoor
 - sorted
 - lendwise
 - rail402
 - lunar-finance
-- humanitylink
 - account-demolisher
 - crebit-pay
 - agama
@@ -157,10 +156,10 @@ How many data points each contributor provides across the directory:
 - wally
 - timed-transactions-api
 - sendit
-- crypto-link
 - the-starship-soroban
-- soroban-optimistic-oracle
 - relax
 - frost-implementation
+- crypto-link
+- soroban-optimistic-oracle
 - net-sdk
 
