@@ -15,10 +15,10 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 819/837 | 97.8% |
+| description | 820/837 | 98% |
 | website | 826/837 | 98.7% |
 | blog | 253/837 | 30.2% |
-| x | 569/837 | 68% |
+| x | 570/837 | 68.1% |
 | linkedin | 405/837 | 48.4% |
 | discord | 214/837 | 25.6% |
 | telegram | 151/837 | 18% |
@@ -29,9 +29,9 @@
 | linktree | 6/837 | 0.7% |
 | github | 579/837 | 69.2% |
 | category | 837/837 | 100% |
-| tags | 810/837 | 96.8% |
-| operating_region | 789/837 | 94.3% |
-| based_in | 736/837 | 87.9% |
+| tags | 811/837 | 96.9% |
+| operating_region | 790/837 | 94.4% |
+| based_in | 737/837 | 88.1% |
 
 ## Enrichment vs SCF Airtable
 
@@ -39,13 +39,13 @@ Per-project comparison of our **837** projects (incl. **130** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +204 | 615 |
+| description | +205 | 615 |
 | website | +229 | 597 |
 | github | +202 | 377 |
-| x | +280 | 289 |
+| x | +281 | 289 |
 | linkedin | +198 | 207 |
 | discord | +104 | 110 |
-| based_in | +256 | 480 |
+| based_in | +257 | 480 |
 | blog | +253 | 0 |
 | telegram | +151 | 0 |
 | youtube | +171 | 0 |
@@ -117,7 +117,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4326 |
+| Lumen Loop | 4331 |
 | SCF | 3434 |
 | Stellar Expert | 392 |
 | Soroban Security | 71 |
@@ -125,27 +125,26 @@ How many data points each contributor provides across the directory:
 
 ## Needs Review
 
-28 items need attention.
+27 items need attention.
 
-**description empty** (18):
-- humanitylink
-- pigfi
-- etesia
+**description empty** (17):
 - nouns
-- yolat
+- humanitylink
 - stellar-vrf
+- pigfi
 - policywright
-- lendoor
 - sorted
 - lendwise
 - rail402
 - lunar-finance
+- etesia
 - account-demolisher
-- agama
 - crebit-pay
 - tilt-pay
 - verso
 - slimepay
+- yolat
+- agama
 
 **SCF project missing website** (10):
 - wally
@@ -156,6 +155,6 @@ How many data points each contributor provides across the directory:
 - paysapp
 - frost-implementation
 - crypto-link
-- soroban-optimistic-oracle
 - net-sdk
+- soroban-optimistic-oracle
 
