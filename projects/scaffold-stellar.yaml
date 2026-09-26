@@ -17,7 +17,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/theahaco/scaffold-stellar
+    - github.com/stellar-scaffold/cli
 attributes:
   category: Developer Tooling
   tags:

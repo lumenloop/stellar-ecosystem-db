@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-09-25
+> Auto-generated on 2026-09-26
 
 ## Summary
 
@@ -77,10 +77,10 @@ Of **701** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 529 | 525 |
-| Active last week | 154 | 216 |
-| Active last month | 225 | 283 |
+| Active last week | 148 | 216 |
+| Active last month | 225 | 284 |
 | Active last 3 months | 271 | 334 |
-| Active last year | 373 | 418 |
+| Active last year | 372 | 418 |
 
 ## Audit Data
 
@@ -92,14 +92,14 @@ Of **701** SCF-funded projects:
 |---------|---------:|
 | Veridise | 24 |
 | OtterSec | 10 |
-| Runtime Verification | 9 |
 | certora | 9 |
+| Runtime Verification | 9 |
 | Halborn | 5 |
 | Quarkslab | 3 |
 | Code4rena | 2 |
+| Сoinspect | 2 |
 | CoinFabrik | 2 |
 | Zellic | 2 |
-| Сoinspect | 2 |
 | OpenZeppelin | 2 |
 | Hacken | 1 |
 
@@ -117,8 +117,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4374 |
-| SCF | 3433 |
+| Lumen Loop | 4376 |
+| SCF | 3431 |
 | Stellar Expert | 393 |
 | Soroban Security | 71 |
 | DeFiLlama | 27 |
@@ -130,12 +130,12 @@ How many data points each contributor provides across the directory:
 **description empty** (10):
 - lunar-finance
 - yolat
-- policywright
-- sorted
 - rail402
+- policywright
 - account-demolisher
 - tilt-pay
 - stellar-vrf
+- sorted
 - lendwise
 - verso
 
