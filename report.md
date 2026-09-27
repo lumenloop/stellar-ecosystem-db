@@ -77,9 +77,9 @@ Of **701** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 529 | 525 |
-| Active last week | 153 | 218 |
-| Active last month | 223 | 281 |
-| Active last 3 months | 272 | 336 |
+| Active last week | 153 | 222 |
+| Active last month | 224 | 280 |
+| Active last 3 months | 272 | 337 |
 | Active last year | 372 | 418 |
 
 ## Audit Data
@@ -96,10 +96,10 @@ Of **701** SCF-funded projects:
 | Runtime Verification | 9 |
 | Halborn | 5 |
 | Quarkslab | 3 |
-| Zellic | 2 |
-| Code4rena | 2 |
 | Сoinspect | 2 |
 | OpenZeppelin | 2 |
+| Zellic | 2 |
+| Code4rena | 2 |
 | CoinFabrik | 2 |
 | Hacken | 1 |
 | Hashlock | 1 |
@@ -128,18 +128,6 @@ How many data points each contributor provides across the directory:
 
 20 items need attention.
 
-**description empty** (10):
-- yolat
-- rail402
-- policywright
-- account-demolisher
-- tilt-pay
-- stellar-vrf
-- sorted
-- lunar-finance
-- lendwise
-- verso
-
 **SCF project missing website** (10):
 - relax
 - wally
@@ -151,4 +139,16 @@ How many data points each contributor provides across the directory:
 - crypto-link
 - sendit
 - soroban-optimistic-oracle
+
+**description empty** (10):
+- policywright
+- account-demolisher
+- yolat
+- rail402
+- stellar-vrf
+- sorted
+- lunar-finance
+- tilt-pay
+- lendwise
+- verso
 
