@@ -41,5 +41,9 @@ scf:
   submission_urls:
     - communityfund.stellar.org/submissions/reckPm1IWpP2CJMgq
 mainnet:
-  audits: []
+  audits:
+    - name: Centiiv Audit Report
+      url: sorobansecurity.com/report/81
+      date: '2026-04-13T03:11:07.175Z'
+      auditor: Veridise
   tokens: []

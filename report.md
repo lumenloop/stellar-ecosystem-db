@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-09-26
+> Auto-generated on 2026-09-27
 
 ## Summary
 
@@ -9,7 +9,7 @@
 | Total projects | **839** |
 | SCF-funded projects | 701 |
 | Community projects | 138 |
-| Audited projects | 54 |
+| Audited projects | 55 |
 
 ## Data Coverage
 
@@ -77,31 +77,32 @@ Of **701** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 529 | 525 |
-| Active last week | 155 | 217 |
-| Active last month | 225 | 282 |
-| Active last 3 months | 272 | 335 |
+| Active last week | 154 | 218 |
+| Active last month | 224 | 281 |
+| Active last 3 months | 272 | 336 |
 | Active last year | 372 | 418 |
 
 ## Audit Data
 
-**54** projects audited with **71** reports.
+**55** projects audited with **73** reports.
 
 *Audit data provided by [Soroban Security](https://sorobansecurity.com).*
 
 | Auditor | Reports |
 |---------|---------:|
-| Veridise | 24 |
+| Veridise | 25 |
 | OtterSec | 10 |
 | certora | 9 |
 | Runtime Verification | 9 |
 | Halborn | 5 |
 | Quarkslab | 3 |
+| Zellic | 2 |
 | Code4rena | 2 |
 | Сoinspect | 2 |
-| CoinFabrik | 2 |
-| Zellic | 2 |
 | OpenZeppelin | 2 |
+| CoinFabrik | 2 |
 | Hacken | 1 |
+| Hashlock | 1 |
 
 ## Data Sources
 
@@ -120,15 +121,14 @@ How many data points each contributor provides across the directory:
 | Lumen Loop | 4376 |
 | SCF | 3431 |
 | Stellar Expert | 393 |
-| Soroban Security | 71 |
-| DeFiLlama | 27 |
+| Soroban Security | 73 |
+| DeFiLlama | 28 |
 
 ## Needs Review
 
 20 items need attention.
 
 **description empty** (10):
-- lunar-finance
 - yolat
 - rail402
 - policywright
@@ -136,16 +136,17 @@ How many data points each contributor provides across the directory:
 - tilt-pay
 - stellar-vrf
 - sorted
+- lunar-finance
 - lendwise
 - verso
 
 **SCF project missing website** (10):
 - relax
-- paysapp
 - wally
 - frost-implementation
 - net-sdk
 - timed-transactions-api
+- paysapp
 - the-starship-soroban
 - crypto-link
 - sendit
