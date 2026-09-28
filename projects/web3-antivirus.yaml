@@ -11,7 +11,8 @@ links:
     - web3_antivirus
   linkedin:
     - linkedin.com/company/web3-antivirus
-  discord: []
+  discord:
+    - discord.gg/4hjajuqcr2
   telegram: []
   youtube: []
   instagram: []
@@ -20,7 +21,6 @@ links:
   linktree: []
   github:
     - github.com/web3-antivirus
-    - github.com/web3-antivirus/chrome-extension
 attributes:
   category: Developer Tooling
   tags:
