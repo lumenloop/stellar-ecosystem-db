@@ -77,7 +77,7 @@ Of **701** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 529 | 525 |
-| Active last week | 152 | 222 |
+| Active last week | 152 | 221 |
 | Active last month | 224 | 280 |
 | Active last 3 months | 272 | 337 |
 | Active last year | 372 | 418 |
@@ -92,15 +92,15 @@ Of **701** SCF-funded projects:
 |---------|---------:|
 | Veridise | 25 |
 | OtterSec | 10 |
-| certora | 9 |
 | Runtime Verification | 9 |
+| certora | 9 |
 | Halborn | 5 |
 | Quarkslab | 3 |
 | CoinFabrik | 2 |
-| Сoinspect | 2 |
-| Zellic | 2 |
 | OpenZeppelin | 2 |
 | Code4rena | 2 |
+| Сoinspect | 2 |
+| Zellic | 2 |
 | Hashlock | 1 |
 | Hacken | 1 |
 
@@ -118,8 +118,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4056 |
-| SCF | 3759 |
+| Lumen Loop | 4057 |
+| SCF | 3758 |
 | Stellar Expert | 393 |
 | Soroban Security | 73 |
 | DeFiLlama | 28 |
@@ -129,21 +129,21 @@ How many data points each contributor provides across the directory:
 15 items need attention.
 
 **SCF project missing website** (10):
+- relax
+- soroban-optimistic-oracle
 - wally
+- paysapp
 - frost-implementation
 - net-sdk
 - timed-transactions-api
-- relax
-- soroban-optimistic-oracle
-- paysapp
 - the-starship-soroban
 - crypto-link
 - sendit
 
 **description empty** (5):
+- stellar-vrf
 - yolat
 - sorted
 - rail402
-- stellar-vrf
 - verso
 
