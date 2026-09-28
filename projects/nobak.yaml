@@ -8,7 +8,8 @@ links:
   blog: []
   x: []
   linkedin: []
-  discord: []
+  discord:
+    - discord.gg/gr5cb3y2
   telegram: []
   youtube: []
   instagram: []
@@ -16,7 +17,6 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/nobak-net/nobak-mobile
     - github.com/nobak-net
 attributes:
   category: Applications
