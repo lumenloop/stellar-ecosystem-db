@@ -4,22 +4,21 @@ other_names:
 parent: null
 description: OCTO is a super dApp that revolves around NFT and digital assets with a strong emphasis on creators and their communities.
 links:
-  website:
-    - octoplace.io
+  website: []
   blog:
     - medium.com/@octo_press
   x:
     - octoplace
   linkedin: []
-  discord: []
+  discord:
+    - discord.gg/73ru5xup2x
   telegram: []
   youtube: []
   instagram: []
   reddit: []
   tiktok: []
   linktree: []
-  github:
-    - github.com/octoplace
+  github: []
 attributes:
   category: Applications
   tags:

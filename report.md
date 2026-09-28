@@ -16,7 +16,7 @@
 | Field | Count | Coverage |
 |-------|------:|---------:|
 | description | 834/839 | 99.4% |
-| website | 828/839 | 98.7% |
+| website | 827/839 | 98.6% |
 | blog | 253/839 | 30.2% |
 | x | 578/839 | 68.9% |
 | linkedin | 408/839 | 48.6% |
@@ -27,7 +27,7 @@
 | reddit | 15/839 | 1.8% |
 | tiktok | 38/839 | 4.5% |
 | linktree | 6/839 | 0.7% |
-| github | 579/839 | 69% |
+| github | 578/839 | 68.9% |
 | category | 839/839 | 100% |
 | tags | 817/839 | 97.4% |
 | operating_region | 794/839 | 94.6% |
@@ -40,8 +40,8 @@ Per-project comparison of our **839** projects (incl. **132** community projects
 | Field | We Added | We Modified |
 |-------|------:|------:|
 | description | +207 | 627 |
-| website | +216 | 612 |
-| github | +202 | 377 |
+| website | +216 | 611 |
+| github | +202 | 376 |
 | x | +285 | 293 |
 | linkedin | +200 | 208 |
 | discord | +104 | 110 |
@@ -65,8 +65,8 @@ Of **701** SCF-funded projects:
 | awarded_total | 700/701 | 99.9% |
 | awarded_round | 701/701 | 100% |
 | submission_urls | 701/701 | 100% |
-| website | 691/701 | 98.6% |
-| github | 517/701 | 73.8% |
+| website | 690/701 | 98.4% |
+| github | 516/701 | 73.6% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -76,7 +76,7 @@ Of **701** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 529 | 525 |
+| Tracked projects | 528 | 525 |
 | Active last week | 152 | 221 |
 | Active last month | 224 | 280 |
 | Active last 3 months | 272 | 337 |
@@ -99,10 +99,10 @@ Of **701** SCF-funded projects:
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
 | Code4rena | 2 |
-| Сoinspect | 2 |
 | Zellic | 2 |
-| Hashlock | 1 |
+| Сoinspect | 2 |
 | Hacken | 1 |
+| Hashlock | 1 |
 
 ## Data Sources
 
@@ -118,23 +118,24 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4164 |
-| SCF | 3651 |
+| Lumen Loop | 4345 |
+| SCF | 3470 |
 | Stellar Expert | 393 |
 | Soroban Security | 73 |
 | DeFiLlama | 28 |
 
 ## Needs Review
 
-15 items need attention.
+16 items need attention.
 
-**SCF project missing website** (10):
-- relax
+**SCF project missing website** (11):
+- octo
 - soroban-optimistic-oracle
 - wally
 - paysapp
 - frost-implementation
 - net-sdk
+- relax
 - timed-transactions-api
 - the-starship-soroban
 - crypto-link
