@@ -77,7 +77,7 @@ Of **701** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 528 | 525 |
-| Active last week | 152 | 221 |
+| Active last week | 151 | 221 |
 | Active last month | 224 | 280 |
 | Active last 3 months | 272 | 337 |
 | Active last year | 372 | 418 |
@@ -98,8 +98,8 @@ Of **701** SCF-funded projects:
 | Quarkslab | 3 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Code4rena | 2 |
 | Zellic | 2 |
+| Code4rena | 2 |
 | Сoinspect | 2 |
 | Hacken | 1 |
 | Hashlock | 1 |
@@ -118,8 +118,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4345 |
-| SCF | 3470 |
+| Lumen Loop | 4386 |
+| SCF | 3429 |
 | Stellar Expert | 393 |
 | Soroban Security | 73 |
 | DeFiLlama | 28 |
