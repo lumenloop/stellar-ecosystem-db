@@ -118,8 +118,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4054 |
-| SCF | 3761 |
+| Lumen Loop | 4055 |
+| SCF | 3760 |
 | Stellar Expert | 393 |
 | Soroban Security | 73 |
 | DeFiLlama | 28 |
@@ -141,8 +141,8 @@ How many data points each contributor provides across the directory:
 - sendit
 
 **description empty** (5):
-- yolat
 - stellar-vrf
+- yolat
 - sorted
 - rail402
 - verso
