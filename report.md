@@ -96,11 +96,11 @@ Of **701** SCF-funded projects:
 | certora | 9 |
 | Halborn | 5 |
 | Quarkslab | 3 |
+| Code4rena | 2 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Zellic | 2 |
 | Сoinspect | 2 |
-| Code4rena | 2 |
+| Zellic | 2 |
 | Hacken | 1 |
 | Hashlock | 1 |
 
@@ -118,8 +118,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4387 |
-| SCF | 3428 |
+| Lumen Loop | 4388 |
+| SCF | 3427 |
 | Stellar Expert | 393 |
 | Soroban Security | 73 |
 | DeFiLlama | 28 |
@@ -130,21 +130,21 @@ How many data points each contributor provides across the directory:
 
 **SCF project missing website** (11):
 - octo
-- soroban-optimistic-oracle
-- paysapp
-- relax
-- wally
 - frost-implementation
 - net-sdk
+- soroban-optimistic-oracle
 - timed-transactions-api
+- paysapp
 - the-starship-soroban
+- relax
+- wally
 - crypto-link
 - sendit
 
 **description empty** (5):
-- stellar-vrf
 - yolat
 - sorted
+- stellar-vrf
 - rail402
 - verso
 
