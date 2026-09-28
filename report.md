@@ -97,8 +97,8 @@ Of **701** SCF-funded projects:
 | Halborn | 5 |
 | Quarkslab | 3 |
 | CoinFabrik | 2 |
-| Сoinspect | 2 |
 | OpenZeppelin | 2 |
+| Сoinspect | 2 |
 | Zellic | 2 |
 | Code4rena | 2 |
 | Hashlock | 1 |
@@ -118,8 +118,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4051 |
-| SCF | 3764 |
+| Lumen Loop | 4052 |
+| SCF | 3763 |
 | Stellar Expert | 393 |
 | Soroban Security | 73 |
 | DeFiLlama | 28 |
@@ -141,9 +141,9 @@ How many data points each contributor provides across the directory:
 - sendit
 
 **description empty** (5):
-- sorted
 - yolat
-- rail402
 - stellar-vrf
+- sorted
+- rail402
 - verso
 
