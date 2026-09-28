@@ -6,7 +6,8 @@ links:
   website:
     - crebitpay.com
   blog: []
-  x: []
+  x:
+    - crebitpay
   linkedin: []
   discord: []
   telegram: []
@@ -29,7 +30,7 @@ images: null
 scf:
   awarded_round:
     - 45
-  awarded_total: null
+  awarded_total: 10000
   submission_urls:
     - communityfund.stellar.org/submissions/rec11acDNjhqKRI82
 mainnet:

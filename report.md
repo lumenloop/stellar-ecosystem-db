@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-09-27
+> Auto-generated on 2026-09-28
 
 ## Summary
 
@@ -15,11 +15,11 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 829/839 | 98.8% |
+| description | 834/839 | 99.4% |
 | website | 828/839 | 98.7% |
 | blog | 253/839 | 30.2% |
 | x | 578/839 | 68.9% |
-| linkedin | 407/839 | 48.5% |
+| linkedin | 408/839 | 48.6% |
 | discord | 214/839 | 25.5% |
 | telegram | 151/839 | 18% |
 | youtube | 172/839 | 20.5% |
@@ -35,17 +35,17 @@
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **839** projects (incl. **132** community projects not in SCF) against **709** in SCF Airtable:
+Per-project comparison of our **839** projects (incl. **132** community projects not in SCF) against **725** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +214 | 615 |
-| website | +231 | 597 |
+| description | +207 | 627 |
+| website | +216 | 612 |
 | github | +202 | 377 |
-| x | +289 | 289 |
-| linkedin | +200 | 207 |
+| x | +285 | 293 |
+| linkedin | +200 | 208 |
 | discord | +104 | 110 |
-| based_in | +264 | 480 |
+| based_in | +263 | 481 |
 | blog | +253 | 0 |
 | telegram | +151 | 0 |
 | youtube | +172 | 0 |
@@ -62,7 +62,7 @@ Of **701** SCF-funded projects:
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| awarded_total | 687/701 | 98% |
+| awarded_total | 700/701 | 99.9% |
 | awarded_round | 701/701 | 100% |
 | submission_urls | 701/701 | 100% |
 | website | 691/701 | 98.6% |
@@ -77,7 +77,7 @@ Of **701** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 529 | 525 |
-| Active last week | 153 | 222 |
+| Active last week | 152 | 222 |
 | Active last month | 224 | 280 |
 | Active last 3 months | 272 | 337 |
 | Active last year | 372 | 418 |
@@ -96,13 +96,13 @@ Of **701** SCF-funded projects:
 | Runtime Verification | 9 |
 | Halborn | 5 |
 | Quarkslab | 3 |
+| CoinFabrik | 2 |
 | Сoinspect | 2 |
 | OpenZeppelin | 2 |
 | Zellic | 2 |
 | Code4rena | 2 |
-| CoinFabrik | 2 |
-| Hacken | 1 |
 | Hashlock | 1 |
+| Hacken | 1 |
 
 ## Data Sources
 
@@ -118,37 +118,32 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4376 |
-| SCF | 3431 |
+| Lumen Loop | 4050 |
+| SCF | 3765 |
 | Stellar Expert | 393 |
 | Soroban Security | 73 |
 | DeFiLlama | 28 |
 
 ## Needs Review
 
-20 items need attention.
+15 items need attention.
 
 **SCF project missing website** (10):
+- timed-transactions-api
 - relax
 - wally
+- soroban-optimistic-oracle
 - frost-implementation
 - net-sdk
-- timed-transactions-api
 - paysapp
 - the-starship-soroban
 - crypto-link
 - sendit
-- soroban-optimistic-oracle
 
-**description empty** (10):
-- policywright
-- account-demolisher
+**description empty** (5):
+- sorted
 - yolat
 - rail402
 - stellar-vrf
-- sorted
-- lunar-finance
-- tilt-pay
-- lendwise
 - verso
 

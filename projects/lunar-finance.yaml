@@ -1,7 +1,12 @@
 title: Lunar Finance
 other_names: null
 parent: null
-description: ''
+description: |-
+  Lunar Finance is building the execution layer for on-chain transactions: a unified meta-aggregation platform that abstracts the complexity of fragmented liquidity across blockchains and delivers optimal trade and bridging outcomes.
+
+  Our vision is to become the default infrastructure for value movement across Web3. As liquidity fragments across chains, bridges, and DEXs, inefficiencies increase. Lunar solves this by aggregating all major liquidity sources and intelligently routing transactions to achieve the best price, lowest slippage, and most efficient execution path across both single-chain and cross-chain environments.
+
+  We aim to power seamless interoperability, improve capital efficiency, and capture value at the execution layer as adoption scales.
 links:
   website:
     - lunarfinance.io
@@ -29,7 +34,7 @@ images: null
 scf:
   awarded_round:
     - 45
-  awarded_total: null
+  awarded_total: 11800
   submission_urls:
     - communityfund.stellar.org/submissions/recbbnNKmVzGS3rn6
 mainnet:

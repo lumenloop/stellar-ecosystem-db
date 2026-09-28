@@ -1,7 +1,14 @@
 title: LendWise
 other_names: null
 parent: null
-description: ''
+description: |-
+  Managing lending positions across multiple chains is fragmented and costly. Users miss better rates, carry excess risk, and execute rebalancing manually across disconnected interfaces.
+
+  LendWise is a three-layer platform: a unified analytics dashboard aggregating lending markets from all major chains and protocols in real time (including Aave, Compound, Morpho, Radiant and others across Ethereum, Arbitrum, Base and more); a personalized optimizer generating rebalancing strategies based on each user's yield objectives and risk constraints, computing the optimal allocation across all integrated markets; and a cross-chain execution layer routing transactions (bridge, swap, deposit, repay) in a single guided flow.
+
+  Already live across the most important EVM chains and protocols, LendWise is now expanding to Stellar by integrating Blend Protocol, Aquarius and StellarX as liquidity sources, Allbridge Core, Squid (powered by Axelar) and Circle CCTP as bridge routes, and Stellar-native wallets.
+
+  https://github.com/cedricmagne/lendwise.
 links:
   website:
     - lendwise.fi
@@ -26,7 +33,7 @@ images: null
 scf:
   awarded_round:
     - 45
-  awarded_total: null
+  awarded_total: 6667
   submission_urls:
     - communityfund.stellar.org/submissions/recmK8tdxCKvSU3GS
 mainnet:

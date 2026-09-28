@@ -1,12 +1,13 @@
 title: Lendoor
 other_names: null
 parent: null
-description: ''
+description: Embedded uncollateralized credit protocol built on Stellar/Soroban, targeting the 186M+ credit-invisible adults in Latin America. Users access USDC microloans without collateral; on-time repayment builds a portable on-chain credit score and grows their credit limit. Designed to plug into wallets and exchanges (e.g., Bitso) as an embedded credit layer.
 links:
   website:
     - lendoor.xyz
   blog: []
-  x: []
+  x:
+    - x.com
   linkedin: []
   discord: []
   telegram: []
@@ -19,14 +20,18 @@ links:
     - github.com/lucholeonel/lendoor-stellar
 attributes:
   category: Financial Protocols
-  tags: []
-  operating_region: []
-  based_in: null
+  tags:
+    - Lending & Borrowing
+    - DeFi
+    - Unbanked
+  operating_region:
+    - latam
+  based_in: Argentina
 images: null
 scf:
   awarded_round:
     - 45
-  awarded_total: null
+  awarded_total: 8500
   submission_urls:
     - communityfund.stellar.org/submissions/rec3TJmAPmo6HOPve
 mainnet:

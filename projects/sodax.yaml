@@ -63,6 +63,10 @@ mainnet:
       url: sorobansecurity.com/report/11
       date: '2024-09-30T15:00:00Z'
       auditor: Сoinspect
+    - name: SODAX Icon Foundation (Soroban) Smart Contract Audit Report
+      url: sorobansecurity.com/report/82
+      date: '2026-08-01T03:11:07.175Z'
+      auditor: Hashlock
   tokens:
     - code: SODA
       issuer: GDYUTHY75A7WUZJQDPOP66FB32BOYGZRXHWTWO4Q6LQTANT5X3V5HNFA

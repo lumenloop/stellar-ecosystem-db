@@ -1,7 +1,7 @@
 title: Policywright
 other_names: null
 parent: null
-description: ''
+description: 'Policywright is an AI-assisted toolkit — MCP server, Claude skill, and policy synthesizer — that turns a Stellar transaction a user performed or simulated into the least-privilege OpenZeppelin smart-account authorization permitting exactly that flow and nothing else. Record a sequence (e.g. claim yield on Blend, swap to USDC); it derives a context rule scoped to the exact contracts and functions called, composes stock OZ policies (spending limits, thresholds) where they fit, and generates fresh Soroban Policy contracts — audited before release — where they don''t, then proves the result with a dry-run that permits the original flow and denies adjacent ones before anything is installed. Today, scoping a delegation means hand-writing and auditing a Policy contract — prohibitive for most developers and users. It hits three Stellar 2026 priorities: agent-readiness, smart-account (C-address) adoption, and developer experience, and is defensively useful — agents under scoped policies are far safer than those holding full keys.'
 links:
   website:
     - github.com/kunaldrall29/policywright

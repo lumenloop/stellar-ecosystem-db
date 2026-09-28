@@ -1,7 +1,16 @@
 title: Tilt Pay
 other_names: null
 parent: null
-description: ''
+description: |-
+  Tilt Pay is a mobile payment app enabling contactless Tap-to-Pay, instant global transfers, and built-in USD/EUR bank accounts for freelancers, travelers, and merchants underserved by traditional payment networks.  
+
+  Our app is live and monetizing: 1,045 users, $30,000 in payment volume, 194 completed NFC transactions, growing at 25+ new users per day organically. We have a signed B2B contract with a Canadian fintech projecting 2,000+ users per month.  
+
+  We are migrating our entire settlement infrastructure to Stellar. Its multi-currency stablecoin ecosystem and native compliance controls make it the right foundation for cross-border payments at scale.  
+
+  This migration brings real, recurring payment activity to Stellar. Every Tap-to-Pay transaction, fiat deposit, and cross-border transfer will settle as a USDC operation on the network. Primary ecosystem contribution: stablecoin transfer volume, supported by new active wallets, on/off-ramp flows, and DEX activity.  
+    
+  Presentation video.
 links:
   website:
     - tilt-pay.com
@@ -26,7 +35,7 @@ images: null
 scf:
   awarded_round:
     - 45
-  awarded_total: null
+  awarded_total: 12400
   submission_urls:
     - communityfund.stellar.org/submissions/recTMTs7sqkQJZdgc
 mainnet:

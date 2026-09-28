@@ -1,7 +1,10 @@
 title: Account Demolisher
 other_names: null
 parent: null
-description: ''
+description: |-
+  Stellar has over 10 million accounts, many stale or abandoned. Each locks 1 XLM plus 0.5 XLM per subentry; reclaiming it means removing every subentry, then running ACCOUNT_MERGE, which fails while any trustline or offer remains. No major exchange accepts an incoming merge, so the final reserve is stranded without an intermediary. Value has also moved into Soroban DeFi (Blend, Aquarius, Soroswap, FxDAO) and SEP-41 tokens, beyond the only public tool, stellar.expert/demolisher, which is classic-only.
+
+  Account Demolisher is a production-grade, non-custodial tool that closes a Stellar account from any state in one guided session, across classic and Soroban DeFi. It unwinds positions, converts balances to XLM, removes every subentry, reduces signers, claims selected balances, and merges to a wallet or, via a mediator account, an exchange. Every transaction is signed client-side; keys never reach a server. A standalone viewer also revokes Soroban token approvals. It ships open-source under Apache 2.0, audited before any mainnet use.
 links:
   website:
     - demolisher.saliht.xyz

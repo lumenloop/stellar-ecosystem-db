@@ -1,7 +1,7 @@
 title: Escala
 other_names: null
 parent: null
-description: ''
+description: Escala is a B2B platform for building agentic software with ready-to-use financial capabilities on Stellar. Its flagship product, Escala HQ, provides FaaS (Finance-as-a-Service) infrastructure for NGOs and cooperatives, featuring Soroban-powered collective investment contracts, a MoneyGram fiat-to-USDC on-ramp, and Stellar Disbursement Platform milestone-based payouts. A Cloud Studio (MCP-based B2B integration accelerator) lets enterprises embed Stellar primitives into legacy systems. Validated through a live UNDP pilot in Guatemala and backed by Amero, a production B2C platform with 15,000+ users across 8 LATAM countries.
 links:
   website:
     - escalahq.com
@@ -19,8 +19,12 @@ links:
     - github.com/escala-dev
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - B2B
+    - SDP
+    - Moneygram
+  operating_region:
+    - latam
   based_in: null
 images: null
 scf:
