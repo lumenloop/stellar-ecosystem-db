@@ -118,8 +118,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4392 |
-| SCF | 3423 |
+| Lumen Loop | 4393 |
+| SCF | 3422 |
 | Stellar Expert | 393 |
 | Soroban Security | 73 |
 | DeFiLlama | 28 |
@@ -132,10 +132,10 @@ How many data points each contributor provides across the directory:
 - octo
 - soroban-optimistic-oracle
 - timed-transactions-api
+- relax
 - paysapp
 - the-starship-soroban
 - frost-implementation
-- relax
 - net-sdk
 - wally
 - crypto-link
