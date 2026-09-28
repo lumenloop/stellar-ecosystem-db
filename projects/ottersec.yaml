@@ -11,7 +11,8 @@ links:
     - osec_io
   linkedin:
     - linkedin.com/company/91739484
-  discord: []
+  discord:
+    - discord.gg/qne5b7pgrs
   telegram: []
   youtube: []
   instagram: []
@@ -20,7 +21,6 @@ links:
   linktree: []
   github:
     - github.com/otter-sec
-    - github.com/otter-sec/stellar-verify
 attributes:
   category: Developer Tooling
   tags:

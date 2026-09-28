@@ -99,8 +99,8 @@ Of **701** SCF-funded projects:
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
 | Zellic | 2 |
-| Code4rena | 2 |
 | Сoinspect | 2 |
+| Code4rena | 2 |
 | Hacken | 1 |
 | Hashlock | 1 |
 
@@ -118,8 +118,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4386 |
-| SCF | 3429 |
+| Lumen Loop | 4387 |
+| SCF | 3428 |
 | Stellar Expert | 393 |
 | Soroban Security | 73 |
 | DeFiLlama | 28 |
@@ -131,11 +131,11 @@ How many data points each contributor provides across the directory:
 **SCF project missing website** (11):
 - octo
 - soroban-optimistic-oracle
-- wally
 - paysapp
+- relax
+- wally
 - frost-implementation
 - net-sdk
-- relax
 - timed-transactions-api
 - the-starship-soroban
 - crypto-link
