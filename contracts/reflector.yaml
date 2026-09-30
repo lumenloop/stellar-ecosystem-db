@@ -4,6 +4,12 @@
   tags:
     - infra
     - custodian
+- id: CALI2BYU2JE6WVRUFYTS6MSBNEHGJ35P4AVCZYF3B6QOE3QKOB2PLE6M
+  label: Reflector Oracle
+  is_pool: false
+  tags:
+    - infra
+    - application
 - id: CAFJZQWSED6YAWZU3GWRTOCNPPCGBN32L7QV43XX5LZLFTK6JLN34DLN
   label: Reflector Oracle
   is_pool: false
@@ -11,12 +17,6 @@
     - infra
     - application
 - id: CBKGPWGKSKZF52CFHMTRR23TBWTPMRDIYZ4O2P5VS65BMHYH4DXMCJZC
-  label: Reflector Oracle
-  is_pool: false
-  tags:
-    - infra
-    - application
-- id: CALI2BYU2JE6WVRUFYTS6MSBNEHGJ35P4AVCZYF3B6QOE3QKOB2PLE6M
   label: Reflector Oracle
   is_pool: false
   tags:
