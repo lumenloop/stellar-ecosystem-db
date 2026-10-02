@@ -11,7 +11,8 @@ links:
     - muwpay
   linkedin:
     - linkedin.com/company/muwpay
-  discord: []
+  discord:
+    - discord.gg/wmZUxJtuad
   telegram:
     - t.me/muwpay
   youtube: []
@@ -19,8 +20,7 @@ links:
   reddit: []
   tiktok: []
   linktree: []
-  github:
-    - github.com/muwpay-uniswapper/muwp-stellar
+  github: []
 attributes:
   category: Applications
   tags:

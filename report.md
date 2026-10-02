@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-10-01
+> Auto-generated on 2026-10-02
 
 ## Summary
 
@@ -27,7 +27,7 @@
 | reddit | 15/839 | 1.8% |
 | tiktok | 38/839 | 4.5% |
 | linktree | 6/839 | 0.7% |
-| github | 578/839 | 68.9% |
+| github | 577/839 | 68.8% |
 | category | 839/839 | 100% |
 | tags | 817/839 | 97.4% |
 | operating_region | 794/839 | 94.6% |
@@ -41,7 +41,7 @@ Per-project comparison of our **839** projects (incl. **132** community projects
 |-------|------:|------:|
 | description | +207 | 627 |
 | website | +216 | 611 |
-| github | +202 | 376 |
+| github | +202 | 375 |
 | x | +285 | 293 |
 | linkedin | +200 | 208 |
 | discord | +104 | 110 |
@@ -66,7 +66,7 @@ Of **701** SCF-funded projects:
 | awarded_round | 701/701 | 100% |
 | submission_urls | 701/701 | 100% |
 | website | 690/701 | 98.4% |
-| github | 516/701 | 73.6% |
+| github | 515/701 | 73.5% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -76,11 +76,11 @@ Of **701** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 527 | 524 |
-| Active last week | 157 | 226 |
-| Active last month | 228 | 283 |
-| Active last 3 months | 275 | 337 |
-| Active last year | 371 | 419 |
+| Tracked projects | 525 | 524 |
+| Active last week | 152 | 225 |
+| Active last month | 225 | 285 |
+| Active last 3 months | 272 | 336 |
+| Active last year | 368 | 418 |
 
 ## Audit Data
 
@@ -118,8 +118,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4400 |
-| SCF | 3415 |
+| Lumen Loop | 4402 |
+| SCF | 3413 |
 | Stellar Expert | 393 |
 | Soroban Security | 73 |
 | DeFiLlama | 28 |
