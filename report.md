@@ -18,7 +18,7 @@
 | description | 834/839 | 99.4% |
 | website | 827/839 | 98.6% |
 | blog | 253/839 | 30.2% |
-| x | 578/839 | 68.9% |
+| x | 579/839 | 69% |
 | linkedin | 408/839 | 48.6% |
 | discord | 214/839 | 25.5% |
 | telegram | 151/839 | 18% |
@@ -42,7 +42,7 @@ Per-project comparison of our **839** projects (incl. **132** community projects
 | description | +207 | 627 |
 | website | +216 | 611 |
 | github | +202 | 375 |
-| x | +285 | 293 |
+| x | +286 | 293 |
 | linkedin | +200 | 208 |
 | discord | +104 | 110 |
 | based_in | +263 | 481 |
@@ -92,14 +92,14 @@ Of **701** SCF-funded projects:
 |---------|---------:|
 | Veridise | 25 |
 | OtterSec | 10 |
-| Runtime Verification | 9 |
 | certora | 9 |
+| Runtime Verification | 9 |
 | Halborn | 5 |
 | Quarkslab | 3 |
+| Сoinspect | 2 |
 | Code4rena | 2 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
-| Сoinspect | 2 |
 | Zellic | 2 |
 | Hacken | 1 |
 | Hashlock | 1 |
@@ -118,7 +118,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4402 |
+| Lumen Loop | 4403 |
 | SCF | 3413 |
 | Stellar Expert | 393 |
 | Soroban Security | 73 |
@@ -130,11 +130,11 @@ How many data points each contributor provides across the directory:
 
 **SCF project missing website** (11):
 - frost-implementation
-- timed-transactions-api
 - net-sdk
-- paysapp
 - soroban-optimistic-oracle
 - wally
+- timed-transactions-api
+- paysapp
 - relax
 - octo
 - the-starship-soroban
