@@ -76,11 +76,11 @@ Of **701** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 525 | 524 |
-| Active last week | 159 | 230 |
-| Active last month | 223 | 286 |
-| Active last 3 months | 273 | 336 |
-| Active last year | 368 | 417 |
+| Tracked projects | 525 | 525 |
+| Active last week | 159 | 231 |
+| Active last month | 223 | 287 |
+| Active last 3 months | 273 | 337 |
+| Active last year | 368 | 418 |
 
 ## Audit Data
 
@@ -92,13 +92,13 @@ Of **701** SCF-funded projects:
 |---------|---------:|
 | Veridise | 25 |
 | OtterSec | 10 |
-| certora | 9 |
 | Runtime Verification | 9 |
+| certora | 9 |
 | Halborn | 5 |
 | Quarkslab | 3 |
+| Сoinspect | 2 |
 | Code4rena | 2 |
 | CoinFabrik | 2 |
-| Сoinspect | 2 |
 | OpenZeppelin | 2 |
 | Zellic | 2 |
 | Hacken | 1 |
