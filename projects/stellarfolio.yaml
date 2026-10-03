@@ -6,7 +6,8 @@ links:
   website:
     - stellarfolio.app
   blog: []
-  x: []
+  x:
+    - stellarfolio
   linkedin: []
   discord: []
   telegram: []
