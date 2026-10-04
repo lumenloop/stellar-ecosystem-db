@@ -40,5 +40,9 @@ scf:
   submission_urls:
     - communityfund.stellar.org/submissions/recAvz5NtVxVvLcMo
 mainnet:
-  audits: []
+  audits:
+    - name: Smart Contract Assessment - Peridot Protocol
+      url: sorobansecurity.com/report/83
+      date: '2026-03-09T02:37:15.294Z'
+      auditor: Halborn
   tokens: []
