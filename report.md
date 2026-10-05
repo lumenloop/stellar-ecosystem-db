@@ -96,8 +96,8 @@ Of **701** SCF-funded projects:
 | Runtime Verification | 9 |
 | Halborn | 6 |
 | Quarkslab | 3 |
-| Сoinspect | 2 |
 | Code4rena | 2 |
+| Сoinspect | 2 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
 | Zellic | 2 |
@@ -134,8 +134,8 @@ How many data points each contributor provides across the directory:
 - paysapp
 - net-sdk
 - relax
-- frost-implementation
 - wally
+- frost-implementation
 - octo
 - the-starship-soroban
 - crypto-link
