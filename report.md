@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-10-04
+> Auto-generated on 2026-10-05
 
 ## Summary
 
@@ -35,7 +35,7 @@
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **839** projects (incl. **132** community projects not in SCF) against **725** in SCF Airtable:
+Per-project comparison of our **839** projects (incl. **132** community projects not in SCF) against **730** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
@@ -77,10 +77,10 @@ Of **701** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 525 | 525 |
-| Active last week | 164 | 229 |
-| Active last month | 225 | 281 |
-| Active last 3 months | 272 | 337 |
-| Active last year | 367 | 418 |
+| Active last week | 163 | 228 |
+| Active last month | 225 | 275 |
+| Active last 3 months | 271 | 337 |
+| Active last year | 367 | 417 |
 
 ## Audit Data
 
@@ -129,22 +129,22 @@ How many data points each contributor provides across the directory:
 16 items need attention.
 
 **SCF project missing website** (11):
+- soroban-optimistic-oracle
+- timed-transactions-api
+- paysapp
 - net-sdk
 - relax
 - frost-implementation
-- soroban-optimistic-oracle
 - wally
-- timed-transactions-api
-- paysapp
 - octo
 - the-starship-soroban
 - crypto-link
 - sendit
 
 **description empty** (5):
+- verso
 - stellar-vrf
 - rail402
-- verso
 - sorted
 - yolat
 
