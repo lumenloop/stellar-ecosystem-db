@@ -6,20 +6,28 @@ description: Scorechain for Stellar Compliance will integrate the Stellar blockc
 links:
   website:
     - scorechain.com
-  blog: []
+  blog:
+    - /blog/beware-of-fraudulent-communications-protect-yourself-from-scammers-posing-as-scorechain
   x:
     - scorechain
   linkedin:
     - linkedin.com/company/scorechain
-  discord: []
+  discord:
+    - discord.gg/scorechain
   telegram:
-    - t.me/scorechainbot
-  youtube: []
-  instagram: []
-  reddit: []
-  tiktok: []
-  linktree: []
-  github: []
+    - t.me/scorechain
+  youtube:
+    - youtube.com/@scorechain
+  instagram:
+    - scorechain
+  reddit:
+    - r/scorechain
+  tiktok:
+    - scorechain
+  linktree:
+    - scorechain
+  github:
+    - github.com/scorechain
 attributes:
   category: Applications
   tags:

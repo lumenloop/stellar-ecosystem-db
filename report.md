@@ -17,17 +17,17 @@
 |-------|------:|---------:|
 | description | 834/839 | 99.4% |
 | website | 827/839 | 98.6% |
-| blog | 253/839 | 30.2% |
+| blog | 254/839 | 30.3% |
 | x | 579/839 | 69% |
 | linkedin | 408/839 | 48.6% |
-| discord | 214/839 | 25.5% |
+| discord | 215/839 | 25.6% |
 | telegram | 151/839 | 18% |
-| youtube | 172/839 | 20.5% |
-| instagram | 130/839 | 15.5% |
-| reddit | 15/839 | 1.8% |
-| tiktok | 38/839 | 4.5% |
-| linktree | 6/839 | 0.7% |
-| github | 577/839 | 68.8% |
+| youtube | 173/839 | 20.6% |
+| instagram | 131/839 | 15.6% |
+| reddit | 16/839 | 1.9% |
+| tiktok | 39/839 | 4.6% |
+| linktree | 7/839 | 0.8% |
+| github | 578/839 | 68.9% |
 | category | 839/839 | 100% |
 | tags | 817/839 | 97.4% |
 | operating_region | 794/839 | 94.6% |
@@ -41,18 +41,18 @@ Per-project comparison of our **839** projects (incl. **132** community projects
 |-------|------:|------:|
 | description | +207 | 627 |
 | website | +216 | 611 |
-| github | +202 | 375 |
+| github | +203 | 375 |
 | x | +286 | 293 |
 | linkedin | +200 | 208 |
-| discord | +104 | 110 |
+| discord | +105 | 110 |
 | based_in | +263 | 481 |
-| blog | +253 | 0 |
+| blog | +254 | 0 |
 | telegram | +151 | 0 |
-| youtube | +172 | 0 |
-| instagram | +130 | 0 |
-| reddit | +15 | 0 |
-| tiktok | +38 | 0 |
-| linktree | +6 | 0 |
+| youtube | +173 | 0 |
+| instagram | +131 | 0 |
+| reddit | +16 | 0 |
+| tiktok | +39 | 0 |
+| linktree | +7 | 0 |
 
 *"Added" = we filled a field SCF didn't have. "Modified" = SCF had a value, we store a different one.*
 
@@ -66,7 +66,7 @@ Of **701** SCF-funded projects:
 | awarded_round | 701/701 | 100% |
 | submission_urls | 701/701 | 100% |
 | website | 690/701 | 98.4% |
-| github | 515/701 | 73.5% |
+| github | 516/701 | 73.6% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -76,11 +76,11 @@ Of **701** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 525 | 524 |
+| Tracked projects | 526 | 524 |
 | Active last week | 140 | 226 |
 | Active last month | 221 | 278 |
-| Active last 3 months | 270 | 336 |
-| Active last year | 367 | 415 |
+| Active last 3 months | 271 | 336 |
+| Active last year | 368 | 415 |
 
 ## Audit Data
 
@@ -92,8 +92,8 @@ Of **701** SCF-funded projects:
 |---------|---------:|
 | Veridise | 25 |
 | OtterSec | 10 |
-| certora | 9 |
 | Runtime Verification | 9 |
+| certora | 9 |
 | Halborn | 6 |
 | Quarkslab | 3 |
 | Сoinspect | 2 |
@@ -118,7 +118,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4404 |
+| Lumen Loop | 4412 |
 | SCF | 3412 |
 | Stellar Expert | 393 |
 | Soroban Security | 74 |
