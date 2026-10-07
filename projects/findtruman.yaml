@@ -10,7 +10,8 @@ links:
   x:
     - findtruman
   linkedin: []
-  discord: []
+  discord:
+    - discord.gg/vrUjMWsjAj
   telegram: []
   youtube: []
   instagram: []
@@ -18,7 +19,7 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/trumanstellar
+    - github.com/trumanstellar/story-creation
 attributes:
   category: Applications
   tags:
