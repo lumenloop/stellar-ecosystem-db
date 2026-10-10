@@ -128,23 +128,23 @@ How many data points each contributor provides across the directory:
 
 16 items need attention.
 
+**description empty** (5):
+- verso
+- stellar-vrf
+- rail402
+- sorted
+- yolat
+
 **SCF project missing website** (11):
+- paysapp
 - net-sdk
 - timed-transactions-api
 - soroban-optimistic-oracle
-- paysapp
-- frost-implementation
 - wally
+- frost-implementation
 - relax
 - octo
 - the-starship-soroban
 - crypto-link
 - sendit
-
-**description empty** (5):
-- rail402
-- verso
-- stellar-vrf
-- sorted
-- yolat
 
