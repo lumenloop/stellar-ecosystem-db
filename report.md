@@ -15,7 +15,7 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 835/839 | 99.5% |
+| description | 836/839 | 99.6% |
 | website | 827/839 | 98.6% |
 | blog | 254/839 | 30.3% |
 | x | 579/839 | 69% |
@@ -29,7 +29,7 @@
 | linktree | 7/839 | 0.8% |
 | github | 578/839 | 68.9% |
 | category | 839/839 | 100% |
-| tags | 819/839 | 97.6% |
+| tags | 820/839 | 97.7% |
 | operating_region | 795/839 | 94.8% |
 | based_in | 744/839 | 88.7% |
 
@@ -39,7 +39,7 @@ Per-project comparison of our **839** projects (incl. **132** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +207 | 628 |
+| description | +208 | 628 |
 | website | +215 | 612 |
 | github | +203 | 375 |
 | x | +286 | 293 |
@@ -118,7 +118,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4416 |
+| Lumen Loop | 4418 |
 | SCF | 3414 |
 | Stellar Expert | 393 |
 | Soroban Security | 74 |
@@ -126,12 +126,11 @@ How many data points each contributor provides across the directory:
 
 ## Needs Review
 
-15 items need attention.
+14 items need attention.
 
-**description empty** (4):
+**description empty** (3):
 - verso
 - stellar-vrf
-- rail402
 - yolat
 
 **SCF project missing website** (11):

@@ -1,7 +1,7 @@
 title: Rail402
 other_names: null
 parent: null
-description: ''
+description: Rail402 is an Apache-2.0 x402 payment infrastructure suite for Stellar. It provides a facilitator compatible with canonical x402 clients, a Bazaar for discovering and cataloging paid HTTP endpoints and MCP tools, an MCP server enabling AI agents to find and pay for Stellar services, and an SDK and CLI for buyer/seller integrations. Built on the @x402/stellar payment flow with Soroban smart contracts, Rail402 supports both exact fixed-price and metered (upto) payment schemes with sponsored XLM network fees. An on-chain Explorer indexes x402 payment activity across all Stellar facilitators.
 links:
   website:
     - rail402.dev
@@ -19,7 +19,10 @@ links:
     - github.com/tolgayayci/rail402
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - Payments
+    - SDK
+    - AI
   operating_region: []
   based_in: null
 images: null
