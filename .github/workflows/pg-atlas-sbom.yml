@@ -1,0 +1,35 @@
+name: PG Atlas SBOM
+
+on:
+  workflow_dispatch:
+    inputs:
+      submit:
+        description: Publish the dependency inventory to PG Atlas
+        required: true
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+  id-token: write
+
+jobs:
+  sbom:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      # Preview by default; submission requires explicitly selecting the manual input.
+      - name: Fetch SBOM and optionally submit
+        id: sbom
+        uses: SCF-Public-Goods-Maintenance/pg-atlas-sbom-action@bca8911b12604b102c41dab217b20c0a005fb126
+        with:
+          dry-run: ${{ !inputs.submit }}
+
+      # Retain the inventory as an Actions artifact for one day.
+      - name: Upload SBOM preview
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9
+        with:
+          name: pg-atlas-sbom-preview
+          path: ${{ steps.sbom.outputs.sbom-path }}
+          if-no-files-found: error
+          retention-days: 1
