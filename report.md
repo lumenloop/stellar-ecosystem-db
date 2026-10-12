@@ -96,8 +96,8 @@ Of **701** SCF-funded projects:
 | certora | 9 |
 | Halborn | 6 |
 | Quarkslab | 3 |
-| Сoinspect | 2 |
 | Code4rena | 2 |
+| Сoinspect | 2 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
 | Zellic | 2 |
@@ -118,8 +118,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4088 |
-| SCF | 3738 |
+| Lumen Loop | 4412 |
+| SCF | 3414 |
 | Stellar Expert | 393 |
 | Soroban Security | 74 |
 | DeFiLlama | 28 |
