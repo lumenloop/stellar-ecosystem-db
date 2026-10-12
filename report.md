@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-10-11
+> Auto-generated on 2026-10-12
 
 ## Summary
 
@@ -35,12 +35,12 @@
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **839** projects (incl. **132** community projects not in SCF) against **730** in SCF Airtable:
+Per-project comparison of our **839** projects (incl. **132** community projects not in SCF) against **735** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +207 | 627 |
-| website | +216 | 611 |
+| description | +206 | 628 |
+| website | +215 | 612 |
 | github | +203 | 375 |
 | x | +286 | 293 |
 | linkedin | +200 | 208 |
@@ -62,7 +62,7 @@ Of **701** SCF-funded projects:
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| awarded_total | 700/701 | 99.9% |
+| awarded_total | 701/701 | 100% |
 | awarded_round | 701/701 | 100% |
 | submission_urls | 701/701 | 100% |
 | website | 690/701 | 98.4% |
@@ -76,10 +76,10 @@ Of **701** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 526 | 524 |
-| Active last week | 145 | 223 |
-| Active last month | 226 | 280 |
-| Active last 3 months | 270 | 332 |
+| Tracked projects | 525 | 524 |
+| Active last week | 153 | 224 |
+| Active last month | 224 | 279 |
+| Active last 3 months | 271 | 333 |
 | Active last year | 367 | 415 |
 
 ## Audit Data
@@ -96,9 +96,9 @@ Of **701** SCF-funded projects:
 | certora | 9 |
 | Halborn | 6 |
 | Quarkslab | 3 |
-| CoinFabrik | 2 |
 | Сoinspect | 2 |
 | Code4rena | 2 |
+| CoinFabrik | 2 |
 | OpenZeppelin | 2 |
 | Zellic | 2 |
 | Hacken | 1 |
@@ -118,8 +118,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4415 |
-| SCF | 3409 |
+| Lumen Loop | 4088 |
+| SCF | 3738 |
 | Stellar Expert | 393 |
 | Soroban Security | 74 |
 | DeFiLlama | 28 |
@@ -140,8 +140,8 @@ How many data points each contributor provides across the directory:
 - net-sdk
 - timed-transactions-api
 - soroban-optimistic-oracle
-- wally
 - frost-implementation
+- wally
 - relax
 - octo
 - the-starship-soroban
