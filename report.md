@@ -15,7 +15,7 @@
 
 | Field | Count | Coverage |
 |-------|------:|---------:|
-| description | 834/839 | 99.4% |
+| description | 835/839 | 99.5% |
 | website | 827/839 | 98.6% |
 | blog | 254/839 | 30.3% |
 | x | 579/839 | 69% |
@@ -29,8 +29,8 @@
 | linktree | 7/839 | 0.8% |
 | github | 578/839 | 68.9% |
 | category | 839/839 | 100% |
-| tags | 818/839 | 97.5% |
-| operating_region | 794/839 | 94.6% |
+| tags | 819/839 | 97.6% |
+| operating_region | 795/839 | 94.8% |
 | based_in | 744/839 | 88.7% |
 
 ## Enrichment vs SCF Airtable
@@ -39,7 +39,7 @@ Per-project comparison of our **839** projects (incl. **132** community projects
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
-| description | +206 | 628 |
+| description | +207 | 628 |
 | website | +215 | 612 |
 | github | +203 | 375 |
 | x | +286 | 293 |
@@ -96,8 +96,8 @@ Of **701** SCF-funded projects:
 | certora | 9 |
 | Halborn | 6 |
 | Quarkslab | 3 |
-| Code4rena | 2 |
 | Сoinspect | 2 |
+| Code4rena | 2 |
 | CoinFabrik | 2 |
 | OpenZeppelin | 2 |
 | Zellic | 2 |
@@ -118,7 +118,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4413 |
+| Lumen Loop | 4416 |
 | SCF | 3414 |
 | Stellar Expert | 393 |
 | Soroban Security | 74 |
@@ -126,21 +126,20 @@ How many data points each contributor provides across the directory:
 
 ## Needs Review
 
-16 items need attention.
+15 items need attention.
 
-**description empty** (5):
+**description empty** (4):
 - verso
 - stellar-vrf
 - rail402
-- sorted
 - yolat
 
 **SCF project missing website** (11):
 - paysapp
+- wally
 - net-sdk
 - timed-transactions-api
 - soroban-optimistic-oracle
-- wally
 - frost-implementation
 - relax
 - octo
