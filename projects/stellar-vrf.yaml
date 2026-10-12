@@ -19,7 +19,10 @@ links:
     - github.com/nibrasd/stellar-vrf
 attributes:
   category: Developer Tooling
-  tags: []
+  tags:
+    - Oracle
+    - SDK
+    - Security
   operating_region: []
   based_in: null
 images: null

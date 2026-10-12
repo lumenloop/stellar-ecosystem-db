@@ -29,7 +29,7 @@
 | linktree | 7/839 | 0.8% |
 | github | 578/839 | 68.9% |
 | category | 839/839 | 100% |
-| tags | 817/839 | 97.4% |
+| tags | 818/839 | 97.5% |
 | operating_region | 794/839 | 94.6% |
 | based_in | 744/839 | 88.7% |
 
@@ -118,7 +118,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4412 |
+| Lumen Loop | 4413 |
 | SCF | 3414 |
 | Stellar Expert | 393 |
 | Soroban Security | 74 |
@@ -140,8 +140,8 @@ How many data points each contributor provides across the directory:
 - net-sdk
 - timed-transactions-api
 - soroban-optimistic-oracle
-- frost-implementation
 - wally
+- frost-implementation
 - relax
 - octo
 - the-starship-soroban
