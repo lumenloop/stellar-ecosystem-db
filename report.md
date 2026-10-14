@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-10-13
+> Auto-generated on 2026-10-14
 
 ## Summary
 
@@ -76,11 +76,11 @@ Of **701** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 525 | 517 |
-| Active last week | 149 | 217 |
-| Active last month | 222 | 273 |
-| Active last 3 months | 271 | 326 |
-| Active last year | 367 | 408 |
+| Tracked projects | 525 | 524 |
+| Active last week | 152 | 225 |
+| Active last month | 224 | 281 |
+| Active last 3 months | 271 | 333 |
+| Active last year | 367 | 415 |
 
 ## Audit Data
 
@@ -92,13 +92,13 @@ Of **701** SCF-funded projects:
 |---------|---------:|
 | Veridise | 25 |
 | OtterSec | 10 |
-| Runtime Verification | 9 |
 | certora | 9 |
+| Runtime Verification | 9 |
 | Halborn | 6 |
 | Quarkslab | 3 |
 | CoinFabrik | 2 |
-| Сoinspect | 2 |
 | Code4rena | 2 |
+| Сoinspect | 2 |
 | OpenZeppelin | 2 |
 | Zellic | 2 |
 | Hacken | 1 |
@@ -118,8 +118,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4420 |
-| SCF | 3412 |
+| Lumen Loop | 4421 |
+| SCF | 3411 |
 | Stellar Expert | 393 |
 | Soroban Security | 74 |
 | DeFiLlama | 28 |
@@ -134,11 +134,11 @@ How many data points each contributor provides across the directory:
 - yolat
 
 **SCF project missing website** (11):
-- paysapp
-- wally
 - net-sdk
-- timed-transactions-api
+- paysapp
 - soroban-optimistic-oracle
+- wally
+- timed-transactions-api
 - frost-implementation
 - relax
 - octo
