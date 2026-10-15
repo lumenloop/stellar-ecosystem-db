@@ -96,8 +96,8 @@ Of **701** SCF-funded projects:
 | Runtime Verification | 9 |
 | Halborn | 6 |
 | Quarkslab | 3 |
-| CoinFabrik | 2 |
 | Сoinspect | 2 |
+| CoinFabrik | 2 |
 | Code4rena | 2 |
 | OpenZeppelin | 2 |
 | Zellic | 2 |
@@ -129,8 +129,8 @@ How many data points each contributor provides across the directory:
 15 items need attention.
 
 **description empty** (4):
-- verso
 - stellar-atlas
+- verso
 - stellar-vrf
 - yolat
 
