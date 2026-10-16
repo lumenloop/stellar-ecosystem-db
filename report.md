@@ -129,8 +129,8 @@ How many data points each contributor provides across the directory:
 15 items need attention.
 
 **description empty** (4):
-- verso
 - stellar-atlas
+- verso
 - stellar-vrf
 - yolat
 
