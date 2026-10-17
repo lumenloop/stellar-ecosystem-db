@@ -77,7 +77,7 @@ Of **701** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 525 | 524 |
-| Active last week | 143 | 222 |
+| Active last week | 143 | 223 |
 | Active last month | 218 | 283 |
 | Active last 3 months | 272 | 338 |
 | Active last year | 366 | 415 |
@@ -140,8 +140,8 @@ How many data points each contributor provides across the directory:
 - timed-transactions-api
 - net-sdk
 - frost-implementation
-- paysapp
 - relax
+- paysapp
 - octo
 - the-starship-soroban
 - crypto-link
