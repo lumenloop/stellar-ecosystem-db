@@ -1,7 +1,7 @@
 title: VERSO
 other_names: null
 parent: null
-description: ''
+description: VERSO is Peru's first regulated Stellar Anchor and licensed VASP, enabling PEN/USD to USDC on-ramp and off-ramp via the SDF Anchor Platform (SEP-1/10/24/38). Operating since 2022 with $24M+ in exchange volume processed, VERSO connects Peru's CCI/CCE banking network to the Stellar ecosystem under full SBS regulatory oversight.
 links:
   website:
     - versotek.io
@@ -19,9 +19,13 @@ links:
     - github.com/wildorap
 attributes:
   category: Financial Protocols
-  tags: []
-  operating_region: []
-  based_in: null
+  tags:
+    - Anchor
+    - On-Off Ramp
+    - Stablecoins
+  operating_region:
+    - Peru
+  based_in: Peru
 images: null
 scf:
   awarded_round:
