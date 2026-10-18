@@ -1,0 +1,43 @@
+title: Cosmos Pay
+other_names:
+  - CosmosPay
+parent: null
+description: Payments infrastructure and multi-platform wallet built on the Stellar network. Offers a unified API and typed SDKs (JS/TS) for payments, stablecoin settlement, anchors, embedded wallets, checkout components and payment links, reaching 130+ countries with sub-5-second finality.
+links:
+  website:
+    - cosmospay.lat
+  blog:
+    - cosmospay.lat/blog
+  x: []
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/CosmosPay/CosmosPay-Wallet
+attributes:
+  category: Applications
+  tags:
+    - Payments
+    - Cross-Border Payments
+    - Software Wallet
+    - Stablecoins
+    - SDK
+    - API
+    - Infrastructure
+    - B2B
+  operating_region:
+    - Global
+  based_in: null
+images: null
+scf:
+  awarded_round: []
+  awarded_total: null
+  submission_urls: []
+mainnet:
+  audits: []
+  tokens: []
