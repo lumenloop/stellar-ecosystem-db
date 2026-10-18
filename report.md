@@ -29,7 +29,7 @@
 | linktree | 7/840 | 0.8% |
 | github | 578/840 | 68.8% |
 | category | 840/840 | 100% |
-| tags | 820/840 | 97.6% |
+| tags | 821/840 | 97.7% |
 | operating_region | 795/840 | 94.6% |
 | based_in | 744/840 | 88.6% |
 
@@ -78,7 +78,7 @@ Of **701** SCF-funded projects:
 |--------|------:|--------:|
 | Tracked projects | 526 | 524 |
 | Active last week | 153 | 226 |
-| Active last month | 219 | 284 |
+| Active last month | 218 | 284 |
 | Active last 3 months | 273 | 338 |
 | Active last year | 367 | 415 |
 
@@ -118,7 +118,7 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4423 |
+| Lumen Loop | 4424 |
 | SCF | 3411 |
 | Stellar Expert | 393 |
 | Soroban Security | 74 |

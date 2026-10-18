@@ -19,7 +19,10 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Cross-Border Payments
+    - Remittances
+    - On-Off Ramp
   operating_region: []
   based_in: null
 images: null
