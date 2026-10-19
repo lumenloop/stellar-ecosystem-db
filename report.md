@@ -77,8 +77,8 @@ Of **701** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 526 | 524 |
-| Active last week | 150 | 228 |
-| Active last month | 217 | 283 |
+| Active last week | 150 | 227 |
+| Active last month | 216 | 283 |
 | Active last 3 months | 273 | 338 |
 | Active last year | 367 | 415 |
 
@@ -92,8 +92,8 @@ Of **701** SCF-funded projects:
 |---------|---------:|
 | Veridise | 25 |
 | OtterSec | 10 |
-| Runtime Verification | 9 |
 | certora | 9 |
+| Runtime Verification | 9 |
 | Halborn | 6 |
 | Quarkslab | 3 |
 | CoinFabrik | 2 |
@@ -118,8 +118,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4100 |
-| SCF | 3739 |
+| Lumen Loop | 4101 |
+| SCF | 3738 |
 | Stellar Expert | 393 |
 | Soroban Security | 74 |
 | DeFiLlama | 28 |
