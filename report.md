@@ -96,10 +96,10 @@ Of **701** SCF-funded projects:
 | Runtime Verification | 9 |
 | Halborn | 6 |
 | Quarkslab | 3 |
+| CoinFabrik | 2 |
 | Code4rena | 2 |
 | Zellic | 2 |
 | Сoinspect | 2 |
-| CoinFabrik | 2 |
 | OpenZeppelin | 2 |
 | Hacken | 1 |
 | Hashlock | 1 |
@@ -118,8 +118,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4102 |
-| SCF | 3737 |
+| Lumen Loop | 4426 |
+| SCF | 3413 |
 | Stellar Expert | 393 |
 | Soroban Security | 74 |
 | DeFiLlama | 28 |
