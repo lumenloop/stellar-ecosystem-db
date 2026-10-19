@@ -1,7 +1,7 @@
 title: Sorted
 other_names: null
 parent: null
-description: ''
+description: Sorted is a non-custodial mobile wallet for Android and Android Go phones, built for users in Africa and South Asia. It enables Stellar USDC send and receive, Polygon-to-Stellar USDC bridging, and local cash withdrawals via MoneyGram Ramps (SEP-10/SEP-24) — designed for low-spec devices, intermittent connectivity, and users without access to traditional banking.
 links:
   website:
     - sorted.io
@@ -19,8 +19,14 @@ links:
   github: []
 attributes:
   category: Applications
-  tags: []
-  operating_region: []
+  tags:
+    - Stablecoins
+    - Mobile
+    - Unbanked
+  operating_region:
+    - Africa
+    - South Asia
+    - Middle East
   based_in: null
 images: null
 scf:
