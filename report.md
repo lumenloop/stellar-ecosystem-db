@@ -77,7 +77,7 @@ Of **701** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 526 | 524 |
-| Active last week | 146 | 224 |
+| Active last week | 146 | 225 |
 | Active last month | 217 | 285 |
 | Active last 3 months | 274 | 338 |
 | Active last year | 367 | 415 |
@@ -128,6 +128,11 @@ How many data points each contributor provides across the directory:
 
 14 items need attention.
 
+**description empty** (3):
+- stellar-atlas
+- stellar-vrf
+- yolat
+
 **SCF project missing website** (11):
 - soroban-optimistic-oracle
 - paysapp
@@ -140,9 +145,4 @@ How many data points each contributor provides across the directory:
 - the-starship-soroban
 - crypto-link
 - sendit
-
-**description empty** (3):
-- stellar-atlas
-- stellar-vrf
-- yolat
 
