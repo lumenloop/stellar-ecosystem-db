@@ -1,0 +1,39 @@
+title: Eunomia
+other_names:
+  - PRISM
+parent: null
+description: Eunomia is a non-custodial Soroban treasury that gives an AI agent real money to spend while the contract, not the model, enforces the limits — approved payees, per-payment, rolling 24-hour and calendar-month limits, and a monthly cap per payee. The agent signs with a Leash, a capped, expiring session key the owner can revoke, and requests task budgets the owner approves with one passkey signature. Any MCP agent, Claude included, connects through eunomia-mcp and can pay x402 services under the same rules. TRY moves in and out through a SEP-6 anchor, and an optional zero-knowledge attestation proves a period's spending stayed within policy.
+links:
+  website:
+    - eunomia.finance
+  blog: []
+  x:
+    - Eunomiafi
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/eunomia-finance
+    - github.com/eunomia-finance/eunomia
+attributes:
+  category: Financial Protocols
+  tags:
+    - AI
+    - Payments
+    - Stablecoins
+    - Security
+    - Automation
+    - B2B
+    - ZK
+  operating_region:
+    - Global
+  based_in: Turkey
+images: null
+mainnet:
+  audits: []
+  tokens: []
