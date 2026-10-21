@@ -77,9 +77,9 @@ Of **701** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 526 | 524 |
-| Active last week | 136 | 221 |
-| Active last month | 216 | 285 |
-| Active last 3 months | 274 | 338 |
+| Active last week | 145 | 218 |
+| Active last month | 217 | 284 |
+| Active last 3 months | 273 | 337 |
 | Active last year | 367 | 414 |
 
 ## Audit Data
@@ -97,8 +97,8 @@ Of **701** SCF-funded projects:
 | Halborn | 6 |
 | Quarkslab | 3 |
 | CoinFabrik | 2 |
-| Code4rena | 2 |
 | Zellic | 2 |
+| Code4rena | 2 |
 | Сoinspect | 2 |
 | OpenZeppelin | 2 |
 | Hacken | 1 |
@@ -120,7 +120,7 @@ How many data points each contributor provides across the directory:
 |--------|------:|
 | Lumen Loop | 4426 |
 | SCF | 3413 |
-| Stellar Expert | 393 |
+| Stellar Expert | 394 |
 | Soroban Security | 74 |
 | DeFiLlama | 28 |
 
@@ -132,9 +132,9 @@ How many data points each contributor provides across the directory:
 - soroban-optimistic-oracle
 - paysapp
 - timed-transactions-api
-- wally
 - relax
 - frost-implementation
+- wally
 - net-sdk
 - octo
 - the-starship-soroban
