@@ -1,11 +1,11 @@
+- id: CBBM3WOKTRG7VRDZKDDZOSCQDPKFFTUIQWX5WD6UZ66XV7UFH2OSU2LM
+  label: YieldBlox DAO
+  is_pool: false
+  tags:
+    - defi
 - id: CANSYFVMIP7JVYEZQ463Y2I2VLEVNLDJJ4QNZTDBGLOOGKURPTW4A6FQ
   label: YieldBlox DAO
   is_pool: false
   tags:
     - defi
     - application
-- id: CBBM3WOKTRG7VRDZKDDZOSCQDPKFFTUIQWX5WD6UZ66XV7UFH2OSU2LM
-  label: YieldBlox DAO
-  is_pool: false
-  tags:
-    - defi
