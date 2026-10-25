@@ -97,9 +97,9 @@ Of **701** SCF-funded projects:
 | Halborn | 6 |
 | Quarkslab | 3 |
 | CoinFabrik | 2 |
+| Сoinspect | 2 |
 | Code4rena | 2 |
 | Zellic | 2 |
-| Сoinspect | 2 |
 | OpenZeppelin | 2 |
 | Hashlock | 1 |
 | Hacken | 1 |
