@@ -23,7 +23,7 @@
 | discord | 215/840 | 25.6% |
 | telegram | 151/840 | 18% |
 | youtube | 173/840 | 20.6% |
-| instagram | 132/840 | 15.7% |
+| instagram | 133/840 | 15.8% |
 | reddit | 16/840 | 1.9% |
 | tiktok | 39/840 | 4.6% |
 | linktree | 7/840 | 0.8% |
@@ -49,7 +49,7 @@ Per-project comparison of our **840** projects (incl. **133** community projects
 | blog | +254 | 0 |
 | telegram | +151 | 0 |
 | youtube | +173 | 0 |
-| instagram | +132 | 0 |
+| instagram | +133 | 0 |
 | reddit | +16 | 0 |
 | tiktok | +39 | 0 |
 | linktree | +7 | 0 |
@@ -96,9 +96,9 @@ Of **701** SCF-funded projects:
 | certora | 9 |
 | Halborn | 6 |
 | Quarkslab | 3 |
-| CoinFabrik | 2 |
-| Сoinspect | 2 |
 | Code4rena | 2 |
+| Сoinspect | 2 |
+| CoinFabrik | 2 |
 | Zellic | 2 |
 | OpenZeppelin | 2 |
 | Hashlock | 1 |
@@ -118,8 +118,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4427 |
-| SCF | 3413 |
+| Lumen Loop | 4429 |
+| SCF | 3412 |
 | Stellar Expert | 394 |
 | Soroban Security | 74 |
 | DeFiLlama | 28 |
@@ -129,8 +129,8 @@ How many data points each contributor provides across the directory:
 14 items need attention.
 
 **SCF project missing website** (11):
-- timed-transactions-api
 - frost-implementation
+- timed-transactions-api
 - paysapp
 - soroban-optimistic-oracle
 - relax
