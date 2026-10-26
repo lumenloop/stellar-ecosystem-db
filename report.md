@@ -98,9 +98,9 @@ Of **701** SCF-funded projects:
 | Quarkslab | 3 |
 | Code4rena | 2 |
 | Сoinspect | 2 |
-| CoinFabrik | 2 |
 | Zellic | 2 |
 | OpenZeppelin | 2 |
+| CoinFabrik | 2 |
 | Hashlock | 1 |
 | Hacken | 1 |
 
@@ -130,13 +130,13 @@ How many data points each contributor provides across the directory:
 
 **SCF project missing website** (11):
 - frost-implementation
-- timed-transactions-api
 - paysapp
 - soroban-optimistic-oracle
+- timed-transactions-api
+- octo
 - relax
 - wally
 - net-sdk
-- octo
 - the-starship-soroban
 - crypto-link
 - sendit
