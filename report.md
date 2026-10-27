@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-10-26
+> Auto-generated on 2026-10-27
 
 ## Summary
 
@@ -76,11 +76,11 @@ Of **701** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 526 | 524 |
-| Active last week | 148 | 230 |
-| Active last month | 218 | 279 |
-| Active last 3 months | 272 | 336 |
-| Active last year | 367 | 414 |
+| Tracked projects | 526 | 523 |
+| Active last week | 142 | 230 |
+| Active last month | 217 | 278 |
+| Active last 3 months | 272 | 335 |
+| Active last year | 367 | 413 |
 
 ## Audit Data
 
@@ -142,7 +142,7 @@ How many data points each contributor provides across the directory:
 - sendit
 
 **description empty** (3):
-- stellar-vrf
 - stellar-atlas
+- stellar-vrf
 - yolat
 
