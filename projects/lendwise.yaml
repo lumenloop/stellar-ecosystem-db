@@ -13,7 +13,8 @@ links:
   website:
     - lendwise.fi
   blog: []
-  x: []
+  x:
+    - lendwisefi
   linkedin: []
   discord: []
   telegram: []
@@ -26,7 +27,10 @@ links:
     - github.com/lendwise-fi
 attributes:
   category: Applications
-  tags: []
+  tags:
+    - Lending & Borrowing
+    - DeFi
+    - Cross-Chain
   operating_region: []
   based_in: null
 images: null
