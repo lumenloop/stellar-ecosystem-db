@@ -128,6 +128,11 @@ How many data points each contributor provides across the directory:
 
 14 items need attention.
 
+**description empty** (3):
+- stellar-vrf
+- stellar-atlas
+- yolat
+
 **SCF project missing website** (11):
 - frost-implementation
 - paysapp
@@ -140,9 +145,4 @@ How many data points each contributor provides across the directory:
 - the-starship-soroban
 - crypto-link
 - sendit
-
-**description empty** (3):
-- stellar-vrf
-- stellar-atlas
-- yolat
 
