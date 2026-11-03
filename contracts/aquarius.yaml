@@ -138,12 +138,12 @@
   is_pool: true
   tags:
     - defi
-- id: CCWNKTTMHZ4VRR3FYQT3G253MHOGRLUEVTO6YPENM7ZN65DGC345LHI6
+- id: CCX2TYR4AQTPPMTZOIMP3YIBHAYLLSTXVP47PAGTL753PCQFSKV32MIA
   label: Aquarius Pool
   is_pool: true
   tags:
     - defi
-- id: CCX2TYR4AQTPPMTZOIMP3YIBHAYLLSTXVP47PAGTL753PCQFSKV32MIA
+- id: CCWNKTTMHZ4VRR3FYQT3G253MHOGRLUEVTO6YPENM7ZN65DGC345LHI6
   label: Aquarius Pool
   is_pool: true
   tags:
@@ -188,11 +188,6 @@
   is_pool: true
   tags:
     - defi
-- id: CD34VG5WGCNZNR7K5B4JUZY4UDBCEIJP6QOWQ7YH7CVE7QSJASOLOJ7N
-  label: Aquarius Pool
-  is_pool: true
-  tags:
-    - defi
 - id: CD2O2B6PWKXDVFXMHXHQMF25C4TWOSQAENA7DNFR5G27F5CHJ7AJP5F6
   label: Aquarius Pool
   is_pool: true
@@ -204,6 +199,11 @@
   tags:
     - defi
 - id: CD2ZV2IM4AF25ZJJYLPSFVKMBXGTJF5ZEH7KV3Y5SI5SVTLYLS7G24GK
+  label: Aquarius Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CD34VG5WGCNZNR7K5B4JUZY4UDBCEIJP6QOWQ7YH7CVE7QSJASOLOJ7N
   label: Aquarius Pool
   is_pool: true
   tags:
@@ -283,22 +283,22 @@
   is_pool: true
   tags:
     - defi
-- id: CCMGGRYXB4W6UJEIUDYSWXICG6VQGVGNRFUU5MLUJAKXGVMMSSZCURB4
-  label: Aquarius Pool
-  is_pool: true
-  tags:
-    - defi
-- id: CBPDULTUWWPFOOJAVJIIZIZH5PRSIEPWHYDW23RM72SSINADWYO6DJE5
-  label: Aquarius Pool
-  is_pool: true
-  tags:
-    - defi
 - id: CBPSJKMTP5SELRPOKQECDEEMSMSWJKKIRUXKOOBHVWDTPNR76O4E7BSZ
   label: Aquarius Pool
   is_pool: true
   tags:
     - defi
 - id: CBRGFMR6QBX7ASUBO534UDGOUB2SDGRL7AAFXFYBQ4DT4RJTWQG55W2T
+  label: Aquarius Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CCMGGRYXB4W6UJEIUDYSWXICG6VQGVGNRFUU5MLUJAKXGVMMSSZCURB4
+  label: Aquarius Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CBPDULTUWWPFOOJAVJIIZIZH5PRSIEPWHYDW23RM72SSINADWYO6DJE5
   label: Aquarius Pool
   is_pool: true
   tags:
@@ -338,17 +338,12 @@
   is_pool: true
   tags:
     - defi
-- id: CBTGLCDJ2DFOZF7C73ITBACMNX2MFCT3ETJALUSYFACKQBTKIOLXXUQK
-  label: Aquarius Pool
-  is_pool: true
-  tags:
-    - defi
-- id: CAMXZXXBD7DFBLYLHUW24U4MY37X7SU5XXT5ZVVUBXRXWLAIM7INI7G2
-  label: Aquarius Pool
-  is_pool: true
-  tags:
-    - defi
 - id: CBRXOYKXPQI4EEA6KA35TUIYN5OJLNWMTIVDOMNOIL2BG5Y5LEDHUU7V
+  label: Aquarius Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CANI4O7DWL52SXP6T2NF5OCQ5A5LSV7WV5BVZPYFTAGSPAB4TTEOBLBN
   label: Aquarius Pool
   is_pool: true
   tags:
@@ -358,12 +353,17 @@
   is_pool: true
   tags:
     - defi
+- id: CBSGKBPK6CU2ZZKI4T3GRDWA2WBEQ6ISXI5MWFMAO5IKIYAHOEUODPHN
+  label: Aquarius Pool
+  is_pool: true
+  tags:
+    - defi
 - id: CBRGXAYNKSFRM7RBIYRCVMTNMAMBJ6XZO3XHR7XAQPUWV2KMF5YNS7FL
   label: Aquarius Pool
   is_pool: true
   tags:
     - defi
-- id: CBSGKBPK6CU2ZZKI4T3GRDWA2WBEQ6ISXI5MWFMAO5IKIYAHOEUODPHN
+- id: CBSJVUIJEWSNJ7GCDMRW22VDBDQAG4ESR42ECZGB6X4Y2J6C2UAR6LSY
   label: Aquarius Pool
   is_pool: true
   tags:
@@ -383,12 +383,12 @@
   is_pool: true
   tags:
     - defi
-- id: CBSJVUIJEWSNJ7GCDMRW22VDBDQAG4ESR42ECZGB6X4Y2J6C2UAR6LSY
+- id: CBTGLCDJ2DFOZF7C73ITBACMNX2MFCT3ETJALUSYFACKQBTKIOLXXUQK
   label: Aquarius Pool
   is_pool: true
   tags:
     - defi
-- id: CANI4O7DWL52SXP6T2NF5OCQ5A5LSV7WV5BVZPYFTAGSPAB4TTEOBLBN
+- id: CAMXZXXBD7DFBLYLHUW24U4MY37X7SU5XXT5ZVVUBXRXWLAIM7INI7G2
   label: Aquarius Pool
   is_pool: true
   tags:
@@ -978,12 +978,12 @@
   is_pool: true
   tags:
     - defi
-- id: CDI54BFBGPZOAX4JARDQIHKRQ6U73SAUPLQB26KUB2J7JCBK2HDCDYSB
+- id: CDJ3J3MSQIJLMZDBMXNH5MKGOFCL2TTLFSSU5SFI3PYYJDFHWEH7EB5E
   label: Aquarius Pool
   is_pool: true
   tags:
     - defi
-- id: CDJ3J3MSQIJLMZDBMXNH5MKGOFCL2TTLFSSU5SFI3PYYJDFHWEH7EB5E
+- id: CDI54BFBGPZOAX4JARDQIHKRQ6U73SAUPLQB26KUB2J7JCBK2HDCDYSB
   label: Aquarius Pool
   is_pool: true
   tags:
