@@ -77,7 +77,7 @@ Of **701** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 526 | 524 |
-| Active last week | 152 | 219 |
+| Active last week | 152 | 221 |
 | Active last month | 220 | 276 |
 | Active last 3 months | 276 | 327 |
 | Active last year | 365 | 415 |
@@ -96,8 +96,8 @@ Of **701** SCF-funded projects:
 | certora | 9 |
 | Halborn | 6 |
 | Quarkslab | 3 |
-| Сoinspect | 2 |
 | Code4rena | 2 |
+| Сoinspect | 2 |
 | Zellic | 2 |
 | OpenZeppelin | 2 |
 | CoinFabrik | 2 |
@@ -129,8 +129,8 @@ How many data points each contributor provides across the directory:
 15 items need attention.
 
 **description empty** (4):
-- kast
 - stellar-atlas
+- kast
 - stellar-vrf
 - yolat
 
