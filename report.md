@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-11-08
+> Auto-generated on 2026-11-09
 
 ## Summary
 
@@ -35,7 +35,7 @@
 
 ## Enrichment vs SCF Airtable
 
-Per-project comparison of our **841** projects (incl. **134** community projects not in SCF) against **740** in SCF Airtable:
+Per-project comparison of our **841** projects (incl. **134** community projects not in SCF) against **741** in SCF Airtable:
 
 | Field | We Added | We Modified |
 |-------|------:|------:|
@@ -77,8 +77,8 @@ Of **701** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 526 | 524 |
-| Active last week | 146 | 224 |
-| Active last month | 220 | 277 |
+| Active last week | 152 | 219 |
+| Active last month | 220 | 276 |
 | Active last 3 months | 276 | 327 |
 | Active last year | 365 | 415 |
 
