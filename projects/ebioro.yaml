@@ -6,12 +6,15 @@ links:
   website:
     - ebioro.com
   blog: []
-  x: []
-  linkedin: []
+  x:
+    - ebioroapp
+  linkedin:
+    - linkedin.com/company/ebioro
   discord: []
   telegram: []
   youtube: []
-  instagram: []
+  instagram:
+    - ebioroapp
   reddit: []
   tiktok: []
   linktree: []
