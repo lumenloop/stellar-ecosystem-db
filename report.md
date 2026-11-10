@@ -76,11 +76,11 @@ Of **701** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 526 | 523 |
-| Active last week | 143 | 224 |
-| Active last month | 220 | 277 |
-| Active last 3 months | 275 | 326 |
-| Active last year | 365 | 415 |
+| Tracked projects | 526 | 524 |
+| Active last week | 142 | 224 |
+| Active last month | 220 | 278 |
+| Active last 3 months | 275 | 327 |
+| Active last year | 365 | 416 |
 
 ## Audit Data
 
@@ -99,8 +99,8 @@ Of **701** SCF-funded projects:
 | Code4rena | 2 |
 | Сoinspect | 2 |
 | Zellic | 2 |
-| OpenZeppelin | 2 |
 | CoinFabrik | 2 |
+| OpenZeppelin | 2 |
 | Hashlock | 1 |
 | Hacken | 1 |
 
@@ -137,9 +137,9 @@ How many data points each contributor provides across the directory:
 **SCF project missing website** (11):
 - frost-implementation
 - timed-transactions-api
+- soroban-optimistic-oracle
 - paysapp
 - octo
-- soroban-optimistic-oracle
 - relax
 - wally
 - net-sdk
