@@ -1,0 +1,6 @@
+- id: CAWM7NKSYG2ITJW2MYYJWJ5ULGCJLDB6MXZIWPL3VPRG5TDVLJ66IMWR
+  label: Normal Finance | DeFindex USDC Vault
+  is_pool: false
+  tags:
+    - application
+    - defi
