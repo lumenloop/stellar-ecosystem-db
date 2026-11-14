@@ -1,0 +1,33 @@
+title: Cavos
+other_names: null
+parent: null
+description: Embedded wallet SDK for Stellar. Each user gets a classic G account inside the app, with social login and no seed phrase. Fees and XLM reserves can be sponsored. Signing happens on the user's device; hardware-isolated, non-custodial.
+links:
+  website:
+    - cavos.xyz
+  blog:
+    - cavos.xyz/blog
+  x:
+    - cavosxyz
+  linkedin: []
+  discord: []
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/cavos-labs
+attributes:
+  category: Infrastructure & Services
+  tags:
+    - Wallet Infra
+    - API
+    - DevX
+  operating_region:
+    - Global
+  based_in: Costa Rica
+mainnet:
+  audits: []
+  tokens: []
