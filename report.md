@@ -77,7 +77,7 @@ Of **701** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 526 | 524 |
-| Active last week | 148 | 223 |
+| Active last week | 148 | 222 |
 | Active last month | 220 | 279 |
 | Active last 3 months | 275 | 326 |
 | Active last year | 364 | 415 |
@@ -129,8 +129,8 @@ How many data points each contributor provides across the directory:
 15 items need attention.
 
 **description empty** (4):
-- stellar-atlas
 - kast
+- stellar-atlas
 - stellar-vrf
 - yolat
 
