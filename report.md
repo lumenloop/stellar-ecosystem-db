@@ -77,14 +77,14 @@ Of **701** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 526 | 524 |
-| Active last week | 148 | 219 |
+| Active last week | 148 | 220 |
 | Active last month | 220 | 278 |
 | Active last 3 months | 275 | 326 |
 | Active last year | 364 | 415 |
 
 ## Audit Data
 
-**56** projects audited with **74** reports.
+**56** projects audited with **81** reports.
 
 *Audit data provided by [Soroban Security](https://sorobansecurity.com).*
 
@@ -94,13 +94,14 @@ Of **701** SCF-funded projects:
 | OtterSec | 10 |
 | Runtime Verification | 9 |
 | certora | 9 |
+| OpenZeppelin | 7 |
 | Halborn | 6 |
 | Quarkslab | 3 |
 | CoinFabrik | 2 |
 | Сoinspect | 2 |
 | Zellic | 2 |
+| Oak Security | 2 |
 | Code4rena | 2 |
-| OpenZeppelin | 2 |
 | Hashlock | 1 |
 | Hacken | 1 |
 
@@ -121,7 +122,7 @@ How many data points each contributor provides across the directory:
 | Lumen Loop | 4435 |
 | SCF | 3412 |
 | Stellar Expert | 396 |
-| Soroban Security | 74 |
+| Soroban Security | 81 |
 | DeFiLlama | 28 |
 
 ## Needs Review
