@@ -43,4 +43,8 @@ mainnet:
       url: sorobansecurity.com/report/76
       date: '2026-01-30T09:26:26.235Z'
       auditor: Zellic
+    - name: Volta Soroban Smart Contract
+      url: sorobansecurity.com/report/84
+      date: '2026-10-20T03:23:44.34Z'
+      auditor: Oak Security
   tokens: []
