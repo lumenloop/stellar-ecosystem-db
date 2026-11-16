@@ -1,0 +1,74 @@
+- id: CDWOB6T7SVSMMQN5V3P2OPTBAXOP7DAZHGVW3PYTZIKHVFKN6TBSXR6A
+  label: Spiko Cash & Carry Euro (eurSPKCC)
+  is_pool: false
+  tags:
+    - issuer
+    - application
+    - defi
+- id: CDS2GCAQTNQINSCJUJIVBJXILKBWP5PU7LOBGHMP3X47QCQBFKPMTCNT
+  label: Spiko Cash & Carry (SPKCC)
+  is_pool: false
+  tags:
+    - issuer
+    - defi
+    - application
+- id: CDGSC6BA4TCAOVSFQCUEHDMOIIHYYVNYBT6YEARS4MX3ITAHUINVGQHX
+  label: Spiko Dollar (SAFO)
+  is_pool: false
+  tags:
+    - issuer
+    - defi
+    - application
+- id: CBOOCGZSVRSZFRE4U2NWR2B4RXYVJWRCBTGOUD2JPI2TDJPWMTJX7FZP
+  label: Spiko Euro (eurSAFO)
+  is_pool: false
+  tags:
+    - application
+    - defi
+    - issuer
+- id: CBGHLRSX5D5YMBPNK4ZGMUTJUHFIT7YGXGJURM5LFNZ7B6WNSXLGS26M
+  label: Spiko - Permission Manager
+  is_pool: false
+  tags:
+    - defi
+    - application
+- id: CAGYRRKPFSWKM6SJOE4QAAVYMOSHMDS5WOQ4T5A2E6XNCU7LZZKUNQKP
+  label: Spiko Pound (gbpSAFO)
+  is_pool: false
+  tags:
+    - application
+    - defi
+    - issuer
+- id: CAVZK26ERVGKGXLQGEOKPAQGIZS2YKN4BSXOYDMUY365EV66ZNSFEDBS
+  label: Spiko - Redemption Manager
+  is_pool: false
+  tags:
+    - defi
+    - application
+- id: CAJD2IBSP7VO2VYJQUYJSOGPJINTUYV7MQITINXVPTIH3CCLCUENNMW4
+  label: Spiko Swiss Franc (chfSAFO)
+  is_pool: false
+  tags:
+    - issuer
+    - defi
+    - application
+- id: CARUUX2FZNPH6DGJOEUFSIUQWYHNL5AVDV7PMVSHWL7OBYIBFC76F4TO
+  label: Spiko T-Bills Dollar
+  is_pool: false
+  tags:
+    - issuer
+    - application
+- id: CBGV2QFQBBGEQRUKUMCPO3SZOHDDYO6SCP5CH6TW7EALKVHCXTMWDDOF
+  label: Spiko T-Bills Euro (EUTBL)
+  is_pool: false
+  tags:
+    - issuer
+    - defi
+    - application
+- id: CDT3KU6TQZNOHKNOHNAFFDQZDURVC3MSTL4ML7TUTZGNOPBZCLABP4FR
+  label: Spiko T-Bills Pound (UKTBL)
+  is_pool: false
+  tags:
+    - issuer
+    - defi
+    - application
