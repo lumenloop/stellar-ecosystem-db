@@ -36,7 +36,8 @@ scf:
     - SCF Public Goods - Q4 '25
     - SCF Public Goods - Q1 '26
     - SCF Public Goods - Q3 '26
-  awarded_total: 193000
+    - SCF Public Goods - Q4 '26
+  awarded_total: 213000
   submission_urls:
     - communityfund.stellar.org/submissions/recvrlsJ7CvVR5aLv
     - communityfund.stellar.org/submissions/recp9S7xkzWbRGoNL
@@ -44,6 +45,7 @@ scf:
     - communityfund.stellar.org/submissions/recVMcWETwt1S4y8s
     - communityfund.stellar.org/submissions/recfG12GDWbAsWRUA
     - communityfund.stellar.org/submissions/recJd8jrH5KrNCFrT
+    - communityfund.stellar.org/submissions/reclofAv9jDSFcAvV
 mainnet:
   audits: []
   tokens: []

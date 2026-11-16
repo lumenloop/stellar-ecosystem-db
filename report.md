@@ -77,7 +77,7 @@ Of **701** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 526 | 524 |
-| Active last week | 153 | 220 |
+| Active last week | 152 | 220 |
 | Active last month | 218 | 277 |
 | Active last 3 months | 274 | 326 |
 | Active last year | 364 | 414 |
@@ -92,16 +92,16 @@ Of **701** SCF-funded projects:
 |---------|---------:|
 | Veridise | 25 |
 | OtterSec | 10 |
-| certora | 9 |
 | Runtime Verification | 9 |
+| certora | 9 |
 | OpenZeppelin | 7 |
 | Halborn | 6 |
 | Quarkslab | 3 |
 | CoinFabrik | 2 |
+| Code4rena | 2 |
 | Сoinspect | 2 |
 | Zellic | 2 |
 | Oak Security | 2 |
-| Code4rena | 2 |
 | Hashlock | 1 |
 | Hacken | 1 |
 
@@ -137,11 +137,11 @@ How many data points each contributor provides across the directory:
 
 **SCF project missing website** (11):
 - soroban-optimistic-oracle
-- timed-transactions-api
 - frost-implementation
+- timed-transactions-api
+- relax
 - paysapp
 - octo
-- relax
 - wally
 - net-sdk
 - the-starship-soroban
