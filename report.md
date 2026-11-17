@@ -100,8 +100,8 @@ Of **701** SCF-funded projects:
 | CoinFabrik | 2 |
 | Zellic | 2 |
 | Oak Security | 2 |
-| Сoinspect | 2 |
 | Code4rena | 2 |
+| Сoinspect | 2 |
 | Hacken | 1 |
 | Hashlock | 1 |
 
