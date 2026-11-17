@@ -1,0 +1,38 @@
+title: BLNT V3
+other_names:
+  - BLNT Trade
+parent: BLNT Protocol
+description: BLNT V3 is an independently developed, immutable lending protocol derived from Blend and deployed on Stellar. It supports permissionless lending markets, tiered backstops, BLNT emissions, and pools containing real-world and issuer-controlled assets. The V3-specific changes are awaiting independent security audits. BLNT V3 is not an official Blend release.
+links:
+  website:
+    - blnt.trade
+  blog: []
+  x:
+    - BlntProtocol
+  linkedin: []
+  discord:
+    - discord.gg/Baza8FXzzT
+  telegram: []
+  youtube: []
+  instagram: []
+  reddit: []
+  tiktok: []
+  linktree: []
+  github:
+    - github.com/BLNT-Protocol
+attributes:
+  category: Financial Protocols
+  tags:
+    - DeFi
+    - Lending & Borrowing
+    - RWA
+  operating_region:
+    - Global
+  based_in: United States
+images: null
+mainnet:
+  audits: []
+  tokens:
+    - code: BLNT
+      issuer: GAP2ACGH3O6TRFAERGM4USJ6XWU3U2BFIK224JPV6NI3CUNEEEGTBTFB
+      decimals: 7
