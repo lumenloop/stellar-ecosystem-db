@@ -100,8 +100,8 @@ Of **701** SCF-funded projects:
 | CoinFabrik | 2 |
 | Zellic | 2 |
 | Oak Security | 2 |
-| Code4rena | 2 |
 | Сoinspect | 2 |
+| Code4rena | 2 |
 | Hacken | 1 |
 | Hashlock | 1 |
 
@@ -142,8 +142,8 @@ How many data points each contributor provides across the directory:
 - frost-implementation
 - relax
 - paysapp
-- wally
 - net-sdk
+- wally
 - the-starship-soroban
 - crypto-link
 - sendit
