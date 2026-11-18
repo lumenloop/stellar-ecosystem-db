@@ -140,8 +140,8 @@ How many data points each contributor provides across the directory:
 - timed-transactions-api
 - octo
 - frost-implementation
-- relax
 - paysapp
+- relax
 - net-sdk
 - wally
 - the-starship-soroban
