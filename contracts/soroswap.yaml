@@ -23,16 +23,6 @@
   is_pool: true
   tags:
     - defi
-- id: CDJ6T53MZYE5AYD3UMVJIV5EP5B2JJALUDN6TPM5DE5BB23YAS75AE32
-  label: SoroSwap Pool
-  is_pool: true
-  tags:
-    - defi
-- id: CAZPU5HGCUBXFCMSUIYM2TW6KPDALHOVQN4UBTLQU6EH637J3UADSISO
-  label: SoroSwap Pool
-  is_pool: true
-  tags:
-    - defi
 - id: CA4QHPBZIRW52JIDTBLVB2TYC76FXZCU5KN5XIDCLHRUNHY2FLRYUNFO
   label: SoroSwap Pool
   is_pool: true
@@ -48,7 +38,17 @@
   is_pool: true
   tags:
     - defi
-- id: CB63RYTOXPVHXJAM7BGN7AUKFGHUCT5KVCK4H2BV4CHPEWIV4J3WDY3W
+- id: CDJ6T53MZYE5AYD3UMVJIV5EP5B2JJALUDN6TPM5DE5BB23YAS75AE32
+  label: SoroSwap Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CDQZ5GGV5GHWSJXU2HF5SRDQ2R7ITVQCD6JJUBZ5MUOBRN4ZWGITWMHG
+  label: SoroSwap Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CDXADLBNIQK5STJVEBOK2CMJPCN6EUUZ3MYPUOMXQ5VBNREGFEIF3PT5
   label: SoroSwap Pool
   is_pool: true
   tags:
@@ -63,11 +63,6 @@
   is_pool: true
   tags:
     - defi
-- id: CDDEKHF7HRD3JSTIK2BQ4IHJQI64V3SO3HPR2DZBP3OBDBQBKOJNNQU7
-  label: SoroSwap Pool
-  is_pool: true
-  tags:
-    - defi
 - id: CCYPLDHUEYWJEOIZJTXUH56NLIQLKYGR5H2BEFQMBYG5IC3G52QF4WVD
   label: SoroSwap Pool
   is_pool: true
@@ -78,12 +73,7 @@
   is_pool: true
   tags:
     - defi
-- id: CCXOKQBBNRJ7YKY4Y6HTXAU5ZLV7PKENA7ZT74UAAXZ6XUEE22YQGBCS
-  label: SoroSwap Pool
-  is_pool: true
-  tags:
-    - defi
-- id: CDXADLBNIQK5STJVEBOK2CMJPCN6EUUZ3MYPUOMXQ5VBNREGFEIF3PT5
+- id: CAZPU5HGCUBXFCMSUIYM2TW6KPDALHOVQN4UBTLQU6EH637J3UADSISO
   label: SoroSwap Pool
   is_pool: true
   tags:
@@ -93,7 +83,17 @@
   is_pool: true
   tags:
     - defi
+- id: CCXOKQBBNRJ7YKY4Y6HTXAU5ZLV7PKENA7ZT74UAAXZ6XUEE22YQGBCS
+  label: SoroSwap Pool
+  is_pool: true
+  tags:
+    - defi
 - id: CCSJOTOGCEBGAXBJKLG3ETD644XI264U54N54W74K4TYUFAKPNBQ6VDI
+  label: SoroSwap Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CD3XW7RGZIQMSVCTLK2NOFAGPTCBKXAVXIXN6QAMEPTJRY45325BZT67
   label: SoroSwap Pool
   is_pool: true
   tags:
@@ -104,11 +104,6 @@
   tags:
     - defi
 - id: CA53URIS7E2LIWASEH7IACBU6FB3EBUYPNW5IRKZBHALRNXLZ3DE7XTP
-  label: SoroSwap Pool
-  is_pool: true
-  tags:
-    - defi
-- id: CDRS7NJPAX2HLYNENMUH3USUV6LP6KYSLZZ4ULY27RQLKIVC5DGLEVKI
   label: SoroSwap Pool
   is_pool: true
   tags:
@@ -148,6 +143,11 @@
   is_pool: true
   tags:
     - defi
+- id: CDLJHWJZS3KZDIFLGEFTXUOULRAZ3Z437JTEZLGHMUZEX4DFBFYWXRFR
+  label: SoroSwap Pool
+  is_pool: true
+  tags:
+    - defi
 - id: CC7CDFY2VGDODJ7WPO3JIK2MXLOAXL4LRQCC43UJDBAIJ4SVFO3HNPOC
   label: SoroSwap Pool
   is_pool: true
@@ -168,11 +168,6 @@
   is_pool: true
   tags:
     - defi
-- id: CB4UVMNV25WS24YN3RCFK2DYQXHAZWAWT7LLB2NLTRXTVTHMJ52YHNGS
-  label: SoroSwap Pool
-  is_pool: true
-  tags:
-    - defi
 - id: CDXTN5K3GD7O5WTWCNM64FVLKBPVTVQ5Q4ATAKSPIJLCGD7AHZ3GJBFX
   label: SoroSwap Pool
   is_pool: true
@@ -188,17 +183,17 @@
   is_pool: true
   tags:
     - defi
-- id: CDQJRR5OBGDZCCRLKNEJ262FL3UDGRQ3NX3A22YXITOUAM5JUDM4OUBH
+- id: CB4UVMNV25WS24YN3RCFK2DYQXHAZWAWT7LLB2NLTRXTVTHMJ52YHNGS
   label: SoroSwap Pool
   is_pool: true
   tags:
     - defi
-- id: CD3XW7RGZIQMSVCTLK2NOFAGPTCBKXAVXIXN6QAMEPTJRY45325BZT67
+- id: CAF65BIHBIHC44QPWIFZRL46BDDH4FN3VSRBB2DZJFPWQRAOSRPKRRQZ
   label: SoroSwap Pool
   is_pool: true
   tags:
     - defi
-- id: CDN3LLHWKQKSKABVUGRB5TARVRSCM7H34SWUQ4AF53PS3QO66FMZACYB
+- id: CBR6VXMQDUR23OPJK2O2KAGH6UIMPXQ4W4GICY4UHEO5MDWD52DQZLBH
   label: SoroSwap Pool
   is_pool: true
   tags:
@@ -208,12 +203,27 @@
   is_pool: true
   tags:
     - defi
+- id: CB63RYTOXPVHXJAM7BGN7AUKFGHUCT5KVCK4H2BV4CHPEWIV4J3WDY3W
+  label: SoroSwap Pool
+  is_pool: true
+  tags:
+    - defi
 - id: CCPZ3DPINLAJZ7RLMVKZY77FZDTN3DXNSLF5TYC5CUYGGJ35OF5KJ47U
   label: SoroSwap Pool
   is_pool: true
   tags:
     - defi
-- id: CBR6VXMQDUR23OPJK2O2KAGH6UIMPXQ4W4GICY4UHEO5MDWD52DQZLBH
+- id: CAEYKKSVC4X2I5VFDX2Y4J7POLCV4CXVVQ6WJDG2CN5HJ5446ODJ2WSP
+  label: SoroSwap Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CDIXSYDR7S5OLT56JM7G5Y5LHH6NEFINZOE2YG2TJEXHHYWKLV3FDCCU
+  label: SoroSwap Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CDRS7NJPAX2HLYNENMUH3USUV6LP6KYSLZZ4ULY27RQLKIVC5DGLEVKI
   label: SoroSwap Pool
   is_pool: true
   tags:
@@ -228,32 +238,17 @@
   is_pool: true
   tags:
     - defi
-- id: CAF65BIHBIHC44QPWIFZRL46BDDH4FN3VSRBB2DZJFPWQRAOSRPKRRQZ
-  label: SoroSwap Pool
-  is_pool: true
-  tags:
-    - defi
-- id: CAEYKKSVC4X2I5VFDX2Y4J7POLCV4CXVVQ6WJDG2CN5HJ5446ODJ2WSP
-  label: SoroSwap Pool
-  is_pool: true
-  tags:
-    - defi
-- id: CDGLVQDF2QUD6P4XJXBATP3HT2MSBEV3NH246ZDQPP6JPNPFAYO44P5E
-  label: SoroSwap Pool
-  is_pool: true
-  tags:
-    - defi
-- id: CDIXSYDR7S5OLT56JM7G5Y5LHH6NEFINZOE2YG2TJEXHHYWKLV3FDCCU
-  label: SoroSwap Pool
-  is_pool: true
-  tags:
-    - defi
 - id: CCQWSCDRVVF7UMMZ7JO6CDNE4BFL4A2WNNHQWORJ7T46EJFU32UP7H3Q
   label: SoroSwap Pool
   is_pool: true
   tags:
     - defi
 - id: CD23OGI7U4IXNG5X5XDBI3536KL7KRA7P2HVV25DZTN2M4RDSGD26CGZ
+  label: SoroSwap Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CCRCDZFUKKJLFIK22FHG77VEWWY2AWZFACFI5IZY465ZWALZPP765N2G
   label: SoroSwap Pool
   is_pool: true
   tags:
@@ -273,11 +268,6 @@
   is_pool: true
   tags:
     - defi
-- id: CCRCDZFUKKJLFIK22FHG77VEWWY2AWZFACFI5IZY465ZWALZPP765N2G
-  label: SoroSwap Pool
-  is_pool: true
-  tags:
-    - defi
 - id: CCJWM4NAP3WGOSX6SHM6GTEUDYWAK7BQQVOQWL36AXGL5XUF3Z2FOJUJ
   label: SoroSwap Pool
   is_pool: true
@@ -288,17 +278,22 @@
   is_pool: true
   tags:
     - defi
-- id: CBKG7Y3LSLTSK76LCKM52EQP3I7GMGL2VOR6S46ZEJZW62WFPAKP4NIG
-  label: SoroSwap Pool
-  is_pool: true
-  tags:
-    - defi
 - id: CANWE5SKHS37QAOXVF4DEKXOZBWXYUOYJFLKLWTV72BZSSSKEZ44NUMY
   label: SoroSwap Pool
   is_pool: true
   tags:
     - defi
+- id: CBKG7Y3LSLTSK76LCKM52EQP3I7GMGL2VOR6S46ZEJZW62WFPAKP4NIG
+  label: SoroSwap Pool
+  is_pool: true
+  tags:
+    - defi
 - id: CBGBTY2GO37ZGZH6HQ3ZXT6YKGJFQOOMKRENTZ6H3R55GM27BFI2U5WJ
+  label: SoroSwap Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CA2TZIB56KYKD46F7IFBF6XPO5TDNK6N2U6BRTGZ5AF4WUSBN6BKZMGF
   label: SoroSwap Pool
   is_pool: true
   tags:
@@ -313,12 +308,12 @@
   is_pool: true
   tags:
     - defi
-- id: CA2TZIB56KYKD46F7IFBF6XPO5TDNK6N2U6BRTGZ5AF4WUSBN6BKZMGF
+- id: CAQJUHO6KIBTEDT53DKDPHFMQ32KDWU5MDCAZE2MXT4ECBMTDQQF5FGB
   label: SoroSwap Pool
   is_pool: true
   tags:
     - defi
-- id: CAQJUHO6KIBTEDT53DKDPHFMQ32KDWU5MDCAZE2MXT4ECBMTDQQF5FGB
+- id: CDOS7DHTHUNENP6X32SFDN76JAWTU7IFSEDBJEJPDWZ4PQCSTJFUSZ56
   label: SoroSwap Pool
   is_pool: true
   tags:
@@ -328,17 +323,17 @@
   is_pool: true
   tags:
     - defi
+- id: CAYBFXTNCRG7FIAXTAAXSGFNMCH3JV7XRNEISWO66KUPE5TKKSE4MN4S
+  label: SoroSwap Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CDN3LLHWKQKSKABVUGRB5TARVRSCM7H34SWUQ4AF53PS3QO66FMZACYB
+  label: SoroSwap Pool
+  is_pool: true
+  tags:
+    - defi
 - id: CBM3W4ZWI6L42FP6ORQXLCWR23CF7FNEOHK5KHZPKVTM4JKSFG3667V4
-  label: SoroSwap Pool
-  is_pool: true
-  tags:
-    - defi
-- id: CDQZ5GGV5GHWSJXU2HF5SRDQ2R7ITVQCD6JJUBZ5MUOBRN4ZWGITWMHG
-  label: SoroSwap Pool
-  is_pool: true
-  tags:
-    - defi
-- id: CDOS7DHTHUNENP6X32SFDN76JAWTU7IFSEDBJEJPDWZ4PQCSTJFUSZ56
   label: SoroSwap Pool
   is_pool: true
   tags:
@@ -353,32 +348,12 @@
   is_pool: true
   tags:
     - defi
-- id: CBH4R4A7CU3NQGD3FM25LQ2Y2OB7LWEXQ4EKAXQRFMHCW3FQYX6S6T4D
-  label: SoroSwap Pool
-  is_pool: true
-  tags:
-    - defi
-- id: CCEPISHHBWHON4ZP7ZO5QOMWNFNA4M76V6TLCMF3WGRPDLYKVBFZDUO4
-  label: SoroSwap Pool
-  is_pool: true
-  tags:
-    - defi
-- id: CAYBFXTNCRG7FIAXTAAXSGFNMCH3JV7XRNEISWO66KUPE5TKKSE4MN4S
-  label: SoroSwap Pool
-  is_pool: true
-  tags:
-    - defi
-- id: CAM7DY53G63XA4AJRS24Z6VFYAFSSF76C3RZ45BE5YU3FQS5255OOABP
-  label: SoroSwap Pool
-  is_pool: true
-  tags:
-    - defi
-- id: CCH3CJZWG6UMW522ESP3UHL4DCZLNXZLUHKYG5GCGNG5HXRL4A6O4A23
-  label: SoroSwap Pool
-  is_pool: true
-  tags:
-    - defi
 - id: CAYHG44QUYSMQOXLZUMAI5VC7YHU7F4RQJ4NVGX4IY7OT77KPRU5RFIP
+  label: SoroSwap Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CBH4R4A7CU3NQGD3FM25LQ2Y2OB7LWEXQ4EKAXQRFMHCW3FQYX6S6T4D
   label: SoroSwap Pool
   is_pool: true
   tags:
@@ -388,7 +363,12 @@
   is_pool: true
   tags:
     - defi
-- id: CDLJHWJZS3KZDIFLGEFTXUOULRAZ3Z437JTEZLGHMUZEX4DFBFYWXRFR
+- id: CCEPISHHBWHON4ZP7ZO5QOMWNFNA4M76V6TLCMF3WGRPDLYKVBFZDUO4
+  label: SoroSwap Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CDGLVQDF2QUD6P4XJXBATP3HT2MSBEV3NH246ZDQPP6JPNPFAYO44P5E
   label: SoroSwap Pool
   is_pool: true
   tags:
@@ -398,7 +378,12 @@
   is_pool: true
   tags:
     - defi
-- id: CAKST7SVAVUZPYCDJ7QIUFLHHDAZV6HOY74F3PSVN5EKBMAGEZDR5D3I
+- id: CAMNFZDPKCZ4GX44N2QF7F5TJJU5WMW4IKRW3JGMMNYRHAP7JZ35ERRB
+  label: SoroSwap Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CCH3CJZWG6UMW522ESP3UHL4DCZLNXZLUHKYG5GCGNG5HXRL4A6O4A23
   label: SoroSwap Pool
   is_pool: true
   tags:
@@ -408,7 +393,22 @@
   is_pool: true
   tags:
     - defi
-- id: CAMNFZDPKCZ4GX44N2QF7F5TJJU5WMW4IKRW3JGMMNYRHAP7JZ35ERRB
+- id: CAM7DY53G63XA4AJRS24Z6VFYAFSSF76C3RZ45BE5YU3FQS5255OOABP
+  label: SoroSwap Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CDDEKHF7HRD3JSTIK2BQ4IHJQI64V3SO3HPR2DZBP3OBDBQBKOJNNQU7
+  label: SoroSwap Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CAKST7SVAVUZPYCDJ7QIUFLHHDAZV6HOY74F3PSVN5EKBMAGEZDR5D3I
+  label: SoroSwap Pool
+  is_pool: true
+  tags:
+    - defi
+- id: CDQJRR5OBGDZCCRLKNEJ262FL3UDGRQ3NX3A22YXITOUAM5JUDM4OUBH
   label: SoroSwap Pool
   is_pool: true
   tags:
