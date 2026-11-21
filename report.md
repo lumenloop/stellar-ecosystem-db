@@ -97,11 +97,11 @@ Of **701** SCF-funded projects:
 | OpenZeppelin | 7 |
 | Halborn | 6 |
 | Quarkslab | 3 |
+| Сoinspect | 2 |
 | Zellic | 2 |
 | Oak Security | 2 |
 | Code4rena | 2 |
 | CoinFabrik | 2 |
-| Сoinspect | 2 |
 | Hacken | 1 |
 | Hashlock | 1 |
 
@@ -129,6 +129,12 @@ How many data points each contributor provides across the directory:
 
 15 items need attention.
 
+**description empty** (4):
+- kast
+- stellar-atlas
+- stellar-vrf
+- yolat
+
 **SCF project missing website** (11):
 - timed-transactions-api
 - paysapp
@@ -141,10 +147,4 @@ How many data points each contributor provides across the directory:
 - the-starship-soroban
 - crypto-link
 - sendit
-
-**description empty** (4):
-- kast
-- stellar-atlas
-- stellar-vrf
-- yolat
 
