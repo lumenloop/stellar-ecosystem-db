@@ -136,12 +136,12 @@ How many data points each contributor provides across the directory:
 - yolat
 
 **SCF project missing website** (11):
+- octo
 - timed-transactions-api
 - paysapp
+- relax
 - frost-implementation
 - soroban-optimistic-oracle
-- octo
-- relax
 - net-sdk
 - wally
 - the-starship-soroban
