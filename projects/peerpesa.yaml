@@ -6,7 +6,8 @@ links:
   website:
     - peerpesa.co
   blog: []
-  x: []
+  x:
+    - peer_pesa
   linkedin:
     - linkedin.com/company/peerpesa
   discord:
@@ -21,8 +22,7 @@ links:
   tiktok:
     - peerpesa
   linktree: []
-  github:
-    - github.com/peerpesa-dapp/peerpesa-web3
+  github: []
 attributes:
   category: Applications
   tags:

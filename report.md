@@ -1,6 +1,6 @@
 # Stellar Ecosystem Data Report
 
-> Auto-generated on 2026-11-20
+> Auto-generated on 2026-11-21
 
 ## Summary
 
@@ -27,7 +27,7 @@
 | reddit | 16/841 | 1.9% |
 | tiktok | 39/841 | 4.6% |
 | linktree | 7/841 | 0.8% |
-| github | 578/841 | 68.7% |
+| github | 577/841 | 68.6% |
 | category | 840/841 | 99.9% |
 | tags | 823/841 | 97.9% |
 | operating_region | 796/841 | 94.6% |
@@ -41,7 +41,7 @@ Per-project comparison of our **841** projects (incl. **134** community projects
 |-------|------:|------:|
 | description | +209 | 628 |
 | website | +217 | 612 |
-| github | +203 | 375 |
+| github | +203 | 374 |
 | x | +288 | 293 |
 | linkedin | +201 | 207 |
 | discord | +105 | 110 |
@@ -66,7 +66,7 @@ Of **701** SCF-funded projects:
 | awarded_round | 701/701 | 100% |
 | submission_urls | 701/701 | 100% |
 | website | 690/701 | 98.4% |
-| github | 516/701 | 73.6% |
+| github | 515/701 | 73.5% |
 
 *Gaps are mostly early-round projects (SCF #1-4) that predate the submissions tracking system, so per-submission budget and round data is unavailable.*
 
@@ -76,11 +76,11 @@ Of **701** SCF-funded projects:
 
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
-| Tracked projects | 526 | 524 |
-| Active last week | 143 | 218 |
-| Active last month | 216 | 279 |
-| Active last 3 months | 274 | 324 |
-| Active last year | 364 | 413 |
+| Tracked projects | 525 | 524 |
+| Active last week | 140 | 216 |
+| Active last month | 215 | 279 |
+| Active last 3 months | 275 | 324 |
+| Active last year | 365 | 413 |
 
 ## Audit Data
 
@@ -97,10 +97,10 @@ Of **701** SCF-funded projects:
 | OpenZeppelin | 7 |
 | Halborn | 6 |
 | Quarkslab | 3 |
-| Code4rena | 2 |
-| CoinFabrik | 2 |
 | Zellic | 2 |
 | Oak Security | 2 |
+| Code4rena | 2 |
+| CoinFabrik | 2 |
 | Сoinspect | 2 |
 | Hacken | 1 |
 | Hashlock | 1 |
@@ -119,8 +119,8 @@ How many data points each contributor provides across the directory:
 
 | Source | Contributions |
 |--------|------:|
-| Lumen Loop | 4436 |
-| SCF | 3411 |
+| Lumen Loop | 4437 |
+| SCF | 3410 |
 | Stellar Expert | 407 |
 | Soroban Security | 81 |
 | DeFiLlama | 28 |
@@ -129,22 +129,22 @@ How many data points each contributor provides across the directory:
 
 15 items need attention.
 
-**description empty** (4):
-- kast
-- stellar-atlas
-- stellar-vrf
-- yolat
-
 **SCF project missing website** (11):
+- timed-transactions-api
+- paysapp
 - frost-implementation
 - soroban-optimistic-oracle
-- timed-transactions-api
 - octo
-- paysapp
 - relax
 - net-sdk
 - wally
 - the-starship-soroban
 - crypto-link
 - sendit
+
+**description empty** (4):
+- kast
+- stellar-atlas
+- stellar-vrf
+- yolat
 
