@@ -5,13 +5,14 @@ parent: null
 description: Cede Labs streamlines liquidity flow between Centralized Exchanges (CEX) and Decentralized Finance, offering seamless connectivity with over 15 CEX APIs for asset management since 2021.
 links:
   website:
-    - cede.store
+    - sdk.cede.store
   blog: []
   x:
     - cedehub
   linkedin:
     - linkedin.com/company/cede-labs
-  discord: []
+  discord:
+    - discord.gg/frygWw8S2v
   telegram:
     - t.me/cede_hub_chat
   youtube: []
@@ -20,7 +21,6 @@ links:
   tiktok: []
   linktree: []
   github:
-    - github.com/cedelabs/sdk-examples
     - github.com/cedelabs
 attributes:
   category: Developer Tooling
