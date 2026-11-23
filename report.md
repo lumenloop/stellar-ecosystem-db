@@ -77,7 +77,7 @@ Of **701** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 525 | 524 |
-| Active last week | 148 | 214 |
+| Active last week | 148 | 215 |
 | Active last month | 212 | 273 |
 | Active last 3 months | 274 | 324 |
 | Active last year | 365 | 413 |
@@ -92,16 +92,16 @@ Of **701** SCF-funded projects:
 |---------|---------:|
 | Veridise | 25 |
 | OtterSec | 10 |
-| Runtime Verification | 9 |
 | certora | 9 |
+| Runtime Verification | 9 |
 | OpenZeppelin | 7 |
 | Halborn | 6 |
 | Quarkslab | 3 |
 | Code4rena | 2 |
+| CoinFabrik | 2 |
 | Сoinspect | 2 |
 | Zellic | 2 |
 | Oak Security | 2 |
-| CoinFabrik | 2 |
 | Hacken | 1 |
 | Hashlock | 1 |
 
@@ -143,8 +143,8 @@ How many data points each contributor provides across the directory:
 - sendit
 
 **description empty** (4):
-- kast
 - stellar-atlas
+- kast
 - stellar-vrf
 - yolat
 
