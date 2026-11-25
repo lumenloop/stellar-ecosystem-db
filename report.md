@@ -77,10 +77,10 @@ Of **701** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 525 | 524 |
-| Active last week | 149 | 202 |
-| Active last month | 212 | 275 |
-| Active last 3 months | 273 | 323 |
-| Active last year | 365 | 413 |
+| Active last week | 147 | 195 |
+| Active last month | 211 | 274 |
+| Active last 3 months | 273 | 322 |
+| Active last year | 365 | 411 |
 
 ## Audit Data
 
@@ -99,9 +99,9 @@ Of **701** SCF-funded projects:
 | Quarkslab | 3 |
 | Zellic | 2 |
 | Oak Security | 2 |
+| Сoinspect | 2 |
 | CoinFabrik | 2 |
 | Code4rena | 2 |
-| Сoinspect | 2 |
 | Hacken | 1 |
 | Hashlock | 1 |
 
@@ -131,9 +131,9 @@ How many data points each contributor provides across the directory:
 
 **SCF project missing website** (11):
 - soroban-optimistic-oracle
+- relax
 - paysapp
 - timed-transactions-api
-- relax
 - octo
 - frost-implementation
 - net-sdk
