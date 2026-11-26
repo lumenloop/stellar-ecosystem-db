@@ -77,10 +77,10 @@ Of **701** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 525 | 524 |
-| Active last week | 147 | 185 |
-| Active last month | 210 | 274 |
-| Active last 3 months | 272 | 321 |
-| Active last year | 365 | 411 |
+| Active last week | 151 | 180 |
+| Active last month | 211 | 273 |
+| Active last 3 months | 269 | 320 |
+| Active last year | 364 | 411 |
 
 ## Audit Data
 
@@ -132,9 +132,9 @@ How many data points each contributor provides across the directory:
 **SCF project missing website** (11):
 - soroban-optimistic-oracle
 - relax
-- paysapp
 - timed-transactions-api
 - octo
+- paysapp
 - frost-implementation
 - net-sdk
 - wally
