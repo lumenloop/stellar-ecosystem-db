@@ -77,7 +77,7 @@ Of **701** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 525 | 524 |
-| Active last week | 145 | 173 |
+| Active last week | 145 | 172 |
 | Active last month | 211 | 273 |
 | Active last 3 months | 269 | 320 |
 | Active last year | 364 | 411 |
