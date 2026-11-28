@@ -77,7 +77,7 @@ Of **701** SCF-funded projects:
 | Period | GitHub | Twitter |
 |--------|------:|--------:|
 | Tracked projects | 525 | 524 |
-| Active last week | 139 | 126 |
+| Active last week | 139 | 125 |
 | Active last month | 208 | 269 |
 | Active last 3 months | 269 | 319 |
 | Active last year | 364 | 410 |
@@ -97,9 +97,9 @@ Of **701** SCF-funded projects:
 | OpenZeppelin | 7 |
 | Halborn | 6 |
 | Quarkslab | 3 |
+| Сoinspect | 2 |
 | Zellic | 2 |
 | Oak Security | 2 |
-| Сoinspect | 2 |
 | CoinFabrik | 2 |
 | Code4rena | 2 |
 | Hacken | 1 |
